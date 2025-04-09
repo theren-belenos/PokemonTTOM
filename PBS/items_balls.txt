@@ -1,0 +1,247 @@
+#-------------------------------
+[MASTERBALL]
+Name = Master Ball
+NamePlural = Master Balls
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+#-------------------------------
+[ULTRABALL]
+Name = Ultra Ball
+NamePlural = Ultra Balls
+Pocket = 3
+Price = 800
+SellPrice = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
+#-------------------------------
+[GREATBALL]
+Name = Great Ball
+NamePlural = Great Balls
+Pocket = 3
+Price = 600
+SellPrice = 150
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
+#-------------------------------
+[POKEBALL]
+Name = Poké Ball
+NamePlural = Poké Balls
+Pocket = 3
+Price = 200
+SellPrice = 50
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+#-------------------------------
+[SAFARIBALL]
+Name = Safari Ball
+NamePlural = Safari Balls
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
+#-------------------------------
+[SPORTBALL]
+Name = Sport Ball
+NamePlural = Sport Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A special Poké Ball for the Bug-Catching Contest.
+#-------------------------------
+[NETBALL]
+Name = Net Ball
+NamePlural = Net Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
+#-------------------------------
+[DIVEBALL]
+Name = Dive Ball
+NamePlural = Dive Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
+#-------------------------------
+[NESTBALL]
+Name = Nest Ball
+NamePlural = Nest Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
+#-------------------------------
+[REPEATBALL]
+Name = Repeat Ball
+NamePlural = Repeat Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
+#-------------------------------
+[TIMERBALL]
+Name = Timer Ball
+NamePlural = Timer Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Ball that becomes progressively better the more turns there are in a battle.
+#-------------------------------
+[LUXURYBALL]
+Name = Luxury Ball
+NamePlural = Luxury Balls
+Pocket = 3
+Price = 3000
+SellPrice = 750
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
+#-------------------------------
+[PREMIERBALL]
+Name = Premier Ball
+NamePlural = Premier Balls
+Pocket = 3
+Price = 200
+SellPrice = 5
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+#-------------------------------
+[DUSKBALL]
+Name = Dusk Ball
+NamePlural = Dusk Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.
+#-------------------------------
+[HEALBALL]
+Name = Heal Ball
+NamePlural = Heal Balls
+Pocket = 3
+Price = 300
+SellPrice = 75
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
+#-------------------------------
+[QUICKBALL]
+Name = Quick Ball
+NamePlural = Quick Balls
+Pocket = 3
+Price = 1000
+SellPrice = 250
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter.
+#-------------------------------
+[CHERISHBALL]
+Name = Cherish Ball
+NamePlural = Cherish Balls
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
+#-------------------------------
+[FASTBALL]
+Name = Fast Ball
+NamePlural = Fast Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball that makes it easier to catch fast Pokémon.
+#-------------------------------
+[LEVELBALL]
+Name = Level Ball
+NamePlural = Level Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball for catching Pokémon that are a lower level than your own.
+#-------------------------------
+[LUREBALL]
+Name = Lure Ball
+NamePlural = Lure Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball for catching Pokémon hooked by a Rod when fishing.
+#-------------------------------
+[HEAVYBALL]
+Name = Heavy Ball
+NamePlural = Heavy Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball for catching very heavy Pokémon.
+#-------------------------------
+[LOVEBALL]
+Name = Love Ball
+NamePlural = Love Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
+#-------------------------------
+[FRIENDBALL]
+Name = Friend Ball
+NamePlural = Friend Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball that makes caught Pokémon more friendly.
+#-------------------------------
+[MOONBALL]
+Name = Moon Ball
+NamePlural = Moon Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A Poké Ball for catching Pokémon that evolve using the Moon Stone.
+#-------------------------------
+[DREAMBALL]
+Name = Dream Ball
+NamePlural = Dream Balls
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.
+#-------------------------------
+[BEASTBALL]
+Name = Beast Ball
+NamePlural = Beast Balls
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.

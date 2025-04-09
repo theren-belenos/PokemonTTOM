@@ -1,0 +1,5178 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[002] # Route1 - south
+Land,15
+    20,RATTATA,2,4
+	20,BIDOOF,2,4
+	20,ODDISH,2,4
+	20,PURRLOIN,2,4
+	10,VULPIX,2,4
+	10,FLITTLE,2,4
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[038] # Route1 - center
+Land,15
+    20,RATTATA,3,4
+	20,BIDOOF,3,4
+	20,ODDISH,3,4
+	20,PURRLOIN,3,4
+	10,VULPIX,3,4
+	10,FLITTLE,3,4
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[039] # Route1 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[040]   # Route 1- north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[003]   # Route 2 - north
+Land,15
+    30,SUNKERN,4,6
+	10,STANTLER,4,6
+	20,LITLEO,4,6
+	20,GLAMEOW,4,6
+	10,GRANBULL,4,6
+	20,AIPOM,4,6
+	10,CLOBBOPUS,4,6
+OldRod
+	60,LOTAD,4,6
+	40,PSYDUCK,4,6
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[005]   # Route 2 - west
+Land,15
+    30,SUNKERN,4,6
+	10,STANTLER,4,6
+	20,LITLEO,4,6
+	20,GLAMEOW,4,6
+	10,GRANBULL,4,6
+	20,AIPOM,4,6
+	10,CLOBBOPUS,4,6
+OldRod
+	60,LOTAD,4,6
+	40,PSYDUCK,4,6
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[006]   # Route 2 - center north
+Land,15
+    30,SUNKERN,4,7
+	10,STANTLER,4,7
+	20,LITLEO,4,7
+	20,GLAMEOW,4,7
+	10,GRANBULL,4,7
+	20,AIPOM,4,7
+	10,CLOBBOPUS,4,7
+OldRod
+	60,LOTAD,4,7
+	40,PSYDUCK,4,7
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[007]   # Route 2 - east
+Land,15
+    30,SUNKERN,3,6
+	10,STANTLER,3,6
+	20,LITLEO,3,6
+	20,GLAMEOW,3,6
+	10,GRANBULL,3,6
+	20,AIPOM,3,6
+	10,CLOBBOPUS,3,6
+OldRod
+	60,LOTAD,3,6
+	40,PSYDUCK,3,6
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[009]   # Route 2 - center south
+Land,15
+    30,SUNKERN,5,7
+	10,STANTLER,5,7
+	20,LITLEO,5,7
+	20,GLAMEOW,5,7
+	10,GRANBULL,5,7
+	20,AIPOM,5,7
+	10,CLOBBOPUS,5,7
+OldRod
+	60,LOTAD,5,7
+	40,PSYDUCK,5,7
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[010]   # Route 2 - south
+Land,15
+    30,SUNKERN,5,8
+	10,STANTLER,5,8
+	20,LITLEO,5,8
+	20,GLAMEOW,5,8
+	10,GRANBULL,5,8
+	20,AIPOM,5,8
+	10,CLOBBOPUS,5,8
+OldRod
+	60,LOTAD,5,8
+	40,PSYDUCK,5,8
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[232]   # Route 2 - near daycare
+Land,15
+    30,SUNKERN,5,7
+	10,STANTLER,5,7
+	20,LITLEO,5,7
+	20,GLAMEOW,5,7
+	10,GRANBULL,5,7
+	20,AIPOM,5,7
+	10,CLOBBOPUS,5,7
+OldRod
+	60,LOTAD,5,7
+	40,PSYDUCK,5,7
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35
+#-------------------------------
+[014]   # Route 3 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[015]   # Route 3 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[016]   # Route 4 - far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[017]   # Route 4 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[018]   # Route 4 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[019]   # Route 4 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[020]   # Route 4 - far west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[021]   # Route 5
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[023]   # Route 6 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[332]   # Route 6 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[025]   # Route 7 - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[026]   # Route 7 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[027]   # Route 7 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[028]   # Route 7 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[029]   # Route 8 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[030]   # Route 8 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[031]   # Route 8 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[034]   # Route 9 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[035]   # Route 9 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[036]   # Route 10
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[037]   # Route 11 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[041]   # Route 11 - center north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[044]   # Route 11 - center south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[045]   # Route 11 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[046]   # Route 12 - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[047]   # Route 12 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[049]   # Route 12 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[050]   # Route 12 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[051]   # Route 12 - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[052]   # Route 13 - A
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[053]   # Route 13 - B
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[054]   # Route 13 - C
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[055]   # Route 13 - D
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[056]   # Route 13 - E
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[057]   # Route 13 - F
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[058]   # Route 13 - G
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[059]   # Route 13 - H
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[060]   # Route 14 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[061]   # Route 14 - center south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[062]   # Route 14 - center north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[064]   # Route 15 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[065]   # Route 15 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[066]   # Route 15 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[067]   # Route 15 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[068]   # Route 15 - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[070]   # Route 16 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[071]   # Route 16 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[073]   # Route 17 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[074]   # Route 17 - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[075]   # Route 17 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[090]   # Route 17 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[091]   # Route 18
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[092]   # Route 19 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[094]   # Route 19 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[095]   # Route 20 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[097]   # Route 20 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[098]   # Route 20 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[099]   # Route 20 - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[100]   # Route 21 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[101]   # Route 21 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[102]   # Route 21 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[103]   # Route 22
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[104]   # Route 23 - far south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[105]   # Route 23 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[106]   # Route 23 - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[107]   # Route 23 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[108]   # Route 23 - far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[110]   # Route 24 - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[109]   # Route 24 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[111]   # Route 24 - center 
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[112]   # Route 24 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[113]   # Route 24 - far west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[114]   # Route 24 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[115]   # Route 24 - far north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[116]   # Route 25 - Lake (center)
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[117]   # Route 25 - center north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[118]   # Route 25 - center south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[119]   # Route 25 - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[120]   # Route 25 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[121]   # Route 25 - south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[122]   # Route 25 - north far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[123]   # Route 25 - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[124]   # Route 25 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[125]   # Route 25 - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[126]   # Route 25 - north far west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[127]   # Route 26 - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[128]   # Route 26 - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[129]   # Route 27 - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[130]   # Route 27 - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[131]   # Route 28
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[132]   # Desert - A1
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[133]   # Desert - A2
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[134]   # Desert - A3
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[135]   # Desert - A4
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[136]   # Desert - A5
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[137]   # Desert - B1
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[138]   # Desert - B2
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[139]   # Desert - B3
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[140]   # Desert - B4
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[141]   # Desert - C1
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[142]   # Desert - C2
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[143]   # Desert - C3
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[144]   # Desert - C4
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[145]   # Desert - C5
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[146]   # Channel A - west north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[147]   # Channel A - west center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[148]   # Channel A - west south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[149]   # Channel A - east north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[150]   # Channel A - east center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[151]   # Channel A - east south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[152]   # Channel B
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[153]   # Channel C
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[154]   # Channel D - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[155]   # Channel D - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[156]   # Channel D - center far west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[157]   # Channel D - center west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[158]   # Channel D - center east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[159]   # Channel D - center far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[160]   # Channel D - south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[161]   # Channel D - south center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[162]   # Channel D - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[163]   # Channel E - far north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[164]   # Channel E - far north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[165]   # Channel E - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[166]   # Channel E - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[167]   # Channel E - center west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[168]   # Channel E - center east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[169]   # Channel E - south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[170]   # Channel E - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[171]   # Channel E - far south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[172]   # Channel E - far south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[173]   # Channel F - far south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[174]   # Channel F - far south center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[175]   # Channel F - far south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[176]   # Channel F - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[177]   # Channel F - center south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[178]   # Channel F - center north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[179]   # Channel F - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[180]   # Channel F - far north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[181]   # Channel F - far north center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[182]   # Channel F - far north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[183]   # Channel G - north far west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[185]   # Channel G - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[186]   # Channel G - north center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[187]   # Channel G - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[188]   # Channel G - north far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[189]   # Channel G - center west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[190]   # Channel G - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[191]   # Channel G - center east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[192]   # Channel G - south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[193]   # Channel G - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[194]   # Channel G - far south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[195]   # Channel G - very far south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[184]   # Channel H - far north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[196]   # Channel H - far north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[197]   # Channel H - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[198]   # Channel H - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[199]   # Channel H - center north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[200]   # Channel H - center north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[201]   # Channel H - center south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[202]   # Channel H - center south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[203]   # Channel H - south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[204]   # Channel H - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[205]   # Channel H - far south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[206]   # Channel H - far south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[207]   # Channel I - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[208]   # Channel I - north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[209]   # Channel I - north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[210]   # Channel I - far north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[211]   # Channel I - very far north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[212]   # Channel I - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[213]   # Channel I - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[214]   # Channel I - east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[215]   # Channel I - far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[216]   # Channel I - south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[217]   # Channel I - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[218]   # Channel I - south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[219]   # Channel I - far south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[220]   # Channel I - far south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[221]   # Channel I - very far south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[242]   # Town 1 - League center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[243]   # Town 2 - Bug Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[244]   # Town 3 - Rock Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[245]   # Town 4 - Beach resort
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[246]   # Town 5 - Grass Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[247]   # Town 6 - Ground Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[248]   # Town 7 - Flight Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[249]   # Town 8 - Ice Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[250]   # Town 9 - Psychic Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[251]   # Town 10 - Electric Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[252]   # Town 11 - Fighting Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[253]   # Town 12 - Underwater research
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[254]   # Town 13 - Water Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[255]   # Town 14 - Dragon Gym
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[256]   # Mystery Path - south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[257]   # Mystery Path - channel
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[258]   # Mystery Path - center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[263]   # Mystery Path - forest
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[260]   # Mystery Path - west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[261]   # Mystery Path - north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[264]   # Mystery Path - cave
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[265]   # Alaska (Tlingit) - Board control
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[266]   # Alaska (Tlingit) - Roue 1 far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[267]   # Alaska (Tlingit) - Route 1 east 
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[268]   # Alaska (Tlingit) - Route 1 south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[269]   # Alaska (Tlingit) - Route 1 center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[270]   # Alaska (Tlingit) - Route 1 north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[271]   # Alaska (Tlingit) - Route 1 north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[272]   # Alaska (Tlingit) - Route 1 north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[273]   # Alaska (Tlingit) - Route 1 far north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[274]   # Alaska (Tlingit) - Town 1
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[275]   # Alaska (Tlingit) - Route 2 east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[276]   # Alaska (Tlingit) - Route 2 center east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[277]   # Alaska (Tlingit) - Route 2 center west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[278]   # Alaska (Tlingit) - Route 2 west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[281]   # Alaska (Tlingit) - Route 3 south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[282]   # Alaska (Tlingit) - Route 3 center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[283]   # Alaska (Tlingit) - Route 3 north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[024]   # Alaska (Tlingit) - Town 2
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[284]   # Islands (Far Islands) Arrival
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[285]   # Islands (Far Islands) - Channel center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[286]   # Islands (Far Islands) - Channel south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[287]   # Islands (Far Islands) - Channel east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[288]   # Islands (Far Islands) - Route 1 north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[289]   # Islands (Far Islands) - Route 1 south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[290]   # Islands (Far Islands) - Route 2
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[292]   # Islands (Far Islands) - Town
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[293]   # Greenland (Nunaat) - Jetty departure
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[294]   # Greenland (Nunaat) - Jetty arrival
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[295]   # Greenland (Nunaat) - Route 1 center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[296]   # Greenland (Nunaat) - Route 1 north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[297]   # Greenland (Nunaat) - Route 1 south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[298]   # Greenland (Nunaat) - Route 1 south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[299]   # Greenland (Nunaat) - Town
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[301]   # Greenland (Nunaat) - Route 2 south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[302]   # Greenland (Nunaat) - Route 2 center south
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[303]   # Greenland (Nunaat) - Route 2 center north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[304]   # Greenland (Nunaat) - Route 2 north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[305]   # Greenland (Nunaat) - Route 2 north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[306]   # Greenland (Nunaat) - Route 2 north far west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[308]   # Greenland (Nunaat) - Channel north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[309]   # Greenland (Nunaat) - Channel north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[310]   # Greenland (Nunaat) - Channel north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[311]   # Greenland (Nunaat) - Channel center north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[312]   # Greenland (Nunaat) - Channel center west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[313]   # Greenland (Nunaat) - Channel center east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[314]   # Greenland (Nunaat) - Channel south west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[315]   # Greenland (Nunaat) - Channel south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+	
+	
+	
+	
+	
+#-------------------------------
+[316]   # Iceland (Gardari) - arrival
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[317]   # Iceland (Gardari) - Route 1 center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[318]   # Iceland (Gardari) - Route 1 north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+[319]   # Iceland (Gardari) - Route 1 far north
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[320]   # Iceland (Gardari) - Route 1 east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[321]   # Iceland (Gardari) - Route 1 far east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[322]   # Iceland (Gardari) - Town
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[324]   # Iceland (Gardari) - Route 2 north west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[325]   # Iceland (Gardari) - Route 2 west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[326]   # Iceland (Gardari) - Route 2 east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[327]   # Iceland (Gardari) - Route 2 south east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[328]   # Iceland (Gardari) - Channel center
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[329]   # Iceland (Gardari) - Channel west
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[330]   # Iceland (Gardari) - Channel east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35
+#-------------------------------
+[331]   # Iceland (Gardari) - Channel north east
+Land,15
+    20,RATTATA,3,5
+	20,BIDOOF,3,5
+	20,ODDISH,3,5
+	20,PURRLOIN,3,5
+	10,VULPIX,3,5
+	10,FLITTLE,3,5
+OldRod
+	60,BINACLE,3,5
+	40,FRILLISH,3,5
+GoodRod
+	40,FINNEON,20,25
+	60,CORPHISH,20,25
+SuperRod
+	70,LUVDISC,30,35
+	30,PALOSSAND,30,35

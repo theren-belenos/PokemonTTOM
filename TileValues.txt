@@ -1,0 +1,226 @@
+BackgroundNotBuilt = 2137 (ou 2129)
+
+WallsNotBuilt
+1	2	3
+4	5	6
+7  (8)	9
+10	11	12
+13	14	15
+
+1: 6305
+2: 6306
+3: 6307
+4: 6313
+5: 6314
+6: 6315
+7: 6321
+8: 6322
+9: 6323
+10: 6329
+11: 6330
+12: 6331
+13: 6337
+14: 6338
+15: 6339
+
+BordersNotBuilt
+1	2	3
+4		5
+6	7	8
+
+1: 5016
+2: 5017 / 5018
+3: 5019
+4: 5024 / 5032
+5: 5027 / 5035
+6: 5040
+7: 5041 / 5042
+8: 5043
+
+Cones 6148 up 6156 bottom
+
+Vertical bareer 6149 up 6157 bottom
+
+
+Tree left side 1005 up 1013 down
+
+
+Type Gym : 7432 & 7440 little left thing
+		   7441 & 7442 stylized type name
+		   7443 7444 7445 for the layer2 up the door
+		   
+Rest of the gym
+
+		7450	7451	7452	7453	7454
+
+7457	7458	7459	7460	7461	7462	7463
+
+7465	7466	7467	7468	7469	7470	7471	7472
+
+7473	7474	7475	7476	7477	7478	7479	7480
+
+7481	7482	7483	7484	7485	7486	7487	7488
+
+7489	7490	7491	7492	7493	7494	7495	7496
+
+		7498	7499	7500	7501	7502	7503
+		
+ADD 64 TIMES (TYPE ORDER)
+
+Types :
+0 BUG
+1 DARK
+2 DRAGON
+3 ELECTRIK
+4 FAIRY
+5 FIGHT
+6 FIRE
+7 FLYING
+8 GHOST
+9 GRASS
+10 GROUND
+11 ICE
+12 NORMAL
+13 POISON
+14 PSYCHIC
+15 ROCK
+16 STEEL
+17 WATER
+
+Gym big
+
+13378 x x x x x	13488 x x x x x x + xlayer3
+
+13386 x x x x x 13496 x x x x x x + xlayer3
+
+13394 x x x x x 13504 x x x x x x + xlayer3
+
+13402 x x x x x 13512 x x x x x x + xlayer3
+
+13410 x x x x x 13520 x x x x x x x
+
+13418 x x x x x 13528 x x x x x x x
+
+13426 x x x x x 13536 x x x x x x x
+
+13434 x x x x x 13544 x x x x x x x
+
+13442 x x x x x 13552 x x x x x x x 
+
+  13451 x x x x 13560 x x x x x x x 
+  
+  13459 x x x x 13568 x x x x x x x 
+  
+    13468 x x x 13576 x x x x x x x 
+	
+	
+	
+	
+	
+	
+	
+		Full Wreckage category
+	
+	
+	
+	
+Layer 0 cracked ground
+
+	6005	6006
+	
+	6013	6014
+	
+Grey little rock 1661
+Brown little rock 1658
+Multiple point little rock 4340
+
+Middle rock
+
+	1651	1652
+	
+	1659	1660
+
+
+Big ROCK
+
+	1613	1614
+	
+	1621	1622	1623
+	
+	1629	1630	1631
+	
+	1637	1648
+
+
+Construction hole	
+	
+	6044	6045	6046	6047
+	
+	6052	6053	6054	6055
+	
+	6060	6061	6062	6063
+	
+	6068	6069	6070	6071
+	
+	
+# buildings[0] : PC
+  
+# buildings[1] : PJ House cleanup
+# buildings[7] : PJ House 
+
+# buildings[8] : NPC House 1 cleanup
+# buildings[17] : NPC House 1
+
+# buildings[9] : General town cleanup
+# buildings[19] : Town exteriors lvl 2
+# buildings[46] : Town exteriors lvl 3
+# buildings[95] : Town exteriors lvl 4
+
+# buildings[10] : Academy cleanup
+# buildings[20] : Academy
+
+# buildings[18] : Block 1 cleanup
+# buildings[31] : Block 1
+
+# buildings[21] : Safari cleanup
+# buildings[33] : Safari
+
+# buildings[22] : Cloth shop & market cleanup
+# buildings[34] : Cloth shop & market lvl 1
+# buildings[49] : Cloth shop & market lvl 2
+# buildings[63] : Cloth shop & market lvl 3
+# buildings[81] : Cloth shop & market lvl 4
+
+# buildings[28] : Gym exteriors lvl 2
+# buildings[92] : Gym exteriors lvl 3
+
+# buildings[32] : NPC House 2 cleanup
+# buildings[44] : NPC House 2
+
+# buildings[35] : Casino cleanup
+# buildings[50] : Casino
+
+# buildings[36] : Docks cleanup
+# buildings[51] : Docks + boat lvl 1
+# buildings[65] : Lighthouse + boat lvl 2
+
+# buildings[45] : NPC House 3 cleanup
+# buildings[60] : NPC House 3
+
+# buildings[52] : Battle café cleanup
+# buildings[66] : Battle café
+
+# buildings[61] : Block 2 cleanup
+# buildings[77] : Block 2
+
+# buildings[67] : Hotel cleanup
+# buildings[84] : Hotel
+
+# buildings[78] : NPC House 4 cleanup
+# buildings[94] : NPC House 4
+
+# buildings[83] : Battle resto cleanup
+# buildings[98] : Battle resto 
+
+# buildings[85] : Radio Tower cleanup
+# buildings[99] : Radio Tower

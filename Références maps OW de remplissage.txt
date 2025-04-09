@@ -1,0 +1,37 @@
+Forets :
+
+353 : 1x5 nord route 2 (côte à faire)
+354 : 2x1 nord daycare (à check)
+355 : 5x2
+356 : 2x4 sud daycare
+357 : 1x3 entre routes 11 et 12
+358 : 1x5 limite alaska / canada, ouest route 7
+359 : 4x1 nord route 7 (cote nord a faire avec mystery path)
+360 :
+361 :
+362 :
+363 : est/sud route 1 (côte est à faire ? pas sur, juste le coin)
+
+
+
+
+Channels : 
+
+342 : 5x1 ouest route 1 / nord route 2 
+343 : 2x2 nord route 1
+344 : 1x3 ouest station balnéaire
+345 : 
+346 : 
+347 : 
+348 : 
+349 : 
+350 : 
+351 : 
+352 : 1x7 est route 1 / collé aux channels G D et A
+
+Grass :
+
+334 : 5x3 big big sud de bug town
+335 : 3x1 est route 5 (sud route 6)
+336 : 5x1 ouest route 5 (sud route 4)
+337 :  1x3 ouest route 11 (cote a faire)

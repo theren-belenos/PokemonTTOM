@@ -1,0 +1,3 @@
+Name       = Arcky's Graphic Transparancy
+Version    = 2.0.0
+Credits    = Arcky (Original aspect by Bergium)

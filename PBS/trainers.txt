@@ -1,0 +1,121 @@
+﻿#-----------------------------------------------
+#
+#		Route 1 trainers
+#
+#-----------------------------------------------
+[SCHOOLGIRL,Ana]
+LoseText = Hehe, you're strong!
+Pokemon = BIDOOF,3
+Pokemon = SUNKERN,3
+#-------------------------------
+[YOUNGSTER,Aron]
+LoseText = My Pokémon is neat right?
+Pokemon = AIPOM,4
+#-------------------------------
+[JOGGER,Will]
+LoseText = Gotta keep running!
+Pokemon = MAKUHITA,3
+Pokemon = PONYTA,3
+#-------------------------------
+[CAMPERBOY,Mike]
+LoseText = You don't like them?!
+Pokemon = SEEDOT,3
+Pokemon = ODDISH,3
+Pokemon = FARFETCHD,4
+#-------------------------------
+[WILDPKMN,Croagunks]
+LoseText = Criiiiiiiiii!
+Pokemon = CROAGUNK,15
+Pokemon = CROAGUNK,16
+Pokemon = CROAGUNK,18
+
+
+#-----------------------------------------------
+#
+#		Route 2 trainers
+#
+#-----------------------------------------------
+[COLLECTOR,Bob]
+LoseText = So cuuuuuuuuuuute!
+Pokemon = PURRLOIN,5
+Pokemon = GLAMEOW,5
+
+[FUNOLDMAN,Bernard]
+LoseText = So much fun!
+Pokemon = APPLIN,7
+
+[SCHOOLBOY,Jason]
+LoseText = Nooooo!
+Pokemon = PURRLOIN,30
+Pokemon = GLAMEOW,30
+
+[PRESCHOOLERGIRL,Mimi]
+LoseText = Friend is super strong!
+Pokemon = SMOOCHUM,5
+Pokemon = LITLEO,5
+Pokemon = LOTAD,5
+
+[BUGCATCHER,Victor]
+LoseText = Nooooo!
+Pokemon = WURMPLE,5
+Pokemon = WURMPLE,5
+Pokemon = DURANT,5
+Pokemon = DURANT,5
+
+[LADY,Natalie]
+LoseText = Nooooo!
+Pokemon = ODDISH,7
+Pokemon = PONYTA,7
+
+[BUGMANIAC,Johnson]
+LoseText = I LOVE THEEEEEEEEEEEM!
+Pokemon = JOLTIK,6
+Pokemon = JOLTIK,6
+Pokemon = JOLTIK,6
+
+[GARDENER,Hank]
+LoseText = Gardening is easier than battling...
+Pokemon = SANDSHREW,8
+Pokemon = PSYDUCK,8
+
+[NINJABOY,Billy]
+LoseText = Damn! Retreat! Where are my smoke bombs??
+Pokemon = SEVIPER,9
+
+[CYCLISTFEMALE,Lana]
+LoseText = Battling is good too!
+Pokemon = PLUSLE,8
+Pokemon = MINUN,8
+
+[FISHERMAN,Neil]
+LoseText = Nooooo!
+Pokemon = LOTAD,7
+Pokemon = PSYDUCK,7
+Pokemon = FRILLISH,7
+
+[BACKPACKER,Tim]
+LoseText = Nooooo!
+Pokemon = DWEBBLE,9
+Pokemon = NOIBAT,9
+
+[HIKER,Patrice]
+LoseText = Nooooo!
+Pokemon = GEODUDE,10
+
+#-----------------------------------------------
+#
+#		Emerald Forest trainers
+#
+#-----------------------------------------------
+
+[BUGCATCHER,Tom]
+LoseText = Stop hurting the bugs!
+Pokemon = WURMPLE,5
+Pokemon = WURMPLE,5
+Pokemon = WURMPLE,5
+Pokemon = JOLTIK,5
+
+
+
+
+

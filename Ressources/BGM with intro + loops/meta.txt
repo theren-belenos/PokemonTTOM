@@ -1,0 +1,5 @@
+Name       = BGM intro + loops
+Version    = 1.0
+Essentials = 21.1
+Website    = https://eeveeexpo.com/resources/1512/
+Credits    = SunriseStudios

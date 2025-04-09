@@ -1,0 +1,24 @@
+#-------------------------------
+[JONSGLASSES]
+Name = Jon's glasses
+NamePlural = Jon's glasses
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A pair of glasses belonging to Jon.
+#-------------------------------
+[JEREMYSNOTEBOOK]
+Name = Jeremy's Notebook
+NamePlural = Jeremy's Notebooks
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A worn out notebook belonging to Jeremy.
+#-------------------------------
+[HENRYBAG]
+Name = Henry's Bag
+NamePlural = Henry's Bags
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A clean looking suitcase belonging to Henry.

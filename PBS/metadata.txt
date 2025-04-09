@@ -1,0 +1,94 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 4,3,7,2
+StorageCreator = Bill
+WildBattleBGM = battle_wild
+TrainerBattleBGM = battle_trainer
+WildVictoryBGM = battle_victory_wild
+TrainerVictoryBGM = battle_victory_trainer
+WildCaptureME = Pkmn get
+SurfBGM = surfing
+BicycleBGM = bicycle
+#-------------------------------
+[1]
+TrainerType = Lucas
+WalkCharset = player_lucas
+RunCharset = player_lucas_run
+CycleCharset = player_lucas_bike
+SurfCharset = player_lucas_surf
+DiveCharset = player_lucas_surf
+FishCharset = player_lucas_fishing
+SurfFishCharset = player_lucas_fishing
+#-------------------------------
+[2]
+TrainerType = Dawn
+WalkCharset = player_dawn
+RunCharset = player_dawn_run
+CycleCharset = player_dawn_bike
+SurfCharset = player_dawn_surf
+DiveCharset = player_dawn_surf
+FishCharset = player_dawn_fishing
+SurfFishCharset = player_dawn_fishing
+#-------------------------------
+[3]
+TrainerType = Ethan
+WalkCharset = player_ethan
+RunCharset = player_ethan_run
+CycleCharset = player_ethan_bike
+SurfCharset = player_ethan_surf
+DiveCharset = player_ethan_surf
+FishCharset = player_ethan_fishing
+SurfFishCharset = player_ethan_fishing
+#-------------------------------
+[4]
+TrainerType = Lyra
+WalkCharset = player_lyra
+RunCharset = player_lyra_run
+CycleCharset = player_lyra_bike
+SurfCharset = player_lyra_surf
+DiveCharset = player_lyra_surf
+FishCharset = player_lyra_fishing
+SurfFishCharset = player_lyra_fishing
+#-------------------------------
+[5]
+TrainerType = LucasPoc
+WalkCharset = player_lucaspoc
+RunCharset = player_lucaspoc_run
+CycleCharset = player_lucaspoc_bike
+SurfCharset = player_lucaspoc_surf
+DiveCharset = player_lucaspoc_surf
+FishCharset = player_lucaspoc_fishing
+SurfFishCharset = player_lucaspoc_fishing
+#-------------------------------
+[6]
+TrainerType = DawnPoc
+WalkCharset = player_dawnpoc
+RunCharset = player_dawnpoc_run
+CycleCharset = player_dawnpoc_bike
+SurfCharset = player_dawnpoc_surf
+DiveCharset = player_dawnpoc_surf
+FishCharset = player_dawnpoc_fishing
+SurfFishCharset = player_dawnpoc_fishing
+#-------------------------------
+[7]
+TrainerType = EthanPoc
+WalkCharset = player_ethanpoc
+RunCharset = player_ethanpoc_run
+CycleCharset = player_ethanpoc_bike
+SurfCharset = player_ethanpoc_surf
+DiveCharset = player_ethanpoc_surf
+FishCharset = player_ethanpoc_fishing
+SurfFishCharset = player_ethanpoc_fishing
+#-------------------------------
+[8]
+TrainerType = LyraPoc
+WalkCharset = player_lyrapoc
+RunCharset = player_lyrapoc_run
+CycleCharset = player_lyrapoc_bike
+SurfCharset = player_lyrapoc_surf
+DiveCharset = player_lyrapoc_surf
+FishCharset = player_lyrapoc_fishing
+SurfFishCharset = player_lyrapoc_fishing

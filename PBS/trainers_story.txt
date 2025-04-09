@@ -1,0 +1,168 @@
+#-----------------------------------------------
+#
+# 	First Rival Battle
+#
+#-----------------------------------------------
+[RIVAL1,Rival_Battle1_Normal]
+LoseText = What ? But...
+Pokemon = RIOLU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Grass]
+LoseText = What ? But...
+Pokemon = NIDORANfE,5
+	Moves = GROWL,SCRATCH
+	AbilityIndex = 1
+#-------------------------------
+[RIVAL1,Rival_Battle1_Fire]
+LoseText = What ? But...
+Pokemon = GIBLE,5
+	Moves = SCARYFACE, TACKLE
+	AbilityIndex = 0
+#-------------------------------
+[RIVAL1,Rival_Battle1_Water]
+LoseText = What ? But...
+Pokemon = PICHU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Electric]
+LoseText = What ? But...
+Pokemon = GIBLE,5
+	Moves = SCARYFACE, TACKLE
+	AbilityIndex = 0
+#-------------------------------
+[RIVAL1,Rival_Battle1_Fighting]
+LoseText = What ? But...
+Pokemon = RALTS,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Poison]
+LoseText = What ? But...
+Pokemon = GIBLE,5
+	Moves = SCARYFACE, TACKLE
+	AbilityIndex = 0
+#-------------------------------
+[RIVAL1,Rival_Battle1_Ground]
+LoseText = What ? But...
+Pokemon = SPHEAL,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Flying]
+LoseText = What ? But...
+Pokemon = PICHU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Psychic]
+LoseText = What ? But...
+Pokemon = ZORUA,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Bug]
+LoseText = What ? But...
+Pokemon = ROOKIDEE,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Rock]
+LoseText = What ? But...
+Pokemon = RIOLU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Ghost]
+LoseText = What ? But...
+Pokemon = ZORUA,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Ice]
+LoseText = What ? But...
+Pokemon = RIOLU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Dragon]
+LoseText = What ? But...
+Pokemon = TINKATINK,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Dark]
+LoseText = What ? But...
+Pokemon = RIOLU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Steel]
+LoseText = What ? But...
+Pokemon = RIOLU,5
+#-------------------------------
+[RIVAL1,Rival_Battle1_Fairy]
+LoseText = What ? But...
+Pokemon = NIDORANfE,5
+	Moves = GROWL,SCRATCH
+	AbilityIndex = 1
+	
+#-----------------------------------------------
+#
+# 	First Melly Battle
+#
+#-----------------------------------------------
+[MELLY,Melly_Battle1_Normal]
+LoseText = Oww, my poor Pokémon!
+Pokemon = MUNCHLAX,6
+#-------------------------------
+[MELLY,Melly_Battle1_Grass]
+LoseText = Oww, my poor Pokémon!
+Pokemon = CHERUBI,8
+#-------------------------------
+[MELLY,Melly_Battle1_Fire]
+LoseText = Oww, my poor Pokémon!
+Pokemon = MAGBY,7
+#-------------------------------
+[MELLY,Melly_Battle1_Water]
+LoseText = Oww, my poor Pokémon!
+Pokemon = MANTYKE,6
+#-------------------------------
+[MELLY,Melly_Battle1_Electric]
+LoseText = Oww, my poor Pokémon!
+Pokemon = PACHIRISU,7
+#-------------------------------
+[MELLY,Melly_Battle1_Fighting]
+LoseText = Oww, my poor Pokémon!
+Pokemon = TYROGUE,7
+#-------------------------------
+[MELLY,Melly_Battle1_Poison]
+LoseText = Oww, my poor Pokémon!
+Pokemon = WOOPER,7
+	Form = 1
+#-------------------------------
+[MELLY,Melly_Battle1_Ground]
+LoseText = Oww, my poor Pokémon!
+Pokemon = WOOPER,7
+#-------------------------------
+[MELLY,Melly_Battle1_Flying]
+LoseText = Oww, my poor Pokémon!
+Pokemon = ORICORIO,6
+#-------------------------------
+[MELLY,Melly_Battle1_Psychic]
+LoseText = Oww, my poor Pokémon!
+Pokemon = WYNAUT,7
+#-------------------------------
+[MELLY,Melly_Battle1_Bug]
+LoseText = Oww, my poor Pokémon!
+Pokemon = CUTIEFLY,8
+#-------------------------------
+[MELLY,Melly_Battle1_Rock]
+LoseText = Oww, my poor Pokémon!
+Pokemon = BONSLY,7
+#-------------------------------
+[MELLY,Melly_Battle1_Ghost]
+LoseText = Oww, my poor Pokémon!
+Pokemon = MIMIKYU,6
+#-------------------------------
+[MELLY,Melly_Battle1_Ice]
+LoseText = Oww, my poor Pokémon!
+Pokemon = SMOOCHUM,7
+#-------------------------------
+[MELLY,Melly_Battle1_Dragon]
+LoseText = Oww, my poor Pokémon!
+Pokemon = SWABLU,7
+#-------------------------------
+[MELLY,Melly_Battle1_Dark]
+LoseText = Oww, my poor Pokémon!
+Pokemon = MORPEKO,7
+#-------------------------------
+[MELLY,Melly_Battle1_Steel]
+LoseText = Oww, my poor Pokémon!
+Pokemon = TOGEDEMARU,7
+#-------------------------------
+[MELLY,Melly_Battle1_Fairy]
+LoseText = Oww, my poor Pokémon!
+Pokemon = DEDENNE,7
+#-------------------------------
+[KYANA,Kyana_Battle1_Fairy]
+LoseText = Oww, my poor Pokémon!
+Pokemon = DEDENNE,7

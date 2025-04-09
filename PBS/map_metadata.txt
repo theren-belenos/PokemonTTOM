@@ -1,0 +1,2727 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+
+
+#-------------------------------
+[008]   # Main Town
+Name = TN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 48,9,26
+MapPosition = 0,22,15
+SnapEdges = true
+BattleBack = field
+MapSize = 1,111
+#-------------------------------
+[022]   # Gym
+Name = Your gym
+MapPosition = 0,22,15
+#-------------------------------
+[033]   # Department Store 1F
+Name = Department Store
+MapPosition = 0,22,15
+#-------------------------------
+[093]   # Department Store 2F
+Name = Department Store
+MapPosition = 0,22,15
+#-------------------------------
+[043]   # Player's house
+Name = Your house
+MapPosition = 0,22,15
+#-------------------------------
+[048]   # Pokémon center
+Name = Pokémon center
+MapPosition = 0,22,15
+#-------------------------------
+[032]   # NPC House 1
+Name = Melly's house
+MapPosition = 0,22,15
+#-------------------------------
+[042]   # Casino
+Name = Casino
+MapPosition = 0,22,15
+#-------------------------------
+[077]   # Academy
+Name = Pokémon Academy
+MapPosition = 0,22,15
+#-------------------------------
+[078]   # NPC Block 1
+Name = Block 1
+MapPosition = 0,22,15
+#-------------------------------
+[079]   # Cafe
+Name = Cafe
+MapPosition = 0,22,15
+#-------------------------------
+[080]   # Restaurant
+Name = Restaurant
+MapPosition = 0,22,15
+#-------------------------------
+[081]   # NPC House 2
+Name = NPC House 2
+MapPosition = 0,22,15
+#-------------------------------
+[082]   # NPC House 3
+Name = NPC House 3
+MapPosition = 0,22,15
+#-------------------------------
+[083]   # NPC Block 2
+Name = NPC Block 2
+MapPosition = 0,22,15
+#-------------------------------
+[084]   # Hotel
+Name = Hotel
+MapPosition = 0,22,15
+#-------------------------------
+[085]   # NPC House 4
+Name = NPC House 4
+MapPosition = 0,22,15
+#-------------------------------
+[086]   # Radio Tower
+Name = Radio Tower
+MapPosition = 0,22,15
+#-------------------------------
+[087]   # Safari reception
+Name = Safari reception
+MapPosition = 0,22,15
+#-------------------------------
+[088]   # Dock hangar
+Name = Dock hangar
+MapPosition = 0,22,15
+#-------------------------------
+[089]   # Lighthouse
+Name = Lighthouse
+MapPosition = 0,22,15
+#-------------------------------
+[004]   # Pokémon Lab
+Name = Pokémon Lab
+MapPosition = 0,22,15
+TrainerBattleBGM = battle_rival
+TrainerVictoryBGM = battle_victory_trainer
+
+
+#-------------------------------
+[002]   # Route 1 - south
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,14
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[038]   # Route 1 - center
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,13
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[039]   # Route 1 - east
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,13
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[364]   # Fihserman's hut
+Name = Radio Tower
+MapPosition = 0,23,13
+#-------------------------------
+[040]   # Route 1- north
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,12
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[003]   # Route 2 - north
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[005]   # Route 2 - west
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[006]   # Route 2 - center north
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,16
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[007]   # Route 2 - east
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[009]   # Route 2 - center south
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[010]   # Route 2 - south
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,18
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[232]   # Route 2 - near daycare
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,17
+MapSize = 1,1
+Environment = Grass
+
+
+#-------------------------------
+[014]   # Route 3 - north
+Name = Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,20
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[015]   # Route 3 - south
+Name = Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,21
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[016]   # Route 4 - far east
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[017]   # Route 4 - east
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[018]   # Route 4 - center
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[019]   # Route 4 - west
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[020]   # Route 4 - far west
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,22
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[021]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,23
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[023]   # Route 6 - west
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[332]   # Route 6 - east
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[333]   # Route 6 - east of forest
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,22
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[025]   # Route 7 - north east
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[026]   # Route 7 - north
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[027]   # Route 7 - center
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,16
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[028]   # Route 7 - south
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,17
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[029]   # Route 8 - west
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,18
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[030]   # Route 8 - center
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,18
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[031]   # Route 8 - east
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,18
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[034]   # Route 9 - west
+Name = Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,18
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[035]   # Route 9 - east
+Name = Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,18
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[036]   # Route 10
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,20
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[037]   # Route 11 - north
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,22
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[041]   # Route 11 - center north
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,23
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[044]   # Route 11 - center south
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[045]   # Route 11 - south
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,25
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[046]   # Route 12 - north west
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,23
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[047]   # Route 12 - west
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[049]   # Route 12 - center
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[050]   # Route 12 - south
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,25
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[051]   # Route 12 - south east
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,25
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[052]   # Route 13 - A
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[053]   # Route 13 - B
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[054]   # Route 13 - C
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[055]   # Route 13 - D
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[056]   # Route 13 - E
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[057]   # Route 13 - F
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[058]   # Route 13 - G
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[059]   # Route 13 - H
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,27
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[060]   # Route 14 - south
+Name = Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,26
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[061]   # Route 14 - center south
+Name = Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,25
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[062]   # Route 14 - center north
+Name = Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,24
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[064]   # Route 15 - west
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[065]   # Route 15 - center
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[066]   # Route 15 - south
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,28
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[067]   # Route 15 - north
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,26
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[068]   # Route 15 - north west
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,29,26
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[070]   # Route 16 - west
+Name = Route 16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,29,29
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[071]   # Route 16 - east
+Name = Route 16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,29
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[073]   # Route 17 - west
+Name = Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[074]   # Route 17 - north west
+Name = Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,23
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[075]   # Route 17 - center
+Name = Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[090]   # Route 17 - east
+Name = Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,32,24
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[091]   # Route 18
+Name = Route 18
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,34,24
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[092]   # Route 19 - north
+Name = Route 19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,36,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[094]   # Route 19 - south
+Name = Route 19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,36,25
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+
+#-------------------------------
+[095]   # Route 20 - west
+Name = Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,29
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[097]   # Route 20 - center
+Name = Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,29
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[098]   # Route 20 - north
+Name = Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,28
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[099]   # Route 20 - north east
+Name = Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,32,28
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[100]   # Route 21 - west
+Name = Route 21
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,36,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[101]   # Route 21 - center
+Name = Route 21
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,37,27
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[102]   # Route 21 - east
+Name = Route 21
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,38,27
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[103]   # Route 22
+Name = Route 22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,40,27
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[104]   # Route 23 - far south
+Name = Route 23
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,35,25
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[105]   # Route 23 - south
+Name = Route 23
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,35,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[106]   # Route 23 - center
+Name = Route 23
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,35,23
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[107]   # Route 23 - east
+Name = Route 23
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,36,23
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[108]   # Route 23 - far east
+Name = Route 23
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,37,23
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[110]   # Route 24 - south east
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,33,25
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[109]   # Route 24 - east
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,33,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[111]   # Route 24 - center 
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,32,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[112]   # Route 24 - west
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[113]   # Route 24 - far west
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,24
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[114]   # Route 24 - north
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,23
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[115]   # Route 24 - far north
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,22
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+
+#-------------------------------
+[116]   # Route 25 - Lake (center)
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,18
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[117]   # Route 25 - center north
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,18
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[118]   # Route 25 - center south
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,19
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[119]   # Route 25 - south east
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,20
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[120]   # Route 25 - south
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,20
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[121]   # Route 25 - south west
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,29,20
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[122]   # Route 25 - north far east
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[123]   # Route 25 - north east
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[124]   # Route 25 - north
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,29,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[125]   # Route 25 - north west
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[126]   # Route 25 - north far west
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,17
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[127]   # Route 26 - west
+Name = Route 26
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[128]   # Route 26 - east
+Name = Route 26
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,13
+MapSize = 1,1
+Environment = Grass
+
+#-------------------------------
+[129]   # Route 27 - north
+Name = Route 27
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[130]   # Route 27 - south
+Name = Route 27
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,15
+MapSize = 1,1
+Environment = Grass
+
+#-------------------------------
+[131]   # Route 28
+Name = Route 28
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,14
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[132]   # Desert - A1
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,24
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[133]   # Desert - A2
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,24
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[134]   # Desert - A3
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,24
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[135]   # Desert - A4
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,24
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[136]   # Desert - A5
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,24
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[137]   # Desert - B1
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,25
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[138]   # Desert - B2
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,25
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[139]   # Desert - B3
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,25
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[140]   # Desert - B4
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,25
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[141]   # Desert - C1
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,26
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[142]   # Desert - C2
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,26
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[143]   # Desert - C3
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,26
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[144]   # Desert - C4
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,21,26
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+#-------------------------------
+[145]   # Desert - C5
+Name = Assiniboia Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,26
+MapSize = 1,1
+Environment = Sand
+Weather = Sandstorm,100
+
+
+
+#-------------------------------
+[146]   # Channel A - west north
+Name = Sea Route A
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,21
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[147]   # Channel A - west center
+Name = Sea Route A
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,22
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[148]   # Channel A - west south
+Name = Sea Route A
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,23
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[149]   # Channel A - east north
+Name = Sea Route A
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,20
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[150]   # Channel A - east center
+Name = Sea Route A
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,21
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[151]   # Channel A - east south
+Name = Sea Route A
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,22
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+#-------------------------------
+[152]   # Channel B
+Name = Sea Route B
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,24
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+
+#-------------------------------
+[153]   # Channel C
+Name = Sea Route C
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,37,20
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+#-------------------------------
+[154]   # Channel D - north west
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,13
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[155]   # Channel D - north east
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,13
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[156]   # Channel D - center far west
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[157]   # Channel D - center west
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[158]   # Channel D - center east
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[159]   # Channel D - center far east
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[160]   # Channel D - south west
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,15
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[161]   # Channel D - south center
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,15
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[162]   # Channel D - south east
+Name = Sea Route D
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,15
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+#-------------------------------
+[163]   # Channel E - far north west
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,16
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[164]   # Channel E - far north east
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,16
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[165]   # Channel E - north west
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,17
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[166]   # Channel E - north east
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,17
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[167]   # Channel E - center west
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,18
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[168]   # Channel E - center east
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,18
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[169]   # Channel E - south west
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,19
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[170]   # Channel E - south east
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,19
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[171]   # Channel E - far south west
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,20
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[172]   # Channel E - far south east
+Name = Sea Route E
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,20
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+
+#-------------------------------
+[173]   # Channel F - far south west
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,29,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[174]   # Channel F - far south center
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[175]   # Channel F - far south east
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[176]   # Channel F - south
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,13
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[177]   # Channel F - center south
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,12
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[178]   # Channel F - center north
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,11
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[179]   # Channel F - north
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,10
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[180]   # Channel F - far north east
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[181]   # Channel F - far north center
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[182]   # Channel F - far north west
+Name = Sea Route F
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,30,8
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+
+
+#-------------------------------
+[183]   # Channel G - north far west
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[185]   # Channel G - north west
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[186]   # Channel G - north center
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[187]   # Channel G - north east
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[188]   # Channel G - north far east
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[189]   # Channel G - center west
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,10
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[190]   # Channel G - center
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,10
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[191]   # Channel G - center east
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,10
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[192]   # Channel G - south west
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,11
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[193]   # Channel G - south east
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,11
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[194]   # Channel G - far south
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,12
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[195]   # Channel G - very far south
+Name = Sea Route G
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,13
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+
+#-------------------------------
+[184]   # Channel H - far north west
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[196]   # Channel H - far north east
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[197]   # Channel H - north west
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,5
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[198]   # Channel H - north east
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,5
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[199]   # Channel H - center north west
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,6
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[200]   # Channel H - center north east
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,6
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[201]   # Channel H - center south west
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,7
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[202]   # Channel H - center south east
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,7
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[203]   # Channel H - south west
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,8
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[204]   # Channel H - south east
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,8
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[205]   # Channel H - far south west
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,9
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[206]   # Channel H - far south east
+Name = Sea Route H
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,9
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+
+#-------------------------------
+[207]   # Channel I - north west
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[208]   # Channel I - north
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[209]   # Channel I - north east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[210]   # Channel I - far north east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[211]   # Channel I - very far north east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,4
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[212]   # Channel I - west
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,5
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[213]   # Channel I - center
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,5
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[214]   # Channel I - east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,5
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[215]   # Channel I - far east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,5
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[216]   # Channel I - south west
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,6
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[217]   # Channel I - south
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,6
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[218]   # Channel I - south east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,6
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[219]   # Channel I - far south west
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,7
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[220]   # Channel I - far south east
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,23,7
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[221]   # Channel I - very far south west
+Name = Sea Route I
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,8
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+#-------------------------------
+[222]   # Forest 1 - overworld
+#-------------------------------
+[225]   # Forest 2 - overworld
+#-------------------------------
+[227]   # Forest 3 - overworld
+#-------------------------------
+[229]   # Forest 4 - overworld
+
+
+
+#-------------------------------
+[235]   # Cave 1 - overworld
+#-------------------------------
+[236]   # Cave 2 - overworld
+#-------------------------------
+[237]   # Cave 3 - overworld
+#-------------------------------
+[238]   # Cave 4 - overworld
+#-------------------------------
+[239]   # Cave 5 - overworld
+#-------------------------------
+[240]   # Cave 6 - overworld
+
+
+
+#-------------------------------
+[241]   # Dragon altar
+Name = Dragon altar
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,7
+MapSize = 1,1
+
+
+
+#-------------------------------
+[242]   # Town 1 - League center
+Name = Center Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,22
+MapSize = 1,1
+#-------------------------------
+[243]   # Town 2 - Bug Gym
+Name = Sombake
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,18
+MapSize = 1,1
+#-------------------------------
+[244]   # Town 3 - Rock Gym
+Name = Greymoose
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,21
+MapSize = 2,1111
+#-------------------------------
+[245]   # Town 4 - Beach resort
+Name = Camosack
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,25
+MapSize = 1,1
+#-------------------------------
+[246]   # Town 5 - Grass Gym
+Name = Titaga
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,26
+MapSize = 1,1
+#-------------------------------
+[247]   # Town 6 - Ground Gym
+Name = Wascana
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,22,25
+MapSize = 1,1
+#-------------------------------
+[248]   # Town 7 - Flight Gym
+Name = Winnipy
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,24,27
+MapSize = 1,1
+#-------------------------------
+[249]   # Town 8 - Ice Gym
+Name = Adawe
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,28,30
+MapSize = 1,1
+#-------------------------------
+[250]   # Town 9 - Psychic Gym
+Name = Nashwak
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,22
+MapSize = 1,1
+#-------------------------------
+[251]   # Town 10 - Electric Gym
+Name = Moonyang
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,31,19
+MapSize = 3,111111111
+#-------------------------------
+[252]   # Town 11 - Fighting Gym
+Name = Ediacaran
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,39,20
+MapSize = 1,1
+#-------------------------------
+[253]   # Town 12 - Underwater research
+Name = Underwater observation settlement
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,27,17
+MapSize = 1,1
+#-------------------------------
+[254]   # Town 13 - Water Gym
+Name = Iqaluit
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,25,11
+MapSize = 1,1
+#-------------------------------
+[255]   # Town 14 - Dragon Gym
+Name = Dragon's Peak
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,26,8
+MapSize = 1,1
+
+
+
+
+#-------------------------------
+[256]   # Mystery Path - south
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[257]   # Mystery Path - channel
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,13
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[258]   # Mystery Path - center
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = 0,16,12
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[259]   # Mystery Path - forest OW
+Name = ???
+#-------------------------------
+[263]   # Mystery Path - forest
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = 0,17,12
+MapSize = 1,1
+Environment = Forest
+#-------------------------------
+[260]   # Mystery Path - west
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = 0,15,12
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[261]   # Mystery Path - north west
+Outdoor = true
+ShowArea = true
+Bicycle = 0,15,11
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[262]   # Mystery Path - cave OW
+Name = ???
+#-------------------------------
+[264]   # Mystery Path - cave
+Name = ???
+Outdoor = true
+ShowArea = true
+Bicycle = 0,14,11
+MapSize = 1,1
+Environment = Cave
+
+
+
+
+#-------------------------------
+[265]   # Alaska (Tlingit) - Board control
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,13,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[266]   # Alaska (Tlingit) - Roue 1 far east
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,12,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[267]   # Alaska (Tlingit) - Route 1 east 
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,11,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[268]   # Alaska (Tlingit) - Route 1 south east
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,12,16
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[269]   # Alaska (Tlingit) - Route 1 center
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,11,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[270]   # Alaska (Tlingit) - Route 1 north east
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,11,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[271]   # Alaska (Tlingit) - Route 1 north
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,10,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[272]   # Alaska (Tlingit) - Route 1 north west
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,9,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[273]   # Alaska (Tlingit) - Route 1 far north west
+Name = Tlingit Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,8,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[274]   # Alaska (Tlingit) - Town 1
+Name = Alutiiq Town
+Outdoor = true
+ShowArea = true
+Bicycle = 0,12,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[275]   # Alaska (Tlingit) - Route 2 east
+Name = Tlingit Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,11,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[276]   # Alaska (Tlingit) - Route 2 center east
+Name = Tlingit Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,10,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[277]   # Alaska (Tlingit) - Route 2 center west
+Name = Tlingit Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,9,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[278]   # Alaska (Tlingit) - Route 2 west
+Name = Tlingit Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,8,17
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[279]   # Alaska (Tlingit) - Cave OW
+Name = Tlingit Route 1
+#-------------------------------
+[280]   # Alaska (Tlingit) - Forest OW
+Name = Tlingit Route 1
+#-------------------------------
+[281]   # Alaska (Tlingit) - Route 3 south
+Name = Tlingit Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = 0,7,16
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[282]   # Alaska (Tlingit) - Route 3 center
+Name = Tlingit Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = 0,7,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[283]   # Alaska (Tlingit) - Route 3 north
+Name = Tlingit Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = 0,7,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[024]   # Alaska (Tlingit) - Town 2
+Name = Dena Town
+Outdoor = true
+ShowArea = true
+Bicycle = 0,7,13
+MapSize = 1,1
+Environment = Grass
+
+
+
+#-------------------------------
+[284]   # Islands (Far Islands) Arrival
+Name = Far Islands Jetty
+Outdoor = true
+ShowArea = true
+Bicycle = 0,33,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[285]   # Islands (Far Islands) - Channel center
+Name = Far Islands Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,34,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[286]   # Islands (Far Islands) - Channel south
+Name = Far Islands Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,34,7
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[287]   # Islands (Far Islands) - Channel east
+Name = Far Islands Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,35,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[288]   # Islands (Far Islands) - Route 1 north
+Name = Far Islands Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,34,8
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[289]   # Islands (Far Islands) - Route 1 south
+Name = Far Islands Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,34,9
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[290]   # Islands (Far Islands) - Route 2
+Name = Far Islands Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,36,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[291]   # Islands (Far Islands) - Cave OW
+Name = Far Islands Jetty
+#-------------------------------
+[292]   # Islands (Far Islands) - Town
+Name = Tinganes
+Outdoor = true
+ShowArea = true
+Bicycle = 0,35,9
+MapSize = 1,1
+Environment = Grass
+
+
+
+
+#-------------------------------
+[293]   # Greenland (Nunaat) - Jetty departure
+Name = Nunaat departure jetty
+Outdoor = true
+ShowArea = true
+Bicycle = 0,36,16
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[294]   # Greenland (Nunaat) - Jetty arrival
+Name = Nunaat arrival jetty
+Outdoor = true
+ShowArea = true
+Bicycle = 0,39,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[295]   # Greenland (Nunaat) - Route 1 center
+Name = Nunaat Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,40,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[296]   # Greenland (Nunaat) - Route 1 north
+Name = Nunaat Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,40,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[297]   # Greenland (Nunaat) - Route 1 south
+Name = Nunaat Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,40,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[298]   # Greenland (Nunaat) - Route 1 south east
+Name = Nunaat Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,41,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[299]   # Greenland (Nunaat) - Town
+Name = Kangerlua
+Outdoor = true
+ShowArea = true
+Bicycle = 0,41,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[300]   # Greenland (Nunaat) - Cave OW
+Name = Nunaat cave
+#-------------------------------
+[301]   # Greenland (Nunaat) - Route 2 south
+Name = Nunaat Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,15
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[302]   # Greenland (Nunaat) - Route 2 center south
+Name = Nunaat Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,14
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[303]   # Greenland (Nunaat) - Route 2 center north
+Name = Nunaat Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,13
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[304]   # Greenland (Nunaat) - Route 2 north
+Name = Nunaat Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,12
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[305]   # Greenland (Nunaat) - Route 2 north west
+Name = Nunaat Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,42,12
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[306]   # Greenland (Nunaat) - Route 2 north far west
+Name = Nunaat Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,41,12
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[307]   # Greenland (Nunaat) - Forest OW
+Name = Nunaat forest
+#-------------------------------
+[308]   # Greenland (Nunaat) - Channel north west
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,11
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[309]   # Greenland (Nunaat) - Channel north
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,44,11
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[310]   # Greenland (Nunaat) - Channel north east
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,11
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[311]   # Greenland (Nunaat) - Channel center north east
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,12
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[312]   # Greenland (Nunaat) - Channel center west
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,44,13
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[313]   # Greenland (Nunaat) - Channel center east
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,13
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[314]   # Greenland (Nunaat) - Channel south west
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,44,14
+MapSize = 1,1
+Environment = MovingWater
+#-------------------------------
+[315]   # Greenland (Nunaat) - Channel south east
+Name = Nunaat Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,14
+MapSize = 1,1
+Environment = MovingWater
+
+
+
+
+
+
+#-------------------------------
+[316]   # Iceland (Gardari) - arrival
+Name = Gardari Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,8
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[317]   # Iceland (Gardari) - Route 1 center
+Name = Gardari Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,7
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[318]   # Iceland (Gardari) - Route 1 north
+Name = Gardari Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[319]   # Iceland (Gardari) - Route 1 far north
+Name = Gardari Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,43,5
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[320]   # Iceland (Gardari) - Route 1 east
+Name = Gardari Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,44,7
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[321]   # Iceland (Gardari) - Route 1 far east
+Name = Gardari Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,7
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[322]   # Iceland (Gardari) - Town
+Name = Vik
+Outdoor = true
+ShowArea = true
+Bicycle = 0,42,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[323]   # Iceland (Gardari) - Cave OW
+Name = Gardari Route 1
+#-------------------------------
+[324]   # Iceland (Gardari) - Route 2 north west
+Name = Gardari Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,5
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[325]   # Iceland (Gardari) - Route 2 west
+Name = Gardari Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[326]   # Iceland (Gardari) - Route 2 east
+Name = Gardari Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,46,6
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[327]   # Iceland (Gardari) - Route 2 south east
+Name = Gardari Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = 0,46,7
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[328]   # Iceland (Gardari) - Channel center
+Name = Gardari Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,46,8
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[329]   # Iceland (Gardari) - Channel west
+Name = Gardari Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,45,8
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[330]   # Iceland (Gardari) - Channel east
+Name = Gardari Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,47,8
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[331]   # Iceland (Gardari) - Channel north east
+Name = Gardari Sea Route
+Outdoor = true
+ShowArea = true
+Bicycle = 0,47,7
+MapSize = 1,1
+Environment = Grass

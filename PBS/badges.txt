@@ -1,0 +1,125 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BALANCEBADGE]
+Name = Normal Badge
+Type = NORMAL
+LeaderName = Brock
+LeaderSprite = LEADER_Brock
+Location = Pewter City
+AcePokemon = ONIX
+Region = Johto
+Order = 1
+#-------------------------------
+[HIVEBADGE]
+Name = Hive Badge
+Type = BUG
+LeaderName = Misty
+LeaderSprite = LEADER_Misty
+Location = Cerulean City
+AcePokemon = STARMIE
+Region = Johto
+Order = 2
+#-------------------------------
+[BOULDERBADGE]
+Name = Boulder Badge
+Type = ROCK
+LeaderName = Lt. Surge
+LeaderSprite = LEADER_Surge
+Location = Vermilion City
+AcePokemon = RAICHU
+Region = Johto
+Order = 3
+#-------------------------------
+[FORESTBADGE]
+Name = Forest Badge
+Type = GRASS
+LeaderName = Erika
+LeaderSprite = LEADER_Erika
+Location = Celadon City
+AcePokemon = VILEPLUME
+Region = Johto
+Order = 4
+#-------------------------------
+[EARTHBADGE]
+Name = Earth Badge
+Type = GROUND
+LeaderName = Koga
+LeaderSprite = LEADER_Koga
+Location = Fuchsia City
+AcePokemon = WEEZING
+Region = Johto
+Order = 5
+#-------------------------------
+[FEATHERBADGE]
+Name = Feather Badge
+Type = FLYING
+LeaderName = Sabrina
+LeaderSprite = LEADER_Sabrina
+Location = Saffron City
+AcePokemon = ALAKAZAM
+Region = Johto
+Order = 6
+#-------------------------------
+[ICICLEBADGE]
+Name = Icicle Badge
+Type = ICE
+LeaderName = Blaine
+LeaderSprite = LEADER_Blaine
+Location = Cinnabar Island
+AcePokemon = ARCANINE
+Region = Johto
+Order = 7
+#-------------------------------
+[SOULBADGE]
+Name = Soul Badge
+Type = PSYCHIC
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYDON
+Region = Johto
+Order = 8
+#-------------------------------
+[DYNAMOBADGE]
+Name = Dynamo Badge
+Type = ELECTRIC
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYDON
+Region = Johto
+Order = 9
+
+#-------------------------------
+[STORMBADGE]
+Name = Fist Badge
+Type = FIGHTING
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYDON
+Region = Johto
+Order = 10
+
+#-------------------------------
+[CASCADEBADGE]
+Name = Cascade Badge
+Type = WATER
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYDON
+Region = Johto
+Order = 11
+
+#-------------------------------
+[RISINGBADGE]
+Name = Rising Badge
+Type = DRAGON
+LeaderName = Giovanni
+LeaderSprite = LEADER_Giovanni
+Location = Viridian City
+AcePokemon = RHYDON
+Region = Johto
+Order = 12
+

@@ -1,0 +1,120 @@
+Music samples values (beginning ; length)
+
+academy 			= 000198054 ; 001642731
+
+battle_elitefour 	= 000897959 ; 002231409
+
+battle_kyogregroudon= 001501771 ; 001736200
+
+battle_gym			= 001437165 ; 002822109
+
+battle_rayquaza		= 001437384 ; 001733383
+battle_registeel_etc= 002415822 ; 001331435
+
+battle_rival 		= 002247983 ; 002418444
+
+battle_steven 		= 001524588 ; 002471872
+
+battle_teamgrunt	= 002324615 ; 003937606
+
+battle_teamleader	= 002833604 ; 002675046
+
+battle_trainer 		= 001603720 ; 003437704
+
+battle_wild 		= 000840939 ; 001746872
+
+battle_zinnia		= 001909695 ; 003547567
+
+bicycle 			= 001437116 ; 002158641
+
+gym					= 001501962 ; 001528066
+
+meteorfalls			= 001938202 ; 001912675
+
+mtchimney_skypillar = 002062520 ; 004235164
+
+mtpyre_shoalcave	= 002327424 ; 002361062
+
+mtpyre_summit 		= 002696846 ; 002710651
+
+oceanic_museum 		= 002560949 ; 002835788
+
+petalburg_woods 	= 001106451 ; 001719418
+
+poke_mart 			= 001347358 ; 001582074
+
+pokemon_center		= 000820491 ; 001637271
+
+prof_lab			= 001079150 ; 001415295
+
+route_land			= 001015323 ; 001512470
+
+route_coast			= 001692394 ; 001670977
+
+route_desert		= 000705070 ; 001770931
+
+route_ashes			= 000660299 ; 002990378
+
+route_mountains		= 002777375 ; 002604946
+
+route_sea 			= 001990033 ; 002535244
+
+ruins				= 000415246 ; 001713667
+
+sea 				= 000939164 ; 001086984
+
+sea_mauville		= 001343208 ; 001701766
+
+southern_island		= 001300276 ; 002117188
+
+surfing				= 002652715 ; 003113246
+
+team				= 000538683 ; 001460114
+
+team_hideout		= 001626669 ; 001803536
+
+town_dewford		= 002302068 ; 002944422
+
+town_evergrande 	= 001321487 ; 002657580
+
+twon_fallarbor		= 001686789 ; 002372578
+
+town_fortree 		= 001667156 ; 001658807
+
+town_lilycove		= 001747368 ; 002474522
+
+town_littleroot		= 001404588 ; 002372699
+
+town_oldale_lavaridg= 001518682 ; 001695643
+
+town_petalburg		= 001296426 ; 001348480
+
+town_rustboro_mville= 001657984 ; 002657984
+
+town_sootopolis 	= 000860801 ; 002411131
+
+town_verdanturf		= 001532459 ; 002007878
+
+underwater 			= 002225288 ; 003039383
+
+victory_road 		= 000898927 ; 001982178
+
+welcome 			= 001124950 ; 002056450
+
+
+
+
+
+
+
+
+Corrompus / manquants
+
+battle_kyodre
+battle_rayquaza
+meteor_falls
+mt_pyre_shoal_cave
+route11_desert
+sea_mauville
+team
+town_evergrande
