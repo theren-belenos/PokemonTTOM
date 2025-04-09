@@ -1981,6 +1981,15 @@ Environment = MovingWater
 #-------------------------------
 [222]   # Forest 1 - overworld
 #-------------------------------
+[223]   # Forest 1 - east
+Name = Green Lush Forest
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,15
+MapSize = 1,1
+Environment = Forest
+#-------------------------------
 [225]   # Forest 2 - overworld
 #-------------------------------
 [227]   # Forest 3 - overworld

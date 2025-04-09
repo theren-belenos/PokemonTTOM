@@ -110,10 +110,21 @@ Pokemon = GEODUDE,10
 
 [BUGCATCHER,Tom]
 LoseText = Stop hurting the bugs!
-Pokemon = WURMPLE,5
-Pokemon = WURMPLE,5
-Pokemon = WURMPLE,5
-Pokemon = JOLTIK,5
+Pokemon = WURMPLE,2
+Pokemon = WURMPLE,4
+Pokemon = WURMPLE,6
+Pokemon = SILCOON,8
+
+[BUGCATCHER,Charly]
+LoseText = Don't you love the forest?
+Pokemon = DURANT,6
+Pokemon = NYMBLE,6
+Pokemon = JOLTIK,6
+
+[BUGMANIAC,Max]
+LoseText = Let's say you're a bug fan then.
+Pokemon = NYMBLE,7
+Pokemon = DWEBBLE,7
 
 
 

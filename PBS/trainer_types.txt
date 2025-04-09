@@ -104,11 +104,6 @@ Name = Gentleman
 Gender = Male
 BaseMoney = 72
 #-------------------------------
-[HIKER]
-Name = Hiker
-Gender = Male
-BaseMoney = 32
-#-------------------------------
 [JUGGLER]
 Name = Juggler
 Gender = Male
@@ -462,6 +457,12 @@ Name = Schoolgirl
 Gender = Female
 BaseMoney = 16
 IntroBGM = encounter_lass
+#---------------------------------------------
+[SCHOOLBOY]
+Name = Schoolboy
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
 #-------------------------------
 [YOUNGSTER]
 Name = Youngster
