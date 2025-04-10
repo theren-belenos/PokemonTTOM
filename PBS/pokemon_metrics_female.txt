@@ -70,9 +70,9 @@ ShadowSprite = 0,-13,2
 [UNFEZANT,,female]
 BackSprite = -15,35
 FrontSprite = 11,5
-ShadowSprite = 2,5,4
+ShadowSprite = 2,5,6
 #-------------------------------
 [PYROAR,,female]
 BackSprite = -21,45
 FrontSprite = 9,8
-ShadowSprite = 3,-8,3
+ShadowSprite = 3,-8,5

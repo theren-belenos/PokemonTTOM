@@ -56,14 +56,13 @@ Pokemon = LITLEO,5
 Pokemon = LOTAD,5
 
 [BUGCATCHER,Victor]
-LoseText = Nooooo!
+LoseText = Oof! I might need more bugs!
 Pokemon = WURMPLE,5
 Pokemon = WURMPLE,5
-Pokemon = DURANT,5
-Pokemon = DURANT,5
+Pokemon = NYMBLE,5
 
 [LADY,Natalie]
-LoseText = Nooooo!
+LoseText = Beautiful, no?!
 Pokemon = ODDISH,7
 Pokemon = PONYTA,7
 
@@ -88,19 +87,19 @@ Pokemon = PLUSLE,8
 Pokemon = MINUN,8
 
 [FISHERMAN,Neil]
-LoseText = Nooooo!
+LoseText = You're too loud!
 Pokemon = LOTAD,7
 Pokemon = PSYDUCK,7
 Pokemon = FRILLISH,7
 
-[BACKPACKER,Tim]
-LoseText = Nooooo!
+[BACKPACKERFEMALE,Chloe]
+LoseText = Not really a break if I loose...
 Pokemon = DWEBBLE,9
 Pokemon = NOIBAT,9
 
 [HIKER,Patrice]
-LoseText = Nooooo!
-Pokemon = GEODUDE,10
+LoseText = That's a nice hike!
+Pokemon = GEODUDE,12
 
 #-----------------------------------------------
 #
@@ -117,15 +116,14 @@ Pokemon = SILCOON,8
 
 [BUGCATCHER,Charly]
 LoseText = Don't you love the forest?
-Pokemon = DURANT,6
 Pokemon = NYMBLE,6
 Pokemon = JOLTIK,6
+Pokemon = NYMBLE,6
 
 [BUGMANIAC,Max]
 LoseText = Let's say you're a bug fan then.
-Pokemon = NYMBLE,7
 Pokemon = DWEBBLE,7
-
+Pokemon = DURANT,7
 
 
 

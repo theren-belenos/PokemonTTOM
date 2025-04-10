@@ -158,6 +158,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,15
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [005]   # Route 2 - west
@@ -165,8 +166,9 @@ Name = Route 2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,21,15
+MapPosition = 0,19,15
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [006]   # Route 2 - center north
@@ -176,6 +178,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,16
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [007]   # Route 2 - east
@@ -183,8 +186,9 @@ Name = Route 2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,19,15
+MapPosition = 0,21,15
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [009]   # Route 2 - center south
@@ -194,6 +198,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,17
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [010]   # Route 2 - south
@@ -203,6 +208,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,18
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [232]   # Route 2 - near daycare
@@ -212,6 +218,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,21,17
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 
 
@@ -1988,6 +1995,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,18,15
 MapSize = 1,1
+BattleBack = forest
 Environment = Forest
 #-------------------------------
 [225]   # Forest 2 - overworld

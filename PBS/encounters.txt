@@ -3631,7 +3631,7 @@ SuperRod
 	30,PALOSSAND,30,35
 	
 #-------------------------------
-[222]   # Forest 1 - east
+[223]   # Forest 1 - east
 Land,20
     10,DURANT,4,6
 	25,WURMPLE,4,6

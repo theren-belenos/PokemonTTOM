@@ -61,7 +61,7 @@ module QuestModule
   # The croagunks in route 1
   BattleQuest1 = {
     :ID => "4",
-    :Name => "Reclaim a bag from wild Pokémons (rec. lvl: 15 or more)",
+    :Name => "Reclaim the bag (rec. lvl: 15+)",
     :QuestGiver => "Henry",
     :Stage1 => "Defeat the wild Croagunks (lvl 15+).",
 	:Stage2 => "Pick up the bag.",

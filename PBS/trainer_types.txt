@@ -510,7 +510,7 @@ IntroBGM = encounter_rival
 BattleBGM = battle_rival
 #-------------------------------
 [COLLECTOR]
-Name = Camper
+Name = Collector
 Gender = Male
 BaseMoney = 16
 IntroBGM = encounter_youngster
@@ -592,10 +592,16 @@ BaseMoney = 24
 IntroBGM = encounter_youngster
 #-------------------------------
 [BACKPACKER]
-Name = Fisherman
+Name = Backpacker
 Gender = Male
 BaseMoney = 24
-IntroBGM = encounter_youngster
+IntroBGM = encounter_hiker
+#-------------------------------
+[BACKPACKERFEMALE]
+Name = Backpacker
+Gender = Female
+BaseMoney = 24
+IntroBGM = encounter_hiker
 #-------------------------------
 [HIKER]
 Name = Hiker
