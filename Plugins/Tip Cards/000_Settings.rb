@@ -167,7 +167,7 @@ module Settings
 			},
 			:TIME4 => {
                 :Title => _INTL("Time System - Changing time"),
-                :Text => _INTL("More infos on how these different phases flow together will be given later.\n\nOh and if you want to speed up the game, just press the AUX button (Default : Q)"),
+                :Text => _INTL("More infos on how these different phases flow together will be given later.\n\nOh and if you want to speed up the game, just press the AUX1 button (Default : TAB)"),
                 :Background => "bg2",
 			},
 			

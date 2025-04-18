@@ -762,7 +762,7 @@ class DynamaxSpritePositioner < SpritePositioner
     @sprites["info"].visible = true
     ret = false
     loop do
-      sprite.visible = ((System.uptime * 8).to_i % 4) < 3 
+      sprite.visible = ((System.uptime * 8).to_i % 4) < 3
       Graphics.update
       Input.update
       self.update

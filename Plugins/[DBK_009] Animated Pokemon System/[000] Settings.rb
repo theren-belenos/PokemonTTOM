@@ -23,7 +23,7 @@ module Settings
   # Shows battler shadow sprites on the player's side when true.
   # This is false by default because the default battle UI will block them anyway.
   #-----------------------------------------------------------------------------
-  SHOW_PLAYER_SIDE_SHADOW_SPRITES = true
+  SHOW_PLAYER_SIDE_SHADOW_SPRITES = false
   
   #-----------------------------------------------------------------------------
   # When true, sprites will be constricted in the Summary/Storage/Pokedex UI's.

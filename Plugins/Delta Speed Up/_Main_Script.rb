@@ -37,7 +37,7 @@ module Input
       $GameSpeed = 0 if $GameSpeed >= SPEEDUP_STAGES.size
       $PokemonSystem.battle_speed = $GameSpeed if $PokemonSystem && $PokemonSystem.only_speedup_battles == 1
       $RefreshEventsForTurbo  = true
-	  pbMessage(_INTL("Speed x {1}", SPEEDUP_STAGES[$GameSpeed].to_s))
+	  pbMessage(_INTL("\\wu\\sign[frlgchoiceskin]\\^Speed x {1}\\|", SPEEDUP_STAGES[$GameSpeed].to_s))
     end
   end
 end
