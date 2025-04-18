@@ -32,7 +32,7 @@ module Input
   def self.update
     update_KGC_ScreenCapture
     pbScreenCapture if trigger?(Input::F8)
-    if $CanToggle && trigger?(Input::JUMPUP)
+    if $CanToggle && trigger?(Input::AUX1)
       $GameSpeed += 1
       $GameSpeed = 0 if $GameSpeed >= SPEEDUP_STAGES.size
       $PokemonSystem.battle_speed = $GameSpeed if $PokemonSystem && $PokemonSystem.only_speedup_battles == 1

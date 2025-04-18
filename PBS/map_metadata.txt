@@ -230,7 +230,8 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,20
 MapSize = 1,1
-Environment = Grass
+BattleBack = rocky
+Environment = Rock
 #-------------------------------
 [015]   # Route 3 - south
 Name = Route 3
@@ -239,7 +240,8 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,21
 MapSize = 1,1
-Environment = Grass
+BattleBack = rocky
+Environment = Rock
 
 
 
@@ -2008,6 +2010,26 @@ Environment = Forest
 
 #-------------------------------
 [235]   # Cave 1 - overworld
+Name = Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,19
+MapSize = 1,1
+BattleBack = rocky
+Environment = Rock
+
+#-------------------------------
+[366]   # Cave 1 - Geodude Pït
+Name = Geodude Pit
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,19
+MapSize = 1,1
+BattleBack = cave
+Environment = Cave
+
 #-------------------------------
 [236]   # Cave 2 - overworld
 #-------------------------------

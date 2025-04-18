@@ -73,6 +73,30 @@ module QuestModule
     :RewardString => "A reward from Henry"
   }
   
+  # Team absolution kidnapping in Geodude Pit
+  BattleQuest2 = {
+    :ID => "5",
+    :Name => "Free the Milcery (rec. lvl: 12+)",
+    :QuestGiver => "Martha",
+    :Stage1 => "Take Milcery from them!",
+	:Stage2 => "Go back to Martha",
+	:Location1 => "Geodude Pit",
+	:Location2 => "Geodude Pit",
+    :QuestDescription => "Some strange looking persons stole Martha's Milcery. Confront them and take it back!",
+    :RewardString => "???"
+  }
+  
+    # Abandonned scarf route 3 to route 5
+  ItemQuest3 = {
+    :ID => "6",
+    :Name => "Find the scarf's owner",
+    :QuestGiver => "None",
+    :Stage1 => "Find the scarf's owner",
+	:Location1 => "???",
+    :QuestDescription => "You found a scarf lost by someone. Where can it's owner be? The scarf is partially covered by sand...",
+    :RewardString => "???"
+  }
+  
   
 
 end

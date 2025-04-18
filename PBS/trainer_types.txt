@@ -295,6 +295,11 @@ Name = Team Rocket
 Gender = Female
 BaseMoney = 32
 #-------------------------------
+[ROCKETADMIN_Petrel]
+Name = Team Rocket Admin
+Gender = Male
+BaseMoney = 32
+#-------------------------------
 [ROCKETBOSS]
 Name = Rocket Boss
 Gender = Male
@@ -591,7 +596,7 @@ Gender = Male
 BaseMoney = 24
 IntroBGM = encounter_youngster
 #-------------------------------
-[BACKPACKER]
+[BACKPACKERMALE]
 Name = Backpacker
 Gender = Male
 BaseMoney = 24
@@ -608,3 +613,59 @@ Name = Hiker
 Gender = Male
 BaseMoney = 32
 IntroBGM = encounter_hiker
+#-------------------------------
+[TEAMGRUNTMALE]
+Name = Team Absolution
+Gender = Male
+BaseMoney = 24
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMGRUNTFEMALE]
+Name = Team Absolution
+Gender = Female
+BaseMoney = 24
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMADMINMALE]
+Name = Absolution Admin
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMADMINFEMALE]
+Name = Absolution Admin
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMGENIUS]
+Name = Absolution Genius
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMLEADER]
+Name = Absolution Leader
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_teamleader
+BattleBGM = battle_teamleader
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMMYSTERYGUY]
+Name = Mysterious
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team

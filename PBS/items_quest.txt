@@ -22,3 +22,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A clean looking suitcase belonging to Henry.
+
+#-------------------------------
+[SANDSCARF]
+Name = Scarf
+NamePlural = Scarfs
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A scarf. You don't know it's owner. It's partially covered by sand.

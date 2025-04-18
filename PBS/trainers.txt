@@ -74,12 +74,12 @@ Pokemon = JOLTIK,6
 
 [GARDENER,Hank]
 LoseText = Gardening is easier than battling...
-Pokemon = SANDSHREW,8
-Pokemon = PSYDUCK,8
+Pokemon = SANDSHREW,7
+Pokemon = PSYDUCK,7
 
 [NINJABOY,Billy]
 LoseText = Damn! Retreat! Where are my smoke bombs??
-Pokemon = SEVIPER,9
+Pokemon = SEVIPER,8
 
 [CYCLISTFEMALE,Lana]
 LoseText = Battling is good too!
@@ -94,12 +94,10 @@ Pokemon = FRILLISH,7
 
 [BACKPACKERFEMALE,Chloe]
 LoseText = Not really a break if I loose...
-Pokemon = DWEBBLE,9
+Pokemon = DWEBBLE,8
 Pokemon = NOIBAT,9
 
-[HIKER,Patrice]
-LoseText = That's a nice hike!
-Pokemon = GEODUDE,12
+
 
 #-----------------------------------------------
 #
@@ -125,6 +123,56 @@ LoseText = Let's say you're a bug fan then.
 Pokemon = DWEBBLE,7
 Pokemon = DURANT,7
 
+#-----------------------------------------------
+#
+#		Geodude Pit trainers
+#
+#-----------------------------------------------
 
+[HIKER,Gregory]
+LoseText = Exploring caves is so fun!
+Pokemon = GEODUDE,8
+Pokemon = SANDSHREW,8
+Pokemon = MACHOP,8
+
+[TEAMGRUNTFEMALE,Ana]
+LoseText = It can't be!
+Pokemon = KOFFING,12
+Pokemon = MACHOP,12
+
+[TEAMGRUNTMALE,Bob]
+LoseText = My ankle!
+Pokemon = PURRLOIN,12
+Pokemon = DRIFLOON,12
+
+[HIKER,Philippe]
+LoseText = I guess you wanted a battle!
+Pokemon = DWEBBLE,9
+Pokemon = MASCHIFF,10
+
+#-----------------------------------------------
+#
+#		Route 3 trainers
+#
+#-----------------------------------------------
+[HIKER,Nick]
+LoseText = ...and the fresh air is neat!
+Pokemon = ARCHEN,30
+Pokemon = SANDSLASH,30
+
+[BACKPACKERFEMALE,Emily]
+LoseText = Who built this "road"??
+Pokemon = SMOOCHUM,12
+Pokemon = SNUBBULL,12
+
+[BACKPACKERMALE,Alvin]
+LoseText = No but really where am I??
+Pokemon = FARFETCHD,13
+
+[CYCLISTMALE,Arnold]
+LoseText = Ever went to the cycling road?
+Pokemon = MAGNEMITE,10
+Pokemon = CLOBBOPUS,11
+Pokemon = VULPIX,11
 
 

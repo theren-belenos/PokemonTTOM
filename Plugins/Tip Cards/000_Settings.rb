@@ -186,7 +186,7 @@ module Settings
 			:TOWNDEV0 => {
                 :Title => _INTL("Gym Team - First Trainer"),
                 :Text => _INTL("Allows you to have a trainer in your Gym."),
-                :Image => "catch",
+                :Image => "towndev0",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => "?",
@@ -203,7 +203,7 @@ module Settings
 			:TOWNDEV1 => {
                 :Title => _INTL("Gym Interiors - Lvl. 1"),
                 :Text => _INTL("Base for your gym's interiors."),
-                :Image => "catch",
+                :Image => "towndev1",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => "?",
@@ -220,7 +220,7 @@ module Settings
 			:TOWNDEV2 => {
                 :Title => _INTL("Leader's room - Lvl. 1"),
                 :Text => _INTL("Base leader room."),
-                :Image => "catch",
+                :Image => "towndev2",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => "?",
@@ -237,7 +237,7 @@ module Settings
 			:TOWNDEV3 => {
                 :Title => _INTL("Gym Exteriors - Lvl. 1"),
                 :Text => _INTL("Base for your gym's exteriors."),
-                :Image => "catch",
+                :Image => "towndev3",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => "?",
@@ -254,7 +254,7 @@ module Settings
 			:TOWNDEV4 => {
                 :Title => _INTL("Pokémon Center - Floor 1"),
                 :Text => _INTL("Reconstruction of the Pokémon Center."),
-                :Image => "catch",
+                :Image => "towndev4",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => "?",
@@ -270,7 +270,7 @@ module Settings
 			:TOWNDEV5 => {
                 :Title => _INTL("Pokémon Lab - Lvl. 1"),
                 :Text => _INTL("Prof. Maple's Lab. A kind of HQ for the Town."),
-                :Image => "catch",
+                :Image => "towndev5",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => "?",
@@ -287,7 +287,7 @@ module Settings
 			:TOWNDEV6 => {
                 :Title => _INTL("Clearing - Your House"),
                 :Text => _INTL("Clears the wreckage on your House."),
-                :Image => "catch",
+                :Image => "towndev6",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 0,
@@ -308,7 +308,7 @@ module Settings
 			:TOWNDEV7 => {
                 :Title => _INTL("Dept. Store - Floor 1 opening"),
                 :Text => _INTL("Opens the first floor of the Dept. Store (Medicines & Balls)."),
-                :Image => "catch",
+                :Image => "towndev7",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 500,
@@ -326,7 +326,7 @@ module Settings
 			:TOWNDEV8 => {
                 :Title => _INTL("Gym Welcoming - Consolation"),
                 :Text => _INTL("Send Marley on a formation to improve the odds of the challengers coming back after defeat."),
-                :Image => "catch",
+                :Image => "towndev8",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 1000,
@@ -342,8 +342,8 @@ module Settings
 			
 			:TOWNDEV9 => {
                 :Title => _INTL("Gym Interiors - Lvl. 2"),
-                :Text => _INTL("Improve interiors of your Gym. Repairs and clean everything."),
-                :Image => "catch",
+                :Text => _INTL("Improve interiors of your Gym. Repairs and clears everything."),
+                :Image => "towndev9",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
@@ -360,7 +360,7 @@ module Settings
             :TOWNDEV10 => {
                 :Title => _INTL("Pokémon Lab - Lvl. 2"),
                 :Text => _INTL("Upgrades the Lab with a new scientist and research funds."),
-                :Image => "catch",
+                :Image => "towndev10",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 3000,
@@ -378,7 +378,7 @@ module Settings
 			:TOWNDEV11 => {
                 :Title => _INTL("Your House"),
                 :Text => _INTL("Build your House."),
-                :Image => "catch",
+                :Image => "towndev11",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
@@ -395,7 +395,7 @@ module Settings
 			:TOWNDEV12 => {
                 :Title => _INTL("Clearing - House n°1"),
                 :Text => _INTL("Clears the wreckage on the house n°1."),
-                :Image => "catch",
+                :Image => "towndev12",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 0,
@@ -412,7 +412,7 @@ module Settings
 			:TOWNDEV13 => {
                 :Title => _INTL("Clearing - Town exteriors"),
                 :Text => _INTL("Clears the wreckage of the town's roads."),
-                :Image => "catch",
+                :Image => "towndev13",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 0,
@@ -429,7 +429,7 @@ module Settings
 			:TOWNDEV14 => {
                 :Title => _INTL("Clearing - Major Spot n°1"),
                 :Text => _INTL("Clears the wreckage on the major spot n°1."),
-                :Image => "catch",
+                :Image => "towndev14",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 0,
@@ -442,11 +442,15 @@ module Settings
                 :Background => "bg2",
 			},
 			
+			#---------------------------------------------------------------------------------------
+			#	Fame 5
+			#---------------------------------------------------------------------------------------		
+			
 			
 			:TOWNDEV15 => {
                 :Title => _INTL("Dept.Store - Floor 2 opening"),
                 :Text => _INTL("Opens the second floor of the Dept. Store (Exploration items & Berries)."),
-                :Image => "catch",
+                :Image => "towndev15",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
@@ -461,15 +465,10 @@ module Settings
 			},
 			
 			
-			
-			
-			#---------------------------------------------------------------------------------------
-			#	Fame 5
-			#---------------------------------------------------------------------------------------			
 			:TOWNDEV16 => {
                 :Title => _INTL("Dept.Store - Floor 1 Lvl. 2"),
                 :Text => _INTL("Upgrades the first floor of the Department Store (Medicines & Balls)."),
-                :Image => "catch",
+                :Image => "towndev16",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
@@ -487,7 +486,7 @@ module Settings
 			:TOWNDEV17 => {
                 :Title => _INTL("Gym Team - Second trainer"),
                 :Text => _INTL("Allows you to have another trainer on your Gym."),
-                :Image => "catch",
+                :Image => "towndev17",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 5000,
@@ -505,7 +504,7 @@ module Settings
 			:TOWNDEV18 => {
                 :Title => _INTL("Leader room - Lvl.2"),
                 :Text => _INTL("Upgrades the visuals of your Leader room."),
-                :Image => "catch",
+                :Image => "towndev18",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
@@ -522,7 +521,7 @@ module Settings
 			:TOWNDEV19 => {
                 :Title => _INTL("Pokémon Center - Mezzanine"),
                 :Text => _INTL("Give access to the PokéCenter's mezzanine - The help center."),
-                :Image => "catch",
+                :Image => "towndev19",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 3000,
@@ -539,7 +538,7 @@ module Settings
 			:TOWNDEV20 => {
                 :Title => _INTL("Negociations - Double battle"),
                 :Text => _INTL("Allows you to toggle single or double battle for your Gym battle."),
-                :Image => "catch",
+                :Image => "towndev20",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 5000,
@@ -557,7 +556,7 @@ module Settings
 			:TOWNDEV21 => {
                 :Title => _INTL("House n°1"),
                 :Text => _INTL("Build the first house : Melly's house."),
-                :Image => "catch",
+                :Image => "towndev21",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 4000,
@@ -574,7 +573,7 @@ module Settings
 			:TOWNDEV22 => {
                 :Title => _INTL("Clearing - Block 1"),
                 :Text => _INTL("Clears the wreckage on the Block 1."),
-                :Image => "catch",
+                :Image => "towndev22",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 5000,
@@ -591,7 +590,7 @@ module Settings
 			:TOWNDEV23 => {
                 :Title => _INTL("Town Exteriors - Lvl.2"),
                 :Text => _INTL("Upgrades the exteriors of your Town, improving tourism."),
-                :Image => "catch",
+                :Image => "towndev23",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 8000,
@@ -604,11 +603,10 @@ module Settings
                 :Background => "bg2",
 			},
 			
-			
 			:TOWNDEV24 => {
-                :Title => _INTL("Trainer's Academy"),
-                :Text => _INTL("Build the Trainers Academy, giving you a lot of fame and tourism."),
-                :Image => "catch",
+                :Title => _INTL("Bike Seller"),
+                :Text => _INTL("The Day Care Man now sells bikes"),
+                :Image => "towndev24",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 10000,
@@ -617,39 +615,56 @@ module Settings
 			},
 			:TOWNDEV24REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards:\n- A lot of PNJs, quests, items...\n- Passive town income + 3000\n- Passive fame +10 per week"),
+                :Text => _INTL("The Daycare man now sells bikes (and you will have one for free, that allows you access to the Route 4's Cycling road) \nPassive Town income +500 per week"),
                 :Background => "bg2",
 			},
 			
 			
 			:TOWNDEV25 => {
+                :Title => _INTL("Trainer's Academy"),
+                :Text => _INTL("Build the Trainers Academy, giving you a lot of fame and tourism."),
+                :Image => "towndev25",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 10000,
+				:Workers => 2,
+				:BuildingIndex => 25
+			},
+			:TOWNDEV25REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Various rewards:\n- A lot of PNJs, quests, items...\n- Passive town income + 3000\n- Passive fame +10 per week"),
+                :Background => "bg2",
+			},
+			
+			
+			:TOWNDEV26 => {
                 :Title => _INTL("Clearing - Major spot 2"),
                 :Text => _INTL("Clears the wreckage on the major spot 2."),
-                :Image => "catch",
+                :Image => "towndev26",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 5000,
 				:Workers => 1,
-				:BuildingIndex => 25
+				:BuildingIndex => 26
 			},
-			:TOWNDEV25REWARDS => {
+			:TOWNDEV26REWARDS => {
                 :Title => _INTL("Rewards"),
                 :Text => _INTL("Allows you to build the Safari Park afterwards."),
                 :Background => "bg2",
 			},
 			
 			
-			:TOWNDEV26 => {
+			:TOWNDEV27 => {
                 :Title => _INTL("Clearing - Major spot 3"),
                 :Text => _INTL("Clears the wreckage on the major spot 2."),
-                :Image => "catch",
+                :Image => "towndev27",
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
 				:Workers => 1,
-				:BuildingIndex => 26
+				:BuildingIndex => 27
 			},
-			:TOWNDEV26REWARDS => {
+			:TOWNDEV27REWARDS => {
                 :Title => _INTL("Rewards"),
                 :Text => _INTL("Allows you to build the Beauty Market afterwards."),
                 :Background => "bg2",
