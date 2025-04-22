@@ -2065,6 +2065,24 @@ Bicycle = true
 MapPosition = 0,20,22
 MapSize = 1,1
 #-------------------------------
+[367]   # Central Town Pokémon center
+Name = Central Town PC
+MapPosition = 0,20,22
+#-------------------------------
+[368]   # Central Town Mart
+Name = Central Town Mart
+MapPosition = 0,20,22
+#-------------------------------
+[369]   # Central Town House
+Name = Central Town House
+MapPosition = 0,20,22
+#-------------------------------
+[370]   # Pokémon League
+Name = Pokémon League
+MapPosition = 0,20,22
+
+
+#-------------------------------
 [243]   # Town 2 - Bug Gym
 Name = Sombake
 Outdoor = true
