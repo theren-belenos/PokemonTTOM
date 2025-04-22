@@ -176,3 +176,19 @@ Pokemon = CLOBBOPUS,11
 Pokemon = VULPIX,11
 
 
+#-----------------------------------------------
+#
+#		Route 4 trainers
+#
+#-----------------------------------------------
+
+#-----------------------------------------------
+#
+#		Route 5 trainers
+#
+#-----------------------------------------------
+[COWGIRL,Bridget]
+LoseText = ...that might be too much sand for me.
+Pokemon = SANDSHREW,11
+Pokemon = DWEBBLE,11
+Pokemon = GEODUDE,11

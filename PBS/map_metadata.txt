@@ -302,7 +302,9 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,20,23
 MapSize = 1,1
-Environment = Grass
+Environment = Sand
+BattleBack = sand
+Weather = Sandstorm,100
 
 
 

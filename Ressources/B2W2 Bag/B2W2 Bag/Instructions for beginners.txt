@@ -1,6 +1,0 @@
-1)First Copy the PScreen_Bag Script provided down below tjis text file.
-2) Paste this stuff into your Project's Pscreen_Bag Script.
-3)Now copy these Audio and Graphics folder and Merge them up!
-4)Done!
-
-READ THE LINES AT THE ABOVE OF THE SCRIPT TO CONFIGURE IT

@@ -669,3 +669,9 @@ BaseMoney = 80
 IntroBGM = encounter_teamgrunt
 BattleBGM = battle_teamgrunt
 VictoryBGM = battle_victory_team
+#-------------------------------
+[COWGIRL]
+Name = Cowgirl
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_hiker
