@@ -86,7 +86,7 @@ module QuestModule
     :RewardString => "???"
   }
   
-    # Abandonned scarf route 3 to route 5
+  # Abandonned scarf route 3 to route 5
   ItemQuest3 = {
     :ID => "6",
     :Name => "Find the scarf's owner",
@@ -95,6 +95,17 @@ module QuestModule
 	:Location1 => "???",
     :QuestDescription => "You found a scarf lost by someone. Where can it's owner be? The scarf is partially covered by sand...",
     :RewardString => "???"
+  }
+  
+  # Show a MimeJr to the scientist in Central Twon PC
+  ItemQuest3 = {
+    :ID => "7",
+    :Name => "Show a MimeJr",
+    :QuestGiver => "Scientist",
+    :Stage1 => "Capture a MimeJr and show it to the scientist",
+	:Location1 => "Central Town PC",
+    :QuestDescription => "A scientist inside the Central Town pokémon Center need to study a MimeJr for a few minutes. Go capture one and show it to her.",
+    :RewardString => "Some growth medecines (Protein etc...)"
   }
   
   
