@@ -308,107 +308,40 @@ class PokemonPokedexInfo_Scene
     end
     text = pbDrawSpecialFormText(species) # If this species is a special form.
     if nil_or_empty?(text)
-      prevo = species.get_previous_species
-      #-------------------------------------------------------------------------
-      # These unique forms are treated as if they have no family trees.
-      #-------------------------------------------------------------------------
-      if [:PICHU_2, :FLOETTE_5, :GIMMIGHOUL_1].include?(species.id) ||
-         species.species == :PIKACHU && (8..15).include?(species.form)
-        prevo = species.species
-      end
-      #-------------------------------------------------------------------------
-      # When the species is the base species in a family tree.
-      #-------------------------------------------------------------------------
-      if prevo == species.species
-        text = t[0] + "Evolution Paths\n"
-        family_ids = []
-        evos = species.get_evolutions
-        evos.each do |evo|
-          next if family_ids.include?(evo[0]) || evo[1] == :None
-          family_ids.push(evo[0])
-          species.branch_evolution_forms.each do |form|
-            try_species = GameData::Species.get_species_form(evo[0], form)
-            try_evos = try_species.get_evolutions
-            next if try_evos.empty?
-            try_evos.each do |try_evo|
-              next if family_ids.include?(try_evo[0]) || try_evo[1] == :None
-              family_ids.push(try_evo[0])
-            end
-          end
-        end
-        if family_ids.empty?          # Species doesn't evolve.
-          text << "Does not evolve."
-        else                          # Species does evolve.
-          family_ids.each_with_index do |fam, i|  
-            name = ($player.seen?(fam)) ? GameData::Species.get(fam).name : "????"
-            text << t[1] + name
-            if i < family_ids.length - 1
-              if fam == GameData::Species.get(family_ids[i + 1]).get_previous_species
-                text << t[0] + "=> "  # Shows evolution pathway.
-              else
-                text << t[0] + ", "   # Shows a new pathway.
-              end				
-            end
-          end
-        end
-      #-------------------------------------------------------------------------
-      # When the species is an evolved species.
-      #-------------------------------------------------------------------------
-      else
-        #-----------------------------------------------------------------------
-        # Compiles the actual description for this species' evolution method.
-        # Some species require special treatment due to unique evolution traits.
-        #-----------------------------------------------------------------------
-        form = (species.default_form >= 0) ? species.default_form : species.form
-        prevo_data = GameData::Species.get_species_form(prevo, form)
-        if species.species == :ALCREMIE
-          name = t[1] + "#{prevo_data.name}" + t[0]
-          text << "Use various " + t[2] + "Sweets" + t[0] + " on #{name}."
-        else
-          index = 0
-          prevo_data.get_evolutions(true).each do |evo|
-            next if evo[0] != species.species
-            next if evo[1] == :None
-            if species.species == :URSHIFU && evo[1] == :Item
-              next if evo[2] != [:SCROLLOFDARKNESS, :SCROLLOFWATERS][species.form]
-            end
-            spec = ($player.seen?(prevo_data.id)) ? prevo_data.id : nil
-            data = GameData::Evolution.get(evo[1])
-            text << " " if index > 0
-            text << data.description(spec, evo[0], evo[2], nil_or_empty?(text), true, t)
-            break if index > 0
-            index += 1
-          end
-          case species.species
-          when :LYCANROC
-            case species.form
-            when 0 then text << " Must be day for this form."
-            when 1 then text << " Must be night for this form."
-            when 2 then text << " Requires " + t[2] + GameData::Ability.get(:OWNTEMPO).name + t[0] + "."
-            end
-          when :TOXTRICITY
-            text << " Form depends on " + t[2] + "Nature" + t[0] + "."
-          end
-        end
-        heading = t[0] + "Evolution Method"
-        if species.form_name
-          Settings::REGIONAL_NAMES.each do |region|
-            next if !species.form_name.include?(region)
-            heading = t[0] + "#{region} Evolution"
-          end
-        end
-        evos = species.evolutions
-        if inMenu && evos[-1][0] == prevo && !evos.any? { |evo| evo[0] != prevo && evo[1] != :None }
-          heading << " (Final stage)"
-        end
-        text = heading + "\n" + text
-      end
-      if !inMenu && $player.owned?(@species) && !@data_hash[:family].empty?
-        pbDrawTextPositions(overlay, [
-          [_INTL("View Family"), Graphics.width - 34, 292, :right, Color.new(0, 112, 248), Color.new(120, 184, 232)]
-        ])
-      end
-    end
+		text = ""
+		text << t[1]
+		family_ids = species.get_family_species
+		name = $player.pokedex.seen?(family_ids[0]) ? GameData::Species.get(family_ids[0]).name : "???"
+		text << name
+		text << t[0]
+		if family_ids[1].nil?
+			text << " (no evolutions)"
+		else
+			GameData::Species.get(family_ids[0]).get_evolutions(true).each do |evo|
+				next if evo == family_ids[0]
+				data = GameData::Evolution.get(evo[1])
+				text << "\n=> "
+				text << t[1]
+				name = $player.pokedex.seen?(evo[0]) ? GameData::Species.get(evo[0]).name : "???"
+				text << name
+				text << t[0]
+				text << " ("
+				text << data.description(family_ids[0], evo[0], evo[2], false, true, t)
+				text << ")"
+				GameData::Species.get(evo[0]).get_evolutions(true).each do |evo2|
+					data = GameData::Evolution.get(evo2[1])
+					text << "\n  => "
+					text << t[1]
+					name = $player.pokedex.seen?(evo2[0]) ? GameData::Species.get(evo2[0]).name : "???"
+					text << name
+					text << t[0]
+					text << " ("
+					text << data.description(evo[0], evo2[0], evo2[2], false, true, t)
+					text << ")"
+				end
+			end
+		end
+	end
     return text
   end
   

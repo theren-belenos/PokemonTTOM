@@ -222,37 +222,37 @@ module GameData
       #-------------------------------------------------------------------------
       # Determines the first portion of the description based on proc type.
       if @event_proc
-        desc = (full) ? "Have #{full_name}" : "Or" 
-        desc = _INTL("{1} trigger a special event", desc)
+        desc = (full) ? "Have #{full_name} " : "" 
+        desc = _INTL("{1}trigger a special event", desc)
       elsif @use_item_proc
-        desc = (full) ? "Expose #{full_name} to" : "Or use"
+        desc = (full) ? "Expose #{full_name} to" : "use"
         desc = _INTL("{1} {2}", desc, param_name)
       elsif @on_trade_proc
-        desc = (full) ? _INTL("Trade {1}", full_name) : _INTL("Or trade")
+        desc = (full) ? _INTL("Trade {1}", full_name) : _INTL("trade")
       elsif @after_battle_proc
-        desc = (full) ? "Have #{full_name}" : "Or"
-        desc = _INTL("{1} conclude a battle", desc)
+        desc = (full) ? "Have #{full_name} " : ""
+        desc = _INTL("{1}conclude a battle", desc)
       elsif @level_up_proc
         if @any_level_up
-          desc = (full) ? _INTL("Level up {1}", full_name) : _INTL("Or level up")
+          desc = (full) ? _INTL("Level up {1}", full_name) : _INTL("lvl up")
         else
-          desc = (full) ? "Have #{full_name}" : "Or"
-          desc = _INTL("{1} reach level {2} or higher", desc, param)
+          desc = (full) ? "Have #{full_name} " : ""
+          desc = _INTL("{1}reach level {2} or higher", desc, param)
         end
       elsif @id == :Shedinja
         desc = (full) ? "#{full_name} evolves" : "evolution"
         desc = _INTL("May be left behind in an empty party slot after {1}", desc)
       else
-        desc = (full) ? "#{full_name} evolves" : "Or"
+        desc = (full) ? "#{full_name} evolves" : ""
         desc = _INTL("{1} through unknown means", desc)
       end
       #-------------------------------------------------------------------------
       # Determines the full description by combining method-specific details.
       if !nil_or_empty?(@description)
         desc2 = _INTL("#{@description}", param_name, param_name2)
-        full_desc = _INTL("{1} {2}.", desc, desc2)
+        full_desc = _INTL("{1} {2}", desc, desc2)
       else
-        full_desc = _INTL("{1}.", desc)
+        full_desc = _INTL("{1}", desc)
       end
       return full_desc
     end
@@ -289,7 +289,7 @@ GameData::Evolution.each do |evo|
   when :MaxHappiness                           then evo.description = _INTL("while it's the happiest it can be")
   when :HappinessDay                           then evo.description = _INTL("in the day while it's happy")
   when :HappinessNight                         then evo.description = _INTL("at night while it's happy")
-  when :HappinessMove                          then evo.description = _INTL("while it's happy and knows the move {1}")
+  when :HappinessMove                          then evo.description = _INTL("while it's happy and knows {1}")
   when :HappinessMoveType                      then evo.description = _INTL("while it's happy and knows {1}-type move")
   when :HappinessHoldItem, :HoldItemHappiness  then evo.description = _INTL("while it's happy and holds {1}")
   when :Beauty                                 then evo.description = _INTL("while its beauty is high")
@@ -297,7 +297,7 @@ GameData::Evolution.each do |evo|
   when :HoldItemMale, :HoldItemFemale          then evo.description = _INTL("while it holds {1}")
   when :DayHoldItem                            then evo.description = _INTL("in the day while it holds {1}")
   when :NightHoldItem                          then evo.description = _INTL("at night while it holds {1}")
-  when :HasMove                                then evo.description = _INTL("while it knows the move {1}")
+  when :HasMove                                then evo.description = _INTL("while it knows {1}")
   when :HasMoveType                            then evo.description = _INTL("while it knows {1}-type move")
   when :HasInParty                             then evo.description = _INTL("while {1} is in the party")
   when :Location                               then evo.description = _INTL("while located in {1}")

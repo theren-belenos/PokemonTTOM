@@ -472,8 +472,9 @@ class PokemonPokedexInfo_Scene
       #-------------------------------------------------------------------------
       # Sets up sprites if the species is a single-stage species.
       #-------------------------------------------------------------------------
-      prevo = species_data.get_previous_species
-      if prevo == species_data.species || @data_hash[:family].empty?
+	  family_ids = species_data.get_family_species
+	  stages = family_ids.length
+	  if stages == 1
         imagepos.push([path + "evolutions", 234, ICONS_POS_Y - 34, 0, 0, 272, 64])
         @sprites["familyicon0"].pbSetParams(@species, @gender, @form)
         @sprites["familyicon0"].x = ICONS_CENTER
@@ -484,29 +485,30 @@ class PokemonPokedexInfo_Scene
       # Sets up sprites if the species has multiple stages.
       #-------------------------------------------------------------------------
       else
-        form = (species_data.default_form >= 0) ? species_data.default_form : @form
-        prevo_data = GameData::Species.get_species_form(prevo, form)
-        stages = (species_data.get_baby_species == prevo) ? 1 : 2
-        imagepos.push([path + "evolutions", 234, ICONS_POS_Y - 34, 0, 64 * stages, 272, 64])
-        @sprites["familyicon0"].pbSetParams(@species, @gender, @form)
-        @sprites["familyicon0"].x = (stages == 1) ? ICONS_RIGHT_DOUBLE : ICONS_RIGHT_TRIPLE
+		if stages == 2 && family_ids[1] == @species
+			offset = 64
+		elsif stages == 2 && family_ids[0] == @species
+			offset = 128
+		elsif stages == 3 && family_ids[0] == @species
+			offset = 192
+		elsif stages == 3 && family_ids[1] == @species
+			offset = 256
+		else
+			offset = 320
+		end
+		data0 = $player.pokedex.seen?(family_ids[0]) ? family_ids[0] : "none"
+		data1 = $player.pokedex.seen?(family_ids[1]) ? family_ids[1] : "none"
+        imagepos.push([path + "evolutions", 234, ICONS_POS_Y - 34, 0, offset, 272, 64])
+        @sprites["familyicon0"].pbSetParams(data0, @gender, GameData::Species.get_species_form(family_ids[0], @form).form)
+        @sprites["familyicon0"].x = (stages == 2) ? ICONS_LEFT_DOUBLE : ICONS_LEFT_TRIPLE
         @sprites["familyicon0"].visible = true
-        if $player.seen?(prevo)
-          @sprites["familyicon1"].pbSetParams(prevo, @gender, prevo_data.form)
-        else
-          @sprites["familyicon1"].species = nil
-        end
-        @sprites["familyicon1"].x = (stages == 1) ? ICONS_LEFT_DOUBLE : ICONS_CENTER
+        @sprites["familyicon1"].pbSetParams(data1, @gender, GameData::Species.get_species_form(family_ids[1], @form).form)
+        @sprites["familyicon1"].x = (stages == 2) ? ICONS_RIGHT_DOUBLE : ICONS_CENTER
         @sprites["familyicon1"].visible = true
-        if stages == 2
-          baby = species_data.get_baby_species
-          baby_data = GameData::Species.get_species_form(baby, prevo_data.form)
-          if $player.seen?(baby)
-            @sprites["familyicon2"].pbSetParams(baby, @gender, baby_data.form)
-          else
-            @sprites["familyicon2"].species = nil
-          end
-          @sprites["familyicon2"].x = ICONS_LEFT_TRIPLE
+        if stages == 3
+		  data2 = $player.pokedex.seen?(family_ids[2]) ? family_ids[2] : "none"
+          @sprites["familyicon2"].pbSetParams(data2, @gender, GameData::Species.get_species_form(family_ids[2], @form).form)
+          @sprites["familyicon2"].x = ICONS_RIGHT_TRIPLE
           @sprites["familyicon2"].visible = true
         else
           @sprites["familyicon2"].visible = false
