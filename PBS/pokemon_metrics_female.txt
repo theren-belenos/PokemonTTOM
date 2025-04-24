@@ -1,19 +1,19 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [RATICATE,,female]
-BackSprite = 0,10
+BackSprite = -5,5
 FrontSprite = 2,10
 ShadowSprite = 0,-2,0
 #-------------------------------
 [PIKACHU,,female]
-BackSprite = -5,5
+BackSprite = -8,-4
 FrontSprite = 8,5
-ShadowSprite = 1,12,3
+ShadowSprite = 1,6,3
 #-------------------------------
 [RAICHU,,female]
-BackSprite = 0,3
+BackSprite = 2,-4
 FrontSprite = 0,6
-ShadowSprite = 0,13,4
+ShadowSprite = 0,11,4
 #-------------------------------
 [RHYHORN,,female]
 BackSprite = 0,15
@@ -44,7 +44,7 @@ ShadowSprite = 0,5,1
 [COMBUSKEN,,female]
 BackSprite = 0,6
 FrontSprite = 0,10
-ShadowSprite = 0,2,0
+ShadowSprite = 0,-1,0
 AnimationSpeed = 2,1
 #-------------------------------
 [SHIFTRY,,female]
@@ -53,12 +53,12 @@ FrontSprite = 3,23
 ShadowSprite = 4,-18,-2
 #-------------------------------
 [LUXIO,,female]
-BackSprite = 0,7
+BackSprite = 0,2
 FrontSprite = 4,14
 ShadowSprite = 0,-4,0
 #-------------------------------
 [LUXRAY,,female]
-BackSprite = 0,6
+BackSprite = 0,4
 FrontSprite = 7,11
 ShadowSprite = 0,-3,0
 #-------------------------------
@@ -73,6 +73,6 @@ FrontSprite = 11,5
 ShadowSprite = 2,5,6
 #-------------------------------
 [PYROAR,,female]
-BackSprite = -21,19
+BackSprite = -13,19
 FrontSprite = 9,8
 ShadowSprite = 3,-15,5

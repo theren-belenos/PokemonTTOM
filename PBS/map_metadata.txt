@@ -255,6 +255,7 @@ Bicycle = true
 MapPosition = 0,19,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [017]   # Route 4 - east
 Name = Route 4
@@ -264,6 +265,7 @@ Bicycle = true
 MapPosition = 0,18,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [018]   # Route 4 - center
 Name = Route 4
@@ -273,6 +275,7 @@ Bicycle = true
 MapPosition = 0,17,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [019]   # Route 4 - west
 Name = Route 4
@@ -282,6 +285,7 @@ Bicycle = true
 MapPosition = 0,16,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [020]   # Route 4 - far west
 Name = Route 4
@@ -291,7 +295,7 @@ Bicycle = true
 MapPosition = 0,15,22
 MapSize = 1,1
 Environment = Grass
-
+BattleBack = field
 
 
 #-------------------------------

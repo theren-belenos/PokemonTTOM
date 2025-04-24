@@ -3618,7 +3618,7 @@ SuperRod
 	
 #-------------------------------
 [366]   # Cave 1 - Geodude Pit
-Cave,6
+Cave,4
     2,GEODUDE,7,9
 	1,KOFFING,7,9
 	1,MAKUHITA,7,9

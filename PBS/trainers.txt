@@ -97,7 +97,9 @@ LoseText = Not really a break if I loose...
 Pokemon = DWEBBLE,8
 Pokemon = NOIBAT,9
 
-
+[HIKER,Patrice]
+LoseText = Hiking is good for your lungs!
+Pokemon = GEODUDE,12
 
 #-----------------------------------------------
 #
@@ -181,6 +183,15 @@ Pokemon = VULPIX,11
 #		Route 4 trainers
 #
 #-----------------------------------------------
+[JOGGER,Walt]
+LoseText = I'm sure you're a bike user! Boo!
+Pokemon = MACHOP,11
+Pokemon = BONSLY,11
+
+[FISHERMAN,Daniel]
+LoseText = Where are the fishes?!
+Pokemon = LOTAD,11
+Pokemon = PSYDUCK,11
 
 #-----------------------------------------------
 #

@@ -10,7 +10,7 @@ module Settings
   #-----------------------------------------------------------------------------
   # The amount of zoom applied to the back sprites of all Pokemon. (1 for no scaling)
   #-----------------------------------------------------------------------------
-  BACK_BATTLER_SPRITE_SCALE = 3
+  BACK_BATTLER_SPRITE_SCALE = 2.5
   
   #-----------------------------------------------------------------------------
   # The amount of time the game waits before loading each new frame of a sprite's animation.

@@ -98,7 +98,7 @@ module QuestModule
   }
   
   # Show a MimeJr to the scientist in Central Twon PC
-  ItemQuest3 = {
+  PokemonQuest1 = {
     :ID => "7",
     :Name => "Show a MimeJr",
     :QuestGiver => "Scientist",
