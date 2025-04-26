@@ -59,12 +59,12 @@ end
 EventHandlers.add(:on_start_battle, :start_speedup, proc {
   $CanToggle = false
   $GameSpeed = $PokemonSystem.battle_speed if $PokemonSystem.only_speedup_battles == 1
-  $GameSpeed += 0.25
+  $GameSpeed += 0.3
 })
 EventHandlers.add(:on_end_battle, :stop_speedup, proc {
   $GameSpeed = 0 if $PokemonSystem.only_speedup_battles == 1
   $CanToggle = true if $PokemonSystem.only_speedup_battles == 0
-  $GameSpeed -= 0.25
+  $GameSpeed -= 0.3
 })
 #===============================================================================#
 # Can only change speed in battle during command phase (prevents weird animation glitches)

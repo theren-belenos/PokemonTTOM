@@ -88,6 +88,47 @@ module Settings
 			},
 			
 			#---------------------------------------------------------------------------------------
+			#	Pokédex & pokémon resume
+			#---------------------------------------------------------------------------------------			
+			:POKEDEX1 => {
+                :Title => _INTL("Pokemon Resume"),
+                :Text => _INTL("The Quest System tracks the various tasks given to you by various PNJs."),
+                :Background => "bg2",
+			},
+			:POKEDEX2 => {
+                :Title => _INTL("Pokemon Resume - EV and IV"),
+                :Text => _INTL("You can see all of your quests in the Quest System screen menu."),
+                :Image => "quests_list",
+				:ImagePosition => :Topcenter,
+                :Background => "bg2",
+			},
+			:POKEDEX3 => {
+                :Title => _INTL("Pokemon Resume - Move relearner"),
+                :Text => _INTL("Each quest has a color code depending on what you have to do to complete it:\n- Gold: Main Quests (various objectives)\n- Red: Battle Quest (win battle(s))\n-Blue: Item Quest (give/find an item)\n- Green: Pokémon Quest (give/show a Pokémon, an Egg...)"),
+                :Background => "bg2",
+			},
+			:POKEDEX4 => {
+                :Title => _INTL("Pokedex - Data page"),
+                :Text => _INTL("You can select a quest to have more infos (localisation, who gave it to you, reward...)"),
+                :Image => "quests_infos",
+				:ImagePosition => :Left,
+                :Background => "bg2",
+			},
+			:POKEDEX5 => {
+                :Title => _INTL("Pokedex - Data page 1/2"),
+                :Text => _INTL("You can select a quest to have more infos (localisation, who gave it to you, reward...)"),
+                :Image => "quests_infos",
+				:ImagePosition => :Left,
+                :Background => "bg2",
+			},
+			:POKEDEX6 => {
+                :Title => _INTL("Pokedex - Data page 2/2"),
+                :Text => _INTL("You can select a quest to have more infos (localisation, who gave it to you, reward...)"),
+                :Image => "quests_infos",
+				:ImagePosition => :Left,
+                :Background => "bg2",
+			},
+			#---------------------------------------------------------------------------------------
 			#	Quest System
 			#---------------------------------------------------------------------------------------			
 			:QUESTS1 => {

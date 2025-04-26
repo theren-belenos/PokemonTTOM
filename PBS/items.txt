@@ -4324,5 +4324,6 @@ Name = Life Vial
 NamePlural = Life Vials
 Pocket = 8
 Price = 0
+FieldUse = Direct
 Flags = KeyItem
 Description = Heals and revive all of your Pokémons a limited number of times. Replenish it by going to a Pokémon Center.

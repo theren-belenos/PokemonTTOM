@@ -135,7 +135,7 @@ MapSize = 1,1
 Environment = Grass
 #-------------------------------
 [364]   # Fihserman's hut
-Name = Radio Tower
+Name = Fisherman's hut
 MapPosition = 0,23,13
 #-------------------------------
 [040]   # Route 1- north
@@ -296,6 +296,16 @@ MapPosition = 0,15,22
 MapSize = 1,1
 Environment = Grass
 BattleBack = field
+#-------------------------------
+[371]   # Cycling road entry - east
+Name = Cycling road entry - east
+MapPosition = 0,19,22
+Outdoor = false
+#-------------------------------
+[372]   # Cycling road entry - west
+Name = Cycling road entry - east
+MapPosition = 0,15,22
+Outdoor = false
 
 
 #-------------------------------

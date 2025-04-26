@@ -119,7 +119,8 @@ class Player < Trainer
             @links = array.to_h
             unless silent
                 pbSEPlay(SocialLinkSettings::NEW_LINK_SOUND_EFFECT)
-                pbMessage(_INTL(SocialLinkSettings::NEW_LINK_MESSAGE + "\\wtnp[40]", @links[profile_id].name))
+				name = (@links[profile_id].name == "Rival") ? pbGet(12) : @links[profile_id].name
+                pbMessage(_INTL(SocialLinkSettings::NEW_LINK_MESSAGE + "\\wtnp[40]", name))
             end
             return true
         end
