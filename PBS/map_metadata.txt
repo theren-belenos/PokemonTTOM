@@ -2094,6 +2094,10 @@ MapPosition = 0,20,22
 [370]   # Pokémon League
 Name = Pokémon League
 MapPosition = 0,20,22
+#-------------------------------
+[373]   # Rank Up Arena
+Name = Rank Up Arena
+MapPosition = 0,20,22
 
 
 #-------------------------------

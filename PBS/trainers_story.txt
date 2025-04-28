@@ -165,6 +165,200 @@ Pokemon = TOGEDEMARU,7
 LoseText = Oww, my poor Pokémon!
 Pokemon = DEDENNE,7
 #-------------------------------
+
+#-----------------------------------------------
+#
+# 	Tom Badge Battle
+#
+#-----------------------------------------------
+[TOM,Tom_BadgeBattle_Normal]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Grass]
+LoseText = Congratulations!
+Pokemon = LOTAD,13
+	EV = 0,0,0,10,32,32
+Pokemon = LEAFEON,15
+	Moves = RAZORLEAF,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 0,37,37,10,0,0
+#-------------------------------
+[TOM,Tom_BadgeBattle_Fire]
+Items = POTION
+LoseText = Congratulations!
+Pokemon = PONYTA,13
+	EV = 10,32,0,32,0,0
+Pokemon = FLAREON,15
+	Moves = EMBER,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,37,0,37,0,0
+#-------------------------------
+[TOM,Tom_BadgeBattle_Water]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Electric]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Fighting]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Poison]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Ground]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Flying]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Psychic]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Bug]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Rock]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Ghost]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Ice]
+LoseText = Congratulations!
+Pokemon = SMOOCHUM,13
+	EV = 10,0,0,32,32,0
+Pokemon = GLACEON,15
+	Moves = ICYWIND,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 0,0,37,0,37,10
+#-------------------------------
+[TOM,Tom_BadgeBattle_Dragon]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Dark]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Steel]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+[TOM,Tom_BadgeBattle_Fairy]
+LoseText = Congratulations!
+Pokemon = PURRLOIN,13
+	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+	EV = 10,32,0,32,0,0
+Pokemon = UMBREON,15
+	Moves = SNARL,QUICKATTACK,BABYDOLLEYES,SWIFT
+	Item = ORANBERRY
+	EV = 10,0,37,0,0,37
+#-------------------------------
+
+
+
+
+
+
+
+
+
+
 [KYANA,Kyana_Battle1_Fairy]
 LoseText = Oww, my poor Pokémon!
 Pokemon = DEDENNE,7

@@ -440,3 +440,23 @@ GameData::SocialLinkProfile.register({
     
 })
 
+GameData::SocialLinkProfile.register({
+    :id             => :TOM,
+    :name		    => _INTL("Tom"),
+    :image		    => "Tom",
+    :init_location  => _INTL("Nekanta League ?"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random Steel starter "),
+    :favorite_pokemon => :EEVEE
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :TOMFIRE,
+    :name		    => _INTL("Tom"),
+    :image		    => "Tom",
+    :init_location  => _INTL("Nekanta League ?"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random Fire starter "),
+    :favorite_pokemon => :EEVEE
+    
+})
+

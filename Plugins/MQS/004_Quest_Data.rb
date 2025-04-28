@@ -102,7 +102,7 @@ module QuestModule
     :ID => "7",
     :Name => "Show a MimeJr",
     :QuestGiver => "Scientist",
-    :Stage1 => "Capture a MimeJr and show it to the scientist",
+    :Stage1 => "Show a MimeJr to the scientist",
 	:Location1 => "Central Town PC",
     :QuestDescription => "A scientist inside the Central Town pokémon Center need to study a MimeJr for a few minutes. Go capture one and show it to her.",
     :RewardString => "Some growth medecines (Protein etc...)"

@@ -675,3 +675,10 @@ Name = Cowgirl
 Gender = Female
 BaseMoney = 32
 IntroBGM = encounter_hiker
+#-------------------------------
+[TOM]
+Name = Stand-in Gym Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
