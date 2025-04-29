@@ -3,8 +3,8 @@ module QuestModule
   # First Main Quest
   MainQuest1 = {
     :ID => "1",
-    :Name => "Prologue",
-    :QuestGiver => "Prof. Maple",
+    :Name => "Chapter 1: Beginning your journey",
+    :QuestGiver => "Prof Maple",
     :Stage1 => "Head outside",
 	:Stage2 => "Find Melly in Route 1",
 	:Stage3 => "Go back to your Gym",
@@ -18,17 +18,32 @@ module QuestModule
   # Chapter 1
   MainQuest2 = {
     :ID => "5",
-    :Name => "Chapter 1 : Becoming a Gym Leader",
-    :QuestGiver => "Prof. Maple",
+    :Name => "Chapter 2: Becoming a Gym Leader",
+    :QuestGiver => "Prof Maple",
     :Stage1 => "Reach the Pokémon League",
 	:Stage2 => "Obtain the badge",
 	:Stage3 => "Win the rank up battle",
-	:Stage4 => "Go back to your town and speak to Maple",
+	:Stage4 => "Speak to Prof Maple",
     :Location1 => "Center Town",
 	:Location2 => "Pokémon League",
 	:Location3 => "Pokémon League",
-	:Location4 => "Maple's lab",
+	:Location4 => "Pokémon Lab",
     :QuestDescription => "Travel to the Pokémon League to become a true Gym Leader!",
+    :RewardString => ""
+  }
+  
+  # Chapter 1
+  MainQuest3 = {
+    :ID => "8",
+    :Name => "Ch.3 : First week as a Gym leader",
+    :QuestGiver => "Prof Maple",
+    :Stage1 => "Go to sleep",
+	:Stage2 => "Speak to Prof Maple",
+	:Stage3 => "Finish the first week",
+    :Location1 => "Pokemon Lab (upstairs)",
+	:Location2 => "Your Gym",
+	:Location3 => "/",
+    :QuestDescription => "Learn the ropes of being a Gym Leader by opening the Gym for your first week !",
     :RewardString => ""
   }
   
@@ -40,7 +55,7 @@ module QuestModule
     :Stage1 => "Find the glasses.",
 	:Stage2 => "Give the glasses to Jon.",
 	:Location1 => "\tn",
-    :Location2 => "Prof. Maple's lab",
+    :Location2 => "Pokémon Lab",
     :QuestDescription => "Jon in Prof. Maple's lab lost his glasses while investigating the seism somewhere in the city. Find it and return it to him.",
     :RewardString => "A reward from Jon"
   }

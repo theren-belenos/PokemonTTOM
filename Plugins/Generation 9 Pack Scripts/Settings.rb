@@ -28,12 +28,12 @@ module Settings
   # treated as separate status conditions.
   #-----------------------------------------------------------------------------
   SLEEP_EFFECTS_CAUSE_DROWSY     = false
-  FREEZE_EFFECTS_CAUSE_FROSTBITE = false
+  FREEZE_EFFECTS_CAUSE_FROSTBITE = true
   #-----------------------------------------------------------------------------
   # When true, Sleep can be cured by getting hit from electrocute moves.
   # (Spark, Volt Tackle, and Wild Charge)
   #-----------------------------------------------------------------------------
-  ELECTROCUTE_MOVES_CURE_SLEEP = false
+  ELECTROCUTE_MOVES_CURE_SLEEP = true
   
 
   #=============================================================================

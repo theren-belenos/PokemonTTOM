@@ -88,46 +88,44 @@ module Settings
 			},
 			
 			#---------------------------------------------------------------------------------------
-			#	Pokédex & pokémon resume
+			#	Pokédex & Pokémon resume
 			#---------------------------------------------------------------------------------------			
-			:POKEDEX1 => {
+			:POKEMON1 => {
                 :Title => _INTL("Pokemon Resume"),
-                :Text => _INTL("The Quest System tracks the various tasks given to you by various PNJs."),
-                :Background => "bg2",
-			},
-			:POKEDEX2 => {
-                :Title => _INTL("Pokemon Resume - EV and IV"),
-                :Text => _INTL("You can see all of your quests in the Quest System screen menu."),
-                :Image => "quests_list",
+                :Text => _INTL("Submenu of the first screen allows you notably to modify Pokémon nickname, or directly access its Pokedex entry."),
+				:Image => "pokemon_resume",
 				:ImagePosition => :Topcenter,
                 :Background => "bg2",
 			},
-			:POKEDEX3 => {
+			:POKEMON2 => {
+                :Title => _INTL("Pokemon legacy"),
+                :Text => _INTL("The next page offers little info but the submenu allows you to access legacy info on the Pokémon - check it out!"),
+                :Image => "pokemon_legacy",
+				:ImagePosition => :Topcenter,
+                :Background => "bg2",
+			},
+			:POKEMON3 => {
+                :Title => _INTL("Pokemon Resume - EV and IV"),
+                :Text => _INTL("In the stat page, you can see which stats are boosted (red) or lowered (blue) by nature. You can also see IV, EV and Hidden Power type by pressing enter."),
+                :Image => "pokemon_stats",
+				:ImagePosition => :Right,
+                :Background => "bg2",
+			},
+			:POKEMON4 => {
                 :Title => _INTL("Pokemon Resume - Move relearner"),
-                :Text => _INTL("Each quest has a color code depending on what you have to do to complete it:\n- Gold: Main Quests (various objectives)\n- Red: Battle Quest (win battle(s))\n-Blue: Item Quest (give/find an item)\n- Green: Pokémon Quest (give/show a Pokémon, an Egg...)"),
+                :Text => _INTL("In the move page, the submenu allows you to check, forget but also relearn moves wherever you are."),
+				:Image => "pokemon_relearn",
+				:ImagePosition => :Topcenter,
                 :Background => "bg2",
 			},
-			:POKEDEX4 => {
+			:POKEMON5 => {
                 :Title => _INTL("Pokedex - Data page"),
-                :Text => _INTL("You can select a quest to have more infos (localisation, who gave it to you, reward...)"),
-                :Image => "quests_infos",
-				:ImagePosition => :Left,
+                :Text => _INTL("The Pokédex notably have the DATA page, which shows you nearly every info you can imagine on the species - check it out!"),
+                :Image => "pokemon_pokedex",
+				:ImagePosition => :Topcenter,
                 :Background => "bg2",
 			},
-			:POKEDEX5 => {
-                :Title => _INTL("Pokedex - Data page 1/2"),
-                :Text => _INTL("You can select a quest to have more infos (localisation, who gave it to you, reward...)"),
-                :Image => "quests_infos",
-				:ImagePosition => :Left,
-                :Background => "bg2",
-			},
-			:POKEDEX6 => {
-                :Title => _INTL("Pokedex - Data page 2/2"),
-                :Text => _INTL("You can select a quest to have more infos (localisation, who gave it to you, reward...)"),
-                :Image => "quests_infos",
-				:ImagePosition => :Left,
-                :Background => "bg2",
-			},
+			
 			#---------------------------------------------------------------------------------------
 			#	Quest System
 			#---------------------------------------------------------------------------------------			
@@ -145,7 +143,7 @@ module Settings
 			},
 			:QUESTS3 => {
                 :Title => _INTL("Quests System - Color"),
-                :Text => _INTL("Each quest has a color code depending on what you have to do to complete it:\n- Gold: Main Quests (various objectives)\n- Red: Battle Quest (win battle(s))\n-Blue: Item Quest (give/find an item)\n- Green: Pokémon Quest (give/show a Pokémon, an Egg...)"),
+                :Text => _INTL("Each quest has a color code depending on what you have to do to complete it:\n- Gold: Main Quests (various objectives)\n- Red: Battle Quest (win battle(s))\n- Blue: Item Quest (give/find an item)\n- Green: Pokémon Quest (give/show a Pokémon, an Egg...)"),
                 :Background => "bg2",
 			},
 			:QUESTS4 => {

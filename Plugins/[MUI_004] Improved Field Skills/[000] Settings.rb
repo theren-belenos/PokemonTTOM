@@ -3,13 +3,17 @@ module Settings
   # Field Skills that require badges to use.
   #-----------------------------------------------------------------------------
   HM_SKILLS    = [:CUT,         # HM01
-                  :FLY,         # HM02
-                  :SURF,        # HM03
-                  :STRENGTH,    # HM04
-                  :WATERFALL,   # HM05
-                  :DIVE,        # HM06
-                  :FLASH,       # Legacy HM
-                  :ROCKSMASH,   # Legacy HM
+				  :FLASH,       # HM02
+				  :ROCKSMASH,   # HM03
+				  :CALMSKY,		# HM04
+                  :FLY,         # HM05
+				  :STRENGTH,    # HM06
+                  :SURF,        # HM07
+                  :ROCKCLIMB,    # HM08
+                  :DIVE,        # HM09
+                  :WATERFALL,   # HM10
+                 
+                  
                  ]
                  
   #-----------------------------------------------------------------------------
@@ -17,7 +21,6 @@ module Settings
   #-----------------------------------------------------------------------------
   MISC_SKILLS  = [:WHIRLPOOL,   # Legacy HM (Not implemented in Essentials)
                   :DEFOG,       # Legacy HM (Not implemented in Essentials)
-                  :ROCKCLIMB,   # Legacy HM (Not implemented in Essentials)
                   :DIG,         # Field Move
                   :TELEPORT,    # Field Move
                   :SWEETSCENT,  # Field Move

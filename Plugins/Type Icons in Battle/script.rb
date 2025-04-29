@@ -29,7 +29,7 @@ class Battle::Scene::PokemonDataBox
     when 1
       height = @types_bitmap.height / GameData::Type.count
       @types_x = (@battler.opposes?(0)) ? 24 : 48
-      @types_y = (@battler.opposes?(0)) ? (@databoxBitmap.height / 2) + 3 : (@databoxBitmap.height / 2) - 10
+      @types_y = (@battler.opposes?(0)) ? (@databoxBitmap.height / 2) + 4 : (@databoxBitmap.height / 2) - 9
     when 0
       height = @types_bitmap.height / GameData::Type.count
       @types_x = (@battler.opposes?(0)) ? 24 : 40

@@ -4354,7 +4354,7 @@ TotalPP = 5
 Target = AllNearFoes
 FunctionCode = FreezeTargetAlwaysHitsInHail
 Flags = CanProtect,CanMirrorMove,Wind
-EffectChance = 10
+EffectChance = 15
 Description = A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
 #-------------------------------
 [ICEHAMMER]
@@ -4379,7 +4379,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = FreezeTarget
 Flags = CanProtect,CanMirrorMove
-EffectChance = 10
+EffectChance = 15
 Description = The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
 #-------------------------------
 [ICICLECRASH]
@@ -4405,7 +4405,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = FreezeTarget
 Flags = Contact,CanProtect,CanMirrorMove,Punching
-EffectChance = 10
+EffectChance = 15
 Description = The target is punched with an icy fist. It may also leave the target frozen.
 #-------------------------------
 [FREEZEDRY]
@@ -4418,7 +4418,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = FreezeTargetSuperEffectiveAgainstWater
 Flags = CanProtect,CanMirrorMove
-EffectChance = 10
+EffectChance = 15
 Description = The user rapidly cools the target. This may freeze the target. Is super-effective on Water types.
 #-------------------------------
 [AURORABEAM]
@@ -4521,7 +4521,7 @@ TotalPP = 25
 Target = AllNearFoes
 FunctionCode = FreezeTarget
 Flags = CanProtect,CanMirrorMove
-EffectChance = 10
+EffectChance = 15
 Description = The user attacks with a chilling gust of powdery snow. It may also freeze the targets.
 #-------------------------------
 [ICEBALL]
@@ -7083,7 +7083,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = FreezeTarget
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-EffectChance = 10
+EffectChance = 15
 Description = The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.
 #-------------------------------
 [PSYCHIC]

@@ -140,6 +140,7 @@ module Badge_Compiler
           :region       => contents["Region"],
           :order        => contents["Order"]
         }
+			
         # Add badge's data to records
         GameData::Badge.register(badge_hash)
         badge_names.push(badge_hash[:name])

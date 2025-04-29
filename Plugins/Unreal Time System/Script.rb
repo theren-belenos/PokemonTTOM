@@ -93,7 +93,7 @@ module UnrealTime
 
   # Choose switch number that when true the time won't pass (or -1 to cancel). 
   # Only works if TIME_STOPS=true.
-  SWITCH_STOPS = -1
+  SWITCH_STOPS = 63
 
   # Choose variable(s) number(s) that can hold time passage (or -1 to cancel).
   # Look at description for more details.
@@ -105,7 +105,7 @@ module UnrealTime
   # Initial date. In sequence: Year, month, day, hour and minutes.
   # Method UnrealTime.reset resets time back to this time.
   def initial_date
-    return Time.local(2000,1,1, 9,0)
+    return Time.local(2025,1,1, 9,0)
   end
 
   # Advance to next time. If time already passed, advance 

@@ -35,12 +35,22 @@ class Badgecase
     }
   end
 
+  def badge_order(badge)
+	if badge == :RAINBOWBADGE
+		return $town.rank * 2 - 1
+	else 
+		return GameData::Badge.try_get(badge).order
+	end
+  end
+
   def all_badges
     updated_data
     badge_list = (@obtained_badges + @unobtained_badges).to_a
-    badge_list = badge_list.sort_by { |badge| GameData::Badge.try_get(badge).order }
+    badge_list = badge_list.sort_by { |badge| badge_order(badge)  }
     return badge_list
   end
+  
+  
 
   def all_badges_information
     updated_data
@@ -104,7 +114,7 @@ class Badgecase
       if @unobtained_badges[i] == badge
         @obtained_badges.push(@unobtained_badges[i])
         sym = @unobtained_badges[i].to_sym
-        @obtained_time[sym] = pbGetTimeNow
+        @obtained_time[sym] = $town.week
         @unobtained_badges.delete_at(i)
         break
       end

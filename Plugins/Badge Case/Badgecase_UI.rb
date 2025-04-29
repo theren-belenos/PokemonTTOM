@@ -220,14 +220,22 @@ class BadgeCase_Scene
       @sprites["badge"].setBitmap("Graphics/UI/Badgecase/Badges/#{@badges[@badgeindex].id}")
       @sprites["badge"].zoom_x = 160 / @sprites["badge"].src_rect.width.to_f
       @sprites["badge"].zoom_y = @sprites["badge"].zoom_x
-      @sprites["leadersprite"].setBitmap("Graphics/Trainers/#{@badges[@badgeindex].leadersprite}")
+	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
+		@sprites["leadersprite"].setBitmap("Graphics/Trainers/#{$player.trainer_type.to_s}")
+	  else
+		@sprites["leadersprite"].setBitmap("Graphics/Trainers/#{@badges[@badgeindex].leadersprite}")
+	  end
       @sprites["leadersprite"].zoom_x = 160 / @sprites["leadersprite"].src_rect.width.to_f
       @sprites["leadersprite"].zoom_y = @sprites["leadersprite"].zoom_x
-      @sprites["acepokemon"].species = @badges[@badgeindex].acepokemon if $PokemonGlobal.badges.has?(@badges[@badgeindex].id)
+	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
+		@sprites["acepokemon"].species = pbGet(35).last.species.to_s.upcase
+	  else
+		@sprites["acepokemon"].species = @badges[@badgeindex].acepokemon if $PokemonGlobal.badges.has?(@badges[@badgeindex].id)
+	  end
     end
     textpos = [
       [_INTL("BADGE INFO"), 26, 22, :left, base, shadow],
-      [_INTL("Obtained At"), 238, 86, :left, base, shadow],
+      [_INTL("Obtained"), 238, 86, :left, base, shadow],
       [_INTL("Main Type"), 238, 118, :left, base, shadow],
       [_INTL("Location"), 238, 150, :left, base, shadow],
       [_INTL("Leader"), 238, 182, :left, base, shadow],
@@ -240,22 +248,32 @@ class BadgeCase_Scene
       textpos.push([_INTL("???"), 26, 68, :left, base, shadow])
     end
     if $PokemonGlobal.badges.has?(@badges[@badgeindex].id) || BadgecaseSetting::BADGE_LOCATION_ALWAYS
-      textpos.push([@badges[@badgeindex].location, 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
+	    textpos.push([$town.name, 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  else
+        textpos.push([@badges[@badgeindex].location, 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  end
     else
       textpos.push([_INTL("???"), 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
     end
     if $PokemonGlobal.badges.has?(@badges[@badgeindex].id)
-      textpos.push([@badges[@badgeindex].leadername, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
-      textpos.push([@badges[@badgeindex].acepokemon.to_s.capitalize, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
+	    textpos.push([$player.name, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([pbGet(35).last.species.to_s.upcase, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  else
+        textpos.push([@badges[@badgeindex].leadername, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([@badges[@badgeindex].acepokemon.to_s.capitalize, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  end
       time = $PokemonGlobal.badges.get_time(@badges[@badgeindex].id)
-      textpos.push([_INTL("{1} {2} {3}",time.day,pbGetMonthName(time.mon),time.year), 425, 86, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+      textpos.push([_INTL("Week {1}",time), 425, 86, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
     else
       textpos.push([_INTL("???"), 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
       textpos.push([_INTL("???"), 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
       textpos.push([_INTL("Not Obtained"), 425, 86, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
     end
     if $PokemonGlobal.badges.has?(@badges[@badgeindex].id) || BadgecaseSetting::BADGE_TYPE_ALWAYS
-      type_number = GameData::Type.get(@badges[@badgeindex].type).icon_position
+	  actualtype = (@badges[@badgeindex].id == :RAINBOWBADGE) ? $town.type.upcase : @badges[@badgeindex].type
+      type_number = GameData::Type.get(actualtype).icon_position
       type_rect = Rect.new(0, type_number * 28, 64, 28)
       overlay.blt(392, 114, @typebitmap.bitmap, type_rect)
     else

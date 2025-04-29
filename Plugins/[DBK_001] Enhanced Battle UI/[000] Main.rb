@@ -55,7 +55,7 @@ class Battle::Scene
   SHADOW_LOWERED = Color.new(136, 48, 48)
 
   #-----------------------------------------------------------------------------
-  # Aliased to initilize UI elements.
+  # Aliased to initialize UI elements.
   #-----------------------------------------------------------------------------
   alias enhanced_pbInitSprites pbInitSprites
   def pbInitSprites
