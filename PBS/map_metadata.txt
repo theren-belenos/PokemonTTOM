@@ -17,8 +17,9 @@ BattleBack = field
 MapSize = 1,111
 #-------------------------------
 [022]   # Gym
-Name = Your gym
+Name = Your Gym
 MapPosition = 0,22,15
+BattleBack = gym
 #-------------------------------
 [033]   # Department Store 1F
 Name = Department Store
@@ -144,9 +145,8 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,23,12
-BattleBack = field
+BattleBack = beach
 MapSize = 1,1
-Environment = Grass
 
 
 
@@ -248,7 +248,7 @@ Environment = Rock
 
 #-------------------------------
 [016]   # Route 4 - far east
-Name = Route 4
+Name = Route 4 (east)
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -258,7 +258,7 @@ Environment = Grass
 BattleBack = field
 #-------------------------------
 [017]   # Route 4 - east
-Name = Route 4
+Name = Route 4 (east)
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -268,7 +268,7 @@ Environment = Grass
 BattleBack = field
 #-------------------------------
 [018]   # Route 4 - center
-Name = Route 4
+Name = Route 4 (west)
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -278,7 +278,7 @@ Environment = Grass
 BattleBack = field
 #-------------------------------
 [019]   # Route 4 - west
-Name = Route 4
+Name = Route 4 (west)
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -288,7 +288,7 @@ Environment = Grass
 BattleBack = field
 #-------------------------------
 [020]   # Route 4 - far west
-Name = Route 4
+Name = Route 4 (west)
 Outdoor = true
 ShowArea = true
 Bicycle = true
@@ -2007,7 +2007,7 @@ Environment = MovingWater
 [222]   # Forest 1 - overworld
 #-------------------------------
 [223]   # Forest 1 - east
-Name = Green Lush Forest
+Name = Green Lush Forest (east)
 Outdoor = false
 ShowArea = true
 Bicycle = true
@@ -2072,7 +2072,7 @@ MapSize = 1,1
 
 #-------------------------------
 [242]   # Town 1 - League center
-Name = Center Town
+Name = Central Town
 Outdoor = true
 ShowArea = true
 Bicycle = true

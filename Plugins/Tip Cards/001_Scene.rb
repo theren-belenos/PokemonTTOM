@@ -46,6 +46,12 @@ class TipCard_Scene
         @viewport = Viewport.new(0,0,Graphics.width,Graphics.height)
         @viewport.z = 99999
         @index = 0
+		@animatingFameLvl = false
+		@count = 0
+		@fraction_tic = 0
+		@exp_fraction = 0
+		@fameRequired = 0
+		@remainingFame = 0
         @pages = @tips.length
         @sprites = {}
         @sprites["background"] = IconSprite.new(0, 0, @viewport)
@@ -55,6 +61,10 @@ class TipCard_Scene
         @sprites["background"].visible = true
         @sprites["image"] = IconSprite.new(0, 0, @viewport)
         @sprites["image"].visible = false
+		@sprites["stars"] = IconSprite.new(0, 0, @viewport)
+        @sprites["stars"].visible = false
+		@sprites["hearts"] = IconSprite.new(0, 0, @viewport)
+        @sprites["hearts"].visible = false
         @sprites["arrow_right"] = IconSprite.new(0, 0, @viewport)
         @sprites["arrow_right"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/arrow_right"))
         @sprites["arrow_right"].x = Graphics.width / 2 + 48
@@ -65,7 +75,18 @@ class TipCard_Scene
         @sprites["arrow_left"].x = Graphics.width / 2 - 48 - @sprites["arrow_left"].bitmap.width
         @sprites["arrow_left"].y = @sprites["background"].y + @sprites["background"].bitmap.height -  @sprites["arrow_left"].bitmap.height - 4
         @sprites["arrow_left"].visible = false
-      
+		@sprites["famelvlbar"] = IconSprite.new(0, 0, @viewport)
+		@sprites["famelvlbar"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/famelvlbar"))
+		@sprites["famelvlbar"].x = @sprites["background"].x + 64
+        @sprites["famelvlbar"].y = @sprites["background"].y + 96
+        @sprites["famelvlbar"].visible = false
+		@famebarbitmap  = AnimatedBitmap.new("Graphics/Pictures/Tip Cards/famelvlfill")
+		@famebar = Sprite.new(@viewport)
+		@famebar.bitmap = @famebarbitmap.bitmap
+		@sprites["famelvlfill"] = @famebar
+		@sprites["famelvlfill"].x = @sprites["background"].x + 72
+        @sprites["famelvlfill"].y = @sprites["background"].y + 107
+        @sprites["famelvlfill"].visible = false
         @sprites["overlay"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
         @sprites["overlay"].visible = true
         pbSEPlay(Settings::TIP_CARDS_SHOW_SE)
@@ -79,26 +100,28 @@ class TipCard_Scene
             pbUpdate
             oldindex = @index
             quit = false
-            if Input.trigger?(Input::USE)
-                if @index < @pages - 1
-                    @index += 1
-                else 
-                    pbSEPlay(Settings::TIP_CARDS_DISMISS_SE)
-                    break
-                end
-            elsif Input.trigger?(Input::BACK) || Input.trigger?(Input::LEFT)
-                @index -= 1 if @index > 0
-            elsif Input.trigger?(Input::RIGHT)
-                @index += 1 if @index < @pages - 1
-            end
-            if oldindex != @index
-                pbDrawTip
-                if Settings::TIP_CARDS_SWITCH_SE
-                    pbSEPlay(Settings::TIP_CARDS_SWITCH_SE)
-                else
-                    pbPlayCursorSE
-                end
-            end
+			if @animatingFameLvl == false
+				if Input.trigger?(Input::USE)
+					if @index < @pages - 1
+						@index += 1
+					else 
+						pbSEPlay(Settings::TIP_CARDS_DISMISS_SE)
+						break
+					end
+				elsif Input.trigger?(Input::BACK) || Input.trigger?(Input::LEFT)
+					@index -= 1 if @index > 0
+				elsif Input.trigger?(Input::RIGHT)
+					@index += 1 if @index < @pages - 1
+				end
+				if oldindex != @index
+					pbDrawTip
+					if Settings::TIP_CARDS_SWITCH_SE
+						pbSEPlay(Settings::TIP_CARDS_SWITCH_SE)
+					else
+						pbPlayCursorSE
+					end
+				end
+			end
         end
     end
     
@@ -110,15 +133,108 @@ class TipCard_Scene
         pbDisposeSpriteHash(@sprites)
         @viewport.dispose
     end
+	
+	def fameLevelUp
+		overlay = @sprites["overlay"].bitmap
+		base = Settings::TIP_CARDS_TEXT_MAIN_COLOR
+		shadow = Settings::TIP_CARDS_TEXT_SHADOW_COLOR
+		@exp_fraction = 0
+		pbSEStop
+		@famebar.src_rect.width = @famebarbitmap.width
+		pbPlayLevelUpSE
+		oldlvl = $town.calculateFameLvl
+		newlvl = oldlvl + 1
+		bottomtext = "<ac><b>Fame level up: "
+		bottomtext << oldlvl.to_s
+		bottomtext << " -> <c3=FFD700,DAA520>"
+		bottomtext << newlvl.to_s
+		bottomtext << "</b></c3>"
+		drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 160, @sprites["background"].width - 48, bottomtext, base, shadow)
+		loop do
+			Graphics.update
+			Input.update
+			if Input.trigger?(Input::USE)
+				pbPlayCursorSE
+				break
+			end
+		end
+		rewards = $town.getRewardText(newlvl)
+		rewardtext = rewards[0]
+		newmin = rewards[1].to_i
+		newmax = rewards[2].to_i
+		if newmin > 0
+			rewardtext << "\nMinimum daily trainers: "
+			rewardtext << (newmin-1).to_s
+			rewardtext << " -> <c3=FFD700,DAA520><b>"
+			rewardtext << newmin.to_s
+			rewardtext << "</b></c3>"
+		end
+		if newmax > 0
+			rewardtext << "\nMaximum daily trainers: "
+			rewardtext << (newmax-1).to_s
+			rewardtext << " -> <c3=FFD700,DAA520><b>"
+			rewardtext << newmax.to_s
+			rewardtext << "</b></c3>"
+		end
+		rewardtext << "\nBonus: +<c3=FFD700,DAA520><b>$"
+		rewardtext << ($town.rank*1000).to_s
+		rewardtext << "</b></c3> funds & money!</al>"
+		drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 190, @sprites["background"].width - 48, rewardtext, base, shadow)
+		loop do
+			Graphics.update
+			Input.update
+			if Input.trigger?(Input::USE)
+				pbPlayCursorSE
+				break
+			end
+		end
+		fameToAdd = @remainingFame
+		fameNeeded = $town.calculateFameForUp(newlvl)
+		@exp_fraction = 0
+		target_fraction =  fameToAdd.to_f / fameNeeded.to_f 
+		@count = 100 * target_fraction
+		@fraction_tic = target_fraction / @count	
+		@famebar.src_rect.width = 0
+		pbSEPlay("Pkmn exp gain")
+	end
+	
+	def endFillbar
+		bottomtext = "Fame needed for level up: <b>"
+		bottomtext << @fameRequired.to_s
+		bottomtext << " </b>more"
+		overlay = @sprites["overlay"].bitmap
+		base = Settings::TIP_CARDS_TEXT_MAIN_COLOR
+		shadow = Settings::TIP_CARDS_TEXT_SHADOW_COLOR
+		drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 175, @sprites["background"].width - 48, bottomtext, base, shadow)
+	end
+	
+	def pbUpdateFillbar
+		if @exp_fraction >= 1
+			fameLevelUp
+		else
+			w = @exp_fraction * @famebarbitmap.width
+			@famebar.src_rect.width = w
+		end	
+		@exp_fraction += @fraction_tic
+		if @count <= 0
+			endFillbar if @remainingFame == 0
+			@animatingFameLvl = false
+			pbSEStop
+		else
+			@count -= 1
+		end	
+	end
   
     def pbUpdate
         pbUpdateSpriteHash(@sprites)
+		pbUpdateFillbar if (@animatingFameLvl)
     end
 
     def pbDrawTip
         overlay = @sprites["overlay"].bitmap
         overlay.clear
         @sprites["image"].visible = false
+		@sprites["stars"].visible = false
         @sprites["arrow_right"].visible = false
         @sprites["arrow_left"].visible = false
         pbSetSystemFont(overlay)
@@ -163,12 +279,28 @@ class TipCard_Scene
                 end
                 @sprites["image"].visible = true
             end
+			if info[:Stars]
+				@sprites["stars"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/Images/#{info[:Stars]}stars"))
+				@sprites["stars"].x = @sprites["background"].x + 50
+                @sprites["stars"].y = @sprites["background"].y + 235
+				@sprites["stars"].z = 500
+                @sprites["stars"].visible = true
+			end
+			if info[:TrainersInfos]
+				variableIndex = [0,204,205,206,207]
+				heartsCount = pbGet(variableIndex[info[:TrainersInfos]])
+				@sprites["stars"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/Images/#{heartsCount}hearts"))
+				@sprites["stars"].x = @sprites["background"].x + 100
+                @sprites["stars"].y = @sprites["background"].y + 85
+				@sprites["stars"].z = 500
+                @sprites["stars"].visible = true
+				@sprites["image"].x -= 30
+			end
 			
             title = "<ac>" + info[:Title] + "</ac>"
 		
             # drawFormattedTextEx(bitmap, x, y, width, text, baseColor = nil, shadowColor = nil, lineheight = 32)
-            drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, 
-                title, base, shadow)
+            drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, title, base, shadow)
             text_y_adj += info[:YAdjustment] if info[:YAdjustment]
 			if info[:BuildingIndex]
 				infos = "<ar>"
@@ -185,22 +317,455 @@ class TipCard_Scene
 				if (info[:Instant] && info[:Instant] == 1) 
 					infos += "\n<ar>"+instantbuildcolor+"<i>Instant build</i></c2></ar>"
 				end
-				drawFormattedTextEx(overlay, @sprites["background"].x + 8 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + 24 + top_text_x_adj), 
-					infos, base, shadow)
+				drawFormattedTextEx(overlay, @sprites["background"].x + 8 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + 24 + top_text_x_adj), infos, base, shadow)
 			end
-            text = "<al>" + info[:Text] + "</al>"
-            drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, 
-                @sprites["background"].width - 16 - text_x_adj + text_width_adj, text, base, shadow)
+			text = "<al>" + info[:Text] + "</al>"
+			if info[:Stars]
+				name = pbGet(36) 
+				trainerClass = info[:Image]
+				text = "<al>Class:</al>\n"
+				encountered = $town.trainersKnown[$town.rank][info[:Stars]]				
+				if (encountered.index {|x| x[1] == info[:id] }) == nil
+					text << "<ac><c3=FFD700,DAA520>New!</c3> " + info[:Text] + "</ac>"		
+				else
+					text << "<ac>" + info[:Text] + "</ac>"	
+				end
+				text << "\n\n<al>Name:</al>\n"
+				if (encountered.index {|x| x[1] == info[:id] && x[0] == name })
+					text << "<ac>" + name + "</ac>"
+				else
+					text << "<ac><c3=FFD700,DAA520>New!</c3> " + name + "</ac>"
+				end
+			end
+			if info[:TrainersInfos]
+				if info[:TrainersInfos] == 1
+					title = "Relation with Melly:"
+					text_x_adj = 140
+					text_width_adj = 30
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<al>Melly victory chances:\n"
+					stars = $town.getStarsOdds
+					i = 1
+					while i < stars.length
+						if stars[i] > 0
+							odds = getWinningChances(1, i)
+							text << "<b>"
+							text << odds.to_s
+							text << "</b>% against "
+							text << i.to_s
+							text << "-star trainers\n"
+						end
+						i += 1
+					end
+					bottomtext = "<ac><c3=B8A8E0,7240E8>Melly victories at the Gym: <b>"
+					bottomtext << $town.victoriesCount[1].to_s
+					bottomtext << "</b></c3></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+				end
+				if info[:TrainersInfos] == 2
+					title = "Relation with Samy:"
+					text_x_adj = 140
+					text_width_adj = 30
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<al>Samy victory chances:\n"
+					stars = $town.getStarsOdds
+					i = 1
+					while i < stars.length
+						if stars[i] > 0
+							odds = getWinningChances(2, i)
+							text << "<b>"
+							text << odds.to_s
+							text << "</b>% against "
+							text << i.to_s
+							text << "-star trainers\n"
+						end
+						i += 1
+					end
+					bottomtext = "<ac><c3=BDA46A,736440>Samy victories at the Gym: <b>"
+					bottomtext << $town.victoriesCount[2].to_s
+					bottomtext << "</b></c3></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+				end
+				if info[:TrainersInfos] == 3
+					title = "Relation with Kiana:"
+					text_x_adj = 140
+					text_width_adj = 30
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<al>Kiana victory chances:\n"
+					stars = $town.getStarsOdds
+					i = 1
+					while i < stars.length
+						if stars[i] > 0
+							odds = getWinningChances(3, i)
+							text << "<b>"
+							text << odds.to_s
+							text << "</b>% against "
+							text << i.to_s
+							text << "-star trainers\n"
+						end
+						i += 1
+					end
+					bottomtext = "<ac><c3=A8E0E0,48D8D8>Kiana victories at the Gym: <b>"
+					bottomtext << $town.victoriesCount[3].to_s
+					bottomtext << "</b></c3></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+				end
+				if info[:TrainersInfos] == 4
+					name = pbGet(12)
+					title = "Relation with "
+					title << name
+					title << ":"
+					text_x_adj = 140
+					text_width_adj = 30
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<al>"
+					text << name
+					text << " victory chances:\n"
+					stars = $town.getStarsOdds
+					i = 1
+					while i < stars.length
+						if stars[i] > 0
+							odds = getWinningChances(4, i)
+							text << "<b>"
+							text << odds.to_s
+							text << "</b>% against "
+							text << i.to_s
+							text << "-star trainers\n"
+						end
+						i += 1
+					end
+					bottomtext = "<ac><c3=F8A8B8,E82010>"
+					bottomtext << name
+					bottomtext << " victories at the Gym: <b>"
+					bottomtext << $town.victoriesCount[4].to_s
+					bottomtext << "</b></c3></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+				end
+			end
+			if info[:Recap]
+				if info[:Recap] == 1
+					victories = $town.dayTrainers[1] + $town.dayTrainers[2] + $town.dayTrainers[3] + $town.dayTrainers[4] + $town.dayTrainers[5] + $town.dayTrainers[6] + $town.dayTrainers[7]
+					allyvictories = $town.dayTrainers[8] + $town.dayTrainers[9] + $town.dayTrainers[10] + $town.dayTrainers[11]
+					money = $town.dayMoney
+					text = "<ac><b>Total trainers encountered: "
+					text << $town.dayTrainers[0].to_s
+					text << "</ac></b><al>Victories:  <c3=B8A8E0,7240E8>Melly <b>"
+					text << $town.dayTrainers[8].to_s
+					if $town.buildings[50] == 3
+						text << "  </c3></b><c3=BDA46A,736440>Samy <b>"
+						text << $town.dayTrainers[9].to_s
+					end
+					if $town.buildings[70] == 3
+						text << "  </c3></b><c3=A8E0E0,48D8D8>Kiana <b>"
+						text << $town.dayTrainers[10].to_s
+					end
+					if $town.buildings[90] == 3
+						text << "  </c3></b><c3=F8A8B8,E82010>"
+						text << pbGet(12)
+						text << " <b>"
+						text << $town.dayTrainers[11].to_s
+					end
+					text << "</b></c3>  <c3=FFD700,DAA520>You <b>"
+					text << (victories-allyvictories).to_s
+					if ($town.dayTrainers[0] - victories) > 0
+						text << "</b></c3>  <c2=043c3aff>Defeats: <b>"
+						text << ($town.dayTrainers[0] - victories).to_s
+					else
+						text << "</b></c3>  <c2=06644bd2>Defeats: <b>None"
+					end
+					if money > 0
+						text << "</al></c2><ac>------------------------------\nTotal money earned: <c3=FFD700,DAA520>"
+						text << money.to_s
+						text << "</c3></b></ac><al>Town funds: "
+						text << $town.funds.to_s
+						text << " + <c3=FFD700,DAA520>"
+						text << (money*0.75).floor().to_s
+						text << "</c3> = <b><c3=FFD700,DAA520>$"
+						text << ($town.funds+money*0.75).floor().to_s
+						text << "</c3></b>\nYour money: "
+						text << $player.money.to_s
+						text << " + <c3=FFD700,DAA520>"
+						text << (money*0.25).ceil().to_s
+						text << "</c3> = <b><c3=FFD700,DAA520>$"
+						text << ($player.money+money*0.25).ceil().to_s
+						text << "</c3></b></al>"
+					elsif money == 0
+						text << "</al></c2><ac>------------------------------\nNo money earned or lost today."
+					else
+						money = money * -1
+						text << "</al></c2><ac>------------------------------\nTotal money lost: <c2=043c3aff>"
+						text << money.to_s
+						text << "</c2></b></ac><al>Town funds: "
+						text << $town.funds.to_s
+						text << " - <c2=043c3aff>"
+						text << money.to_s
+						text << "</c2> = <b><c2=043c3aff>$"
+						text << [$town.funds-money.floor(),0].max.to_s
+						text << "</c3></b>\nYour money: <b>$"
+						text << $player.money.to_s
+						text << "</b></al>"
+					end
+				elsif info[:Recap] == 2
+					text ="<ac><b>Fame points earned :</b></ac><ar>"
+					if $town.dayTrainers[1] > 0
+						trainers = $town.dayTrainers[1]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 1-star x 1 = <c3=FFD700,DAA520>"
+						text << trainers.to_s
+						text << "</c3>"
+					end
+					if $town.dayTrainers[2] > 0
+						trainers = $town.dayTrainers[2]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 2-stars x 2 = <c3=FFD700,DAA520>"
+						text << (trainers*2).to_s
+						text << "</c3>"
+					end
+					if $town.dayTrainers[3] > 0
+						trainers = $town.dayTrainers[3]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 3-stars x 3 = <c3=FFD700,DAA520>"
+						text << (trainers*3).to_s
+						text << "</c3>"
+					end
+					if $town.dayTrainers[4] > 0
+						trainers = $town.dayTrainers[4]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 4-stars x 5 = <c3=FFD700,DAA520>"
+						text << (trainers*5).to_s
+						text << "</c3>"
+					end
+					if $town.dayTrainers[5] > 0
+						trainers = $town.dayTrainers[5]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 5-stars x 7 = <c3=FFD700,DAA520>"
+						text << (trainers*7).to_s
+						text << "</c3>"
+					end
+					if $town.dayTrainers[6] > 0
+						trainers = $town.dayTrainers[6]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 6-stars x 10 = <c3=FFD700,DAA520>"
+						text << (trainers*10).to_s
+						text << "</c3>"
+					end
+					if $town.dayTrainers[7] > 0
+						trainers = $town.dayTrainers[7]
+						text << "\n"
+						text << trainers.to_s
+						text << " trainer(s) 7-stars x 15 = <c3=FFD700,DAA520>"
+						text << (trainers*15).to_s
+						text << "</c3>"
+					end
+					dayTotalFame = $town.getDayTotalFame
+					text << "No victories today" if dayTotalFame == 0
+					text << "\n------------------------------\n<b>Total fame earned: <c3=FFD700,DAA520>"
+					text << $town.getDayTotalFame.to_s
+					text << "</c3></b></ar>"
+				else
+					fameToAdd = $town.getDayTotalFame
+					startFame = $town.fame
+					startLevelFame = $town.calculateFameLvl
+					startFloorFame = $town.calculateFloorFame(startLevelFame)
+					fameNeeded = $town.calculateFameForUp(startLevelFame)
+					fameAtThisLevel = startFame - startFloorFame
+					@exp_fraction = fameAtThisLevel.to_f / fameNeeded.to_f 
+					if (fameAtThisLevel + fameToAdd) > fameNeeded
+						target_fraction = 1
+						@remainingFame = (fameAtThisLevel + fameToAdd) - fameNeeded
+					else
+						target_fraction = (fameAtThisLevel + fameToAdd).to_f / fameNeeded.to_f 
+						@fameRequired = fameNeeded - (fameAtThisLevel + fameToAdd)
+					end
+					fractions_gap = (target_fraction - @exp_fraction)
+					@count = 100 * fractions_gap
+					@fraction_tic = fractions_gap.to_f / @count
+					w = @exp_fraction * @famebarbitmap.width
+					@famebar.src_rect.width = w
+					@sprites["famelvlbar"].visible = true
+					@sprites["famelvlfill"].visible = true
+					title = "<ac><b>Fame Level "
+					title << startLevelFame.to_s
+					title << "</b></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<b><ac>------------------------------</ac></b>"
+					@animatingFameLvl = true
+					pbSEPlay("Pkmn exp gain")
+				end
+			end
+            if info[:Weekend]
+				if info[:Weekend] == 1
+					text = "<ac><b>Task(s) done this week: </ac></b><al>"
+					tasks = $town.messagesValidateBuildings
+					i = 0
+					puts "tasks"
+					while i < tasks.length
+						text << tasks[i]
+						i += 1
+						text << "\n" if i < tasks.length
+					end		
+					money = $town.passiveFunds
+					text << "</al><ac>------------------------------\nWeekly funds bonus: <c3=FFD700,DAA520>"
+					text << money.to_s
+					text << "</c3></b></ac><al>Town funds: "
+					if money > 0
+						text << $town.funds.to_s
+						text << " + <c3=FFD700,DAA520>"
+						text << money.to_s
+						text << "</c3> = <b><c3=FFD700,DAA520>$"
+						text << ($town.funds+money).to_s
+						text << "</c3>"
+					else
+						text << $town.funds.to_s
+					end
+					text << "</al><ac>Weekly fame bonus: <c3=FFD700,DAA520>"
+					text << $town.passiveFame.to_s
+					text << "</c3>"
+				elsif info[:Weekend] == 2
+					fameToAdd = $town.passiveFame
+					startFame = $town.fame
+					startLevelFame = $town.calculateFameLvl
+					startFloorFame = $town.calculateFloorFame(startLevelFame)
+					fameNeeded = $town.calculateFameForUp(startLevelFame)
+					fameAtThisLevel = startFame - startFloorFame
+					@exp_fraction = fameAtThisLevel.to_f / fameNeeded.to_f 
+					if (fameAtThisLevel + fameToAdd) > fameNeeded
+						target_fraction = 1
+						@remainingFame = (fameAtThisLevel + fameToAdd) - fameNeeded
+					else
+						target_fraction = (fameAtThisLevel + fameToAdd).to_f / fameNeeded.to_f 
+						@fameRequired = fameNeeded - (fameAtThisLevel + fameToAdd)
+					end
+					fractions_gap = (target_fraction - @exp_fraction)
+					@count = 100 * fractions_gap
+					@fraction_tic = fractions_gap.to_f / @count
+					w = @exp_fraction * @famebarbitmap.width
+					@famebar.src_rect.width = w
+					@sprites["famelvlbar"].visible = true
+					@sprites["famelvlfill"].visible = true
+					title = "<ac><b>Fame Level "
+					title << startLevelFame.to_s
+					title << "</b></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<b><ac>------------------------------</ac></b>"
+					@animatingFameLvl = true
+					pbSEPlay("Pkmn exp gain")
+				elsif info[:Weekend] == 3
+					text = "<ac><b>Task(s) done this midweek: </ac></b><al>"
+					tasks = $town.messagesValidateBuildings
+					i = 0
+					puts "tasks"
+					while i < tasks.length
+						text << tasks[i]
+						i += 1
+						text << "\n" if i < tasks.length
+					end		
+					money = $town.passiveFunds
+					text << "</al><ac>------------------------------"
+				else
+					startFame = $town.fame
+					startLevelFame = $town.calculateFameLvl
+					startFloorFame = $town.calculateFloorFame(startLevelFame)
+					fameNeeded = $town.calculateFameForUp(startLevelFame)
+					fameAtThisLevel = startFame - startFloorFame
+					@exp_fraction = fameAtThisLevel.to_f / fameNeeded.to_f 
+					w = @exp_fraction * @famebarbitmap.width
+					@famebar.src_rect.width = w
+					@sprites["famelvlbar"].visible = true
+					@sprites["famelvlfill"].visible = true
+					title = "<ac><b>Fame Level "
+					title << startLevelFame.to_s
+					title << "</b></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<b><ac>------------------------------</ac></b>"
+					bottomtext = "Fame needed for level up: <b>"
+					bottomtext << (fameNeeded - fameAtThisLevel).to_s
+					bottomtext << " </b>more"
+					overlay = @sprites["overlay"].bitmap
+					base = Settings::TIP_CARDS_TEXT_MAIN_COLOR
+					shadow = Settings::TIP_CARDS_TEXT_SHADOW_COLOR
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 175, @sprites["background"].width - 48, bottomtext, base, shadow)
+				end
+			end
+			if info[:GymInfos]
+				if info[:GymInfos] == 1
+					text = "<ac><b>Your Gym is currently rank "
+					text << $town.rank.to_s
+					text << "</b></ac><al>"
+					starsOdds = $town.getStarsOdds
+					text << "You will encounter :\n"
+					i = 0
+					while i < starsOdds.length
+						if starsOdds[i] > 0
+							text << "- "
+							text << starsOdds[i].to_s
+							text << "% "
+							text << i.to_s
+							text << "-star trainers\n"
+						end
+						i += 1
+					end
+					trainers = $town.getDailyTrainers
+					text << "<al>Daily trainers: <b>"
+					text << trainers[0].to_s
+					text << "</b> to <b>"
+					text << trainers[1].to_s
+					text << "</b>\n<c2=06644bd2>Your victories at the Gym: <b>"
+					text << $town.victoriesCount[5].to_s
+					text << "</b>\n<c2=043c3aff>Your defeats at the Gym: <b>"
+					text << $town.victoriesCount[0].to_s
+					text << "</b></c2>"
+				else
+					startFame = $town.fame
+					startLevelFame = $town.calculateFameLvl
+					startFloorFame = $town.calculateFloorFame(startLevelFame)
+					fameNeeded = $town.calculateFameForUp(startLevelFame)
+					fameAtThisLevel = startFame - startFloorFame
+					@exp_fraction = fameAtThisLevel.to_f / fameNeeded.to_f 
+					w = @exp_fraction * @famebarbitmap.width
+					@famebar.src_rect.width = w
+					@sprites["famelvlbar"].visible = true
+					@sprites["famelvlfill"].visible = true
+					title = "<ac><b>Fame Level "
+					title << startLevelFame.to_s
+					title << "</b></ac>"
+					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
+					text_y_adj += 80
+					text = "<b><ac>------------------------------</ac></b>"
+					text << "<al>Total fame points: "
+					text << startFame.to_s
+					text << "\nCurrent Fame Level Progression: "
+					text << fameAtThisLevel.to_s
+					text << " / "
+					text << fameNeeded.to_s
+					text << "\nFame needed for level up: <b>"
+					text << (fameNeeded - fameAtThisLevel).to_s
+					text << " </b>more</al>"
+				end
+			end
+            puts text
+			drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, text, base, shadow)
         else
             Console.echo_warn tip.to_s + " is not defined."
-            drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, 
-                _INTL("<ac>Tip not defined.</ac>"), base, shadow)
+            drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, _INTL("<ac>Tip not defined.</ac>"), base, shadow)
         end
         if @pages > 1
             @sprites["arrow_left"].visible = (@index > 0)
             @sprites["arrow_right"].visible = (@index < @pages - 1)
-            pbDrawTextPositions(overlay, [[_INTL("{1}/{2}",@index+1, @pages), Graphics.width/2, @sprites["background"].y + @sprites["background"].bitmap.height - 26, 
-                2, base, shadow]])
+            pbDrawTextPositions(overlay, [[_INTL("{1}/{2}",@index+1, @pages), Graphics.width/2, @sprites["background"].y + @sprites["background"].bitmap.height - 26, 2, base, shadow]])
         end
     end
 end
@@ -261,6 +826,8 @@ class TipCardGroups_Scene
         @sprites["arrow_left_h"].visible = false
         @sprites["image"] = IconSprite.new(0, 0, @viewport)
         @sprites["image"].visible = false
+		@sprites["stars"] = IconSprite.new(0, 0, @viewport)
+        @sprites["stars"].visible = false
         @sprites["arrow_right"] = IconSprite.new(0, 0, @viewport)
         @sprites["arrow_right"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/arrow_right"))
         @sprites["arrow_right"].x = Graphics.width / 2 + 48
@@ -383,6 +950,7 @@ class TipCardGroups_Scene
         overlay = @sprites["overlay"].bitmap
         overlay.clear
         @sprites["image"].visible = false
+		@sprites["stars"].visible = false
         @sprites["arrow_right"].visible = false
         @sprites["arrow_left"].visible = false
         pbSetSystemFont(overlay)
@@ -427,6 +995,14 @@ class TipCardGroups_Scene
 				@sprites["image"].z = 500
                 @sprites["image"].visible = true
             end
+			if info[:Stars]
+				@sprites["stars"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/Images/#{info[:Stars]}stars"))
+				@sprites["stars"].x = @sprites["background"].x + 128
+                @sprites["stars"].y = @sprites["background"].y + 128
+				@sprites["image"].z = 500
+                @sprites["image"].visible = true
+			end
+				
             title = "<ac>" + info[:Title] + "</ac>"
             # drawFormattedTextEx(bitmap, x, y, width, text, baseColor = nil, shadowColor = nil, lineheight = 32)
             drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, 

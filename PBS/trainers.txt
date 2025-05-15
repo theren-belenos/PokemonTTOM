@@ -27,18 +27,29 @@ LoseText = Gotta keep running!
 Pokemon = MAKUHITA,3
 Pokemon = PONYTA,3
 #-------------------------------
-[CAMPERBOY,Mike]
-LoseText = You don't like them?!
-Pokemon = SEEDOT,3
-Pokemon = ODDISH,3
-Pokemon = FARFETCHD,4
-#-------------------------------
 [WILDPKMN,Croagunks]
 LoseText = Criiiiiiiiii!
 Pokemon = CROAGUNK,15
 Pokemon = CROAGUNK,16
 Pokemon = CROAGUNK,18
-
+#-------------------------------
+[CAMPERBOY,Mike]
+LoseText = You don't like them?!
+Pokemon = HOOTHOOT,13
+Pokemon = COTTONEE,13
+Pokemon = EKANS,14
+#-------------------------------
+[SWIMMERMALE,Alain]
+LoseText = Thanks for the warm up!
+Pokemon = STARYU,15
+Pokemon = BARBOACH,15
+#-------------------------------
+[POKEMONBREEDERMALE,Isaac]
+LoseText = You don't like them?!
+Pokemon = SEEL,13
+Pokemon = TRAPINCH,13
+Pokemon = PIDOVE,13
+Pokemon = VENONAT,13
 
 #-----------------------------------------------
 #
@@ -196,7 +207,7 @@ Pokemon = VULPIX,11
 [JOGGER,Walt]
 LoseText = I'm sure you're a bike user! Boo!
 Pokemon = MACHOP,11
-Pokemon = BONSLY,11
+Pokemon = BINACLE,11
 
 [FISHERMAN,Daniel]
 LoseText = Where are the fishes?!

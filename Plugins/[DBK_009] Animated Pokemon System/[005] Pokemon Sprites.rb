@@ -161,7 +161,7 @@ class PokemonSprite < Sprite
   #-----------------------------------------------------------------------------
   def pbSetShadow(sprite, back = false)
     return if !@_iconbitmap
-    self.mirror  = back
+    self.mirror  = false
     self.opacity = sprite.opacity * 0.3
     self.tone    = Tone.new(-255, -255, -255, 255)
     self.ox      = self.bitmap.width / 2
@@ -169,7 +169,7 @@ class PokemonSprite < Sprite
     self.x       = sprite.x
     self.y      -= sprite.bitmap.height / 4 if !back
     self.angle   = sprite.angle
-    self.angle  += ((back) ? 176 : -2)
+    #self.angle  += ((back) ? 2 : -2)
   end
   
   #-----------------------------------------------------------------------------

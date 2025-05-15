@@ -164,7 +164,7 @@ class Battle::Scene::BattlerShadowSprite < RPG::Sprite
       @_iconBitmap.speed = sprite.iconBitmap.speed
       @_iconBitmap.pokemon = sprite.iconBitmap.pokemon
       self.bitmap = (@_iconBitmap) ? @_iconBitmap.bitmap : nil
-      self.mirror  = @index.even?
+      #self.mirror  = @index.even?
       pbSetDisplay(sprite.opacity)
     end
     self.pattern = nil
@@ -193,7 +193,7 @@ class Battle::Scene::BattlerShadowSprite < RPG::Sprite
       self.y     -= sprite.bitmap.height / 4 if @index.odd?
       self.y     -= 25 if @battler.dynamax? && @index.odd? && Settings::SHOW_DYNAMAX_SIZE
       self.angle  = sprite.angle
-      self.angle += ((@index.even?) ? 176 : -2)
+      #self.angle += ((@index.even?) ? 2 : -2)
       @pkmn.species_data.apply_metrics_to_sprite(self, @index, true)
       metrics = GameData::SpeciesMetrics.get_species_form(@pkmn.species, @pkmn.form, @pkmn.female?)
       size = metrics.shadow_size

@@ -29,25 +29,26 @@ class PokemonRegionMap_Scene
     @regionFile = @map.filename if ENGINE21
 	if editor
 		@regionFile = @regionFile.gsub(".png","")
-		if $town.fame < 1
+		fame = $town.calculateFameLvl
+		if fame < 1
 			@regionFile += "-h.png"
 		else
-			if $town.fame < 5
+			if fame < 5
 				@regionFile += "-g.png"
 			else
-				if $town.fame < 10
+				if fame < 10
 					@regionFile += "-f.png"
 				else
-					if $town.fame < 20
+					if fame < 20
 						@regionFile += "-e.png"
 					else
-						if $town.fame < 30
+						if fame < 30
 							@regionFile += "-d.png"
 						else
-							if $town.fame < 50
+							if fame < 50
 								@regionFile += "-c.png"
 							else
-								if $town.fame < 70
+								if fame < 70
 									@regionFile += "-b.png"
 								else
 									@regionFile += "-a.png"
@@ -139,8 +140,6 @@ class PokemonRegionMap_Scene
 
   def getPlayerPosition
     if ARMSettings::CenterCursorByDefault || ARMSettings::ShowPlayerOnRegion[@region]
-	  puts ARMSettings::CenterCursorByDefault
-	  puts ARMSettings::ShowPlayerOnRegion
       @mapX      = UI_WIDTH % ARMSettings::SquareWidth != 0 ? ((UI_WIDTH / 2) + 8) / ARMSettings::SquareWidth : (UI_WIDTH / 2) / ARMSettings::SquareWidth
       @mapY      = UI_HEIGHT % ARMSettings::SquareHeight != 0 ? ((UI_HEIGHT / 2) + 8) / ARMSettings::SquareHeight : (UI_HEIGHT / 2) / ARMSettings::SquareHeight
     else
@@ -265,7 +264,6 @@ class PokemonRegionMap_Scene
     getPreviewBox if !@flyMap
     @oldLineCount = nil
     getPreviewWeather if !@flyMap
-	puts @mapY if flag
 	return if @mode == 1 && limit > @mapY
     @sprites["mapbottom"].maplocation = pbGetMapLocation(@mapX, @mapY, flag)
 	if @sprites["mapbottom"].maplocation == "MainTown"

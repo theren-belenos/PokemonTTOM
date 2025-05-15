@@ -164,7 +164,6 @@ Pokemon = TOGEDEMARU,7
 [MELLY,Melly_Battle1_Fairy]
 LoseText = Oww, my poor Pokémon!
 Pokemon = DEDENNE,7
-#-------------------------------
 
 #-----------------------------------------------
 #
@@ -172,16 +171,20 @@ Pokemon = DEDENNE,7
 #
 #-----------------------------------------------
 [TOM,Tom_BadgeBattle_Normal]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = GLAMEOW,13
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+Pokemon = HOUNDEON,15
+	Moves = VISEGRIP,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = MODEST
 #-------------------------------
 [TOM,Tom_BadgeBattle_Grass]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = LOTAD,13
 	EV = 0,0,0,10,32,32
@@ -201,26 +204,27 @@ Pokemon = FLAREON,15
 	EV = 10,37,0,37,0,0
 #-------------------------------
 [TOM,Tom_BadgeBattle_Water]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = FRILLISH,13
+	EV = 10,0,0,0,32,32
+Pokemon = VAPOREON,15
+	Moves = WATERGUN,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,37,10,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Electric]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = MAGNEMITE,13
+	EV = 10,0,32,0,32,0
+Pokemon = JOLTEON,15
+	Moves = THUNDERSHOCK,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 10,0,0,37,37,0
 #-------------------------------
 [TOM,Tom_BadgeBattle_Fighting]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -231,6 +235,7 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Poison]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -241,6 +246,7 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Ground]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -251,6 +257,7 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Flying]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -261,36 +268,38 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Psychic]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = MIMEJR,13
+	EV = 10,0,0,32,32,0
+Pokemon = ESPEON,15
+	Moves = CONFUSION,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 10,0,0,37,37,0
 #-------------------------------
 [TOM,Tom_BadgeBattle_Bug]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = JOLTIK,13
+	EV = 10,0,0,32,32,0
+Pokemon = MOTHEON,15
+	Moves = FURYCUTTER,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 10,37,0,37,0,0
 #-------------------------------
 [TOM,Tom_BadgeBattle_Rock]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = DWEBBLE,13
+	EV = 10,32,32,0,0,0
+Pokemon = SCALEON,15
+	AbilityIndex = 1
+	Moves = ROLLOUT,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 37,37,10,0,0,0
 #-------------------------------
 [TOM,Tom_BadgeBattle_Ghost]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -301,6 +310,7 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Ice]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = SMOOCHUM,13
 	EV = 10,0,0,32,32,0
@@ -310,6 +320,7 @@ Pokemon = GLACEON,15
 	EV = 0,0,37,0,37,10
 #-------------------------------
 [TOM,Tom_BadgeBattle_Dragon]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -320,6 +331,7 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Dark]
+Items = POTION
 LoseText = Congratulations!
 Pokemon = PURRLOIN,13
 	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
@@ -330,30 +342,204 @@ Pokemon = UMBREON,15
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Steel]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = MAGNEMITE,13
+	EV = 10,0,32,0,32,0
+Pokemon = STEELEON,15
+	Moves = METALCLAW,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
 	EV = 10,0,37,0,0,37
 #-------------------------------
 [TOM,Tom_BadgeBattle_Fairy]
+Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = MIMEJR,13
+	EV = 10,0,0,32,32,0
+Pokemon = SYLVEON,15
+	Moves = DISARMINGVOICE,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 10,0,0,0,37,37
 #-------------------------------
 
 
+#-----------------------------------------------
+#
+# 	First Gym Week trainers
+#
+#-----------------------------------------------
+[PRESCHOOLERBOY,Jimmy]
+LoseText = It's too difficult for me!
+Pokemon = HOOTHOOT,8
+Pokemon = VENONAT,9
+#-------------------------------
+[POKEMONBREEDERFEMALE,Josie]
+LoseText = Wow! The new Leader is strong!!
+Pokemon = HOPPIP,10
+Pokemon = BONSLY,11
+Pokemon = COTTONEE,12
+#-------------------------------
+[YOUNGSTER,Jason]
+LoseText = Well I definitely need more training...
+Pokemon = GLAMEOW,9
+Pokemon = PIDOVE,9
+#-------------------------------
+[COOLTRAINERFEMALE,Joyce]
+LoseText = What??
+Pokemon = VOLCARONA,70
+Pokemon = SEAKING,70
+Pokemon = INKAY,70
+Pokemon = MIMIKYU,70
+Pokemon = AMOONGUSS,70
 
-
-
+#-----------------------------------------------
+#
+# 	Rival battle - Rank 1
+#
+#-----------------------------------------------
+[RIVAL1,Rival_BattleRank1_Normal]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = RIOLU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Grass]
+Items = POTION
+LoseText = Tch!
+Pokemon = GROWLITHE,12
+Pokemon = CORPHISH,12
+Pokemon = NIDORANfE,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Fire]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = GIBLE,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Water]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = PICHU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Electric]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = GIBLE,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Fighting]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = RALTS,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Poison]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = GIBLE,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Ground]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = GROWLITHE,12
+Pokemon = SPHEAL,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Flying]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = PICHU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Psychic]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = ZORUA,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Bug]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = ROOKIDEE,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Rock]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = RIOLU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Ghost]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = ZORUA,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Ice]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = RIOLU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Dragon]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = TINKATINK,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Dark]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = RIOLU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Steel]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = RIOLU,13
+	Item = ORANBERRY
+#-------------------------------	
+[RIVAL1,Rival_BattleRank1_Fairy]
+Items = POTION
+LoseText = Tch!
+Pokemon = SHROOMISH,12
+Pokemon = CORPHISH,12
+Pokemon = NIDORANfE,13
+	Item = ORANBERRY
 
 
 

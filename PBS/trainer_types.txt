@@ -174,84 +174,84 @@ Name = Picnicker
 Gender = Female
 BaseMoney = 16
 #-------------------------------
-[COOLTRAINER_M]
-Name = Cool Trainer
+[COOLTRAINERMALE]
+Name = Cool Trainer &m;
 Gender = Male
-BaseMoney = 60
+BaseMoney = 64
 #-------------------------------
-[COOLTRAINER_F]
-Name = Cool Trainer
+[COOLTRAINERFEMALE]
+Name = Cool Trainer &f;
 Gender = Female
-BaseMoney = 60
+BaseMoney = 64
 #-------------------------------
 [LASS]
 Name = Lass
 Gender = Female
 BaseMoney = 16
 #-------------------------------
-[POKEMONRANGER_M]
+[POKEMONRANGERMALE]
 Name = Pokémon Ranger
 Gender = Male
 BaseMoney = 60
 #-------------------------------
-[POKEMONRANGER_F]
+[POKEMONRANGERFEMALE]
 Name = Pokémon Ranger
 Gender = Female
 BaseMoney = 60
 #-------------------------------
-[PSYCHIC_M]
+[PSYCHICMALE]
 Name = Psychic
 Gender = Male
 BaseMoney = 32
 #-------------------------------
-[PSYCHIC_F]
+[PSYCHICFEMALE]
 Name = Psychic
 Gender = Female
 BaseMoney = 32
 #-------------------------------
-[SWIMMER_M]
+[SWIMMERMALE]
 Name = Swimmer
 Gender = Male
 BaseMoney = 16
 SkillLevel = 32
 #-------------------------------
-[SWIMMER_F]
-Name = Swimmer
-Gender = Female
-BaseMoney = 16
-SkillLevel = 32
-#-------------------------------
-[SWIMMER2_M]
-Name = Swimmer
-Gender = Male
-BaseMoney = 16
-SkillLevel = 32
-#-------------------------------
-[SWIMMER2_F]
+[SWIMMERFEMALE]
 Name = Swimmer
 Gender = Female
 BaseMoney = 16
 SkillLevel = 32
 #-------------------------------
-[TUBER_M]
+[SWIMMER2MALE]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2FEMALE]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[TUBERBOY]
 Name = Tuber
 Gender = Male
 BaseMoney = 4
 SkillLevel = 16
 #-------------------------------
-[TUBER_F]
+[TUBERGIRL]
 Name = Tuber
 Gender = Female
 BaseMoney = 4
 SkillLevel = 16
 #-------------------------------
-[TUBER2_M]
+[TUBER2BOY]
 Name = Tuber
 Gender = Male
 BaseMoney = 4
 SkillLevel = 16
 #-------------------------------
-[TUBER2_F]
+[TUBER2GIRL]
 Name = Tuber
 Gender = Female
 BaseMoney = 4
@@ -613,6 +613,39 @@ Name = Hiker
 Gender = Male
 BaseMoney = 32
 IntroBGM = encounter_hiker
+#-------------------------------
+[POKEMONBREEDERFEMALE]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEMONBREEDERMALE]
+Name = Pokémon Breeder
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #-------------------------------
 [TEAMGRUNTMALE]
 Name = Team Absolution

@@ -1,6 +1,6 @@
 module QuestModule
   
-  # First Main Quest
+  # Chapter 1
   MainQuest1 = {
     :ID => "1",
     :Name => "Chapter 1: Beginning your journey",
@@ -15,7 +15,7 @@ module QuestModule
     :RewardString => ""
   }
   
-  # Chapter 1
+  # Chapter 2
   MainQuest2 = {
     :ID => "5",
     :Name => "Chapter 2: Becoming a Gym Leader",
@@ -32,7 +32,7 @@ module QuestModule
     :RewardString => ""
   }
   
-  # Chapter 1
+  # Chapter 3
   MainQuest3 = {
     :ID => "8",
     :Name => "Ch.3 : First week as a Gym leader",
@@ -44,6 +44,55 @@ module QuestModule
 	:Location2 => "Your Gym",
 	:Location3 => "/",
     :QuestDescription => "Learn the ropes of being a Gym Leader by opening the Gym for your first week !",
+    :RewardString => ""
+  }
+  
+  # Chapter 4
+  MainQuest4 = {
+    :ID => "9",
+    :Name => "Ch.4 : Get to rank 2",
+    :QuestGiver => "Prof Maple",
+    :Stage1 => "Complete Sub-goals (0/3)",
+	:Stage2 => "Complete Sub-goals (1/3)",
+	:Stage3 => "Complete Sub-goals (2/3)",
+	:Stage4 => "Win the rank up battle",
+	:Stage5 => "Report back to Maple",
+    :Location1 => "/",
+	:Location2 => "/",
+	:Location3 => "/",
+	:Location4 => "Pokémon league",
+	:Location5 => "/",
+    :QuestDescription => "Progress as a Gym leader and get to rank 2!",
+    :RewardString => ""
+  }
+  
+  MainQuest4SubA = {
+    :ID => "10",
+    :Name => "Sub-Goal: Get to fame level 3",
+    :QuestGiver => "Prof Maple",
+    :Stage1 => "Get to fame level 3",
+    :Location1 => "/",
+    :QuestDescription => "Gain fame to let your Gym be recognized by getting to fame level 3!",
+    :RewardString => ""
+  }
+  
+  MainQuest4SubB = {
+    :ID => "11",
+    :Name => "Sub-Goal: Get Camosack badge",
+    :QuestGiver => "Prof Maple",
+    :Stage1 => "Get Camosack Gym's badge",
+    :Location1 => "Camosack Gym",
+    :QuestDescription => "Travel to Camosack through Green Lush Forest and routes 7 & 8 to earn a new badge!",
+    :RewardString => ""
+  }
+  
+  MainQuest4SubC = {
+    :ID => "12",
+    :Name => "Sub-Goal: Free the Daycare",
+    :QuestGiver => "Prof Maple",
+    :Stage1 => "Gain access to the Daycare",
+    :Location1 => "/",
+    :QuestDescription => 'Complete the city task \n"Clearing - Town exteriors" to get access to the Daycare.',
     :RewardString => ""
   }
   

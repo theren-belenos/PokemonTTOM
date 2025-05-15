@@ -1,4 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [BULBASAUR]
 Name = Bulbasaur
@@ -22376,7 +22377,7 @@ CatchRate = 75
 Happiness = 50
 Abilities = RATTLED,STATIC
 HiddenAbilities = KLUTZ
-Moves = 1,ACID,1,FLAIL,1,BELCH,1,NUZZLE,1,TEARFULLOOK,1,GROWL
+Moves = 1,GROWL,1,TEARFULLOOK,1,ACID,1,FLAIL,5,NUZZLE,10,BELCH,15,SHOCKWAVE,20,ACIDSPRAY,25,TAUNT,40,BOOMBURST
 TutorMoves = CHARM,ENCORE,ENDEAVOR,ENDURE,FACADE,METALSOUND,PROTECT,REST,SLEEPTALK,SUBSTITUTE
 EggMoves = ENDEAVOR,METALSOUND
 EggGroups = Undiscovered

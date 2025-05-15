@@ -1,78 +1,78 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [RATICATE,,female]
-BackSprite = -5,5
+BackSprite = -5,9
 FrontSprite = 2,10
-ShadowSprite = 0,-2,0
+ShadowSprite = 0,-21,0
 #-------------------------------
 [PIKACHU,,female]
-BackSprite = -8,-4
-FrontSprite = 8,5
-ShadowSprite = 1,6,3
+BackSprite = -10,-1
+FrontSprite = 0,7
+ShadowSprite = 1,-9,3
 #-------------------------------
 [RAICHU,,female]
-BackSprite = 2,-4
-FrontSprite = 0,6
-ShadowSprite = 0,11,4
+BackSprite = 2,2
+FrontSprite = 1,5
+ShadowSprite = 0,-16,4
 #-------------------------------
 [RHYHORN,,female]
 BackSprite = 0,15
 FrontSprite = -1,13
-ShadowSprite = 0,-18,0
+ShadowSprite = 0,-27,0
 #-------------------------------
 [WOOPER,,female]
-BackSprite = 1,10
+BackSprite = 1,3
 FrontSprite = 0,6
-ShadowSprite = 0,0,1
+ShadowSprite = 0,-11,1
 #-------------------------------
 [SUDOWOODO,,female]
-BackSprite = 6,12
-FrontSprite = -6,8
-ShadowSprite = 0,0,1
+BackSprite = 0,8
+FrontSprite = 0,9
+ShadowSprite = 0,-20,2
 AnimationSpeed = 0
 #-------------------------------
 [SNEASEL,,female]
-BackSprite = 0,6
-FrontSprite = -3,6
-ShadowSprite = 0,4,0
+BackSprite = 2,4
+FrontSprite = -1,7
+ShadowSprite = 0,-14,4
 #-------------------------------
 [SNEASEL,1,female]
 BackSprite = 0,4
-FrontSprite = -2,8
-ShadowSprite = 0,5,1
+FrontSprite = -4,8
+ShadowSprite = 0,-13,1
 #-------------------------------
 [COMBUSKEN,,female]
 BackSprite = 0,6
 FrontSprite = 0,10
-ShadowSprite = 0,-1,0
+ShadowSprite = 0,-20,0
 AnimationSpeed = 2,1
 #-------------------------------
 [SHIFTRY,,female]
-BackSprite = 0,31
-FrontSprite = 3,23
-ShadowSprite = 4,-18,-2
+BackSprite = -4,29
+FrontSprite = 0,24
+ShadowSprite = 0,-34,-4
 #-------------------------------
 [LUXIO,,female]
-BackSprite = 0,2
+BackSprite = 0,10
 FrontSprite = 4,14
-ShadowSprite = 0,-4,0
+ShadowSprite = 0,-20,0
 #-------------------------------
 [LUXRAY,,female]
-BackSprite = 0,4
+BackSprite = 0,9
 FrontSprite = 7,11
-ShadowSprite = 0,-3,0
+ShadowSprite = 0,-22,0
 #-------------------------------
 [RHYPERIOR,,female]
 BackSprite = 0,21
 FrontSprite = 5,13
-ShadowSprite = 0,-13,2
+ShadowSprite = 0,-31,2
 #-------------------------------
 [UNFEZANT,,female]
 BackSprite = -12,4
 FrontSprite = 11,5
-ShadowSprite = 2,5,6
+ShadowSprite = 2,-20,6
 #-------------------------------
 [PYROAR,,female]
 BackSprite = -13,19
 FrontSprite = 9,8
-ShadowSprite = 3,-15,5
+ShadowSprite = 3,-31,5

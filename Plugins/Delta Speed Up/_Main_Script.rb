@@ -7,7 +7,7 @@ end
 #===============================================================================#
 # Speed-up config
 #===============================================================================#
-SPEEDUP_STAGES = [1, 1.5, 2]
+SPEEDUP_STAGES = [1, 1.25, 1.5, 1.75, 2, 2.25, 3, 3.5]
 $GameSpeed = 0
 $CanToggle = true
 $RefreshEventsForTurbo = false
@@ -33,11 +33,13 @@ module Input
     update_KGC_ScreenCapture
     pbScreenCapture if trigger?(Input::F8)
     if $CanToggle && trigger?(Input::AUX1)
-      $GameSpeed += 1
-      $GameSpeed = 0 if $GameSpeed >= SPEEDUP_STAGES.size
+      $GameSpeed += 2
+	  puts $GameSpeed
+      $GameSpeed = $GameSpeed%2 if $GameSpeed >= SPEEDUP_STAGES.size
+	  puts $GameSpeed
       $PokemonSystem.battle_speed = $GameSpeed if $PokemonSystem && $PokemonSystem.only_speedup_battles == 1
       $RefreshEventsForTurbo  = true
-	  pbMessage(_INTL("\\wu\\sign[frlgchoiceskin]\\^Speed x {1}\\|", SPEEDUP_STAGES[$GameSpeed].to_s))
+	  pbMessage(_INTL("\\wu\\sign[frlgchoiceskin]\\^Speed x {1}\\|", SPEEDUP_STAGES[$GameSpeed-$GameSpeed%2].to_s))
     end
   end
 end
@@ -58,13 +60,14 @@ end
 #===============================================================================#
 EventHandlers.add(:on_start_battle, :start_speedup, proc {
   $CanToggle = false
+  $GameSpeed += 1
   $GameSpeed = $PokemonSystem.battle_speed if $PokemonSystem.only_speedup_battles == 1
-  $GameSpeed += 0.3
 })
 EventHandlers.add(:on_end_battle, :stop_speedup, proc {
+  $GameSpeed -= 1
   $GameSpeed = 0 if $PokemonSystem.only_speedup_battles == 1
   $CanToggle = true if $PokemonSystem.only_speedup_battles == 0
-  $GameSpeed -= 0.3
+
 })
 #===============================================================================#
 # Can only change speed in battle during command phase (prevents weird animation glitches)

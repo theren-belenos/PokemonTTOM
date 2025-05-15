@@ -74,9 +74,7 @@ class PokemonRegionMap_Scene
   end
 
   def getExtendedInfo(check = false)
-	puts "gameMaps"
     gameMaps = getGameMaps
-	puts gameMaps
     @revealAllSeen = ARMSettings::RevealAllSeenSpeciesButton.nil?
     @getData = {}
     gameMaps.each do |gameMap|
@@ -126,7 +124,6 @@ class PokemonRegionMap_Scene
     gameMaps = []
     GameData::MapMetadata.each do |gameMap|
       mapPos = gameMap.town_map_position
-	  puts gameMap.name
       next unless (!mapPos.nil? && pbGetMapLocation(@mapX, @mapY) == gameMap.name) ||
                   (gameMap.name.include?($player.name) || gameMap.name.include?("\\v[") || gameMap.name == $town.name || gameMap.name == "TN") &&
                   gameMap.town_map_position == [@region, @mapX, @mapY]

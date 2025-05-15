@@ -73,25 +73,26 @@ class PokemonRegionMap_Scene
   end
   
   def getFameLimit
-	if $town.fame < 1
+	fame = $town.calculateFameLvl
+	if fame < 1
 		limit = 35
 	else
-		if $town.fame < 5
+		if fame < 5
 			limit = 30
 		else
-			if $town.fame < 10
+			if fame < 10
 				limit = 25
 			else
-				if $town.fame < 20
+				if fame < 20
 					limit = 20
 				else
-					if $town.fame < 30
+					if fame < 30
 						limit = 15
 					else
-						if $town.fame < 50
+						if fame < 50
 							limit = 10
 						else
-							if $town.fame < 70
+							if fame < 70
 								limit = 5
 							else
 								limit = 0
@@ -165,7 +166,7 @@ class PokemonRegionMap_Scene
 			case infos[2]
 			when 7, 10, 15, 16, 17, 20
 				pbPlayLevelUpSE
-				$town.buildings[infos[2]] = 2
+				$town.build(infos[2])
 				pbMessage(_INTL("{This task was done!"))
 				@spritesMap["FlyIcons"].bitmap.clear
 				

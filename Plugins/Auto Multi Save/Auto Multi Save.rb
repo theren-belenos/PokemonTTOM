@@ -33,12 +33,12 @@
 #   It would be nice if the file select arrows used nicer animated graphics, kind of like the Bag.
 #   Maybe auto-save slots should act like a queue instead of cycling around. 
 
-# Autosave every 2000 steps
+# Autosave every 1000 steps
 EventHandlers.add(:on_player_step_taken, :auto_save, proc {
   $player.autosave_steps = 0 if !$player.autosave_steps
   next if $PokemonGlobal.ice_sliding
   $player.autosave_steps += 1
-  if $player.autosave_steps >= 2000
+  if $player.autosave_steps >= 1000
     echo("Autosaving...")
     $player.autosave_steps = 0
     Game.auto_save

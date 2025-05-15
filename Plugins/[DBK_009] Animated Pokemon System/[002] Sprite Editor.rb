@@ -16,7 +16,7 @@ class SpritePositioner
     @sprites["base_0"] = IconSprite.new(baseX, baseY, @viewport)
     @sprites["base_0"].setBitmap(playerbase)
     @sprites["base_0"].x -= @sprites["base_0"].bitmap.width / 2 if @sprites["base_0"].bitmap
-    @sprites["base_0"].y -= @sprites["base_0"].bitmap.height if @sprites["base_0"].bitmap
+    @sprites["base_0"].y -= @sprites["base_0"].bitmap.height / 2 if @sprites["base_0"].bitmap
     @sprites["base_0"].z = 1
     baseX, baseY = Battle::Scene.pbBattlerPosition(1)
     @sprites["base_1"] = IconSprite.new(baseX, baseY, @viewport)
@@ -24,9 +24,9 @@ class SpritePositioner
     @sprites["base_1"].x -= @sprites["base_1"].bitmap.width / 2 if @sprites["base_1"].bitmap
     @sprites["base_1"].y -= @sprites["base_1"].bitmap.height / 2 if @sprites["base_1"].bitmap
     @sprites["base_1"].z = 1
-    @sprites["messageBox"] = IconSprite.new(0, Graphics.height - 96, @viewport)
-    @sprites["messageBox"].setBitmap("Graphics/UI/Debug/battle_message")
-    @sprites["messageBox"].z = 2
+    #@sprites["messageBox"] = IconSprite.new(0, Graphics.height - 96, @viewport)
+    #@sprites["messageBox"].setBitmap("Graphics/UI/Debug/battle_message")
+    #@sprites["messageBox"].z = 2
     @sprites["shadow_0"] = PokemonSprite.new(@viewport)
     @sprites["shadow_0"].setOffset(PictureOrigin::BOTTOM)
     @sprites["shadow_0"].z = 3

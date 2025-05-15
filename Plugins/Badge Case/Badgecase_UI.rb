@@ -430,3 +430,9 @@ def pbGetBadge(badge)
   screen = BadgeCaseScreen.new(scene)
   screen.pbStartScreenOne(badge)
 end
+
+def pbShowBadge(badge)
+  scene = BadgeCase_Scene.new
+  screen = BadgeCaseScreen.new(scene)
+  screen.pbStartScreenOne(badge)
+end

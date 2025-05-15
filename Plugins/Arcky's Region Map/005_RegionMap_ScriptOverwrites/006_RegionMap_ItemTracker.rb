@@ -16,16 +16,16 @@ if ARMSettings::ProgressCounter && ARMSettings::ProgressCountItems
   #===============================================================================
   # Being given an item
   #===============================================================================
-  def pbReceiveItem(item, quantity = 1)
-    item = GameData::Item.get(item)
-    return false if !item || quantity < 1
-    itemInfo = getItemInfo(item, quantity, true)
-    result = getItemMessage(itemInfo)
-    if $item_log && result
-      ItemLog.showItemScene(item) if $item_log.register(item) != nil
-    end
-    return result
-  end
+  #def pbReceiveItem(item, quantity = 1)
+   # item = GameData::Item.get(item)
+    #return false if !item || quantity < 1
+    #itemInfo = getItemInfo(item, quantity, true)
+    #result = getItemMessage(itemInfo)
+    #if $item_log && result
+     # ItemLog.showItemScene(item) if $item_log.register(item) != nil
+    #end
+    #return result
+  #end
 
   #===============================================================================
   # Item handler
