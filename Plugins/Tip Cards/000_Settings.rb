@@ -473,6 +473,15 @@ module Settings
 				:Stars => 1
 			},
 			
+			:TOURISTMALE => {
+                :Title => _INTL("Challenger"),
+                :Text => _INTL("Tourist &m;"),
+                :Image => "TOURISTMALE",
+				:ImagePosition => :Left,
+                :Background => "bg2",
+				:Stars => 1
+			},
+			
 			:TUBERBOY => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Tuber &m;"),
@@ -750,7 +759,7 @@ module Settings
 			:SWIMMERMALE => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Swimmer &m;"),
-                :Image => "SWIMMERMAN",
+                :Image => "SWIMMERMALE",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:Stars => 2
@@ -759,7 +768,7 @@ module Settings
 			:SWIMMERFEMALE => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Swimmer &f;"),
-                :Image => "SWIMMERMAN",
+                :Image => "SWIMMERFEMALE",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:Stars => 2

@@ -421,3 +421,210 @@ Price = 0
 BPPrice = 50
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Diancie hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[BUTTERFREEITE]
+Name = Butterfreeite
+NamePlural = Butterfreeites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MACHAMPITE]
+Name = Machampite
+NamePlural = Machampites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Diancie hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[KINGLERITE]
+Name = Kinglerite
+NamePlural = Kinglerites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Kingler hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[LAPRASITE]
+Name = Laprasite
+NamePlural = Diancites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Lapras hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[SNORLAXITE]
+Name = Snorlax
+NamePlural = Snorlax
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Snorlax hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GARBODORITE]
+Name = Garbodorite
+NamePlural = Garbodorites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Garbodor hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[MELMETALITE]
+Name = Melmetalite
+NamePlural = Melmetalites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Melmetal hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CORVIKNIGHTITE]
+Name = Corviknightite
+NamePlural = Corviknightites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Corviknight hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[ORBEETLITE]
+Name = Orbeetlite
+NamePlural = Orbeetlites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Orbeetle hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[DREDNAWITE]
+Name = Dreadnawite
+NamePlural = Dreadnawites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Dreadnaw hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[COALOSSALITE]
+Name = Coalossalite
+NamePlural = Coalossalites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Coalossal hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[TARTITE]
+Name = Tartite
+NamePlural = Tartites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Flapple, Appletun or Hydrapple hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[SANDACONDITE]
+Name = Sandacondite
+NamePlural = Sandacondites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Sandaconda hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[TOXTRICITITE]
+Name = Toxtricitite
+NamePlural = Toxtricitites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Toxtricity hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CENTISKORCHITE]
+Name = Centiskorchite
+NamePlural = Centiskorchites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Centiskorch hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[HATTERENITE]
+Name = Hatterenite
+NamePlural = Hatterenites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Hatterene hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[GRIMMSNARLITE]
+Name = Grimmsnarlite
+NamePlural = Grimmsnarlites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Grimmsnarl hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[ALCREMITE]
+Name = Alcremite
+NamePlural = Alcremites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Alcremie hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[COPPERAJITE]
+Name = Copperajite
+NamePlural = Copperajites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Copperajites hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[RILLABOOMITE]
+Name = Rillaboomite
+NamePlural = Rillaboomites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Rillaboom hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[CINDERACITE]
+Name = Cinderacite
+NamePlural = Cinderacites
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Cinderace hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[INTELITE]
+Name = Intelite
+NamePlural = Intelite
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Inteleon hold it, and it will be able to Mega Evolve.
+#-------------------------------
+[URSHIFITE]
+Name = Urshifite
+NamePlural = Urshifite
+Pocket = 6
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Urshifu hold it, and it will be able to Mega Evolve.

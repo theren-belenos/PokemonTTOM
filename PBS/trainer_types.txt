@@ -563,13 +563,13 @@ IntroBGM = encounter_lass
 [BUGMANIAC]
 Name = Bugmaniac
 Gender = Male
-BaseMoney = 24
+BaseMoney = 32
 IntroBGM = encounter_pokemaniac
 #-------------------------------
 [GARDENER]
 Name = Gardener
 Gender = Male
-BaseMoney = 32
+BaseMoney = 48
 IntroBGM = encounter_gentleman
 #-------------------------------
 [NINJABOY]
@@ -625,9 +625,67 @@ Name = Pokémon Breeder
 Gender = Male
 BaseMoney = 32
 IntroBGM = encounter_youngster
-
-
-
+#-------------------------------
+[ARTISTFEMALE]
+Name = Artist
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[ARTISTMALE]
+Name = Artist
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[RICHBOY]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 48
+SkillLevel = 8
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEKIDBOY]
+Name = Pokékid
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEKIDGIRL]
+Name = Pokékid
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[TOURISTFEMALE]
+Name = Tourist
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[TOURISTMALE]
+Name = Tourist
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[POKEFANFEMALE]
+Name = Pokéfan
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[POKEFANMALE]
+Name = Pokéfan
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[IDOL]
+Name = Idol
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
 
 
 

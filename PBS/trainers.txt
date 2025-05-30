@@ -124,7 +124,7 @@ Pokemon = GEODUDE,12
 
 #-----------------------------------------------
 #
-#		Emerald Forest trainers
+#		Green Lush Forest (east) trainers
 #
 #-----------------------------------------------
 
@@ -141,10 +141,6 @@ Pokemon = NYMBLE,6
 Pokemon = JOLTIK,6
 Pokemon = NYMBLE,6
 
-[BUGMANIAC,Max]
-LoseText = Let's say you're a bug fan then.
-Pokemon = DWEBBLE,7
-Pokemon = DURANT,7
 
 #-----------------------------------------------
 #
@@ -224,3 +220,28 @@ LoseText = ...that might be too much sand for me.
 Pokemon = SANDSHREW,11
 Pokemon = DWEBBLE,11
 Pokemon = GEODUDE,11
+
+
+#-----------------------------------------------
+#
+#		Green Lush Forest (east) trainers
+#
+#-----------------------------------------------
+
+[BUGMANIAC,Max]
+LoseText = Let's say you're a bug fan then.
+Pokemon = SPINARAK,14
+Pokemon = DURANT,14
+
+[BUGMANIAC,Johnson]
+LoseText = DON'T HURT THE JOLTIIIIIIKS!
+Pokemon = JOLTIK,12
+Pokemon = JOLTIK,12
+Pokemon = JOLTIK,12
+Pokemon = JOLTIK,12
+
+[ARTISTFEMALE,Monica]
+LoseText = You're inspiring too!
+Pokemon = WYNAUT,13
+Pokemon = HOOTHOOT,13
+Pokemon = PACHIRISU,13

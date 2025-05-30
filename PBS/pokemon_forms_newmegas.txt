@@ -1,0 +1,307 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[BUTTERFREE,1]
+FormName = Mega Butterfree
+MegaStone = BUTTERFREEITE
+BaseStats = 70,45,60,100,120,100
+BaseExp = 300
+Abilities = TINTEDLENS
+HiddenAbilities = TINTEDLENS
+Height = 1.7
+Weight = 32.0
+Pokedex = Crystallized Mega energy makes up this Pokémon's blindingly bright and highly toxic scales. 
+Generation = 10
+#-------------------------------
+[MACHAMP,1]
+FormName = Mega Machamp
+MegaStone = MACHAMPITE
+BaseStats = 100,160,90,80,65,90
+BaseExp = 300
+Abilities = NOGUARD
+HiddenAbilities = NOGUARD
+Height = 2.1
+Weight = 150.0
+Pokedex = One of these Pokémon once used its immeasurable strength to lift a large ship that was in trouble. It then carried the ship to port.  
+Generation = 10
+#-------------------------------
+[KINGLER,1]
+FormName = Mega Kingler
+MegaStone = KINGLERITE
+BaseStats = 75,160,130,90,50,70
+BaseExp = 300
+Abilities = SHEERFORCE
+HiddenAbilities = SHEERFORCE
+Height = 1.7
+Weight = 80.0
+Pokedex = The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away. 
+Generation = 10
+#-------------------------------
+[LAPRAS,1]
+FormName = Mega Lapras
+MegaStone = LAPRASITE
+BaseStats = 180,100,90,65,100,100
+BaseExp = 300
+Abilities = ICEBODY
+HiddenAbilities = ICEBODY
+Height = 3.5
+Weight = 320.0
+Pokedex = It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming. 
+Generation = 10
+#-------------------------------
+[SNORLAX,1]
+Types = NORMAL,GROUND
+FormName = Mega Snorlax
+MegaStone = SNORLAXITE
+BaseStats = 200,140,80,10,80,130
+BaseExp = 300
+Abilities = EARTHEATER
+HiddenAbilities = EARTHEATER
+Height = 2.5
+Weight = 800.0
+Pokedex = Mega energy has affected stray seeds and even pebbles that got stuck to Snorlax, making them grow to a huge size. 
+Generation = 10
+#-------------------------------
+[GARBODOR,1]
+Types = POISON,STEEL
+FormName = Mega Garbodor
+MegaStone = GARBODORITE
+BaseStats = 100,130,102,80,60,102
+BaseExp = 300
+Abilities = CORROSION
+HiddenAbilities = CORROSION
+Height = 2.9
+Weight = 157.3
+Pokedex = It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones. 
+Generation = 10
+#-------------------------------
+[MELMETAL,1]
+Types = STEEL,ELECTRIC
+FormName = Mega Melmetal
+MegaStone = MELMETALITE
+BaseStats = 70,45,60,100,120,100
+BaseExp = 300
+Abilities = IRONFIST
+HiddenAbilities = IRONFIST
+Height = 4.0
+Weight = 700.0
+Pokedex = It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot.
+Generation = 10
+#-------------------------------
+[CORVIKNIGHT,1]
+FormName = Mega Corviknight
+MegaStone = CORVIKNIGHTITE
+BaseStats = 110,145,105,100,50,85
+BaseExp = 300
+Abilities = SNIPER
+HiddenAbilities = SNIPER
+Height = 1.7
+Weight = 32.0
+Pokedex = The eight feathers on its back are called blade birds, and they can launch off its body to attack foes independently.  
+Generation = 10
+#-------------------------------
+[ORBEETLE,1]
+FormName = Mega Orbeetle
+MegaStone = ORBEETLITE
+BaseStats = 95,45,120,100,110,135
+BaseExp = 300
+Abilities = TELEPATHY
+HiddenAbilities = TELEPATHY
+Height = 0.5
+Weight = 60.3
+Pokedex = If it were to utilize every last bit of its power, it could control the minds of every living being in its vicinity. 
+Generation = 10
+#-------------------------------
+[DREDNAW,1]
+FormName = Mega Drednaw
+MegaStone = DREDNAWITE
+BaseStats = 110,150,105,95,50,75
+BaseExp = 300
+Abilities = STRONGJAW
+HiddenAbilities = STRONGJAW
+Height = 3.0
+Weight = 155.5
+Pokedex = In the Galar region, there's a tale about this Pokémon chewing up a mountain and using the rubble to stop a flood. 
+Generation = 10
+#-------------------------------
+[COALOSSAL,1]
+FormName = Mega Coalossal
+MegaStone = COALOSSALITE
+BaseStats = 140,100,140,30,100,100
+BaseExp = 300
+Abilities = FLAMEBODY
+HiddenAbilities = FLAMEBODY
+Height = 3.9
+Weight = 420.8
+Pokedex = Its body is a colossal stove. With Mega energy stoking the fire, this Pokémon's flame burns hotter than 3,600 degrees Fahrenheit. 
+#-------------------------------
+[FLAPPLE,1]
+FormName = Mega Applemon
+MegaStone = TARTITE
+BaseStats = 120,125,110,40,125,110
+BaseExp = 300
+Abilities = SUPERSWEETSYRUP
+HiddenAbilities = SUPERSWEETSYRUP
+Height = 2.1
+Weight = 145.8
+Pokedex = If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pokémon faint. 
+Generation = 10
+#-------------------------------
+[APPLETUN,1]
+FormName = Mega Applemon
+MegaStone = TARTITE
+BaseStats = 120,125,110,40,125,110
+BaseExp = 300
+Abilities = SUPERSWEETSYRUP
+HiddenAbilities = SUPERSWEETSYRUP
+Height = 2.1
+Weight = 145.8
+Pokedex = If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pokémon faint. 
+Generation = 10
+#-------------------------------
+[HYDRAPPLE,1]
+FormName = Mega Applemon
+MegaStone = TARTITE
+BaseStats = 120,125,110,40,125,110
+BaseExp = 300
+Abilities = SUPERSWEETSYRUP
+HiddenAbilities = SUPERSWEETSYRUP
+Height = 2.1
+Weight = 145.8
+Pokedex = If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pokémon faint. 
+Generation = 10
+#-------------------------------
+[SANDACONDA,1]
+FormName = Mega Sandaconda
+MegaStone = SANDACONDITE
+BaseStats = 95,130,145,90,65,85
+BaseExp = 300
+Abilities = SANDSPIT
+HiddenAbilities = SANDSPIT
+Height = 1.7
+Weight = 32.0
+Pokedex = Sand swirls around its body with such speed and power that it could pulverize a skyscraper. 
+Generation = 10
+#-------------------------------
+[TOXTRICITY,2]
+FormName = Mega Toxtricity
+MegaStone = TOXTRICITITE
+BaseStats = 95,110,85,95,140,80
+BaseExp = 300
+Abilities = PUNKROCK
+HiddenAbilities = PUNKROCK
+Height = 1.5
+Weight = 50.0
+Pokedex = Its excessive electric energy is its weapon. This Pokémon can build up more electricity than any thundercloud. 
+Generation = 10
+#-------------------------------
+[CENTISKORCH,1]
+FormName = Mega Centiskorch
+MegaStone = CENTISKORCHITE
+BaseStats = 125,140,75,75,110,100
+BaseExp = 300
+Abilities = WHITESMOKE
+HiddenAbilities = WHITESMOKE
+Height = 7.0
+Weight = 180.0
+Pokedex = The heat that comes off a Mega Centiskorch may destabilize air currents. Sometimes it can even cause storms 
+Generation = 10
+#-------------------------------
+[HATTERENE,1]
+FormName = Mega Hatterene
+MegaStone = HATTERENITE
+BaseStats = 80,90,110,30,140,160
+BaseExp = 300
+Abilities = MAGICBOUNCE
+HiddenAbilities = MAGICBOUNCE
+Height = 2.6
+Weight = 8.1
+Pokedex = This Pokémon can read the emotions of creatures over 30 miles away. The minute it senses hostility, it goes on the attack.  
+Generation = 10
+#-------------------------------
+[GRIMMSNARL,1]
+FormName = Mega Grimmsnarl
+MegaStone = GRIMMSNARLITE
+BaseStats = 120,145,90,70,100,85
+BaseExp = 300
+Abilities = PRANKSTER
+HiddenAbilities = PRANKSTER
+Height = 2.3
+Weight = 65.0
+Pokedex = By transforming its leg hair, this Pokémon delivers power-packed drill kicks that can bore huge holes in the ground. 
+Generation = 10
+#-------------------------------
+[ALCREMIE,63]
+FormName = Mega Alcremie
+MegaStone = ALCREMITE
+BaseStats = 85,80,90,85,125,130
+BaseExp = 300
+Abilities = FLUFFY
+HiddenAbilities = FLUFFY
+Height = 1.2
+Weight = 5.0
+Pokedex = Cream pours endlessly from this Pokémon's body. The cream stiffens when compressed by an impact. A harder impact results in harder cream. 
+Generation = 10
+#-------------------------------
+[COPPERAJAH,1]
+FormName = Mega Copperajah
+MegaStone = COPPERAJITE
+BaseStats = 150,170,85,40,80,75
+BaseExp = 300
+Abilities = SHEERFORCE
+HiddenAbilities = SHEERFORCE
+Height = 3.5
+Weight = 800.0
+Pokedex = So much power is packed within its trunk that if it were to unleash that power, the resulting blast could level mountains and change the landscape. 
+Generation = 10
+#-------------------------------
+[RILLABOOM,1]
+FormName = Mega Rillaboom
+MegaStone = RILLABOOMITE
+BaseStats = 130,160,100,100,60,80
+BaseExp = 300
+Abilities = GRASSYSURGE
+HiddenAbilities = GRASSYSURGE
+Height = 2.2
+Weight = 105.0
+Pokedex = Crystallized Mega energy makes up this Pokémon's blindingly bright and highly toxic scales. 
+Generation = 10
+#-------------------------------
+[CINDERACE,1]
+FormName = Mega Cinderace
+MegaStone = CINDERACITE
+BaseStats = 105,140,80,160,65,80
+BaseExp = 300
+Abilities = LIBERO
+HiddenAbilities = LIBERO
+Height = 3.1
+Weight = 33.1
+Pokedex = Infused with Cinderace's fighting spirit, the gigantic Pyro Ball never misses its targets and completely roasts opponents. 
+Generation = 10
+#-------------------------------
+[INTELEON,1]
+FormName = Mega Inteleon
+MegaStone = INTELITE
+BaseStats = 90,85,85,140,145,85
+BaseExp = 300
+Abilities = SNIPER
+HiddenAbilities = SNIPER
+Height = 5.2
+Weight = 55.6
+Pokedex = It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon. 
+Generation = 10
+#-------------------------------
+[URSHIFU,3]
+Types = FIGHTING,DRAGON
+FormName = Mega Urshifu
+MegaStone = URSHIFITE
+BaseStats = 120,140,100,100,140,100
+BaseExp = 300
+Abilities = UNSEENFIST
+HiddenAbilities = UNSEENFIST
+Height = 2.3
+Weight = 125.0
+Pokedex = People call it the embodiment of rage. It's said that this Pokémon's terrifying expression and shout will rid the world of malevolence. 
+Generation = 10
+
+
+

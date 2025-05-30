@@ -214,9 +214,10 @@ module GameData
         when "Magnetic"
           location = (c.empty?) ? "magnetic area" : c[2] + "magnetic area" + c[0]
           param_name = _INTL("in a {1}", location)
+		when "NormalRoom"
+		  param_name = _INTL("in the Normal Room")
         else
-          location = (c.empty?) ? "special area" : c[2] + "special area" + c[0]
-          param_name = _INTL("in a {1}", location)
+		  param_name = _INTL("in the {1} Room", param)
         end
       end
       #-------------------------------------------------------------------------
@@ -234,7 +235,7 @@ module GameData
         desc = _INTL("{1}conclude a battle", desc)
       elsif @level_up_proc
         if @any_level_up
-          desc = (full) ? _INTL("Level up {1}", full_name) : _INTL("lvl up")
+          desc = (full) ? _INTL("Level up {1}", full_name) : _INTL("lvl up {1}", full_name)
         else
           desc = (full) ? "Have #{full_name} " : ""
           desc = _INTL("{1}reach level {2} or higher", desc, param)
@@ -302,6 +303,8 @@ GameData::Evolution.each do |evo|
   when :HasInParty                             then evo.description = _INTL("while {1} is in the party")
   when :Location                               then evo.description = _INTL("while located in {1}")
   when :LocationFlag                           then evo.description = _INTL("while {1}")
+  when :TypeRoom							   then evo.description = _INTL("while {1}")
+  when :NormalRoom							   then evo.description = _INTL("while {1}")
   when :Region                                 then evo.description = _INTL("while located in the {1} region")
   when :TradeSpecies                           then evo.description = _INTL("for {1}")
   when :BattleDealCriticalHit                  then evo.description = _INTL("where it landed {1} or more critical hits")

@@ -195,7 +195,11 @@ class TipCard_Scene
 		@count = 100 * target_fraction
 		@fraction_tic = target_fraction / @count	
 		@famebar.src_rect.width = 0
-		pbSEPlay("Pkmn exp gain")
+		limits = [0,3,6,10,15,20,25,30,40,50,60,70,85,100]
+		if fameToAdd > 0 || newlvl < limits[$town.rank]
+			pbSEPlay("Pkmn exp gain")
+			@animatingFameLvl = false 
+		end
 	end
 	
 	def endFillbar
@@ -324,17 +328,35 @@ class TipCard_Scene
 				name = pbGet(36) 
 				trainerClass = info[:Image]
 				text = "<al>Class:</al>\n"
-				encountered = $town.trainersKnown[$town.rank][info[:Stars]]				
-				if (encountered.index {|x| x[1] == info[:id] }) == nil
-					text << "<ac><c3=FFD700,DAA520>New!</c3> " + info[:Text] + "</ac>"		
+				newtype = true
+				newname = true
+				i = 0
+				while i < $town.rank && newtype do
+					encountered = $town.trainersKnown[i+1][info[:Stars]]
+					if (encountered.index {|x| x[1] == tip }) != nil
+						newtype = false
+					end
+					i += 1
+				end
+				i = 0
+				while i < $town.rank && newname do
+					encountered = $town.trainersKnown[i+1][info[:Stars]]	
+					if (encountered.index {|x| x[1] == tip && x[0] == name}) != nil
+						newname = false
+					end
+					i += 1
+				end
+				if newtype
+					text << "<ac><c3=FFD700,DAA520>New!</c3> " + info[:Text] + "    </ac>"		
 				else
 					text << "<ac>" + info[:Text] + "</ac>"	
 				end
 				text << "\n\n<al>Name:</al>\n"
-				if (encountered.index {|x| x[1] == info[:id] && x[0] == name })
-					text << "<ac>" + name + "</ac>"
+				if newname
+					text << "<ac><c3=FFD700,DAA520>New!</c3> " + name + "    </ac>"
+					
 				else
-					text << "<ac><c3=FFD700,DAA520>New!</c3> " + name + "</ac>"
+					text << "<ac>" + name + "</ac>"
 				end
 			end
 			if info[:TrainersInfos]
@@ -573,6 +595,7 @@ class TipCard_Scene
 					text << $town.getDayTotalFame.to_s
 					text << "</c3></b></ar>"
 				else
+					limits = [0,21,51,105,210,365,585,880,1750,3020,4745,6970,11770,25000]
 					fameToAdd = $town.getDayTotalFame
 					startFame = $town.fame
 					startLevelFame = $town.calculateFameLvl
@@ -600,8 +623,10 @@ class TipCard_Scene
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
 					text = "<b><ac>------------------------------</ac></b>"
-					@animatingFameLvl = true
-					pbSEPlay("Pkmn exp gain")
+					if startFame < limits[$town.rank] && fameToAdd > 0
+						@animatingFameLvl = true 
+						pbSEPlay("Pkmn exp gain") 
+					end
 				end
 			end
             if info[:Weekend]
@@ -609,7 +634,6 @@ class TipCard_Scene
 					text = "<ac><b>Task(s) done this week: </ac></b><al>"
 					tasks = $town.messagesValidateBuildings
 					i = 0
-					puts "tasks"
 					while i < tasks.length
 						text << tasks[i]
 						i += 1
@@ -666,7 +690,6 @@ class TipCard_Scene
 					text = "<ac><b>Task(s) done this midweek: </ac></b><al>"
 					tasks = $town.messagesValidateBuildings
 					i = 0
-					puts "tasks"
 					while i < tasks.length
 						text << tasks[i]
 						i += 1
@@ -756,7 +779,6 @@ class TipCard_Scene
 					text << " </b>more</al>"
 				end
 			end
-            puts text
 			drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, text, base, shadow)
         else
             Console.echo_warn tip.to_s + " is not defined."

@@ -1,0 +1,284 @@
+#-----------------------------------------------
+#
+#		1 star trainers
+#
+#-----------------------------------------------
+[RICHBOY,Ferdinand,1]
+LoseText= I want to talk to your manager !
+#WinText: As expected!
+#IntroText: This should be a formality for someone like me.
+Items = FULLRESTORE
+Pokemon = MEOWTH,9
+    Moves = FEINT,FAKEOUT,GROWL,SCRATCH
+    AbilityIndex = 0
+    Nature = SASSY
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = LUXURYBALL
+Pokemon = GIMMIGHOUL,10
+    Name = LEGACY
+    Form = 0
+    Shiny = yes
+    Moves = TACKLE, ASTONISH
+    Nature = SASSY
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = LUXURYBALL
+#-------------------------------
+[LADY,Maria,1]
+#IntroText : My little Camille wants to challenge you too! Has she come yet?
+LoseText= See Camille? Even Mama can loose.
+#WinText : My Daughter will be so proud of his mommy!!!
+Items = SWEETHEART
+Pokemon = MIMEJR,8
+    Moves = POUND,ENCORE,COPYCAT,REFLECT
+    AbilityIndex = 1
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = POKEBALL
+Pokemon = CUBONE,9
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = POKEBALL
+Pokemon = HAPPINY,10
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Happiness = 255
+    Ball = POKEBALL		
+#-------------------------------
+[BUGCATCHER,Théo,1]
+#IntroText : Bug Pokémons are SO COOL!!!!
+LoseText= But... I swear they are cool...
+#WinText : I TOLD YOU THEY'RE SO COOL!
+Items = BERRYJUICE
+Pokemon = CATERPIE,7
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = NETBALL
+Pokemon = WEEDLE,7
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = NETBALL
+Pokemon = DWEBBLE,8
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = NETBALL
+Pokemon = YANMA,8
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = NETBALL
+Pokemon = LARVESTA,8
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = NETBALL			
+#-------------------------------
+[SCHOOLGIRL,Camille,1]
+#IntroText = My mom promised me that if I won, I would get a Galarian Ponyta!!!
+LoseText = Mom was right. It's not that easy...
+#WinText = I'M SO HAPPY!!! THANK YOU!!!!
+#Caninos, Evoli , poké vol mignon
+Pokemon = GROWLITHE,9
+    AbilityIndex = 2
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = TAILLOW, 10
+    AbilityIndex = 2
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = EEVEE, 8
+    AbilityIndex = 2
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL				
+#-------------------------------
+[POKEKIDBOY,Elio,1]
+#IntroText : Let's go guys! We can do it!
+LoseText= Oh no...
+#WinText : Yes, Yes, Yes!!! We dit it!!!
+Pokemon = PICHU,8
+    Name = Thundou
+    AbilityIndex = 2    
+	IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = MAGBY,8
+    Name = Fifire
+    AbilityIndex = 2    
+	IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = SMOOCHUM,8
+    Name = Glagla
+    AbilityIndex = 2    
+	IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = IGGLYBUFF,8
+    Name = Cutipie
+    AbilityIndex = 2    
+	IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL				
+#-------------------------------
+[TOURISTMALE,Anton,1]
+#IntroText : The land is beautiful. I wish I had visited this city before the earthquake.
+LoseText= I see the earthquake didn't rob you of your energy.
+#WinText : A pleasant end for a pleasant stay!
+Items = POTION
+Pokemon = SLOWPOKE,10
+    Form = 1
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = FARFETCHD,8
+    Form = 1
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL				
+#-------------------------------
+[POKEFANMALE,Allan,1]
+#IntroText : Fear the power of the wool!
+LoseText= What? Wool wasn't enough???
+#WinText : The wool always win... I Guess!
+Pokemon = MAREEP,9
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL      
+Pokemon = GOGOAT,9
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL            
+Pokemon = WOOLOO,9
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL                 				
+#-------------------------------
+[TUBERGIRL,Lily,1]
+#IntroText : Alomomola is cute and strong! We will show you!
+LoseText= Alomomola is still the strongest in my heart.
+#WinText : Yeah!!! Our first badge! I'm so happy!
+Pokemon = ALOMOMOLA, 11
+    Shiny = yes
+    AbilityIndex = 1
+    Item = ORANBERRY
+    Nature = SERIOUS
+    IV = 13,13,13,13,13,13 
+    EV = 40,40,40,40,40,40
+    Happiness = 255
+    Ball = LOVEBALL				
+#-------------------------------
+[SCHOOLGIRL,Vanessa,1]
+#IntroText : I love rats! I love every kind of rats!
+LoseText= Maybe... Maybe I should make a song about rats!
+#WinText : I will write a song about this glorious victory!
+Pokemon = RATTATA,7
+    Form = 1
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = RATTATA,8
+    Form = 0
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = DEDENNE,7
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = PIKACHU,8
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = PATRAT,8
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL			
+#-------------------------------
+[IDOL,Ao,1]
+#IntroText : Someone told me that an arena fight requires the same passion as going on stage! So here I am!
+LoseText= Thanks for the dance!
+#WinText : I feel a burning passion!
+Pokemon = VULPIX,8
+    AbilityIndex = 2
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL
+Pokemon = LITTEN,9
+    Moves = SCRATCH,EMBER,LICK,ROAR
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10 
+    EV = 30,30,30,30,30,30
+    Ball = POKEBALL				
+#-------------------------------
+
+#-----------------------------------------------
+#
+#		2 star trainers
+#
+#-----------------------------------------------
+[NINJABOY,Sasuke,1]
+#IntroText : I will show you the power of my justu!!!
+LoseText = No! I don't want to come back at my village!
+#WinText : I will become the darker ninja of all time!
+Items = POTION
+Pokemon = SHELMET,11
+    Name = Thundrmask
+    Moves = MEGADRAIN,ACID,PROTECT,CURSE
+    AbilityIndex = 1
+    IV = 13,13,13,13,13,13 
+    EV = 40,40,40,40,40,40
+    Ball = DUSKBALL
+Pokemon = PAWNIARD,11
+    Name = Shadowblde
+    Moves = METALCLAW,FURYCUTTER,LEER,SCRATCH
+    AbilityIndex = 0
+    IV = 13,13,13,13,13,13 
+    EV = 40,40,40,40,40,40
+    Ball = DUSKBALL
+Pokemon = MANKEY,11
+    Name = Justice
+    Moves = LOWKICK,FOCUSENERGY,FURYSWIPES,LEER
+    AbilityIndex = 2
+    IV = 13,13,13,13,13,13 
+    EV = 40,40,40,40,40,40
+    Ball = DUSKBALL				
+#-------------------------------
+[BUGMANIAC,Bud,1]
+#IntroText : I'm here for the badge!
+LoseText= Sooooo... No badge them?
+#WinText : Yes! Thanks for the Badge!
+Items = POTION
+Pokemon = BUTTERFREE,13
+    Shiny = yes
+    Moves = GUST,CONFUSION,SLEEPPOWDER,SUPERSONIC
+    AbilityIndex = 0
+    Nature = BOLD
+    IV = 15,15,15,15,15,15 
+    EV = 50,30,70,50,50,50
+    Ball = NETBALL			
+#-------------------------------
+[SWIMMERFEMALE,Laura,1]
+#IntroText : The rougher the sea, the more exciting the swimming! I think it's the same for Pokemon battles!
+LoseText= What a tempest!
+#WinText : Feel the tempest!
+Items = POTION
+Pokemon = CASTFORM,11
+    Moves = WATERGUN,RAINDANCE, TACKLE
+    AbilityIndex = 0
+    IV = 13,13,13,13,13,13
+    EV = 35,35,35,35,35,35
+    Ball = DIVEBALL
+Pokemon = RELICANTH,11
+    Moves = WATERGUN,TACKLE,ANCIENTPOWER,HARDEN
+    AbilityIndex = 0
+    IV = 13,13,13,13,13,13
+    EV = 35,35,35,35,35,35
+    Ball = DIVEBALL				
+#-------------------------------

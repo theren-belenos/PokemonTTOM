@@ -27,7 +27,7 @@ module Settings
   # will call the Drowsy/Frostbite statuses instead. If false, they will be
   # treated as separate status conditions.
   #-----------------------------------------------------------------------------
-  SLEEP_EFFECTS_CAUSE_DROWSY     = false
+  SLEEP_EFFECTS_CAUSE_DROWSY     = true
   FREEZE_EFFECTS_CAUSE_FROSTBITE = true
   #-----------------------------------------------------------------------------
   # When true, Sleep can be cured by getting hit from electrocute moves.

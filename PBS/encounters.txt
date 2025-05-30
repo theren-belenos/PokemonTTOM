@@ -358,6 +358,7 @@ SuperRod
 	70,LUVDISC,30,35
 	30,PALOSSAND,30,35
 #-------------------------------
+[333] # Route 6 - east of forest
 Land,15
     20,RATTATA,3,5
 	20,BIDOOF,3,5
@@ -382,15 +383,15 @@ SuperRod
 #-------------------------------
 [025]   # Route 7 - north east
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    10,TRAPINCH,11,13
+	20,HOPPIP,11,13
+	15,COTTONEE,11,13
+	25,BIDOOF,11,13
+	20,GROWLITHE,11,13
+	20,GLAMEOW,11,13
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,11,13
+	40,FRILLISH,11,13
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -400,15 +401,15 @@ SuperRod
 #-------------------------------
 [026]   # Route 7 - north
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    10,TRAPINCH,12,14
+	20,HOPPIP,12,14
+	15,COTTONEE,12,14
+	25,BIDOOF,12,14
+	20,GROWLITHE,12,14
+	20,GLAMEOW,12,14
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,12,14
+	40,FRILLISH,12,14
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -418,15 +419,15 @@ SuperRod
 #-------------------------------
 [027]   # Route 7 - center
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    10,TRAPINCH,13,15
+	20,HOPPIP,13,15
+	15,COTTONEE,13,15
+	25,BIDOOF,13,15
+	20,GROWLITHE,13,15
+	20,GLAMEOW,13,15
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,13,15
+	40,FRILLISH,13,15
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -436,15 +437,15 @@ SuperRod
 #-------------------------------
 [028]   # Route 7 - south
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    10,TRAPINCH,13,16
+	20,HOPPIP,13,16
+	15,COTTONEE,13,16
+	25,BIDOOF,13,16
+	20,GROWLITHE,13,16
+	20,GLAMEOW,13,16
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,13,16
+	40,FRILLISH,13,16
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -459,15 +460,15 @@ SuperRod
 #-------------------------------
 [029]   # Route 8 - west
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    20,PUMPKABOO,13,16
+	10,WYNAUT,13,16
+	25,PIDOVE,13,16
+	20,SUNKERN,13,16
+	15,BONSLY,13,16
+	20,HOPPIP,13,16
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,13,16
+	40,FRILLISH,13,16
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -477,15 +478,15 @@ SuperRod
 #-------------------------------
 [030]   # Route 8 - center
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    20,PUMPKABOO,14,17
+	10,WYNAUT,14,17
+	25,PIDOVE,14,17
+	20,SUNKERN,14,17
+	15,BONSLY,14,17
+	20,HOPPIP,14,17
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,14,17
+	40,FRILLISH,14,17
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -495,15 +496,15 @@ SuperRod
 #-------------------------------
 [031]   # Route 8 - east
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    20,PUMPKABOO,15,17
+	10,WYNAUT,15,17
+	25,PIDOVE,15,17
+	20,SUNKERN,15,17
+	15,BONSLY,15,17
+	20,HOPPIP,15,17
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,15,17
+	40,FRILLISH,15,17
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -518,15 +519,16 @@ SuperRod
 #-------------------------------
 [034]   # Route 9 - west
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    20,EKANS,14,16
+	20,GROWLITHE,14,16
+	20,DODUO,14,16
+	20,PACHIRISU,14,16
+	10,MASCHIFF,14,16
+	10,MAKUHITA,14,16
+	10,TIMBURR,14,16
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,14,16
+	40,FRILLISH,14,16
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -536,15 +538,16 @@ SuperRod
 #-------------------------------
 [035]   # Route 9 - east
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    20,EKANS,15,17
+	20,GROWLITHE,15,17
+	20,DODUO,15,17
+	20,PACHIRISU,15,17
+	10,MASCHIFF,15,17
+	10,MAKUHITA,15,17
+	10,TIMBURR,15,17
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,15,17
+	40,FRILLISH,15,17
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
@@ -3616,6 +3619,28 @@ SuperRod
 	50,ALOMOMOLA,30,35
 	
 #-------------------------------
+[230]   # Forest 1 - west
+Land,20
+    10,DURANT,10,14
+	25,SHROOMISH,10,14
+	15,SHUCKLE,10,14
+	20,JOLTIK,10,14
+	30,SPINARAK,10,14
+	30,VENONAT,10,14
+	5,HERACROSS,10,14
+	20,BONSLY,10,14
+	5,BEEDRILL,10,14
+OldRod
+	60,LOTAD,10,14
+	40,PSYDUCK,10,14
+GoodRod
+	40,GOLDEEN,20,25
+	60,CORPHISH,20,25
+SuperRod
+	50,MANTYKE,30,35
+	50,ALOMOMOLA,30,35	
+
+#-------------------------------
 [366]   # Cave 1 - Geodude Pit
 Cave,4
     2,GEODUDE,7,9
@@ -3881,134 +3906,67 @@ SuperRod
 	
 	
 	
-	
-	
 #-------------------------------
-[256]   # Mystery Path - south
+[256]   # Mystery Path - south (v1 - before smashedrock)
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+	20,UNOWN_1,16
+	20,UNOWN_2,18
+	20,UNOWN_3,20
+#-------------------------------
+[256,1]   # Mystery Path - south (v2 - before strength)
+Land,15
+    20,UNOWN_4,22
+	20,UNOWN_5,24
+	20,UNOWN_6,26
+#-------------------------------
+[256,2]   # Mystery Path - south (v3 - before water)
+Land,15
+    20,UNOWN_7,28
+	20,UNOWN_8,30
+	20,UNOWN_9,32
 #-------------------------------
 [257]   # Mystery Path - channel
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+    20,UNOWN_26,34
+	20,UNOWN_27,36
 #-------------------------------
 [258]   # Mystery Path - center
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+    20,UNOWN_10,38
+	20,UNOWN_11,40
+	20,UNOWN_12,42
 #-------------------------------
 [263]   # Mystery Path - forest
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+    20,UNOWN_13,44
+	20,UNOWN_14,46
+	20,UNOWN_15,48
 #-------------------------------
 [260]   # Mystery Path - west
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+    20,UNOWN_16,50
+	20,UNOWN_17,52
+	20,UNOWN_18,54
 #-------------------------------
 [261]   # Mystery Path - north west
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+    20,UNOWN_19,56
+	20,UNOWN_20,58
+	20,UNOWN_21,60
 #-------------------------------
 [264]   # Mystery Path - cave
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
-OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
-GoodRod
-	40,FINNEON,20,25
-	60,CORPHISH,20,25
-SuperRod
-	70,LUVDISC,30,35
-	30,PALOSSAND,30,35
+    20,UNOWN_22,62
+	20,UNOWN_23,64
+	20,UNOWN_24,66
+#-------------------------------
+[264,1]   # Mystery Path - cave pt 1
+Land,15
+    20,UNOWN_25,68
+#-------------------------------
+[264,2]   # Mystery Path - cave pt 2
+Land,15
+    20,UNOWN,70
 	
 	
 	

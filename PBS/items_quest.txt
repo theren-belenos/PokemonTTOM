@@ -22,7 +22,6 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A clean looking suitcase belonging to Henry.
-
 #-------------------------------
 [SANDSCARF]
 Name = Scarf
@@ -31,3 +30,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A scarf. You don't know it's owner. It's partially covered by sand.
+#-------------------------------
+[MEDICALPACKAGE]
+Name = Medical Package
+NamePlural = Medical Packages
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A package the nurses of your town gave to you. You have to deliver it to other Pokémon Centers in Nekanta north-west

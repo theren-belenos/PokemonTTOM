@@ -20,6 +20,7 @@ MapSize = 1,111
 Name = Your Gym
 MapPosition = 0,22,15
 BattleBack = gym
+Flags = OwnGym
 #-------------------------------
 [033]   # Department Store 1F
 Name = Department Store
@@ -331,6 +332,7 @@ Bicycle = true
 MapPosition = 0,21,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [332]   # Route 6 - east
 Name = Route 6
@@ -340,6 +342,7 @@ Bicycle = true
 MapPosition = 0,22,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [333]   # Route 6 - east of forest
 Name = Route 6
@@ -349,6 +352,7 @@ Bicycle = true
 MapPosition = 0,24,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 
 
 
@@ -361,6 +365,7 @@ Bicycle = true
 MapPosition = 0,17,15
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [026]   # Route 7 - north
 Name = Route 7
@@ -370,6 +375,7 @@ Bicycle = true
 MapPosition = 0,16,15
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [027]   # Route 7 - center
 Name = Route 7
@@ -379,6 +385,8 @@ Bicycle = true
 MapPosition = 0,16,16
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
+Weather = Rain,100
 #-------------------------------
 [028]   # Route 7 - south
 Name = Route 7
@@ -388,6 +396,8 @@ Bicycle = true
 MapPosition = 0,16,17
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
+Weather = Rain,100
 
 
 
@@ -401,6 +411,8 @@ Bicycle = true
 MapPosition = 0,16,18
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
+Weather = Rain,100
 #-------------------------------
 [030]   # Route 8 - center
 Name = Route 8
@@ -410,6 +422,8 @@ Bicycle = true
 MapPosition = 0,17,18
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
+Weather = Rain,100
 #-------------------------------
 [031]   # Route 8 - east
 Name = Route 8
@@ -419,6 +433,7 @@ Bicycle = true
 MapPosition = 0,18,18
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 
 
 
@@ -431,6 +446,7 @@ Bicycle = true
 MapPosition = 0,20,18
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [035]   # Route 9 - east
 Name = Route 9
@@ -440,6 +456,7 @@ Bicycle = true
 MapPosition = 0,21,18
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 
 
 
@@ -452,6 +469,7 @@ Bicycle = true
 MapPosition = 0,16,20
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 
 
 
@@ -2007,12 +2025,22 @@ Environment = MovingWater
 [222]   # Forest 1 - overworld
 #-------------------------------
 [223]   # Forest 1 - east
-Name = Green Lush Forest (east)
+Name = Greenlush Forest (east)
 Outdoor = false
 ShowArea = true
 Bicycle = true
 MapPosition = 0,18,15
 MapSize = 1,1
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[230]   # Forest 1 - west
+Name = Greenlush Forest (west)
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,15
+MapSize = 2,1
 BattleBack = forest
 Environment = Forest
 #-------------------------------
@@ -2216,6 +2244,7 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,16,14
 MapSize = 1,1
+BattleBack = field
 Environment = Grass
 #-------------------------------
 [257]   # Mystery Path - channel
