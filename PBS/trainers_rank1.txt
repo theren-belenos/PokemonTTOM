@@ -95,7 +95,7 @@ Pokemon = EEVEE, 8
     EV = 30,30,30,30,30,30
     Ball = POKEBALL				
 #-------------------------------
-[POKEKIDBOY,Elio,1]
+[POKEKID,Ellie,1]
 #IntroText : Let's go guys! We can do it!
 LoseText= Oh no...
 #WinText : Yes, Yes, Yes!!! We dit it!!!
@@ -149,7 +149,7 @@ Pokemon = MAREEP,9
     IV = 10,10,10,10,10,10 
     EV = 30,30,30,30,30,30
     Ball = POKEBALL      
-Pokemon = GOGOAT,9
+Pokemon = SKIDDO,9
     AbilityIndex = 0
     IV = 10,10,10,10,10,10 
     EV = 30,30,30,30,30,30

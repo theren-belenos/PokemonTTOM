@@ -1,0 +1,9 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CLOUDBED]
+Name = Cloud Bed
+Description = Boosts Special Attack in Tailwind or when attacked by wind moves.
+#-------------------------------
+[DRACOAURA]
+Name = Draco-Aura
+Description = Powers up aura and pulse moves.

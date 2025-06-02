@@ -401,19 +401,11 @@ module Settings
 				:Stars => 1
 			},
 			
-			:POKEKIDBOY => {
-                :Title => _INTL("Challenger"),
-                :Text => _INTL("Pokekid &m;"),
-                :Image => "POKEKIDBOY",
-				:ImagePosition => :Left,
-                :Background => "bg2",
-				:Stars => 1
-			},
 			
-			:POKEKIDGIRL => {
+			:POKEKID => {
                 :Title => _INTL("Challenger"),
-                :Text => _INTL("Pokekid &f;"),
-                :Image => "POKEKIDGIRL",
+                :Text => _INTL("Pokekid"),
+                :Image => "POKEKID",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:Stars => 1
@@ -1809,7 +1801,7 @@ module Settings
 			
 			:TOWNDEV8 => {
                 :Title => _INTL("Gym Welcoming - Consolation"),
-                :Text => _INTL("Send Marley on a formation to improve the odds of the challengers coming back after defeat."),
+                :Text => _INTL("Send Marley in training to improve the odds of the challengers coming back after defeat."),
                 :Image => "towndev8",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1819,7 +1811,7 @@ module Settings
 			},
 			:TOWNDEV8REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Change the odds of challengers coming back :\n- Come back once : 50% -> 70% chances\n- Come back twice : 20%\n- Come back 3 times and more : 0%\n<i>Marley will be unavailable for the week</i>"),
+                :Text => _INTL("Change the odds of challengers coming back :\n- Come back once : 50% -> 70% chances\n- Come back twice : 20%\n- Come back 3 times and more : 0%\n<i>Marley will be unavailable for the next couple of days</i>"),
                 :Background => "bg2",
 			},
 			
@@ -2140,7 +2132,7 @@ module Settings
 			
 			:TOWNDEV27 => {
                 :Title => _INTL("Clearing - Major spot 3"),
-                :Text => _INTL("Clears the wreckage on the major spot 2."),
+                :Text => _INTL("Clears the wreckage on the major spot 3."),
                 :Image => "towndev27",
 				:ImagePosition => :Top,
                 :Background => "bg2",

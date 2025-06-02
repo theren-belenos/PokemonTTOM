@@ -117,7 +117,7 @@ Battle::AbilityEffects::MoveImmunity.add(:WELLBAKEDBODY,
 )
 
 #===============================================================================
-# Wind Rider
+# Wind Rider & Cloud Bed
 #===============================================================================
 Battle::AbilityEffects::MoveImmunity.add(:WINDRIDER,
   proc { |ability, user, target, move, type, battle, show_message|
@@ -142,11 +142,42 @@ Battle::AbilityEffects::MoveImmunity.add(:WINDRIDER,
   }
 )
 
+Battle::AbilityEffects::MoveImmunity.add(:CLOUDBED,
+  proc { |ability, user, target, move, type, battle, show_message|
+    next false if !move.windMove?
+    next false if user.index == target.index
+    if show_message
+      battle.pbShowAbilitySplash(target)
+      if target.pbCanRaiseStatStage?(:SPECIAL_ATTACK, user, move)
+        if Battle::Scene::USE_ABILITY_SPLASH
+          target.pbRaiseStatStage(:SPECIAL_ATTACK, 1, user)
+        else
+          target.pbRaiseStatStageByCause(:SPECIAL_ATTACK, 1, user, target.abilityName)
+        end
+      elsif Battle::Scene::USE_ABILITY_SPLASH
+        battle.pbDisplay(_INTL("It doesn't affect {1}...", target.pbThis(true)))
+      else
+        battle.pbDisplay(_INTL("{1}'s {2} made {3} ineffective!", target.pbThis, target.abilityName, move.name))
+      end
+      battle.pbHideAbilitySplash(target)
+    end
+    next true
+  }
+)
+
 Battle::AbilityEffects::OnSwitchIn.add(:WINDRIDER,
   proc { |ability, battler, battle, switch_in|
     next if battler.pbOwnSide.effects[PBEffects::Tailwind] <= 0
     next if !battler.pbCanRaiseStatStage?(:ATTACK, battler)
     battler.pbRaiseStatStageByAbility(:ATTACK, 1, battler)
+  }
+)
+
+Battle::AbilityEffects::OnSwitchIn.add(:CLOUDBED,
+  proc { |ability, battler, battle, switch_in|
+    next if battler.pbOwnSide.effects[PBEffects::Tailwind] <= 0
+    next if !battler.pbCanRaiseStatStage?(:SPECIAL_ATTACK, battler)
+    battler.pbRaiseStatStageByAbility(:SPECIAL_ATTACK, 1, battler)
   }
 )
 

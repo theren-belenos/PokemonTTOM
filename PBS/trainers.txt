@@ -27,7 +27,7 @@ LoseText = Gotta keep running!
 Pokemon = MAKUHITA,3
 Pokemon = PONYTA,3
 #-------------------------------
-[WILDPKMN,Croagunks]
+[WILDCROAGUNKS,Croagunks]
 LoseText = Criiiiiiiiii!
 Pokemon = CROAGUNK,15
 Pokemon = CROAGUNK,16

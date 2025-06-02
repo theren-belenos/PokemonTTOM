@@ -1,5 +1,4 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
-# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [BULBASAUR]
 Name = Bulbasaur
@@ -16334,7 +16333,7 @@ Habitat = Forest
 Category = Snail
 Pokedex = It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
 Generation = 5
-Evolutions = ACCELGOR,TradeSpecies,KARRABLAST
+Evolutions = ESCAVALIER,TradeSpecies,KARRABLAST
 #-------------------------------
 [ACCELGOR]
 Name = Accelgor

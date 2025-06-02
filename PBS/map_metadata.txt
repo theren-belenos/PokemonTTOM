@@ -2025,7 +2025,7 @@ Environment = MovingWater
 [222]   # Forest 1 - overworld
 #-------------------------------
 [223]   # Forest 1 - east
-Name = Greenlush Forest (east)
+Name = Gr.Lush Forest (east)
 Outdoor = false
 ShowArea = true
 Bicycle = true
@@ -2035,7 +2035,7 @@ BattleBack = forest
 Environment = Forest
 #-------------------------------
 [230]   # Forest 1 - west
-Name = Greenlush Forest (west)
+Name = Gr.Lush Forest (west)
 Outdoor = false
 ShowArea = true
 Bicycle = true

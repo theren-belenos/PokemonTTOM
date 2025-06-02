@@ -167,12 +167,13 @@ class PokemonRegionMap_Scene
 			when 7, 10, 15, 16, 17, 20
 				pbPlayLevelUpSE
 				$town.build(infos[2])
-				pbMessage(_INTL("{This task was done!"))
+				pbMessage(_INTL("This task was done!"))
 				@spritesMap["FlyIcons"].bitmap.clear
 				
 			else
 				pbPlayDecisionSE
 				$town.buildings[infos[2]] = 1
+				$game_switches[64] = true if infos[2] == 8
 				pbMessage(_INTL("The task begins!"))
 				@spritesMap["FlyIcons"].bitmap.clear
 			end

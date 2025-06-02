@@ -196,8 +196,9 @@ class TipCard_Scene
 		@fraction_tic = target_fraction / @count	
 		@famebar.src_rect.width = 0
 		limits = [0,3,6,10,15,20,25,30,40,50,60,70,85,100]
-		if fameToAdd > 0 || newlvl < limits[$town.rank]
+		if fameToAdd > 0 && newlvl < limits[$town.rank]
 			pbSEPlay("Pkmn exp gain")
+		else
 			@animatingFameLvl = false 
 		end
 	end
@@ -294,8 +295,8 @@ class TipCard_Scene
 				variableIndex = [0,204,205,206,207]
 				heartsCount = pbGet(variableIndex[info[:TrainersInfos]])
 				@sprites["stars"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/Images/#{heartsCount}hearts"))
-				@sprites["stars"].x = @sprites["background"].x + 100
-                @sprites["stars"].y = @sprites["background"].y + 85
+				@sprites["stars"].x = @sprites["background"].x + 110
+                @sprites["stars"].y = @sprites["background"].y + 88
 				@sprites["stars"].z = 500
                 @sprites["stars"].visible = true
 				@sprites["image"].x -= 30

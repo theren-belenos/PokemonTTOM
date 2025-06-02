@@ -520,8 +520,8 @@ Gender = Male
 BaseMoney = 16
 IntroBGM = encounter_youngster
 #-------------------------------
-[WILDPKMN]
-Name = Some wilds
+[WILDCROAGUNKS]
+Name = Some wild
 Gender = Unknown
 BaseMoney = 0
 #-------------------------------
@@ -645,13 +645,7 @@ BaseMoney = 48
 SkillLevel = 8
 IntroBGM = encounter_youngster
 #-------------------------------
-[POKEKIDBOY]
-Name = Pokékid
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[POKEKIDGIRL]
+[POKEKID]
 Name = Pokékid
 Gender = Female
 BaseMoney = 16

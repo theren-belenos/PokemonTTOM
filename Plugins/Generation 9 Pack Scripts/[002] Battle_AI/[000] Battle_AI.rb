@@ -12,7 +12,7 @@ class Battle::AI
     5  => [:ARMORTAIL, :ROCKYPAYLOAD, :SHARPNESS, :LINGERINGAROMA, :CUDCHEW, 
            :TOXICCHAIN, :POISONPUPPETEER],
     4  => [:PURIFYINGSALT, :WELLBAKEDBODY, :ANGERSHELL, :ELECTROMORPHOSIS, :WINDPOWER],
-    3  => [:WINDRIDER, :HOSPITALITY,
+    3  => [:WINDRIDER, :CLOUDBED, :HOSPITALITY,
            :TABLETSOFRUIN, :SWORDOFRUIN, :VESSELOFRUIN, :BEADSOFRUIN
           ],
     1  => [:EMBODYASPECT, :EMBODYASPECT_1, :EMBODYASPECT_2, :EMBODYASPECT_3,
@@ -69,7 +69,7 @@ class Battle::AI
       return move_type == :GROUND
     when :WELLBAKEDBODY
       return move_type == :FIRE
-    when :WINDRIDER
+    when :WINDRIDER, :COULDBED
       move_data = GameData::Move.get(move.id)
       return move_data.has_flag?("Wind")
     end

@@ -223,7 +223,7 @@ end
 #===============================================================================
 # Tailwind
 #===============================================================================
-# Adds Wind Rider and Wind Power procs.
+# Adds Wind Rider, Could Bed and Wind Power procs.
 #-------------------------------------------------------------------------------
 class Battle::Move::StartUserSideDoubleSpeed < Battle::Move
   def pbEffectGeneral(user)
@@ -233,6 +233,8 @@ class Battle::Move::StartUserSideDoubleSpeed < Battle::Move
       next if !b || b.fainted?
       if b.hasActiveAbility?(:WINDRIDER) && b.pbCanRaiseStatStage?(:ATTACK, b, self)
         b.pbRaiseStatStageByAbility(:ATTACK, 1, b)
+	  elsif b.hasActiveAbility?(:CLOUDBED) && b.pbCanRaiseStatStage?(:SPECIAL_ATTACK, b, self)
+        b.pbRaiseStatStageByAbility(:SPECIAL_ATTACK, 1, b)
       elsif b.hasActiveAbility?(:WINDPOWER) && b.effects[PBEffects::Charge] == 0
         @battle.pbShowAbilitySplash(b)
         b.effects[PBEffects::Charge] = 2
