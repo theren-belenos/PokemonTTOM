@@ -4,85 +4,85 @@
 #
 #-----------------------------------------------
 [RIVAL1,Rival_Battle1_Normal]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = RIOLU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Grass]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = NIDORANfE,5
 	Moves = GROWL,SCRATCH
 	AbilityIndex = 1
 #-------------------------------
 [RIVAL1,Rival_Battle1_Fire]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = GIBLE,5
 	Moves = SCARYFACE, TACKLE
 	AbilityIndex = 0
 #-------------------------------
 [RIVAL1,Rival_Battle1_Water]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = PICHU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Electric]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = GIBLE,5
 	Moves = SCARYFACE, TACKLE
 	AbilityIndex = 0
 #-------------------------------
 [RIVAL1,Rival_Battle1_Fighting]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = RALTS,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Poison]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = GIBLE,5
 	Moves = SCARYFACE, TACKLE
 	AbilityIndex = 0
 #-------------------------------
 [RIVAL1,Rival_Battle1_Ground]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = SPHEAL,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Flying]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = PICHU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Psychic]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = ZORUA,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Bug]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = ROOKIDEE,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Rock]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = RIOLU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Ghost]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = ZORUA,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Ice]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = RIOLU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Dragon]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = TINKATINK,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Dark]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = RIOLU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Steel]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = GIBLE,5
 	Moves = SCARYFACE, TACKLE
 	AbilityIndex = 0
 #-------------------------------
 [RIVAL1,Rival_Battle1_Fairy]
-LoseText = What ? But...
+LoseText = What? But...
 Pokemon = NIDORANfE,5
 	Moves = GROWL,SCRATCH
 	AbilityIndex = 1
@@ -191,7 +191,9 @@ Pokemon = LOTAD,13
 Pokemon = LEAFEON,15
 	Moves = RAZORLEAF,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 0,37,37,10,0,0
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Fire]
 Items = POTION
@@ -201,7 +203,9 @@ Pokemon = PONYTA,13
 Pokemon = FLAREON,15
 	Moves = EMBER,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,37,0,37,0,0
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Water]
 Items = POTION
@@ -211,7 +215,9 @@ Pokemon = FRILLISH,13
 Pokemon = VAPOREON,15
 	Moves = WATERGUN,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 0,0,0,37,10,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Electric]
 Items = POTION
@@ -221,29 +227,33 @@ Pokemon = MAGNEMITE,13
 Pokemon = JOLTEON,15
 	Moves = THUNDERSHOCK,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,0,37,37,0
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Fighting]
 Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
+Pokemon = CLOBBOPUS,13
 	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = STANDEON,15
+	Moves = KARATECHOP,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Poison]
 Items = POTION
 LoseText = Congratulations!
-Pokemon = PURRLOIN,13
-	Moves = GROWL,SCRATCH,FAKEOUT,FURYSWIPES
-	EV = 10,32,0,32,0,0
-Pokemon = UMBREON,15
-	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
+Pokemon = KOFFING,13
+	EV = 10,32,32,0,0,0
+Pokemon = MELTEON,15
+	Moves = ACIDSPRAY,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Ground]
 Items = POTION
@@ -254,7 +264,9 @@ Pokemon = PURRLOIN,13
 Pokemon = UMBREON,15
 	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Flying]
 Items = POTION
@@ -265,7 +277,9 @@ Pokemon = PURRLOIN,13
 Pokemon = UMBREON,15
 	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Psychic]
 Items = POTION
@@ -275,7 +289,9 @@ Pokemon = MIMEJR,13
 Pokemon = ESPEON,15
 	Moves = CONFUSION,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,0,37,37,0
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Bug]
 Items = POTION
@@ -285,7 +301,9 @@ Pokemon = JOLTIK,13
 Pokemon = MOTHEON,15
 	Moves = FURYCUTTER,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,37,0,37,0,0
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Rock]
 Items = POTION
@@ -296,7 +314,9 @@ Pokemon = SCALEON,15
 	AbilityIndex = 1
 	Moves = ROLLOUT,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 37,37,10,0,0,0
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Ghost]
 Items = POTION
@@ -307,7 +327,9 @@ Pokemon = PURRLOIN,13
 Pokemon = UMBREON,15
 	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Ice]
 Items = POTION
@@ -317,7 +339,9 @@ Pokemon = SMOOCHUM,13
 Pokemon = GLACEON,15
 	Moves = ICYWIND,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 0,0,37,0,37,10
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Dragon]
 Items = POTION
@@ -328,7 +352,9 @@ Pokemon = PURRLOIN,13
 Pokemon = UMBREON,15
 	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Dark]
 Items = POTION
@@ -339,7 +365,9 @@ Pokemon = PURRLOIN,13
 Pokemon = UMBREON,15
 	Moves = SNARL,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Steel]
 Items = POTION
@@ -349,7 +377,9 @@ Pokemon = MAGNEMITE,13
 Pokemon = STEELEON,15
 	Moves = METALCLAW,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,37,0,0,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 [TOM,Tom_BadgeBattle_Fairy]
 Items = POTION
@@ -359,7 +389,9 @@ Pokemon = MIMEJR,13
 Pokemon = SYLVEON,15
 	Moves = DISARMINGVOICE,QUICKATTACK,PROTECT,SWIFT
 	Item = ORANBERRY
-	EV = 10,0,0,0,37,37
+	EV = 0,0,0,0,0,0
+	IV = 0,0,0,0,0,0
+	Nature = SERIOUS
 #-------------------------------
 
 

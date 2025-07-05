@@ -224,10 +224,9 @@ Pokemon = GEODUDE,11
 
 #-----------------------------------------------
 #
-#		Green Lush Forest (east) trainers
+#		Green Lush Forest (west) trainers
 #
 #-----------------------------------------------
-
 [BUGMANIAC,Max]
 LoseText = Let's say you're a bug fan then.
 Pokemon = SPINARAK,14
@@ -245,3 +244,111 @@ LoseText = You're inspiring too!
 Pokemon = WYNAUT,13
 Pokemon = HOOTHOOT,13
 Pokemon = PACHIRISU,13
+
+
+#-----------------------------------------------
+#
+#		Route 7 trainers
+#
+#-----------------------------------------------
+[BEAUTY,Olivia]
+LoseText = I'm still prettier! No?
+Pokemon = DUCKLETT,15
+Pokemon = COTTONEE,15
+
+[PAINTER,Ambre]
+LoseText = It doesn't seem to boost my battle skills tho...
+Pokemon = GLAMEOW,13
+Pokemon = EKANS,13
+Pokemon = SABLEYE,13
+Pokemon = EEVEE,13
+
+[FUNOLDLADY,Danielle]
+LoseText = You seem to be in great spirits!
+Pokemon = SPINARAK,14
+Pokemon = NOIBAT,14
+Pokemon = SHUCKLE,14
+
+[JANITOR,Joseph]
+LoseText = Thanks for the workout!
+Pokemon = TIMBURR,14
+Pokemon = CYCLIZAR,14
+Pokemon = GROWLITHE,14
+
+[TOURISTMALE,Isaure]
+LoseText = Trainers seems strong here!
+Pokemon = YAMASK,15
+Pokemon = PUMPKABOO,15
+
+[POKEMONBREEDERFEMALE,Dominique]
+LoseText = You must really love Pokémons!
+Pokemon = WYNAUT,14
+Pokemon = SUNKERN,14
+Pokemon = BONSLY,15
+
+[POKEMONBREEDERMALE,Dominic]
+LoseText = Ah! We didn't have enough Pokémons!
+Pokemon = HOPPIP,14
+Pokemon = DODUO,14
+Pokemon = SHROOMISH,15
+
+
+#-----------------------------------------------
+#
+#		Route 8 trainers
+#
+#-----------------------------------------------
+[PARASOLLADY,Albane]
+LoseText = It doesn't make me a stronger trainer tho!
+Pokemon = STARYU,16
+Pokemon = LOMBRE,16
+
+[CAMPERGIRL,Inaya]
+LoseText = You don't seem afraid of the rain either!
+Pokemon = BONSLY,15
+Pokemon = SHROOMISH,15
+Pokemon = DIGLETT,16
+
+[CLOWN,Tiago]
+LoseText = You're no laughing matter!
+Pokemon = SABLEYE,16
+Pokemon = WOBBUFFET,17
+
+[BUGMANIAC,Marceau]
+LoseText = GO AWAY! I'M LOOKING FOR BUGS!
+Pokemon = SPINARAK,12
+Pokemon = JOLTIK,13
+Pokemon = VENONAT,14
+Pokemon = HERACROSS,15
+Pokemon = BEEDRILL,16
+
+[POKEMONRANGERFEMALE,Alice]
+LoseText = Heh! You're stronger than you look!
+Pokemon = TOGEDEMARU,17
+Pokemon = EKANS,17
+Pokemon = NOIBAT,17
+Pokemon = MOTHEON,18
+
+
+
+
+
+
+#-------------------------------------------------------------
+#
+#		Tlingit
+#
+#-------------------------------------------------------------
+
+#-------------------------------------------------------------
+#
+#		Tlingit gates interiors
+#
+#-------------------------------------------------------------
+[BLACKBELT,Ben]
+LoseText = Hah! That's the kind of workout I'm talking about!
+Items = SUPERPOTION
+Pokemon = TIMBURR,20
+Pokemon = HERACROSS,21
+Pokemon = BRELOOM,23
+	Item = SITRUSBERRY

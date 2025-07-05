@@ -2267,10 +2267,10 @@ ShadowSize = 2
 ShadowSprite = 0,8,21
 #-------------------------------
 [ROSELIA]
-BackSprite = 0,-8
+BackSprite = 0,-4
 FrontSprite = 0,8
 ShadowSize = 2
-ShadowSprite = 0,-14,4
+ShadowSprite = 0,-16,3
 #-------------------------------
 [GULPIN]
 BackSprite = 0,1
@@ -6593,3 +6593,9 @@ BackSprite = 0,7
 FrontSprite = 0,8
 ShadowSize = 2
 ShadowSprite = 0,-21,3
+#-------------------------------
+[ROSELIA,,female]
+BackSprite = 0,-4
+FrontSprite = 0,8
+ShadowSize = 2
+ShadowSprite = 0,-16,3

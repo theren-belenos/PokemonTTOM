@@ -3600,7 +3600,7 @@ SuperRod
 	
 #-------------------------------
 [223]   # Forest 1 - east
-Land,20
+Land,17
     10,DURANT,4,6
 	25,WURMPLE,4,6
 	20,SEEDOT,4,6
@@ -3620,7 +3620,7 @@ SuperRod
 	
 #-------------------------------
 [230]   # Forest 1 - west
-Land,20
+Land,17
     10,DURANT,10,14
 	25,SHROOMISH,10,14
 	15,SHUCKLE,10,14
@@ -3649,8 +3649,17 @@ Cave,4
 	1,SMOOCHUM,7,9
 	1,NOIBAT,7,9
 	1,MACHOP,7,9
-
-	
+#-------------------------------
+[375]   # Cave 2 - Power Tunnel
+[375,1]
+Cave,4
+    10,WOOBAT,15,18
+	4,TORKOAL,15,18
+	6,THROH,15,18
+	6,SAWK,15,18
+	6,GOLETT,15,18
+	8,SHUPPET,15,18
+	12,DIGLETT,15,18
 #-------------------------------
 [242]   # Town 1 - League center
 Land,15

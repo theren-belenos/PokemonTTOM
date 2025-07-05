@@ -55,11 +55,13 @@ BaseMoney = 36
 Name = Aroma Lady
 Gender = Female
 BaseMoney = 32
+IntroBGM = encounter_lass
 #-------------------------------
 [BEAUTY]
 Name = Beauty
 Gender = Female
-BaseMoney = 56
+BaseMoney = 48
+IntroBGM = encounter_lass
 #-------------------------------
 [BIKER]
 Name = Biker
@@ -91,7 +93,6 @@ BaseMoney = 24
 Name = Engineer
 Gender = Male
 BaseMoney = 48
-
 #-------------------------------
 [GAMBLER]
 Name = Gambler
@@ -112,7 +113,8 @@ BaseMoney = 32
 [PAINTER]
 Name = Painter
 Gender = Female
-BaseMoney = 16
+BaseMoney = 32
+IntroBGM = encounter_lass
 #-------------------------------
 [POKEMANIAC]
 Name = Poké Maniac
@@ -162,7 +164,7 @@ BaseMoney = 40
 [BLACKBELT]
 Name = Black Belt
 Gender = Male
-BaseMoney = 32
+BaseMoney = 64
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
@@ -173,6 +175,7 @@ BaseMoney = 24
 Name = Picnicker
 Gender = Female
 BaseMoney = 16
+IntroBGM = encounter_lass
 #-------------------------------
 [COOLTRAINERMALE]
 Name = Cool Trainer &m;
@@ -188,6 +191,7 @@ BaseMoney = 64
 Name = Lass
 Gender = Female
 BaseMoney = 16
+IntroBGM = encounter_lass
 #-------------------------------
 [POKEMONRANGERMALE]
 Name = Pokémon Ranger
@@ -493,6 +497,12 @@ Gender = Male
 BaseMoney = 16
 IntroBGM = encounter_youngster
 #-------------------------------
+[CAMPERGIRL]
+Name = Camper
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
 [MELLY]
 Name = Gym trainer
 Gender = Female
@@ -528,14 +538,14 @@ BaseMoney = 0
 [FUNOLDMAN]
 Name = Fun old man
 Gender = Male
-SkillLevel = 12
+SkillLevel = 16
 BaseMoney = 30
 IntroBGM = encounter_pokefan
 #-------------------------------
 [FUNOLDLADY]
 Name = Fun old lady
 Gender = Male
-SkillLevel = 12
+SkillLevel = 16
 BaseMoney = 30
 IntroBGM = encounter_pokefan
 #-------------------------------
@@ -680,8 +690,24 @@ Name = Idol
 Gender = Female
 BaseMoney = 16
 IntroBGM = encounter_youngster
-
-
+#-------------------------------
+[JANITOR]
+Name = Janitor
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_gentleman
+#-------------------------------
+[PARASOLLADY]
+Name = Parasol Lady
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[CLOWN]
+Name = Clown
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_pokefan
 
 
 

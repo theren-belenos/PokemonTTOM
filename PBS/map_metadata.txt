@@ -386,7 +386,6 @@ MapPosition = 0,16,16
 MapSize = 1,1
 Environment = Grass
 BattleBack = field
-Weather = Rain,100
 #-------------------------------
 [028]   # Route 7 - south
 Name = Route 7
@@ -2077,6 +2076,18 @@ Environment = Cave
 #-------------------------------
 [236]   # Cave 2 - overworld
 #-------------------------------
+[375]   # Cave 2 - Power Tunnel
+Name = Power Tunnel
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,19
+MapSize = 1,1
+BattleBack = cave
+Environment = Cave
+DarkMap = true
+
+#-------------------------------
 [237]   # Cave 3 - overworld
 #-------------------------------
 [238]   # Cave 4 - overworld
@@ -2260,7 +2271,8 @@ Environment = MovingWater
 Name = ???
 Outdoor = true
 ShowArea = true
-Bicycle = 0,16,12
+Bicycle = true
+MapPosition = 0,16,12
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2271,7 +2283,8 @@ Name = ???
 Name = ???
 Outdoor = true
 ShowArea = true
-Bicycle = 0,17,12
+Bicycle = true
+MapPosition = 0,17,12
 MapSize = 1,1
 Environment = Forest
 #-------------------------------
@@ -2279,14 +2292,16 @@ Environment = Forest
 Name = ???
 Outdoor = true
 ShowArea = true
-Bicycle = 0,15,12
+Bicycle = true
+MapPosition = 0,15,12
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
 [261]   # Mystery Path - north west
 Outdoor = true
 ShowArea = true
-Bicycle = 0,15,11
+Bicycle = true
+MapPosition = 0,15,11
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2297,7 +2312,8 @@ Name = ???
 Name = ???
 Outdoor = true
 ShowArea = true
-Bicycle = 0,14,11
+Bicycle = true
+MapPosition = 0,14,11
 MapSize = 1,1
 Environment = Cave
 
@@ -2305,11 +2321,12 @@ Environment = Cave
 
 
 #-------------------------------
-[265]   # Alaska (Tlingit) - Board control
-Name = Tlingit Route 1
+[265]   # Alaska (Tlingit) - Gates
+Name = Tlingit Gates
 Outdoor = true
 ShowArea = true
-Bicycle = 0,13,15
+Bicycle = true
+MapPosition = 0,13,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2317,7 +2334,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,12,15
+Bicycle = true
+MapPosition = 0,12,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2325,7 +2343,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,11,15
+Bicycle = true
+MapPosition = 0,11,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2333,7 +2352,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,12,16
+Bicycle = true
+MapPosition = 0,12,16
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2341,7 +2361,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,11,14
+Bicycle = true
+MapPosition = 0,11,14
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2349,7 +2370,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,11,13
+Bicycle = true
+MapPosition = 0,11,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2357,7 +2379,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,10,13
+Bicycle = true
+MapPosition = 0,10,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2365,7 +2388,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,9,13
+Bicycle = true
+MapPosition = 0,9,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2373,7 +2397,8 @@ Environment = Grass
 Name = Tlingit Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,8,13
+Bicycle = true
+MapPosition = 0,8,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2381,7 +2406,8 @@ Environment = Grass
 Name = Alutiiq Town
 Outdoor = true
 ShowArea = true
-Bicycle = 0,12,17
+Bicycle = true
+MapPosition = 0,12,17
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2389,7 +2415,8 @@ Environment = Grass
 Name = Tlingit Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,11,17
+Bicycle = true
+MapPosition = 0,11,17
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2397,7 +2424,8 @@ Environment = Grass
 Name = Tlingit Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,10,17
+Bicycle = true
+MapPosition = 0,10,17
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2405,7 +2433,8 @@ Environment = Grass
 Name = Tlingit Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,9,17
+Bicycle = true
+MapPosition = 0,9,17
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2413,7 +2442,8 @@ Environment = Grass
 Name = Tlingit Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,8,17
+Bicycle = true
+MapPosition = 0,8,17
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2427,7 +2457,8 @@ Name = Tlingit Route 1
 Name = Tlingit Route 3
 Outdoor = true
 ShowArea = true
-Bicycle = 0,7,16
+Bicycle = true
+MapPosition = 0,7,16
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2435,7 +2466,8 @@ Environment = Grass
 Name = Tlingit Route 3
 Outdoor = true
 ShowArea = true
-Bicycle = 0,7,15
+Bicycle = true
+MapPosition = 0,7,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2443,7 +2475,8 @@ Environment = Grass
 Name = Tlingit Route 3
 Outdoor = true
 ShowArea = true
-Bicycle = 0,7,14
+Bicycle = true
+MapPosition = 0,7,14
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2451,10 +2484,18 @@ Environment = Grass
 Name = Dena Town
 Outdoor = true
 ShowArea = true
-Bicycle = 0,7,13
+Bicycle = true
+MapPosition = 0,7,13
 MapSize = 1,1
 Environment = Grass
-
+#-------------------------------
+[224]   # Alaska (Tlingit) - Gates interior
+Name = Tlingit Gates
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,15
+MapSize = 1,1
 
 
 #-------------------------------
@@ -2462,7 +2503,8 @@ Environment = Grass
 Name = Far Islands Jetty
 Outdoor = true
 ShowArea = true
-Bicycle = 0,33,6
+Bicycle = true
+MapPosition = 0,33,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2470,7 +2512,8 @@ Environment = Grass
 Name = Far Islands Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,34,6
+Bicycle = true
+MapPosition = 0,34,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2478,7 +2521,8 @@ Environment = Grass
 Name = Far Islands Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,34,7
+Bicycle = true
+MapPosition = 0,34,7
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2486,7 +2530,8 @@ Environment = Grass
 Name = Far Islands Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,35,6
+Bicycle = true
+MapPosition = 0,35,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2494,7 +2539,8 @@ Environment = Grass
 Name = Far Islands Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,34,8
+Bicycle = true
+MapPosition = 0,34,8
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2502,7 +2548,8 @@ Environment = Grass
 Name = Far Islands Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,34,9
+Bicycle = true
+MapPosition = 0,34,9
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2510,7 +2557,8 @@ Environment = Grass
 Name = Far Islands Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,36,6
+Bicycle = true
+MapPosition = 0,36,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2521,7 +2569,8 @@ Name = Far Islands Jetty
 Name = Tinganes
 Outdoor = true
 ShowArea = true
-Bicycle = 0,35,9
+Bicycle = true
+MapPosition = 0,35,9
 MapSize = 1,1
 Environment = Grass
 
@@ -2533,7 +2582,8 @@ Environment = Grass
 Name = Nunaat departure jetty
 Outdoor = true
 ShowArea = true
-Bicycle = 0,36,16
+Bicycle = true
+MapPosition = 0,36,16
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2541,7 +2591,8 @@ Environment = Grass
 Name = Nunaat arrival jetty
 Outdoor = true
 ShowArea = true
-Bicycle = 0,39,14
+Bicycle = true
+MapPosition = 0,39,14
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2549,7 +2600,8 @@ Environment = Grass
 Name = Nunaat Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,40,14
+Bicycle = true
+MapPosition = 0,40,14
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2557,7 +2609,8 @@ Environment = Grass
 Name = Nunaat Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,40,13
+Bicycle = true
+MapPosition = 0,40,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2565,7 +2618,8 @@ Environment = Grass
 Name = Nunaat Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,40,15
+Bicycle = true
+MapPosition = 0,40,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2573,7 +2627,8 @@ Environment = Grass
 Name = Nunaat Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,41,15
+Bicycle = true
+MapPosition = 0,41,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2581,7 +2636,8 @@ Environment = Grass
 Name = Kangerlua
 Outdoor = true
 ShowArea = true
-Bicycle = 0,41,13
+Bicycle = true
+MapPosition = 0,41,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2592,7 +2648,8 @@ Name = Nunaat cave
 Name = Nunaat Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,15
+Bicycle = true
+MapPosition = 0,43,15
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2600,7 +2657,8 @@ Environment = Grass
 Name = Nunaat Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,14
+Bicycle = true
+MapPosition = 0,43,14
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2608,7 +2666,8 @@ Environment = Grass
 Name = Nunaat Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,13
+Bicycle = true
+MapPosition = 0,43,13
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2616,7 +2675,8 @@ Environment = Grass
 Name = Nunaat Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,12
+Bicycle = true
+MapPosition = 0,43,12
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2624,7 +2684,8 @@ Environment = Grass
 Name = Nunaat Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,42,12
+Bicycle = true
+MapPosition = 0,42,12
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2632,7 +2693,8 @@ Environment = Grass
 Name = Nunaat Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,41,12
+Bicycle = true
+MapPosition = 0,41,12
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2643,7 +2705,8 @@ Name = Nunaat forest
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,11
+Bicycle = true
+MapPosition = 0,43,11
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2651,7 +2714,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,44,11
+Bicycle = true
+MapPosition = 0,44,11
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2659,7 +2723,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,11
+Bicycle = true
+MapPosition = 0,45,11
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2667,7 +2732,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,12
+Bicycle = true
+MapPosition = 0,45,12
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2675,7 +2741,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,44,13
+Bicycle = true
+MapPosition = 0,44,13
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2683,7 +2750,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,13
+Bicycle = true
+MapPosition = 0,45,13
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2691,7 +2759,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,44,14
+Bicycle = true
+MapPosition = 0,44,14
 MapSize = 1,1
 Environment = MovingWater
 #-------------------------------
@@ -2699,7 +2768,8 @@ Environment = MovingWater
 Name = Nunaat Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,14
+Bicycle = true
+MapPosition = 0,45,14
 MapSize = 1,1
 Environment = MovingWater
 
@@ -2713,7 +2783,8 @@ Environment = MovingWater
 Name = Gardari Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,8
+Bicycle = true
+MapPosition = 0,43,8
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2721,7 +2792,8 @@ Environment = Grass
 Name = Gardari Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,7
+Bicycle = true
+MapPosition = 0,43,7
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2729,7 +2801,8 @@ Environment = Grass
 Name = Gardari Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,6
+Bicycle = true
+MapPosition = 0,43,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2737,7 +2810,8 @@ Environment = Grass
 Name = Gardari Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,43,5
+Bicycle = true
+MapPosition = 0,43,5
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2745,7 +2819,8 @@ Environment = Grass
 Name = Gardari Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,44,7
+Bicycle = true
+MapPosition = 0,44,7
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2753,7 +2828,8 @@ Environment = Grass
 Name = Gardari Route 1
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,7
+Bicycle = true
+MapPosition = 0,45,7
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2761,7 +2837,8 @@ Environment = Grass
 Name = Vik
 Outdoor = true
 ShowArea = true
-Bicycle = 0,42,6
+Bicycle = true
+MapPosition = 0,42,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2772,7 +2849,8 @@ Name = Gardari Route 1
 Name = Gardari Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,5
+Bicycle = true
+MapPosition = 0,45,5
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2780,7 +2858,8 @@ Environment = Grass
 Name = Gardari Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,6
+Bicycle = true
+MapPosition = 0,45,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2788,7 +2867,8 @@ Environment = Grass
 Name = Gardari Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,46,6
+Bicycle = true
+MapPosition = 0,46,6
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2796,7 +2876,8 @@ Environment = Grass
 Name = Gardari Route 2
 Outdoor = true
 ShowArea = true
-Bicycle = 0,46,7
+Bicycle = true
+MapPosition = 0,46,7
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2804,7 +2885,8 @@ Environment = Grass
 Name = Gardari Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,46,8
+Bicycle = true
+MapPosition = 0,46,8
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2812,7 +2894,8 @@ Environment = Grass
 Name = Gardari Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,45,8
+Bicycle = true
+MapPosition = 0,45,8
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2820,7 +2903,8 @@ Environment = Grass
 Name = Gardari Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,47,8
+Bicycle = true
+MapPosition = 0,47,8
 MapSize = 1,1
 Environment = Grass
 #-------------------------------
@@ -2828,6 +2912,7 @@ Environment = Grass
 Name = Gardari Sea Route
 Outdoor = true
 ShowArea = true
-Bicycle = 0,47,7
+Bicycle = true
+MapPosition = 0,47,7
 MapSize = 1,1
 Environment = Grass

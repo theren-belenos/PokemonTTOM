@@ -145,6 +145,17 @@ module QuestModule
 		:RewardString => "???"
 	}
   
+    # Find a custap berry in green lush forest
+	ItemQuest4 = {
+		:ID => "IQ4",
+		:Name => _INTL("Find a custap berry"),
+		:QuestGiver => _INTL("A scientist"),
+		:Stage1 => _INTL("Give a custap berry"),
+		:Location1 => _INTL("Green lush forest (west)"),
+		:QuestDescription => _INTL("A scientist studying berries in Green lush forest (west) wants a rare custap berry. He said there might be some in the forest. Give him a custap berry!"),
+		:RewardString => "???"
+	}
+	
   ##############################################################################
   #
   #		Battle Quests
@@ -176,6 +187,17 @@ module QuestModule
 		:Location1 => _INTL("Geodude Pit"),
 		:Location2 => _INTL("Geodude Pit"),
 		:QuestDescription => _INTL("Some strange looking persons stole Martha's Milcery. Confront them and take it back!"),
+		:RewardString => "???"
+	}
+	
+	# Blackbelt battle inside Tlingit gates
+	BattleQuest3 = {
+		:ID => "BQ3",
+		:Name => _INTL("Spar with Ben (lvl 22+)"),
+		:QuestGiver => "Ben",
+		:Stage1 => _INTL("Battle Ben"),
+		:Location1 => _INTL("Tlingit gates"),
+		:QuestDescription => _INTL("A judoka named Ben is disappointed that he can't go to Tlingit to train. Go battle with him!"),
 		:RewardString => "???"
 	}
   

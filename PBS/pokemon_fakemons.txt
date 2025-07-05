@@ -25,7 +25,7 @@ Pokedex = Steeleon is so proud of his steel coat it can take care of it for more
 Generation = 10
 
 [STANDEON]
-Name = Stadeon
+Name = Standeon
 Types = FIGHTING
 BaseStats = 65,130,95,110,60,65
 GenderRatio = FemaleOneEighth
