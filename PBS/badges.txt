@@ -13,10 +13,10 @@ Order = 1
 [HIVEBADGE]
 Name = Hive Badge
 Type = BUG
-LeaderName = Tom
-LeaderSprite = TOM
-Location = Central Town
-AcePokemon = EEVEE
+LeaderName = Kathleen
+LeaderSprite = KATHLEEN
+Location = Sombake
+AcePokemon = VESPIQUEN
 Region = Nekanta
 Order = 2
 #-------------------------------
@@ -91,7 +91,7 @@ Region = Nekanta
 Order = 16
 
 #-------------------------------
-[STORMBADGE]
+[FISTBADGE]
 Name = Fist Badge
 Type = FIGHTING
 LeaderName = Tom

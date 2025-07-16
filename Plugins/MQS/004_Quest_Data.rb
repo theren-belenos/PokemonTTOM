@@ -200,6 +200,19 @@ module QuestModule
 		:QuestDescription => _INTL("A judoka named Ben is disappointed that he can't go to Tlingit to train. Go battle with him!"),
 		:RewardString => "???"
 	}
+	
+	# Bandit ambush Route 9
+	BattleQuest4 = {
+		:ID => "BQ4",
+		:Name => _INTL("Battle the bandits (lvl 24+)"),
+		:QuestGiver => _INTL("A policeman"),
+		:Stage1 => _INTL("Fall into bandit's ambush"),
+		:Stage2 => _INTL("Report to the policeman"),
+		:Location1 => _INTL("Route 9"),
+		:Location2 => _INTL("Sombake PC"),
+		:QuestDescription => _INTL("Some bandits are abushing travellers near the east end of Route 9. Go there yourself and prepare for battle!"),
+		:RewardString => "Cyclizar"
+	}
   
   ##############################################################################
   #
@@ -210,12 +223,34 @@ module QuestModule
 	# Show a MimeJr to the scientist in Central Town PC
 	PokemonQuest1 = {
 		:ID => "PQ1",
-		:Name => _INTL("Show a MimeJr"),
+		:Name => _INTL("Studying MimeJr"),
 		:QuestGiver => _INTL("Scientist"),
 		:Stage1 => _INTL("Show a MimeJr to the scientist"),
 		:Location1 => _INTL("Central Town PC"),
 		:QuestDescription => _INTL("A scientist inside the Central Town pokémon Center need to study a MimeJr for a few minutes. Go capture one and show it to her."),
 		:RewardString => _INTL("Some growth medecines (Protein etc...)")
+	}
+	
+	# Show a team containing at least 3 different bug pokemon
+	PokemonQuest2 = {
+		:ID => "PQ2",
+		:Name => _INTL("A team with bugs"),
+		:QuestGiver => "Valère",
+		:Stage1 => _INTL("Show a team with 3 or more bug pkmn"),
+		:Location1 => _INTL("Sombake PC"),
+		:QuestDescription => _INTL("A bug catcher named Valere in Sombake PC wants to know if you really like bug Pokémons. Show him at least 3 different bugs Pokémons in your team"),
+		:RewardString => _INTL("Some net balls")
+	}
+	
+	# Show a team containing at least 3 different bug pokemon
+	PokemonQuest3 = {
+		:ID => "PQ3",
+		:Name => _INTL("Bug and Poison"),
+		:QuestGiver => _INTL("Little girl"),
+		:Stage1 => _INTL("Show a bug/poison Pokémon"),
+		:Location1 => _INTL("A house in Sombake"),
+		:QuestDescription => _INTL("A little girl heard that a lot of bug Pokémons are also poison typed. If you show one to her, she will give you a poison TM"),
+		:RewardString => _INTL("A poison TM")
 	}
   
   ##############################################################################

@@ -510,6 +510,13 @@ BaseMoney = 32
 IntroBGM = encounter_rival
 BattleBGM = battle_rival
 #-------------------------------
+[SAMYBEFORE]
+Name = Pokémon trainer
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
+#-------------------------------
 [SAMY]
 Name = Gym trainer
 Gender = Male
@@ -708,7 +715,12 @@ Name = Clown
 Gender = Male
 BaseMoney = 32
 IntroBGM = encounter_pokefan
-
+#-------------------------------
+[COWGIRL]
+Name = Cowgirl
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_hiker
 
 
 
@@ -745,8 +757,8 @@ VictoryBGM = battle_victory_team
 Name = Absolution Admin
 Gender = Male
 BaseMoney = 48
-IntroBGM = encounter_teamgrunt
-BattleBGM = battle_teamgrunt
+IntroBGM = encounter_teamgrunts
+BattleBGM = battle_teamleader
 VictoryBGM = battle_victory_team
 #-------------------------------
 [TEAMADMINFEMALE]
@@ -780,16 +792,25 @@ BaseMoney = 80
 IntroBGM = encounter_teamgrunt
 BattleBGM = battle_teamgrunt
 VictoryBGM = battle_victory_team
-#-------------------------------
-[COWGIRL]
-Name = Cowgirl
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_hiker
+
+
+
+
+
+
+
+
 #-------------------------------
 [TOM]
 Name = Stand-in Gym Leader
 Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[KATHLEENNL]
+Name = The
+Gender = Female
 BaseMoney = 64
 BattleBGM = battle_gymleader
 VictoryBGM = battle_victory_gymleader

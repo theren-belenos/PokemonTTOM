@@ -3678,24 +3678,42 @@ GoodRod
 SuperRod
 	70,LUVDISC,30,35
 	30,PALOSSAND,30,35
+	
+	
 #-------------------------------
 [243]   # Town 2 - Bug Gym
-Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
 OldRod
-	60,BINACLE,3,5
-	40,FRILLISH,3,5
+	60,BINACLE,14,17
+	40,FRILLISH,14,17
 GoodRod
 	40,FINNEON,20,25
 	60,CORPHISH,20,25
 SuperRod
 	70,LUVDISC,30,35
 	30,PALOSSAND,30,35
+#-------------------------------
+[382]   # Firefly cave 
+Cave,4
+    20,DIGLETT,14,17
+	10,SABLEYE,14,17
+	10,YAMASK,14,17
+	15,BRONZOR,14,17
+	20,MAGNEMITE,14,17
+	20,SANDSHREW,14,17
+	20,NOIBAT,14,17
+	15,TIMBURR,14,17
+#-------------------------------
+[383]   # Unknown tunnel
+Cave,4
+    20,DIGLETT,15,18
+	10,SABLEYE,15,18
+	10,YAMASK,15,18
+	15,BRONZOR,15,18
+	20,MAGNEMITE,15,18
+	20,SANDSHREW,15,18
+	20,NOIBAT,15,18
+	15,TIMBURR,15,18
+	
 #-------------------------------
 [244]   # Town 3 - Rock Gym
 Land,15

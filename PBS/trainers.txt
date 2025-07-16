@@ -329,10 +329,77 @@ Pokemon = EKANS,17
 Pokemon = NOIBAT,17
 Pokemon = MOTHEON,18
 
+#-----------------------------------------------
+#
+#		Sombake (Bug Town) trainers
+#
+#-----------------------------------------------
+# Firefly grotto
+[HIKER,Gontran]
+LoseText = So many fireflies!
+Pokemon = SABLEYE,19
+Pokemon = TIMBURR,19
+
+# Tunnel (Team absolution (+ Samy))
+[SAMYBEFORE,Samy]
+LoseText = Hahah! Not bad, really not bad!
+Pokemon = NOSEPASS,20
+Pokemon = ONIX,20
+Pokemon = LYCANROC,22
+
+
+[TEAMGRUNTMALE,Carl]
+LoseText = What the...
+Pokemon = TRUBBISH,19
+Pokemon = BINACLE,19
+[TEAMGRUNTMALE,Denis]
+LoseText = But why??
+Pokemon = DIGLETT,19
+Pokemon = TRUBBISH,19
+
+[TEAMGRUNTFEMALE,Elora]
+LoseText = Tsk!
+Pokemon = TRUBBISH,21
+[TEAMGRUNTFEMALE,Fany]
+LoseText = Leave us alone!
+Pokemon = TRUBBISH,21
+
+[TEAMGRUNTFEMALE,Gladys]
+LoseText = We didn't last long...
+Pokemon = PURRLOIN,19
+Pokemon = TRUBBISH,19
+Pokemon = DRIFLOON,19
+[TEAMGRUNTMALE,Hugo]
+LoseText = But... who are you?
+Pokemon = EKANS,19
+Pokemon = YAMASK,19
+Pokemon = TRUBBISH,19
+
+[TEAMADMINMALE,Elias]
+LoseText = How??
+Pokemon = GARBODOR,40
+	Moves = METALCLAW,TAKEDOWN,SLUDGEBOMB,TOXIC
+
+
+# Gym - Bug
 
 
 
+#NB : Leader is defined in trainers_story file
 
+# Gym - Normal
+[POKEFANMALE,Tristan]
+LoseText = I'm the one confused, by your strength!
+Pokemon = AIPOM,20
+Pokemon = BIBAREL,21
+
+[POKEFANFEMALE,Laurine]
+LoseText = Switches everywhere!
+Pokemon = PIDOVE,20
+Pokemon = NOCTOWL,20
+Pokemon = DODUO,21
+
+#NB : Leader is defined in trainers_story file
 
 #-------------------------------------------------------------
 #

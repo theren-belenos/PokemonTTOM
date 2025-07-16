@@ -60,7 +60,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MARLEY,
-    :name		    => _INTL("Marley"),
+    :name		    => "Marley",
     :image		    => "Marley",
 	:init_location  => _INTL("Your Gym"),
 	:favorite_pokemon => [:DUGTRIO,0,1,true],
@@ -82,7 +82,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALNormal,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -92,7 +92,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALGrass,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -102,7 +102,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALFire,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -112,7 +112,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALWater,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -122,7 +122,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALElectric,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -132,7 +132,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALFighting,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -142,7 +142,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALPoison,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -152,7 +152,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALGround,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -162,7 +162,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALFlying,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -172,7 +172,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALPsychic,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -182,7 +182,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALBug,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -192,7 +192,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALRock,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -202,7 +202,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALGhost,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -212,7 +212,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALIce,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -222,7 +222,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALDragon,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -232,7 +232,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALDark,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -242,7 +242,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALSteel,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -252,7 +252,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :RIVALFairy,
-    :name		    => _INTL("Rival"),
+    :name		    => "Rival",
     :image		    => "Rival",
     :init_location  => _INTL("???"),
     :init_status    => _INTL("Rewards :<br>??? "),
@@ -262,7 +262,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYNormal,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -272,7 +272,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYGrass,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -282,7 +282,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYFire,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -292,7 +292,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYWater,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -302,7 +302,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYElectric,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -312,7 +312,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYFighting,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -322,7 +322,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYPoison,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -332,7 +332,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYGround,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -342,7 +342,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYFlying,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -352,7 +352,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYPsychic,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -362,7 +362,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYBug,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -372,7 +372,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYRock,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -382,7 +382,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYGhost,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -392,7 +392,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYIce,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -402,7 +402,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYDragon,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -412,7 +412,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYDark,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -422,7 +422,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYSteel,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -432,7 +432,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :MELLYFairy,
-    :name		    => _INTL("Melly"),
+    :name		    => "Melly",
     :image		    => "Melly",
     :init_location  => _INTL("Your Gym"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level,<br>  - Melly will have a better team<br> - ??? "),
@@ -442,7 +442,7 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :TOM,
-    :name		    => _INTL("Tom"),
+    :name		    => "Tom",
     :image		    => "Tom",
     :init_location  => _INTL("Nekanta League ?"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random Steel starter "),
@@ -452,11 +452,143 @@ GameData::SocialLinkProfile.register({
 
 GameData::SocialLinkProfile.register({
     :id             => :TOMFIRE,
-    :name		    => _INTL("Tom"),
+    :name		    => "Tom",
     :image		    => "Tom",
     :init_location  => _INTL("Nekanta League ?"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random Fire starter "),
     :favorite_pokemon => :EEVEE
     
 })
+
+GameData::SocialLinkProfile.register({
+    :id             => :SAMY,
+    :name		    => "Samy",
+    :image		    => "SAMY",
+    :init_location  => _INTL("Grey Moose ?"),
+    :init_status    => _INTL("Rewards : ???"),
+    :favorite_pokemon => :NOSEPASS
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLBUG,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :KATHLEEN,
+    :name		    => "Kathleen",
+    :image		    => "KATHLEEN",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random bug starter  "),
+    :favorite_pokemon => :VESPIQUEN
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLROCK,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLGRASS,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLGROUND,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLFLYING,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLICE,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLPSYCHIC,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLELECTRIC,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLFIGHTING,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLWATER,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :NLDRAGON,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
+    :favorite_pokemon => :DITTO
+    
+})
+
+
 

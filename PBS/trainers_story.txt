@@ -573,10 +573,26 @@ Pokemon = CORPHISH,12
 Pokemon = NIDORANfE,13
 	Item = ORANBERRY
 
+####################################
+#
+#	Sombake badge
+#
+####################################
 
-
-
-
+[KATHLEENNL,Normal Leader]
+Items = POTION,POTION
+LoseText = ...
+Pokemon = TRANQUILL,20
+	Item = NORMALGEM
+	EV = 10,50,0,50,0,0
+Pokemon = CYCLIZAR,20
+	EV = 10,50,0,50,0,0
+Pokemon = DITTO,22
+	Item = SITRUSBERRY
+	AbilityIndex = 2
+	
+	
+	
 [KYANA,Kyana_Battle1_Fairy]
 LoseText = Oww, my poor Pokémon!
 Pokemon = DEDENNE,7

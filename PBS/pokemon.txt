@@ -3548,7 +3548,7 @@ Color = Brown
 Shape = Quadruped
 Habitat = Urban
 Category = Evolution
-Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
+Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Type energy emaning from Gyms can make it evolve.
 Generation = 1
 Evolutions = VAPOREON,TypeRoom,Water,JOLTEON,TypeRoom,Electric,FLAREON,TypeRoom,Fire,LEAFEON,TypeRoom,Grass,GLACEON,TypeRoom,Ice,SYLVEON,TypeRoom,Fairy,ESPEON,TypeRoom,Psychic,UMBREON,TypeRoom,Dark,STEELEON,TypeRoom,Steel,STANDEON,TypeRoom,Fighting,MOTHEON,TypeRoom,Bug,MELTEON,TypeRoom,Poison,CLOUDEON,TypeRoom,Flying,MOLEON,TypeRoom,Ground,SCALEON,TypeRoom,Rock,WISPEON,TypeRoom,Ghost,DRAKEON,TypeRoom,Dragon,HOUNDEON,NormalRoom,NormalRoom,
 #-------------------------------

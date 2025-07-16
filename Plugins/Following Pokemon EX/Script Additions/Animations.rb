@@ -55,7 +55,7 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     @tempSprites    = []   # For sprites that exist only for this animation
     @animDone       = false
     if FollowingPkmn.active? && startBattle &&
-       battler.index == 0 && FollowingPkmn::SLIDE_INTO_BATTLE
+      battler.index == 0 && FollowingPkmn::SLIDE_INTO_BATTLE
       createFollowerProcesses
     else
       createProcesses

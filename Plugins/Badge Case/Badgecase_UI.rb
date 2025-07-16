@@ -222,6 +222,8 @@ class BadgeCase_Scene
       @sprites["badge"].zoom_y = @sprites["badge"].zoom_x
 	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
 		@sprites["leadersprite"].setBitmap("Graphics/Trainers/#{$player.trainer_type.to_s}")
+	  elsif isNormalBadge(@badges[@badgeindex].id)
+	    @sprites["leadersprite"].setBitmap("Graphics/Trainers/#{@badges[@badgeindex].leadersprite}NL")
 	  else
 		@sprites["leadersprite"].setBitmap("Graphics/Trainers/#{@badges[@badgeindex].leadersprite}")
 	  end
@@ -229,6 +231,8 @@ class BadgeCase_Scene
       @sprites["leadersprite"].zoom_y = @sprites["leadersprite"].zoom_x
 	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
 		@sprites["acepokemon"].species = pbGet(35).last.species.to_s.upcase
+	  elsif isNormalBadge(@badges[@badgeindex].id)
+	    @sprites["acepokemon"].species = "DITTO"
 	  else
 		@sprites["acepokemon"].species = @badges[@badgeindex].acepokemon if $PokemonGlobal.badges.has?(@badges[@badgeindex].id)
 	  end
@@ -243,7 +247,11 @@ class BadgeCase_Scene
       [_INTL("POKEMON"), 78, 324, :left, base, shadow],
     ]
     if $PokemonGlobal.badges.has?(@badges[@badgeindex].id) || BadgecaseSetting::BADGE_NAME_ALWAYS
-      textpos.push([@badges[@badgeindex].name, 26, 68, :left, base, shadow])
+	  if isNormalBadge(@badges[@badgeindex].id)
+		textpos.push(["Normal Badge", 26, 68, :left, base, shadow])
+	  else
+		textpos.push([@badges[@badgeindex].name, 26, 68, :left, base, shadow])
+	  end
     else
       textpos.push([_INTL("???"), 26, 68, :left, base, shadow])
     end
@@ -260,6 +268,9 @@ class BadgeCase_Scene
 	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
 	    textpos.push([$player.name, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
         textpos.push([pbGet(35).last.species.to_s.upcase, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+	  elsif isNormalBadge(@badges[@badgeindex].id)
+	    textpos.push([_INTL("The Normal Leader"), 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([_INTL("Ditto"), 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
 	  else
         textpos.push([@badges[@badgeindex].leadername, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
         textpos.push([@badges[@badgeindex].acepokemon.to_s.capitalize, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
@@ -273,7 +284,8 @@ class BadgeCase_Scene
     end
     if $PokemonGlobal.badges.has?(@badges[@badgeindex].id) || BadgecaseSetting::BADGE_TYPE_ALWAYS
 	  actualtype = (@badges[@badgeindex].id == :RAINBOWBADGE) ? $town.type.upcase : @badges[@badgeindex].type
-      type_number = GameData::Type.get(actualtype).icon_position
+      actualtype = "NORMAL" if isNormalBadge(@badges[@badgeindex].id)
+	  type_number = GameData::Type.get(actualtype).icon_position
       type_rect = Rect.new(0, type_number * 28, 64, 28)
       overlay.blt(392, 114, @typebitmap.bitmap, type_rect)
     else
@@ -281,6 +293,23 @@ class BadgeCase_Scene
     end
     pbDrawTextPositions(overlay,textpos)
   end
+  
+  def isNormalBadge(id)
+	return true if (id == :HIVEBADGE && $town.type == "Bug")
+	return true if (id == :BOULDERBADGE && $town.type == "Rock")
+	return true if (id == :FORESTBADGE && $town.type == "Grass")
+	return true if (id == :EARTHBADGE && $town.type == "Ground")
+	return true if (id == :FEATHERBADGE && $town.type == "Flying")
+	return true if (id == :ICICLEBADGE && $town.type == "Ice")
+	return true if (id == :SOULBADGE && $town.type == "Psychic")
+	return true if (id == :DYNAMOBADGE && $town.type == "Electric")
+	return true if (id == :FISTBADGE && $town.type == "Fighting")
+	return true if (id == :CASCADEBADGE && $town.type == "Water")
+	return true if (id == :RISINGBADGE && $town.type == "Dragon")
+	return false
+  end
+
+
 
   def updateCursor
     @sprites["badgecursor"].x = @badgePositions[0][@badgeindex]

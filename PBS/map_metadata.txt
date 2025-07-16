@@ -2148,6 +2148,52 @@ Bicycle = true
 MapPosition = 0,17,18
 MapSize = 1,1
 #-------------------------------
+[376]   # Sombake Pokémon center
+Name = Sombake PC
+MapPosition = 0,17,18
+#-------------------------------
+[377]   # Sombake Mart
+Name = Sombake Mart
+MapPosition = 0,17,18
+#-------------------------------
+[378]   # Sombake House A
+Name = Sombake House A
+MapPosition = 0,17,18
+#-------------------------------
+[379]   # Sombake House B
+Name = Sombake House B
+MapPosition = 0,17,18
+#-------------------------------
+[380]   # Sombake House C
+Name = Sombake House C
+MapPosition = 0,17,18
+#-------------------------------
+[381]   # Sombake House D
+Name = Sombake House D
+MapPosition = 0,17,18
+#-------------------------------
+[382]   # Firefly Cave
+Name = Firefly Cave
+ShowArea = true
+Outdoor = false
+BattleBack = cave
+Environment = Cave
+MapPosition = 0,17,19
+#-------------------------------
+[383]   # Unknown tunnel
+Name = Unknown tunnel
+ShowArea = true
+Outdoor = false
+BattleBack = cave
+Environment = Cave
+MapPosition = 0,18,19
+#-------------------------------
+[384]   # Normal Gym Sombake
+Name = Normal Gym
+ShowArea = true
+MapPosition = 0,17,18
+
+#-------------------------------
 [244]   # Town 3 - Rock Gym
 Name = Greymoose
 Outdoor = true
