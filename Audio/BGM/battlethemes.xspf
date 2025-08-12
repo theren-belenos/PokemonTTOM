@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Liste de lecture</title>
+	<trackList>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_wild.ogg</location>
+			<duration>103040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_trainer.ogg</location>
+			<duration>179014</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_teamgrunt.ogg</location>
+			<duration>203046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_rival.ogg</location>
+			<duration>133034</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_registeel_etc.ogg</location>
+			<duration>102098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_gymleader.ogg</location>
+			<duration>153031</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_kyogregroudon.ogg</location>
+			<duration>100101</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_elitefour.ogg</location>
+			<duration>123029</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_rankup.ogg</location>
+			<duration>179080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_rayquaza.ogg</location>
+			<duration>102074</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_teamleader.ogg</location>
+			<duration>147620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_steven.ogg</location>
+			<duration>136010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///D:/Games/Projet%20Fangame/PokemonTTOM/Audio/BGM/battle_zinnia.ogg</location>
+			<duration>184021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+	</extension>
+</playlist>

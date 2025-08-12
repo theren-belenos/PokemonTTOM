@@ -91,8 +91,8 @@ Region = Nekanta
 Order = 16
 
 #-------------------------------
-[FISTBADGE]
-Name = Fist Badge
+[STORMBADGE]
+Name = Storm Badge
 Type = FIGHTING
 LeaderName = Tom
 LeaderSprite = TOM

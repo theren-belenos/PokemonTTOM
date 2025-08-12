@@ -30,7 +30,7 @@ module QuestModule
 		:Stage2 => _INTL("Obtain the badge"),
 		:Stage3 => _INTL("Win the rank up battle"),
 		:Stage4 => _INTL("Speak to Prof Maple"),
-		:Location1 => _INTL("Center Town"),
+		:Location1 => _INTL("Central Town"),
 		:Location2 => "Pokémon League",
 		:Location3 => "Pokémon League",
 		:Location4 => "Pokémon Lab",
@@ -210,7 +210,7 @@ module QuestModule
 		:Stage2 => _INTL("Report to the policeman"),
 		:Location1 => _INTL("Route 9"),
 		:Location2 => _INTL("Sombake PC"),
-		:QuestDescription => _INTL("Some bandits are abushing travellers near the east end of Route 9. Go there yourself and prepare for battle!"),
+		:QuestDescription => _INTL("Some bandits are ambushing travellers near the east end of Route 9. Go there yourself and prepare for battle!"),
 		:RewardString => "Cyclizar"
 	}
   

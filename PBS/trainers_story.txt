@@ -591,6 +591,18 @@ Pokemon = DITTO,22
 	Item = SITRUSBERRY
 	AbilityIndex = 2
 	
+[KATHLEEN,Kathleen]
+Items = POTION,POTION
+LoseText = Wowie! So strong!
+Pokemon = BEAUTIFLY,20
+	EV = 0,0,0,50,50,0
+Pokemon = BEEDRILL,20
+	Item = BUGGEM
+	EV = 10,50,0,0,0,50
+Pokemon = VESPIQUEN,22
+    EV = 10,0,50,0,0,50
+	Item = SITRUSBERRY
+	
 	
 	
 [KYANA,Kyana_Battle1_Fairy]

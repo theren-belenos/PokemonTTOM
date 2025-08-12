@@ -382,10 +382,19 @@ Pokemon = GARBODOR,40
 
 
 # Gym - Bug
+[BUGMANIAC,Stephen]
+LoseText = All my Pokémons weren't enough?? Impressive!
+Pokemon = JOLTIK,18
+Pokemon = SHUCKLE,18
+Pokemon = VENONAT,18
+Pokemon = DURANT,18
 
+[BUGMANIAC,Karim]
+LoseText = I love Ariados!
+Pokemon = SPINARAK,20
+Pokemon = ARIADOS,22
 
-
-#NB : Leader is defined in trainers_story file
+# NB : Leader is defined in trainers_story file
 
 # Gym - Normal
 [POKEFANMALE,Tristan]
@@ -399,7 +408,48 @@ Pokemon = PIDOVE,20
 Pokemon = NOCTOWL,20
 Pokemon = DODUO,21
 
-#NB : Leader is defined in trainers_story file
+# NB : Leader is defined in trainers_story file
+
+
+#-------------------------------------------------------------
+#
+#		Route 9
+#
+#-------------------------------------------------------------
+[MUSICIAN,Rick]
+LoseText = Hell yeah, you're pretty cool yourself kiddo!
+Pokemon = SABLEYE,21
+Pokemon = TIMBURR,21
+
+[LASS,Mindy]
+LoseText = Wow! that's not even a pratice, you're too strong!
+Pokemon = TRAPINCH,20
+Pokemon = SKIPLOOM,20
+Pokemon = PACHIRISU,20
+
+[HEXMANIAC,Wisteria]
+LoseText = The mystic arts smile upon yourself...
+Pokemon = YAMASK,22
+Pokemon = FRILLISH,22
+Pokemon = LIEPARD,23
+
+[BUTLER,Honoré]
+LoseText = My high focus wasn't enough to defeat you!
+Pokemon = ARCANINE,25
+
+# Ambush (battle quest 3)
+[PUNKTRAINERMALE,Butch]
+LoseText = What??? We lost???
+Pokemon = MASCHIFF,24
+Pokemon = SEVIPER,25
+
+[PUNKTRAINERFEMALE,Carmine]
+LoseText = Who are you?
+Pokemon = EKANS,24
+Pokemon = HERACROSS,25
+
+
+
 
 #-------------------------------------------------------------
 #

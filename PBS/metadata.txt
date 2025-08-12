@@ -92,3 +92,13 @@ SurfCharset = player_lyrapoc_surf
 DiveCharset = player_lyrapoc_surf
 FishCharset = player_lyrapoc_fishing
 SurfFishCharset = player_lyrapoc_fishing
+#-------------------------------
+[9]
+TrainerType = Object
+WalkCharset = object_snowball
+RunCharset = object_snowball
+CycleCharset = object_snowball
+SurfCharset = object_snowball
+DiveCharset = object_snowball
+FishCharset = object_snowball
+SurfFishCharset = object_snowball

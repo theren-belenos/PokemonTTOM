@@ -1,5 +1,10 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[Object]
+Name = Object
+Gender = Male
+BaseMoney = 0
+#-------------------------------
 [Lucas]
 Name = Pokémon Trainer
 Gender = Male
@@ -288,118 +293,6 @@ Name = Young Couple
 Gender = Unknown
 BaseMoney = 60
 SkillLevel = 32
-#-------------------------------
-[TEAMROCKET_M]
-Name = Team Rocket
-Gender = Male
-BaseMoney = 32
-#-------------------------------
-[TEAMROCKET_F]
-Name = Team Rocket
-Gender = Female
-BaseMoney = 32
-#-------------------------------
-[ROCKETADMIN_Petrel]
-Name = Team Rocket Admin
-Gender = Male
-BaseMoney = 32
-#-------------------------------
-[ROCKETBOSS]
-Name = Rocket Boss
-Gender = Male
-BaseMoney = 100
-#-------------------------------
-[LEADER_Brock]
-Name = Gym Leader
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Misty]
-Name = Gym Leader
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Surge]
-Name = Gym Leader
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Erika]
-Name = Gym Leader
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Koga]
-Name = Gym Leader
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Sabrina]
-Name = Gym Leader
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Blaine]
-Name = Gym Leader
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[LEADER_Giovanni]
-Name = Gym Leader
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ELITEFOUR_Lorelei]
-Name = Elite Four
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ELITEFOUR_Bruno]
-Name = Elite Four
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ELITEFOUR_Agatha]
-Name = Elite Four
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
-#-------------------------------
-[ELITEFOUR_Lance]
-Name = Elite Four
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
-#-------------------------------
-[CHAMPION]
-Name = Champion
-Gender = Male
-BaseMoney = 100
-BattleBGM = Battle Champion
-VictoryBGM = Battle victory leader
-#---------------------------------
 #
 #
 #
@@ -513,14 +406,14 @@ BattleBGM = battle_rival
 [SAMYBEFORE]
 Name = Pokémon trainer
 Gender = Male
-BaseMoney = 32
+BaseMoney = 48
 IntroBGM = encounter_rival
 BattleBGM = battle_rival
 #-------------------------------
 [SAMY]
 Name = Gym trainer
 Gender = Male
-BaseMoney = 32
+BaseMoney = 48
 IntroBGM = encounter_rival
 BattleBGM = battle_rival
 #-------------------------------
@@ -721,12 +614,36 @@ Name = Cowgirl
 Gender = Female
 BaseMoney = 32
 IntroBGM = encounter_hiker
-
-
-
-
-
-
+#-------------------------------
+[MUSICIAN]
+Name = Musician
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_psychic
+#-------------------------------
+[HEXMANIAC]
+Name = Hex Maniac
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_pokemaniac
+#-------------------------------
+[BUTLER]
+Name = Butler
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_gentleman
+#-------------------------------
+[PUNKTRAINERFEMALE]
+Name = Punk Trainer
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_delinquant
+#-------------------------------
+[PUNKTRAINERMALE]
+Name = Punk Trainer
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_delinquant
 
 
 
@@ -810,6 +727,13 @@ VictoryBGM = battle_victory_gymleader
 #-------------------------------
 [KATHLEENNL]
 Name = The
+Gender = Female
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[KATHLEEN]
+Name = Gym Leader
 Gender = Female
 BaseMoney = 64
 BattleBGM = battle_gymleader
