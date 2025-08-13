@@ -53,6 +53,12 @@ module Settings
                     :HideRevisit => true # Set to true if you don't want the player to see the tip again when revisiting seen tips.
             },
 			
+			:TOWNSTATUS => {
+                :Title => _INTL("Town Status"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2"
+			},
+			
 			:DAYRECAP1 => {
                 :Title => _INTL("Day recap"),
                 :Text => _INTL("WIP"),
@@ -1828,7 +1834,7 @@ module Settings
 			},
 			:TOWNDEV9REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Gain passive fame everyday.\nPassive fame : +5 per week."),
+                :Text => _INTL("Gain passive fame everyday.\nPassive fame : +3 per week."),
                 :Background => "bg2",
 			},
 			
@@ -1846,7 +1852,7 @@ module Settings
 			},
 			:TOWNDEV10REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards :\n- New scientist (and his quest)\n- Improved version of the Pokégear : access to the Jukebox and the Town Status Center.\n- Passive town income +500 per week"),
+                :Text => _INTL("Two rewards:\n- New scientist; complete his quest to obtain an improved version of the Pokégear with a new tool : the Town Status Center (WIP for now).\n- Passive town income +500 per week"),
                 :Background => "bg2",
 			},
 			

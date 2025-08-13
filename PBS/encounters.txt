@@ -383,7 +383,7 @@ SuperRod
 #-------------------------------
 [025]   # Route 7 - north east
 Land,15
-    10,TRAPINCH,11,13
+	10,WYNAUT,11,13
 	20,HOPPIP,11,13
 	15,COTTONEE,11,13
 	25,BIDOOF,11,13
@@ -401,7 +401,7 @@ SuperRod
 #-------------------------------
 [026]   # Route 7 - north
 Land,15
-    10,TRAPINCH,12,14
+	10,WYNAUT,12,14
 	20,HOPPIP,12,14
 	15,COTTONEE,12,14
 	25,BIDOOF,12,14
@@ -419,7 +419,7 @@ SuperRod
 #-------------------------------
 [027]   # Route 7 - center
 Land,15
-    10,TRAPINCH,13,15
+	10,WYNAUT,13,14
 	20,HOPPIP,13,15
 	15,COTTONEE,13,15
 	25,BIDOOF,13,15
@@ -437,7 +437,7 @@ SuperRod
 #-------------------------------
 [028]   # Route 7 - south
 Land,15
-    10,TRAPINCH,13,16
+	10,WYNAUT,13,14
 	20,HOPPIP,13,16
 	15,COTTONEE,13,16
 	25,BIDOOF,13,16
@@ -461,7 +461,7 @@ SuperRod
 [029]   # Route 8 - west
 Land,15
     20,PUMPKABOO,13,16
-	10,WYNAUT,13,16
+    10,TRAPINCH,13,16
 	25,PIDOVE,13,16
 	20,SUNKERN,13,16
 	15,BONSLY,13,16
@@ -479,7 +479,7 @@ SuperRod
 [030]   # Route 8 - center
 Land,15
     20,PUMPKABOO,14,17
-	10,WYNAUT,14,17
+    10,TRAPINCH,14,17
 	25,PIDOVE,14,17
 	20,SUNKERN,14,17
 	15,BONSLY,14,17
@@ -497,7 +497,7 @@ SuperRod
 [031]   # Route 8 - east
 Land,15
     20,PUMPKABOO,15,17
-	10,WYNAUT,15,17
+    10,TRAPINCH,15,17
 	25,PIDOVE,15,17
 	20,SUNKERN,15,17
 	15,BONSLY,15,17
@@ -3629,6 +3629,8 @@ Land,17
 	30,VENONAT,10,14
 	5,HERACROSS,10,14
 	20,BONSLY,10,14
+	5,WEEDLE,5,6
+	5,KAKUNA,7,9
 	5,BEEDRILL,10,14
 OldRod
 	60,LOTAD,10,14
