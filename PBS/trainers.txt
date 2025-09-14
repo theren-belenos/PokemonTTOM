@@ -130,10 +130,10 @@ Pokemon = GEODUDE,12
 
 [BUGCATCHER,Tom]
 LoseText = Stop hurting the bugs!
-Pokemon = WURMPLE,2
-Pokemon = WURMPLE,4
-Pokemon = WURMPLE,6
-Pokemon = SILCOON,8
+Pokemon = WURMPLE,3
+Pokemon = WURMPLE,5
+Pokemon = CASCOON,7
+Pokemon = SILCOON,9
 
 [BUGCATCHER,Charly]
 LoseText = Don't you love the forest?

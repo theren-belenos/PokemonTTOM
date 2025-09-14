@@ -116,7 +116,7 @@ module QuestModule
 		:Stage1 => _INTL("Find the glasses."),
 		:Stage2 => _INTL("Give the glasses to Jon."),
 		:Location1 => _INTL("Somewhere in your town"),
-		:Location2 => "Pokémon Lab",
+		:Location2 => _INTL("Pokémon Lab"),
 		:QuestDescription => _INTL("Jon in Prof. Maple's lab lost his glasses while investigating the seism somewhere in the city. Find it and return it to him."),
 		:RewardString => _INTL("A reward from Jon")
 	}
@@ -153,6 +153,17 @@ module QuestModule
 		:Stage1 => _INTL("Give a custap berry"),
 		:Location1 => _INTL("Green lush forest (west)"),
 		:QuestDescription => _INTL("A scientist studying berries in Green lush forest (west) wants a rare custap berry. He said there might be some in the forest. Give him a custap berry!"),
+		:RewardString => "???"
+	}
+	
+	# Pat quest to upgrade Pokegear
+	ItemQuest5 = {
+		:ID => "IQ5",
+		:Name => _INTL("Yellow shards energy"),
+		:QuestGiver => "Pat",
+		:Stage1 => _INTL("Bring 5 yellow shards"),
+		:Location1 => _INTL("Pokémon Lab"),
+		:QuestDescription => _INTL("Pat needs yellow shards to upgrade your Pokegear. Find 5 and bring it to him!"),
 		:RewardString => "???"
 	}
 	
@@ -210,7 +221,7 @@ module QuestModule
 		:Stage2 => _INTL("Report to the policeman"),
 		:Location1 => _INTL("Route 9"),
 		:Location2 => _INTL("Sombake PC"),
-		:QuestDescription => _INTL("Some bandits are ambushing travellers near the east end of Route 9. Go there yourself and prepare for battle!"),
+		:QuestDescription => _INTL("Some bandits are ambushing travellers near the east	end of Route 9. Go there yourself and prepare for battle!"),
 		:RewardString => "Cyclizar"
 	}
   
@@ -238,7 +249,7 @@ module QuestModule
 		:QuestGiver => "Valère",
 		:Stage1 => _INTL("Show a team with 3 or more bug pkmn"),
 		:Location1 => _INTL("Sombake PC"),
-		:QuestDescription => _INTL("A bug catcher named Valere in Sombake PC wants to know if you really like bug Pokémons. Show him at least 3 different bugs Pokémons in your team"),
+		:QuestDescription => _INTL("A bug catcher named Valere in Sombake PC wants to know if you really like bug Pokémons. Show him at least 3 different bugs Pokémons in your team."),
 		:RewardString => _INTL("Some net balls")
 	}
 	
@@ -249,8 +260,19 @@ module QuestModule
 		:QuestGiver => _INTL("Little girl"),
 		:Stage1 => _INTL("Show a bug/poison Pokémon"),
 		:Location1 => _INTL("A house in Sombake"),
-		:QuestDescription => _INTL("A little girl heard that a lot of bug Pokémons are also poison typed. If you show one to her, she will give you a poison TM"),
+		:QuestDescription => _INTL("A little girl heard that a lot of bug Pokémons are also poison typed. If you show one to her, she will give you a poison TM."),
 		:RewardString => _INTL("A poison TM")
+	}
+	
+	# Show two babies Pokémon to the DayCare lady
+	PokemonQuest4 = {
+		:ID => "PQ1",
+		:Name => _INTL("Pokémon babies"),
+		:QuestGiver => _INTL("DayCare lady"),
+		:Stage1 => _INTL("Show two baby Pokémons to the DayCare lady"),
+		:Location1 => _INTL("DayCare"),
+		:QuestDescription => _INTL("The Day-Care lady loves baby Pokémons! She asked you to show her two baby Pokémons (from different species).\nList of baby Pokémons: Pichu Cleffa Igglybuff Togepi Tyrogue Smoochum Elekid Magby Azurill Wynaut Budew Chingling Bonsly MimeJr Happiny Munchlax Riolu Mantyke Toxel."),
+		:RewardString => _INTL("A useful Pokémon for breeding...")
 	}
   
   ##############################################################################

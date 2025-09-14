@@ -1,0 +1,38 @@
+﻿#-----------------------------------------------
+#
+# 	Kathleen rematches
+#
+#-----------------------------------------------
+[KATHLEEN,Kathleen,1]
+Items = SUPERPOTION
+LoseText = Wowie! So strong!
+Pokemon = BEAUTIFLY,38
+	EV = 20,0,0,100,100,0
+Pokemon = BEEDRILL,39
+	Item = BUGGEM
+	EV = 20,100,0,0,0,100
+Pokemon = DURANT,39
+	Item = METALCOAT
+	EV = 20,100,0,100,0,0
+Pokemon = VESPIQUEN,41
+    EV = 20,0,100,0,0,100
+	Item = SITRUSBERRY
+	
+#-----------------------------------------------
+#
+# 	NL rematches
+#
+#-----------------------------------------------
+[KATHLEENNL,Normal Leader,1]
+Items = SUPERPOTION
+LoseText = ...
+Pokemon = TRANQUILL,38
+	Item = NORMALGEM
+	EV = 20,100,0,100,0,0
+Pokemon = CYCLIZAR,39
+	EV = 20,100,0,100,0,0
+Pokemon = URSARING,39
+	EV = 20,100,100,0,0,0
+Pokemon = DITTO,41
+	Item = SITRUSBERRY
+	AbilityIndex = 2

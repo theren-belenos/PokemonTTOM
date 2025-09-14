@@ -53,12 +53,6 @@ module Settings
                     :HideRevisit => true # Set to true if you don't want the player to see the tip again when revisiting seen tips.
             },
 			
-			:TOWNSTATUS => {
-                :Title => _INTL("Town Status"),
-                :Text => _INTL("WIP"),
-                :Background => "bg2"
-			},
-			
 			:DAYRECAP1 => {
                 :Title => _INTL("Day recap"),
                 :Text => _INTL("WIP"),
@@ -113,6 +107,13 @@ module Settings
                 :Text => _INTL("WIP"),
                 :Background => "bg2",
 				:GymInfos => 2
+			},
+			
+			:TOWNSTATUSCENTER => {
+				:Title => _INTL("Town Status Center"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 1
 			},
 			
 			:MELLYINFOS => {
@@ -1995,7 +1996,7 @@ module Settings
 			},
 			:TOWNDEV18REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Improve the money earned from the challengers (and the money lost when losing!) by 10%."),
+                :Text => _INTL("Improve the money earned from the challengers (and the money lost when losing!) by 20%."),
                 :Background => "bg2",
 			},
 			
@@ -2086,7 +2087,7 @@ module Settings
 			},
 			
 			:TOWNDEV24 => {
-                :Title => _INTL("Bike Seller"),
+                :Title => _INTL("Bicycle Seller"),
                 :Text => _INTL("The Day Care Man now sells bikes"),
                 :Image => "towndev24",
 				:ImagePosition => :Top,
@@ -2097,7 +2098,7 @@ module Settings
 			},
 			:TOWNDEV24REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("The Daycare man now sells bikes (and will give you one for free! It can grants you access to the Route 4's Cycling road)"),
+                :Text => _INTL("The Daycare man now sells bikes (and will give you one for free!). It can grants you access to the Route 4's Cycling road."),
                 :Background => "bg2",
 			},
 			
