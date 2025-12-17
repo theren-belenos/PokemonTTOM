@@ -9,7 +9,9 @@ HGSS Autotiles ~ For RMXP
   Ripped by DeepBlue PacificWaves, WolfPP and SirMalo
     Code by DogzNDogz113
 
+Tilesets
 
+WesleyFG
 
 
 Trainers sprites : kyledove

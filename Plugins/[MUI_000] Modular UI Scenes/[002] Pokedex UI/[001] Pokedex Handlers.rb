@@ -26,7 +26,7 @@ UIHandlers.add(:pokedex, :page_info, {
 
 # Area page.
 UIHandlers.add(:pokedex, :page_area, { 
-  "name"      => "AREA",
+  "name"      => _INTL("AREA"),
   "suffix"    => "area",
   "order"     => 20,
   "layout"    => proc { |species, scene| scene.drawPageArea }
@@ -34,7 +34,7 @@ UIHandlers.add(:pokedex, :page_area, {
 
 # Forms page.
 UIHandlers.add(:pokedex, :page_forms, { 
-  "name"      => "FORMS",
+  "name"      => _INTL("FORMS"),
   "suffix"    => "forms",
   "order"     => 30,
   "layout"    => proc { |species, scene| scene.drawPageForms }

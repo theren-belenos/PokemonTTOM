@@ -267,13 +267,13 @@ class BadgeCase_Scene
     if $PokemonGlobal.badges.has?(@badges[@badgeindex].id)
 	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
 	    textpos.push([$player.name, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
-        textpos.push([pbGet(35).last.species.to_s.upcase, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([pbGetMessageFromHash(MessageTypes::SPECIES_NAMES, pbGet(35).last.species.to_s.capitalize), 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
 	  elsif isNormalBadge(@badges[@badgeindex].id)
 	    textpos.push([_INTL("The Normal Leader"), 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
-        textpos.push([_INTL("Ditto"), 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([pbGetMessageFromHash(MessageTypes::SPECIES_NAMES, "Ditto"), 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
 	  else
         textpos.push([@badges[@badgeindex].leadername, 425, 182, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
-        textpos.push([@badges[@badgeindex].acepokemon.to_s.capitalize, 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([pbGetMessageFromHash(MessageTypes::SPECIES_NAMES, @badges[@badgeindex].acepokemon.to_s.capitalize), 16, 358, :left, Color.new(64, 64, 64), Color.new(176, 176, 176)])
 	  end
       time = $PokemonGlobal.badges.get_time(@badges[@badgeindex].id)
       textpos.push([_INTL("Week {1}",time), 425, 86, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])

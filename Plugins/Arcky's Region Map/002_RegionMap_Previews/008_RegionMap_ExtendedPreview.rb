@@ -86,7 +86,7 @@ class PokemonRegionMap_Scene
         varPart = match[0]
         varNum = match[1]
         varRem = match[2]
-        name = "#{$game_variables[varNum.to_i]}#{varRem}"
+        name = "#{_INTL($game_variables[varNum.to_i])}#{varRem}"
       end
       next unless $PokemonGlobal.visitedMaps[map.id] || (!ARMSettings::NoUnvistedMapInfo && ARMSettings::CanViewInfoUnvisitedMaps )
       district = getDistrictName(map)
@@ -103,7 +103,7 @@ class PokemonRegionMap_Scene
       end
       @getData[map.id] = {
         :wild => wildText,
-        :wildAv => !wildText[0].include?("No Encounter Data"),
+        :wildAv => !wildText[0].include?("No Encounter Data") && !wildText[0].include?("Aucun Pokémon sauvage.") ,
         :trainers => trainerText,
         :trainerAv => !trainerText[0].include?("No Trainers to defeat."),
         :items => itemText,
@@ -154,10 +154,10 @@ class PokemonRegionMap_Scene
         caught += 1 if caughtFormAnyGender(gameMap, species, form)
         battled += 1 if defeatedFormAnyGender(gameMap, species, form)
       end
-      wildText = ["Wild Encounters" , "#{" "*5}#{seen} seen", "#{" "*5}#{caught} caught"]
+      wildText = [_INTL("Wild Encounters") , "#{" "*5}#{seen} #{_INTL("seen")}" , "#{" "*5}#{caught} #{_INTL("caught")}"]
     else
       seen = caught = battled = 0
-      wildText = ["No Encounter Data."]
+      wildText = [_INTL("No Encounter Data.")]
     end
 	totalWild = @globalCounter[:gameMaps][:wild][map.id] || 0
     totalWild *= 2 if !totalWild.nil?
@@ -179,12 +179,12 @@ class PokemonRegionMap_Scene
       end
     end
     if totalTrainers == 0
-      trainerText = ["No Trainers to defeat."]
+      trainerText = [_INTL("No Trainers to defeat.")]
     else
       if defeated == totalTrainers
-        trainerText = ["Trainers", "Hooray! All trainers are defeated!"]
+        trainerText = [_INTL("Trainers"), _INTL("Hooray! All trainers are defeated!")]
       else
-        trainerText = ["Trainers", "#{" "*5}#{defeated} out of #{totalTrainers} defeated."]
+        trainerText = [_INTL("Trainers"), "#{" "*5}#{defeated} #{_INTL("out of")} #{totalTrainers} #{_INTL("defeated")}."]
       end
     end
     return totalTrainers, trainers, defeated, trainerText
@@ -205,12 +205,12 @@ class PokemonRegionMap_Scene
       end
     end
     if totalItems == 0
-      itemText = ["No Items to find."]
+      itemText = [_INTL("No Items to find.")]
     else
       if found == totalItems
-        itemText = ["Items", "#{" "*5}Hooray! All Items are found!"]
+        itemText = [_INTL("Items"), "#{" "*5}#{_INTL("Hooray! All Items are found!")}"]
       else
-        itemText = ["Items", "#{" "*5}#{found} out of #{totalItems} found."]
+        itemText = [_INTL("Items"), "#{" "*5}#{found} #{_INTL("out of")} #{totalItems} #{_INTL("found.")}"]
       end
     end
     return totalItems, items, found, itemText
@@ -226,7 +226,7 @@ class PokemonRegionMap_Scene
 		if @data[:name] == "TN"
 			@sprites["mapbottom"].mapname = "#{$town.name} #{@data[:progress]}" 
 		else
-			@sprites["mapbottom"].mapname = "#{@data[:name]} #{@data[:progress]}"
+			@sprites["mapbottom"].mapname = "#{_INTL(@data[:name])} #{@data[:progress]}"
 		end
 	end
     @sprites["mapbottom"].maplocation = "Page 1/2" #"Page #{@dataIndex + 1}/#{@getData.length}"
@@ -301,7 +301,7 @@ class PokemonRegionMap_Scene
         boxY = (@extHeight - boxHeight) / 2
         image << [graphic, boxX, boxY]
       end
-      text << ["No Data for this Location - Visit it first!", x, y, :center, @base, @shadow]
+      text << [_INTL("No Data for this Location - Visit it first!"), x, y, :center, @base, @shadow]
     end
     pbDrawTextPositions(@sprites["extendedText"].bitmap, text)
     if SPECIAL_UI
@@ -387,9 +387,9 @@ class PokemonRegionMap_Scene
     @pageIndex = 0
     @textRow = 0
     getEncIcons
-    @sprites["mapbottom"].mapname = "#{@data[:name]} #{@typeProgress}"
+    @sprites["mapbottom"].mapname = "#{_INTL(@data[:name])} #{@typeProgress}"
     @sprites["mapbottom"].maplocation = "Page 2/2"#"Page #{@tableIndex + 1}/#{@tableData.length}"
-    @sprites["mapbottom"].mapdetails  = @tableData.keys[@tableIndex]
+    @sprites["mapbottom"].mapdetails  = _INTL(@tableData.keys[@tableIndex])
     @sprites["previewExtMain"].setBitmap(changeExtBoxMainAndEncBox("Ext")) if ARMSettings::ChangeExtBoxOnEncounterType
   end
 
@@ -616,9 +616,11 @@ class PokemonRegionMap_Scene
       species = @list[index]
       speciesData = GameData::Species.get(species)
       mapID = @getData.keys[@dataIndex]
-      formName = speciesData.real_form_name
-      @sprites["mapbottom"].mapname = formName.nil? || speciesData.form == 0 ? "#{speciesData.real_name}" : formName.include?(speciesData.real_name) ? formName : "#{formName} #{speciesData.real_name}"
-      case pageInfo
+      formName = pbGetMessageFromHash(MessageTypes::SPECIES_FORM_NAMES,speciesData.real_form_name)
+	  realName = pbGetMessageFromHash(MessageTypes::SPECIES_NAMES,speciesData.real_name)
+      @sprites["mapbottom"].mapname = formName.nil? || speciesData.form == 0 ? "#{(realName)}" : formName.include?(realName) ? formName : "#{(formName)} #{(realName)}"
+      
+	  case pageInfo
       when 0
         text = getSpeciesInfoPageOne(species)
         @sprites["TextRaster"].visible = false
@@ -628,7 +630,7 @@ class PokemonRegionMap_Scene
       end
     else
       @sprites["TextRaster"].visible = false
-      @sprites["mapbottom"].mapname = "#{@data[:name]} #{@typeProgress}"
+      @sprites["mapbottom"].mapname = "#{_INTL(@data[:name])} #{@typeProgress}"
       if SPECIAL_UI
         x = @boxWidth / 2
         y = (@boxY + (@boxHeight / 2)) - (@fontSize / 2)
@@ -660,12 +662,12 @@ class PokemonRegionMap_Scene
       x = 16 + offsetX
       y = (@extHeight / 2) + 12 + offsetY
     end
-    text << ["Type: #{entryData[:type]}", x, y, :left, @base, @shadow]
+    text << ["#{_INTL("Type:")} #{entryData[:type]}", x, y, :left, @base, @shadow]
     x += 264 + offsetX
-    text << ["Catch Rate: #{entryData[:catchRate]}", x, y, :left, @base, @shadow]
+    text << ["#{_INTL("Catch Rate:")} #{entryData[:catchRate]}", x, y, :left, @base, @shadow]
     x -= 264 + offsetX
     y += @lineHeight
-    text << ["Encounter Rate:", x, y, :left, @base, @shadow]
+    text << [_INTL("Encounter Rate:"), x, y, :left, @base, @shadow]
     array = []
     widths = []
     extra = @sprites["extendedText"].bitmap.text_size(' - ').width
@@ -815,7 +817,7 @@ class PokemonRegionMap_Scene
       if Input.trigger?(Input::BACK)
         @lastIndex = nil
         @sprites["EncCursor"].visible = false
-        @sprites["mapbottom"].mapname = "#{@data[:name]} #{@typeProgress}"
+        @sprites["mapbottom"].mapname = "#{_INTL(@data[:name])} #{@typeProgress}"
         @sprites["mapbottom"].maplocation = "Page 2/2" #"Page #{@tableIndex + 1}/#{@tableData.length}"
         @sprites["TextRaster"].visible = false if @sprites["TextRaster"]
         @extendedBox.subOne
@@ -921,7 +923,7 @@ class PokemonRegionMap_Scene
       updateSpeciesInfo(index, pageInfo)
       updateEncCursor(index)
       @extIndex = index
-      @sprites["mapbottom"].maplocation = "Species #{index + 1}/#{@list.length}"
+      @sprites["mapbottom"].maplocation = "#{_INTL("Species")} #{index + 1}/#{@list.length}"
     end
   end
 

@@ -121,7 +121,7 @@ class PokemonRegionMap_Scene
     end
     @sprites["modeName"].bitmap.clear
     refreshFlyScreen
-    @sprites["mapbottom"].previewName = [getPreviewName(@mapX, @mapY), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
+    @sprites["mapbottom"].previewName = [_INTL(getPreviewName(@mapX, @mapY)), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
     @sprites["buttonName"].bitmap.clear
   end
 end

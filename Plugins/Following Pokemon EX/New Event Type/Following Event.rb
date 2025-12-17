@@ -21,6 +21,12 @@ end
 # to make it more robust as a Following Pokemon
 #-------------------------------------------------------------------------------
 class Game_FollowingPkmn < Game_Follower
+  def initialize(*args)
+    super(*args)
+    @last_leader_x = nil
+    @last_leader_y = nil
+  end
+
   #-----------------------------------------------------------------------------
   # Update pattern at a constant rate independent of move speed
   #-----------------------------------------------------------------------------
@@ -60,7 +66,6 @@ class Game_FollowingPkmn < Game_Follower
     return if $PokemonGlobal.ice_sliding && (!FollowingPkmn.active? || FollowingPkmn.airborne_follower?)
     __followingpkmn__straighten
   end
-
   #-----------------------------------------------------------------------------
   # Don't show dust animation if Following Pokemon isn't active or is airborne
   #-----------------------------------------------------------------------------
@@ -111,7 +116,7 @@ class Game_FollowingPkmn < Game_Follower
       end
     end
     # Check all events on the map to see if any are in the way
-    this_map.events.each_value do |event|
+    this_map.events.values.each do |event|
       next if !event.at_coordinate?(x, y)
       return false if !event.through && event.character_name != ""
     end
@@ -119,7 +124,7 @@ class Game_FollowingPkmn < Game_Follower
   end
 
   #-----------------------------------------------------------------------------
-  # Updating the event turning to prevent following Pokemon from changing it's
+  # Updating the event turning to prevent following Pokemon from changing its
   # direction with the player
   #-----------------------------------------------------------------------------
   def turn_towards_leader(leader)
@@ -128,75 +133,137 @@ class Game_FollowingPkmn < Game_Follower
   end
 
   #-----------------------------------------------------------------------------
-  # Updating the method which controls event position to includes changes to
-  # work with Marin and Boonzeets side stairs
+  # Updating the method which controls event position to include changes to
+  # work with Marin and Boonzeet's side stairs
   #-----------------------------------------------------------------------------
   def follow_leader(leader, instant = false, leaderIsTrueLeader = true)
     return if @move_route_forcing
+    # Don't interrupt movement unless leader has moved significantly
+    return if (jumping? || moving?) && !instant && 
+              leader.x == @last_leader_x && leader.y == @last_leader_y
     end_movement
-    maps_connected = $map_factory.areConnected?(leader.map.map_id, self.map.map_id)
-    target = nil
-    # Get the target tile that self wants to move to
-    if maps_connected
-      behind_direction = 10 - leader.direction
-      target = $map_factory.getFacingTile(behind_direction, leader)
-      if target && $map_factory.getTerrainTag(target[0], target[1], target[2]).ledge
-        # Get the tile above the ledge (where the leader jumped from)
-        target = $map_factory.getFacingTileFromPos(target[0], target[1], target[2], behind_direction)
-      end
-      target = [leader.map.map_id, leader.x, leader.y] if !target
-      if GameData::TerrainTag.exists?(:StairLeft)
-        currentTag = $map_factory.getTerrainTag(self.map.map_id, self.x, self.y)
-        if currentTag == :StairLeft
-          target[2] += (target[1] > $game_player.x ? -1 : 1)
-        elsif currentTag == :StairRight
-          target[2] += (target[1] < $game_player.x ? -1 : 1)
+
+    old_terrain = $map_factory.getTerrainTag(self.map.map_id, self.x, self.y) if self.x && self.y
+    # Check if the leader has moved to a new tile
+    if @last_leader_x.nil? || @last_leader_y.nil? || leader.x != @last_leader_x || leader.y != @last_leader_y
+      @last_leader_x = leader.x
+      @last_leader_y = leader.y
+
+      maps_connected = $map_factory.areConnected?(leader.map.map_id, self.map.map_id)
+      target = nil
+
+      # Get the target tile that self wants to move to
+      if maps_connected
+        behind_direction = 10 - leader.direction
+        target = $map_factory.getFacingTile(behind_direction, leader)
+        if target && $map_factory.getTerrainTag(target[0], target[1], target[2]).ledge
+          # Get the tile above the ledge (where the leader jumped from)
+          target = $map_factory.getFacingTileFromPos(target[0], target[1], target[2], behind_direction)
         end
-      end
-      # Added
-      if defined?(on_stair?) && on_stair?
-        if leader.on_stair?
-          if leader.stair_start_x != self.stair_start_x
-            # Leader stepped on other side so start/end swapped, but not for follower yet
-            target[2] = self.y
-          elsif leader.stair_start_x < leader.stair_end_x
-            # Left to Right
-            if leader.x < leader.stair_start_x && self.x != self.stair_start_x
-              # Leader stepped off
+        target = [leader.map.map_id, leader.x, leader.y] if !target
+        if GameData::TerrainTag.exists?(:StairLeft)
+          currentTag = $map_factory.getTerrainTag(self.map.map_id, self.x, self.y)
+          if currentTag == :StairLeft
+            target[2] += (target[1] > $game_player.x ? -1 : 1)
+          elsif currentTag == :StairRight
+            target[2] += (target[1] < $game_player.x ? -1 : 1)
+          end
+        end
+        # Added
+        if defined?(on_stair?) && on_stair?
+          if leader.on_stair?
+            if leader.stair_start_x != self.stair_start_x
+              # Leader stepped on other side so start/end swapped, but not for follower yet
               target[2] = self.y
+            elsif leader.stair_start_x < leader.stair_end_x
+              # Left to Right
+              if leader.x < leader.stair_start_x && self.x != self.stair_start_x
+                # Leader stepped off
+                target[2] = self.y
+              end
+            elsif leader.stair_end_x < leader.stair_start_x
+              # Right to Left
+              if leader.x > leader.stair_start_x && self.x != self.stair_start_x
+                # Leader stepped off
+                target[2] = self.y
+              end
             end
-          elsif leader.stair_end_x < leader.stair_start_x
-            # Right to Left
-            if leader.x > leader.stair_start_x && self.x != self.stair_start_x
-              # Leader stepped off
+          elsif self.on_middle_of_stair?
+            # Leader is no longer on stair but follower is, so player moved up or down at the start or end of the stair
+            if leader.y < self.stair_end_y - self.stair_y_height + 1 || leader.y > self.stair_end_y
               target[2] = self.y
             end
           end
-        elsif self.on_middle_of_stair?
-          # Leader is no longer on stair but follower is, so player moved up or down at the start or end of the stair
-          target[2] = self.y if leader.y < self.stair_end_y - self.stair_y_height + 1 || leader.y > self.stair_end_y
         end
+      else
+        # Map transfer to an unconnected map
+        target = [leader.map.map_id, leader.x, leader.y]
       end
-    else
-      # Map transfer to an unconnected map
-      target = [leader.map.map_id, leader.x, leader.y]
+
+      # Move self to the target
+      if self.map.map_id != target[0]
+        vector = $map_factory.getRelativePos(target[0], 0, 0, self.map.map_id, @x, @y)
+        @map = $map_factory.getMap(target[0])
+        # NOTE: Can't use moveto because vector is outside the boundaries of the
+        #       map, and moveto doesn't allow setting invalid coordinates.
+        @x = vector[0]
+        @y = vector[1]
+        @real_x = @x * Game_Map::REAL_RES_X
+        @real_y = @y * Game_Map::REAL_RES_Y
+      end
+
+      if instant || !maps_connected
+        moveto(target[1], target[2])
+      else
+        fancy_moveto(target[1], target[2], leader)
+      end
+      
+      # Fix for tall grass and surf animations - recalculate bush depth after movement
+      calculate_bush_depth
+      
+      # Check if we moved from/to water and refresh sprite if needed
+      # This is done here in follow_leader to avoid recursion issues when accessing
+      # $game_temp.followers during moveto/fancy_moveto
+      new_terrain = $map_factory.getTerrainTag(self.map.map_id, self.x, self.y)
+      if old_terrain && (old_terrain.can_surf != new_terrain.can_surf)
+        pkmn = FollowingPkmn.get_pokemon
+        FollowingPkmn.change_sprite(pkmn) if pkmn
+      end
     end
-    # Move self to the target
-    if self.map.map_id != target[0]
-      vector = $map_factory.getRelativePos(target[0], 0, 0, self.map.map_id, @x, @y)
-      @map = $map_factory.getMap(target[0])
-      # NOTE: Can't use moveto because vector is outside the boundaries of the
-      #       map, and moveto doesn't allow setting invalid coordinates.
-      @x = vector[0]
-      @y = vector[1]
-      @real_x = @x * Game_Map::REAL_RES_X
-      @real_y = @y * Game_Map::REAL_RES_Y
+  end
+
+  #-----------------------------------------------------------------------------
+  # Override moveto to ensure bush depth is recalculated after any movement
+  #-----------------------------------------------------------------------------
+  def moveto(x, y)
+    super(x, y)
+    calculate_bush_depth
+  end
+
+  #-----------------------------------------------------------------------------
+  # Override fancy_moveto to ensure bush depth is recalculated after movement
+  #-----------------------------------------------------------------------------
+  def fancy_moveto(new_x, new_y, leader)
+    super(new_x, new_y, leader)
+    calculate_bush_depth
+  end
+
+  #-----------------------------------------------------------------------------
+  # Allow following pokemon to move through obstacles when necessary
+  #-----------------------------------------------------------------------------
+  def move_through(direction)
+    old_through = @through
+    @through = true
+    
+    case direction
+    when 2 then move_down
+    when 4 then move_left
+    when 6 then move_right
+    when 8 then move_up
     end
-    if instant || !maps_connected
-      moveto(target[1], target[2])
-    else
-      fancy_moveto(target[1], target[2], leader)
-    end
+    
+    @through = old_through
+    @step_anime = true
   end
 
   #-----------------------------------------------------------------------------
@@ -234,19 +301,17 @@ class FollowerData
   #-----------------------------------------------------------------------------
 end
 
+
 class Game_FollowerFactory
   #-----------------------------------------------------------------------------
   # Define the Following as a different class from Game_Follower ie
   # Game_FollowingPkmn
   #-----------------------------------------------------------------------------
-  unless private_method_defined?(:__followingpkmn__create_follower_object)
-    alias __followingpkmn__create_follower_object create_follower_object
-  end
+  alias __followingpkmn__create_follower_object create_follower_object unless private_method_defined?(:__followingpkmn__create_follower_object)
   def create_follower_object(*args)
     return Game_FollowingPkmn.new(args[0]) if args[0].following_pkmn?
     return __followingpkmn__create_follower_object(*args)
   end
-
   #-----------------------------------------------------------------------------
   # Following Pokemon shouldn't be a leader if it is inactive.
   #-----------------------------------------------------------------------------
@@ -262,7 +327,6 @@ class Game_FollowerFactory
       leader = event if !event.is_a?(Game_FollowingPkmn) || FollowingPkmn.active?
     end
   end
-
   #-----------------------------------------------------------------------------
   # Following Pokemon shouldn't be a leader if it is inactive.
   #-----------------------------------------------------------------------------
@@ -275,7 +339,6 @@ class Game_FollowerFactory
       leader = event if !event.is_a?(Game_FollowingPkmn) || FollowingPkmn.active?
     end
   end
-
   #-----------------------------------------------------------------------------
   # Method to remove all Followers except Following Pokemon
   #-----------------------------------------------------------------------------
@@ -291,4 +354,18 @@ class Game_FollowerFactory
     @events.compact!
   end
   #-----------------------------------------------------------------------------
+end
+
+#-------------------------------------------------------------------------------
+# Ensure the follower only moves when the player moves exactly one tile
+#-------------------------------------------------------------------------------
+class Scene_Map
+  alias __followingpkmn__update update unless method_defined?(:__followingpkmn__update)
+  def update(*args)
+    super(*args)
+    if $game_player.moving?
+      $game_temp.followers.move_followers
+      $game_temp.followers.turn_followers
+    end
+  end
 end

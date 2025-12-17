@@ -1,0 +1,84 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_TYPE_NAMES]
+Object
+Objet
+Cool Trainer &m;
+Topdresseur
+Cool Trainer &f;
+Topdresseuse
+Schoolgirl
+Écolière
+Schoolboy
+Écolier
+Jogger
+Joggeur
+Gym trainer
+Dresseur d'Arène
+Pokémon trainer
+Dresseur de Pokémon
+Collector
+Collectionneur
+Some wild
+Horde sauvage
+Fun old man
+Joyeux papy
+Fun old lady
+Joyeuse mamie
+Preschooler
+Petite
+Bugmaniac
+Entomomaniac
+Gardener
+Jardinier
+Ninja boy
+Ninja fan
+Cyclist
+Cycliste
+Backpacker
+Randonneur
+Artist
+Artiste
+Rich Boy
+Richard
+Pokékid
+Poké Enfant
+Tourist
+Touriste
+Pokéfan
+Pokéfan
+Idol
+Star
+Janitor
+Nettoyeur
+Parasol Lady
+Soeur Parasol
+Clown
+Clown
+Cowgirl
+Cowgirl
+Musician
+Musicien
+Hex Maniac
+Mystimaniac
+Butler
+Majordome
+Punk Trainer
+Vaurien
+Maid
+Maid
+Team Absolution
+Team Absolution
+Absolution Admin
+Admin Absolution
+Absolution Genius
+Génie Absolution
+Absolution Leader
+Leader Absolution
+Mysterious
+Mystérieux
+Stand-in Gym Leader
+Leader par Intérim
+The
+Le

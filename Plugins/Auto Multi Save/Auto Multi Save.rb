@@ -392,7 +392,7 @@ class PokemonSaveScreen
       ret = slotSelect(exiting)
     else
       choices = [
-        _INTL("Save to #{$player.save_slot}"),
+        _INTL("Save to") + " " + _INTL($player.save_slot),
         _INTL("Save to another file"),
         exiting ? _INTL("Quit without saving") : _INTL("Cancel")
       ]

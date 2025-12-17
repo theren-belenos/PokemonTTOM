@@ -116,13 +116,13 @@ end
 #-------------------------------------------------------------------------------
 # Refresh Following Pokemon upon closing the pause menu
 #-------------------------------------------------------------------------------
-#class Scene_Map
- # alias __followingpkmn__call_menu call_menu unless method_defined?(:__followingpkmn__call_menu)
-  #def call_menu
-   # __followingpkmn__call_menu(true)
-    #FollowingPkmn.refresh(false)
-  #end
-#end
+class Scene_Map
+  alias __followingpkmn__call_menu call_menu unless method_defined?(:__followingpkmn__call_menu)
+  def call_menu(*args)
+    __followingpkmn__call_menu(*args)
+    FollowingPkmn.refresh(false)
+  end
+end
 
 #-------------------------------------------------------------------------------
 # Refresh Following Pokemon after depositing Pokemon in Daycare
@@ -163,6 +163,11 @@ module BattleCreationHelperMethods
 
   def self.after_battle(*args)
     __followingpkmn__after_battle(*args)
+    # Teleportiere Follower zur Spielerposition nach Kampf
+    if FollowingPkmn.can_check? && FollowingPkmn.get_event
+      event = FollowingPkmn.get_event
+      event.moveto($game_player.x, $game_player.y) if event
+    end
     FollowingPkmn.refresh(false)
     $PokemonGlobal.call_refresh = true
   end
@@ -192,7 +197,7 @@ class Scene_Map
       FollowingPkmn.toggle_off
       loop do
         pkmn = $player.party.shift
-        $player.party.push(pkmn)
+ 			  $player.party.push(pkmn)
         $PokemonGlobal.follower_toggled = true
         if FollowingPkmn.active?
           $PokemonGlobal.follower_toggled = false
@@ -212,6 +217,8 @@ class Scene_Map
   def transfer_player(*args)
     __followingpkmn__transfer_player(*args)
     leader = $game_player
+    # Ensure follower is unhidden after map transfer
+    FollowingPkmn.unhide_follower if FollowingPkmn.hidden?
     FollowingPkmn.refresh(false)
     $game_temp.followers.each_follower do |event, follower|
       pbTurnTowardEvent(event, leader)
@@ -240,7 +247,7 @@ end
 alias __followingpkmn__pbSetPokemonCenter pbSetPokemonCenter unless defined?(__followingpkmn__pbSetPokemonCenter)
 def pbSetPokemonCenter(*args)
   ret = __followingpkmn__pbSetPokemonCenter(*args)
-  $game_temp.pokecenter_following_pkmn = 1 if FollowingPkmn::SHOW_POKECENTER_ANIMATION && FollowingPkmn.active?
+  $game_temp.pokecenter_following_pkmn = 1  if FollowingPkmn::SHOW_POKECENTER_ANIMATION && FollowingPkmn.active?
   return ret
 end
 
@@ -253,7 +260,7 @@ class Interpreter
   def command_314(*args)
     ret = __followingpkmn__command_314(*args)
     if FollowingPkmn::SHOW_POKECENTER_ANIMATION && $game_temp.pokecenter_following_pkmn > 0 &&
-       FollowingPkmn.active?
+      FollowingPkmn.active?
       FollowingPkmn.toggle_off
       $game_temp.pokecenter_following_pkmn = 2
     end
@@ -266,9 +273,10 @@ class Interpreter
   alias __followingpkmn__update update unless method_defined?(:__followingpkmn__update)
   def update(*args)
     __followingpkmn__update(*args)
-    return unless FollowingPkmn::SHOW_POKECENTER_ANIMATION && $game_temp.pokecenter_following_pkmn > 0 && !running?
-    FollowingPkmn.toggle_on
-    $game_temp.pokecenter_following_pkmn = 0
+    if FollowingPkmn::SHOW_POKECENTER_ANIMATION && $game_temp.pokecenter_following_pkmn > 0 && !running?
+      FollowingPkmn.toggle_on
+      $game_temp.pokecenter_following_pkmn = 0
+    end
   end
   #-----------------------------------------------------------------------------
 end

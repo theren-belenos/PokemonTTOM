@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_PORTION_NAMES]
+Rainbow Badge
+Badge Arc-en-ciel
+Hive Badge
+Badge Ruche
+Boulder Badge
+Badge Rocher
+Forest Badge
+Badge Fleur
+Earth Badge
+Badge Sable
+Feather Badge
+Badge Plume
+Icicle Badge
+Badge Stalactite
+Soul Badge
+Badge Âme
+Dynamo Badge
+Badge Dynamo
+Storm Badge
+Badge Tempête
+Cascade Badge
+Badge Cascade
+Rising Badge
+Badge Levant

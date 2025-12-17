@@ -34,9 +34,7 @@ module Input
     pbScreenCapture if trigger?(Input::F8)
     if $CanToggle && trigger?(Input::AUX1)
       $GameSpeed += 2
-	  puts $GameSpeed
       $GameSpeed = $GameSpeed%2 if $GameSpeed >= SPEEDUP_STAGES.size
-	  puts $GameSpeed
       $PokemonSystem.battle_speed = $GameSpeed if $PokemonSystem && $PokemonSystem.only_speedup_battles == 1
       $RefreshEventsForTurbo  = true
 	  pbMessage(_INTL("\\wu\\sign[frlgchoiceskin]\\^Speed x {1}\\|", SPEEDUP_STAGES[$GameSpeed-$GameSpeed%2].to_s))

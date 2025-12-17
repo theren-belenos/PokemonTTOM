@@ -76,6 +76,7 @@ class PokemonRegionMap_Scene
 	else
 		main
 	end
+    #@playerMapName = !(@playerPos.nil?) ? _INTL(pbGetMapLocation(@playerPos[1], @playerPos[2])) : ""
     @playerMapName = !(@playerPos.nil?) ? pbGetMapLocation(@playerPos[1], @playerPos[2]) : ""
   end
 
@@ -265,12 +266,14 @@ class PokemonRegionMap_Scene
     @oldLineCount = nil
     getPreviewWeather if !@flyMap
 	return if @mode == 1 && limit > @mapY
-    @sprites["mapbottom"].maplocation = pbGetMapLocation(@mapX, @mapY, flag)
+    #@sprites["mapbottom"].maplocation = pbGetMapLocation(@mapX, @mapY, flag)
+    @sprites["mapbottom"].maplocation = _INTL(pbGetMapLocation(@mapX, @mapY, flag))
 	if @sprites["mapbottom"].maplocation == "MainTown"
 		@sprites["mapbottom"].maplocation = $town.name
 	end
     @sprites["mapbottom"].mapdetails  = pbGetMapDetails(@mapX, @mapY)
-    @sprites["mapbottom"].previewName   = [getPreviewName(@mapX, @mapY), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
+    @sprites["mapbottom"].previewName = [getPreviewName(@mapX, @mapY), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
+    #@sprites["mapbottom"].previewName = [_INTL(getPreviewName(@mapX, @mapY)), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
   end
 
   def addPlayerIconSprite

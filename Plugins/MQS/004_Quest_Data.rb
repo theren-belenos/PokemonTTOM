@@ -101,6 +101,56 @@ module QuestModule
 		:QuestDescription => _INTL('Complete the city task n°13 : "Clearing - Town exteriors" to get access to the Daycare.'),
 		:RewardString => ""
 	}
+	
+	# Chapter 5
+	MainQuest5 = {
+		:ID => "MQ5",
+		:Name => _INTL("Chapter 5: Bigger and better"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Complete Sub-goals (0/3)"),
+		:Stage2 => _INTL("Complete Sub-goals (1/3)"),
+		:Stage3 => _INTL("Complete Sub-goals (2/3)"),
+		:Stage4 => _INTL("Win the rank up battle"),
+		:Stage5 => _INTL("Report back to Maple"),
+		:Location1 => "/",
+		:Location2 => "/",
+		:Location3 => "/",
+		:Location4 => "Pokémon League",
+		:Location5 => "/",
+		:QuestDescription => _INTL("Progress as a Gym leader by completing sub-goals (quests called Ch.5-A, Ch.5-B and Ch.5-C), and get to rank 3 by winning the rank up battle."),
+		:RewardString => "Rank up"
+	}
+
+	MainQuest5A = {
+		:ID => "MQ5A",
+		:Name => _INTL("Ch.4-A: Get to fame level 6"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Get to fame level 6"),
+		:Location1 => "/",
+		:QuestDescription => _INTL("Gain fame to let your Gym be recognized by getting to fame level 6."),
+		:RewardString => ""
+	}
+
+	MainQuest5B = {
+		:ID => "MQ5B",
+		:Name => _INTL("Ch.5-B: Get Greymoose badge"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Get Greymoose Gym's badge"),
+		:Location1 => _INTL("Greymoose Gym"),
+		:QuestDescription => _INTL("Travel to Greymoose through the Power Tunnel and Route 10, or by going on the Cycling road of route 4, to earn a new badge."),
+		:RewardString => ""
+	}
+
+	MainQuest5C = {
+		:ID => "MQ5C",
+		:Name => _INTL("Ch.5-C: Another Gym trainer"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Complete both goals (0/2)"),
+		:Stage1 => _INTL("Complete both goals (1/2)"),
+		:Location1 => "/",
+		:QuestDescription => _INTL('Complete the city task n°17 : "Gym Team - Second trainer" and find someone who can become the second trainer of your Gym.'),
+		:RewardString => ""
+	}
   
   ##############################################################################
   #
@@ -533,7 +583,7 @@ module QuestModule
 		:Location2 => "/",
 		:Location3 => "/",
 		:Location4 => _INTL("Your town's Pokémon Center"),
-		:QuestDescription => _INTL("The nurses of your town have new pharmaceutical products to share with other Pokémon Centers. Deliver a package to the Pokémon Centers of Sombake, Grey Moose and Central Town."),
+		:QuestDescription => _INTL("The nurses of your town have new pharmaceutical products to share with other Pokémon Centers. Deliver a package to the Pokémon Centers of Sombake, Greymooose and Central Town."),
 		:RewardString => _INTL("Nurses relation up.")
 	}
 	  

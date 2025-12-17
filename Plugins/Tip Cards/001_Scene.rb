@@ -144,7 +144,7 @@ class TipCard_Scene
 		pbPlayLevelUpSE
 		oldlvl = $town.calculateFameLvl
 		newlvl = oldlvl + 1
-		bottomtext = "<ac><b>Fame level up: "
+		bottomtext = _INTL("<ac><b>Fame level up: ")
 		bottomtext << oldlvl.to_s
 		bottomtext << " -> <c3=FFD700,DAA520>"
 		bottomtext << newlvl.to_s
@@ -163,14 +163,14 @@ class TipCard_Scene
 		newmin = rewards[1].to_i
 		newmax = rewards[2].to_i
 		if newmin > 0
-			rewardtext << "\nMinimum daily trainers: "
+			rewardtext << "\n" + _INTL("Minimum daily trainers: ")
 			rewardtext << (newmin-1).to_s
 			rewardtext << " -> <c3=FFD700,DAA520><b>"
 			rewardtext << newmin.to_s
 			rewardtext << "</b></c3>"
 		end
 		if newmax > 0
-			rewardtext << "\nMaximum daily trainers: "
+			rewardtext << "\n" + _INTL("Maximum daily trainers: ")
 			rewardtext << (newmax-1).to_s
 			rewardtext << " -> <c3=FFD700,DAA520><b>"
 			rewardtext << newmax.to_s
@@ -178,7 +178,7 @@ class TipCard_Scene
 		end
 		rewardtext << "\nBonus: +<c3=FFD700,DAA520><b>$"
 		rewardtext << ($town.rank*1000).to_s
-		rewardtext << "</b></c3> funds & money!</al>"
+		rewardtext << "</b></c3> " + _INTL("funds & money!") + " </al>"
 		drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 190, @sprites["background"].width - 48, rewardtext, base, shadow)
 		loop do
 			Graphics.update
@@ -204,9 +204,9 @@ class TipCard_Scene
 	end
 	
 	def endFillbar
-		bottomtext = "Fame needed for level up: <b>"
+		bottomtext = _INTL("Fame needed for level up: <b>")
 		bottomtext << @fameRequired.to_s
-		bottomtext << " </b>more"
+		bottomtext << _INTL(" </b>more")
 		overlay = @sprites["overlay"].bitmap
 		base = Settings::TIP_CARDS_TEXT_MAIN_COLOR
 		shadow = Settings::TIP_CARDS_TEXT_SHADOW_COLOR
@@ -302,7 +302,7 @@ class TipCard_Scene
 				@sprites["image"].x -= 30
 			end
 			
-            title = "<ac>" + info[:Title] + "</ac>"
+            title = "<ac>" + _INTL(info[:Title]) + "</ac>"
 		
             # drawFormattedTextEx(bitmap, x, y, width, text, baseColor = nil, shadowColor = nil, lineheight = 32)
             drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, title, base, shadow)
@@ -310,25 +310,25 @@ class TipCard_Scene
 			if info[:BuildingIndex]
 				infos = "<ar>"
 				if info[:BuildingIndex] && $town.buildings[info[:BuildingIndex]] == 1
-					infos += "<i> (In progress)</i>\n"
+					infos += "<i> " + _INTL("(In progress)") + "</i>\n"
 				elsif info[:BuildingIndex] && $town.buildings[info[:BuildingIndex]] == 2
-					infos += "<i> (Already done)</i>\n"
+					infos += "<i> " + _INTL("(Already done)")+ "</i>\n"
 				end
 				fundscolor = ($town.buildings[info[:BuildingIndex]] > 0) ? "<c2=318c675a>" : ($town.funds < info[:Funds]) ? "<c2=043c3aff>" : "<c2=06644bd2>" 
 				workerscolor = ($town.buildings[info[:BuildingIndex]] > 0) ? "<c2=318c675a>" : ($town.workers < info[:Workers]) ? "<c2=043c3aff>" : "<c2=06644bd2>" 
 				instantbuildcolor = ($town.buildings[info[:BuildingIndex]] > 0) ? "<c2=318c675a>" : "<c2=65467b14>"
 				
-				infos += fundscolor + "Funds : <b>" + info[:Funds].to_s + "</b> / " + $town.funds.to_s + "</c2>\n" + workerscolor + "Workers : <b>" + info[:Workers].to_s + "</b> / " + $town.workers.to_s + "</c2></ar>" 
+				infos += fundscolor + _INTL("Funds: <b>") + info[:Funds].to_s + "</b> / " + $town.funds.to_s + "</c2>\n" + workerscolor + _INTL("Workers : <b>") + info[:Workers].to_s + "</b> / " + $town.workers.to_s + "</c2></ar>" 
 				if (info[:Instant] && info[:Instant] == 1) 
-					infos += "\n<ar>"+instantbuildcolor+"<i>Instant build</i></c2></ar>"
+					infos += "\n<ar>"+instantbuildcolor+"<i>" + _INTL("Instant build") + "</i></c2></ar>"
 				end
 				drawFormattedTextEx(overlay, @sprites["background"].x + 8 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + 24 + top_text_x_adj), infos, base, shadow)
 			end
-			text = "<al>" + info[:Text] + "</al>"
+			text = "<al>" + _INTL(info[:Text]) + "</al>"
 			if info[:Stars]
 				name = pbGet(36) 
 				trainerClass = info[:Image]
-				text = "<al>Class:</al>\n"
+				text = "<al>" + _INTL("Class:") + "</al>\n"
 				newtype = true
 				newname = true
 				i = 0
@@ -348,11 +348,11 @@ class TipCard_Scene
 					i += 1
 				end
 				if newtype
-					text << "<ac><c3=FFD700,DAA520>New!</c3> " + info[:Text] + "    </ac>"		
+					text << "<ac><c3=FFD700,DAA520>New!</c3> " + _INTL(info[:Text]) + "    </ac>"		
 				else
-					text << "<ac>" + info[:Text] + "</ac>"	
+					text << "<ac>" + _INTL(info[:Text]) + "</ac>"	
 				end
-				text << "\n\n<al>Name:</al>\n"
+				text << "\n\n<al>#{_INTL("Name:")}</al>\n"
 				if newname
 					text << "<ac><c3=FFD700,DAA520>New!</c3> " + name + "    </ac>"
 					
@@ -362,12 +362,12 @@ class TipCard_Scene
 			end
 			if info[:TrainersInfos]
 				if info[:TrainersInfos] == 1
-					title = "Relation with Melly:"
+					title = _INTL("Relation with Melly:")
 					text_x_adj = 140
 					text_width_adj = 30
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
-					text = "<al>Melly victory chances:\n"
+					text = "<al>" + _INTL("Melly victory chances:") + "\n"
 					stars = $town.getStarsOdds
 					i = 1
 					while i < stars.length
@@ -375,24 +375,24 @@ class TipCard_Scene
 							odds = getWinningChances(1, i)
 							text << "<b>"
 							text << odds.to_s
-							text << "</b>% against "
+							text << "</b>% " + _INTL("against") + " "
 							text << i.to_s
-							text << "-star trainers\n"
+							text << _INTL("-star trainers") + "\n"
 						end
 						i += 1
 					end
-					bottomtext = "<ac><c3=B8A8E0,7240E8>Melly victories at the Gym: <b>"
+					bottomtext = "<ac><c3=B8A8E0,7240E8>" + _INTL("Melly victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[1].to_s
 					bottomtext << "</b></c3></ac>"
 					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 				if info[:TrainersInfos] == 2
-					title = "Relation with Samy:"
+					title = _INTL("Relation with Samy:")
 					text_x_adj = 140
 					text_width_adj = 30
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
-					text = "<al>Samy victory chances:\n"
+					text = "<al>" + _INTL("Samy victory chances:") + "\n"
 					stars = $town.getStarsOdds
 					i = 1
 					while i < stars.length
@@ -400,24 +400,24 @@ class TipCard_Scene
 							odds = getWinningChances(2, i)
 							text << "<b>"
 							text << odds.to_s
-							text << "</b>% against "
+							text << "</b>% " + _INTL("against") + " "
 							text << i.to_s
-							text << "-star trainers\n"
+							text << _INTL("-star trainers") + "\n"
 						end
 						i += 1
 					end
-					bottomtext = "<ac><c3=BDA46A,736440>Samy victories at the Gym: <b>"
+					bottomtext = "<ac><c3=BDA46A,736440>" + _INTL("Samy victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[2].to_s
 					bottomtext << "</b></c3></ac>"
 					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 				if info[:TrainersInfos] == 3
-					title = "Relation with Kiana:"
+					title = _INTL("Relation with Kiana:")
 					text_x_adj = 140
 					text_width_adj = 30
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
-					text = "<al>Kiana victory chances:\n"
+					text = _INTL("<al>Kiana victory chances:") + "\n"
 					stars = $town.getStarsOdds
 					i = 1
 					while i < stars.length
@@ -425,20 +425,20 @@ class TipCard_Scene
 							odds = getWinningChances(3, i)
 							text << "<b>"
 							text << odds.to_s
-							text << "</b>% against "
+							text << "</b>% " + _INTL("against") + " "
 							text << i.to_s
-							text << "-star trainers\n"
+							text << _INTL("-star trainers") + "\n"
 						end
 						i += 1
 					end
-					bottomtext = "<ac><c3=A8E0E0,48D8D8>Kiana victories at the Gym: <b>"
+					bottomtext = _INTL("<ac><c3=A8E0E0,48D8D8>Kiana victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[3].to_s
 					bottomtext << "</b></c3></ac>"
 					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 				if info[:TrainersInfos] == 4
 					name = pbGet(12)
-					title = "Relation with "
+					title = _INTL("Relation with ")
 					title << name
 					title << ":"
 					text_x_adj = 140
@@ -447,7 +447,7 @@ class TipCard_Scene
 					text_y_adj += 80
 					text = "<al>"
 					text << name
-					text << " victory chances:\n"
+					text << " " + _INTL("victory chances:") + "\n"
 					stars = $town.getStarsOdds
 					i = 1
 					while i < stars.length
@@ -455,15 +455,15 @@ class TipCard_Scene
 							odds = getWinningChances(4, i)
 							text << "<b>"
 							text << odds.to_s
-							text << "</b>% against "
+							text << "</b>% " + _INTL("against") + " "
 							text << i.to_s
-							text << "-star trainers\n"
+							text << _INTL("-star trainers") + "\n"
 						end
 						i += 1
 					end
 					bottomtext = "<ac><c3=F8A8B8,E82010>"
 					bottomtext << name
-					bottomtext << " victories at the Gym: <b>"
+					bottomtext << " " + _INTL("victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[4].to_s
 					bottomtext << "</b></c3></ac>"
 					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
@@ -474,9 +474,10 @@ class TipCard_Scene
 					victories = $town.dayTrainers[1] + $town.dayTrainers[2] + $town.dayTrainers[3] + $town.dayTrainers[4] + $town.dayTrainers[5] + $town.dayTrainers[6] + $town.dayTrainers[7]
 					allyvictories = $town.dayTrainers[8] + $town.dayTrainers[9] + $town.dayTrainers[10] + $town.dayTrainers[11]
 					money = $town.dayMoney
-					text = "<ac><b>Total trainers encountered: "
+					text = _INTL("<ac><b>Total trainers encountered:")
+					text << " "
 					text << $town.dayTrainers[0].to_s
-					text << "</ac></b><al>Victories:  <c3=B8A8E0,7240E8>Melly <b>"
+					text << "</ac></b><al>" + _INTL("Victories:") +"  <c3=B8A8E0,7240E8>Melly <b>"
 					text << $town.dayTrainers[8].to_s
 					if $town.buildings[50] == 3
 						text << "  </c3></b><c3=BDA46A,736440>Samy <b>"
@@ -492,24 +493,24 @@ class TipCard_Scene
 						text << " <b>"
 						text << $town.dayTrainers[11].to_s
 					end
-					text << "</b></c3>  <c3=FFD700,DAA520>You <b>"
+					text << "</b></c3>  <c3=FFD700,DAA520>" + _INTL("You") + " <b>"
 					text << (victories-allyvictories).to_s
 					if ($town.dayTrainers[0] - victories) > 0
-						text << "</b></c3>  <c2=043c3aff>Defeats: <b>"
+						text << "</b></c3>  <c2=043c3aff>" + _INTL("Defeats:") + " <b>"
 						text << ($town.dayTrainers[0] - victories).to_s
 					else
-						text << "</b></c3>  <c2=06644bd2>Defeats: <b>None"
+						text << "</b></c3>  <c2=06644bd2>" + _INTL("Defeats:") + " <b>" + _INTL("None")
 					end
 					if money > 0
-						text << "</al></c2><ac>------------------------------\nTotal money earned: <c3=FFD700,DAA520>"
+						text << "</al></c2><ac>------------------------------\n" + _INTL("Total money earned:") +" <c3=FFD700,DAA520>"
 						text << money.to_s
-						text << "</c3></b></ac><al>Town funds: "
+						text << "</c3></b></ac><al>" + _INTL("Town funds:") + " "
 						text << $town.funds.to_s
 						text << " + <c3=FFD700,DAA520>"
 						text << (money*0.75).floor().to_s
 						text << "</c3> = <b><c3=FFD700,DAA520>$"
 						text << ($town.funds+money*0.75).floor().to_s
-						text << "</c3></b>\nYour money: "
+						text << "</c3></b>\n" + _INTL("Your money:") + " "
 						text << $player.money.to_s
 						text << " + <c3=FFD700,DAA520>"
 						text << (money*0.25).ceil().to_s
@@ -517,28 +518,28 @@ class TipCard_Scene
 						text << ($player.money+money*0.25).ceil().to_s
 						text << "</c3></b></al>"
 					elsif money == 0
-						text << "</al></c2><ac>------------------------------\nNo money earned or lost today."
+						text << "</al></c2><ac>------------------------------\n" + _INTL("No money earned or lost today.")
 					else
 						money = money * -1
-						text << "</al></c2><ac>------------------------------\nTotal money lost: <c2=043c3aff>"
+						text << "</al></c2><ac>------------------------------\n" + _INTL("Total money lost:") + " <c2=043c3aff>"
 						text << money.to_s
-						text << "</c2></b></ac><al>Town funds: "
+						text << "</c2></b></ac><al>" + _INTL("Town funds:") + " "
 						text << $town.funds.to_s
 						text << " - <c2=043c3aff>"
 						text << money.to_s
 						text << "</c2> = <b><c2=043c3aff>$"
 						text << [$town.funds-money.floor(),0].max.to_s
-						text << "</c3></b>\nYour money: <b>$"
+						text << "</c3></b>\n" + _INTL("Your money:") + " <b>$"
 						text << $player.money.to_s
 						text << "</b></al>"
 					end
 				elsif info[:Recap] == 2
-					text ="<ac><b>Fame points earned :</b></ac><ar>"
+					text ="<ac><b>" + _INTL("Fame points earned: ") + "</b></ac><ar>"
 					if $town.dayTrainers[1] > 0
 						trainers = $town.dayTrainers[1]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 1-star x 1 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 1-star") + " x 1 = <c3=FFD700,DAA520>"
 						text << trainers.to_s
 						text << "</c3>"
 					end
@@ -546,7 +547,7 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[2]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 2-stars x 2 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 2-star") + " x 2 = <c3=FFD700,DAA520>"
 						text << (trainers*2).to_s
 						text << "</c3>"
 					end
@@ -554,7 +555,7 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[3]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 3-stars x 3 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 3-star") + " x 3 = <c3=FFD700,DAA520>"
 						text << (trainers*3).to_s
 						text << "</c3>"
 					end
@@ -562,7 +563,7 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[4]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 4-stars x 5 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 4-star") + " x 5 = <c3=FFD700,DAA520>"
 						text << (trainers*5).to_s
 						text << "</c3>"
 					end
@@ -570,7 +571,7 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[5]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 5-stars x 7 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 5-star") + " x 7 = <c3=FFD700,DAA520>"
 						text << (trainers*7).to_s
 						text << "</c3>"
 					end
@@ -578,7 +579,7 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[6]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 6-stars x 10 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 6-star") + " x 10 = <c3=FFD700,DAA520>"
 						text << (trainers*10).to_s
 						text << "</c3>"
 					end
@@ -586,13 +587,13 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[7]
 						text << "\n"
 						text << trainers.to_s
-						text << " trainer(s) 7-stars x 15 = <c3=FFD700,DAA520>"
+						text << " " + _INTL("trainer(s) 7-star") + " x 15 = <c3=FFD700,DAA520>"
 						text << (trainers*15).to_s
 						text << "</c3>"
 					end
 					dayTotalFame = $town.getDayTotalFame
-					text << "No victories today" if dayTotalFame == 0
-					text << "\n------------------------------\n<b>Total fame earned: <c3=FFD700,DAA520>"
+					text << _INTL("No victories today") if dayTotalFame == 0
+					text << "\n------------------------------\n<b>" + _INTL("Total fame earned:") + " <c3=FFD700,DAA520>"
 					text << $town.getDayTotalFame.to_s
 					text << "</c3></b></ar>"
 				else
@@ -632,7 +633,7 @@ class TipCard_Scene
 			end
             if info[:Weekend]
 				if info[:Weekend] == 1
-					text = "<ac><b>Task(s) done this week: </ac></b><al>"
+					text = "<ac><b>" + _INTL("Task(s) done this week:") + " </ac></b><al>"
 					tasks = $town.messagesValidateBuildings
 					i = 0
 					while i < tasks.length
@@ -641,9 +642,9 @@ class TipCard_Scene
 						text << "\n" if i < tasks.length
 					end		
 					money = $town.passiveFunds
-					text << "</al><ac>------------------------------\nWeekly funds bonus: <c3=FFD700,DAA520>"
+					text << "</al><ac>------------------------------\n" + _INTL("Weekly funds bonus:") + " <c3=FFD700,DAA520>"
 					text << money.to_s
-					text << "</c3></b></ac><al>Town funds: "
+					text << "</c3></b></ac><al>" + _INTL("Town funds:") + " "
 					if money > 0
 						text << $town.funds.to_s
 						text << " + <c3=FFD700,DAA520>"
@@ -654,10 +655,11 @@ class TipCard_Scene
 					else
 						text << $town.funds.to_s
 					end
-					text << "</al><ac>Weekly fame bonus: <c3=FFD700,DAA520>"
+					text << "</al><ac>" + _INTL("Weekly fame bonus:") + " <c3=FFD700,DAA520>"
 					text << $town.passiveFame.to_s
 					text << "</c3>"
 				elsif info[:Weekend] == 2
+					limits = [0,21,51,105,210,365,585,880,1750,3020,4745,6970,11770,25000]
 					fameToAdd = $town.passiveFame
 					startFame = $town.fame
 					startLevelFame = $town.calculateFameLvl
@@ -685,10 +687,12 @@ class TipCard_Scene
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
 					text = "<b><ac>------------------------------</ac></b>"
-					@animatingFameLvl = true
-					pbSEPlay("Pkmn exp gain")
+					if startFame < limits[$town.rank] && fameToAdd > 0
+						@animatingFameLvl = true
+						pbSEPlay("Pkmn exp gain")
+					end
 				elsif info[:Weekend] == 3
-					text = "<ac><b>Task(s) done this midweek: </ac></b><al>"
+					text = "<ac><b>" + _INTL("Task(s) done this midweek:") + " </ac></b><al>"
 					tasks = $town.messagesValidateBuildings
 					i = 0
 					while i < tasks.length
@@ -709,15 +713,15 @@ class TipCard_Scene
 					@famebar.src_rect.width = w
 					@sprites["famelvlbar"].visible = true
 					@sprites["famelvlfill"].visible = true
-					title = "<ac><b>Fame Level "
+					title = "<ac><b>" + _INTL("Fame Level") + " "
 					title << startLevelFame.to_s
 					title << "</b></ac>"
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
 					text = "<b><ac>------------------------------</ac></b>"
-					bottomtext = "Fame needed for level up: <b>"
+					bottomtext = _INTL("Fame needed for level up: <b>")
 					bottomtext << (fameNeeded - fameAtThisLevel).to_s
-					bottomtext << " </b>more"
+					bottomtext << _INTL(" </b>more")
 					overlay = @sprites["overlay"].bitmap
 					base = Settings::TIP_CARDS_TEXT_MAIN_COLOR
 					shadow = Settings::TIP_CARDS_TEXT_SHADOW_COLOR
@@ -726,11 +730,11 @@ class TipCard_Scene
 			end
 			if info[:GymInfos]
 				if info[:GymInfos] == 1
-					text = "<ac><b>Your Gym is currently rank "
+					text = "<ac><b>" + _INTL("Your Gym is currently rank") + " "
 					text << $town.rank.to_s
 					text << "</b></ac><al>"
 					starsOdds = $town.getStarsOdds
-					text << "You will encounter :\n"
+					text << _INTL("You will encounter:") + "\n"
 					i = 0
 					while i < starsOdds.length
 						if starsOdds[i] > 0
@@ -738,18 +742,18 @@ class TipCard_Scene
 							text << starsOdds[i].to_s
 							text << "% "
 							text << i.to_s
-							text << "-star trainers\n"
+							text << _INTL("-star trainers") + "\n"
 						end
 						i += 1
 					end
 					trainers = $town.getDailyTrainers
-					text << "<al>Daily trainers: <b>"
+					text << _INTL("<al>Daily trainers: <b>")
 					text << trainers[0].to_s
-					text << "</b> to <b>"
+					text << _INTL("</b> to <b>")
 					text << trainers[1].to_s
-					text << "</b>\n<c2=06644bd2>Your victories at the Gym: <b>"
+					text << "</b>\n<c2=06644bd2>" + _INTL("Your victories at the Gym: <b>")
 					text << $town.victoriesCount[5].to_s
-					text << "</b>\n<c2=043c3aff>Your defeats at the Gym: <b>"
+					text << "</b>\n<c2=043c3aff>" + _INTL("Your defeats at the Gym: <b>")
 					text << $town.victoriesCount[0].to_s
 					text << "</b></c2>"
 				else
@@ -769,13 +773,13 @@ class TipCard_Scene
 					drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, title, base, shadow)
 					text_y_adj += 80
 					text = "<b><ac>------------------------------</ac></b>"
-					text << "<al>Total fame points: "
+					text << _INTL("<al>Total fame points:") + " "
 					text << startFame.to_s
-					text << "\nCurrent Fame Level Progression: "
+					text << "\n" + _INTL("Current Fame Level Progression:") + " "
 					text << fameAtThisLevel.to_s
 					text << " / "
 					text << fameNeeded.to_s
-					text << "\nFame needed for level up: <b>"
+					text << "\n" + _INTL("Fame needed for level up:") + " <b>"
 					text << (fameNeeded - fameAtThisLevel).to_s
 					text << " </b>more</al>"
 				end
@@ -947,7 +951,7 @@ class TipCardGroups_Scene
         base = Settings::TIP_CARDS_TEXT_MAIN_COLOR
         shadow = Settings::TIP_CARDS_TEXT_SHADOW_COLOR
         group = Settings::TIP_CARDS_GROUPS[@groups[@section]]
-        title = "<ac>" + group[:Title] + "</ac>"
+        title = "<ac>" + _INTL(group[:Title]) + "</ac>"
         # drawFormattedTextEx(bitmap, x, y, width, text, baseColor = nil, shadowColor = nil, lineheight = 32)
         drawFormattedTextEx(overlay, @sprites["header"].x, @sprites["header"].y + 18, @sprites["header"].width, 
             title, base, shadow)
@@ -1026,12 +1030,12 @@ class TipCardGroups_Scene
                 @sprites["image"].visible = true
 			end
 				
-            title = "<ac>" + info[:Title] + "</ac>"
+            title = "<ac>" + _INTL(info[:Title]) + "</ac>"
             # drawFormattedTextEx(bitmap, x, y, width, text, baseColor = nil, shadowColor = nil, lineheight = 32)
             drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, 
                 title, base, shadow)
             text_y_adj += info[:YAdjustment] if info[:YAdjustment]
-            text = "<ac>" + info[:Text] + "</ac>"
+            text = "<ac>" + _INTL(info[:Text]) + "</ac>"
             drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, 
                 @sprites["background"].width - 16 - text_x_adj + text_width_adj, text, base, shadow)
         else

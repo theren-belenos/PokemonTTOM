@@ -176,8 +176,8 @@ Pokemon = MASCHIFF,10
 #-----------------------------------------------
 [HIKER,Nick]
 LoseText = ...and the fresh air is neat!
-Pokemon = ARCHEN,30
-Pokemon = SANDSLASH,30
+Pokemon = NOIBAT,14
+Pokemon = SANDSHREW,14
 
 [BACKPACKERFEMALE,Emily]
 LoseText = Who built this "road"??

@@ -52,25 +52,25 @@ class PokemonRegionMap_Scene
     button.each do |btn|
       case btn
       when 2
-        buttonName = controlPanel ? _INTL("Down") : _INTL("DOWN")
+        buttonName = controlPanel ? "Down" : "DOWN"
       when 4
-        buttonName = controlPanel ? _INTL("Left") : _INTL("LEFT")
+        buttonName = controlPanel ? "Left" : "LEFT"
       when 6
-        buttonName = controlPanel ? _INTL("Right") : _INTL("RIGHT")
+        buttonName = controlPanel ? "Right" : "RIGHT"
       when 8
-        buttonName = controlPanel ? _INTL("Up") : _INTL("UP")
+        buttonName = controlPanel ? "Up" : "UP"
       when 11
-        buttonName = controlPanel ? _INTL("Menu") : _INTL("ACTION")
+        buttonName = controlPanel ? "Menu" : "ACTION"
       when 12
-        buttonName = controlPanel ? _INTL("Cancel") : _INTL("BACK")
+        buttonName = controlPanel ? "Cancel" : "BACK"
       when 13
-        buttonName = controlPanel ? _INTL("Action") : _INTL("USE")
+        buttonName = controlPanel ? "Action" : "USE"
       when 14
-        buttonName = controlPanel ? _INTL("Scroll Up") : _INTL("JUMPUP")
+        buttonName = controlPanel ? "Scroll Up" : "JUMPUP"
       when 15
-        buttonName = controlPanel ? _INTL("Scroll Down") : _INTL("JUMPDOWN")
+        buttonName = controlPanel ? "Scroll Down" : "JUMPDOWN"
       when 16
-        buttonName = controlPanel ? _INTL("Ready Menu") : _INTL("SPECIAL")
+        buttonName = controlPanel ? "Ready Menu" : "SPECIAL"
       when 17
         buttonName = "AUX1" #Unused
       when 18
@@ -83,8 +83,12 @@ class PokemonRegionMap_Scene
     if controlPanel && (!names.any? { |btn| btn == "AUX1" || btn == "AUX2" })
       newNames = []
       names.each_with_index do |buttonName, index|
-        buttonName = $PokemonSystem.game_controls.find{|c| c.control_action == buttonName.to_s}.key_name
-        buttonName = makeButtonNameShorter(buttonName)
+		if $PokemonSystem.game_controls.find{|c| c.control_action == buttonName.to_s}
+			buttonName = $PokemonSystem.game_controls.find{|c| c.control_action == buttonName.to_s}.key_name
+			buttonName = _INTL(makeButtonNameShorter(buttonName))
+		else
+			buttonName = _INTL("None")
+		end
         newNames << buttonName
       end
       names = newNames

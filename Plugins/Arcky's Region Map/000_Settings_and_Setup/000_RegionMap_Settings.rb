@@ -644,32 +644,32 @@
 
         # If you have any custom Encounter Types, you should add them here
         EncounterTypes = {
-          :Land => "Grass",
-          :LandMorning => "Grass (Morning)",
-          :LandDay => "Grass (Day)",
-          :LandAfternoon => "Grass (Afternoon)",
-          :LandEvening => "Grass (Evening)",
-          :LandNight => "Grass (Night)",
-          :PokeRadar => "Poké Radar",
-          :Cave => "Cave",
-          :CaveMorning => "Cave (Morning)",
-          :CaveDay => "Cave (Day)",
-          :CaveAfternoon => "Cave (Afternoon)",
-          :CaveEvening => "Cave (Evening)",
-          :CaveNight => "Cave (Night)",
-          :Water => "Surfing",
-          :WaterMorning => "Surfing (Morning)",
-          :WaterDay => "Surfing (Day)",
-          :WaterAfternoon => "Surfing (Afternoon)",
-          :WaterEvening => "Surfing (Evening)",
-          :WaterNight => "Surfing (Night)",
-          :OldRod => "Fishing (Old Rod)",
-          :GoodRod => "Fishing (Good Rod)",
-          :SuperRod => "Fishing (Super Rod)",
-          :RockSmash => "Rock Smash",
-          :HeadbuttLow => "Headbutt (Rare)",
-          :HeadbuttHigh => "Headbutt (Common)",
-          :BugContest => "Bug Contest"
+          :Land => _INTL("Grass"),
+          :LandMorning => _INTL("Grass (Morning)"),
+          :LandDay => _INTL("Grass (Day)"),
+          :LandAfternoon => _INTL("Grass (Afternoon)"),
+          :LandEvening => _INTL("Grass (Evening)"),
+          :LandNight => _INTL("Grass (Night)"),
+          :PokeRadar => _INTL("Poké Radar"),
+          :Cave => _INTL("Cave"),
+          :CaveMorning => _INTL("Cave (Morning)"),
+          :CaveDay => _INTL("Cave (Day)"),
+          :CaveAfternoon => _INTL("Cave (Afternoon)"),
+          :CaveEvening => _INTL("Cave (Evening)"),
+          :CaveNight => _INTL("Cave (Night)"),
+          :Water => _INTL("Surfing"),
+          :WaterMorning => _INTL("Surfing (Morning)"),
+          :WaterDay => _INTL("Surfing (Day)"),
+          :WaterAfternoon => _INTL("Surfing (Afternoon)"),
+          :WaterEvening => _INTL("Surfing (Evening)"),
+          :WaterNight => _INTL("Surfing (Night)"),
+          :OldRod => _INTL("Fishing (Old Rod)"),
+          :GoodRod => _INTL("Fishing (Good Rod)"),
+          :SuperRod => _INTL("Fishing (Super Rod)"),
+          :RockSmash => _INTL("Rock Smash"),
+          :HeadbuttLow => _INTL("Headbutt (Rare)"),
+          :HeadbuttHigh => _INTL("Headbutt (Common)"),
+          :BugContest => _INTL("Bug Contest")
         }
 
         # true = enabled: The mapExtBoxMain will be replaced with for ex. mapExtBoxGrass for the Grass Encounter Type.
@@ -682,7 +682,7 @@
 
         # Add a small offset to Species Info Text on the First Page.
         # This doesn't affect the Text in the Raster on the Second Page.
-        ExtendedSubTextOffsetX = 0
+        ExtendedSubTextOffsetX = -10
         ExtendedSubTextOffsetY = 0
 
         # Change the color of the Species Info Text. (this applies to both pages).

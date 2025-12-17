@@ -695,7 +695,12 @@ Name = Punk Trainer
 Gender = Male
 BaseMoney = 32
 IntroBGM = encounter_delinquant
-
+#-------------------------------
+[MAID]
+Name = Maid
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_gentleman
 
 
 

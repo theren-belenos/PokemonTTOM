@@ -407,14 +407,14 @@ Pokemon = VENONAT,9
 #-------------------------------
 [POKEMONBREEDERFEMALE,Josie]
 LoseText = Wow! The new Leader is strong!!
-Pokemon = HOPPIP,10
+Pokemon = DIGLETT,10
 Pokemon = BONSLY,11
 Pokemon = COTTONEE,12
 #-------------------------------
 [YOUNGSTER,Jason]
 LoseText = Well I definitely need more training...
 Pokemon = GLAMEOW,9
-Pokemon = PIDOVE,9
+Pokemon = VOLTORB,9
 #-------------------------------
 [COOLTRAINERFEMALE,Joyce]
 LoseText = What??
@@ -608,8 +608,8 @@ Pokemon = DITTO,41
 [KATHLEEN,Kathleen]
 Items = POTION,POTION
 LoseText = Wowie! So strong!
-Pokemon = BEAUTIFLY,20
-	EV = 10,0,0,50,50,0
+Pokemon = DURANT,20
+	EV = 10,0,50,50,0,0
 Pokemon = BEEDRILL,20
 	Item = BUGGEM
 	EV = 10,50,0,0,0,50

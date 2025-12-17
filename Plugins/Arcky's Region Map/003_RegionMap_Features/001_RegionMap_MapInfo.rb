@@ -10,7 +10,7 @@ class PokemonRegionMap_Scene
       next if mapData[7] && (mapData[7] <= 0 || !$game_switches[mapData[7]])
       mapKey = mapData[2].gsub(" ", "").to_sym
       @mapInfo[mapKey] ||= {
-        mapname: replaceMapName(mapData[2].clone),
+        mapname: _INTL(replaceMapName(mapData[2].clone)),
         realname: mapData[2],
         region: @region,
         positions: [],
@@ -61,7 +61,7 @@ class PokemonRegionMap_Scene
   end
 
   def replaceMapName(name)
-    return name if !ARMSettings::NoUnvistedMapInfo
+    return pbGetMessageFromHash(LOCATIONNAMES, name) if !ARMSettings::NoUnvistedMapInfo
     repName = ARMSettings::UnvisitedMapText
     oriName = pbGetMessageFromHash(LOCATIONNAMES, name)
     maps = []

@@ -46,7 +46,7 @@ EventHandlers.add(:on_player_interact, :rockclimbing,
 HiddenMoveHandlers::CanUseMove.add(:ROCKCLIMB,proc { |move,pkmn|
   next false if !pbCheckHiddenMoveBadge(RockClimbSettings::BADGE_FOR_ROCKCLIMB)
   if !$game_player.pbFacingTerrainTag.rock_climb_tag || ($game_player.direction == 2 && !RockClimbSettings::ENABLE_DESCENDING)
-    pbMessage(_INTL("Can't use that here."))
+    #pbMessage(_INTL("Can't use that here."))
     next false
   end
   next true

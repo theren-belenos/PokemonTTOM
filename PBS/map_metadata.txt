@@ -22,6 +22,12 @@ MapPosition = 0,22,15
 BattleBack = gym
 Flags = OwnGym
 #-------------------------------
+[386]   # Gym
+Name = Your Gym
+MapPosition = 0,22,15
+BattleBack = gym
+Flags = OwnGym
+#-------------------------------
 [033]   # Department Store 1F
 Name = Department Store
 MapPosition = 0,22,15
@@ -376,6 +382,17 @@ MapPosition = 0,14,15
 MapSize = 1,1
 Environment = Grass
 BattleBack = field
+#-------------------------------
+[411]   # Wetland Cave
+Name = Wetland Cave
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,14
+MapSize = 1,1
+BattleBack = cave
+Environment = Cave
+DarkMap = true
 #-------------------------------
 [027]   # Route 7 - center
 Name = Route 7
@@ -2072,6 +2089,17 @@ MapPosition = 0,20,19
 MapSize = 1,1
 BattleBack = cave
 Environment = Cave
+#-------------------------------
+[412]   # Tunnel Sombre
+Name = Dark Tunnel
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,19
+MapSize = 1,1
+BattleBack = cave
+Environment = Cave
+DarkMap = true
 
 #-------------------------------
 [236]   # Cave 2 - overworld

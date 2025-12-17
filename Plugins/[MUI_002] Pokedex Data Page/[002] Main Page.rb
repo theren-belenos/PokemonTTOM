@@ -423,8 +423,8 @@ class PokemonPokedexInfo_Scene
       [_INTL("HP"),        12, 104, :left, base, shadow, :outline],
       [_INTL("Attack"),    12, 132, :left, base, shadow, :outline],
       [_INTL("Defense"),   12, 160, :left, base, shadow, :outline],
-      [_INTL("Sp. Atk"),   12, 188, :left, base, shadow, :outline],
-      [_INTL("Sp. Def"),   12, 216, :left, base, shadow, :outline],
+      [_INTL("SpAtk"),   12, 188, :left, base, shadow, :outline],
+      [_INTL("SpDef"),   12, 216, :left, base, shadow, :outline],
       [_INTL("Speed"),     12, 244, :left, base, shadow, :outline]
     )
     stats_order = [:HP, :ATTACK, :DEFENSE, :SPECIAL_ATTACK, :SPECIAL_DEFENSE, :SPEED]

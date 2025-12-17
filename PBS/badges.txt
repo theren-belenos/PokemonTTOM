@@ -23,10 +23,10 @@ Order = 2
 [BOULDERBADGE]
 Name = Boulder Badge
 Type = ROCK
-LeaderName = Tom
-LeaderSprite = TOM
-Location = Central Town
-AcePokemon = EEVEE
+LeaderName = Cassian
+LeaderSprite = CASSIAN
+Location = Greymoose
+AcePokemon = GOLEM
 Region = Nekanta
 Order = 4
 #-------------------------------

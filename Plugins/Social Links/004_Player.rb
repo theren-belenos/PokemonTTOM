@@ -119,8 +119,8 @@ class Player < Trainer
             @links = array.to_h
             unless silent
                 pbSEPlay(SocialLinkSettings::NEW_LINK_SOUND_EFFECT)
-				name = (@links[profile_id].name == "Rival") ? pbGet(12) : @links[profile_id].name
-                pbMessage(_INTL(SocialLinkSettings::NEW_LINK_MESSAGE + "\\wtnp[40]", name))
+				name = (@links[profile_id].name == "Rival") ? pbGet(12) : _INTL(@links[profile_id].name)
+                pbMessage(_INTL("{1} was added as a new social link! \\wtnp[20]", name))
             end
             return true
         end
@@ -130,7 +130,7 @@ class Player < Trainer
             return false if profile_id.nil?
             return false unless pbHasLink?(profile_id)
             unless silent
-                pbMessage(_INTL(SocialLinkSettings::REMOVED_LINK_MESSAGE, @links[profile_id].name))
+                pbMessage(_INTL(SocialLinkSettings::REMOVED_LINK_MESSAGE), @links[profile_id].name)
             end
             @links.delete(profile_id)
             return true
@@ -155,13 +155,13 @@ class Player < Trainer
                 unless silent
                     if @links[profile_id].bond == max_bond && SocialLinkSettings::SHOW_MAXED_BOND_MESSAGE
                         pbSEPlay(SocialLinkSettings::MAXED_BOND_SOUND_EFFECT)
-                        pbMessage(_INTL(SocialLinkSettings::MAXED_BOND_MESSAGE + "", @links[profile_id].name))
+						pbMessage("#{_INTL("Your bond with")} #{_INTL(@links[profile_id].name)} #{_INTL("has reached its peak!")}")
                     elsif val == 1
-                        pbMessage(_INTL("Your bond with {1} grew a bit stronger!", @links[profile_id].name))
+                        pbMessage("#{_INTL("Your bond with")} #{_INTL(@links[profile_id].name)} #{_INTL("grew a bit stronger!")}")
                     elsif val == 2
-                        pbMessage(_INTL("Your bond with {1} grew stronger!", @links[profile_id].name))
+                        pbMessage("#{_INTL("Your bond with")} #{_INTL(@links[profile_id].name)} #{_INTL("grew stronger!")}")
                     else
-                        pbMessage(_INTL("Your bond with {1} grew a lot stronger!", @links[profile_id].name))
+                        pbMessage("#{_INTL("Your bond with")} #{_INTL(@links[profile_id].name)} #{_INTL("grew a lot stronger!")}")
                     end
                 end
                 $player.refresh_bond_effects(profile_id, @links[profile_id].bond, silent) if GameData::SocialLinkProfile.get(profile_id)&.bond_effects
@@ -213,13 +213,13 @@ class Player < Trainer
                 elsif old_val < @links[profile_id].bond && !silent
                     if @links[profile_id].bond == max_bond && SocialLinkSettings::SHOW_MAXED_BOND_MESSAGE
                         pbSEPlay(SocialLinkSettings::MAXED_BOND_SOUND_EFFECT)
-                        pbMessage(_INTL(SocialLinkSettings::MAXED_BOND_MESSAGE "", @links[profile_id].name))
+                        pbMessage(_INTL(SocialLinkSettings::MAXED_BOND_MESSAGE), @links[profile_id].name)
                     elsif val == 1
-                        pbMessage(_INTL("Your bond with {1} grew a bit stronger!", @links[profile_id].name))
+                        pbMessage(_INTL("Your bond with {1} grew a bit stronger!"), @links[profile_id].name)
                     elsif val == 2
-                        pbMessage(_INTL("Your bond with {1} grew stronger!", @links[profile_id].name))
+                        pbMessage(_INTL("Your bond with {1} grew stronger!"), @links[profile_id].name)
                     else
-                        pbMessage(_INTL("Your bond with {1} grew a lot stronger!", @links[profile_id].name))
+                        pbMessage(_INTL("Your bond with {1} grew a lot stronger!"), @links[profile_id].name)
                     end
                 end
                 $player.refresh_bond_effects(profile_id, @links[profile_id].bond, silent) if GameData::SocialLinkProfile.get(profile_id)&.bond_effects

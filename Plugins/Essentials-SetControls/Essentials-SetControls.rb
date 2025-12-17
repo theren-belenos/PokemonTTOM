@@ -717,7 +717,7 @@ module SetControls
 
     # All keys text, like "C, B"
     def keys_text
-      return key_array.join(", ")
+      return _INTL(key_array).join(", ")
     end
 
     def key_array
@@ -829,7 +829,7 @@ module SetControls
       name = case index - @action_handler.size
         when DEFAULT_EXTRA_INDEX   ; _INTL("Default")
         when EXIT_EXTRA_INDEX      ; _INTL("Exit")
-        else                       ; @action_handler[index].name
+        else                       ; _INTL(@action_handler[index].name)
       end
       width= rect.width*6/20
       pbDrawShadowText(

@@ -197,7 +197,7 @@ class PokemonSummary_Scene
       when :HP then xpos, ypos, align = 292, 82, :center
       else xpos, ypos, align = 248, 94 + (32 * index), :left
       end
-      name = (s.id == :SPECIAL_ATTACK) ? "Sp. Atk" : (s.id == :SPECIAL_DEFENSE) ? "Sp. Def" : s.name
+      name = (s.id == :SPECIAL_ATTACK) ? _INTL("Sp. Atk") : (s.id == :SPECIAL_DEFENSE) ? _INTL("Sp. Def") : s.name
       statshadow = shadow
       if !@pokemon.shadowPokemon? || @pokemon.heartStage <= 3
         @pokemon.nature_for_stats.stat_changes.each do |change|

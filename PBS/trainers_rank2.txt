@@ -1,0 +1,425 @@
+#-----------------------------------------------
+#
+#		1 star trainers
+#
+#-----------------------------------------------
+[RICHBOY,Ferdinand,2]
+LoseText: I can't even buy a victory...
+#WinText : I can't afford a defeat...
+#IntroText : Happy to see me?
+Items = FULLRESTORE, FULLRESTORE
+
+Pokemon = MEOWTH, 16
+    Moves = FEINT,FAKEOUT,BITE,PAYDAY
+    AbilityIndex = 0
+    Nature = SASSY
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = LUXURYBALL
+
+Pokemon = GIMMIGHOUL,14
+    Name = LEGACY
+    Form = 0
+    Shiny = yes
+    Moves = TACKLE, ASTONISH
+    Nature = SASSY
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = LUXURYBALL				
+#-------------------------------
+[CAMPERGIRL,Lucy,2]
+#IntroText = I was taught how to navigate the forest!
+LoseText = Oh but it's no use in a pokemon battle...
+#WinText = I don't exactly know but i'm sure it help me win!
+Items = BERRYJUICE, ANTIDOTE
+
+Pokemon = ROCKRUFF, 14
+    Moves = TACKLE, LEER, ROCKTHROW, SANDATTACK
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = PIDGEY, 13
+    Moves = GUST, QUICKATTACK
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = ODDISH, 14
+    Moves = POISONPOWDER, ACID, MEGADRAIN, GROWTH
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL			
+#-------------------------------
+[BUGCATCHER,Théo,2]
+#IntroText : Some of my pokemons evolved! They are even more amazing!!!!
+LoseText: They are still cool by the way!
+#WinText : SO COOL !!!!
+Items = BERRYJUICE
+
+Pokemon = BUTTERFREE,14
+    MOOVES = STUNPOWDER, CONFUSION, GUST, BUGBITE
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = NETBALL
+
+Pokemon = BEEDRILL,14
+    MOOVES = LASERFOCUS, BUGBITE, POISONSTING, FURYATTACK
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = NETBALL
+
+Pokemon = DWEBBLE,13
+    IIV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = NETBALL
+
+Pokemon = YANMA,14
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = NETBALL
+
+Pokemon = LARVESTA,13
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = NETBALL				
+#-------------------------------
+[FUNOLDLADY,Yvette,2]
+#IntroText = I still use the same pokemon  as when i was young!
+LoseText = Well done young one! 
+#WinText = I'm faster than i look! Isn't it?
+Items = OLDGATEAU
+
+Pokemon = SINISTEA, 14
+    Form = 1
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = HISUIANPOKEBALL
+
+Pokemon = CORSOLA, 14
+    Form = 1
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = HISUIANPOKEBALL
+
+Pokemon = GREAVARD, 15
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = HISUIANPOKEBALL							
+#-------------------------------
+[TUBERBOY,Lucas,2]
+#IntroText = Do you know what's more fun than playing in mud? Battling juste after!
+LoseText = I don't even know why i'm dressing like that to play in mud...
+#WinText = Another glorious victory for MUD BOY!!!
+
+Pokemon = MUDBRAY, 14
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = MUDKIP, 14
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = WOOPER, 14
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL						
+#-------------------------------
+[RICHBOY,REGIS,2]
+#IntroText = My familly became rich with our wonderfull steal!
+LoseText = Steal isn't supposed to be imbreakable? 
+#WinText = Hehehe, our steal is the most precious in this world!
+Items = SUPERPOTION
+
+Pokemon = MAGNEMITE, 12
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = LUXURYBALL
+
+Pokemon = KLINK, 14
+    Moves = CHARGE, VISEGRIP, THUNDERSHOCK, CHARGEBEAM
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = LUXURYBALL
+
+Pokemon = TINKATINK, 15
+    Shiny = yes
+    Moves = FAIRYWIND, METALCLAW, ROCKSMASH, ASTONISH
+    AbilityIndex = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = LUXURYBALL					
+#-------------------------------
+[SCHOOLGIRL,Isa,2]
+#IntroText = Most of my friends are jealous of my pokemons!
+LoseText = No! You beat them!
+#WinText = And now, i understand why!
+
+Pokemon = SPOINK, 13
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = FLABEBE, 14
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = PONYTA, 15
+    FORM = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL				      				
+#-------------------------------
+[YOUNGSTER,BRIAN,2]
+#IntroText = I'm such a BADASS! I'm here to fight!
+LoseText = Oh...
+#WinText = Yeah!
+
+Pokemon = POOCHYENA , 13
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = DUSKBALL
+
+Pokemon = MACHOP , 14
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = DUSKBALL
+
+Pokemon = SCRAGGY , 15
+    FORM = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = DUSKBALL						
+#-------------------------------
+[RICHBOY,John,2]
+#IntroText = I'm here to fight an elite trainer!
+LoseText = You're such part of the elite!
+#WinText = I am the elite!
+Items = FULLRESTORE
+
+Pokemon = DRAMPA , 16
+    IV = 12,12,12,12,12,12 
+    EV = 40,40,40,40,40,40
+    Ball = LUXURYBALL					
+#-------------------------------
+[TOURISTMALE,BERNY,2]
+#IntroText = Is this the tourist office?
+LoseText = I guess it's not the tourist office.
+#WinText =  What a strange tourist office!
+Items = BIGMALASADA
+
+#ORICORIO, SALANDIT
+
+Pokemon = ORICORIO,14
+    FORM = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+
+Pokemon = SALANDIT, 16
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35						
+#-------------------------------
+[TOURISTFEMALE,Alexandria,2]
+#IntroText = I lost my husband... He were looking for the tourist office... Anyway, let's fight!
+LoseText = I love fighting local gym leader during our trip! Thank you!
+#WinText = I love fighting local gym leader during our trip! Thank you!
+
+Pokemon = TOGEDEMARU, 15
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = GEODUDE, 15
+    FORM = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL				
+#-------------------------------
+[CAMPERGIRL,Artemis,2]
+#IntroText = Did you know you can locate yourself by looking at the moon???
+LoseText = Huh? It's with the stars? Not the moon?
+#WinText = Look to la luna! Haha!
+
+Pokemon = NIDORANfE, 12
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = LUNATONE, 13
+    FORM = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL
+
+Pokemon = WIGGLYTUFF, 12
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL				
+#-------------------------------
+[FUNOLDMAN,Roger,2]
+#IntroText = I'm ready for a spooky fight!
+LoseText = You tricked me!
+#WinText = I always answer 'trick'!
+
+Pokemon = PUMPKABOO, 17
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = POKEBALL			
+#-------------------------------
+#-----------------------------------------------
+#
+#		2 star trainers
+#
+#-----------------------------------------------
+[FISHERMAN,Roger,2]
+#IntroText = Look at this! My boy just evolved!
+LoseText = Seems we need to train more!
+#WinText = MAGNIFICENT!!!
+
+Pokemon = GYARADOS, 20
+    Moves = BRINE, BITE, ICEFANG, FLAIL
+    IV = 14,14,14,14,14,14 
+    EV = 40,40,40,40,40,40
+    Ball = DIVEBALL				
+#-------------------------------
+[POKEMANIAC,DAVID,2]
+#IntroText = Hey! What's your favorite starter?
+LoseText = Good taste!
+#WinText = Mine is Froakie!
+
+Pokemon = FROGADIER, 18
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+    Ball = DIVEBALL
+
+Pokemon = FLORAGATO, 17
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+    Ball = DIVEBALL
+
+Pokemon = MONFERNO, 18
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+    Ball = DIVEBALL						
+#-------------------------------
+[GENTLEMAN,M.STANSON,2]
+#IntroText = Let's battle with elegance.
+LoseText = Congretulation! I will stay elegante in defeat.
+#WinText = A elegante victory!
+
+Pokemon = HONEDGE, 17
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+
+Pokemon = MIENFOO, 17
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+
+Pokemon = FLOETTE, 19
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30			
+#-------------------------------
+[MAID,JOSIE,2]
+#IntroText = Are you the one who ordered a combat maid?
+LoseText = Oops! Wrong customer!
+#WinText = We hope you enjoyed our services!
+
+Pokemon = CORVISQUIRE, 18
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+
+Pokemon = CARKOL, 18
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30
+
+Pokemon = POLTCHAGEIST, 17
+    IV = 12,12,12,12,12,12 
+    EV = 30,30,30,30,30,30			
+#-------------------------------
+[PUNKTRAINERFEMALE,LYSA,2]
+#IntroText = Let me show you the way of the pillow!
+LoseText = It will be hard to sleep after that...
+#WinText = Let's celebrate twith a nap!
+
+Items = SUPERPOTION
+Pokemon = SNORLAX,20
+    Name = The Naper
+    Gender = male
+    Moves = REST,YAWN,TACKLE,BULLDOZE
+    AbilityIndex = 1
+    Item = CHESTOBERRY
+    IV = 14,14,14,14,14,14 
+    EV = 40,40,40,40,40,40
+    Ball = DREAMBALL			
+#-------------------------------
+#-----------------------------------------------
+#
+#		3 star trainers
+#
+#-----------------------------------------------
+[TEAMGRUNTFEMALE,GRUNT,1]
+#IntroText = I'm coming for you!
+LoseText = Until next time...
+#WinText = You deserved it!
+Items = SUPERPOTION
+
+Pokemon = CROAGUNK,21
+    AbilityIndex = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+
+Pokemon = PAWMO,20
+    AbilityIndex = 2
+    Item = ORANBERRY
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+
+Pokemon = HITMONCHAN,22
+    Moves = FAKEOUT, MACHPUNCH, BRICKBREAK,BULLETPUNCH
+    AbilityIndex = 1
+    Item = ORANBERRY
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+#-------------------------------
+[CLOWN,BOZO,1]
+#IntroText = WE WILL HAVE SO MUCH FUN!
+LoseText = Rip Bozo...
+#WinText = Isn't that FUN ???
+
+Pokemon = HIPPOPOTAS,16
+    Moves = SANDTOMB,DIG,YAWN,BITE
+    AbilityIndex = 0
+    Item = ORANBERRY
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+
+Pokemon = DRIFLOON, 17
+    Moves = ASTONISH, GUST, PAYBACK, HEX
+    AbilityIndex = 0
+    Item = ORANBERRY
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+
+Pokemon = PINECO,17
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+
+Pokemon = FERROSEED,17
+    Moves = HARDEN, METALCLAW, INGRAIN, PINMISSILE
+    AbilityIndex = 0
+    Item = ROCKYHELMET
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35			

@@ -87,7 +87,7 @@ end
 # Field Skill menu handler.
 #===============================================================================
 MenuHandlers.add(:party_menu, :field_skill, {
-  "name"        => _INTL("Skills"),
+  "name"        => _INTL("Field moves"),
   "order"       => 21,
   "text_color"  => :Blue,
   "field_skill" => true,
@@ -105,7 +105,7 @@ MenuHandlers.add(:party_menu, :field_skill, {
       Settings::HM_SKILLS.each do |skill|
         next if !GameData::Move.exists?(skill)
         next if !HiddenMoveHandlers.hasHandler(skill)
-        next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
+        #next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
         badge = pbBadgeFromSkill(skill)
         next if Settings::HM_SKILLS_REQUIRE_BADGE && badge > 0 && !pbCheckHiddenMoveBadge(badge, false)
         color = (pbCanUseHiddenMove?(pkmn, skill, false) && pbCheckHiddenMoveBadge(badge, false)) ? :Blue : :Gray
@@ -204,8 +204,8 @@ MenuHandlers.add(:party_menu, :field_skill, {
             reduce = [usedMove, move.pp].min
             move.pp -= reduce
             case move.pp
-            when 0 then text = "ran out of PP..."
-            else        text = "had its PP reduced by #{reduce}!"
+            when 0 then text = _INTL("ran out of PP...")
+            else        text = "#{_INTL("had its PP reduced by")} #{reduce}!"
             end
             screen.scene.pbDisplay(_INTL("{1}'s {2} {3}", pkmn.name, move.name, text))
           end
@@ -225,7 +225,7 @@ MenuHandlers.add(:party_menu, :field_skill, {
       # Performs HM and miscellaneous field skill effects.
       #-------------------------------------------------------------------------
       else
-        if pbCanUseHiddenMove?(pkmn, skills[command])
+        if pbCanUseHiddenMove?(pkmn, skills[command], false)
           if pbConfirmUseHiddenMove(pkmn, skills[command])
             screen.scene.pbEndScene
             if skills[command] == :FLY

@@ -68,7 +68,9 @@ class Player_Quests
       end
     end
     @active_quests.push(Quest.new(quest,color,story))
-    pbMessage(_INTL("\\se[{1}]<ac><c2=#{colorQuest("red")}>New quest discovered!</c2>\nCheck your quest log for more details!</ac>",QUEST_JINGLE))
+	uppertext = _INTL("New quest discovered!")
+	lowertext = _INTL("Check your quest log for more details!")
+    pbMessage("\\se[Mining found all.ogg]<ac><c2=#{colorQuest("red")}>#{uppertext}</c2>\n#{lowertext}</ac>")
   end
   
   def failQuest(quest,color,story)
@@ -133,7 +135,9 @@ class Player_Quests
         @completed_quests.push(temp_quest)
         @active_quests.delete_at(i)
         found = true
-        pbMessage(_INTL("\\se[{1}]<ac><c2=#{colorQuest("red")}>Quest completed!</c2>\nYour quest log has been updated!</ac>",QUEST_JINGLE))
+		uppertext = _INTL("Quest completed!")
+		lowertext = _INTL("Your quest log has been updated!")
+		pbMessage("\\se[Mining found all.ogg]<ac><c2=#{colorQuest("red")}>#{uppertext}</c2>\n#{lowertext}</ac>")
         break
       end
     end
@@ -154,7 +158,9 @@ class Player_Quests
         @active_quests[i].color = color if color != nil
         @active_quests[i].new = true # Setting this back to true makes the "!" icon appear when the quest updates
         found = true
-        pbMessage(_INTL("\\se[{1}]<ac><c2=#{colorQuest("red")}>New task added!</c2>\nYour quest log has been updated!</ac>",QUEST_JINGLE))
+		uppertext = _INTL("New task added!")
+		lowertext = _INTL("Your quest log has been updated!")
+		pbMessage("\\se[Mining found all.ogg]<ac><c2=#{colorQuest("red")}>#{uppertext}</c2>\n#{lowertext}</ac>")
       end
       return if found
     end
@@ -255,12 +261,12 @@ class QuestData
 
   # Get quest name
   def getName(quest)
-    return "#{QuestModule.const_get(quest)[:Name]}"
+    return _INTL("#{QuestModule.const_get(quest)[:Name]}")
   end
 
   # Get name of quest giver
   def getQuestGiver(quest)
-    return "#{QuestModule.const_get(quest)[:QuestGiver]}"
+    return _INTL("#{QuestModule.const_get(quest)[:QuestGiver]}")
   end
 
   # Get array of quest stages
@@ -274,30 +280,30 @@ class QuestData
 
   # Get quest reward
   def getQuestReward(quest)
-    return "#{QuestModule.const_get(quest)[:RewardString]}"
+    return _INTL("#{QuestModule.const_get(quest)[:RewardString]}")
   end
 
   # Get overall quest description
   def getQuestDescription(quest)
-    return "#{QuestModule.const_get(quest)[:QuestDescription]}"
+    return _INTL("#{QuestModule.const_get(quest)[:QuestDescription]}")
   end
 
   # Get current task location
   def getStageLocation(quest,stage)
     loc = ("Location" + "#{stage}").to_sym
-    return "#{QuestModule.const_get(quest)[loc]}"
+    return _INTL("#{QuestModule.const_get(quest)[loc]}")
   end  
 
   # Get summary of current task
   def getStageDescription(quest,stage)
     stg = ("Stage" + "#{stage}").to_sym
-    return "#{QuestModule.const_get(quest)[stg]}"
+    return _INTL("#{QuestModule.const_get(quest)[stg]}")
   end 
 ### Code for Percy
   # Get current stage label
   def getStageLabel(quest,stage)
     lab = ("StageLabel" + "#{stage}").to_sym
-    return "#{QuestModule.const_get(quest)[lab]}"
+    return _INTL("#{QuestModule.const_get(quest)[lab]}")
   end 
 ###
   # Get maximum number of tasks for quest

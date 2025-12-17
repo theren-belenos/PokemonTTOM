@@ -25,7 +25,7 @@ class MapBottomSprite < Sprite
     bitmap.clear
     textpos = [
       [
-        @mapname,
+        _INTL(@mapname),
         18 + ARMSettings::RegionNameOffsetX, 4 + ARMSettings::RegionNameOffsetY, 0,
         ARMSettings::RegionTextMain, ARMSettings::RegionTextShadow
       ],

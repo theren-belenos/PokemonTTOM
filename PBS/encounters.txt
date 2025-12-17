@@ -417,9 +417,18 @@ SuperRod
 	70,LUVDISC,30,35
 	30,PALOSSAND,30,35
 #-------------------------------
+[411]   # Wetland Cave
+Cave,4
+    2,GEODUDE,13,15
+	1,KOFFING,13,15
+	1,MAKUHITA,13,15
+	1,SMOOCHUM,13,15
+	1,NOIBAT,13,15
+	1,MACHOP,13,15
+#-------------------------------
 [027]   # Route 7 - center
 Land,15
-	10,WYNAUT,13,14
+	10,WYNAUT,13,15
 	20,HOPPIP,13,15
 	15,COTTONEE,13,15
 	25,BIDOOF,13,15
@@ -3651,6 +3660,15 @@ Cave,4
 	1,SMOOCHUM,7,9
 	1,NOIBAT,7,9
 	1,MACHOP,7,9
+#-------------------------------
+[412]   # Tunnel Sombre
+Cave,4
+    2,GEODUDE,7,10
+	1,KOFFING,7,10
+	1,MAKUHITA,7,10
+	1,SMOOCHUM,7,10
+	1,NOIBAT,7,10
+	1,MACHOP,7,10
 #-------------------------------
 [375]   # Cave 2 - Power Tunnel
 [375,1]

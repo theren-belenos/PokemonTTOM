@@ -21,7 +21,7 @@ class PokemonRegionMap_Scene
     @lineCount = 1
     @oldTotalHeight = @totalHeight || 0
     # update the Current Location Name
-    name = @curLocName = pbGetMapLocation(@mapX, @mapY)
+    name = @curLocName = _INTL(pbGetMapLocation(@mapX, @mapY))
     # assign the sprites and clear their content.
     spriteBox = @sprites["previewBox"]
 
@@ -40,7 +40,7 @@ class PokemonRegionMap_Scene
     # by default the Alternative Preview Box is used.
     #@useAlt = "Alt"
 	mapInfo = @mapInfo[@curMapLoc.gsub(" ","").to_sym] unless @curMapLoc.nil?
-    if !mapInfo.nil? && mapInfo[:mapname] == pbGetMessageFromHash(LOCATIONNAMES, mapInfo[:realname]) && ARMSettings::CanViewInfoUnvisitedMaps
+    if !mapInfo.nil? && mapInfo[:mapname] == pbGetMessageFromHash(LOCATIONNAMES, _INTL(mapInfo[:realname])) && ARMSettings::CanViewInfoUnvisitedMaps
 	  name = mapInfo[:realname].gsub(" ", "").gsub("'", "")
       locDescr = _INTL("No information given.")
       locDescr = pbGetMessageFromHash(SCRIPTTEXTS, locDescr)
@@ -75,7 +75,7 @@ class PokemonRegionMap_Scene
           if loc.is_a?(Array) && !loc.nil?
             value = @mapInfo.find { |_, location| location[:positions].any? { |pos| pos[:x] == loc[0] && pos[:y] == loc[1] } }
             if value
-              name = pbGetMessageFromHash(SCRIPTTEXTS, value[1][:mapname])
+              name = pbGetMessageFromHash(SCRIPTTEXTS, _INTL(value[1][:mapname]))
             else
               name = pbGetMessageFromHash(SCRIPTTEXTS, _INTL("Invalid Location"))
             end

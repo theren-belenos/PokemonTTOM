@@ -91,13 +91,13 @@ module SocialLinkSettings
     #  Set the message to show when the player adds a new Social Link.
     #  If you include {1}, it will be replaced with the Social Link's name.
     #------------------------------------------------------------------------------------
-    NEW_LINK_MESSAGE                    = _INTL("{1} was added as a social link!") 
+    NEW_LINK_MESSAGE                    = "{1} " + _INTL("was added as a social link!") 
 
     #------------------------------------------------------------------------------------
     #  Set the message to show when the player removes a Social Link.
     #  If you include {1}, it will be replaced with the Social Link's name.
     #------------------------------------------------------------------------------------
-    REMOVED_LINK_MESSAGE                = _INTL("{1} is no longer a social link.")
+    REMOVED_LINK_MESSAGE                = "{1} " + _INTL("is no longer a social link.")
 
     #------------------------------------------------------------------------------------
     # If true, a different message will be shown when a Social Link's bond is maxed.
@@ -113,7 +113,7 @@ module SocialLinkSettings
     #  Set the message to show when the player maxes the bond with a Social Link.
     #  If you include {1}, it will be replaced with the Social Link's name.
     #------------------------------------------------------------------------------------
-    MAXED_BOND_MESSAGE                  = _INTL("Your bond with {1} has reached its peak!")
+    MAXED_BOND_MESSAGE                  = _INTL("Your bond with") + " {1} " + _INTL("has reached its peak!")
 
     #------------------------------------------------------------------------------------
     # If true, when the player increases their bond with a Social Link and a new Bond

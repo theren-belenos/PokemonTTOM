@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[POKEMON_NICKNAMES]
+LEGACY
+HERITAGE
+Thundou
+Tonnu
+Fifire
+Fefeu
+Glagla
+Glagla
+Cutipie
+Bomignon
+Thundrmask
+Maskéclair
+Shadowblde
+Sombrépée
+Justice
+Justice
+The Naper
+The Naper

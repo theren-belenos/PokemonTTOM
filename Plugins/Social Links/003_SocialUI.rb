@@ -141,7 +141,7 @@ class Window_Social_Menu < Window_DrawableCommand
         return if index >= self.top_row + self.page_item_max
         rect = Rect.new(rect.x + 16, rect.y, rect.width-16, rect.height)
         image = @links[index][1].image
-        name = (@links[index][1].name == "Rival") ? pbGet(12) : @links[index][1].name
+        name = (@links[index][1].name == "Rival") ? pbGet(12) : _INTL(@links[index][1].name)
         bond = @links[index][1].bond
         base = self.baseColor
         shadow = self.shadowColor
@@ -236,8 +236,8 @@ class SocialMediaMenu_Scene
         @sprites["itemlist"].links = @social_links
         @sprites["overlay"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
         pbSetSystemFont(@sprites["overlay"].bitmap)
-        textpos = [[SocialLinkSettings::SOCIAL_LINKS_LIST_TITLE,Graphics.width / 2, 6, 2, @title_color, @title_shadow_color]]
-        textpos.push([SocialLinkSettings::NO_LINKS_MESSAGE, Graphics.width / 2, Graphics.height / 2 - 12, 2, @base_color, @shadow_color]) if @sprites["itemlist"].item_max == 0
+        textpos = [[_INTL(SocialLinkSettings::SOCIAL_LINKS_LIST_TITLE),Graphics.width / 2, 6, 2, @title_color, @title_shadow_color]]
+        textpos.push([_INTL(SocialLinkSettings::NO_LINKS_MESSAGE), Graphics.width / 2, Graphics.height / 2 - 12, 2, @base_color, @shadow_color]) if @sprites["itemlist"].item_max == 0
         pbDrawTextPositions(@sprites["overlay"].bitmap,textpos)
 
         pbSortSocialLinks
@@ -463,7 +463,7 @@ class SocialMedia_Scene
         pbSetSystemFont(@sprites["nameoverlay"].bitmap)
         @sprites["nameoverlay"].bitmap.font.size = SocialLinkSettings::PROFILE_NAME_FONT_SIZE if SocialLinkSettings::PROFILE_NAME_FONT_SIZE > 0
         textpos = []
-		name = (@profile.name == "Rival") ? pbGet(12) : @profile.name
+		name = (@profile.name == "Rival") ? pbGet(12) : _INTL(@profile.name)
         textpos.push([name, @name_position[0], @name_position[1], @name_alignment, MessageConfig::DARK_TEXT_MAIN_COLOR, MessageConfig::DARK_TEXT_SHADOW_COLOR])
         pbDrawTextPositions(@sprites["nameoverlay"].bitmap,textpos)
 
@@ -472,7 +472,7 @@ class SocialMedia_Scene
         textpos = []
         imgpos = []
         imgpos.push(["Graphics/UI/Social Links/location", @location_position[0] + 2, @location_position[1] + 8])
-        textpos.push([@profile.current_location, @location_position[0] + 36, @location_position[1] + 14, 0, MessageConfig::DARK_TEXT_MAIN_COLOR, MessageConfig::DARK_TEXT_SHADOW_COLOR])
+        textpos.push([_INTL(@profile.current_location), @location_position[0] + 36, @location_position[1] + 14, 0, MessageConfig::DARK_TEXT_MAIN_COLOR, MessageConfig::DARK_TEXT_SHADOW_COLOR])
         pbDrawTextPositions(@sprites["locationoverlay"].bitmap,textpos)
         pbDrawImagePositions(@sprites["locationoverlay"].bitmap,imgpos)
 
@@ -490,7 +490,7 @@ class SocialMedia_Scene
         end
 
         #Status Message
-        text_to_show = pbRunTextThroughReplacement(@profile.current_status)
+        text_to_show = pbRunTextThroughReplacement(_INTL(@profile.current_status))
         @sprites["statustext"] = Window_AdvancedTextPokemon.new("<c2=318c675a>" + text_to_show + "</c2>")
         @sprites["statustext"].opacity = 0
         @sprites["statustext"].resizeToFit(@sprites["statustext"].text, @status_max_width)

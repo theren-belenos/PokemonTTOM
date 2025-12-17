@@ -118,7 +118,7 @@ class PokemonRegionMap_Scene
     if input && berry
       berryInfoText = []
       name = getBerryNameAndAmount(berry)
-      @sprites["mapbottom"].previewName = ["#{name}", @sprites["previewBox"].width]
+      @sprites["mapbottom"].previewName = ["#{_INTL(name)}", @sprites["previewBox"].width]
       if !@sprites["locationText"]
         @sprites["locationText"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
         pbSetSystemFont(@sprites["locationText"].bitmap)

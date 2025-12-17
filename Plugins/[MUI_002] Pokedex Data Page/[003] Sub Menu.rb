@@ -617,15 +617,15 @@ class PokemonPokedexInfo_Scene
         case cursor
         when :item
           case num
-          when 0 then note = "Common"
-          when 1 then note = "Uncommon"
-          when 2 then note = "Rare"
+          when 0 then note = _INTL("Common")
+          when 1 then note = _INTL("Uncommon")
+          when 2 then note = _INTL("Rare")
           end
         when :ability
           case num
           when 0 then note = "Slot #{list.index(id) + 1}"
-          when 1 then note = "Hidden"
-          when 2 then note = "Special"
+          when 1 then note = _INTL("Hidden")
+          when 2 then note = _INTL("Special")
           end
         end
         idx = num
@@ -661,7 +661,7 @@ class PokemonPokedexInfo_Scene
     when Symbol
       data_text = DATA_TEXT_TAGS[0] + data.get(list[index]).description
     else
-      data_text = DATA_TEXT_TAGS[0] + "Return to species data."
+      data_text = DATA_TEXT_TAGS[0] + _INTL("Return to species data.")
     end
     drawFormattedTextEx(overlay, 34, 294, 446, _INTL("{1}", data_text))
   end

@@ -76,7 +76,7 @@ class PokemonRegionMap_Scene
       location = "Unknown" if location.empty?
       questInfoText[0] = "<c2=#{base}#{shadow}>Task: #{pbGetMessageFromHash(SCRIPTTEXTS, description)}"
       questInfoText[1] = "<c2=#{base}#{shadow}>Location: #{pbGetMessageFromHash(SCRIPTTEXTS, location)}"
-      @sprites["mapbottom"].previewName = ["Quest: #{name}", @sprites["previewBox"].width]
+      @sprites["mapbottom"].previewName = ["Quest: #{_INTL(name)}", @sprites["previewBox"].width]
       if !@sprites["locationText"]
         @sprites["locationText"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
         pbSetSystemFont(@sprites["locationText"].bitmap)
