@@ -246,6 +246,8 @@ Cycling road entry - east
 Piste Cyclable - entrée est
 Rank Up Arena
 Arène de Rang
+Day-Care
+Day-Care
 Power Tunnel
 Tunnel Energie
 Sombake PC

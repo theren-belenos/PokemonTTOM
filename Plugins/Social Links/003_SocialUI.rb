@@ -371,8 +371,8 @@ class SocialMedia_Scene
         @location_position = [200, 96]
         @pokemon_position = [24, 192]
         @im_button_position = nil
-        @status_position = @show_pokemon ? [224, 192] : [24, 192]
-        @status_max_width = @show_pokemon ? 264 : 464
+        @status_position = @show_pokemon ? [234, 198] : [24, 198]
+        @status_max_width = @show_pokemon ? 200 : 400
         @bond_level_max = @profile.bond_max
         @bond_icon_positions = [
             [22, 162],
@@ -491,7 +491,7 @@ class SocialMedia_Scene
 
         #Status Message
         text_to_show = pbRunTextThroughReplacement(_INTL(@profile.current_status))
-        @sprites["statustext"] = Window_AdvancedTextPokemon.new("<c2=318c675a>" + text_to_show + "</c2>")
+        @sprites["statustext"] = Window_AdvancedTextPokemon.new("<c2=318c675a><fs=24>" + text_to_show + "</fs></c2>")
         @sprites["statustext"].opacity = 0
         @sprites["statustext"].resizeToFit(@sprites["statustext"].text, @status_max_width)
         @sprites["statustext"].viewport = @viewport

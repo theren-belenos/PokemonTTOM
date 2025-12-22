@@ -27,7 +27,7 @@ def pbBadgeFromSkill(skill)
   when :STRENGTH  then badge = Settings::BADGE_FOR_STRENGTH
   when :SURF      then badge = Settings::BADGE_FOR_SURF
   when :WATERFALL then badge = Settings::BADGE_FOR_WATERFALL
-  when :CALMSKY     then badge = Settings::BADGE_FOR_CALMSKY
+  when :CALMSKY   then badge = Settings::BADGE_FOR_CALMSKY
   when :ROCKCLIMB then badge = Settings::BADGE_FOR_ROCKCLIMB
   else badge = -1
   end

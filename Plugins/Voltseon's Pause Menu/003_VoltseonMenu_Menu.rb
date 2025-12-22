@@ -52,9 +52,10 @@ class VoltseonsPauseMenu < Component
       $game_temp.menu_last_choice = @current_selection
       exit = true if old_menu_theme != $PokemonSystem.current_menu_theme
       @menu.should_exit = exit
-	  #if @sprites["icon_dummy_l"].nil?
-		#@menu.should_exit = true
-	  #end
+	  if @sprites["icon_dummy_l"].nil?
+		@menu.should_exit = true
+		exit = true
+	  end
       if !exit
         recalc_menu_entries
         calc_display_index

@@ -227,7 +227,11 @@ MapPosition = 0,21,17
 MapSize = 1,1
 BattleBack = field
 Environment = Grass
-
+#-------------------------------
+[374]   # Daycare
+Name = Day-Care
+MapPosition = 0,21,17
+MapSize = 1,1
 
 #-------------------------------
 [014]   # Route 3 - north
@@ -2074,7 +2078,7 @@ Name = Route 3
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,20,19
+#MapPosition = 0,20,19
 MapSize = 1,1
 BattleBack = rocky
 Environment = Rock
@@ -2105,6 +2109,17 @@ DarkMap = true
 [236]   # Cave 2 - overworld
 #-------------------------------
 [375]   # Cave 2 - Power Tunnel
+Name = Power Tunnel
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,19
+MapSize = 1,1
+BattleBack = cave
+Environment = Cave
+DarkMap = true
+#-------------------------------
+[398]   # Cave 2 - Power Tunnel
 Name = Power Tunnel
 Outdoor = false
 ShowArea = true

@@ -77,9 +77,7 @@ Pokemon = RIOLU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Steel]
 LoseText = What? But...
-Pokemon = GIBLE,5
-	Moves = SCARYFACE, TACKLE
-	AbilityIndex = 0
+Pokemon = RIOLU,5
 #-------------------------------
 [RIVAL1,Rival_Battle1_Fairy]
 LoseText = What? But...

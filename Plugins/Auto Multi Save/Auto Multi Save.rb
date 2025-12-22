@@ -58,24 +58,24 @@ module SaveData
     'Auto 3'
   ]
   MANUAL_SLOTS = [
-    'File A',
-    'File B',
-    'File C',
-    'File D',
-    'File E',
-    'File F',
-    'File G',
-    'File H',
-    'File I',
-    'File J',
-    'File K',
-    'File L',
-    'File M',
-    'File N',
-    'File O',
-    'File P',
-    'File Q',
-    'File R'
+    _INTL('File') + ' A',
+    _INTL('File') + ' B',
+    _INTL('File') + ' C',
+    _INTL('File') + ' D',
+    _INTL('File') + ' E',
+    _INTL('File') + ' F',
+    _INTL('File') + ' G',
+    _INTL('File') + ' H',
+    _INTL('File') + ' I',
+    _INTL('File') + ' J',
+    _INTL('File') + ' K',
+    _INTL('File') + ' L',
+    _INTL('File') + ' M',
+    _INTL('File') + ' N',
+    _INTL('File') + ' O',
+    _INTL('File') + ' P',
+    _INTL('File') + ' Q',
+    _INTL('File') + ' R'
   ]
 
   # For compatibility with games saved without this plugin

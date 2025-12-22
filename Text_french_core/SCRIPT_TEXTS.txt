@@ -3039,13 +3039,13 @@ VUS
 OBTAINED
 ATTRAPÉS
 Graphics/UI/Pokedex/icon_types
-Graphics/UI/Pokedex/icon_types
+Graphics/UI/Pokedex/icon_types_fr
 Graphics/UI/Pokedex/icon_hw
 Graphics/UI/Pokedex/icon_hw
 Graphics/UI/Pokedex/icon_searchslider
 Graphics/UI/Pokedex/icon_searchslider
 Search results
-Résultats de la recherche
+Résultats
 Seen:
 Vus :
 Owned:
@@ -3319,11 +3319,11 @@ Prochain niveau
 {1} {2}, {3}
 {1} {2}, {3}
 A mysterious Pokémon Egg received from {1}.
-Un mystérieux Oeuf de Pokémon reçu de la part de {1}.
+Un mystérieux Oeuf de Pokémon reçu à {1}.
 A mysterious Pokémon Egg.
 Un mystérieux Oeuf de Pokémon.
 "The Egg Watch"
-"The Egg Watch"
+Surveillance de l'Oeuf
 It looks like this Egg will take a long time to hatch.
 On dirait que cet Oeuf va mettre longtemps avant d’éclore.
 What will hatch from this? It doesn't seem close to hatching.

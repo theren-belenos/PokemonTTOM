@@ -194,12 +194,12 @@ module SocialLinkSettings
     # coordinates are for the top left corner of the text.
     # Use the format [x-coord, y-coord]
     #------------------------------------------------------------------------------------
-    STATUS_MESSAGE_COORDS               = [200, 175]
+    STATUS_MESSAGE_COORDS               = [200, 185]
 
     #------------------------------------------------------------------------------------
     # Set the maximum width for the Social Link's status message in the profile page.
     #------------------------------------------------------------------------------------
-    STATUS_MESSAGE_WIDTH                = 320
+    STATUS_MESSAGE_WIDTH                = 300
 
     #------------------------------------------------------------------------------------
     # Set the coordinates for the Social Link's status message in the profile page when 

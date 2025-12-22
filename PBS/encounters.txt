@@ -3671,7 +3671,16 @@ Cave,4
 	1,MACHOP,7,10
 #-------------------------------
 [375]   # Cave 2 - Power Tunnel
-[375,1]
+Cave,4
+    10,WOOBAT,15,18
+	4,TORKOAL,15,18
+	6,THROH,15,18
+	6,SAWK,15,18
+	6,GOLETT,15,18
+	8,SHUPPET,15,18
+	12,DIGLETT,15,18
+#-------------------------------
+[398]   # Cave 2 - Power Tunnel
 Cave,4
     10,WOOBAT,15,18
 	4,TORKOAL,15,18

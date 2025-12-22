@@ -637,9 +637,11 @@
 			
 			# Route 9
 			34 => [35],
-			35 => [34]
+			35 => [34],
 			
-			
+			# Power Tunnel
+			375 => [398],
+			398 => [375]
         }
 
         # If you have any custom Encounter Types, you should add them here

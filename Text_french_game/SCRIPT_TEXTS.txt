@@ -1645,7 +1645,7 @@ Game map: #{id}, #{name}: MapPosition = #{region[0]},#{region[1]},#{region[2]} =
 Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} to order the list.)
 Choisir un lieu (appuyer sur #{convertButtonToString(ARMSettings::OrderSearchButton)} pour trier la liste.)
 Graphics/Pictures/Pokedex/icon_types
-Graphics/Pictures/Pokedex/icon_types
+Graphics/Pictures/Pokedex/icon_types_fr
 There's no mapMetadata for map '#{$game_map.name}' with ID #{$game_map.map_id}.<<n>>Add it to the map_metadata.txt to fix this error!
 There's no mapMetadata for map '#{$game_map.name}' with ID #{$game_map.map_id}. <<n>>Add it to the map_metadata.txt to fix this error!
 #{map_metadata.name} has no mapPosition defined in map_metadata.txt PBS file.
@@ -3657,7 +3657,7 @@ Ville Centrale
 Travel to the Pokémon League to become a true Gym Leader!
 Voyager vers la League Pokémon pour devenir un vrai champion d’arène !
 Chapter 3: First week at work
-Chapitre 3 : Première semaine de travail
+Chapitre 3 : Première semaine
 Go to sleep
 Aller dormir
 Finish the first week
@@ -4289,7 +4289,7 @@ Complete both goals (0/2)
 Complete both goals (1/2)
 Complete both goals (1/2)
 The nurses of your town have new pharmaceutical products to share with other Pokémon Centers. Deliver a package to the Pokémon Centers of Sombake, Greymooose and Central Town.
-The nurses of your town have new pharmaceutical products to share with other Pokémon Centers. Deliver a package to the Pokémon Centers of Sombake, Greymooose and Central Town.
+Les infirmières de votre ville ont de nouveaux produits pharmaceutiques à partager avec les autres Centres Pokémon. Livez un colis aux Centres Pokémon de Sombake, Greymoose et Ville Centrale
 Section {1} has an odd number {2} of entries (section was recognized as a hash because its first line is not a number).
 Section {1} has an odd number {2} of entries (section was recognized as a hash because its first line is not a number).
 Active
@@ -4333,7 +4333,7 @@ Etape %d/%d
 <c2=#{colorQuest('red')}>ARROWS:</c2> Navigate
 <c2=#{colorQuest('red')}>FLECHES:</c2> Naviguer
 <c2=#{colorQuest('red')}>A/S:</c2> Jump Down/Up
-<c2=#{colorQuest('red')}>A/S:</c2> Page Down/Up
+<c2=#{colorQuest('red')}>A/S:</c2> Page Suiv./Préc.
 <c2=#{colorQuest('red')}>New Activity:</c2>
 <c2=#{colorQuest('red')}>Nouvelle activité:</c2>
 <c2=#{colorQuest('blue')}>Overview:</c2> #{$quest_data.getQuestDescription(quest.id)}
@@ -4379,7 +4379,7 @@ Récompense :
 ARROWS:</c2> Navigate
 FLECHES:</c2> Naviguer
 A/S:</c2> Jump Down/Up
-A/S:</c2> Page Down/Up
+A/S:</c2> Page Suiv./Préc.
 Quest discovered
 Quête découverte
 Quest
@@ -5012,3 +5012,13 @@ the Normal Leader
 Leader Normal
 And...
 Et...
+, Week
+, Semaine
+The Egg Watch
+Etat de l'oeuf
+Rival's name
+Nom du rival
+Choose a Location (press
+Choisir un lieu (appuyer sur
+to order the list.)
+pour trier la liste.)

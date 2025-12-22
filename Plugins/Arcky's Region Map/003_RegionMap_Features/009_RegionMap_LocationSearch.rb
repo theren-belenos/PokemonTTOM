@@ -10,7 +10,7 @@ class PokemonRegionMap_Scene
       lastChoiceLocation = findChoice if findChoice
       @searchActive = true
       updateButtonInfo if !ARMSettings::ButtonBoxPosition.nil?
-      choice = messageMap(_INTL("Choose a Location (press #{convertButtonToString(ARMSettings::OrderSearchButton)} to order the list.)"),
+      choice = messageMap("#{_INTL("Choose a Location (press")} #{convertButtonToString(ARMSettings::OrderSearchButton)} #{_INTL("to order the list.)")}",
         @listMaps.map { |mapData| mapData[:name] }, -1, nil, lastChoiceLocation, true) { pbUpdate }
       if $resultWindow
         $resultWindow.dispose

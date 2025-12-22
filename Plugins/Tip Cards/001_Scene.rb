@@ -324,7 +324,7 @@ class TipCard_Scene
 				end
 				drawFormattedTextEx(overlay, @sprites["background"].x + 8 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + 24 + top_text_x_adj), infos, base, shadow)
 			end
-			text = "<al>" + _INTL(info[:Text]) + "</al>"
+			text = "<al><fs=24>" + _INTL(info[:Text]) + "</fs></al>"
 			if info[:Stars]
 				name = pbGet(36) 
 				trainerClass = info[:Image]

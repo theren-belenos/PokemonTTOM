@@ -303,7 +303,7 @@ Vous passez du temps à captuer des insectes en forêt avec Kathleen ! C’étai
 You chilled with Kathleen in her room! She's really friendly!
 Vous passez du temps à vous détendre dans la chambre de Kathleen. Elle est vraiment sympa !
 <b><c3=BDA46A,736440>Samy:</b></c3> All is right with you pal? Hahah!
-<b><c3=BDA46A,736440>Samy:</b></c3>Tout va bien ? Hahah !
+<b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 2!
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 2 !
 End of current build. Speak to Maple again after the update to get you new quests.
@@ -550,8 +550,8 @@ Fairy
 Fée
 #-------------------------------
 [Map002]
-<b>Elder:</b> Be careful kid! If you meet eyes with a trainer, he will battle you!
-<b>Elder:</b> Attention mon enfant ! Si tu croises le regard d’un dresseur, il se battra contre toi !
+<b>Alphonse:</b> Be careful kid! If you meet eyes with a trainer, he will battle you!
+<b>Alphonse:</b> Be careful kid! If you meet eyes with a trainer, he will battle you!
 <b>Ana:</b> Hii \pn! Did you come to play with me?
 <b>Ana:</b> Coucou \pn ! T’es venu jouer avec moi ?
 <b>Ana:</b> Come play with me again!
@@ -572,6 +572,16 @@ Fée
 <b>Touriste:</b> Ohlala ! Cet endroit est si pittoresque !
 #-------------------------------
 [Map004]
+This machine can restore your tired Pokémon to full health.
+Cette machine peut soigner vos Pokémon.
+Would you like to rest your Pokémon?
+Voulez-vous les soigner ?
+Your Pokémons were completely healed !
+Vos Pokémon ont été complètement soignés !
+You use the machine to heal your exhausted Pokémons.
+Vous utilisez la machine pour soigner vos Pokémon.
+Be careful!
+Soyez prudents !
 This ball contains a Pokémon caught by the Professor.
 Cette Ball contient un Pokémon attrapé par le Professeur.
 <b>\c[10]Maple:</b>\c[0] So, you want Helioptile, the Generator Pokémon?\f[HELIOPTILE]
@@ -860,16 +870,6 @@ Ce n’est pas le soir, vous ne pouvez pas aller dormir ! Allez dans l’Arène 
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Farfuret, le Pokémon Grifacérée ?\f[SNEASEL]
 <b>\c[10]Maple:</b>\c[0] Do you want Flabébé, the Single Bloom Pokémon?\f[FLABEBE]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Flabébé, le Pokémon Uniflore ?\f[FLABEBE]
-This machine can restore your tired Pokémon to full health.
-Cette machine peut soigner vos Pokémon.
-Would you like to rest your Pokémon?
-Voulez-vous les soigner ?
-Your Pokémons were completely healed !
-Vos Pokémon ont été complètement soignés !
-You use the machine to heal your exhausted Pokémons.
-Vous utilisez la machine pour soigner vos Pokémon.
-Be careful!
-Soyez prudents !
 <b>Jon:</b> Hello \v[12]!
 <b>Jon:</b> Bonjour \v[12] !
 <b>Jon:</b> ...
@@ -1080,6 +1080,8 @@ Vous avez 5 Tessons Jaunes ! Voulez-vous les donner à Pat ?
 <b>Pat:</b> Non ? Aucun soucis, j’attends ici !
 <b>Pat:</b> Hello \pn, how are you? Is your Pokegear working well?
 <b>Pat:</b> Bonjour \pn, comment vas-tu ? Ton Pokegear marche bien ?
+See a tutorial
+See a tutorial
 <b>\c[10]Maple:</b>\c[0] Do you want Grookey, the Chimp Pokémon? \f[GROOKEY]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Ouistempo, le Pokémon Chimpanzé ? \f[GROOKEY]
 <b>\c[10]Maple:</b>\c[0] Do you want Scorbunny, the Rabbit Pokémon? \f[SCORBUNNY]
@@ -1122,6 +1124,16 @@ Do not change party
 Ne pas changer d’équipe
 Change party
 Changer d’équipe
+Social Links
+Social Links
+Resume & Pokedex
+Resume & Pokedex
+Quests
+Quests
+Time System
+Time System
+Nekanta Map
+Nekanta Map
 #-------------------------------
 [Map005]
 <b>Victor:</b> Heading to Green Lush Forest? I heard there are cool bugs there!
@@ -1152,8 +1164,6 @@ Changer d’équipe
 <b>Bernard:</b> A plus !
 #-------------------------------
 [Map008]
-<b>Student:</b> Can't wait to learn everything about Pokémon battles!!
-<b>Etudiante:</b> J'ai hâte de tout apprendre sur les combats Pokémon !!
 <b>Dept.Store employee:</b> Hello \pn! Sorry you can't enter right now.
 <b>Vendeuse:</b> Bonjour \pn ! Désolé tu ne peux pas entrer maintenant.
 <b>Dept.Store employee:</b> The earthquake didn't destroy the building but made a mess inside. Our stocks are gone.
@@ -1162,24 +1172,26 @@ Changer d’équipe
 <b>Vendeuse:</b> Tu vas devoir demander des réparations depuis le Projet de Reconstruction de Ville !
 <b>Dept.Store employee:</b> How are you \pn? I can't wait for our reopening!
 <b>Vendeuse:</b> Comment vas-tu \pn ? J’ai vraiment hâte de notre réouverture !
+<b>Student:</b> Can't wait to learn everything about Pokémon battles!!
+<b>Etudiante:</b> J'ai hâte de tout apprendre sur les combats Pokémon !!
 You should search for <b>\c[9]Melly</b>\c[0] at the Route 1 first.
 Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
-<b>Tourist:</b> Wow!! This academy is really beautiful!
-<b>Touriste:</b> Wow !! Cette académie est si jolie !
 <b>Franck:</b> Hey \pn! The Pokémon Center is nearly finished!
 <b>Franck:</b> Hey \pn ! Le Centre Pokémon est presque terminé !
+<b>Tourist:</b> Wow!! This academy is really beautiful!
+<b>Touriste:</b> Wow !! Cette académie est si jolie !
 <b>Lady:</b> Humpf! This is far from being fancy in here…
-<b>Lady:</b> Humpf! C’est loin d’être chic ici…
-<b>Lady:</b> Je dois admettre, cet endroit devient de plus en plus chic…
-<b>Lady:</b> Je dois admettre, cet endroit devient de plus en plus chic…
+<b>Dame:</b> Humpf! C’est loin d’être chic ici…
+<b>Lady:</b> I must admit, this town gets fancier by the day…
+<b>Dame:</b> Je dois admettre, cet endroit devient de plus en plus chic…
 <b>\c[10]Maple:</b>\c[0] Follow me \pn.
 <b>\c[10]Maple:</b>\c[0] Suis-moi \pn.
 <b>\c[10]Maple:</b>\c[0] Hello Franck!
 <b>\c[10]Maple:</b>\c[0] Bonjour Franck !
 <b>Franck:</b> Oh hello prof! And hello \pn!
 <b>Franck:</b> Oh bonjour Prof ! Et bonjour \pn !
-<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
-<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
+<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our - for now - one and only builder.
+<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre - pour l'instant - seul et unique travailleur.
 <b>\c[10]Maple:</b>\c[0] He is currently re-building the Pokémon Center.
 <b>\c[10]Maple:</b>\c[0] Il est en train de reconstruire le Centre Pokémon.
 <b>Franck:</b> And I will be finished soon!
@@ -1231,11 +1243,17 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Tourist:</b> I’m thirsty! Can’t we drink something in this city??
 <b>Tourist:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!
-<b>Tourist:</b>J’ai soif! Allons au café!
-<b>Woman:</b> Hello \pn how are you ?
-<b>Femme:</b> Bonjour \pn comme vas-tu ?
-<b>Woman:</b> I can't believe how much you've grown already !
-<b>Femme:</b> J'arrive pas à croire à quel point tu as grandi !
+<b>Tourist:</b> J’ai soif! Allons au café!
+\tn's Department Store
+Centre Commercial de \tn
+<b>Amanda:</b> Hello \pn how are you ?
+<b>Amanda:</b> Bonjour \pn comment ça va ?
+<b>Amanda:</b> I can't believe how much you've grown already !
+<b>Amanda:</b> J'arrive pas à croire à quel point tu as grandi !
+The sign is really damaged... You can't read anything.
+Le panneau est vraiment endommagé... C'est complètement illisible.
+Trainer's Academy
+Académie de dresseurs
 Elder: Oh hello here dear child. How are you?
 Elder: Oh hello here dear child. How are you?
 \Elder: I sell a variety of beautiful hats. Do you want to check what I have in store?
@@ -1250,22 +1268,22 @@ Elder: I have better hats now! Do you want to see?
 Elder: I have better hats now! Do you want to see?
 \c[3]WIP: hats store lvl2
 \c[3]WIP: hats store lvl2
+\c[5]\Beauty: Hello dear~
+\c[5]\Beauty: Hello dear~
+\c[5]\Beauty: I can take care of one of your pokémon for a mere price~
+\c[5]\Beauty: I can take care of one of your pokémon for a mere price~
+\c[5]\Beauty: This will make them more relaxed and happy! Do you want to try?
+\c[5]\Beauty: This will make them more relaxed and happy! Do you want to try?
+\c[3] WIP: Pokemon massage
+\c[3] WIP: Pokemon massage
+\c[5]\Beauty: What a shame~~ Come back soon darling !
+\c[5]\Beauty: What a shame~~ Come back soon darling !
+\c[5]Beauty: Hello dear~ Do you want me to take care of a Pokémon ?
+\c[5]Beauty: Hello dear~ Do you want me to take care of a Pokémon ?
 <b>Tourist:</b> So this is the \gt Gym huh ?
 <b>Touriste:</b> Donc voici l'arène \gt hein ?
 <b>Tourist:</b> I wonder what the Leader is like...
 <b>Touriste:</b> Je me demande à quoi ressemble le Champion...
-\c[5]\Beauty: Hello dear~
-\c[5]\Beauty: Hello dear~
-\c[5]\Beauty: I can take care of one of your pokémon for a mere price~
-\c[5]\Beauty: I can take care of one of your pokémon for a mere price~
-\c[5]\Beauty: This will make them more relaxed and happy! Do you want to try?
-\c[5]\Beauty: This will make them more relaxed and happy! Do you want to try?
-\c[3] WIP: Pokemon massage
-\c[3] WIP: Pokemon massage
-\c[5]\Beauty: What a shame~~ Come back soon darling !
-\c[5]\Beauty: What a shame~~ Come back soon darling !
-\c[5]Beauty: Hello dear~ Do you want me to take care of a Pokémon ?
-\c[5]Beauty: Hello dear~ Do you want me to take care of a Pokémon ?
 <b>Woman:</b> Oh ! The Day-Care is reachable again !
 <b>Femme:</b> Oh ! La Pension est de nouveau accessible !
 <b>Woman:</b> Should I take some of my Pokémon there ?
@@ -1280,10 +1298,6 @@ Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
 \c[3]WIP
 Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
-<b>Man:</b> Hey \pn how are you?
-<b>Man:</b> Hey \pn comment va ?
-<b>Man:</b> Better with your house built again I bet!
-<b>Man:</b> Mieux depuis que ma maison est reconstruite, j'en suis sûr !
 \c[9]Hairdresser: Hello child, I'm the hairdresser.
 \c[9]Hairdresser: Hello child, I'm the hairdresser.
 \c[9]Hairdresser: Do you want me to change your hair?
@@ -1294,6 +1308,12 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 \c[9]Hairdresser: I'm here if you change your mind.
 \c[9]Hairdresser: I know more hairstyles now. Wanna try?
 \c[9]Hairdresser: I know more hairstyles now. Wanna try?
+<b>Roger:</b> Hey \pn how are you?
+<b>Roger:</b> Hey \pn comment tu vas ?
+<b>Roger:</b> Better with your house built again I bet!
+<b>Roger:</b> Mieux depuis que ta maison a été reconstruite je parie !
+<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
+<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
 <b>Man:</b> Is there good trainers around here ?
 <b>Man:</b> Il y a des bons dresseurs dans le coin ?
 ^ Route 1\n< Route 2\n
@@ -1879,7 +1899,7 @@ Cancel
 <b>Desert Nurse:</b> Hello, you must take care with the desert.
 <b>Infirmière du désert:</b> Bonjour, tu devrais faire attention avec le désert.
 <b>Desert Nurse :</b> If you want, you can rest up inside the tent.
-<b>Desert Nurse :</b> If you want, you can rest up inside the tent.
+<b>Desert Nurse:</b> Si tu veux, tu peux te reposer dans la tente.
 Your Pokémons were healed!
 Vos Pokémon ont été soignés !
 <b>Desert Nurse:</b> See you around!
@@ -1926,6 +1946,10 @@ Changer votre équipe ?
 <b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly </b>\c[0] ?
 <b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
 <b>\c[10]Maple:</b>\c[0] Sois prudent !
+WARNING! This is for debug purpose. It initialize the challengers list.
+WARNING! This is for debug purpose. It initialize the challengers list.
+Proceed? Press no if you aren't the dev and doesn't want your game to crash.
+Proceed? Press no if you aren't the dev and doesn't want your game to crash.
 <b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
 <b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
 <b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
@@ -2224,16 +2248,12 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec les gens que tu apprécies, à passer du temps avec eux ou même leur donner des cadeaux.
 <b>\c[10]Maple:</b>\c[0] Good luck and above all: have fun!
 <b>\c[10]Maple:</b>\c[0] Bonne chance et surtout : amuse-toi !
-WARNING! This is for debug purpose. It initialize the challengers list.
-WARNING! This is for debug purpose. It initialize the challengers list.
-Proceed? Press no if you aren't the dev and doesn't want your game to crash.
-Proceed? Press no if you aren't the dev and doesn't want your game to crash.
 <b>\c[10]Maple:</b>\c[0] \pn you remember Marley right?
 <b>\c[10]Maple:</b>\c[0] \pn tu te rappelles de Marley n’est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] Hello \pn!
 <b>\c[3]Marley:</b>\c[0] Salut \pn!
 <b>\c[10]Maple:</b>\c[0] Marley, I present you your new boss! \pn will be our Gym leader!
-<b>\c[10]Maple:</b>\c[0] Merley, je te présente ton nouveau chef ! \pn sera notre Champion d’Arène !
+<b>\c[10]Maple:</b>\c[0] Marley, je te présente ton nouveau chef ! \pn sera notre Champion d’Arène !
 <b>\c[3]Marley:</b>\c[0] Oooh nice to meet you, boss!
 <b>\c[3]Marley:</b>\c[0] Oooh heureux de te rencontrer boss !
 <b>\c[10]Maple:</b>\c[0] Marley's task is to welcome the challengers, and cheer them up when they lose.
@@ -2258,8 +2278,8 @@ Proceed? Press no if you aren't the dev and doesn't want your game to crash.
 <b>\c[10]Maple:</b>\c[0] Tu peux bien sûr te balader dans la ville mais avec les ruines tu pourras pas aller loin au sud.
 <b>\c[10]Maple:</b>\c[0] Come to think about it, I don't want you to get lost so I'm gonna give you this.
 <b>\c[10]Maple:</b>\c[0] Maintenant que j’y réfléchis je n’ai pas envie que tu te perde donc je vais te donner ça.
-<b>\c[10]Maple:</b>\c[0] This map (that I created...) shows really A LOT of informations.
-<b>\c[10]Maple:</b>\c[0] Cette map (que j’ai créée…) montre vraiment BEAUCOUP d’informations.
+<b>\c[10]Maple:</b>\c[0] This map - that I created... - shows really A LOT of informations.
+<b>\c[10]Maple:</b>\c[0] Cette carte - que j'ai créée... - montre BEAUCOUP d'informations
 <b>\c[10]Maple:</b>\c[0] I urge you to consult it frequently.
 <b>\c[10]Maple:</b>\c[0] Je te conseille vraiment de la consulter régulièrement.
 Do you want to see explanations on the Nekanta Map?
@@ -2282,6 +2302,12 @@ Voulez-vous lire les explications de la Carte de Nekanta ?
 <b>\c[10]Maple:</b>\c[0] Bon, on attend ton retour ici. A bientôt !
 <b>\c[10]Maple:</b>\c[0] Thank you \pn, we can begin now.
 <b>\c[10]Maple:</b>\c[0] Merci \pn, on peut maintenant commencer.
+Do you want to skip the explanations ? (not advised for a first playthrough)
+Do you want to skip the explanations ? (not advised for a first playthrough)
+Are you sure ?
+Are you sure ?
+(after the explanations...)
+(after the explanations...)
 <b>\c[10]Maple:</b>\c[0] We have two main things to discuss: the Gym, and the reconstruction of the city.
 <b>\c[10]Maple:</b>\c[0] Nous avons deux sujets à aborder : l’Arène, et la reconstruction de la ville.
 <b>\c[10]Maple:</b>\c[0] Firstly, in order to reopen the Gym, we need the permission from the League.
@@ -2360,8 +2386,8 @@ Quelques minutes plus tard…
 <b>\c[10]Maple:</b>\c[0] Tout d’abord, les fonds nécessaires. C’est lorsque nous devons acheter des produits ou matériaux.
 <b>\c[10]Maple:</b>\c[0] For this task we don't need any funds because we just have to remove stuff, not build anything.
 <b>\c[10]Maple:</b>\c[0] Pour cette tâche pas besoin de fonds car il s’agit juste d’enlever des trucs, pas de construire quelque chose.
-<b>\c[10]Maple:</b>\c[0] (and don't worry, the workers are paid, obviously... I take care of it)
-<b>\c[10]Maple:</b>\c[0] (et pas d’inquiétude, les travailleurs sont payés évidemment… je m’en occupe)
+<b>\c[10]Maple:</b>\c[0] ...and don't worry, the workers are paid, obviously... I take care of it.
+<b>\c[10]Maple:</b>\c[0] ...et pas d'inquiétude, les travailleurs sont payés... J'y veille personnellement.
 <b>\c[10]Maple:</b>\c[0] Second, we have the required amount of workers.
 <b>\c[10]Maple:</b>\c[0] Ensuite, nous avons le nombre nécessaire de travailleurs.
 <b>\c[10]Maple:</b>\c[0] Here we only need 1 worker, a good thing because obviously we only have Franck...
@@ -2744,6 +2770,10 @@ Vous donnez le sac à Henry.
 <b>Henry:</b> J’ai quelque chose pour les braves de ton espèce…
 <b>Henry:</b> Well its time for me to go back home! See you later young \pn.
 <b>Henry:</b> Bien, il est temps pour moi de rentrer dans ma demeure. A la revoyure, jeune \pn.
+<b>Delibird:</b> Deliiiii!
+<b>Cadoizo:</b> Doizoooo!
+<b>Vulpix:</b> Vuuuuul!
+<b>Goupix:</b> Piiiiiiiix!
 <b>Elder:</b> Hello little one. I heard there are some wilds Vulpix on this Route.
 <b>Mamie:</b> Bonjour à toi. J’ai entendu dire qu’il y avait des Goupix sauvages sur cette Route.
 <b>Elder:</b> If you happen to have one, would you exchange it for my sweet Delibird?
@@ -2764,10 +2794,6 @@ Mamie
 <b>Mamie:</b>Veux-tu échanger un Goupix contre mon gentil Cadoizo ?
 <b>Elder:</b> Hello little one. Don't mind me, I'm just enjoying the fresh air.
 <b>Mamie:</b> Bonjour à toi. Ne fais pas attention à moi, je profite juste de l’air frais.
-<b>Delibird:</b> Deliiiii!
-<b>Cadoizo:</b> Doizoooo!
-<b>Vulpix:</b> Vuuuuul!
-<b>Goupix:</b> Piiiiiiiix!
 <b>Aron:</b> Do you see my cool cap?
 <b>Aron:</b> Tu veux voir ma casquette trop cool ??
 <b>Aron:</b> I bet you want a cool cap too!
@@ -2782,10 +2808,10 @@ Non
 <b>\c[9]Melly:</b>\c[0] Oh b-bonjour \pn!
 <b>\c[9]Melly:</b>\c[0] How are you?
 <b>\c[9]Melly:</b>\c[0] Comment vas-tu ?
-<b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle, the fisherman!
-<b>\c[9]Melly:</b>\c[0] J’entraînais mon Pokémon par ici donc je suis venu dire bonjour à mon oncle, le pêcheur !
-<b>Fisherman:</b> Hello \pn, how are you?
-<b>Pêcheur:</b> Bonjour \pn, comment vas-tu ?
+<b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle Willy!
+<b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle Willy!
+<b>Willy:</b> Hello \pn, how are you?
+<b>Willy:</b> Hello \pn, how are you?
 <b>\c[9]Melly:</b>\c[0] Hey, let me show you the cuuuuute Pokémon I got, okay?
 <b>\c[9]Melly:</b>\c[0] Hey, laisse moi te montrer le Pokémon troooooop mignon que j’ai capturé, ok ?
 <b>\c[9]Melly:</b>\c[0] Hehe... You're strong!
@@ -2802,32 +2828,32 @@ Non
 <b>\c[9]Melly:</b>\c[0] M-mais avec toi, c’est cool ! Hehe~
 <b>\c[9]Melly:</b>\c[0] Well I'm heading to the Gym then, see you there!
 <b>\c[9]Melly:</b>\c[0] Eh ben je vais à l’Arène alors, on se voit là-bas !
-<b>The Fisherman:</b> You can't imagine how much I'm relieved \pn.
-<b>Le Pêcheur:</b> Tu n’imagines pas à quel point je suis soulagé \pn.
-<b>The Fisherman:</b> Melly was really worried about all this Gym stuff.
-<b>Le Pêcheur:</b> Melly était vraiment inquiète avec cette histoire d’Arène.
-<b>The Fisherman:</b> So you will be our Gym Leader ha! Maybe I have something that could help you...
-<b>Le Pêcheur:</b> Donc tu seras notre Champion d’Arène ha! J’ai peut-être quelque chose qui pourra t’aider…
-<b>The fisherman:</b> This rod has seen better days, but its perfect for a beginner!
-<b>Le Pêcheur:</b> Cette Canne a connu des jours meilleurs, mais c’est parfait pour un débutant !
-<b>The fisherman:</b> Do not hesitate to try to fish in various spots.
-<b>Le Pêcheur:</b> N’hésite pas à pêcher dans différents endroits.
-<b>The fisherman:</b> Especially you, the Water Leader!
-<b>Le Pêcheur:</b> Surtout toi, le Leader Eau !
-<b>The fisherman:</b> You won't find a lot of water Pokémons on the ground anyway!
-<b>Le Pêcheur:</b> Tu ne trouveras pas beaucoup de Pokémon eau sur terre de toute façon !
-<b>The fisherman:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
-<b>Le Pêcheur:</b> Je sais que tu n’es pas le Leader Eau, mais les Pokémon Eau sont quand même chouettes non ?
-<b>The fisherman:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
-<b>Le Pêcheur:</b> Bref, je te laisse retourner dans mon Arène, <i>Leader.</i>
-Fisherman's hut
-Hutte du Pêcheur
+<b>Willy:</b> You can't imagine how much I'm relieved \pn.
+<b>Willy:</b> You can't imagine how much I'm relieved \pn.
+<b>Willy:</b> Melly was really worried about all this Gym stuff.
+<b>Willy:</b> Melly was really worried about all this Gym stuff.
+<b>Willy:</b> So you will be our Gym Leader ha! Maybe I have something that could help you...
+<b>Willy:</b> So you will be our Gym Leader ha! Maybe I have something that could help you...
+<b>Willy:</b> This rod has seen better days, but its perfect for a beginner!
+<b>Willy:</b> This rod has seen better days, but its perfect for a beginner!
+<b>Willy:</b> Do not hesitate to try to fish in various spots.
+<b>Willy:</b> Do not hesitate to try to fish in various spots.
+<b>Willy:</b> Especially you, the Water Leader!
+<b>Willy:</b> Especially you, the Water Leader!
+<b>Willy:</b> You won't find a lot of water Pokémons on the ground anyway!
+<b>Willy:</b> You won't find a lot of water Pokémons on the ground anyway!
+<b>Willy:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
+<b>Willy:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
+<b>Willy:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
+<b>Willy:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
+Willy's hut
+Willy's hut
 <b>Will:</b> Let's exercise together!
 <b>Will:</b> Entraînons-nous ensemble !
 <b>Will:</b> You gotta stay in shape!
 <b>Will:</b> Il faut garder la forme !
-<b>Fisherman:</b> I love the breeze of the sea...
-<b>Le Pêcheur:</b> J’aime la brise marine…
+<b>Willy:</b> I love the breeze of the sea...
+<b>Willy:</b> I love the breeze of the sea...
 #-------------------------------
 [Map040]
 The rock suddenly jumps you!
@@ -3048,14 +3074,14 @@ Vous avez déjà offert un cadeaux aux infirmières cette semaine !
 <b>\c[5]Infirmière:</b>\c[0] Sois prudent trésor !
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
-<b>Kid:</b> Hello \pn! Will you play with me sometime?
-<b>Kid:</b> Salut \pn ! Tu jouera avec moi à l’occase ?
+<b>Jason:</b> Hello \pn! Will you play with me sometime?
+<b>Jason:</b> Hello \pn! Will you play with me sometime?
 <b>Happiny:</b> Pibilipibili !!!
 <b>Ptiravi:</b> Pibilipibili !!!
 Happiny seems really happy to hang out on top of the counter!
 Ptiravi a l’air très content de se balader sur le comptoir !
-<b>Elder:</b> Hello \pn, have a bright day!
-<b>Papy:</b> Bonjour \pn, passes une très belle journée !
+<b>Daniel:</b> Hello \pn, have a bright day!
+<b>Daniel:</b> Hello \pn, have a bright day!
 <b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go to the upper part for now.
 <b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas aller à l’étage pour le moment.
 Yes
@@ -4324,8 +4350,8 @@ Le rocher vous saute dessus !
 <b>Homme:</b> T’es trop jeune pour comprendre, nous ennuie pas !
 <b>Girl:</b> Go to your mom, kid!
 <b>Femme:</b> Retourne chez ta mère, enfant !
-The grunts quickly flew away!
-Les sbires se sont rapidement enfuis !
+The grunts used an Escape Rope and flew away!
+The grunts used an Escape Rope and flew away!
 Milcery happily jumped on your shoulder!
 Crémy saute joyeusement sur votre épaule !
 <b>Martha:</b> Hello! You look like a trainer, help me please!
@@ -4546,6 +4572,8 @@ Vous montrez vos badges.
 <b>Homme:</b> Et si tu perds… Entraîne toi davantage et reviens !
 <b>Man:</b> Here, take these to help you train better!
 <b>Homme:</b> Tiens, prends ça pour t’aider à t’entraîner !
+<b>Man:</b> If you lose... Just train harder and come back!
+<b>Homme:</b> Si tu perds… Entraîne toi davantage et reviens !
 <b>Employee:</b> Hello \gt Leader.
 <b>Employé:</b> Bonjour Leader \gt.
 <b>Employee:</b> Behind me is the rank up battle arena.
@@ -4838,18 +4866,18 @@ Votre Arène est maintenant rang 2 !
 <b>Kathleen:</b> En fait c’est ma position préférée car je peux parler aux jeunes dresseurs des pokémon insectes qui évoluent tôt.
 <b>Kathleen:</b> I will miss being able to have Vespiqueen in my Gym fights tho... But it's okay!
 <b>Kathleen:</b> Je pourrai plus utiliser Apireine dans les combats d’Arène par contre… Mais c’est ok !
+<b>Kathleen:</b> Well good luck for your rank climb! Next is the Normal Gym in Grey Moose right? Piece of cake for you!
+<b>Kathleen:</b> Eh bien bonne chance pour la montée de rang ! Après c’est l’Arène Normal à Greymoose non ? Un jeu d’enfant pour toi !
 <b>Kathleen:</b> Well good luck for your rank climb! Next is Cassian's Rock Gym, right? Piece of cake for you!
 <b>Kathleen:</b> Eh bien bonne chance pour la montée de rang ! Après c’est l’Arène Roche de Cassian non ? Un jeu d’enfant pour toi !
+<b>Kathleen:</b> Let's hang out sometimes, right?
+<b>Kathleen:</b> Si on se revoyait de temps en temps ?
 <b>Kathleen:</b> See ya!
 <b>Kathleen:</b> A plus !
 <b>Kathleen:</b> Okay, take your time.
 <b>Kathleen:</b> Okay, prends ton temps.
 <b>Kathleen:</b> If you want to battle, talk to me from the right side of the arena.
 <b>Kathleen:</b> Si tu veux combattre, parle moi depuis le côté droit du terrain.
-<b>Kathleen:</b> Well good luck for your rank climb! Next is the Normal Gym in Grey Moose right? Piece of cake for you!
-<b>Kathleen:</b> Eh bien bonne chance pour la montée de rang ! Après c’est l’Arène Normal à Greymoose non ? Un jeu d’enfant pour toi !
-<b>Kathleen:</b> Let's hang out sometimes, right?
-<b>Kathleen:</b> Si on se revoyait de temps en temps ?
 The Normal leader seems happy to see you.
 Le Leader Normal a l’air content de vous voir.
 The normal Leader looks to you with determination in their eyes! The fight begins!
@@ -4857,7 +4885,7 @@ Le Leader Normal vous regarde avec de la détermination dans ses étranges yeux 
 The Normal Leader doesn't seem to mind you took their spot at the rank 2. They're actually smiling.
 Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 2. Iel est en train de sourire.
 Even if they do not speak and have a strange way of looking at you, they might become a good friend!
-Even if they do not speak and have a strange way of looking at you, they might become a good friend!
+Même si iel ne parle pas et vous regarde bizarrement, iel pourrait devenir quelqu'un de proche !
 Waving at you, they leave the room. You wave back.
 Vous faisant signe de la main, iel quitte la pièce. Vous lui faites un signe en retour.
 The Normal Leader looks at you, looking puzzled.
@@ -4967,7 +4995,7 @@ Lequel voulez-vous récuperer ?
 <b>Daycare Lady:</b> Very good. Come again.
 <b>Dame de la Pension:</b> Très bien. A bientôt.
 \G<b>Daycare Lady:</b> If you want your \v[3] back, it will cost $\v[4]
-\G<b>Dame de la Pension:</b> Si tu veux récuperer ton \v[3] back, cela te coûtera $\v[4]
+\G<b>Dame de la Pension:</b> Si tu veux récuperer ton \v[3], cela te coûtera $\v[4]
 \G<b>Daycare Lady:</b> You don't have enough money...
 \G<b>Dame de la Pension:</b> Tu n’as pas assez d’argent…
 \G<b>Daycare Lady:</b> Excellent.\nHere's your Pokémon.
@@ -5183,7 +5211,7 @@ Il n’y a que des déchets là-dedans
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> Hey ! Si t’aimes les Pokémon insectes, tu aimeras ça !
 <b>Lady:</b> It's a good item, right?
-<b>Lady:</b> C’est un bon item, n’est-ce pas ?
+<b>Lady:</b> C’est un bon objet, n’est-ce pas ?
 #-------------------------------
 [Map379]
 <b>Kid:</b> Ergh!
@@ -5300,12 +5328,6 @@ Il n’y a que des déchets là-dedans.
 <b>Fany:</b> On fait quoi maintenant ??
 <b>Elora:</b> God damn it...
 <b>Elora:</b> Bordel…
-<b>Denis:</b> Who are you people??
-<b>Denis:</b> Vous êtes qui vous ??
-<b>Carl:</b> Hey! What are you doing here?
-<b>Carl:</b> Hey ! Qu’est-ce que vous faites là ?
-<b>Denis:</b> Argh!
-<b>Denis:</b> Argh !
 <b>???:</b> And who would you might be?
 <b>???:</b> Et t’es qui toi ?
 <b>???:</b> You wanna battle the Normal Leader? They "told" you to find someone named <b><c3=BDA46A,736440>Samy</b></c3>?
@@ -5335,9 +5357,15 @@ Votre équipe a été complètement soignée !
 <b><c3=BDA46A,736440>Samy:</b></c3> Wanna try again?
 <b><c3=BDA46A,736440>Samy:</b></c3> T’veux réessayer !
 <b><c3=BDA46A,736440>Samy:</b></c3> Feeling better? Let's go explore this tunnel again!
-<b><c3=BDA46A,736440>Samy:</b></c3> FT’vas mieux ! On y retourne !
+<b><c3=BDA46A,736440>Samy:</b></c3> T’vas mieux ? On y retourne !
 <b><c3=BDA46A,736440>Samy:</b></c3> Hey lad, we aren't finished here! Let's explore this tunnel more!
 <b><c3=BDA46A,736440>Samy:</b></c3> Hé mon gars, on a pas fini là ! Explorons le tunnel ensemble !
+<b>Denis:</b> Who are you people??
+<b>Denis:</b> Vous êtes qui vous ??
+<b>Carl:</b> Hey! What are you doing here?
+<b>Carl:</b> Hey ! Qu’est-ce que vous faites là ?
+<b>Denis:</b> Argh!
+<b>Denis:</b> Argh !
 <b>Gladys:</b> Shit! We have to gain some time!
 <b>Gladys:</b> Merde ! On doit gagner un peu de temps !
 <b>Hugo:</b> Copy that! Let's clear them off!

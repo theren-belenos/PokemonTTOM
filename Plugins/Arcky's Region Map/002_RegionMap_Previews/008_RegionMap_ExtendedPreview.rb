@@ -242,7 +242,17 @@ class PokemonRegionMap_Scene
     boxY = 4
     lines = 4
     reduce = 0
-    unless @data.nil? || [@data[:wild], @data[:trainers], @data[:items]].all? { |value| value[0].include?("No") || value[0] == "Disabled" }
+	puts @data
+	puts "datanil"
+	puts @data.nil?
+	puts "datawild"
+	#puts @data[:wild]
+	#puts "datatrainer"
+	puts @data[:trainers]
+	puts "dataitems"
+	puts @data[:items]
+    #unless @data.nil? || [@data[:wild], @data[:trainers], @data[:items]].all? { |value| value[0].include?("No") || value[0] == "Disabled" }
+    unless @data.nil? || [@data[:trainers], @data[:items]].all? { |value| value[0].include?("No") || value[0] == "Disabled" }
       [@data[:wild], @data[:trainers], @data[:items]].each_with_index do |data, index|
         data.each_with_index do |txt, index2|
           if txt == "Disabled"

@@ -329,7 +329,9 @@ class PokemonPokedexInfo_Scene
       if @sprites["movecmds"].index > 0
         imagepos.push([path + "page_cursor", 178, 350, 76, 70, 76, 32])
       end
-      drawTextEx(overlay, 272, 216, 230, 5, selMoveData.description, base2, shadow2)
+	  descriptiontext = "<fs=24>" + selMoveData.description + "</fs>"
+	  drawFormattedTextEx(overlay, 272, 216, 230, descriptiontext, base2, shadow2, 24)
+      #drawTextEx(overlay, 272, 216, 230, 5, selMoveData.description, base2, shadow2)
     end
     pbDrawImagePositions(overlay, imagepos)
     pbDrawTextPositions(overlay, textpos)

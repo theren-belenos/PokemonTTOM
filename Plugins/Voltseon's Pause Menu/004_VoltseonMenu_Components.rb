@@ -192,8 +192,8 @@ class VPM_DateAndTimeHud < Component
 		text = day[0] + " " + day[1].to_s
 		text2 = time.strftime("%Hh%M")
 	else
-		text = day[0] + ", Week " + day[1].to_s
-		text2 = (day[2] == 0) ? "Morning" : (day[2]) == 1 ? "Afternoon" : "Evening"
+		text = day[0] + _INTL(", Week") + " " + day[1].to_s
+		text2 = (day[2] == 0) ? _INTL("Morning") : (day[2]) == 1 ? _INTL("Afternoon") : _INTL("Evening")
 	end	
     @sprites["overlay"].bitmap.clear
     pbSetSmallFont(@sprites["overlay"].bitmap)
