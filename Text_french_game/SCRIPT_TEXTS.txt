@@ -2247,9 +2247,9 @@ Permet la reconstruction de l’Académie de dresseurs par la suite.
 Dept.Store - Floor 2 opening
 Centre Cial - ouverture de l’étage 2
 Opens the second floor of the Dept. Store (Exploration items & Berries).
-Oeuvre l’étage 2 du Centre commercial (Objets d’exploration & baies)
+Ouvre l’étage 2 du Centre commercial (Objets d’exploration & baies)
 Unlocks these items:<<n>>- Exploration items: Escape rope, Repel<<n>>- Berries: Oran, Cheri, Chesto, Pecha, Rawst, Aspear, Persim
-Unlocks these items:<<n>>- Exploration items: Escape rope, Repel<<n>>- Berries: Oran, Cheri, Chesto, Pecha, Rawst, Aspear, Persim
+Débloque ces objets :<<n>>- Objets d'exploration : Corde Sortie, Repousse<<n>>- Baies: Oran, Ceriz, Maron, Pêcha, Fraive, Willia, Kika
 Dept.Store - Floor 1 Lvl. 2
 Centre Cial - étage 1 niv. 2
 Upgrades the first floor of the Department Store (Medicines & Balls).
@@ -5022,3 +5022,203 @@ Choose a Location (press
 Choisir un lieu (appuyer sur
 to order the list.)
 pour trier la liste.)
+Happy to see me?
+Content de me voir ?
+I can't afford a defeat...
+Je ne peux pas me permettre de perdre…
+I was taught how to navigate the forest!
+On m’a appris à me repérer dans la forêt !
+I don't exactly know how but i'm sure it helped me win!
+Je sais pas trop comment mais je suis sûre que ça m’a aidé à gagner !
+Some of my pokemons evolved! They are even more amazing!!!!
+J’ai des Pokémon qui ont évolué ! Ils sont encore plus incroyables !!!!
+SO COOL!!!!
+SI COOL !!!!
+I still use the same pokemon as when I was young!
+J’utilise toujours les mêmes Pokémon que dans ma jeunesse !
+I'm faster than i look! Isn't it?
+Je suis plus rapide que j’en ai l’air ! N’est-ce pas ?
+Do you know what's more fun than playing in mud? Battling juste after!
+Tu sais ce qui est encore plus amusant que de jouer dans la boue ? Combattre juste après !
+Another glorious victory for MUD BOY!!!
+Une autre glorieuse victoire pour BOUE BOY !!!
+My familly became rich with our wonderfull steal!
+Ma famille est devenue riche grâce à notre acier exceptionnel !
+Hehehe, our steal is the most precious in this world!
+Héhéhé, notre acier est le plus précieux du monde !
+Most of my friends are jealous of my pokemons!
+Presque tous mes amis sont jaloux de mes Pokémon !
+And now, i understand why!
+Et maintenant, je comprends pourquoi !
+I'm such a BADASS! I'm here to fight!
+J’suis trop un BADASS ! Je viens pour combattre !
+Yeah!
+Yeah !
+I'm here to fight an elite trainer!
+Je viens ici affronter un dresseur d’élite !
+I am the elite!
+Je suis l’élite !
+Is this the tourist office?
+C’est ici l'office de tourisme ?
+What a strange tourist office!
+Un office de tourisme des plus étranges !
+I lost my husband... He were looking for the tourist office... Anyway, let's fight!
+J’ai perdu de vue mon mari… Il cherchait l’office de tourisme… En tous cas, combattons !
+I love fighting local gym leader during our trip! Thank you!
+J’adore combattre des Arènes locales durant nos voyages ! Merci !
+Did you know you can locate yourself by looking at the moon???
+Tu savais qu’on peut se repérer en regardant la lune ???
+Look to la luna! Haha!
+Look to la luna ! Haha !
+I'm ready for a spooky fight!
+Je suis prêt pour un combat qui fait peur !
+I always answer 'trick'!
+Je réponds toujours ‘un sort’ !
+Look at this! My boy just evolved!
+Regarde ça ! Mon bébé vient d’évoluer !
+MAGNIFICENT!!!
+SPLENDIDE !!!
+Hey! What's your favorite starter?
+Hey ! C’est quoi ton starter préféré ?
+Mine is Froakie!
+Le mien c’est Grenousse !
+Let's battle with elegance.
+Battons-nous avec élégance.
+An elegante victory!
+Une victoire élégante !
+Are you the one who ordered a combat maid?
+Est-ce vous qui avez commandé une maid de combat ?
+We hope you enjoyed our services!
+On espère que vous avez apprécié nos services !
+Let me show you the way of the pillow!
+Laisse moi t’enseigner la voie de l’édredon !
+Let's celebrate with a nap!
+Fêtons ça avec une sieste !
+I'm coming for you!
+Je viens pour te vaincre !
+You deserved it!
+Tu l’as bien mérité !
+WE WILL HAVE SO MUCH FUN!
+ON VA TELLEMENT S’AMUSER !
+Isn't that FUN ???
+N’est-ce pas FUN ???
+I still use the same Pokémon as when I was young!
+J’utilise toujours les mêmes Pokémon que dans ma jeunesse !
+I'm faster than I look! Isn't it?
+Je suis plus rapide que j’en ai l’air ! N’est-ce pas ?
+My familly became rich with our wonderfull steel!
+Ma famille est devenue riche grâce à notre acier exceptionnel !
+Hehehe, our steel is the most precious in this world!
+Héhéhé, notre acier est le plus précieux du monde !
+Most of my friends are jealous of my Pokémon!
+Presque tous mes amis sont jaloux de mes Pokémon !
+And now, I understand why!
+Et maintenant, je comprends pourquoi !
+I love fighting local Gym leader during our trip! Thank you!
+J’adore combattre des Arènes locales durant nos voyages ! Merci !
+Isn't that FUN???
+N’est-ce pas FUN ???
+Return the books
+Ramener les livres
+Get all 3 books (0/3)
+Récupérer les 3 livres (0/3)
+Get all 3 books (1/3)
+Récupérer les 3 livres (1/3)
+Get all 3 books (2/3)
+Récupérer les 3 livres (2/3)
+Return the book to the library
+Rendre les livres
+Academy
+Academie
+Academy's library
+Bibliothèque de l'académie
+Some students didn't return a book to the library. Go ask them for the books. Their names are Alex Nodier, Justine Lertimen and Mark Morton.
+Des étudiants n'ont pas rendu leur livre. Allez leur demander de vous le donner. Leurs noms sont Alex Nodier, Justine Lertimen et Mark Morton.
+Various rewards:<<n>>- Melly will be glad!<<n>>- An additionnal worker, Melly's father
+Récompenses multiples :<<n>>- Melly sera contente !<<n>>- Un travailleur supplémentaire, le père de Melly
+Various rewards:<<n>>- Prettier exteriors<<n>>- Passive Town income +1000 per week<<n>>- A new Park with new PNJs and a quest
+Récompenses multiples :<<n>>- Extérieurs plus jolis<<n>>- Revenu passif +1000 par semaine<<n>>- Un nouveau parc avec des PNJs et une quête
+Poké Dolls
+Poké Poupées
+Bring Ernest 2 Poké Dolls
+Amenez 2 Poké Poupées à Ernest
+Your Town (little park)
+Votre ville (petit parc)
+Ernest wants to gift his grandchildren some Poké Dolls. Bring him two!
+Ernest veut offrir des Poké Poupées à ses petits-enfants. Apportez-lui en deux !
+Lend a Falinks
+Prêt d'Hexadron
+Academy's Teacher
+Enseignant de l'Académie
+Lend a Falinks to an academy's teacher
+Prêtez un Hexadron à l'enseignant
+A teacher in the Academy wants to show a Falinks to their student. Catch one and lend it to the teacher!
+Un enseignant de l'Académie veut montrer un Hexadron à ses étudiants. Capturez-en un et prêtez-le à l'enseignant !
+Prologue: Beginning your journey
+Prologue : Débuter votre aventure
+Chapter 1: Becoming a Gym Leader
+Chapitre 1 : Devenir Champion d'Arène
+Interlude: First week at work
+Interlude : Première semaine de travail
+Chapter 2: Get to rank 2
+Chapitre 2 : Monter de rang
+Progress as a Gym leader by completing sub-goals (quests called Ch.2-A, Ch.2-B and Ch.2-C), and get to rank 2 by winning the rank up battle.
+Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch2-A, Ch4-B et Ch4-C), et devenez rang 2 en gagnant le combat de rang.
+Ch.2-A: Get to fame level 3
+Ch.2-A: Atteindre le niveau de fame 3
+Ch.2-B: Get Sombake badge
+Ch.2-B: Obtenir le badge de Sombake
+Ch.2-C: Free the Daycare
+Ch.2-C: Libérer la Pension
+Chapter 3: Bigger and better
+Chapitre 3 : Les choses en grand
+Progress as a Gym leader by completing sub-goals (quests called Ch.3-A, Ch.3-B and Ch.3-C), and get to rank 3 by winning the rank up battle.
+Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch4-A, Ch4-B et Ch4-C), et devenez rang 3 en gagnant le combat de rang.
+Ch.3-A: Get to fame level 6
+Ch.3-A: Atteindre le niveau de fame 6
+Ch.3-B: Get Greymoose badge
+Ch.3-B: Obtenir le badge de Sombake
+Ch.3-C: Another Gym trainer
+Ch.3-C: Un autre dresseur d'Arène
+Various rewards:<<n>>- Prettier exteriors<<n>>- Passive Town income +1000 per week<<n>>- A new Park with new NPCs and a quest
+Récompenses multiples :<<n>>- Extérieurs plus jolis<<n>>- Revenu passif +1000 par semaine<<n>>- Un nouveau parc avec des PNJs et une quête
+Return the books to the library
+Ramener les livres à la bibliothèque
+You've reached the current limit of your relationship with Maple
+Vous avez atteint la limite actuelle de votre relation avec Maple.
+Complete his current quests to improve it further.
+Complete his current quests to improve it further.
+Complete his current quest to improve it further.
+Terminez sa quête actuelle pour continuer de l'améliorer.
+You've reached the current limit of your relationship with Marley
+Vous avez atteint la limite actuelle de votre relation avec Marley.
+You've reached the current limit of your relationship with the Nurses
+Vous avez atteint la limite actuelle de votre relation avec les Infirmières.
+You've reached the current limit of your relationship with Melly
+Vous avez atteint la limite actuelle de votre relation avec Melly.
+You've reached the current limit of your relationship with Samy
+Vous avez atteint la limite actuelle de votre relation avec Samy.
+You've reached the current limit of your relationship with Kiana
+Vous avez atteint la limite actuelle de votre relation avec Kiana.
+You've reached the current limit of your relationship with \<<r>>n
+Vous avez atteint la limite actuelle de votre relation avec \<<r>>n.
+You've reached the current limit of your relationship with the Normal Leader
+Vous avez atteint la limite actuelle de votre relation avec le Leader Normal.
+<b><c3=98ff98,1b621b>Kathleen:</b></c> Hey \pn, I think we've became great friends no?
+<b><c3=98ff98,1b621b>Kathleen:</b></c> Hey \pn, je crois qu'on est devenu des supers amis non ?
+<b><c3=98ff98,1b621b>Kathleen:</b></c> I love gifting things to my great friends, take this egg!
+<b><c3=98ff98,1b621b>Kathleen:</b></c> J'adore offrir des trucs à mes supers amis, prends cet oeuf !
+<b><c3=98ff98,1b621b>Kathleen:</b></c> See ya!
+<b><c3=98ff98,1b621b>Kathleen:</b></c> A plus !
+You've reached the current limit of your relationship with Kathleen
+Vous avez atteint la limite actuelle de votre relation avec Kathleen.
+<b>\c[7]Cassian:</b>\c[0] Hey \pn, I really value our relationship!
+<b>\c[7]Cassian:</b>\c[0] Hey \pn, j'accorde beaucoup d'importance à notre relation !
+<b>\c[7]Cassian:</b>\c[0] Why don't you take this egg as a token of friendship!
+<b>\c[7]Cassian:</b>\c[0] Pourquoi tu ne prendrais pas cet oeuf comme preuve d'amitié !
+You've reached the current limit of your relationship with Cassian
+Vous avez atteint la limite actuelle de votre relation avec Cassian.
+Various rewards:<<n>>- A lot of PNJs, quests, items...<<n>>- Passive town income + 1500<<n>>- Passive fame +5 per week
+Récompenses variées :<<n>>- Des PNJ, des quêtes, des objets...<<n>>- Revenu passif de la ville +1500$ par semaine<<n>>- Réputation passive +5 par semaine.
+Melly second training battle (lvl 40+)
+Melly second training battle (lvl 40+)

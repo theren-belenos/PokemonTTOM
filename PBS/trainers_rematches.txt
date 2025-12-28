@@ -1,5 +1,39 @@
 ﻿#-----------------------------------------------
 #
+# 	NL rematches // rank 1
+#
+#-----------------------------------------------
+[KATHLEENNL,Normal Leader,1]
+Items = SUPERPOTION
+LoseText = ...
+Pokemon = UNFEZANT,38
+	Item = NORMALGEM
+	EV = 20,100,0,100,0,0
+Pokemon = CYCLIZAR,39
+	EV = 20,100,0,100,0,0
+Pokemon = URSARING,39
+	EV = 20,100,100,0,0,0
+Pokemon = DITTO,41
+	Item = SITRUSBERRY
+	AbilityIndex = 2
+	
+[CASSIANNL,Normal Leader,1]
+Items = SUPERPOTION
+LoseText = ...
+Pokemon = UNFEZANT,43
+	Item = NORMALGEM
+	EV = 20,100,0,100,0,0
+Pokemon = CYCLIZAR,44
+	EV = 20,100,0,100,0,0
+Pokemon = URSARING,44
+	EV = 20,100,100,0,0,0
+Pokemon = DITTO,46
+	Item = SITRUSBERRY
+	AbilityIndex = 2
+
+
+#-----------------------------------------------
+#
 # 	Kathleen rematches
 #
 #-----------------------------------------------
@@ -18,21 +52,5 @@ Pokemon = VESPIQUEN,41
     EV = 20,0,100,0,0,100
 	Item = SITRUSBERRY
 	
-#-----------------------------------------------
-#
-# 	NL rematches
-#
-#-----------------------------------------------
-[KATHLEENNL,Normal Leader,1]
-Items = SUPERPOTION
-LoseText = ...
-Pokemon = TRANQUILL,38
-	Item = NORMALGEM
-	EV = 20,100,0,100,0,0
-Pokemon = CYCLIZAR,39
-	EV = 20,100,0,100,0,0
-Pokemon = URSARING,39
-	EV = 20,100,100,0,0,0
-Pokemon = DITTO,41
-	Item = SITRUSBERRY
-	AbilityIndex = 2
+
+	

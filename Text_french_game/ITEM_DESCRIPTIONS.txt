@@ -602,3 +602,5 @@ A scarf. You don't know it's owner. It's partially covered by sand.
 Un foulard. Vous ne savez pas à qui il appartient. Il est partiellement couvert de sable.
 A package the nurses of your town gave to you. You have to deliver it to other Pokémon Centers in Nekanta north-west
 Un colis que les infirmières de votre ville vous ont donné. A livrer aux autres Centres Pokémon du nord ouest Nekanta
+A book borrowed by a student at the library. Find all 3 of them!
+Un livre emprunté par un étudiant à la bibliothèque. Trouvez-les tous les 3 !

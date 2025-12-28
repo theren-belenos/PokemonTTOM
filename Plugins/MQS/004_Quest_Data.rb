@@ -6,10 +6,10 @@ module QuestModule
 	#
 	##############################################################################
   
-	# Chapter 1
+	# Prologue
 	MainQuest1 = {
 		:ID => "MQ1",
-		:Name => _INTL("Chapter 1: Beginning your journey"),
+		:Name => _INTL("Prologue: Beginning your journey"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Head outside"),
 		:Stage2 => _INTL("Find Melly in Route 1"),
@@ -21,42 +21,29 @@ module QuestModule
 		:RewardString => ""
 	}
 
-	# Chapter 2
+	# Chapter I
 	MainQuest2 = {
 		:ID => "MQ2",
-		:Name => _INTL("Chapter 2: Becoming a Gym Leader"),
+		:Name => _INTL("Chapter 1: Becoming a Gym Leader"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Reach the Pokémon League"),
 		:Stage2 => _INTL("Obtain the badge"),
 		:Stage3 => _INTL("Win the rank up battle"),
 		:Stage4 => _INTL("Speak to Prof Maple"),
+		:Stage5 => _INTL("Finish the first week"),
 		:Location1 => _INTL("Central Town"),
 		:Location2 => "Pokémon League",
 		:Location3 => "Pokémon League",
 		:Location4 => "Pokémon Lab",
+		:Location5 => _INTL("Your Gym"),
 		:QuestDescription => _INTL("Travel to the Pokémon League to become a true Gym Leader!"),
 		:RewardString => ""
 	}
 
-	# Chapter 3
-	MainQuest3 = {
-		:ID => "MQ3",
-		:Name => _INTL("Chapter 3: First week at work"),
-		:QuestGiver => "Prof Maple",
-		:Stage1 => _INTL("Go to sleep"),
-		:Stage2 => _INTL("Speak to Prof Maple"),
-		:Stage3 => _INTL("Finish the first week"),
-		:Location1 => _INTL("Pokemon Lab (upstairs)"),
-		:Location2 => _INTL("Your Gym"),
-		:Location3 => "/",
-		:QuestDescription => _INTL("Learn the ropes of being a Gym Leader by opening the Gym for your first week !"),
-		:RewardString => ""
-	}
-
-	# Chapter 4
+	# Chapter 2
 	MainQuest4 = {
 		:ID => "MQ4",
-		:Name => _INTL("Chapter 4: Get to rank 2"),
+		:Name => _INTL("Chapter 2: Get to rank 2"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Complete Sub-goals (0/3)"),
 		:Stage2 => _INTL("Complete Sub-goals (1/3)"),
@@ -68,13 +55,13 @@ module QuestModule
 		:Location3 => "/",
 		:Location4 => "Pokémon League",
 		:Location5 => "/",
-		:QuestDescription => _INTL("Progress as a Gym leader by completing sub-goals (quests called Ch.4-A, Ch.4-B and Ch.4-C), and get to rank 2 by winning the rank up battle."),
+		:QuestDescription => _INTL("Progress as a Gym leader by completing sub-goals (quests called Ch.2-A, Ch.2-B and Ch.2-C), and get to rank 2 by winning the rank up battle."),
 		:RewardString => "Rank up"
 	}
 
 	MainQuest4A = {
 		:ID => "MQ4A",
-		:Name => _INTL("Ch.4-A: Get to fame level 3"),
+		:Name => _INTL("Ch.2-A: Get to fame level 3"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Get to fame level 3"),
 		:Location1 => "/",
@@ -84,7 +71,7 @@ module QuestModule
 
 	MainQuest4B = {
 		:ID => "MQ4B",
-		:Name => _INTL("Ch.4-B: Get Sombake badge"),
+		:Name => _INTL("Ch.2-B: Get Sombake badge"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Get Sombake Gym's badge"),
 		:Location1 => _INTL("Sombake Gym"),
@@ -94,7 +81,7 @@ module QuestModule
 
 	MainQuest4C = {
 		:ID => "MQ4C",
-		:Name => _INTL("Ch.4-C: Free the Daycare"),
+		:Name => _INTL("Ch.2-C: Free the Daycare"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Gain access to the Daycare"),
 		:Location1 => "/",
@@ -102,10 +89,10 @@ module QuestModule
 		:RewardString => ""
 	}
 	
-	# Chapter 5
-	MainQuest5 = {
-		:ID => "MQ5",
-		:Name => _INTL("Chapter 5: Bigger and better"),
+	# Chapter 3
+	MainQuestCh3 = {
+		:ID => "MQCh3",
+		:Name => _INTL("Chapter 3: Bigger and better"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Complete Sub-goals (0/3)"),
 		:Stage2 => _INTL("Complete Sub-goals (1/3)"),
@@ -117,13 +104,13 @@ module QuestModule
 		:Location3 => "/",
 		:Location4 => "Pokémon League",
 		:Location5 => "/",
-		:QuestDescription => _INTL("Progress as a Gym leader by completing sub-goals (quests called Ch.5-A, Ch.5-B and Ch.5-C), and get to rank 3 by winning the rank up battle."),
+		:QuestDescription => _INTL("Progress as a Gym leader by completing sub-goals (quests called Ch.3-A, Ch.3-B and Ch.3-C), and get to rank 3 by winning the rank up battle."),
 		:RewardString => "Rank up"
 	}
 
-	MainQuest5A = {
-		:ID => "MQ5A",
-		:Name => _INTL("Ch.4-A: Get to fame level 6"),
+	MainQuestCh3A = {
+		:ID => "MQCh3A",
+		:Name => _INTL("Ch.3-A: Get to fame level 6"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Get to fame level 6"),
 		:Location1 => "/",
@@ -131,9 +118,9 @@ module QuestModule
 		:RewardString => ""
 	}
 
-	MainQuest5B = {
-		:ID => "MQ5B",
-		:Name => _INTL("Ch.5-B: Get Greymoose badge"),
+	MainQuestCh3B = {
+		:ID => "MQCh3B",
+		:Name => _INTL("Ch.3-B: Get Greymoose badge"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Get Greymoose Gym's badge"),
 		:Location1 => _INTL("Greymoose Gym"),
@@ -141,13 +128,14 @@ module QuestModule
 		:RewardString => ""
 	}
 
-	MainQuest5C = {
-		:ID => "MQ5C",
-		:Name => _INTL("Ch.5-C: Another Gym trainer"),
+	MainQuestCh3C = {
+		:ID => "MQCh3C",
+		:Name => _INTL("Ch.3-C: Another Gym trainer"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Complete both goals (0/2)"),
-		:Stage1 => _INTL("Complete both goals (1/2)"),
+		:Stage2 => _INTL("Complete both goals (1/2)"),
 		:Location1 => "/",
+		:Location2 => "/",
 		:QuestDescription => _INTL('Complete the city task n°17 : "Gym Team - Second trainer" and find someone who can become the second trainer of your Gym.'),
 		:RewardString => ""
 	}
@@ -215,6 +203,34 @@ module QuestModule
 		:Location1 => _INTL("Pokémon Lab"),
 		:QuestDescription => _INTL("Pat needs yellow shards to upgrade your Pokegear. Find 5 and bring it to him!"),
 		:RewardString => "???"
+	}
+	
+	# Librarian Quest in the Academy
+	ItemQuest6 = {
+		:ID => "IQ6",
+		:Name => _INTL("Return the books"),
+		:QuestGiver => "Librarian",
+		:Stage1 => _INTL("Get all 3 books (0/3)"),
+		:Stage2 => _INTL("Get all 3 books (1/3)"),
+		:Stage3 => _INTL("Get all 3 books (2/3)"),
+		:Stage4 => _INTL("Return the books to the library"),
+		:Location1 => _INTL("Academy"),
+		:Location2 => _INTL("Academy"),
+		:Location3 => _INTL("Academy"),
+		:Location4 => _INTL("Academy's library"),
+		:QuestDescription => _INTL("Some students didn't return a book to the library. Go ask them for the books. Their names are Alex Nodier, Justine Lertimen and Mark Morton."),
+		:RewardString => "???"
+	}
+	
+	# Ernest wants to gift Pokedolls
+	ItemQuest7 = {
+		:ID => "IQ7",
+		:Name => _INTL("Poké Dolls"),
+		:QuestGiver => "Ernest",
+		:Stage1 => _INTL("Bring Ernest 2 Poké Dolls"),
+		:Location1 => _INTL("Your Town (little park)"),
+		:QuestDescription => _INTL("Ernest wants to gift his grandchildren some Poké Dolls. Bring him two!"),
+		:RewardString => "5 Ultra Balls"
 	}
 	
   ##############################################################################
@@ -316,13 +332,24 @@ module QuestModule
 	
 	# Show two babies Pokémon to the DayCare lady
 	PokemonQuest4 = {
-		:ID => "PQ1",
+		:ID => "PQ4",
 		:Name => _INTL("Pokémon babies"),
 		:QuestGiver => _INTL("DayCare lady"),
 		:Stage1 => _INTL("Show two baby Pokémons to the DayCare lady"),
 		:Location1 => _INTL("DayCare"),
 		:QuestDescription => _INTL("The Day-Care lady loves baby Pokémons! She asked you to show her two baby Pokémons (from different species).\nList of baby Pokémons: Pichu Cleffa Igglybuff Togepi Tyrogue Smoochum Elekid Magby Azurill Wynaut Budew Chingling Bonsly MimeJr Happiny Munchlax Riolu Mantyke Toxel."),
 		:RewardString => _INTL("A useful Pokémon for breeding...")
+	}
+	
+	# Lend a Falinks to an academy teacher
+	PokemonQuest5 = {
+		:ID => "PQ5",
+		:Name => _INTL("Lend a Falinks"),
+		:QuestGiver => _INTL("Academy's Teacher"),
+		:Stage1 => _INTL("Lend a Falinks to an academy's teacher"),
+		:Location1 => _INTL("Academy"),
+		:QuestDescription => _INTL("A teacher in the Academy wants to show a Falinks to their student. Catch one and lend it to the teacher!"),
+		:RewardString => _INTL("???")
 	}
   
   ##############################################################################
@@ -475,7 +502,7 @@ module QuestModule
 
 	MellyQuest3= {
 		:ID => "MellyQ3",
-		:Name => _INTL("Melly second training battle (lvl 35+)"),
+		:Name => _INTL("Melly second training battle (lvl 40+)"),
 		:QuestGiver => "Melly",
 		:Stage1 => _INTL("Have another training battle with Melly"),
 		:Location1 => _INTL("Your Gym or Melly's house."),
@@ -601,22 +628,21 @@ module QuestModule
 	  
 	NursesQuest3= {
 		:ID => "NursesQ3",
-		:Name => _INTL("Healing abilities"),
-		:QuestGiver => _INTL("Nurses"),
-		:Stage1 => _INTL("Show a Pokémon with a healing ability"),
-		:Location1 => _INTL("Pokémon Center of your town"),
-		:QuestDescription => _INTL("The nurses explained to you that some Pokémons have abilities that can heal itselves or its friends. Go catch and show them a Pokémon with one of these abilities : Medic Nature, Regenerator (...)"),
-		:RewardString => _INTL("Nurses relation up.")
-	}
-	  
-	  
-	NursesQuest4= {
-		:ID => "NursesQ4",
 		:Name => _INTL("Healing moves"),
 		:QuestGiver => _INTL("Nurses"),
 		:Stage1 => _INTL("Show a Pokémon which knows healing move"),
 		:Location1 => _INTL("Pokémon Center of your town"),
 		:QuestDescription => _INTL("The nurses explained to you that some Pokémons can learn moves that heal its battle partner. Show them a Pokémon which knows one of these moves : Pollen Puff, (...)"),
+		:RewardString => _INTL("Nurses relation up.")
+	}
+	  
+	NursesQuest4= {
+		:ID => "NursesQ4",
+		:Name => _INTL("Healing abilities"),
+		:QuestGiver => _INTL("Nurses"),
+		:Stage1 => _INTL("Show a Pokémon with a healing ability"),
+		:Location1 => _INTL("Pokémon Center of your town"),
+		:QuestDescription => _INTL("The nurses explained to you that some Pokémons have abilities that can heal itselves or its friends. Go catch and show them a Pokémon with one of these abilities : Medic Nature, Regenerator (...)"),
 		:RewardString => _INTL("Nurses relation up.")
 	}
 	  

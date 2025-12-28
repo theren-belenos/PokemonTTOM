@@ -7,6 +7,16 @@
 LoseText = Hehe, you're strong!
 Pokemon = SPHEAL,2
 	Moves = POWDERSNOW
+#-----------------------------------------------
+#
+#		Main Town trainers
+#
+#-----------------------------------------------
+[POKEMANIAC,Mark]
+LoseText = Whaaaaat? But... but who are you?
+Pokemon = VELUZA,24
+Pokemon = KILOWATTREL,25
+Pokemon = THIEVUL,27
 
 #-----------------------------------------------
 #

@@ -636,3 +636,5 @@ Scarf
 Foulard
 Medical Package
 Colis Médical
+Borrowed Book
+Livre Emprunté

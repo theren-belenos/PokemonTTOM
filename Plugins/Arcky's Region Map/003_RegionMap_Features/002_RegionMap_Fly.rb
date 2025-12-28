@@ -164,7 +164,7 @@ class PokemonRegionMap_Scene
 		end
 		if confirmMessageMap(_INTL("Do you really want to do this task ?"))
 			case infos[2]
-			when 7, 10, 15, 16, 17, 20
+			when 7, 10, 15, 16, 17, 20, 24
 				pbPlayLevelUpSE
 				$town.build(infos[2])
 				pbMessage(_INTL("This task was done!"))

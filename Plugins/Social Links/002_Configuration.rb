@@ -471,7 +471,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLBUG,
+    :id             => :NLBug,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -491,7 +491,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLROCK,
+    :id             => :NLRock,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -501,7 +501,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLGRASS,
+    :id             => :NLGrass,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -511,7 +511,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLGROUND,
+    :id             => :NLGround,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -521,7 +521,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLFLYING,
+    :id             => :NLFlying,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -531,7 +531,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLICE,
+    :id             => :NLIce,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -541,7 +541,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLPSYCHIC,
+    :id             => :NLPsychic,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -551,7 +551,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLELECTRIC,
+    :id             => :NLElectric,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -561,7 +561,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLFIGHTING,
+    :id             => :NLFighting,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -571,7 +571,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLWATER,
+    :id             => :NLWater,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),
@@ -581,7 +581,7 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
-    :id             => :NLDRAGON,
+    :id             => :NLDragon,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
     :init_location  => _INTL("Sombake"),

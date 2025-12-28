@@ -271,6 +271,6 @@ Arène Normale
 Bug Gym
 Arène Insecte
 Wetland Cave
-Grotte détrempée
+Grotte Détrempée
 Dark Tunnel
 Tunnel Sombre

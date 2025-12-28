@@ -9,7 +9,9 @@ Route 1
 Route 2
 Route 2
 Geodude Pit
-Fosse racaillou
+Fosse Racaillou
+Dark Tunnel
+Tunnel Sombre
 Route 3
 Route 3
 Central Town
@@ -32,6 +34,8 @@ Forêt Verdoyante (ouest)
 ???
 Route 7
 Route 7
+Wetland Cave
+Grotte Détrempée
 Route 8
 Route 8
 Sombake

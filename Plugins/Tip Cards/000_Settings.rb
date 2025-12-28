@@ -737,19 +737,19 @@ module Settings
 				:Stars => 2
 			},
 			
-			:PUNKMALE => {
+			:PUNKTRAINERMALE => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Punk &m;"),
-                :Image => "PUNKMALE",
+                :Image => "PUNKTRAINERMALE",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:Stars => 2
 			},
 			
-			:PUNKFEMALE => {
+			:PUNKTRAINERFEMALE => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Punk &f;"),
-                :Image => "PUNKFEMALE",
+                :Image => "PUNKTRAINERFEMALE",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:Stars => 2
@@ -2048,7 +2048,7 @@ module Settings
 			},
 			:TOWNDEV21REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards:\n- Melly will be glad!\n- An additionnal worker, Melly's mother\n- Unlocks the name changer, Melly's father"),
+                :Text => _INTL("Various rewards:\n- Melly will be glad!\n- An additionnal worker, Melly's father"),
                 :Background => "bg2",
 			},
 			
@@ -2060,7 +2060,7 @@ module Settings
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 0,
-				:Workers => 2,
+				:Workers => 1,
 				:BuildingIndex => 22
 			},
 			:TOWNDEV22REWARDS => {
@@ -2077,12 +2077,12 @@ module Settings
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 5000,
-				:Workers => 2,
+				:Workers => 1,
 				:BuildingIndex => 23
 			},
 			:TOWNDEV23REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards:\n- Prettier exteriors\n- Passive Town income +1000 per week\n- A new Park with new PNJs and quests"),
+                :Text => _INTL("Various rewards:\n- Prettier exteriors\n- Passive Town income +1000 per week\n- A new Park with new NPCs and a quest"),
                 :Background => "bg2",
 			},
 			
@@ -2093,7 +2093,8 @@ module Settings
 				:ImagePosition => :Top,
                 :Background => "bg2",
 				:Funds => 2000,
-				:Workers => 1,
+				:Workers => 0,
+				:Instant => 1,
 				:BuildingIndex => 24
 			},
 			:TOWNDEV24REWARDS => {
@@ -2115,7 +2116,7 @@ module Settings
 			},
 			:TOWNDEV25REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards:\n- A lot of PNJs, quests, items...\n- Passive town income + 1500\n- Passive fame +10 per week"),
+                :Text => _INTL("Various rewards:\n- A lot of PNJs, quests, items...\n- Passive town income + 1500\n- Passive fame +5 per week"),
                 :Background => "bg2",
 			},
 			

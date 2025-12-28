@@ -266,14 +266,12 @@ class PokemonRegionMap_Scene
     @oldLineCount = nil
     getPreviewWeather if !@flyMap
 	return if @mode == 1 && limit > @mapY
-    #@sprites["mapbottom"].maplocation = pbGetMapLocation(@mapX, @mapY, flag)
     @sprites["mapbottom"].maplocation = _INTL(pbGetMapLocation(@mapX, @mapY, flag))
 	if @sprites["mapbottom"].maplocation == "MainTown"
 		@sprites["mapbottom"].maplocation = $town.name
 	end
     @sprites["mapbottom"].mapdetails  = pbGetMapDetails(@mapX, @mapY)
     @sprites["mapbottom"].previewName = [getPreviewName(@mapX, @mapY), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
-    #@sprites["mapbottom"].previewName = [_INTL(getPreviewName(@mapX, @mapY)), @previewWidth] if @mode == 2 || @mode == 3 || @mode == 4
   end
 
   def addPlayerIconSprite
@@ -337,7 +335,7 @@ class PokemonRegionMap_Scene
       @timer += 1 if @timer
       toggleButtonBox(opacityBox) if @modeCount >= 2
       updateButtonInfo if @previewBox.isShown && !ARMSettings::ButtonBoxPosition.nil?
-      #animatePreviewBox if previewAnimation
+      animatePreviewBox if previewAnimation
       if @zoomTriggered
         @sprites["cursor"].x = lerp(@ZoomValues[:begin][:cursor][:x], @ZoomValues[:end][:cursor][:x], @zoomSpeed, @distPerFrame, System.uptime)
         @sprites["cursor"].y = lerp(@ZoomValues[:begin][:cursor][:y], @ZoomValues[:end][:cursor][:y], @zoomSpeed, @distPerFrame, System.uptime)
@@ -409,7 +407,7 @@ class PokemonRegionMap_Scene
       choice = canActivateQuickFly(lastChoiceFly, cursor) if @mode == 1
       updateCursorPosition(ox, oy, cursor) if (ox != 0 || oy != 0) && !previewAnimation
       updateMapPosition(mox, moy, map) if (mox != 0 || moy != 0) && !previewAnimation
-      #updatePreviewBox if @previewBox.canUpdate
+      updatePreviewBox if @previewBox.canUpdate
       showAndUpdateMapInfo if (@mapX != cursor[:oldX] || @mapY != cursor[:oldY]) && @previewBox.isUpdateAnim || @previewBox.isHidden
       if !@wallmap
         if (Input.trigger?(ARMSettings::ShowLocationButton) && @mode == 0 && ARMSettings::UseLocationPreview) && getLocationInfo && !@previewBox.isShown && !previewAnimation
@@ -564,15 +562,15 @@ class PokemonRegionMap_Scene
     cursor[:newX] = @sprites["cursor"].x + cursor[:offsetX]
     cursor[:newY] = @sprites["cursor"].y + cursor[:offsetY]
     # Hide Preview when moving cursor.
-    #if @previewBox.isShown
-    #  if @mode == 0 && @curLocName == pbGetMapLocation(@mapX, @mapY)
-     #   @previewBox.updateIt
-     #   updatePreviewBox
-      #else
-      #  @previewBox.hideIt
-       # hidePreviewBox
-      #end
-    #end
+    if @previewBox.isShown
+      if @mode == 0 && @curLocName == pbGetMapLocation(@mapX, @mapY)
+        @previewBox.updateIt
+        updatePreviewBox
+      else
+        @previewBox.hideIt
+        hidePreviewBox
+      end
+    end
     @distPerFrame = System.uptime if ENGINE21
   end
 

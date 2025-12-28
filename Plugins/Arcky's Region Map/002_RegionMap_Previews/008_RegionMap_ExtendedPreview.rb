@@ -124,7 +124,7 @@ class PokemonRegionMap_Scene
     gameMaps = []
     GameData::MapMetadata.each do |gameMap|
       mapPos = gameMap.town_map_position
-      next unless (!mapPos.nil? && pbGetMapLocation(@mapX, @mapY) == gameMap.name) ||
+	  next unless (!mapPos.nil? && pbGetMapLocation(@mapX, @mapY) == gameMap.name) ||
                   (gameMap.name.include?($player.name) || gameMap.name.include?("\\v[") || gameMap.name == $town.name || gameMap.name == "TN") &&
                   gameMap.town_map_position == [@region, @mapX, @mapY]
       next if gameMap.has_flag?("DisExtPrev")
@@ -242,15 +242,6 @@ class PokemonRegionMap_Scene
     boxY = 4
     lines = 4
     reduce = 0
-	puts @data
-	puts "datanil"
-	puts @data.nil?
-	puts "datawild"
-	#puts @data[:wild]
-	#puts "datatrainer"
-	puts @data[:trainers]
-	puts "dataitems"
-	puts @data[:items]
     #unless @data.nil? || [@data[:wild], @data[:trainers], @data[:items]].all? { |value| value[0].include?("No") || value[0] == "Disabled" }
     unless @data.nil? || [@data[:trainers], @data[:items]].all? { |value| value[0].include?("No") || value[0] == "Disabled" }
       [@data[:wild], @data[:trainers], @data[:items]].each_with_index do |data, index|

@@ -415,7 +415,7 @@ Name = Fossilized Bird
 NamePlural = Fossilized Birds
 Pocket = 1
 Price = 5000
-Flags = Fling_100
+Flags = Fossil, Fling_100
 Description = The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.
 #-------------------------------
 [FOSSILIZEDFISH]
@@ -423,7 +423,7 @@ Name = Fossilized Fish
 NamePlural = Fossilized Fish
 Pocket = 1
 Price = 5000
-Flags = Fling_100
+Flags = Fossil, Fling_100
 Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
 #-------------------------------
 [FOSSILIZEDDRAKE]
@@ -431,7 +431,7 @@ Name = Fossilized Drake
 NamePlural = Fossilized Drakes
 Pocket = 1
 Price = 5000
-Flags = Fling_100
+Flags = Fossil, Fling_100
 Description = The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.
 #-------------------------------
 [FOSSILIZEDDINO]
@@ -439,7 +439,7 @@ Name = Fossilized Dino
 NamePlural = Fossilized Dinos
 Pocket = 1
 Price = 5000
-Flags = Fling_100
+Flags = Fossil, Fling_100
 Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
 #-------------------------------
 [PRETTYFEATHER]
@@ -4053,10 +4053,9 @@ Description = A very convenient map that can be viewed anytime. It even shows yo
 [ESCAPEROPE]
 Name = Escape Rope
 NamePlural = Escape Ropes
-Pocket = 8
-Price = 0
+Pocket = 1
+Price = 500
 FieldUse = Direct
-Flags = KeyItem
 Description = A long, durable rope. Use it to escape instantly from a cave or a dungeon.
 #-------------------------------
 [COINCASE]

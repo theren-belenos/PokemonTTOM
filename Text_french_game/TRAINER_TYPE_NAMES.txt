@@ -67,7 +67,11 @@ Majordome
 Punk Trainer
 Vaurien
 Maid
-Maid
+Gouvernante
+Delinquant
+Terreur
+Firebreather
+Crache-Feu
 Team Absolution
 Team Absolution
 Absolution Admin

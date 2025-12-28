@@ -129,3 +129,136 @@ LoseText = Oww, so strong!
 Pokemon = WOOBAT,19
 Pokemon = PHANTUMP,19
 Pokemon = DEDENNE,21
+
+
+#-----------------------------------------------
+#
+# 	Second Melly Training
+#
+#-----------------------------------------------
+[MELLY,Melly_Training2_Normal]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = SNORLAX,41
+#-------------------------------
+[MELLY,Melly_Training2_Grass]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = CHERRIM,42
+#-------------------------------
+[MELLY,Melly_Training2_Fire]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = MAGMAR,21
+#-------------------------------
+[MELLY,Melly_Training2_Water]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = MANTINE,41
+#-------------------------------
+[MELLY,Melly_Training2_Electric]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = PACHIRISU,42
+#-------------------------------
+[MELLY,Melly_Training2_Fighting]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = HITMONTOP,41
+#-------------------------------
+[MELLY,Melly_Training2_Poison]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = CLODSIRE,41
+#-------------------------------
+[MELLY,Melly_Training2_Ground]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = QUAGSIRE,41
+#-------------------------------
+[MELLY,Melly_Training2_Flying]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = ORICORIO,42
+#-------------------------------
+[MELLY,Melly_Training2_Psychic]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = WOBBUFFET,41
+#-------------------------------
+[MELLY,Melly_Training2_Bug]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = RIBOMBEE,42
+#-------------------------------
+[MELLY,Melly_Training2_Rock]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = SUDOWOODO,41
+#-------------------------------
+[MELLY,Melly_Training2_Ghost]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = MIMIKYU,41
+#-------------------------------
+[MELLY,Melly_Training2_Ice]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = JYNX,41
+#-------------------------------
+[MELLY,Melly_Training2_Dragon]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = ALTARIA,41
+#-------------------------------
+[MELLY,Melly_Training2_Dark]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = MORPEKO,41
+#-------------------------------
+[MELLY,Melly_Training2_Steel]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = TOGEDEMARU,41
+#-------------------------------
+[MELLY,Melly_Training2_Fairy]
+LoseText = Oww, so strong!
+Pokemon = KLEFKI,38
+Pokemon = SWOOBAT,39
+Pokemon = TREVENANT,39
+Pokemon = DEDENNE,41
+

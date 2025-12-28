@@ -29,7 +29,7 @@ Pokemon = GIMMIGHOUL,14
 #-------------------------------
 [CAMPERGIRL,Lucy,2]
 #IntroText = I was taught how to navigate the forest!
-LoseText = Oh but it's no use in a pokemon battle...
+LoseText = Oh but it's no use in a Pokémon battle...
 #WinText = I don't exactly know but i'm sure it help me win!
 Items = BERRYJUICE, ANTIDOTE
 
@@ -115,7 +115,7 @@ Pokemon = GREAVARD, 15
 #-------------------------------
 [TUBERBOY,Lucas,2]
 #IntroText = Do you know what's more fun than playing in mud? Battling juste after!
-LoseText = I don't even know why i'm dressing like that to play in mud...
+LoseText = I don't even know why I'm dressing like that to play in mud...
 #WinText = Another glorious victory for MUD BOY!!!
 
 Pokemon = MUDBRAY, 14
@@ -133,10 +133,10 @@ Pokemon = WOOPER, 14
     EV = 35,35,35,35,35,35
     Ball = POKEBALL						
 #-------------------------------
-[RICHBOY,REGIS,2]
-#IntroText = My familly became rich with our wonderfull steal!
-LoseText = Steal isn't supposed to be imbreakable? 
-#WinText = Hehehe, our steal is the most precious in this world!
+[RICHBOY,Regis,2]
+#IntroText = My familly became rich with our wonderfull steel!
+LoseText = Steel isn't supposed to be imbreakable? 
+#WinText = Hehehe, our steel is the most precious in this world!
 Items = SUPERPOTION
 
 Pokemon = MAGNEMITE, 12
@@ -161,7 +161,7 @@ Pokemon = TINKATINK, 15
     Ball = LUXURYBALL					
 #-------------------------------
 [SCHOOLGIRL,Isa,2]
-#IntroText = Most of my friends are jealous of my pokemons!
+#IntroText = Most of my friends are jealous of my Pokémon!
 LoseText = No! You beat them!
 #WinText = And now, i understand why!
 
@@ -181,7 +181,7 @@ Pokemon = PONYTA, 15
     EV = 35,35,35,35,35,35
     Ball = POKEBALL				      				
 #-------------------------------
-[YOUNGSTER,BRIAN,2]
+[YOUNGSTER,Brian,2]
 #IntroText = I'm such a BADASS! I'm here to fight!
 LoseText = Oh...
 #WinText = Yeah!
@@ -213,7 +213,7 @@ Pokemon = DRAMPA , 16
     EV = 40,40,40,40,40,40
     Ball = LUXURYBALL					
 #-------------------------------
-[TOURISTMALE,BERNY,2]
+[TOURISTMALE,Berny,2]
 #IntroText = Is this the tourist office?
 LoseText = I guess it's not the tourist office.
 #WinText =  What a strange tourist office!
@@ -232,8 +232,8 @@ Pokemon = SALANDIT, 16
 #-------------------------------
 [TOURISTFEMALE,Alexandria,2]
 #IntroText = I lost my husband... He were looking for the tourist office... Anyway, let's fight!
-LoseText = I love fighting local gym leader during our trip! Thank you!
-#WinText = I love fighting local gym leader during our trip! Thank you!
+LoseText = I love fighting local Gym leader during our trip! Thank you!
+#WinText = I love fighting local Gym leader during our trip! Thank you!
 
 Pokemon = TOGEDEMARU, 15
     IV = 12,12,12,12,12,12 
@@ -293,7 +293,7 @@ Pokemon = GYARADOS, 20
     EV = 40,40,40,40,40,40
     Ball = DIVEBALL				
 #-------------------------------
-[POKEMANIAC,DAVID,2]
+[POKEMANIAC,David,2]
 #IntroText = Hey! What's your favorite starter?
 LoseText = Good taste!
 #WinText = Mine is Froakie!
@@ -313,9 +313,9 @@ Pokemon = MONFERNO, 18
     EV = 30,30,30,30,30,30
     Ball = DIVEBALL						
 #-------------------------------
-[GENTLEMAN,M.STANSON,2]
+[GENTLEMAN,M.Stanson,2]
 #IntroText = Let's battle with elegance.
-LoseText = Congretulation! I will stay elegante in defeat.
+LoseText = Congratulations! I will stay elegant in defeat.
 #WinText = A elegante victory!
 
 Pokemon = HONEDGE, 17
@@ -330,7 +330,7 @@ Pokemon = FLOETTE, 19
     IV = 12,12,12,12,12,12 
     EV = 30,30,30,30,30,30			
 #-------------------------------
-[MAID,JOSIE,2]
+[MAID,Josie,2]
 #IntroText = Are you the one who ordered a combat maid?
 LoseText = Oops! Wrong customer!
 #WinText = We hope you enjoyed our services!
@@ -347,7 +347,7 @@ Pokemon = POLTCHAGEIST, 17
     IV = 12,12,12,12,12,12 
     EV = 30,30,30,30,30,30			
 #-------------------------------
-[PUNKTRAINERFEMALE,LYSA,2]
+[PUNKTRAINERFEMALE,Lysa,2]
 #IntroText = Let me show you the way of the pillow!
 LoseText = It will be hard to sleep after that...
 #WinText = Let's celebrate twith a nap!
@@ -368,7 +368,7 @@ Pokemon = SNORLAX,20
 #		3 star trainers
 #
 #-----------------------------------------------
-[TEAMGRUNTFEMALE,GRUNT,1]
+[DELINQUENT,???,2]
 #IntroText = I'm coming for you!
 LoseText = Until next time...
 #WinText = You deserved it!
@@ -392,7 +392,7 @@ Pokemon = HITMONCHAN,22
     IV = 12,12,12,12,12,12 
     EV = 35,35,35,35,35,35
 #-------------------------------
-[CLOWN,BOZO,1]
+[FIREBREATHER,Bozo,2]
 #IntroText = WE WILL HAVE SO MUCH FUN!
 LoseText = Rip Bozo...
 #WinText = Isn't that FUN ???

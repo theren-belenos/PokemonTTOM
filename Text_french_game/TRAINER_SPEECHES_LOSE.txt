@@ -4,6 +4,8 @@
 [TRAINER_SPEECHES_LOSE]
 Hehe, you're strong!
 Hehe, t'es fort !
+Whaaaaat? But... but who are you?
+Quoiiiiii ? Mais... mais t'es qui ?
 My Pokémon is neat right?
 Mon Pokémon est stylé hein ?
 Gotta keep running!
@@ -162,40 +164,40 @@ What a tempest!
 Quelle tempête !
 ...
 ...
-Oh but it's no use in a pokemon battle...
-Oh but it's no use in a pokemon battle...
+Oh but it's no use in a Pokémon battle...
+Oh mais ça ne sert à rien dans un combat de Pokémon…
 Well done young one!
-Well done young one!
-I don't even know why i'm dressing like that to play in mud...
-I don't even know why i'm dressing like that to play in mud...
-Steal isn't supposed to be imbreakable?
-Steal isn't supposed to be imbreakable?
+Bien joué mon petit !
+I don't even know why I'm dressing like that to play in mud...
+Je sais même pas pourquoi je m’habille comme ça pour jouer dans la boue…
+Steel isn't supposed to be imbreakable?
+L’acier n’est pas censé être incassable ?
 No! You beat them!
-No! You beat them!
+Non ! Tu les as battus !
 Oh...
 Oh...
 You're such part of the elite!
-You're such part of the elite!
+Tu fais vraiment partie de l’élite !
 I guess it's not the tourist office.
-I guess it's not the tourist office.
-I love fighting local gym leader during our trip! Thank you!
-I love fighting local gym leader during our trip! Thank you!
+J’imagine que l’office de tourisme n’est pas ici.
+I love fighting local Gym leader during our trip! Thank you!
+J’adore combattre des Arènes locales durant nos voyages ! Merci !
 Huh? It's with the stars? Not the moon?
-Huh? It's with the stars? Not the moon?
+Quoi ? C’est avec les étoiles ? Pas la lune ?
 You tricked me!
-You tricked me!
+Tu m’as jeté un sort !
 Seems we need to train more!
-Seems we need to train more!
+Je crois qu’on a besoin de s’entraîner davantage !
 Good taste!
-Good taste!
-Congretulation! I will stay elegante in defeat.
-Congretulation! I will stay elegante in defeat.
+Bon choix !
+Congratulations! I will stay elegant in defeat.
+Félicitations ! Je resterai élégant dans la défaite.
 Oops! Wrong customer!
-Oops! Wrong customer!
+Oups ! Mauvais client !
 It will be hard to sleep after that...
-It will be hard to sleep after that...
+Pas facile de dormir après ça…
 Until next time...
-Until next time...
+Ce n’est que partie remise…
 Rip Bozo...
 Rip Bozo...
 Wowie! So strong!

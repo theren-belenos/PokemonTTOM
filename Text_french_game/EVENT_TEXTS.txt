@@ -306,14 +306,22 @@ Vous passez du temps à vous détendre dans la chambre de Kathleen. Elle est vra
 <b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 2!
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 2 !
-End of current build. Speak to Maple again after the update to get you new quests.
-Fin du build actuel. Parlez de nouveau à Maple après la prochaine update pour continuer.
-<b>\c[10]Maple:</b>\c[0] Speak to Marley to have the new odds of challengers and stuff like that.
-<b>\c[10]Maple:</b>\c[0] Speak to Marley to have the new odds of challengers and stuff like that.
-<b>\c[10]Maple:</b>\c[0] And let me give you your new quests!
-<b>\c[10]Maple:</b>\c[0] And let me give you your new quests!
-<b>\c[10]Maple:</b>\c[0] See you around!
-<b>\c[10]Maple:</b>\c[0] See you around!
+<b>\c[10]Maple:</b>\c[0] It's a really good thing we can continue forward.
+<b>\c[10]Maple:</b>\c[0] C'est vraiment génial qu'on puisse aller de l'avant.
+<b>\c[10]Maple:</b>\c[0] You did meet a guy named Samy ? And fought again a certain "Team Absolution" ?
+<b>\c[10]Maple:</b>\c[0] Tu as rencontré quelqu'un qui s'appelle Samy ? Et tu as combattu la "Team Absolution" ?
+<b>\c[10]Maple:</b>\c[0] Hmmm... I might have heard some folks at the Nekanta League talking about this.
+<b>\c[10]Maple:</b>\c[0] Hmmm... J'ai peut-être entendu certaines personnnes en parler à la Ligue de Nekanta.
+<b>\c[10]Maple:</b>\c[0] Okay \pn, I will watch this closely. In the meantime, you have to keep growing!
+<b>\c[10]Maple:</b>\c[0] Ok \pn, je vais surveiller ça attentivement. En attendant, tu dois continuer à t'améliorer !
+<b>\c[10]Maple:</b>\c[0] Let me give you your new quests!
+<b>\c[10]Maple:</b>\c[0] Laisse moi te donner tes nouvelles quêtes !
+<b>\c[10]Maple:</b>\c[0] So the next step for you is Greymoose.
+<b>\c[10]Maple:</b>\c[0] Donc la prochaine étape pour toi est Greymoose.
+<b>\c[10]Maple:</b>\c[0] It's a really big city, in our country only Moonyang is bigger!
+<b>\c[10]Maple:</b>\c[0] C'est vraiment une grande ville, dans notre pays seule Moonyang est plus vaste !
+<b>\c[10]Maple:</b>\c[0] Stay safe during your travels \pn, and good luck!
+<b>\c[10]Maple:</b>\c[0] Sois prudent pendant tes voyages \pn, et bonne chance !
 What do you want to know?
 Que voulez-vous savoir ?
 You have 3 options:\n- Full animation
@@ -324,6 +332,16 @@ Which animation style do you want?
 Quel style d’animation voulez-vous ?
 Animation Skip Style updated.
 Style d’animation mis à jour.
+You're currently doing Mono Battles at your Gym.
+Actuellement vous faites des Combats Solo dans votre Arène
+You're currently doing Double Battles at your Gym.
+Actuellement vous faites des Combats Double dans votre Arène
+Change the battle format?
+Changer le format des combats ?
+Mono Battles at the Gym.
+Combats Solo dans l'Arène.
+Double Battles at the Gym.
+Combats Double dans l'Arène.
 Evaluate Pokédex
 Evaluer Pokédex
 Quit
@@ -338,14 +356,20 @@ Gym trainers infos
 Infos des dresseurs de l’arène
 Set skipping settings
 Changer style d’animation
-Cancel
-Annuler
+Double battles
+Combats Double
 Full animation
 Animation complète
 Shortened
 Écourtée
 Skip all
 Tout passer
+Cancel
+Annuler
+Mono Battles
+Combats Solo
+Double Battles
+Combats Double
 #-------------------------------
 [Map001]
 In this game you will play as a Gym master.
@@ -844,6 +868,8 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] Bon, \pn ! Bonne chance et surtout : amuse-toi !
 It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
 Ce n’est pas le soir, vous ne pouvez pas aller dormir ! Allez dans l’Arène pour le jour de travail d’abord !
+<b>Warning: This is for debug purposes.</b> Do you wish to initialize all the challengers lists?
+<b>Warning: This is for debug purposes.</b> Do you wish to initialize all the challengers lists?
 <b>\c[10]Maple:</b>\c[0] So, you want Bunneary, the Rabbit Pokémon? \f[BUNEARY]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Laporeille, le Pokémon Lapin ? \f[BUNEARY]
 <b>\c[10]Maple:</b>\c[0] Do you want Turtwig, the Tiny Leaf Pokémon? \f[TURTWIG]
@@ -1176,10 +1202,38 @@ Nekanta Map
 <b>Etudiante:</b> J'ai hâte de tout apprendre sur les combats Pokémon !!
 You should search for <b>\c[9]Melly</b>\c[0] at the Route 1 first.
 Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
+<b>Student:</b> Haha! Let’s go guys!
+<b>Etudiant:</b> Haha ! Aller les gens !
+...
+...
+<b>Student:</b> I’m Mark Morton now let’s me watch the match.
+<b>Etudiant:</b> Je suis Mark Morton, maintenant laisse moi regarder ce match.
+<b>Student:</b> Hmm? Yeah maybe but can you just leave me alone?
+<b>Etudiant:</b> Hmm ? Ouais peut-être mais tu peux me laisser tranquille ?
+<b>Student:</b> I don’t care what you need, go away!
+<b>Etudiant:</b> je m'en fous de ce que tu veux, va-t'en !
+<b>Student:</b> Holy! You’re so annoying! I will crush you right here!
+<b>Etudiant:</b> Mon Dieu ! T'es tellement énervant ! Je vais t'écraser ici et maintenant !
+<b>Student:</b> Damn, you’re good. Who are you?
+<b>Etudiant:</b> Waow, t'es fort. T'es qui ?
+<b>Student:</b> WHAT??? You’re our Leader???
+<b>Etudiant:</b> QUOI ??? T'es notre Leader ???
+<b>Student:</b> I’m… I’m sorry. I didn't know.
+<b>Etudiant:</b> Je... Je suis désolé. Je savais pas.
+<b>Student:</b> I’m a huge fan of Pokémon battles.
+<b>Etudiant:</b> Je suis un grand fan de combats Pokémon.
+<b>Student:</b> Take the book. And my apologies.
+<b>Etudiant:</b> Accepte ce livre. Et mes excuses.
+<b>Student:</b> I will come to the Gym to watch you battle!
+<b>Etudiant:</b> Je viendrai te voir combattre dans l'Arène !
+<b>Student:</b> Hello Leader how are you?
+<b>Etudiant:</b> Salut Leader, comment vas-tu ?
 <b>Franck:</b> Hey \pn! The Pokémon Center is nearly finished!
 <b>Franck:</b> Hey \pn ! Le Centre Pokémon est presque terminé !
 <b>Tourist:</b> Wow!! This academy is really beautiful!
 <b>Touriste:</b> Wow !! Cette académie est si jolie !
+<b>Tourist:</b> Oh, this town is really charming!
+<b>Touriste:</b> Oh, cette ville est vraiment charmante !
 <b>Lady:</b> Humpf! This is far from being fancy in here…
 <b>Dame:</b> Humpf! C’est loin d’être chic ici…
 <b>Lady:</b> I must admit, this town gets fancier by the day…
@@ -1244,12 +1298,38 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Tourist:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!
 <b>Tourist:</b> J’ai soif! Allons au café!
+<b>Tourist</b> My! What a cute little park!
+<b>Tourist</b> Oh ! Quel joli petit parc !
 \tn's Department Store
 Centre Commercial de \tn
 <b>Amanda:</b> Hello \pn how are you ?
 <b>Amanda:</b> Bonjour \pn comment ça va ?
 <b>Amanda:</b> I can't believe how much you've grown already !
 <b>Amanda:</b> J'arrive pas à croire à quel point tu as grandi !
+<b>Ernest:</b> Hello young \pn, how are you?
+<b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ?
+<b>Ernest:</b> It’s amazing to have this park again! The grandchildren love it!
+<b>Ernest:</b> C'est incroyable de pouvoir à nouveau profiter de ce parc ! Les petits l'adorent !
+<b>Ernest:</b> Say, my dear \pn, can I ask you something?
+<b>Ernest:</b> Dis moi, cher Leader, puis-je te demander quelque chose ?
+<b>Ernest:</b> I want to give my grandchildren a gift. Do you have Poké Dolls ?
+<b>Ernest:</b> J'aimerais offrir un cadeau à mes petits-enfants. Est-ce que tu as des Poké Poupées ?
+<b>Ernest:</b> I would need 2 obviously. I will trade it for 5 Ultra Balls! Interested?
+<b>Ernest:</b> Il m'en faudrait 2 évidemment. Je te les échangerais contre 5 Hyper Balls ! Intéressé ?
+Do you want to give Ernest two Poké Dolls?
+Voulez-vous donner 2 Poké Poupées à Ernest ?
+You give two Poké Dolls to Ernest.
+Vous donnez 2 Poké Poupées à Ernest.
+<b>Ernest:</b> Thanks a lot! The kids will be so happy!
+<b>Ernest:</b> Merci Beaucoup ! Les enfants seront vraiment contents !
+<b>Ernest:</b> See you around \pn, dear Leader!
+<b>Ernest:</b> On se voit plus tard, \pn, cher Leader !
+You don't have enough Poké Dolls !
+Vous n'avez pas assez de Poké Poupées !
+<b>Ernest:</b> Not interested? I’m here if you change your mind!
+<b>Ernest:</b> Pas intéressé ? Je suis là si tu changes d'avis !
+<b>Ernest:</b> Hello young \pn, how are you? Thanks again for the Poké Dolls!
+<b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ? Merci encore pour les Poké Poupées !
 The sign is really damaged... You can't read anything.
 Le panneau est vraiment endommagé... C'est complètement illisible.
 Trainer's Academy
@@ -1284,46 +1364,100 @@ Elder: I have better hats now! Do you want to see?
 <b>Touriste:</b> Donc voici l'arène \gt hein ?
 <b>Tourist:</b> I wonder what the Leader is like...
 <b>Touriste:</b> Je me demande à quoi ressemble le Champion...
+<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
+<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
+<b>Gardener:</b> Taking care of all the flowers and bushes is hard work!
+<b>Jardinier:</b> S'occuper de toutes les fleurs et des buissons n'est pas un travail facile !
+Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
+Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
+Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
+Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
+\c[3]WIP (donner grelot zen)
+\c[3]WIP (donner grelot zen)
+\c[3]WIP
+\c[3]WIP
+Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
+Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 <b>Woman:</b> Oh ! The Day-Care is reachable again !
 <b>Femme:</b> Oh ! La Pension est de nouveau accessible !
 <b>Woman:</b> Should I take some of my Pokémon there ?
 <b>Femme:</b> Est-ce que je devrais y laisser des Pokémons ?
-Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
-Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
-\c[3]WIP (donner grelot zen)
-\c[3]WIP (donner grelot zen)
-\c[3]WIP
-\c[3]WIP
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
-\c[9]Hairdresser: Hello child, I'm the hairdresser.
-\c[9]Hairdresser: Hello child, I'm the hairdresser.
-\c[9]Hairdresser: Do you want me to change your hair?
-\c[9]Hairdresser: Do you want me to change your hair?
-\c[3]WIP : Hairs
-\c[3]WIP : Hairs
-\c[9]Hairdresser: I'm here if you change your mind.
-\c[9]Hairdresser: I'm here if you change your mind.
-\c[9]Hairdresser: I know more hairstyles now. Wanna try?
-\c[9]Hairdresser: I know more hairstyles now. Wanna try?
+<b>Rose:</b> \pn you’re it! Hehehe!
+<b>Rose:</b> \pn c'est toi le loup ! Hihihihi !
+<b>Student:</b> Hiiii! I love to chill outside!
+<b>Etudiant:</b> Saluuuut ! J'adore me relaxer au soleil !
+<b>Student:</b> Isn’t flowers beautiful???
+<b>Etudiant:</b> Les fleurs sont trop belles, non ?
+<b>Student:</b> Yes right? Here, take this!
+<b>Etudiant:</b> Si hein, on est d'accord ? Tiens, prends ça !
+<b>Student:</b> See ya!
+<b>Etudiant:</b> A plus !
+<b>Student:</b> I’m Marie! Hi!
+<b>Etudiant:</b> Moi c'est Marie ! Salut !
+<b>Student:</b> Eeh? My full name is Marie Nelson, why?
+<b>Etudiant:</b> Euuh ? Mon nom complet est Marie Nelson, pourquoi ?
+<b>Student:</b> What? I don’t think so…
+<b>Etudiant:</b> Quoi ? Je crois pas...
+<b>Student:</b> Are you sure?
+<b>Etudiant:</b> T'es sûr ?
+<b>Student:</b> But? No I don’t!
+<b>Etudiant:</b> Mais ? Mais non !
+<b>Student:</b> Are you out of your mind?
+<b>Etudiant:</b> T'as perdu la tête ?
+<b>Student:</b> I don’t have it !
+<b>Etudiant:</b> Je ne l'ai pas !
 <b>Roger:</b> Hey \pn how are you?
 <b>Roger:</b> Hey \pn comment tu vas ?
 <b>Roger:</b> Better with your house built again I bet!
 <b>Roger:</b> Mieux depuis que ta maison a été reconstruite je parie !
+\c[9]Hairdresser: Hello child, I'm the hairdresser.
+\c[9]Hairdresser: Hello child, I'm the hairdresser.
+\c[9]Hairdresser: Do you want me to change your hair?
+\c[9]Hairdresser: Do you want me to change your hair?
+\c[3]WIP : Hairs
+\c[3]WIP : Hairs
+\c[9]Hairdresser: I'm here if you change your mind.
+\c[9]Hairdresser: I'm here if you change your mind.
+\c[9]Hairdresser: I know more hairstyles now. Wanna try?
+\c[9]Hairdresser: I know more hairstyles now. Wanna try?
+<b>Student:</b> Ha! Take this!
+<b>Student:</b> Ha! Take this!
+<b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
+<b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
+<b>Man:</b> Is there good trainers around here ?
+<b>Homme:</b> Il y a des bons dresseurs dans le coin ?
 <b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
 <b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
-<b>Man:</b> Is there good trainers around here ?
-<b>Man:</b> Il y a des bons dresseurs dans le coin ?
 ^ Route 1\n< Route 2\n
 ^ Route 1\n< Route 2\n
+<b>Student:</b> I’m not done yet!
+<b>Etudiant:</b> J'ai pas encore perdu !
+<b>Student:</b> Oh hi, my name is Justine, sorry I’m busy!
+<b>Etudiant:</b> Oh salut, mon nom est Justine, désolée je suis occupée !
+<b>Student:</b> Justine Cruz now let me be please!
+<b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
+What's your name?
+Comment tu t'appelles ?
+Bye
+Au revoir
+You have a book
+Tu as un livre
+I need it back!
+J'en ai besoin !
+Give it!
+Donne-le!
 Yes
 Oui
 No
 Non
 Yes ($1000)
 Oui ($1000)
+And your surname?
+Et ton nom de famille ?
+I'm sure!
+J'en suis sûr !
+You're lying!
+Tu mens !
 #-------------------------------
 [Map009]
 <b>Kid:</b> Hehe! Look at me granny!
@@ -2303,11 +2437,11 @@ Voulez-vous lire les explications de la Carte de Nekanta ?
 <b>\c[10]Maple:</b>\c[0] Thank you \pn, we can begin now.
 <b>\c[10]Maple:</b>\c[0] Merci \pn, on peut maintenant commencer.
 Do you want to skip the explanations ? (not advised for a first playthrough)
-Do you want to skip the explanations ? (not advised for a first playthrough)
+Voulez-vous passer les explications (pas conseillé pour une première expérience)
 Are you sure ?
-Are you sure ?
+Vous êtes sûr ?
 (after the explanations...)
-(after the explanations...)
+(après les explications...)
 <b>\c[10]Maple:</b>\c[0] We have two main things to discuss: the Gym, and the reconstruction of the city.
 <b>\c[10]Maple:</b>\c[0] Nous avons deux sujets à aborder : l’Arène, et la reconstruction de la ville.
 <b>\c[10]Maple:</b>\c[0] Firstly, in order to reopen the Gym, we need the permission from the League.
@@ -2681,17 +2815,57 @@ Non
 <b>Marceau:</b> BUUUUUUUUUUUUUUUGS??!!!
 <b>Marceau:</b> INSEEEEEEEEEEEEEEECTES ??!!!
 #-------------------------------
+[Map032]
+<b>Hervé:</b> Oh hello \pn how are you?
+<b>Hervé:</b> Oh bonjour \pn comment vas-tu ?
+<b>Hervé:</b> I’m so glad I can work and live here again, with my sweet Melly!
+<b>Hervé:</b> Je suis tellement content de travailler et vivre ici de nouveau, avec ma chère Melly !
+<b>Hervé:</b> It was hard to live far from my daughter for this long.
+<b>Hervé:</b> C'était vraiment dur de vivre loin de ma fille pendant si longtemps.
+<b>Hervé:</b> You’re welcome here everytime you want! Come have dinner sometimes!
+<b>Hervé:</b> Tu es le bienvenue ici quand tu veux ! Viens manger à l'occasion !
+<b>\c[9]Melly:</b>\c[0] The weekend is nice! H...how do you spend it \pn?
+<b>\c[9]Melly:</b>\c[0] C'est cool le week-end ! Tu...tu le passes comment toi \pn?
+You already gave a gift to Melly this week!
+Vous avez déjà donné un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+#-------------------------------
 [Map033]
 <b>Man: </b> Good thing this is open again ! I was running low on Potions...
-<b>Man: </b> Heureusement que c'est à nouveau ouvert ! J'avais presque plus de Potions...
+<b>Homme:</b> Heureusement que c'est à nouveau ouvert ! J'avais presque plus de Potions...
 <b>Dept.Store employee:</b> Hello \pn! The elevator is not repaired yet.
 <b>Vendeuse:</b> Bonjour \pn ! L’ascenseur n’est pas encore réparé.
 <b>Dept.Store employee:</b> Only the first floor is available for now!
 <b>Vendeuse:</b> Seul l’étage 1 est accessible pour le moment !
 <b>Woman:</b> Damn, I don't have enough to buy a Super Potion and a Super Ball... What should I do ?
 <b>Woman:</b> Flûte, j'ai plus assez pour acheter une Super Potion et une Super Ball... Que faire ?
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Receptionist:</b> You're already on this floor!
+<b>Receptionist:</b> You're already on this floor!
+<b>Receptionist:</b> Understood! Let us go!
+<b>Receptionist:</b> Understood! Let us go!
+<b>Receptionist:</b> Have a good day!
+<b>Receptionist:</b> Have a good day!
+<b>Receptionist:</b> On the 1st floor, you can buy Medecines and Balls.
+<b>Receptionist:</b> On the 1st floor, you can buy Medecines and Balls.
+<b>Receptionist:</b> On the 2nd floor, you can buy Exploration Items and Berries.
+<b>Receptionist:</b> On the 2nd floor, you can buy Exploration Items and Berries.
 There is only trash in there.
 Il n’y a que des déchets là-dedans.
+Floor 1
+Floor 1
+Floor 2
+Floor 2
+Floors presentation
+Floors presentation
 #-------------------------------
 [Map034]
 <b>Mindy:</b> Hello!!! Are you here to pratice with me???
@@ -2809,9 +2983,9 @@ Non
 <b>\c[9]Melly:</b>\c[0] How are you?
 <b>\c[9]Melly:</b>\c[0] Comment vas-tu ?
 <b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle Willy!
-<b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle Willy!
+<b>\c[9]Melly:</b>\c[0] J'entraînais mon pokémon dans le coin donc je suis allée dire bonjour à mon oncle Willy !
 <b>Willy:</b> Hello \pn, how are you?
-<b>Willy:</b> Hello \pn, how are you?
+<b>Willy:</b> Salut \pn, comment vas-tu?
 <b>\c[9]Melly:</b>\c[0] Hey, let me show you the cuuuuute Pokémon I got, okay?
 <b>\c[9]Melly:</b>\c[0] Hey, laisse moi te montrer le Pokémon troooooop mignon que j’ai capturé, ok ?
 <b>\c[9]Melly:</b>\c[0] Hehe... You're strong!
@@ -2829,31 +3003,31 @@ Non
 <b>\c[9]Melly:</b>\c[0] Well I'm heading to the Gym then, see you there!
 <b>\c[9]Melly:</b>\c[0] Eh ben je vais à l’Arène alors, on se voit là-bas !
 <b>Willy:</b> You can't imagine how much I'm relieved \pn.
-<b>Willy:</b> You can't imagine how much I'm relieved \pn.
+<b>Willy:</b> Tu peux pas imaginer à quel point je suis soulagé \pn.
 <b>Willy:</b> Melly was really worried about all this Gym stuff.
-<b>Willy:</b> Melly was really worried about all this Gym stuff.
+<b>Willy:</b> Melly était vraiment préoccupée par toute cette histoire d'Arène.
 <b>Willy:</b> So you will be our Gym Leader ha! Maybe I have something that could help you...
-<b>Willy:</b> So you will be our Gym Leader ha! Maybe I have something that could help you...
+<b>Willy:</b> Donc tu seras notre Champion d'Arème hein ? Peut-être que je peux te donner quelque chose...
 <b>Willy:</b> This rod has seen better days, but its perfect for a beginner!
-<b>Willy:</b> This rod has seen better days, but its perfect for a beginner!
+<b>Willy:</b> Cette canne a connu des jours meilleurs, mais c'est parfait pour un débutant !
 <b>Willy:</b> Do not hesitate to try to fish in various spots.
-<b>Willy:</b> Do not hesitate to try to fish in various spots.
+<b>Willy:</b> N'hésites pas à pêcher dès que tu le peux.
 <b>Willy:</b> Especially you, the Water Leader!
-<b>Willy:</b> Especially you, the Water Leader!
+<b>Willy:</b> Surtout toi, le Leader Eau !
 <b>Willy:</b> You won't find a lot of water Pokémons on the ground anyway!
-<b>Willy:</b> You won't find a lot of water Pokémons on the ground anyway!
+<b>Willy:</b> Tu ne trouveras pas tant de Pokémon Eau que ça sur terre de toute façon !
 <b>Willy:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
-<b>Willy:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
+<b>Willy:</b> Je sais que tu n'es pas le Leader Eau, mais les Pokémons Eau sont quand même pas mal non ?
 <b>Willy:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
-<b>Willy:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
+<b>Willy:</b> En tous cas, je te laisse retourner à ton arène, <i>respectable Leader</i>
 Willy's hut
-Willy's hut
+Cabane de Willy
 <b>Will:</b> Let's exercise together!
 <b>Will:</b> Entraînons-nous ensemble !
 <b>Will:</b> You gotta stay in shape!
 <b>Will:</b> Il faut garder la forme !
 <b>Willy:</b> I love the breeze of the sea...
-<b>Willy:</b> I love the breeze of the sea...
+<b>Willy:</b> J'adore la brise marine...
 #-------------------------------
 [Map040]
 The rock suddenly jumps you!
@@ -4061,6 +4235,244 @@ Yes
 No
 No
 #-------------------------------
+[Map077]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Student:</b> Hmm I didn't know that…
+<b>Etudiant:</b> Hmm je savais pas ça...
+...
+...
+<b>Student:</b> I’m Stephen Gonzalez. Sshhhh, I’m trying to listen…
+<b>Etudiant:</b> Je suis Stephen Gonzalez. Chuuut, j'essaye d'écouter...
+<b>Student:</b> What? I don’t think so…
+<b>Etudiant:</b> Quoi ? Je ne crois pas...
+<b>Student:</b> Are you sure?
+<b>Etudiant:</b> T'es sûr ?
+<b>Student:</b> But? No I don’t!
+<b>Etudiant:</b> Mais ? Mais non !
+<b>Student:</b> Are you out of your mind?
+<b>Etudiant:</b> T'as perdu la tête ?
+<b>Student:</b> I don’t have it !
+<b>Etudiant:</b> Je ne l'ai pas !
+There is a book in here, from the library.
+Il y a un livre là-dedans, venant de la bibliothèque.
+It's one of the missing borrowed books!
+C'est un des livres empruntés manquants !
+<b>Librarian:</b> Oh hello there, sorry but I’m really busy nowadays.
+<b>Bibliothécaire:</b> Oh bien le bonjour, désolée mais je suis vraiment occupée en ce moment.
+<b>Librarian:</b> Unless… You want to help me?
+<b>Bibliothécaire:</b> A moins que… Tu veuilles m’aider ?
+<b>Librarian:</b> Why thank you! Let me explain.
+<b>Bibliothécaire:</b> Oh mais merci ! Laisse moi t'expliquer.
+<b>Librarian:</b> 3 students didn’t return books they borrowed. They’re long past due date.
+<b>Bibliothécaire:</b> 3 étudiants n’ont pas rendu des livres empruntés. La date limite est largement dépassée.
+<b>Librarian:</b> Could you go find them and ask for the book?
+<b>Bibliothécaire:</b> Peux-tu aller les voir et leur demander le livre ?
+<b>Librarian:</b> Their names are Alex Nodier, Justine Lertimen and Mark Morton.
+<b>Bibliothécaire:</b> Leurs noms sont Alex Nodier, Justine Lertimen et Mark Morton.
+<b>Librarian:</b> Thanks a lot!
+<b>Bibliothécaire:</b> Merci beaucoup !
+<b>Librarian:</b> Oh… Good day then.
+<b>Bibliothécaire:</b> Oh… Bonne journée alors.
+<b>Librarian:</b> Changed your mind? I could still use a hand!
+<b>Bibliothécaire:</b> Tu as changé d’avis ? J’ai toujours besoin d’un coup de main !
+<b>Librarian:</b> Did you get all 3 books? Not yet?
+<b>Bibliothécaire:</b> Tu as les 3 livres ? Pas encore ?
+<b>Librarian:</b> If you forgot, their names are Alex Nodier, Justine Lertimen and Mark Morton.
+<b>Bibliothécaire:</b> Si tu as oublié, leurs noms sont Alex Nodier, Justine Lertimen et Mark Morton.
+<b>Librarian:</b> You got them all? Wonderful!
+<b>Bibliothécaire:</b> Tu les as tous ? Formidable !
+You give the 3 books to the librarian.
+Vous donnez les 3 livres à la bibliothécaire.
+<b>Librarian:</b> I seriously owe you one! Here, I have this for you!
+<b>Bibliothécaire:</b> Sérieusement, je t’en dois une ! Tiens, j’ai ça pour toi !
+<b>Librarian:</b> With this, even little Pokémon can be stronger!
+<b>Bibliothécaire:</b> Avec ça, même les petits Pokémon peuvent être puissants !
+<b>Librarian:</b> See you again!
+<b>Bibliothécaire:</b> Au revoir !
+<b>Librarian:</b> Oh hi! Thanks again for your help back then!
+<b>Bibliothécaire:</b> Oh salut ! Merci encore pour ton aide de la dernière fois !
+<b>Student:</b> Hello mate. How are you?
+<b>Etudiant:</b> Salut poto. Comment vas-tu ?
+<b>Student:</b> I have too much of these. You seem like a good person, just take a few!
+<b>Etudiant:</b> J'ai trop de ces trucs. Tu as l'air d'une bonne personne, prends-en quelques-uns !
+<b>Student:</b> See you!
+<b>Etudiant:</b> A plus !
+<b>Student:</b> Hmm? Oh right, I didn't introduce myself.
+<b>Etudiant:</b> Hmm ? C'est vrai, je ne me suis pas présenté.
+<b>Student:</b> I’m Tyrone Lynch. I’m the dormitory representative. Can I help you?
+<b>Etudiant:</b> Je suis Tyrone Lynch. Je suis le délégué du dortoir. Je peux t'aider ?
+<b>Teacher:</b> It’s really nice to have a beautiful academy back!
+<b>Enseignant:</b> C'est vraiment génial d'avoir récupéré notre belle Académie !
+<b>Student:</b> Okay…
+<b>Etudiant:</b> Okay…
+<b>Student:</b> My name is Eve. Why?
+<b>Etudiant:</b> Je m'appelle Eve. Pourquoi ?
+<b>Student:</b> Eve Flores. Now stop talking or the teacher will scold me!
+<b>Etudiant:</b> Eve Flores. Maintenant arrête de me parler, je vais finir par me faire disputer !
+Union meeting every thursday morning - Please come in a great number!
+Réunion syndicale tous les jeudis matins - venez nombreux !
+<b>Other student:</b> I can’t wait for the finals to be done…
+<b>Autre étudiant:</b> J'ai vraiment hâte que les partiels se finissent...
+<b>Student:</b> What? Studying is fun !
+<b>Etudiant:</b> Quoi ? Etudier c'est marrant !
+<b>Student:</b> My name is Jasmine.
+<b>Etudiant:</b> Je m'appelle Jasmine.
+<b>Other student:</b> I'm Dorothea!
+<b>Autre étudiant:</b> Je suis Dorothéa !
+<b>Student:</b> I’m Jasmine Demir, why?
+<b>Etudiant:</b> Je suis Jasmine Demir. Pourquoi ?
+<b>Other student:</b> Erm.. It’s Trens for me…
+<b>Autre étudiant:</b> Euh.. Moi c'est Trens...
+<b>Student:</b> Hello little fella. How’s going?
+<b>Etudiant:</b> Salut ! Comment ça va ?
+<b>Student:</b> I’m Alex. If you need something, hit me up!
+<b>Etudiant:</b> Je suis Alex. Si t'as besoin d'un truc, balance !
+<b>Student:</b> Huh? It’s Nodier, why?
+<b>Etudiant:</b> Hum ? C'est Nodier, pourquoi ?
+<b>Student:</b> There is another Alex in this academy! That must be him!
+<b>Etudiant:</b> Il y a un autre Alex dans l'académie ! C'est sûrement lui !
+<b>Student:</b> I promise you, It’s not me!
+<b>Etudiant:</b> Je te promets, c'est pas moi !
+<b>Student:</b> Fine, FINE! You won.
+<b>Etudiant:</b> D'accord, D'ACCORD ! T'as gagné.
+<b>Student:</b> I hoped the librarian just forgot…
+<b>Etudiant:</b> J'espérais que la bibliothécaire oublie...
+<b>Student:</b> Pffff... Here, take it.
+<b>Etudiant:</b> Pffff... Tiens, prends-le.
+Principal Office
+Bureau du Proviseur
+<b>Teacher:</b> Oh hello, are you a trainer? I need something!
+<b>Enseignante:</b> Oh bonjour, es-tu un dresseur? J'ai besoin de quelque chose!
+<b>Teacher:</b> For one of my classes I need a Falinks, do you have one?
+<b>Enseignante:</b> Pour un de mes cours il me faudrait un Hexadron ! Tu en as un ?
+<b>Teacher:</b> I would need to borrow one for a few hours. Don’t worry, I will give it back to you!
+<b>Enseignante:</b> J'aurais besoin de l'emprunter pour quelques heures. Ne t'inquiète pas, je te le rends après !
+<b>Teacher:</b> Do you have a Falinks I can borrow?
+<b>Enseignante:</b> Est-ce que tu as un Hexadron que je pourrais emprunter ?
+<b>Teacher:</b> No? Please I really need one!
+<b>Enseignante:</b> Non ? S'il te plaît il m'en faut vraiment un !
+<b>Teacher:</b> Wonderful! I take it for a few hours, just wait for me!
+<b>Enseignante:</b> Magnifique ! Je te le prends pour quelques heures, attends moi ici !
+You wait a few minutes...
+Vous attendez quelques temps...
+<b>Teacher:</b> The students were really delighted! Thanks a lot!
+<b>Enseignante:</b> Les étudiants étaient vraiment ravis ! Merci beaucoup !
+<b>Teacher:</b> Here, take this TM for your help!
+<b>Enseignante:</b> Tiens, prends cette CT pour ton aide !
+<b>Teacher:</b> See ya!
+<b>Enseignante:</b> A plus !
+<b>Teacher:</b> Oh it’s you again! How are you?
+<b>Enseignante:</b> Oh c'est encore toi ! Comment ça va ?
+<b>Jeremy:</b> Hey \pn! With the academy open anew, I try to broaden my knowledge!
+<b>Jeremy:</b> Hey \pn ! Avec l'académie de nouveau ouverte, j'essaye d'élargir mes connaissances !
+<b>Jeremy:</b> Are… are you alright? I’m Jeremy, you do know that already!
+<b>Jeremy:</b> Est-ce...est-ce que tu vas bien ? Je m'appelle Jérémy, mais tu le savais déjà !
+<b>Jeremy:</b> Jeremy Davis… Do you want me to call for help?
+<b>Jeremy:</b> Jeremy Davis… Tu veux que je demande de l'aide ?
+<b>Jeremy:</b> What? I don’t think so…
+<b>Jeremy:</b> Quoi ? Je ne crois pas...
+<b>Jeremy:</b> Are you sure?
+<b>Jeremy:</b> T'es sûr ?
+<b>Jeremy:</b> But? No I don’t!
+<b>Jeremy:</b> Mais ? Mais non !
+<b>Jeremy:</b> Are you out of your mind?
+<b>Jeremy:</b> T'as perdu la tête ?
+<b>Jeremy:</b> I don’t have it !
+<b>Jeremy:</b> Je ne l'ai pas !
+<b>Student:</b> I can’t wait for the finals to be done…
+<b>Student:</b> J'ai vraiment hâte que les partiels se finissent...
+<b>Other student:</b> What? Studying is fun !
+<b>Autre étudiant:</b> Quoi ? Etudier c'est marrant !
+<b>Student:</b> My name? I’m Dorothea! And my friend here is Jasmine!
+<b>Etudiant:</b> Mon nom ? Je suis Dorothéa ! Et mon amie ici est Jasmine !
+<b>Other student:</b> Hey!
+<b>Autre étudiant:</b> Hey !
+<b>Student:</b> Erm.. It’s Trens for me…
+<b>Etudiant:</b> Euh.. Moi c'est Trens...
+<b>Other student:</b> I’m Jasmine Demir, why?
+<b>Autre étudiant:</b> Je suis Jasmine Demir. Pourquoi ?
+<b>Teacher:</b> Hello! Are you our Gym Leader?
+<b>Enseignant:</b> Bonjour ! Es-tu notre Champion d'Arène ?
+<b>Teacher:</b> So I must thank you for the reconstruction of this academy!
+<b>Enseignant:</b> Je dois donc te remercier pour la reconstruction de l'académie !
+<b>Teacher:</b> Take this as a thanks!
+<b>Enseignant:</b> Accepte ça en remerciement !
+<b>Teacher:</b> Have a good day!
+<b>Enseignant:</b> Passes une bonne journée !
+<b>Student:</b> That’s hard!
+<b>Etudiant:</b> C'est dur !
+<b>Student:</b> Hi! I’m Justine, why?
+<b>Etudiant:</b> Salut ! Je suis Justine, pourquoi ?
+<b>Student:</b> Justine Lertimen… Can I help you?
+<b>Etudiant:</b> Justine Lertimen… Je peux t'aider ?
+<b>Student:</b> Oh! You’re right! I completely forgot!
+<b>Etudiant:</b> Oh ! Tu as raison ! J'avais complètement oublié !
+<b>Student:</b> It must be on my desk.
+<b>Etudiant:</b> Il doit être dans mon bureau.
+<b>Student:</b> But I can’t go fetch it now! It’s the middle of the class!
+<b>Etudiant:</b> Mais je peux pas aller le chercher maintenant ! On est en plein milieu du cours !
+<b>Student:</b> You can go yourself if you want. My room is the red one!
+<b>Etudiant:</b> Tu peux y aller toi-même si tu veux. Ma chambre c'est la rouge !
+<b>Student:</b> What? Leave me alone!
+<b>Etudiant:</b> Quoi ? Laisse moi tranquille !
+<b>Student:</b> I’m Alex. Can you go away now?
+<b>Etudiant:</b> Je suis Alex. Tu peux partir maintenant ?
+<b>Student:</b> What is this, a damn interrogation?
+<b>Etudiant:</b> Tu me fais quoi là, un interrogatoire ?
+<b>Student:</b> I’m Alex Rivière. Satisfied?
+<b>Etudiant:</b> Je suis Alex Rivière. Content ?
+<b>Principal Lewis:</b> Hello \pn, how are you?
+<b>Proviseur Lewis:</b> Bonjour \pn, comment vas-tu?
+<b>Principal Lewis:</b> Our academy is doing fairly well. Thank you for your help.
+<b>Proviseur Lewis:</b> Notre académie se porte bien. Merci pour ton aide.
+<b>Principal Lewis:</b> Let’s hope it will give some recognition to our city!
+<b>Proviseur Lewis:</b> Espérons que cela fasse rayonner notre ville !
+<b>Principal Lewis:</b> Let’s hope this academy will give some recognition to our city!
+<b>Proviseur Lewis:</b> Espérons que cette académie fasse rayonner notre ville !
+<b>Teacher:</b> Hi! Don’t mind me, I’m just grading a few papers.
+<b>Enseignant:</b> Salut ! Fais pas attention à moi, je corrige juste quelques copies.
+<b>Teacher:</b> Have a pleasant day!
+<b>Enseignant:</b> Passe une bonne journée !
+<b>Student:</b> Pfff…
+<b>Etudiant:</b> Pfff…
+<b>Student:</b> I’m Sophia. And I’m bored.
+<b>Etudiant:</b> Je suis Sophia. Et je m'ennuie.
+<b>Student:</b> Sophia Rey but I might rename to Sophia Deadinside in a few moments
+<b>Etudiant:</b> Sophia Rey mais je vais peut-être me renommer en Sophia Chevezmoi dans pas longtemps.
+<b>Teacher:</b> ...in this case, the two Defense of the target are swapped.
+<b>Enseignante:</b> ...dans ce cas, les deux défenses de la cible sont échangées.
+<b>Teacher:</b> Thus, using Psyshock here… is not a good idea!
+<b>Enseignante:</b> Ainsi, utiliser Choc Psy ici... N'est pas une bonne idée !
+<b>Technician:</b> Now where are these damn boxes?
+<b>Technicien:</b> Bon on sont passées ces fichues boîtes ?
+<b>Student:</b> Hi! Isn’t my room pretty?
+<b>Etudiant:</b> Salut ! T'as vu comme ma chambre est jolie ?
+<b>Student:</b> I’m Lori Young! Nice to meet you!
+<b>Etudiant:</b> Je suis Lori Young ! Enchantée !
+What's your name?
+Comment tu t'appelles ?
+Bye
+Au revoir
+You have a book
+Tu as un livre
+I'm sure!
+J'en suis sûr !
+You're lying!
+Tu mens !
+Give it!
+Donne-le
+Yes
+Oui
+No
+Non
+And your surname?
+Et ton nom de famille ?
+No, it's really you!
+Non, c'est vraiment toi !
+You're lying again!
+Tu mens à nouveau !
+#-------------------------------
 [Map093]
 <b>Hiker:</b> Always have an escape rope with you while exploring caves!
 <b>Hiker:</b> Always have an escape rope with you while exploring caves!
@@ -4180,20 +4592,18 @@ Vous donnez une Baie Chérim au scientique.
 <b>Scientist:</b> Tu as trouvé des baies rares ?
 <b>Man:</b> Hey! H...how did you get there? You were next to me!
 <b>Man:</b> Hey ! C…comment t’es arrivé là ? Tu étais à côté de moi !
-<b>Man:</b> What? How can I go further?
-<b>Man:</b> Hein ? Comment aller plus loin ?
 <b>Johnson:</b> I LOVE JOLTIKS!!!!!!!
 <b>Johnson:</b> J’ADORE LES STATITIKS !!!!!!
 <b>Johnson:</b> JOLTIIIIIIIIIIIIIKS!
 <b>Johnson:</b> STATITIIIIIIIIIIIIIKS !
+<b>Man:</b> What? How can I go further?
+<b>Man:</b> Hein ? Comment aller plus loin ?
 Yes
 Oui
 No
 Non
 #-------------------------------
 [Map232]
-<b>Day-Care Man:</b> Take good care of this egg! I'm sure you'll love this Pokémon!
-<b>Homme de la Pension:</b> Prends bien soin de cet oeuf ! Je suis sûr que tu adoreras ce Pokémon !
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
 <b>Day-Care Man:</b> Erm, sorry Leader, please don't go there yet.
@@ -4214,6 +4624,8 @@ Vous obtenez un vélo !
 <b>Homme de la Pension:</b> Pour te remercier d’avoir déblayé la voie vers la Pension, nous voulons te donner cet oeuf !
 You received an egg!
 Vous obtenez un oeuf !
+<b>Day-Care Man:</b> Take good care of this egg! I'm sure you'll love this Pokémon!
+<b>Homme de la Pension:</b> Prends bien soin de cet oeuf ! Je suis sûr que tu adoreras ce Pokémon !
 <b>Day-Care Man:</b> Oh, and my wife wanted to see you! Go see her inside please!
 <b>Homme de la Pension:</b> Oh, et ma femme voulait te parler ! Va la voir à l’intérieur s’il te plaît !
 <b>Day-Care Man:</b> Hello dear leader!
@@ -4323,7 +4735,7 @@ Le Leader Normal vous montre ce dessin d’un homme grand et plutôt musclé ave
 #-------------------------------
 [Map366]
 <b>Guy voice:</b> Why on earth do we have to kidnap a Milcery anyway??? *sob*
-<b>Voix masculine:</b> Mais bordel pourquoi on doit capturer un Crémy même ?? *snif*
+<b>Voix masculine:</b> Pour quelle foutue raison on doit capturer un Crémy même ?? *snif*
 <b>Girl voice:</b> It doesn't exist in the wild in Nekanta.
 <b>Voix féminine:</b> Ils n’existent pas dans la nature en Nekanta.
 <b>Guy voice:</b> So? What are we doing, like, completing the Pokédex?
@@ -4351,7 +4763,7 @@ Le rocher vous saute dessus !
 <b>Girl:</b> Go to your mom, kid!
 <b>Femme:</b> Retourne chez ta mère, enfant !
 The grunts used an Escape Rope and flew away!
-The grunts used an Escape Rope and flew away!
+Les sbires ont utilisé une Corde Sortie et se sont enfuis !
 Milcery happily jumped on your shoulder!
 Crémy saute joyeusement sur votre épaule !
 <b>Martha:</b> Hello! You look like a trainer, help me please!
@@ -5327,7 +5739,7 @@ Il n’y a que des déchets là-dedans.
 <b>Fany:</b> What do we do now??
 <b>Fany:</b> On fait quoi maintenant ??
 <b>Elora:</b> God damn it...
-<b>Elora:</b> Bordel…
+<b>Elora:</b> C'est pas vrai...
 <b>???:</b> And who would you might be?
 <b>???:</b> Et t’es qui toi ?
 <b>???:</b> You wanna battle the Normal Leader? They "told" you to find someone named <b><c3=BDA46A,736440>Samy</b></c3>?
@@ -5367,7 +5779,7 @@ Votre équipe a été complètement soignée !
 <b>Denis:</b> Argh!
 <b>Denis:</b> Argh !
 <b>Gladys:</b> Shit! We have to gain some time!
-<b>Gladys:</b> Merde ! On doit gagner un peu de temps !
+<b>Gladys:</b> Non ! On doit gagner un peu de temps !
 <b>Hugo:</b> Copy that! Let's clear them off!
 <b>Hugo:</b> Bien reçu ! On les éclate !
 <b>Elias:</b> No but seriously, who authorized this operation? Who thought this so called seism could be useful?
@@ -5487,7 +5899,7 @@ Dire que vous n’êtes pas prêt.
 Quest
 Quête
 Give gift
-Offrir cadeau
+Donner cadeau
 Spend time
 Passer du temps
 Say goodbye
@@ -5635,7 +6047,7 @@ Quête
 Gym Infos
 Infos Arène
 Give gift
-Offrir cadeau
+Donner cadeau
 Spend time
 Passer du temps
 Say goodbye
@@ -5649,19 +6061,19 @@ Ne pas commencer la journée
 #-------------------------------
 [Map387]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map388]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map389]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map390]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> It's a good item, right?
@@ -5669,7 +6081,7 @@ There is only trash in there.
 #-------------------------------
 [Map391]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> It's a good item, right?
@@ -5677,23 +6089,23 @@ There is only trash in there.
 #-------------------------------
 [Map392]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map393]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map394]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map395]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 #-------------------------------
 [Map397]
 There is only trash in there.
-There is only trash in there.
+Il n'y a que des déchets là-dedans.
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
 <b>Lady:</b> It's a good item, right?
@@ -5715,145 +6127,145 @@ There is only trash in there.
 <b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
 <b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
 Marley is in training these days. Do you want to start your work day?
-Marley is in training these days. Do you want to start your work day?
+Marley est en formation en ce moment. Voulez-vous commencer la journée ?
 Change your party?
-Change your party?
+Changer votre équipe ?
 End of the first half of the week!
-End of the first half of the week!
+Fin de la première moitié de la semaine !
 What do you want to do?
-What do you want to do?
+Que voulez-vous faire ?
 Are you really sure you want to skip Wednesday?
-Are you really sure you want to skip Wednesday?
+Voulez-vous vraiment passer le mercredi ?
 End of the week!
-End of the week!
+Fin de la semaine !
 If you change your mind, go out of the Gym and enter again.
-If you change your mind, go out of the Gym and enter again.
+Si vous changez d’avis, sortez de l’Arène et re-entrez.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
-<b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
+<b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
-<b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonne chance pour ta première semaine !
 You already gave a gift to Marley this week!
-You already gave a gift to Marley this week!
+Vous avez déjà offert un cadeau à Marley cette semaine !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Prêt pour le travail !
 <b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
-<b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
+<b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Impatient de suivre cette formation !
 <b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
-<b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
+<b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
 <b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
-<b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
+<b>\c[9]Melly:</b>\c[0] Coucou \pn! Je suis prête à combattre !
 You already gave a gift to Melly this week!
-You already gave a gift to Melly this week!
+Vous avez déjà offert un cadeau à Melly cette semaine !
 Yes
-Yes
+Oui
 No
-No
+Non
 Do not change party
-Do not change party
+Ne pas changer d’équipe
 Change party
-Change party
+Changer d’équipe
 Wednesday time!
-Wednesday time!
+C’est mercredi !
 Skip Wednesday
-Skip Wednesday
+Passer le mercredi
 Skip to next workday
-Skip to next workday
+Prochain jour de travail
 Skip next morning
-Skip next morning
+Passer la matinée
 Evening time
-Evening time
+Soirée
 Quest
-Quest
+Quête
 Gym Infos
-Gym Infos
+Infos Arène
 Give gift
-Give gift
+Donner cadeau
 Spend time
-Spend time
+Passer du temps
 Say goodbye
-Say goodbye
+Dire au revoir
 Start work day
-Start work day
+Commencer la journée
 Gym infos
-Gym infos
+Infos Arène
 Don't start work day
-Don't start work day
+Ne pas commencer la journée
 #-------------------------------
 [Map400]
 <b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
 <b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
 Marley is in training these days. Do you want to start your work day?
-Marley is in training these days. Do you want to start your work day?
+Marley est en formation en ce moment. Voulez-vous commencer la journée ?
 Change your party?
-Change your party?
+Changer votre équipe ?
 End of the first half of the week!
-End of the first half of the week!
+Fin de la première moitié de la semaine !
 What do you want to do?
-What do you want to do?
+Que voulez-vous faire ?
 Are you really sure you want to skip Wednesday?
-Are you really sure you want to skip Wednesday?
+Voulez-vous vraiment passer le mercredi ?
 End of the week!
-End of the week!
+Fin de la semaine !
 If you change your mind, go out of the Gym and enter again.
-If you change your mind, go out of the Gym and enter again.
+Si vous changez d’avis, sortez de l’Arène et re-entrez.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
-<b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
+<b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
-<b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonne chance pour ta première semaine !
 You already gave a gift to Marley this week!
-You already gave a gift to Marley this week!
+Vous avez déjà offert un cadeau à Marley cette semaine !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Prêt pour le travail !
 <b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
-<b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
+<b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Impatient de suivre cette formation !
 <b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
-<b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
+<b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
 <b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
-<b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
+<b>\c[9]Melly:</b>\c[0] Coucou \pn! Je suis prête à combattre !
 You already gave a gift to Melly this week!
-You already gave a gift to Melly this week!
+Vous avez déjà offert un cadeau à Melly cette semaine !
 Yes
-Yes
+Oui
 No
-No
+Non
 Do not change party
-Do not change party
+Ne pas changer d’équipe
 Change party
-Change party
+Changer d’équipe
 Wednesday time!
-Wednesday time!
+C’est mercredi !
 Skip Wednesday
-Skip Wednesday
+Passer le mercredi
 Skip to next workday
-Skip to next workday
+Prochain jour de travail
 Skip next morning
-Skip next morning
+Passer la matinée
 Evening time
-Evening time
+Soirée
 Quest
-Quest
+Quête
 Gym Infos
-Gym Infos
+Infos Arène
 Give gift
-Give gift
+Donner cadeau
 Spend time
-Spend time
+Passer du temps
 Say goodbye
-Say goodbye
+Dire au revoir
 Start work day
-Start work day
+Commencer la journée
 Gym infos
-Gym infos
+Infos Arène
 Don't start work day
-Don't start work day
+Ne pas commencer la journée
 #-------------------------------
 [Map401]
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
