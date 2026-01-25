@@ -483,9 +483,9 @@ Poing Chance
 Metal Powder
 Poudre métal
 Quick Powder
-Poudre vite
+Poudre Vite
 Thick Club
-Masse os
+Masse Os
 Leek
 Poireau
 Stick

@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map391]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Man:</b> Hi! How are you?
+<b>Homme:</b> Salut ! Comment ça va !
+<b>Man:</b> This is our little love nest, isn't my wife soooooo cute??
+<b>Homme:</b> Voici notre petit nid d'amour, ma femme n'est-elle pas trooooooop mignonne ?
+<b>Woman:</b> Hello!
+<b>Femme:</b> Bonjour!
+<b>Woman:</b> I couldn't be happier here with my husband, my love, my soulmate!!
+<b>Femme:</b> Je ne pourrais pas être plus heureuse qu'ici avec mon mari, mon amour, mon âme soeur !!

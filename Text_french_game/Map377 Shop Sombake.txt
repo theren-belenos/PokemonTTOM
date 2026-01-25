@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map377]
+There is only trash in there.
+Il n’y a que des déchets là-dedans
+<b>Boy:</b> Why don't they have net balls??
+<b>Garçon:</b> Pourquoi ils ont pas de Filet Ball ??
+<b>Man:</b> Hey! Stay safe in the forest, there are a lot of venomous things out there!
+<b>Homme:</b> Hey ! Sois prudent dans la forêt, il y a beaucoup de choses venimeuses la-dedans !
+<b>Man:</b> Stay safe!
+<b>Homme:</b> Sois prudent !

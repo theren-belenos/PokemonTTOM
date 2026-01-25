@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map396]
+<b>Delinquent:</b> I sometimes feel like everybody has forgotten this place even exists...
+<b>Terreur:</b> J'ai parfois l'impression que tout le monde a oublié l'existence de cet endroit...
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Jogger:</b> Nobody comes here... Perfect for jogging!
+<b>Joggeur:</b> Personne vient ici... Parfait pour le jogging !
+<b>Thug:</b> Hmpf, what do you want?
+<b>Voyou:</b> Hmpf, qu'est-ce que tu veux ?
+Yes
+Oui
+No
+Non

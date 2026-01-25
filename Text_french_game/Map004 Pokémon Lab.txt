@@ -1,0 +1,568 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map004]
+This ball contains a Pokémon caught by the Professor.
+Cette Ball contient un Pokémon attrapé par le Professeur.
+<b>\c[10]Maple:</b>\c[0] So, you want Helioptile, the Generator Pokémon?\f[HELIOPTILE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Galvaran, le Pokémon Générateur ?\f[HELIOPTILE]
+<b>\c[10]Maple:</b>\c[0] Do you want Treecko, the Wood Gecko Pokémon? \f[TREECKO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Arcko, le Pokémon Bois Gecko ? \f[TREECKO]
+<b>\c[10]Maple:</b>\c[0] Do you want Torchic, the Chick Pokémon? \f[TORCHIC]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Poussifeu, le Pokémon Poussin? \f[TORCHIC]
+<b>\c[10]Maple:</b>\c[0] Do you want Mudkip, the Mud Fish Pokémon? \f[MUDKIP]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Gobou, le Pokémon Poissonboue ? \f[MUDKIP]
+<b>\c[10]Maple:</b>\c[0] Do you want Electrike, the Lighting Pokémon? \f[ELECTRIKE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Dynavolt, le Pokémon Orage ? \f[ELECTRIKE]
+<b>\c[10]Maple:</b>\c[0] Do you want Budew, the Bud Pokémon?\f[BUDEW]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Rozbouton, le Pokémon Bourgeon ?\f[BUDEW]
+<b>\c[10]Maple:</b>\c[0] Do you want Swablu, the Cotton Bird Pokémon?\f[SWABLU]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Tylton, le Pokémon Oiseaucoton ?\f[SWABLU]
+<b>\c[10]Maple:</b>\c[0] Do you want Beldum, the Iron Ball Pokémon?\f[BELDUM]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Terhal, le Pokémon Boulefer ?\f[BELDUM]
+<b>\c[10]Maple:</b>\c[0] Do you want Grubbin, the Larva Pokémon? \f[GRUBBIN]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Larvibule, le Pokémon Larve ? \f[GRUBBIN]
+<b>\c[10]Maple:</b>\c[0] Do you want Aron, the Iron Armor Pokémon?\f[ARON]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Galekid, le Pokémon Armufer ?\f[ARON]
+<b>\c[10]Maple:</b>\c[0] Do you want Shuppet, the Puppet Pokémon?\f[SHUPPET]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Polichombr, le Pokémon Poupée ?\f[SHUPPET]
+<b>\c[10]Maple:</b>\c[0] Do you want Spheal, the Clap Pokémon?\f[SPHEAL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Obalie, le Pokémon Clap Clap ?\f[SPHEAL]
+<b>\c[10]Maple:</b>\c[0] Do you want Bagon, the Rock Head Pokémon? \f[BAGON]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Draby, le Pokémon Tête de Roc ? \f[BAGON]
+<b>\c[10]Maple:</b>\c[0] Do you want Zorua, the Tricky Fox Pokémon?\f[ZORUA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Zorua, le Pokémon Sombrenard ?\f[ZORUA]
+<b>\c[10]Maple:</b>\c[0] Do you want Ralts, the Feeling Pokémon?\f[RALTS]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Tarsal, le Pokémon Sentiment ?\f[RALTS]
+scdqf ezfghrsdtgfbhrtgfgh rt
+scdqf ezfghrsdtgfbhrtgfgh rt
+This machine can restore your tired Pokémon to full health.
+Cette machine peut soigner vos Pokémon.
+Would you like to rest your Pokémon?
+Voulez-vous les soigner ?
+Your Pokémons were completely healed !
+Vos Pokémon ont été complètement soignés !
+You use the machine to heal your exhausted Pokémons.
+Vous utilisez la machine pour soigner vos Pokémon.
+Be careful!
+Soyez prudents !
+<b>\r???:</b>\c[0] Humpf
+<b>\r???:</b>\c[0] Humpf
+<b>\r???:</b>\c[0] So, old man, you gave the Gym's keys to \pn right?
+<b>\r???:</b>\c[0] Alors, le vieux, t’as donné les clés de l’Arène à \pn hein ?
+<b>\r???:</b>\c[0] I guess being your grandson doesn't mean anything.
+<b>\r???:</b>\c[0] J’imagine qu’être ton petit-fils ne signifie rien pour toi…
+<b>\c[10]Maple:</b>\c[0] No no \v[12], I just thought...
+<b>\c[10]Maple:</b>\c[0] Non non \v[12], je pensais juste…
+<b>\r\v[12]:</b>\c[0]: Yeah yeah don't worry I understood well.
+<b>\r\v[12]:</b>\c[0]: Oui oui t’inquiète j’ai bien compris.
+<b>\r\v[12]:</b>\c[0]: You think I'm not good enough, you think \pn is better? Ha!
+<b>\r\v[12]:</b>\c[0]: Tu penses que je suis pas assez bien, tu penses que \pn est meilleur? Ha !
+<b>\r\v[12]:</b>\c[0]: I asked one of the Elite 4 member to give me a Pokémon strong against the \gt type.
+<b>\r\v[12]:</b>\c[0]: J’ai demandé à un membre du Conseil 4 de me donner un Pokémon fort contre le type \gt.
+<b>\r\v[12]:</b>\c[0]: With it, I can crush \pn easily!
+<b>\r\v[12]:</b>\c[0]: Avec lui, j’écraserai \pn sans difficultés !
+<b>\r\v[12]:</b>\c[0]: Just stand here and watch!
+<b>\r\v[12]:</b>\c[0]: Regarde bien !
+<b>\r\v[12]:</b>\c[0]: I... I don't understand how...
+<b>\r\v[12]:</b>\c[0]: Je… je comprends pas comment…
+<b>\r\v[12]:</b>\c[0]: ...raaaah!
+<b>\r\v[12]:</b>\c[0]: ...raaaah!
+<b>\r\v[12]:</b>\c[0]: This is not the end \pn!
+<b>\r\v[12]:</b>\c[0]: C’est pas fini \pn !
+<b>\r\v[12]:</b>\c[0]: I will crush that pathetic Gym of yours easily!
+<b>\r\v[12]:</b>\c[0]: J’écraserai facilement ton Arène pathétique !
+<b>\r\v[12]:</b>\c[0]: Bye, loser!
+<b>\r\v[12]:</b>\c[0]: A plus, loser !
+<b>\c[10]Maple:</b>\c[0] Well sorry about that \pn, I didn't expect him to react like this...
+<b>\c[10]Maple:</b>\c[0] Bon ben désolé pour ça \pn, je ne pensais pas qu’il réagirait comme ça…
+<b>\c[10]Maple:</b>\c[0] He is not a bad kid. Just... disturbed by the recent events.
+<b>\c[10]Maple:</b>\c[0] C’est pas un mauvais garçon. Il est juste… perturbé par les événements récents.
+<b>\c[10]Maple:</b>\c[0] He will come to his senses, trust me.
+<b>\c[10]Maple:</b>\c[0] Il reviendra à lui, crois moi.
+<b>\c[10]Maple:</b>\c[0] Let's just say you earned a valuable sparring partner!
+<b>\c[10]Maple:</b>\c[0] Disons juste que tu as gagné un bon partenaire d’entraînement !
+<b>\c[10]Maple:</b>\c[0] Ahem... I will heal your Pokémon and then let's head out to the gym right?
+<b>\c[10]Maple:</b>\c[0] Ahem... Je vais soigner tes Pokémon puis on ira à l’Arène, OK ?
+Your Pokémon was healed!
+Votre Pokémon a été soigné !
+<b>\c[10]Maple:</b>\c[0] You can heal your Pokémon by using the machine at my left, use it anytime you want!
+<b>\c[10]Maple:</b>\c[0] Tu peux soigner ton Pokémon en utilisant la machine sur ma gauche, utilise-la quand tu veux !
+<b>\r\v[12]:</b>\c[0]: Haha! You see? I'm waaaaay better than you!
+<b>\r\v[12]:</b>\c[0]: Haha ! Tu vois ? Je suis biiiien meilleur que toi !
+<b>\r\v[12]:</b>\c[0]: And this is not the end \pn!
+<b>\r\v[12]:</b>\c[0]: Et c’est pas fini \pn !
+<b>\r\v[12]:</b>\c[0]: Bye loser! Hahahahaha
+<b>\r\v[12]:</b>\c[0]: A plus loser ! Hahahahaha
+<b>\c[10]Maple:</b>\c[0] Wait, you didn't pick a Pokémon!
+<b>\c[10]Maple:</b>\c[0] Attends, tu n’as pas choisi de Pokémon !
+<b>\c[10]Maple:</b>\c[0] Do you want Smoliv, the Olive Pokémon? \f[SMOLIV]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Olivini, le Pokémon Olive ? \f[SMOLIV]
+<b>\c[10]Maple:</b>\c[0] Do you want Sprigatito, the Grass Cat Pokémon? \f[SPRIGATITO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Poussacha, le Pokémon Chat Plante ? \f[SPRIGATITO]
+<b>\c[10]Maple:</b>\c[0] Do you want Fuecoco, the Fire Croc Pokémon? \f[FUECOCO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Chochodile, le Pokémon Croco Feu ? \f[FUECOCO]
+<b>\c[10]Maple:</b>\c[0] Do you want Quaxly, the Duckling Pokémon? \f[QUAXLY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Coiffeton, le Pokémon Caneton ? \f[QUAXLY]
+<b>\c[10]Maple:</b>\c[0] Do you want Pawmi, the Mouse Pokémon? \f[PAWMI]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Pohm, le Pokémon Souris ? \f[PAWMI]
+<b>\c[10]Maple:</b>\c[0] Do you want Nidoran &f;, the Poison Pin Pokémon?\f[NIDORANfE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nidoran &f;, le Pokémon Vénépic ?\f[NIDORANfE]
+<b>\c[10]Maple:</b>\c[0] Do you want Nidoran&f;, the Poison Pin Pokémon?\f[NIDORANfE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nidoran&f;, le Pokémon Vénépic ?\f[NIDORANfE]
+<b>\c[10]Maple:</b>\c[0] Do you want Zubat, the Bat Pokémon?\f[ZUBAT]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nosferapti, le Pokémon Chovsouris ?\f[ZUBAT]
+<b>\c[10]Maple:</b>\c[0] Do you want Gothita, the Fixation Pokémon?\f[GOTHITA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Scrutella, le Pokémon Dévisageur ?\f[GOTHITA]
+<b>\c[10]Maple:</b>\c[0] Do you want Blipbug, the Larva Pokémon?\f[BLIPBUG]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Larvadar, le Pokémon Larve ?\f[BLIPBUG]
+<b>\c[10]Maple:</b>\c[0] Do you want Nacli, the Rock Salt Pokémon?\f[NACLI]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Selutin, le Pokémon Halite ?\f[NACLI]
+<b>\c[10]Maple:</b>\c[0] Do you want Frigibax, the Ice Fin Pokémon?\f[FRIGIBAX]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Frigodo, le Pokémon Glaçaileron ?\f[FRIGIBAX]
+<b>\c[10]Maple:</b>\c[0] Do you want Tinkatink, the Metalsmith Pokémon?\f[TINKATINK]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Forgerette, le Pokémon Forge ?\f[TINKATINK]
+<b>\c[10]Maple:</b>\c[0] So, you want Minccino, the Chinchilla Pokémon? \f[MINCCINO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Chinchidou, le Pokémon Chinchilla ? \f[MINCCINO]
+<b>\c[10]Maple:</b>\c[0] Do you want Snivy, the Grass Snake Pokémon? \f[SNIVY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Vipélierre, le Pokémon Serpenterbe ? \f[SNIVY]
+<b>\c[10]Maple:</b>\c[0] Do you want Tepig, the Fire Pig Pokémon? \f[TEPIG]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Gruikui, le Pokémon Cochon Feu ? \f[TEPIG]
+<b>\c[10]Maple:</b>\c[0] Do you want Oshawott, the Sea Otter Pokémon? \f[OSHAWOTT]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Moustillon, le Pokémon Loutre ? \f[OSHAWOTT]
+<b>\c[10]Maple:</b>\c[0] Do you want Tynamo, the EleFish Pokémon? \f[TYNAMO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Anchwatt, le Pokémon Electrophore ? \f[TYNAMO]
+<b>\c[10]Maple:</b>\c[0] Do you want Venipede, the Centipede Pokémon?\f[VENIPEDE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Venipatte, le Pokémon Chilopode ?\f[VENIPEDE]
+<b>\c[10]Maple:</b>\c[0] Do you want Sandile, the Desert Croc Pokémon?\f[SANDILE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Mascaïman, le Pokémon Croco Sable ?\f[SANDILE]
+<b>\c[10]Maple:</b>\c[0] Do you want Solosis, the Cell Pokémon?\f[SOLOSIS]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nucléos, le Pokémon Cellule ?\f[SOLOSIS]
+<b>\c[10]Maple:</b>\c[0] Do you want Sewaddle, the Sewing Pokémon?\f[SEWADDLE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Larveyette, le Pokémon Couture ?\f[SEWADDLE]
+<b>\c[10]Maple:</b>\c[0] Do you want Roggenrola, the Mantle Pokémon?\f[ROGGENROLA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nodulithe, le Pokémon Manteau ?\f[ROGGENROLA]
+<b>\c[10]Maple:</b>\c[0] Do you want Litwick, the Candle Pokémon?\f[LITWICK]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Funécire, le Pokémon Chandelle ?\f[LITWICK]
+<b>\c[10]Maple:</b>\c[0] Do you want Vanillite, the Fresh Snow Pokémon?\f[VANILLITE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Sorbébé, le Pokémon Poudreuse ?\f[VANILLITE]
+<b>\c[10]Maple:</b>\c[0] Do you want Deino, the Irate Pokémon?\f[DEINO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Solochi, le Pokémon Rude ?\f[DEINO]
+<b>\c[10]Maple:</b>\c[0] Do you want Pancham, the Playful Pokémon?\f[PANCHAM]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Pandespiègle, le Pokémon Garnement ?\f[PANCHAM]
+<b>\c[10]Maple:</b>\c[0] Do you want Ferroseed, the Thorn Seed Pokémon?\f[FERROSEED]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Grindur, le Pokémon Graine Épine ?\f[FERROSEED]
+<b>\c[10]Maple:</b>\c[0] Do you want Azurill, the Polka Dot Pokémon?\f[AZURILL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Azurill, le Pokémon Point Polka ?\f[AZURILL]
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie~
+<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor~
+<b>\c[5]Nurse:</b>\c[0] I'm staying here until the Pokémon Center is repaired.
+<b>\c[5]Infirmière:</b>\c[0] Je reste ici jusqu’à ce que le Centre Pokémon soit réparé.
+<b>\c[5]Nurse:</b>\c[0] I can't thank Prof. Maple enough!
+<b>\c[5]Infirmière:</b>\c[0] Je remercierai jamais assez le Prof Maple !
+<b>\c[5]Nurse:</b>\c[0] Here, take these to help you while the PokéCenter is closed.
+<b>\c[5]Infirmière:</b>\c[0] Tiens, prends ça pour t’aider tant que le Centre Pokémon est fermé.
+Do you want to sleep here? The weekend will be over!
+Voulez-vous dormir ici ? Le week-end sera terminé !
+Do you want to sleep here?
+Voulez-vous dormir ici ?
+Skip next morning?
+Passer la matinée ?
+<b>\c[10]Maple:</b>\c[0] Do you want to change your party?
+<b>\c[10]Maple:</b>\c[0] Veux-tu changer ton équipe ?
+<b>\c[10]Maple:</b>\c[0] Don't worry \pn, I made sure we got a challenger today.
+<b>\c[10]Maple:</b>\c[0] Ne t’inquiète pas \pn, je me suis assuré qu’on ait un challenger aujourd’hui.
+<b>\c[10]Maple:</b>\c[0] I think that will be cool!
+<b>\c[10]Maple:</b>\c[0] Je pense que ça va être cool !
+A few moments later...
+A few moments later...
+\v[12] appeared!
+\v[12] apparaît !
+...\| ...\| ...
+...\| ...\| ...
+Melly lost!
+Melly a perdu !
+<b>\r\v[12]:</b>\c[0]: So you really think you can already be a proper Gym Leader huh?
+<b>\r\v[12]:</b>\c[0]: Donc tu penses vraiment que tu es déjà un vrai Champion d’Arène hein ?
+<b>\r\v[12]:</b>\c[0]: Ha! Don't make me laugh!
+<b>\r\v[12]:</b>\c[0]: Ha ! Me fais pas rire !
+<b>\r\v[12]:</b>\c[0]: I will remind you why you're nothing more that an mere impostor!
+<b>\r\v[12]:</b>\c[0]: Je vais te rappeler pourquoi tu n’es rien de plus qu’un imposteur !
+Battle Start!
+Début du combat !
+<b>\r\v[12]:</b>\c[0]: Tsk! It's just beginner's luck! Get lucky while you can, loser!
+<b>\r\v[12]:</b>\c[0]: Tsk ! C’est juste la chance du débutant. Profite-en bien tant que tu peux, loser !
+<b>\r\v[12]:</b>\c[0]: Hahahaha what a loser! Cya!
+<b>\r\v[12]:</b>\c[0]: Hahahaha quel loser ! A plus !
+<b>c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
+<b>c[10]Maple:</b>\c[0] Bon euh, je m’attendais pas à ce que tu perdes aujourd’hui… Imaginons que tu as gagné, je me débrouillerai…
+<b>\c[10]Maple:</b>\c[0] Well, this will be enough for levelling up our fame!
+<b>\c[10]Maple:</b>\c[0] Bon, ce sera assez pour gagner un niveau de Fame !
+<b>\c[10]Maple:</b>\c[0] Let's wait the end of the day.
+<b>\c[10]Maple:</b>\c[0] Attendons la fin de la journée.
+The day ends...
+La journée se termine…
+<b>\c[10]Maple:</b>\c[0] Congratulations! Thanks to your work, we're finally at fame level 1!
+<b>\c[10]Maple:</b>\c[0] Félicitations ! Grâce à ton travail, nous sommes enfin niveau 1 de Fame !
+<b>\c[10]Maple:</b>\c[0] As friday work is over, it's now the weekend.
+<b>\c[10]Maple:</b>\c[0] Comme la journée de travail du vendredi est finie, c’est maintenant le week-end.
+<b>\c[10]Maple:</b>\c[0] You just unlocked a whole lot of city tasks to do, check it out!
+<b>\c[10]Maple:</b>\c[0] Tu as débloqué tout un tas de choses à faire pour la ville, tu iras voir !
+<b>\c[10]Maple:</b>\c[0] Well, I think it's time for me to let you be on your own.
+<b>\c[10]Maple:</b>\c[0] Bon, je pense qu’il est temps que je te laisse continuer en autonomie.
+<b>\c[10]Maple:</b>\c[0] I spoke a lot to you and "held your hand", I hope you didn't find it annoying.
+<b>\c[10]Maple:</b>\c[0] Je t’ai beaucoup parlé et “tenu la main”, j’espère que tu n’as pas trouvé ça pénible.
+<b>\c[10]Maple:</b>\c[0] I just wanted to make sure everything was clear for you.
+<b>\c[10]Maple:</b>\c[0] Je voulais juste m’assurer que tout était clair pour toi.
+<b>\c[10]Maple:</b>\c[0] From now on, do what you want to do.
+<b>\c[10]Maple:</b>\c[0] A partir de maintenant, fais ce que tu veux.
+<b>\c[10]Maple:</b>\c[0] Don't forget to plan tasks for the week during the weekend.
+<b>\c[10]Maple:</b>\c[0] Oublies pas de prévoir des tâches de ville le weekend.
+<b>\c[10]Maple:</b>\c[0] Do not hesitate to speak to the ones in your Social Links during the weekend, spend time with them or even give them gifts.
+<b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec tes liens sociaux, passer du temps avec eux ou même leur offrir des cadeaux.
+<b>\c[10]Maple:</b>\c[0] The last thing I want to tell you:
+<b>\c[10]Maple:</b>\c[0] La dernière chose que je voulais te dire :
+<b>\c[10]Maple:</b>\c[0] Our goal is to bring back the Gym to its former glory.
+<b>\c[10]Maple:</b>\c[0] Notre objectif est que notre Arène retrouve son prestige d’antan.
+<b>\c[10]Maple:</b>\c[0] In other terms, to get it back to rank 12!
+<b>\c[10]Maple:</b>\c[0] En d’autres termes, la ramener au rang 12 !
+<b>\c[10]Maple:</b>\c[0] If you don't rank up, your fame level will soon be limited anyway.
+<b>\c[10]Maple:</b>\c[0] Si tu n’augmente pas de rang, ta Fame sera vite limitée de toute façon.
+<b>\c[10]Maple:</b>\c[0] In order to ask for a rank up battle, you have to :
+<b>\c[10]Maple:</b>\c[0] Pour pouvoir demander un Combat de Rang, tu dois :
+<b>\c[10]Maple:</b>\c[0] 1) Get the badge of the fellow Gym Leader you will battle.
+<b>\c[10]Maple:</b>\c[0] 1) Obtenir le badge du collège Champion d’Arène que tu veux affronter
+<b>\c[10]Maple:</b>\c[0] 2) Get to a certain fame level.
+<b>\c[10]Maple:</b>\c[0] 2) Atteindre un certain niveau de Fame.
+<b>\c[10]Maple:</b>\c[0] 3) A third objective is often given to you.
+<b>\c[10]Maple:</b>\c[0] 3) Un autre objectif t’es souvent donné.
+<b>\c[10]Maple:</b>\c[0] I will give you your Main rank up quests, don't worry. Let me be the man who speak to the League.
+<b>\c[10]Maple:</b>\c[0] Je te donnerai tes Quêtes de Rang principales, t’inquiète pas. Laisse moi être celui qui parle à la Ligue.
+<b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.
+<b>\c[10]Maple:</b>\c[0] Voici ta première Quête de rang, avec ses sous-objectifs.
+<b>\c[10]Maple:</b>\c[0] As a last gift, let me give you this:
+<b>\c[10]Maple:</b>\c[0] Et comme dernier cadeau, je te donne ça :
+<b>\c[10]Maple:</b>\c[0] With this, you can cut little trees, allowing you access to various places.
+<b>\c[10]Maple:</b>\c[0] Avec ça, tu peux couper des petits arbres, te donnant accès à certains endroits.
+<b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
+<b>\c[10]Maple:</b>\c[0] Bon, \pn ! Bonne chance et surtout : amuse-toi !
+It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
+Ce n’est pas le soir, vous ne pouvez pas aller dormir ! Allez dans l’Arène pour le jour de travail d’abord !
+<b>Warning: This is for debug purposes.</b> Do you wish to initialize all variables to prevent some crashes ?
+<b>Attention : ceci est un outil de debug.</b> Voulez-vous initialiser toutes les variables pour empêcher certains crashs ?
+<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
+<b>\c[10]Maple:</b>\c[0] Une fois que tu es prêt, sort du bâtiment.
+<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
+<b>\c[10]Maple:</b>\c[0] Alors, lequel tu veux ?
+<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
+<b>\c[10]Maple:</b>\c[0] Comment ça va ? Ça se passe bien avec la Ligue Pokémon ?
+<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded! Congratulations!
+<b>\c[10]Maple:</b>\c[0] Oh bonjour \pn ! J’ai reçu un mail de la Ligue, apparemment tu as réussi ! Félicitations !
+<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day! Your debut as a Gym Leader!
+<b>\c[10]Maple:</b>\c[0] Donc demain c’est le grand jour ! Tes débuts en tant que Champion d’Arène !
+<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
+<b>\c[10]Maple:</b>\c[0] Tu as besoin d’une bonne nuit de sommeil pour être fin prêt !
+<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
+<b>\c[10]Maple:</b>\c[0] Tu peux dormir à l’étage si tu veux, tant que ta maison n’est pas réparée.
+<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
+<b>\c[10]Maple:</b>\c[0] Prends juste le lit que tu veux !
+<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
+<b>\c[10]Maple:</b>\c[0] Je t’attendrai demain dans ton Arène, plus précisément dans ta Salle du Champion.
+<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
+<b>\c[10]Maple:</b>\c[0] Je t’expliquerai alors tous les détails.
+<b>\c[10]Maple:</b>\c[0] Sleep well!
+<b>\c[10]Maple:</b>\c[0] Bonne nuit !
+<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, comment vas-tu ?
+You already gave a gift to Maple this week!
+Vous avez déjà offert un cadeau à Maple cette semaine !
+<b>\c[10]Maple:</b>\c[0] So, you want Bunneary, the Rabbit Pokémon? \f[BUNEARY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Laporeille, le Pokémon Lapin ? \f[BUNEARY]
+<b>\c[10]Maple:</b>\c[0] Do you want Turtwig, the Tiny Leaf Pokémon? \f[TURTWIG]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Tortipouss, le Pokémon Minifeuille ? \f[TURTWIG]
+<b>\c[10]Maple:</b>\c[0] Do you want Chimchar, the Chimp Pokémon? \f[CHIMCHAR]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Ouisticram, le Pokémon Chimpanzé ? \f[CHIMCHAR]
+<b>\c[10]Maple:</b>\c[0] Do you want Piplup, the Penguin Pokémon? \f[PIPLUP]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Tiplouf, le Pokémon Pingouin ? \f[PIPLUP]
+<b>\c[10]Maple:</b>\c[0] Do you want Shinx, the Flash Pokémon? \f[SHINX]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Lixy, le Pokémon Flash ? \f[SHINX]
+<b>\c[10]Maple:</b>\c[0] Do you want Croagunk, the Toxic Mouth Pokémon?\f[CROAGUNK]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Cradopaud, le Pokémon Toxique ?\f[CROAGUNK]
+<b>\c[10]Maple:</b>\c[0] Do you want Combee&f;, the Tiny Bee Pokémon?\f[COMBEE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Apitrini&f;, le Pokémon Miniabeille ?\f[COMBEE]
+<b>\c[10]Maple:</b>\c[0] Do you want Tyrunt, the Royal Heir Pokémon?\f[TYRUNT]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Ptyranidur, le Pokémon Prince ?\f[TYRUNT]
+<b>\c[10]Maple:</b>\c[0] Do you want Duskull, the Tiny Bird Pokémon?\f[DUSKULL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Skelenox, le Pokémon Requiem ?\f[DUSKULL]
+<b>\c[10]Maple:</b>\c[0] Do you want Snover, the Frost Tree Pokémon?\f[SNOVER]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Blizzi, le Pokémon Arbregelé ?\f[SNOVER]
+<b>\c[10]Maple:</b>\c[0] Do you want Gible, the Land Shark Pokémon?\f[GIBLE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Griknot, le Pokémon Terrequin ?\f[GIBLE]
+<b>\c[10]Maple:</b>\c[0] Do you want Sneasel, the Sharp Claw Pokémon?\f[SNEASEL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Farfuret, le Pokémon Grifacérée ?\f[SNEASEL]
+<b>\c[10]Maple:</b>\c[0] Do you want Flabébé, the Single Bloom Pokémon?\f[FLABEBE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Flabébé, le Pokémon Uniflore ?\f[FLABEBE]
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Jon:</b> Hello \v[12]!
+<b>Jon:</b> Bonjour \v[12] !
+<b>Jon:</b> ...
+<b>Jon:</b> ...
+<b>Jon:</b> ...what? You're not \v[12]?
+<b>Jon:</b> ...quoi ? Tu n’es pas \v[12] ?
+<b>Jon:</b> Gosh sorry \pn, I lost my glasses while investigating this earthquake.
+<b>Jon:</b> Ohlala désolé \pn, j’ai perdu mes lunettes en enquêtant sur le séisme.
+<b>Jon:</b> I have these spare glasses but it's not exactly the good correction so it's really hard for me to see right...
+<b>Jon:</b> J’ai cette paire de rechange mais c’est pas tout à fait la bonne correction donc j’y vois pas vraiment clair…
+<b>Jon:</b> If you see my glasses, can you bring it back to me? I will offer you something useful!
+<b>Jon:</b> Si tu vois mes lunettes, tu peux me les ramener ? Je t’offrirai quelque chose d’utile !
+<b>Jon:</b> What? You found my glasses already?
+<b>Jon:</b> Hein ? T’as déjà trouvé mes lunettes ?
+You give the glasses to Jon.
+Vous donnez à Jon ses lunettes.
+<b>Jon:</b> Thank you very much \pn! Thanks to you I see clearly again!
+<b>Jon:</b> Merci beaucoup \pn ! Grâce à toi je vois clair à nouveau !
+<b>Jon:</b> Back to work for me! Oh and before I forget, here is your reward!
+<b>Jon:</b> Retour au travail pour moi ! Oh et avant que j’oublie, voici ta récompense !
+<b>Jon:</b> With this you surely can complete the Pokedex easier no?
+<b>Jon:</b> Avec ça tu vas pouvoir compléter le Pokédex plus facilement non ?
+<b>Jon:</b> Anyway, thank you again and see you around!
+<b>Jon:</b> En tout cas, merci encore et à la revoyure !
+<b>Jon:</b> Hello emmm... Oh! It's you \pn sorry. Did you find my glasses?
+<b>Jon:</b> Bonjour euuhhh... Oh ! C’est toi \pn pardon. Tu as trouvé mes lunettes ?
+<b>Jon:</b> Thank you again and see you around!
+<b>Jon:</b> Merci encore et à la revoyure !
+<b>Jon:</b> I will wait here!
+<b>Jon:</b> J’attendrai ici !
+<b>Jon:</b> Hello \pn! Keep up the good work!
+<b>Jon:</b> Bonjour \pn ! Continue de bien travailler !
+<b>\c[10]Maple:</b>\c[0] Here, you can have one of these 9 Pokémons.
+<b>\c[10]Maple:</b>\c[0] Tiens, tu peux avoir l’un de ces 9 Pokémon.
+<b>\c[10]Maple:</b>\c[0] I tried to select a wide variety of Pokemons, from different regions.
+<b>\c[10]Maple:</b>\c[0] J’ai essayé de choisir une large variété de Pokémon, de différentes régions.
+<b>\c[10]Maple:</b>\c[0] Choose wisely !
+<b>\c[10]Maple:</b>\c[0] Choisis bien !
+Do you want to see explanations on Social Links?
+Voulez-vous lire les explications des Liens Sociaux ?
+<b>\c[10]Maple:</b>\c[0] Ah, you made your choice!
+<b>\c[10]Maple:</b>\c[0] Ah, tu as fait ton choix !
+<b>\c[10]Maple:</b>\c[0] Here, I will also give you that.
+<b>\c[10]Maple:</b>\c[0] Je te donne également ceci.
+\PN received a Pokédex!
+\PN a reçu un Pokédex !
+<b>\c[10]Maple:</b>\c[0] I know you will be a Gym leader so complete the Pokedex will not be your main task.
+<b>\c[10]Maple:</b>\c[0] Je sais bien qu’en tant que Champion d’Arène compléter le Pokédex ne sera pas ta priorité.
+<b>\c[10]Maple:</b>\c[0] But if you find the time... Be sure I will reward you!
+<b>\c[10]Maple:</b>\c[0] Mais si tu trouves le temps… Sois sûr que je te récompenserai !
+<b>\c[10]Maple:</b>\c[0] And this tool itself is very convenient. It holds a great deal of informations!
+<b>\c[10]Maple:</b>\c[0] D’ailleurs cet outil en lui-même est très convénient. Il renferme tout un tas d’informations !
+Do you want to see explanations on the Pokémon Resume & Pokédex?
+Voulez-vous lire les explications du Résumé Pokémon et du Pokédex ?
+<b>\c[10]Maple:</b>\c[0] Now when you're ready, head outside and I will show you the Gym.
+<b>\c[10]Maple:</b>\c[0] Bon quand tu sera prêt, sors du labo et je te montrerai ton Arène.
+Do you want to see explanations on the Quest System?
+Voulez-vous lire les explications du système de quêtes ?
+<b>\c[10]Maple:</b>\c[0] So, you want Bunnelby, the Digging Pokémon? \f[BUNNELBY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Sapereau, le Pokémon Fouisseur ? \f[BUNNELBY]
+<b>\c[10]Maple:</b>\c[0] Do you want Chespin, the Spiny Nut Pokémon? \f[CHESPIN]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Marisson, le Pokémon Bogue ? \f[CHESPIN]
+<b>\c[10]Maple:</b>\c[0] Do you want Fennekin, the Fox Pokémon? \f[FENNEKIN]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Feunnec, le Pokémon Renard? \f[FENNEKIN]
+<b>\c[10]Maple:</b>\c[0] Do you want Froakie, the Bubble Frog Pokémon? \f[FROAKIE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Grenousse, le Pokémon Crapobulle ? \f[FROAKIE]
+<b>\c[10]Maple:</b>\c[0] Do you want Mareep, the Wool Pokémon? \f[MAREEP]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Wattouat, le Pokémon Laine? \f[MAREEP]
+<b>\c[10]Maple:</b>\c[0] Do you want Nidoran (male), the Poison Pin Pokémon?\f[NIDORANmA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nidoran&m;, le Pokémon Vénépic ?\f[NIDORANmA]
+<b>\c[10]Maple:</b>\c[0] Do you want Fletchling, the Tiny Robin Pokémon?\f[FLETCHLING]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Passerouge, le Pokémon Rougegorge ?\f[FLETCHLING]
+<b>\c[10]Maple:</b>\c[0] Do you want Snom, the Worm Pokémon?\f[SNOM]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Frisonille, le Pokémon Ver ?\f[SNOM]
+<b>\c[10]Maple:</b>\c[0] Do you want Amaura, the Tundra Pokémon?\f[AMAURA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Amagara, le Pokémon Toundra ?\f[AMAURA]
+<b>\c[10]Maple:</b>\c[0] Do you want Honedge, the Sword Pokémon?\f[HONEDGE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Monorpale, le Pokémon Glaive ?\f[HONEDGE]
+<b>\c[10]Maple:</b>\c[0] Do you want Goomy, the Soft Tissue Pokémon?\f[GOOMY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Mucuscule, le Pokémon Mollusque ?\f[GOOMY]
+<b>\c[10]Maple:</b>\c[0] Do you want Riolu, the Emanation Pokémon? \f[RIOLU]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Riolu, le Pokémon Émanation ? \f[RIOLU]
+<b>\c[10]Maple:</b>\c[0] Do you want Igglybuff, the Balloon Pokémon? \f[IGGLYBUFF]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Toudoudou, le Pokémon Bouboule ? \f[IGGLYBUFF]
+<b>\c[10]Maple:</b>\c[0] Do you want Pidgey, the Tiny Bird Pokémon? \f[PIDGEY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Roucool, le Pokémon Minoiseau ? \f[PIDGEY]
+<b>\c[10]Maple:</b>\c[0] Do you want Bulbasaur, the Seed Pokémon? \f[BULBASAUR]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Bulbizarre, le Pokémon Graine ? \f[BULBASAUR]
+<b>\c[10]Maple:</b>\c[0] Do you want Charmander, the Lizard Pokémon? \f[CHARMANDER]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Salamèche, le Pokémon Lézard ? \f[CHARMANDER]
+<b>\c[10]Maple:</b>\c[0] Do you want Squirtle, the Tiny Turtle Pokémon? \f[SQUIRTLE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Carapuce, le Pokémon Minitortue ? \f[SQUIRTLE]
+<b>\c[10]Maple:</b>\c[0] Do you want Pichu, the Tiny Mouse Pokémon?\f[PICHU] (This Pichu knows Disarming Voice)
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Pichu, le Pokémon Minisouris ?\f[PICHU] (Ce pichu connaît Voix Envoûtante)
+<b>\c[10]Maple:</b>\c[0] Do you want Stufful, the Flailing Pokémon? \f[STUFFUL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nounourson, le Pokémon Gigoteur ? \f[STUFFUL]
+<b>\c[10]Maple:</b>\c[0] Do you want Cubone, the Lonely Pokémon? \f[CUBONE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Osselait, le Pokémon Solitaire ? \f[CUBONE]
+<b>\c[10]Maple:</b>\c[0] Do you want Abra, the Psi Pokémon? \f[ABRA] (This Abra knows the move Hidden Power)
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Abra, le Pokémon Psy ? \f[ABRA] (Cet Abra connaît Puissance Cachée)
+<b>\c[10]Maple:</b>\c[0] Do you want Rhyhorn, the Spikes Pokémon? \f[RHYHORN]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Rhinocorne, le Pokémon Piquant ? \f[RHYHORN]
+<b>\c[10]Maple:</b>\c[0] Do you want Gastly, the Gas Pokémon?\f[GASTLY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Fantominus, le Pokémon Gaz ?\f[GASTLY]
+<b>\c[10]Maple:</b>\c[0] Do you want Snorunt (female), the Snow Hat Pokémon? \f[SNORUNT]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Stalgamin&f;, le Pokémon Capuche ? \f[SNORUNT]
+<b>\c[10]Maple:</b>\c[0] Do you want Dratini, the Dragon Pokémon? \f[DRATINI]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Minidraco, le Pokémon Dragon ? \f[DRATINI]
+<b>\c[10]Maple:</b>\c[0] Do you want Larvitar, the Rock Skin Pokémon?\f[LARVITAR]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Embrylex, le Pokémon Peaupierre ?\f[LARVITAR]
+<b>\c[10]Maple:</b>\c[0] Do you want Cleffa, the Star Shape Pokémon? \f[CLEFFA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Mélo, le Pokémon Étoile ? \f[CLEFFA]
+<b>\c[10]Maple:</b>\c[0] Do you want Rowlet, the Grass Quill Pokémon? \f[ROWLET]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Brindibou, le Pokémon Plumefeuille ? \f[ROWLET]
+<b>\c[10]Maple:</b>\c[0] Do you want Litten, the Fire Cat Pokémon? \f[LITTEN]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Flamiaou, le Pokémon Chat Feu ? \f[LITTEN]
+<b>\c[10]Maple:</b>\c[0] Do you want Popplio, the Sea Lion Pokémon? \f[POPPLIO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Otaquin, le Pokémon Otarie ? \f[POPPLIO]
+<b>\c[10]Maple:</b>\c[0] Do you want Jangmo-o, the Scaly Pokémon? \f[JANGMOO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Bébécaille, le Pokémon Écailles ? \f[JANGMOO]
+<b>\c[10]Maple:</b>\c[0] Do you want Pidgey, the Tiny Bird Pokémon?\f[PIDGEY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Roucool, le Pokémon Minoiseau ?\f[PIDGEY]
+<b>\c[10]Maple:</b>\c[0] Do you want Wimpod, the Turn Tail Pokémon?\f[WIMPOD]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Sovkipou, le Pokémon Cavaleur ?\f[WIMPOD]
+<b>\c[10]Maple:</b>\c[0] Do you want Rockruff, the Puppy Pokémon?\f[ROCKRUFF]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Rocabot, le Pokémon Chiot ?\f[ROCKRUFF]
+<b>\c[10]Maple:</b>\c[0] So, you want Swinub, the Pig Pokémon? \f[SWINUB]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Marcacrin, le Pokémon Cochon ? \f[SWINUB]
+<b>\c[10]Maple:</b>\c[0] Do you want Pawniard, the Sharp Blade Pokémon?\f[PAWNIARD]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Scalpion, le Pokémon Coupant ?\f[PAWNIARD]
+<b>Franck:</b> Hello \pn!
+<b>Franck:</b> Bonjour \pn!
+<b>Franck:</b> Prof. Maple gave me a bed here so I can rest.
+<b>Franck:</b> Le Prof Maple m’a donné un lit ici pour que je puisse me reposer.
+<b>Franck:</b> So I'm just enjoying the weekend!
+<b>Franck:</b> Donc je profite juste du week-end !
+<b>Franck:</b> How are you \pn?
+<b>Franck:</b> Comment vas-tu \pn?
+See a tutorial
+See a tutorial
+<b>Pat:</b> Oh hello! I'm Pat, the new scientist!
+<b>Pat:</b> Oh bonjour ! Je suis Pat, le nouveau scientifique !
+<b>Pat:</b> ...so that's you, our Gym Leader! Greetings! Prof Maple spoke a lot about you.
+<b>Pat:</b> …donc c’est toi notre Champion d’Arène ? Enchanté ! Le Prof Maple m’a beaucoup parlé de toi.
+<b>Pat:</b> I joined the team to be the IT specialist. Maple and Jon clearly needed a hand on this subject...
+<b>Pat:</b> J’ai rejoint l’équipe pour être l’expert informatique. Maple et Jon avaient clairement besoin d’un coup de main sur ce sujet…
+<b>Pat:</b> Speaking of this, can you help me?
+<b>Pat:</b> En parlant de ça, tu peux m’aider ?
+<b>Pat:</b> Did you came accross some shards while mining glowing rocks?
+<b>Pat:</b> Tu es déjà tombé sur des Tessons en minant des rochers luisants ?
+<b>Pat:</b> We discovered that these shards emitted a faint amount of energy, depending on their colors.
+<b>Pat:</b> On a découvert que ces Tessons émettaient une petite quantité d'énergie, dépendant de leur couleur.
+<b>Pat:</b> It means yellow shards can actually produce some electricity!
+<b>Pat:</b> Cela signifie que les Tessons Jaunes peuvent produire de l’électricité !
+<b>Pat:</b> I'm currently working on an improved version of your Pokegear, requested by Maple.
+<b>Pat:</b> Je suis en train de travailler sur une version améliorée du Pokegear, sur demande de Maple.
+<b>Pat:</b> It would allows you to consult the Town State App, showing you various infos on the town.
+<b>Pat:</b> Cela te permettrait de consulter l’Appli “Etat de la Ville”, te montrant diverses infos sur la ville.
+<b>Pat:</b> Like your funds, workers, fame, what do you gain every week...
+<b>Pat:</b> Comme les fonds, les ouvriers, la Fame, les gains hebdomadaires…
+<b>Pat:</b> But for this I need more yellow shards! Can you give me 5 of them?
+<b>Pat:</b> Mais pour cela j’ai besoin de plus de Tessons Jaunes ! Peux-tu m’en donner 5 ?
+You already have 5 yellow shards! Do you want to give it to Pat?
+Vous avez déjà 5 Tessons jaunes ! Voulez-vous les donner à Pat ?
+<b>Pat:</b> What? You already have 5 yellow shards? Lucky me!
+<b>Pat:</b> Quoi ? Tu as déjà 5 Tessons Jaunes ? J’en ai de la chance !
+You give the shards to Pat.
+Vous donnez les Tessons à Pat.
+<b>Pat:</b> Okay well, let me just install everything...
+<b>Pat:</b> Ok alors laisse moi juste tout installer…
+A few minutes later...
+Quelques minutes plus tard…
+<b>Pat:</b> It's done! It works really well, check it out!
+<b>Pat:</b> C’est fait ! Et ça marche vraiment bien, regarde !
+Pokegear updated!
+Pokegear amélioré !
+<b>Pat:</b> Well thank you for your help! These shards will be very useful to me!
+<b>Pat:</b> Eh bien merci pour ton aide ! Ces Tessons me seront très utiles !
+<b>Pat:</b> ...what? No I didn't need all 5 for your Pokegear haha, only one! But thank you for your help!
+<b>Pat:</b> ...quoi ? Non j’avais pas besoin des 5 pour ton Pokegear haha, seulement un ! Mais merci pour ton aide !
+<b>Pat:</b> Thanks a lot for your help!
+<b>Pat:</b> Merci beaucoup pour ton aide !
+<b>Pat:</b> Hello \pn, how are you? Found enough yellow shards yet?
+<b>Pat:</b> Bonjour \pn, comment vas-tu ? Tu as trouvé assez de Tessons Jaunes ?
+You have 5 yellow shards! Do you want to give it to Pat?
+Vous avez 5 Tessons Jaunes ! Voulez-vous les donner à Pat ?
+<b>Pat:</b> You have 5 yellow shards? Okay good, give me!
+<b>Pat:</b> Tu as 5 Tessons Jaunes ? Ok super, donne !
+<b>Pat:</b> No? No problem, I will wait here!
+<b>Pat:</b> Non ? Aucun soucis, j’attends ici !
+<b>Pat:</b> Hello \pn, how are you? Is your Pokegear working well?
+<b>Pat:</b> Bonjour \pn, comment vas-tu ? Ton Pokegear marche bien ?
+<b>\c[10]Maple:</b>\c[0] So, you want Porygon, the Virtual Pokémon? \f[PORYGON]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Porygon, le Pokémon Virtuel ? \f[PORYGON]
+<b>\c[10]Maple:</b>\c[0] Do you want Chikorita, the Leaf Pokémon? \f[CHIKORITA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Germignon, le Pokémon Feuille ? \f[CHIKORITA]
+<b>\c[10]Maple:</b>\c[0] Do you want Cyndaquil, the Fire Mouse Pokémon? \f[CYNDAQUIL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Héricendre, le Pokémon Souris Feu ? \f[CYNDAQUIL]
+<b>\c[10]Maple:</b>\c[0] Do you want Totodile, the Big Jaw Pokémon? \f[TOTODILE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Kaiminus, le Pokémon Mâchoire ? \f[TOTODILE]
+<b>\c[10]Maple:</b>\c[0] Do you want Togepi, the Spike Ball Pokémon?\f[TOGEPI]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Togepi, le Pokémon Balle Pic ?\f[TOGEPI]
+<b>\c[10]Maple:</b>\c[0] Do you want Slowpoke, the Dopey Pokémon?\f[SLOWPOKE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Ramoloss, le Pokémon Crétin ?\f[SLOWPOKE]
+<b>\c[10]Maple:</b>\c[0] Do you want Pineco, the Bagworm Pokémon?\f[PINECO]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Pomdepik, le Pokémon Ver Caché ?\f[PINECO]
+<b>\c[10]Maple:</b>\c[0] Do you want Misdreavus, the Screech Pokémon?\f[MISDREAVUS]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Feuforêve, le Pokémon Strident ?\f[MISDREAVUS]
+<b>\c[10]Maple:</b>\c[0] Do you want Houndour, the Dark Pokémon?\f[HOUNDOUR]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Malosse, le Pokémon Sombre ?\f[HOUNDOUR]
+<b>\r???:</b>\c[0] Humpf, move !
+<b>\r???:</b>\c[0] Humpf, bouge !
+But why was it in a trash tho??
+Mais pourquoi c’était dans une poubelle ??
+<b>\c[10]Maple:</b>\c[0] Do you want Grookey, the Chimp Pokémon? \f[GROOKEY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Ouistempo, le Pokémon Chimpanzé ? \f[GROOKEY]
+<b>\c[10]Maple:</b>\c[0] Do you want Scorbunny, the Rabbit Pokémon? \f[SCORBUNNY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Flambino, le Pokémon Lapin ? \f[SCORBUNNY]
+<b>\c[10]Maple:</b>\c[0] Do you want Sobble, the Water Lizard Pokémon? \f[SOBBLE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Larméléon, le Pokémon Lézard’Eau ? \f[SOBBLE]
+<b>\c[10]Maple:</b>\c[0] Do you want Toxel, the Baby Pokémon? \f[TOXEL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Toxizap, le Pokémon Poupon ? \f[TOXEL]
+<b>\c[10]Maple:</b>\c[0] Do you want Toxel, the Baby Pokémon?\f[TOXEL]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Toxizap, le Pokémon Poupon ?\f[TOXEL]
+<b>\c[10]Maple:</b>\c[0] Do you want Rookidee, the Tiny Bird Pokémon?\f[ROOKIDEE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Minisange, le Pokémon Minoiseau ?\f[ROOKIDEE]
+<b>\c[10]Maple:</b>\c[0] Do you want Hatenna, the Calm Pokémon?\f[HATENNA]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Bibichut, le Pokémon Calme ?\f[HATENNA]
+<b>\c[10]Maple:</b>\c[0] Do you want Sizzlipede, the Radiator Pokémon?\f[SIZZLIPEDE]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Grillepattes, le Pokémon Calorifère ?\f[SIZZLIPEDE]
+<b>\c[10]Maple:</b>\c[0] Do you want Rolycoly, the Coal Pokémon?\f[ROLYCOLY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Charbi, le Pokémon Charbon ?\f[ROLYCOLY]
+<b>\c[10]Maple:</b>\c[0] Do you want Dreepy, the Lingering Pokémon?\f[DREEPY]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Fantyrm, le Pokémon Âme Errante ?\f[DREEPY]
+<b>\c[10]Maple:</b>\c[0] Do you want Impidimp, the Wily Pokémon?\f[IMPIDIMP]
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Grimalin, le Pokémon Malin ?\f[IMPIDIMP]
+Yes
+Oui
+No
+Non
+Do not change party
+Ne pas changer d’équipe
+Change party
+Changer d’équipe
+Quest
+Quête
+Give gift
+Offrir cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+Social Links
+Liens Sociaux
+Resume & Pokedex
+Résumé et Pokédex
+Quests
+Quêtes
+Time System
+Cycle de temps
+Nekanta Map
+Carte de Nekanta

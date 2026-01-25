@@ -52,7 +52,7 @@ class Spriteset_Map
     
     # Am I the primary spriteset?
     @is_primary = (SunSettings.primary_spriteset == self)
-    echoln "Spriteset initialized - Primary: #{@is_primary}, Total spritesets: #{SunSettings.active_spritesets.length}"
+    #echoln "Spriteset initialized - Primary: #{@is_primary}, Total spritesets: #{SunSettings.active_spritesets.length}"
     
     $sun_switch = true
   end
@@ -63,9 +63,9 @@ class Spriteset_Map
     # If I was primary and there are no more spritesets, clean up the sun
     if @is_primary && SunSettings.active_spritesets.empty?
       disposeSun
-      echoln "Last spriteset disposing - sun cleaned up"
+      #echoln "Last spriteset disposing - sun cleaned up"
     elsif @is_primary
-      echoln "Primary spriteset disposed but #{SunSettings.active_spritesets.length} others remain"
+      #echoln "Primary spriteset disposed but #{SunSettings.active_spritesets.length} others remain"
     end
     
     super if defined?(super)
@@ -113,7 +113,7 @@ class Spriteset_Map
     # Store globally
     SunSettings.sun_sprite = sun_sprite
     
-    echoln "SUN CREATED - Opacity: #{sun_sprite.opacity}, Object ID: #{sun_sprite.object_id}"
+    #echoln "SUN CREATED - Opacity: #{sun_sprite.opacity}, Object ID: #{sun_sprite.object_id}"
   end
   #===============================================================================
 
@@ -137,7 +137,7 @@ class Spriteset_Map
       if sun_sprite && !sun_sprite.disposed?
         new_opacity = calculateSunAlpha
         if sun_sprite.opacity != new_opacity
-          echoln "SUN OPACITY CHANGE: #{sun_sprite.opacity} -> #{new_opacity}, Object ID: #{sun_sprite.object_id}"
+          #echoln "SUN OPACITY CHANGE: #{sun_sprite.opacity} -> #{new_opacity}, Object ID: #{sun_sprite.object_id}"
           sun_sprite.opacity = new_opacity
         end
       end
@@ -150,7 +150,7 @@ class Spriteset_Map
   def disposeSun
     sun_sprite = SunSettings.sun_sprite
     if sun_sprite && !sun_sprite.disposed?
-      echoln "SUN DISPOSED - Object ID: #{sun_sprite.object_id}"
+      #echoln "SUN DISPOSED - Object ID: #{sun_sprite.object_id}"
       sun_sprite.dispose
     end
     SunSettings.sun_sprite = nil

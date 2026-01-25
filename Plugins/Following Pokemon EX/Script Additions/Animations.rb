@@ -75,13 +75,12 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     battler.setDelta(0, -240, 0)
     battler.moveDelta(delay, 12, 240, 0)
     battler.setCallback(delay + 12, [batSprite,:pbPlayIntroAnimation])
-	shadowAppear(@battler, delay)
-    #if @shadowVisible
-     # shadow = addSprite(shaSprite, PictureOrigin::CENTER)
-     # shadow.setVisible(delay, @shadowVisible)
-     # shadow.setDelta(0, -Graphics.width/2, 0)
-     # shadow.setDelta(delay, 12, Graphics.width/2, 0)
-    #end
+    if @shadowVisible
+      shadow = addSprite(shaSprite, PictureOrigin::CENTER)
+      shadow.setVisible(delay, @shadowVisible)
+      shadow.setDelta(0, -Graphics.width/2, 0)
+      shadow.setDelta(delay, 12, Graphics.width/2, 0)
+    end
   end
 end
 

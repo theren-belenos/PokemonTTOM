@@ -1,0 +1,66 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map405]
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>\c[2]Tom:</b>\c[0] Maybe we should ask for reinforcements?
+<b>\c[2]Tom:</b>\c[0] On devrait peut-être demander des renforts ?
+<b><c3=BDA46A,736440>Samy:</b></c3> You’re right! They heard that for sure!
+<b><c3=BDA46A,736440>Samy:</b></c3> T’as raison! Ils ont entendu, c’est sûr!
+<b>\c[2]Tom:</b>\c[0] Damn, you're right... But 3 might not be enough is it's their headquarters.
+<b>\c[2]Tom:</b>\c[0] Mince, t'as raison... Mais si c'est leur QG, 3 personnes ça sera peut-être pas assez.
+<b><c3=BDA46A,736440>Samy:</b></c3> Hah! Don't worry lads, I see the solution to our problems!
+<b><c3=BDA46A,736440>Samy:</b></c3> Hah! Vous inquiétez pas les amis, j'aperçois la solution à nos problèmes !
+<b>\c[2]Tom:</b>\c[0] Oh it's our new \gt Leader! How are you, \pn?
+<b>\c[2]Tom:</b>\c[0] Oh c'est notre nouveau Leader \gt ! Comment vas-tu \pn ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Exactly! I met him at Sombake!
+<b><c3=BDA46A,736440>Samy:</b></c3> Exactement ! Je l’ai rencontré à Sombake !
+This person bows and seems to be happy to meet you.
+La personne s’incline et paraît heureuse de vous rencontrer.
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn, this is the Normal Leader, a good friend of mine.
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn, voici le Leader Normal, un bon ami.
+<b><c3=BDA46A,736440>Samy:</b></c3> They can’t speak but whatever, they’re a really friendly lad!
+<b><c3=BDA46A,736440>Samy:</b></c3> Iel ne peut pas parler mais on s’en fiche, en vrai iel est vraiment sympa !
+<b><c3=BDA46A,736440>Samy:</b></c3> I knew them for a long time so I can basically understand what they mean, for the most part.
+<b><c3=BDA46A,736440>Samy:</b></c3> On se connaît depuis longtemps donc j’arrive à comprendre ce qu’iel veut dire, en général.
+<b>\c[2]Tom:</b>\c[0] Yeah, it’s almost creepy how you two understand each other…
+<b>\c[2]Tom:</b>\c[0] Ouais, c’en est presque dérangeant à quel point vous vous comprenez…
+<b>???:</b> We don't have much time! It's sure they heard that!
+<b>???:</b> On a pas beaucoup de temps! C'est sûr qu'ils nous ont entendus !
+<b>???:</b> Are you sure? You're really strong, no?
+<b>???:</b> T'es sûr ? T'es vraiment fort non ?
+<b>\c[2]Tom:</b>\c[0] Hmm, but...
+<b>\c[2]Tom:</b>\c[0] Hmm, mais...
+<b>???:</b> Who?
+<b>???:</b> Qui ?
+<b>???:</b> It's you! You're the one who teamed with Samy at Sombake right?
+<b>???:</b> C'est toi ! T'es celui qui a fait équipe avec Samy à Sombake, c'est ça ?
+<b>Cassian:</b> Greetings to you! I'm Cassian, the Rock Leader!
+<b>Cassian:</b> Salutations ! Je suis Cassian, le Leader Roche !
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn is a really good kid, you'll see!
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn est vraiment quelqu'un de bien, vous verrez !
+<b>\c[2]Tom:</b>\c[0] Well we should be enough... I hope. The League is also aware of our operations.
+<b>\c[2]Tom:</b>\c[0] Bon on devrait être assez... J'espère. La Ligue est également au courant de notre opération.
+<b>\c[2]Tom:</b>\c[0] Aristarque or the Elite 4 will certainly not come. They're quite busy themselves with an urgent matter in Moonyang.
+<b>\c[2]Tom:</b>\c[0] Mais aucune chance qu'Aristarque ou le Conseil 4 ne vienne. Ils sont eux-mêmes occupés par une urgence à Moonyang.
+<b>\c[2]Tom:</b>\c[0] Let us go, right? Are you ready, \pn?
+<b>\c[2]Tom:</b>\c[0] Allons-y, ok ? T'es prêt, \pn ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Follow me, lads! Haha!
+<b><c3=BDA46A,736440>Samy:</b></c3> Suivez-moi, les amis ! Haha !
+<b>\c[2]Tom:</b>\c[0] We can't wait too much! Hurry up!
+<b>\c[2]Tom:</b>\c[0] On peut pas se permettre d'attendre trop longtemps ! Dépêche-toi !
+<b>\c[2]Tom:</b>\c[0] Ready to go \pn ?
+<b>\c[2]Tom:</b>\c[0] Prêt à y aller \pn ?
+<b>???:</b> ...oops
+<b>???:</b> ...oups
+<b>???:</b> ...well, I think we found the entrance...
+<b>???:</b> ...bon ben on doit l'avoir atteint...
+Yes
+Oui
+No
+Non

@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map046]
+<b>Matthias:</b> There! A big bug!
+<b>Matthias:</b> Là ! Un gros insecte !
+<b>Matthias:</b> Go away, strange bug!
+<b>Matthias:</b> Va-t-en, étrange insecte !
+<b>Policeman:</b> What? Who left an item here??
+<b>Policeman:</b> Quoi ? Qui a laissé un objet ici ??
+<b>Marcus:</b> Where are you going?
+<b>Marcus:</b> Tu vas où ?
+<b>Marcus:</b> You do go where you want!
+<b>Marcus:</b> Tu vas où tu veux !

@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map041]
+<b>Gervais:</b> Between land and sea! I like it!
+<b>Gervais:</b> Entre terre et mer ! Ça me plait !
+<b>Gervais:</b> Do you prefer land or sea?
+<b>Gervais:</b> Tu préfères la terre ou la mer ?
+<b>Policeman:</b> Stay safe during your trip citizen!
+<b>Policeman:</b> Stay safe during your trip citizen!

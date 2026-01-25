@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map032]
+<b>Hervé:</b> Oh hello \pn how are you?
+<b>Hervé:</b> Oh bonjour \pn comment vas-tu ?
+<b>Hervé:</b> I’m so glad I can work and live here again, with my sweet Melly!
+<b>Hervé:</b> Je suis tellement content de travailler et vivre ici de nouveau, avec ma chère Melly !
+<b>Hervé:</b> It was hard to live far from my daughter for this long.
+<b>Hervé:</b> C'était vraiment dur de vivre loin de ma fille pendant si longtemps.
+<b>Hervé:</b> You’re welcome here everytime you want! Come have dinner sometimes!
+<b>Hervé:</b> Tu es le bienvenue ici quand tu veux ! Viens manger à l'occasion !
+<b>\c[9]Melly:</b>\c[0] The weekend is nice! H...how do you spend it \pn?
+<b>\c[9]Melly:</b>\c[0] C'est cool le week-end ! Tu...tu le passes comment toi \pn?
+You already gave a gift to Melly this week!
+Vous avez déjà donné un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir

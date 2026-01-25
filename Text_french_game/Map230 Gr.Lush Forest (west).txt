@@ -1,0 +1,48 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map230]
+<b>Max:</b> Only bug-fans allowed here!
+<b>Max:</b> Seuls les fans d’insectes sont autorisés ici !
+<b>Max:</b> I hope you're a true bug fan!
+<b>Max:</b> J’espère que tu es un vrai fan d’insectes !
+<b>Monica:</b> Aaaah! These woods are so inspiring...
+<b>Monica:</b> Aaaah ! Ces bois sont si inspirants…
+<b>Monica:</b> So beautiful!
+<b>Monica:</b> Si joli !
+<b>Scientist:</b> Oh hello! I'm a scientist, I came here to gather some berries.
+<b>Scientifique:</b> Oh bonjour ! Je suis un scientifique, je viens ici pour cueillir quelques baies.
+<b>Scientist:</b> There is a lot in this part of the forest.
+<b>Scientifique:</b> Il y en a beaucoup dans cette partie de la forêt.
+<b>Scientist:</b> I even heard there is somewhere some very rare custap berries!
+<b>Scientifique:</b> J’ai même entendu dire qu’il y avait quelque part de très rares Baies Chérim !
+<b>Scientist:</b> If you happen to find some, can you give one to me? Thanks!
+<b>Scientifique:</b> Si tu réussis à en trouver, tu peux m’en donner une ? Merci !
+Do you want to give the scientist a custap berry?
+Voulez-vous donner une Baie Chérim au scientifique ?
+You give the scientist a custap berry.
+Vous donnez une Baie Chérim au scientique.
+<b>Scientist:</b> Why thank you! This will be very useful for me!
+<b>Scientist:</b> Eh bien, merci ! Ce sera extrêmement utile pour moi !
+<b>Scientist:</b> Here, let me give you this useful TM as a thanks!
+<b>Scientist:</b> Laisse moi te donner cette CT, bien utile, pour te remercier !
+<b>Scientist:</b> See you around!
+<b>Scientist:</b> A la revoyure !
+<b>Scientist:</b> Did you find some custap berries?
+<b>Scientist:</b> Tu as trouvé des Baies Chérim ?
+<b>Scientist:</b> Not yet? Don't you give up!
+<b>Scientist:</b> Pas encore ? N’abandonne pas !
+<b>Scientist:</b> Did you find some rare berries?
+<b>Scientist:</b> Tu as trouvé des baies rares ?
+<b>Man:</b> Hey! H...how did you get there? You were next to me!
+<b>Man:</b> Hey ! C…comment t’es arrivé là ? Tu étais à côté de moi !
+<b>Johnson:</b> I LOVE JOLTIKS!!!!!!!
+<b>Johnson:</b> J’ADORE LES STATITIKS !!!!!!
+<b>Johnson:</b> JOLTIIIIIIIIIIIIIKS!
+<b>Johnson:</b> STATITIIIIIIIIIIIIIKS !
+<b>Man:</b> What? How can I go further?
+<b>Man:</b> Hein ? Comment aller plus loin ?
+Yes
+Oui
+No
+Non

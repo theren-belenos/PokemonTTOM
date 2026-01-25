@@ -102,3 +102,33 @@ SurfCharset = object_snowball
 DiveCharset = object_snowball
 FishCharset = object_snowball
 SurfFishCharset = object_snowball
+#-------------------------------
+[10]
+TrainerType = Object
+WalkCharset = pkmn_graveler
+RunCharset = pkmn_graveler
+CycleCharset = pkmn_graveler
+SurfCharset = pkmn_graveler
+DiveCharset = pkmn_graveler
+FishCharset = pkmn_graveler
+SurfFishCharset = pkmn_graveler
+#-------------------------------
+[11]
+TrainerType = Object
+WalkCharset = pkmn_onix
+RunCharset = pkmn_onix
+CycleCharset = pkmn_onix
+SurfCharset = pkmn_onix
+DiveCharset = pkmn_onix
+FishCharset = pkmn_onix
+SurfFishCharset = pkmn_onix
+#-------------------------------
+[12]
+TrainerType = Object
+WalkCharset = pkmn_aerodactyl
+RunCharset = pkmn_aerodactyl
+CycleCharset = pkmn_aerodactyl
+SurfCharset = pkmn_aerodactyl
+DiveCharset = pkmn_aerodactyl
+FishCharset = pkmn_aerodactyl
+SurfFishCharset = pkmn_aerodactyl

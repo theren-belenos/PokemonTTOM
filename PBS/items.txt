@@ -4326,3 +4326,19 @@ Price = 0
 FieldUse = Direct
 Flags = KeyItem
 Description = Heals and revive all of your Pokémons a limited number of times. Replenish it by going to a Pokémon Center.
+#-------------------------------
+[MININGKIT]
+Name = Mining Kit
+NamePlural = Mining Kits
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Allows you to mine Glowing Rocks.
+#-------------------------------
+[CAMOSACKPASS]
+Name = Camosack Pass
+NamePlural = Camosack Pass
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Gain you access to Camosack, the Resort Center.

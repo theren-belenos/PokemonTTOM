@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map025]
+<b>Janet:</b> Aaaaaaaaah! Look at these flowers! They're almost as pretty as me!
+<b>Janet:</b> Aaaaaaaaah ! Regarde ces fleurs ! Elles sont presque aussi jolies que moi !
+<b>Janet:</b> Pretty floweeeeeeeers!
+<b>Janet:</b> Jolies fleuuuuuuuuurs !

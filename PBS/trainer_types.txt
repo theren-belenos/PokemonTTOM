@@ -1,4 +1,759 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
+#---------------------------------------------------
+
+#---------------------------------------------------
+#
+#		Story
+#
+#---------------------------------------------------
+#-------------------------------
+[MELLY]
+Name = Gym trainer
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
+#-------------------------------
+[SAMYBEFORE]
+Name = Pokémon trainer
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
+#-------------------------------
+[SAMY]
+Name = Gym trainer
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
+#-------------------------------
+[KYANA]
+Name = Gym trainer
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
+#-------------------------------
+[TEAMGRUNTMALE]
+Name = Team Absolution
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMGRUNTFEMALE]
+Name = Team Absolution
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMADMINMALE]
+Name = Absolution Admin
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamleader
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMADMINFEMALE]
+Name = Absolution Admin
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMGENIUS]
+Name = Absolution Genius
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_teamgrunt
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMLEADER]
+Name = Absolution Leader
+Gender = Male
+BaseMoney = 90
+IntroBGM = encounter_teamleader
+BattleBGM = battle_teamleader
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TEAMMYSTERYGUY]
+Name = Absolution
+Gender = Male
+BaseMoney = 90
+IntroBGM = encounter_teamgrunt
+BattleBGM = battle_kyogregroudon
+VictoryBGM = battle_victory_team
+#-------------------------------
+[TOM]
+Name = Stand-in Gym Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[TOMSteel]
+Name = Stand-in Gym Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[TOMFire]
+Name = Stand-in Gym Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[KATHLEENNL]
+Name = The
+Gender = Female
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[KATHLEEN]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[CASSIANNL]
+Name = The
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[CASSIAN]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+
+
+
+#---------------------------------------------------
+#
+#		1 Star
+#
+#---------------------------------------------------
+#-------------------------------
+[BUGCATCHER]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[CAMPERBOY]
+Name = Camper &m;
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[CAMPERGIRL]
+Name = Camper &f;
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[FUNOLDLADY]
+Name = Fun old lady
+Gender = Male
+SkillLevel = 16
+BaseMoney = 30
+IntroBGM = encounter_pokefan
+#-------------------------------
+[FUNOLDMAN]
+Name = Fun old man
+Gender = Male
+SkillLevel = 16
+BaseMoney = 30
+IntroBGM = encounter_pokefan
+#-------------------------------
+[IDOL]
+Name = Idol
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 32
+SkillLevel = 16
+IntroBGM = encounter_lass
+#-------------------------------
+[POKEFANFEMALE]
+Name = Pokéfan
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[POKEFANMALE]
+Name = Pokéfan
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[POKEKID]
+Name = Pokékid
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[PRESCHOOLERGIRL]
+Name = Preschooler
+Gender = Female
+BaseMoney = 8
+SkillLevel = 16
+IntroBGM = encounter_lady
+#-------------------------------
+[PRESCHOOLERBOY]
+Name = Preschooler
+Gender = Male
+BaseMoney = 8
+SkillLevel = 16
+IntroBGM = encounter_lady
+#-------------------------------
+[RICHBOY]
+Name = Rich Boy
+Gender = Male
+BaseMoney = 48
+SkillLevel = 8
+IntroBGM = encounter_youngster
+#---------------------------------------------
+[SCHOOLGIRL]
+Name = Schoolgirl
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_lass
+#---------------------------------------------
+[SCHOOLBOY]
+Name = Schoolboy
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[TOURISTFEMALE]
+Name = Tourist
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[TOURISTMALE]
+Name = Tourist
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_pokefan
+#-------------------------------
+[TUBERBOY]
+Name = Tuber &m;
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[TUBERGIRL]
+Name = Tuber &f;
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[TUBER2BOY]
+Name = Tuber &m;
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[TUBER2GIRL]
+Name = Tuber &f;
+Gender = Female
+BaseMoney = 16
+IntroBGM = encounter_youngster
+#-------------------------------
+[YOUNGSTER]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+IntroBGM = encounter_youngster
+
+
+
+#---------------------------------------------------
+#
+#		2 Star
+#
+#---------------------------------------------------
+#-------------------------------
+[BACKPACKERMALE]
+Name = Backpacker
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_hiker
+#-------------------------------
+[BACKPACKERFEMALE]
+Name = Backpacker
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_hiker
+#-------------------------------
+[BUGMANIAC]
+Name = Bugmaniac
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_pokemaniac
+#-------------------------------
+[CLOWN]
+Name = Clown
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_pokefan
+#-------------------------------
+[COLLECTOR]
+Name = Collector
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[ENGINEER]
+Name = Engineer
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[FURISODEGIRL4]
+Name = Furisode Girl
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[JANITOR]
+Name = Janitor
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_gentleman
+#-------------------------------
+[LASS]
+Name = Lass
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_lass
+#-------------------------------
+[MAID]
+Name = Maid
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_gentleman
+#-------------------------------
+[NINJABOY]
+Name = Ninja boy
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_lass
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEMONBREEDERFEMALE]
+Name = Pokémon Breeder &f;
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEMONBREEDERMALE]
+Name = Pokémon Breeder &m;
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[PUNKTRAINERFEMALE]
+Name = Punk Trainer &f;
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_delinquent
+#-------------------------------
+[PUNKTRAINERMALE]
+Name = Punk Trainer &m;
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_delinquent
+#-------------------------------
+[SWIMMERFEMALE] 
+Name = Swimmer &f;
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[SWIMMERMALE]
+Name = Swimmer &m;
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[SWIMMER2FEMALE]
+Name = Swimmer &f;
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
+[SWIMMER2MALE]
+Name = Swimmer &m;
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+
+
+#---------------------------------------------------
+#
+#		3 Star
+#
+#---------------------------------------------------
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_lass
+#-------------------------------
+[ARTISTFEMALE]
+Name = Artist
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[ARTISTMALE]
+Name = Artist
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_lass
+#-------------------------------
+[BIKER]
+Name = Biker
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 100
+SkillLevel = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[BUTLER]
+Name = Butler
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_gentleman
+#-------------------------------
+[CHANNELER]
+Name = Channeler
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[COWGIRL]
+Name = Cowgirl
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_hiker
+#-------------------------------
+[CYCLISTFEMALE]
+Name = Cyclist
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[CYCLISTMALE]
+Name = Cyclist
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[DELINQUENT]
+Name = Delinquant
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_delinquent
+#-------------------------------
+[FIREBREATHER]
+Name = Firebreather
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_pokefan
+#-------------------------------
+[GARDENER]
+Name = Gardener
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_gentleman
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_hiker
+#-------------------------------
+[JOGGER]
+Name = Jogger
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[MUSICIAN]
+Name = Musician
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_psychic
+#-------------------------------
+[PARASOLLADY]
+Name = Parasol Lady
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[POSTMAN]
+Name = Postman
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[ROLLERSKATERFEMALE]
+Name = Roller Skater &f;
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[ROLLERSKATERMALE]
+Name = Roller Skater &m;
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[TAMER]
+Name = Tamer
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+#-------------------------------
+[WORKERMALE]
+Name = Worker &m;
+Gender = Male
+BaseMoney = 48
+IntroBGM = encounter_youngster
+
+#---------------------------------------------------
+#
+#		4 Star
+#
+#---------------------------------------------------
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[CRUSHGIRL]
+Name = Crush Girl
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[FIREFIGHTER]
+Name = Firefighter
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[HEXMANIAC]
+Name = Hex Maniac
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_pokemaniac
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEMONRANGERMALE]
+Name = Pokémon Ranger &m;
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[POKEMONRANGERFEMALE]
+Name = Pokémon Ranger &f;
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[PSYCHICFEMALE]
+Name = Psychic &f;
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[PSYCHICMALE]
+Name = Psychic &m;
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[ROUGHNECK]
+Name = Roughneck
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[SCIENTISTFEMALE]
+Name = Scientist &f;
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[SCIENTISTMALE]
+Name = Scientist &m;
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+
+#---------------------------------------------------
+#
+#		5 Star
+#
+#---------------------------------------------------
+#-------------------------------
+[ACETRAINERFEMALE]
+Name = Ace Trainer &f;
+Gender = Female
+BaseMoney = 80
+IntroBGM = encounter_youngster
+#-------------------------------
+[ACETRAINERMALE]
+Name = Ace Trainer &m;
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_youngster
+
+#-------------------------------
+[BIRDKEEPER]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_youngster
+#-------------------------------
+[COOLTRAINERFEMALE]
+Name = Cool Trainer &f;
+Gender = Female
+BaseMoney = 80
+IntroBGM = encounter_youngster
+#-------------------------------
+[COOLTRAINERMALE]
+Name = Cool Trainer &m;
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_youngster
+#-------------------------------
+[GAMBLER]
+Name = Gambler
+Gender = Male
+BaseMoney = 150
+SkillLevel = 80
+IntroBGM = encounter_youngster
+
+
+
+#---------------------------------------------------
+#
+#		6 Star
+#
+#---------------------------------------------------
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 90
+IntroBGM = encounter_youngster
+
+
+
+#---------------------------------------------------
+#
+#		7 Star
+#
+#---------------------------------------------------
+
+
+
+
+#---------------------------------------------------
+#
+#		Autres
+#
+#---------------------------------------------------
+#-------------------------------
+[WILDCROAGUNKS]
+Name = Some wild
+Gender = Unknown
+BaseMoney = 0
+IntroBGM = encounter_youngster
 #-------------------------------
 [Object]
 Name = Object
@@ -57,259 +812,24 @@ IntroBGM = encounter_youngster
 [RIVAL1]
 Name = Rival
 Gender = Male
-BaseMoney = 16
+BaseMoney = 32
 SkillLevel = 0
 IntroBGM = encounter_youngster
 #-------------------------------
 [RIVAL2]
 Name = Rival
 Gender = Male
-BaseMoney = 36
-IntroBGM = encounter_youngster
-#-------------------------------
-[AROMALADY]
-Name = Aroma Lady
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_lass
-#-------------------------------
-[BEAUTY]
-Name = Beauty
-Gender = Female
-BaseMoney = 48
-IntroBGM = encounter_lass
-#-------------------------------
-[BIKER]
-Name = Biker
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[BIRDKEEPER]
-Name = Bird Keeper
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[BURGLAR]
-Name = Burglar
-Gender = Male
-BaseMoney = 88
-SkillLevel = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[CHANNELER]
-Name = Channeler
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[CUEBALL]
-Name = Cue Ball
-Gender = Male
-BaseMoney = 24
-IntroBGM = encounter_youngster
-#-------------------------------
-[ENGINEER]
-Name = Engineer
-Gender = Male
 BaseMoney = 48
 IntroBGM = encounter_youngster
-#-------------------------------
-[GAMBLER]
-Name = Gambler
-Gender = Male
-BaseMoney = 72
-SkillLevel = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[GENTLEMAN]
-Name = Gentleman
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[JUGGLER]
-Name = Juggler
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[PAINTER]
-Name = Painter
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_lass
-#-------------------------------
-[POKEMANIAC]
-Name = Poké Maniac
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[POKEMONBREEDER]
-Name = Pokémon Breeder
-Gender = Female
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[PROFESSOR]
-Name = Professor
-Gender = Male
-BaseMoney = 100
-IntroBGM = encounter_youngster
-#-------------------------------
-[ROCKER]
-Name = Rocker
-Gender = Male
-BaseMoney = 24
-IntroBGM = encounter_youngster
-#-------------------------------
-[RUINMANIAC]
-Name = Ruin Maniac
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[SAILOR]
-Name = Sailor
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[SCIENTIST]
-Name = Scientist
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[SUPERNERD]
-Name = Super Nerd
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[TAMER]
-Name = Tamer
-Gender = Male
-BaseMoney = 40
-IntroBGM = encounter_youngster
-#-------------------------------
-[BLACKBELT]
-Name = Black Belt
-Gender = Male
-BaseMoney = 64
-IntroBGM = encounter_youngster
-#-------------------------------
-[CRUSHGIRL]
-Name = Crush Girl
-Gender = Female
-BaseMoney = 24
-IntroBGM = encounter_youngster
-#-------------------------------
-[PICNICKER]
-Name = Picnicker
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_lass
-#-------------------------------
-[COOLTRAINERMALE]
-Name = Cool Trainer &m;
-Gender = Male
-BaseMoney = 64
-IntroBGM = encounter_youngster
-#-------------------------------
-[COOLTRAINERFEMALE]
-Name = Cool Trainer &f;
-Gender = Female
-BaseMoney = 64
-IntroBGM = encounter_youngster
-#-------------------------------
-[LASS]
-Name = Lass
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_lass
-#-------------------------------
-[POKEMONRANGERMALE]
-Name = Pokémon Ranger
-Gender = Male
-BaseMoney = 60
-IntroBGM = encounter_youngster
-#-------------------------------
-[POKEMONRANGERFEMALE]
-Name = Pokémon Ranger
-Gender = Female
-BaseMoney = 60
-IntroBGM = encounter_youngster
-#-------------------------------
-[PSYCHICMALE]
-Name = Psychic
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[PSYCHICFEMALE]
-Name = Psychic
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[SWIMMERMALE]
-Name = Swimmer
-Gender = Male
-BaseMoney = 16
-SkillLevel = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[SWIMMERFEMALE]
-Name = Swimmer
-Gender = Female
-BaseMoney = 16
-SkillLevel = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[SWIMMER2MALE]
-Name = Swimmer
-Gender = Male
-BaseMoney = 16
-SkillLevel = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[SWIMMER2FEMALE]
-Name = Swimmer
-Gender = Female
-BaseMoney = 16
-SkillLevel = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[TUBERBOY]
-Name = Tuber
-Gender = Male
-BaseMoney = 4
-SkillLevel = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[TUBERGIRL]
-Name = Tuber
-Gender = Female
-BaseMoney = 4
-SkillLevel = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[TUBER2BOY]
-Name = Tuber
-Gender = Male
-BaseMoney = 4
-SkillLevel = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[TUBER2GIRL]
-Name = Tuber
-Gender = Female
-BaseMoney = 4
-SkillLevel = 16
-IntroBGM = encounter_youngster
+
+
+
+#---------------------------------------------------
+#
+#		Duos
+#
+#---------------------------------------------------
+
 #-------------------------------
 [COOLCOUPLE]
 Name = Cool Couple
@@ -343,478 +863,15 @@ Gender = Unknown
 BaseMoney = 60
 SkillLevel = 32
 IntroBGM = encounter_youngster
+
+#---------------------------------------------------
 #
+#		Inutilisable (pas de sprites)
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#---------------------------------------------
-[SCHOOLGIRL]
-Name = Schoolgirl
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_lass
-#---------------------------------------------
-[SCHOOLBOY]
-Name = Schoolboy
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_youngster
+#---------------------------------------------------
 #-------------------------------
-[YOUNGSTER]
-Name = Youngster
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[BUGCATCHER]
-Name = Bug Catcher
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[JOGGER]
-Name = Jogger
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[CAMPERBOY]
-Name = Camper
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[CAMPERGIRL]
-Name = Camper
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[MELLY]
-Name = Gym trainer
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_rival
-BattleBGM = battle_rival
-#-------------------------------
-[SAMYBEFORE]
-Name = Pokémon trainer
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_rival
-BattleBGM = battle_rival
-#-------------------------------
-[SAMY]
-Name = Gym trainer
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_rival
-BattleBGM = battle_rival
-#-------------------------------
-[KYANA]
-Name = Gym trainer
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_rival
-BattleBGM = battle_rival
-#-------------------------------
-[COLLECTOR]
-Name = Collector
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[WILDCROAGUNKS]
-Name = Some wild
-Gender = Unknown
-BaseMoney = 0
-IntroBGM = encounter_youngster
-#-------------------------------
-[FUNOLDMAN]
-Name = Fun old man
-Gender = Male
-SkillLevel = 16
-BaseMoney = 30
-IntroBGM = encounter_pokefan
-#-------------------------------
-[FUNOLDLADY]
-Name = Fun old lady
-Gender = Male
-SkillLevel = 16
-BaseMoney = 30
-IntroBGM = encounter_pokefan
-#-------------------------------
-[PRESCHOOLERGIRL]
-Name = Preschooler
-Gender = Female
-BaseMoney = 8
-SkillLevel = 16
-IntroBGM = encounter_lady
-#-------------------------------
-[PRESCHOOLERBOY]
-Name = Preschooler
-Gender = Male
-BaseMoney = 8
-SkillLevel = 16
-IntroBGM = encounter_lady
-#-------------------------------
-[LADY]
-Name = Lady
-Gender = Female
-BaseMoney = 32
-SkillLevel = 16
-IntroBGM = encounter_lass
-#-------------------------------
-[BUGMANIAC]
-Name = Bugmaniac
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_pokemaniac
-#-------------------------------
-[GARDENER]
-Name = Gardener
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_gentleman
-#-------------------------------
-[NINJABOY]
-Name = Ninja boy
-Gender = Male
-BaseMoney = 24
-IntroBGM = encounter_youngster
-#-------------------------------
-[CYCLISTFEMALE]
-Name = Cyclist
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[CYCLISTMALE]
-Name = Cyclist
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[FISHERMAN]
-Name = Fisherman
-Gender = Male
-BaseMoney = 24
-IntroBGM = encounter_youngster
-#-------------------------------
-[BACKPACKERMALE]
-Name = Backpacker
-Gender = Male
-BaseMoney = 24
-IntroBGM = encounter_hiker
-#-------------------------------
-[BACKPACKERFEMALE]
-Name = Backpacker
-Gender = Female
-BaseMoney = 24
-IntroBGM = encounter_hiker
-#-------------------------------
-[HIKER]
-Name = Hiker
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_hiker
-#-------------------------------
-[POKEMONBREEDERFEMALE]
-Name = Pokémon Breeder
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[POKEMONBREEDERMALE]
-Name = Pokémon Breeder
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[ARTISTFEMALE]
-Name = Artist
-Gender = Female
-BaseMoney = 48
-IntroBGM = encounter_youngster
-#-------------------------------
-[ARTISTMALE]
-Name = Artist
+[ROCKER]
+Name = Rocker
 Gender = Male
 BaseMoney = 48
 IntroBGM = encounter_youngster
-#-------------------------------
-[RICHBOY]
-Name = Rich Boy
-Gender = Male
-BaseMoney = 48
-SkillLevel = 8
-IntroBGM = encounter_youngster
-#-------------------------------
-[POKEKID]
-Name = Pokékid
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[TOURISTFEMALE]
-Name = Tourist
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_pokefan
-#-------------------------------
-[TOURISTMALE]
-Name = Tourist
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_pokefan
-#-------------------------------
-[POKEFANFEMALE]
-Name = Pokéfan
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_pokefan
-#-------------------------------
-[POKEFANMALE]
-Name = Pokéfan
-Gender = Male
-BaseMoney = 16
-IntroBGM = encounter_pokefan
-#-------------------------------
-[IDOL]
-Name = Idol
-Gender = Female
-BaseMoney = 16
-IntroBGM = encounter_youngster
-#-------------------------------
-[JANITOR]
-Name = Janitor
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_gentleman
-#-------------------------------
-[PARASOLLADY]
-Name = Parasol Lady
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_youngster
-#-------------------------------
-[CLOWN]
-Name = Clown
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_pokefan
-#-------------------------------
-[COWGIRL]
-Name = Cowgirl
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_hiker
-#-------------------------------
-[MUSICIAN]
-Name = Musician
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_psychic
-#-------------------------------
-[HEXMANIAC]
-Name = Hex Maniac
-Gender = Female
-BaseMoney = 64
-IntroBGM = encounter_pokemaniac
-#-------------------------------
-[BUTLER]
-Name = Butler
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_gentleman
-#-------------------------------
-[PUNKTRAINERFEMALE]
-Name = Punk Trainer
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_delinquent
-#-------------------------------
-[PUNKTRAINERMALE]
-Name = Punk Trainer
-Gender = Male
-BaseMoney = 32
-IntroBGM = encounter_delinquent
-#-------------------------------
-[MAID]
-Name = Maid
-Gender = Female
-BaseMoney = 32
-IntroBGM = encounter_gentleman
-#-------------------------------
-[DELINQUENT]
-Name = Delinquant
-Gender = Female
-BaseMoney = 48
-IntroBGM = encounter_delinquent
-#-------------------------------
-[FIREBREATHER]
-Name = Firebreather
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_pokefan
-
-
-
-
-
-
-#-------------------------------
-[TEAMGRUNTMALE]
-Name = Team Absolution
-Gender = Male
-BaseMoney = 36
-IntroBGM = encounter_teamgrunt
-BattleBGM = battle_teamgrunt
-VictoryBGM = battle_victory_team
-#-------------------------------
-[TEAMGRUNTFEMALE]
-Name = Team Absolution
-Gender = Female
-BaseMoney = 36
-IntroBGM = encounter_teamgrunt
-BattleBGM = battle_teamgrunt
-VictoryBGM = battle_victory_team
-#-------------------------------
-[TEAMADMINMALE]
-Name = Absolution Admin
-Gender = Male
-BaseMoney = 48
-IntroBGM = encounter_teamgrunts
-BattleBGM = battle_teamleader
-VictoryBGM = battle_victory_team
-#-------------------------------
-[TEAMADMINFEMALE]
-Name = Absolution Admin
-Gender = Female
-BaseMoney = 48
-IntroBGM = encounter_teamgrunt
-BattleBGM = battle_teamgrunt
-VictoryBGM = battle_victory_team
-#-------------------------------
-[TEAMGENIUS]
-Name = Absolution Genius
-Gender = Male
-BaseMoney = 64
-IntroBGM = encounter_teamgrunt
-BattleBGM = battle_teamgrunt
-VictoryBGM = battle_victory_team
-#-------------------------------
-[TEAMLEADER]
-Name = Absolution Leader
-Gender = Male
-BaseMoney = 80
-IntroBGM = encounter_teamleader
-BattleBGM = battle_teamleader
-VictoryBGM = battle_victory_team
-#-------------------------------
-[TEAMMYSTERYGUY]
-Name = Mysterious
-Gender = Male
-BaseMoney = 80
-IntroBGM = encounter_teamgrunt
-BattleBGM = battle_teamgrunt
-VictoryBGM = battle_victory_team
-
-
-
-
-
-
-
-
-#-------------------------------
-[TOM]
-Name = Stand-in Gym Leader
-Gender = Male
-BaseMoney = 64
-BattleBGM = battle_gymleader
-VictoryBGM = battle_victory_gymleader
-#-------------------------------
-[KATHLEENNL]
-Name = The
-Gender = Female
-BaseMoney = 64
-BattleBGM = battle_gymleader
-VictoryBGM = battle_victory_gymleader
-#-------------------------------
-[KATHLEEN]
-Name = Gym Leader
-Gender = Female
-BaseMoney = 64
-BattleBGM = battle_gymleader
-VictoryBGM = battle_victory_gymleader
-#-------------------------------
-[CASSIANNL]
-Name = The
-Gender = Male
-BaseMoney = 64
-BattleBGM = battle_gymleader
-VictoryBGM = battle_victory_gymleader
-#-------------------------------
-[CASSIAN]
-Name = Gym Leader
-Gender = Male
-BaseMoney = 64
-BattleBGM = battle_gymleader
-VictoryBGM = battle_victory_gymleader

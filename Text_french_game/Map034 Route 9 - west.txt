@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map034]
+<b>Mindy:</b> Hello!!! Are you here to pratice with me???
+<b>Mindy:</b> Bonjour !!! Tu es là pour t’entraîner avec moi ???
+<b>Mindy:</b> You're too strong for me!
+<b>Mindy:</b> T’es trop fort pour moi !
+<b>Rick:</b> Ooooh yeah! The nature is so cool!
+<b>Rick:</b> Ooooh yeah ! La nature c’est trop cool !
+<b>Rick:</b> Stay cool, man.
+<b>Rick:</b> Reste cool, mec.
+<b>Wisteria:</b> Do you want to, trainer? Do you want us to explore the mystic arts together?
+<b>Wisteria:</b> Le veux-tu, dresseur ? Veux-tu que nous explorions les arts mystiques ensemble ?
+<b>Wisteria:</b> You might be good enough to explore even the dark arts...
+<b>Wisteria:</b> Tu pourrais même être assez fort pour explorer les arts obscurs…

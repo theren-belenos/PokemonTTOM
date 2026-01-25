@@ -1,0 +1,98 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map383]
+<b>Fany:</b> Damn! Where do you come from?
+<b>Fany:</b> Mince ! D’où tu viens ?
+<b>Elora:</b> Hey! Get lost!
+<b>Elora:</b> Hey ! Barre-toi !
+<b>Fany:</b> What do we do now??
+<b>Fany:</b> On fait quoi maintenant ??
+<b>Elora:</b> God damn it...
+<b>Elora:</b> C'est pas vrai...
+<b>???:</b> And who would you might be?
+<b>???:</b> Et t’es qui toi ?
+<b>???:</b> You wanna battle the Normal Leader? They "told" you to find someone named <b><c3=BDA46A,736440>Samy</b></c3>?
+<b>???:</b> Tu veux défier le Leader Normal ? Iel t’as “dit” de chercher quelqu’un appelé <b><c3=BDA46A,736440>Samy</b></c3> ?
+<b>???:</b> You wanna battle Kathleen? She told you to find someone named <b><c3=BDA46A,736440>Samy</b></c3>?
+<b>???:</b> Tu veux défier Kathleen ? Elle t’as dit de chercher quelqu’un appelé <b><c3=BDA46A,736440>Samy</b></c3>?
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha! That's me of course!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha ! C’est bien moi !
+<b><c3=BDA46A,736440>Samy:</b></c3> You want to help me in order to speed up things?
+<b><c3=BDA46A,736440>Samy:</b></c3> T’veux m’aider pour accélérer les choses ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Hah! But can you really be useful?
+<b><c3=BDA46A,736440>Samy:</b></c3> Hah ! Mais tu peux vraiment êt’ utile ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Show me what you got!
+<b><c3=BDA46A,736440>Samy:</b></c3> Montre moi c’que t’as dans l’ventre !
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha! Okay then, you're good!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha ! Ok, ok, t’es bon !
+<b><c3=BDA46A,736440>Samy:</b></c3> Well, let's explore this tunnel together!
+<b><c3=BDA46A,736440>Samy:</b></c3> Aller, explorons ce tunnel ensemble !
+<b><c3=BDA46A,736440>Samy:</b></c3> Don't worry, the Normal Leader packed me with a lot of healing items. Here!
+<b><c3=BDA46A,736440>Samy:</b></c3> T’inquiète, le Leader Normal m’a donné une tonne de médocs. Tiens !
+<b><c3=BDA46A,736440>Samy:</b></c3> Don't worry, the Rock Leader packed me with a lot of healing items. Here!
+<b><c3=BDA46A,736440>Samy:</b></c3> T’inquiète, le Leader Roche m’a donné une tonne de médocs. Tiens !
+Your team was completely healed!
+Votre équipe a été complètement soignée !
+<b><c3=BDA46A,736440>Samy:</b></c3> Let us go! Hahahah!
+<b><c3=BDA46A,736440>Samy:</b></c3> Allons-y ! Hahahah !
+<b><c3=BDA46A,736440>Samy:</b></c3> Wanna try again?
+<b><c3=BDA46A,736440>Samy:</b></c3> T’veux réessayer !
+<b><c3=BDA46A,736440>Samy:</b></c3> Feeling better? Let's go explore this tunnel again!
+<b><c3=BDA46A,736440>Samy:</b></c3> T’vas mieux ? On y retourne !
+<b><c3=BDA46A,736440>Samy:</b></c3> Hey lad, we aren't finished here! Let's explore this tunnel more!
+<b><c3=BDA46A,736440>Samy:</b></c3> Hé mon gars, on a pas fini là ! Explorons le tunnel ensemble !
+<b>Denis:</b> Who are you people??
+<b>Denis:</b> Vous êtes qui vous ??
+<b>Carl:</b> Hey! What are you doing here?
+<b>Carl:</b> Hey ! Qu’est-ce que vous faites là ?
+<b>Denis:</b> Argh!
+<b>Denis:</b> Argh !
+<b>Gladys:</b> Shit! We have to gain some time!
+<b>Gladys:</b> Non ! On doit gagner un peu de temps !
+<b>Hugo:</b> Copy that! Let's clear them off!
+<b>Hugo:</b> Bien reçu ! On les éclate !
+<b>Elias:</b> No but seriously, who authorized this operation? Who thought this so called seism could be useful?
+<b>Elias:</b> Non mais sérieusement qui a autorisé cette opération. Qui pensait que ce soi-disant séisme pourrait être utile ?
+<b>Elias:</b> Anyway, the door is shut and won't open anymore. We're safe. Now we just have to escape through the...
+<b>Elias:</b> En tout cas, la porte est fermée et ne pourra pas être réouverte. On est en sécurité. On doit juste s’échapper par le…
+<b>Elias:</b> What?? You already lost?? Are you for real?
+<b>Elias:</b> Quoi ?? Vous avez déjà perdu ?? Vous êtes sérieux ?
+<b>Elias:</b> Damn! I only have one Pokémon with me!
+<b>Elias:</b> Mince ! Je n’ai qu’un Pokémon avec moi !
+<b>Elias:</b> But it's a strong one so it might be enough...
+<b>Elias:</b> Mais il est assez puissant donc ça pourrait suffire…
+<b>Elias:</b> I don't know who you are you two, but as an admin, I won't let you get in the way of Team Absolution!
+<b>Elias:</b> Je ne sais pas qui vous êtes, vous deux, mais en tant qu’Admin, je vous laisserai pas vous mettre en travers de la Team Absolution !
+<b>Elias:</b> No!! It wasn't enough...
+<b>Elias:</b> Non !! C’était pas suffisant…
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha! Nice work out there! They're powerless now!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha ! Joli travail ! Ils sont sans défense maintenant !
+<b>Elias:</b> Tch! You won't pass this door anyway!
+<b>Elias:</b> Tch ! Vous ne passerez pas cette porte de toute façon !
+<b><c3=BDA46A,736440>Samy:</b></c3> For the time being, let's bring these strange persons to the police. And let's get out of here.
+<b><c3=BDA46A,736440>Samy:</b></c3> Pour l’instant, amenons ces étranges personnes à la police. Et partons d’là.
+You lost! Samy and you retreat a few meters away.
+Vous avez perdu ! Samy et vous reculez de quelques mètres.
+Samy heals his Pokémons and yours with the healing items provided by the Rock Leader.
+Samy soigne ses Pokémon et les vôtres avec les objets de soin donnés par le Leader Roche.
+You see Admin Elias healing the grunts with him.
+Vous voyez l’Admin Elias soigner ses sbires.
+<b><c3=BDA46A,736440>Samy:</b></c3> Alright lad, they're still there. Let's take them down for good this time!
+<b><c3=BDA46A,736440>Samy:</b></c3> Aller mon gars, ils sont toujours là. Allons les battre pour de bon cette fois !
+<b>Gladys:</b> They're still there!
+<b>Gladys:</b> Ils sont toujours là !
+<b>Elias:</b> I healed your team, now prove me you can be useful!
+<b>Elias:</b> J’ai soigné votre équipe, montrez-moi que vous pouvez être utiles !
+<b>Hugo:</b> We will!
+<b>Hugo:</b> C’est comme si c’était fait !
+<b>Elias:</b> Hmpf, let me handle them again then!
+<b>Elias:</b> Hmpf, laissez moi m’en occuper de nouveau !
+<b>Elias:</b> Just give up already!
+<b>Elias:</b> Abandonnez !
+<b>Carl:</b> Damn, that's bad news...
+<b>Carl:</b> Mince, ça craint…
+<b><c3=BDA46A,736440>Samy</b></c3> Hey, where are you going?
+<b><c3=BDA46A,736440>Samy</b></c3> Hey, où tu vas ?
+<b><c3=BDA46A,736440>Samy</b></c3> We didn't explored this tunnel yet!
+<b><c3=BDA46A,736440>Samy</b></c3> On a pas encore exploré l’tunnel !

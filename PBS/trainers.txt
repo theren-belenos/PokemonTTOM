@@ -207,7 +207,7 @@ Pokemon = VULPIX,11
 
 #-----------------------------------------------
 #
-#		Route 4 trainers
+#		Route 4 (est) trainers
 #
 #-----------------------------------------------
 [JOGGER,Walt]
@@ -428,38 +428,388 @@ Pokemon = DODUO,21
 #-------------------------------------------------------------
 [MUSICIAN,Rick]
 LoseText = Hell yeah, you're pretty cool yourself kiddo!
-Pokemon = SABLEYE,21
-Pokemon = TIMBURR,21
+Pokemon = SABLEYE,20
+Pokemon = TIMBURR,20
 
 [LASS,Mindy]
 LoseText = Wow! that's not even a pratice, you're too strong!
-Pokemon = TRAPINCH,20
-Pokemon = SKIPLOOM,20
-Pokemon = PACHIRISU,20
+Pokemon = TRAPINCH,19
+Pokemon = SKIPLOOM,19
+Pokemon = PACHIRISU,19
 
 [HEXMANIAC,Wisteria]
 LoseText = The mystic arts smile upon yourself...
-Pokemon = YAMASK,22
-Pokemon = FRILLISH,22
-Pokemon = LIEPARD,23
+Pokemon = YAMASK,20
+Pokemon = FRILLISH,20
+Pokemon = LIEPARD,21
 
 [BUTLER,Honoré]
 LoseText = My high focus wasn't enough to defeat you!
-Pokemon = ARCANINE,25
+Pokemon = ARCANINE,23
 
 # Ambush (battle quest 3)
 [PUNKTRAINERMALE,Butch]
 LoseText = What??? We lost???
-Pokemon = MASCHIFF,24
-Pokemon = SEVIPER,25
+Pokemon = MASCHIFF,22
+Pokemon = SEVIPER,22
 
 [PUNKTRAINERFEMALE,Carmine]
 LoseText = Who are you?
-Pokemon = EKANS,24
+Pokemon = EKANS,22
+Pokemon = HERACROSS,22
+
+#-------------------------------------------------------------
+#
+#		Route 4 (Cycling road) trainers
+#
+#-------------------------------------------------------------
+[CYCLISTMALE,Gaby]
+LoseText = AND YOUR NAME IS...
+Pokemon = KECLEON,21
+Pokemon = THROH,22
+Pokemon = SAWK,22
+	
+[CYCLISTMALE,Raphaël]
+LoseText = Heh! Good workout!
+Pokemon = YAMPER,23
+Pokemon = LINOONE,23
+	
+[CYCLISTMALE,Phil]
+LoseText = You're too sharp for me!
+Pokemon = KARRABLAST,23
+Pokemon = SHELMET,24
+Pokemon = MEOWTH,24
+	
+[CYCLISTFEMALE,Nadine]
+LoseText = So dizzy...
+Pokemon = EISCUE,25
+	
+[CYCLISTFEMALE,Raphaëlle]
+LoseText = Cycling and battling are so fun!
+Pokemon = STARAVIA,23
+Pokemon = ARCHEN,23
+
+[CYCLISTFEMALE,Marianne]
+LoseText = Is this the Revolution?
+Pokemon = GOLETT,24
+Pokemon = CORSOLA,24
+Pokemon = SCALEON,25
+
+
+#-------------------------------------------------------------
+#
+#		Route 4 (West) trainers
+#
+#-------------------------------------------------------------	
+[BACKPACKERMALE,Jefferson]
+LoseText = Five Six Seven Eight !
+Pokemon = DRILBUR,24
+Pokemon = TRAPINCH,24
+Pokemon = DIGLETT,24	
+	
+[SWIMMERMALE,Cyril]
+LoseText = Swimming is harder!
+Pokemon = PELIPPER,25
+	AbilityIndex = 1
+	
+[SWIMMERFEMALE,Cyrille]
+LoseText = Hmpf...
+Pokemon = MILOTIC,25
+
+
+#-------------------------------------------------------------
+#
+#		Power Tunnel (upper) trainers
+#
+#-------------------------------------------------------------
+[ARTISTFEMALE,Blanche]
+LoseText = This won't inspire me!
+Pokemon = SMEARGLE,22
+	Moves = FAKEOUT,SPORE,UTURN,EARTHQUAKE 
+Pokemon = CHERRIM,23
+
+[HIKER,Manuel]
+LoseText = I'm the one who should escape!
+Pokemon = WOOBAT,21
+Pokemon = CORSOLA,22
+Pokemon = DRILBUR,22	
+
+
+#-------------------------------------------------------------
+#
+#		Power Tunnel (lower) trainers
+#
+#-------------------------------------------------------------
+[POSTMAN,Fernand]
+LoseText = It can't, right?
+Pokemon = MIGHTYENA,23
+Pokemon = WEEPINBELL,24	
+
+[POKEMONRANGERMALE,Germain]
+LoseText = You don't seem in trouble...
+Pokemon = FINNEON,22
+Pokemon = SPRITZEE,23
+Pokemon = SHUPPET,23	
+Pokemon = SWIRLIX,23	
+
+
+#-------------------------------------------------------------
+#
+#		Route 10 trainers
+#
+#-------------------------------------------------------------
+[FIREFIGHTER,Abel]
+LoseText = So blazing!
+Pokemon = DUCKLETT,23
+Pokemon = GOLDEEN,24
+Pokemon = MILOTIC,24
+
+[ROLLERSKATERFEMALE,Rebecca]
+LoseText = Battling you is even harder!
+Pokemon = KECLEON,24
+Pokemon = TURTONATOR,25	
+
+
+#-------------------------------------------------------------
+#
+#		Greymoose
+#
+#-------------------------------------------------------------
+[POKEKID,Mimi]
+LoseText = So blazing!
+Pokemon = PICHU,16
+Pokemon = PIKACHU,19
+Pokemon = RAICHU,22
+Pokemon = RAICHU,26
+	Form = 1
+	
+[FURISODEGIRL4,Ember]
+Pokemon = GRANBULL,23
+	Moves = BITE,FIREFANG,THUNDERFANG,ICEFANG
+Pokemon = FLAREON,24
+	Moves = BITE,QUICKATTACK,TAKEDOWN,FIREFANG
+Pokemon = ARCANINE,25
+	Moves = EXTREMESPEED,FLAREBLITZ,CRUNCH,FIREFANG
+
+[JUGGLER,Raiden]
+Pokemon = GRANBULL,23
+	Moves = BITE,FIREFANG,THUNDERFANG,ICEFANG
+Pokemon = JOLTEON,24
+	Moves = QUICKATTACK,THUNDERWAVE,DOUBLEKICK,THUNDERFANG
+Pokemon = BOLTUND,25
+	Moves = BITE,NUZZLE,SPARK,THUNDERFANG
+
+[ACETRAINERMALE,Frost]
+Pokemon = GRANBULL,23
+	Moves = BITE,FIREFANG,THUNDERFANG,ICEFANG
+Pokemon = GLACEON,24
+	Moves = ICESHARD,BITE,ICEFANG,QUICKATTACK
+Pokemon = CETITAN,25
+	Moves = ICESHARD,TAKEDOWN,FLAIL,ICEFANG
+	
+[WORKERMALE,Lando]
+Pokemon = THROH, 23
+Pokemon = SAWK, 23
+
+#-------------------------------------------------------------
+#
+#		Route 11 trainers
+#
+#-------------------------------------------------------------
+[POKEMONBREEDERMALE,Victor]
+LoseText = I got nearly all of them!
+Pokemon = WINGULL,24
+Pokemon = CHERUBI,24
+Pokemon = BUTTERFREE,24
+Pokemon = WEEPINBELL,24
+Pokemon = CORPHISH,24
+
+[SAILOR,Gervais]
+LoseText = You seem to master both!
+Pokemon = DUCKLETT,26
+Pokemon = CORSOLA,26
+
+[SWIMMERMALE,Zachary]
+LoseText = You don't seem to need training!
+Pokemon = GOLDEEN,25
+Pokemon = FINNEON,26	
+Pokemon = MILOTIC,26	
+
+#-------------------------------------------------------------
+#
+#		Route 12 trainers
+#
+#-------------------------------------------------------------
+[HIKER,Marcus]
+LoseText = Sorry! Didn't mean to pry!
+Pokemon = TORKOAL,26
+Pokemon = ARCHEN,26
+
+[BUGMANIAC,Matthias]
+LoseText = What a weird bug!
+Pokemon = SHELMET,23
+Pokemon = KARRABLAST,23
+Pokemon = KRICKETUNE,24
+Pokemon = ACCELGOR,25
+Pokemon = ESCAVALIER,25
+
+[POKEMONRANGERMALE,Brady]
+LoseText = Entertainment complete!
+Pokemon = YAMPER,25
+Pokemon = EXEGGUTOR,26	
+Pokemon = SLURPUFF,26	
+
+#-------------------------------------------------------------
+#
+#		Greymoose Team base
+#
+#-------------------------------------------------------------
+
+## Ally team
+[TOMSteel,Tom]
+Items = MEGARING
+LoseText = ...
+Pokemon = STEELEON,70
+	Item = ROCKYHELMET
+Pokemon = MAGNEZONE,70
+	Item = AIRBALLOON
+Pokemon = METAGROSS,70
+	Item = METAGROSSITE
+	
+[TOMFire,Tom]
+Items = MEGARING
+LoseText = ...
+Pokemon = FLAREON,70
+	Item = LIFEORB
+Pokemon = VOLCARONA,70
+	Item = LEFTOVERS
+Pokemon = CAMERUPT,70
+	Item = CAMERUPTITE
+
+[TEAMGRUNTMALE,Igor]
+LoseText = I heard but I couldn't do anything!
+Pokemon = STUNKY,25
+Pokemon = GOLETT,25	
+
+[TEAMGRUNTFEMALE,Justine]
+LoseText = What can we do??
+Pokemon = SEVIPER,25
+Pokemon = STUNKY,25	
+
+[TEAMGRUNTFEMALE,Kaylee]
+LoseText = What is this power??
 Pokemon = HERACROSS,25
+Pokemon = STUNKY,25	
+
+[TEAMGRUNTFEMALE,Lucile]
+LoseText = Argh!
+Pokemon = ARIADOS,25
+Pokemon = STUNKY,25	
+
+[TEAMGRUNTMALE,Max]
+LoseText = Seriously, why?
+Pokemon = STUNKY,25
+Pokemon = WOBBUFFET,25	
+
+[TEAMGRUNTMALE,Neil]
+LoseText = I told you its useless!
+Pokemon = STUNKY,25
+Pokemon = HARIYAMA,25	
+
+[TEAMGRUNTMALE,Octavius]
+LoseText = Oww... Even alone, you're too strong!
+Pokemon = BANETTE,25
+Pokemon = STUNKY,25	
+
+[TEAMGRUNTMALE,Petr]
+LoseText = Okay, my bad...
+Pokemon = STUNKY,25
+Pokemon = ARBOK,25	
+
+[TEAMGRUNTFEMALE,Quincy]
+LoseText = You trespasser!
+Pokemon = STUNKY,25
+Pokemon = TREVENANT,25
+
+[TEAMGRUNTFEMALE,Rita]
+LoseText = We will make a complaint against you!
+Pokemon = GOURGEIST,25
+Pokemon = STUNKY,25
+
+[TEAMGRUNTFEMALE,Shana]
+LoseText = How??
+Pokemon = STUNKY,25
+Pokemon = MIGHTYENA,25
+
+[TEAMGRUNTMALE,Tao]
+LoseText = But...
+Pokemon = STUNKY,25
+Pokemon = VICTREEBEL,25	
+
+[TEAMGRUNTMALE,Ulrich]
+LoseText = But... Who are you?
+Pokemon = SABLEYE,25
+Pokemon = STUNKY,25
+
+[TEAMGRUNTFEMALE,Violine]
+LoseText = Leave OUR home!!
+Pokemon = KECLEON,25
+Pokemon = STUNKY,25
+
+[TEAMADMINMALE,Elias,1]
+LoseText = Not again! Seriously??
+Pokemon = MIGHTYENA,32
+Pokemon = SALAZZLE,33
+Pokemon = SKUNTANK,34
+Pokemon = ZOROARK,35
+
+[TEAMMYSTERYGUY,???]
+Items = MEGARING
+Pokemon = GENGAR,80
+	Item = GENGARITE
+Pokemon = MIMIKYU,80
+Pokemon = CERULEDGE,80
+Pokemon = ARMAROUGE,80
+Pokemon = GHOLDENGO,80
+Pokemon = ANNIHILAPE,80	
+
+#-------------------------------------------------------------
+#
+#		Greymoose Gym
+#
+#-------------------------------------------------------------
+
+# Gym - Rock
+[BACKPACKERMALE,Majid]
+LoseText = Even your team puzzles me!
+Pokemon = GEODUDE,23
+Pokemon = DWEBBLE,23
+Pokemon = BINACLE,23
+Pokemon = ARCHEN,23
+Pokemon = SHUCKLE,23
 
 
+[BACKPACKERFEMALE,Murielle]
+LoseText = Your mind seems intact!
+Pokemon = CORSOLA,24
+Pokemon = SUDOWOODO,25
+Pokemon = GRAVELER,26
 
+# NB : Leader is defined in trainers_story file
+
+# Gym - Normal
+[POKEFANMALE,Tristan,2]
+LoseText = I'm the one confused, by your strength!
+Pokemon = AMBIPOM,25
+Pokemon = BIBAREL,27
+
+[POKEFANFEMALE,Laurine,2]
+LoseText = Switches everywhere!
+Pokemon = STARAVIA,24
+Pokemon = NOCTOWL,25
+Pokemon = DODUO,26
+
+# NB : Leader is defined in trainers_story file
 
 #-------------------------------------------------------------
 #

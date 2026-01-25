@@ -1,0 +1,132 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map244]
+<b>Worker:</b> We found too many of these, honestly... Do you want some?
+<b>Travailleur:</b> On a trouvé beaucoup trop de ces trucs, honnêtement... Tu en veux un peu ?
+<b>Worker:</b> Good day!
+<b>Worker:</b> Bonne journée !
+<b>Boy:</b> But I picked it up!
+<b>Garçon:</b> Mais c'est moi qui l'ai ramassé !
+<b>Girl:</b> You picked it up because I saw it and pointed it!
+<b>Fille:</b> Tu l'as ramassé car je l'ai vu et je te l'ai montré !
+<b>Boy:</b> So? First come first served!
+<b>Garçon:</b> Et alors ? Premier arrivé premier servi !
+<b>Girl:</b> That's unfair and you know it! If you keep it I'll never talk to you again!
+<b>Fille:</b> C'est pas juste ! Et tu le sais ! Si tu le gardes je te parlerai plus jamais !
+<b>Boy:</b> Tch! But if YOU keep it I will never talk to you neither!
+<b>Garçon:</b> Tch ! Mais si TOI tu le gardes je te parlerai plus non plus !
+<b>Girl:</b> Hmpf!
+<b>Fille:</b> Humpf !
+<b>Boy:</b> Pfff!
+<b>Garçon:</b> Pfff !
+<b>Girl:</b> ...
+<b>Fille:</b> ...
+<b>Boy:</b> ...
+<b>Garçon:</b> ...
+<b>Boy:</b> I... I don't want to stop talking to you...
+<b>Garçon:</b> Je... j'ai pas envie d'arrêter de te parler...
+<b>Girl:</b> Me... me neither...
+<b>Fille:</b> Moi... moi non plus...
+<b>Boy:</b> Hey, you there! Take this so we stop fighting over it!
+<b>Garçon:</b> Hé toi là ! Prends-le comme ça on arrête de se battre pour l'avoir !
+<b>Boy:</b> Let's just forget this and be friends!
+<b>Garçon:</b> Oublions ça et restons copains !
+<b>Girl:</b> Ok friend!
+<b>Fille:</b> Ok copain !
+<b>Machop:</b> Machoooop!!!
+<b>Machoc:</b> Machooooc!!!
+<b>Skitty:</b> Skiiiiii!
+<b>Skitty:</b> Skiiiiii!
+The Skitty fled somewhere!
+Le Skitty s'est enfui quelque part !
+You can't leave the Town with the Skitty! Bring it back to its owner!
+Vous ne pouvez pas quitter la ville avec le Skitty! Ramenez-le à son propriétaire!
+<b>Thug:</b> Psst! You want da good shit?
+<b>Voyou :</b> Psst ! Tu veux de la bonne came ?
+<b>Thug:</b> That's good shit!
+<b>Voyou:</b> C'est de la bonne !
+<b>Lotad:</b> Lotad!!!
+<b>Nenupiot:</b> Nupiot !!!
+This time Skitty can't flee!
+Cette fois Skitty ne peut pas s'enfuir !
+You approach and pet the Skitty. It seems relaxed.
+Vous vous approchez et caressez le Skitty. Il semble se détendre.
+Skitty agrees to follow you!
+Skitty accepte de vous suivre !
+<b>Youngster:</b> Pfff... I'm bored!
+<b>Gamin :</b> Pfff... Je m'ennuie !
+<b>Little Girl:</b> Mamaaaa! Where is Kitty????
+<b>Petite Fille:</b> Mamaaaan ! Où est Kitty ????
+<b>Tourist:</b> Wow, is this the Gym?
+<b>Touriste:</b> Wow, alors voici l'Arène ?
+<b>Lass:</b> I don't wanna go to school!
+<b>Fillette:</b> Je veux pas aller à l'école !
+<b>Woman:</b> D... don't worry honey, we'll find it!
+<b>Femme:</b> Ne... ne t'inquiète pas ma chérie, on va le retrouver !
+<b>Little Girl:</b> Kittyyyyyyyyy! Where did you gooooo?
+<b>Petite Fille:</b> Kittyyyyyyyyy! Où es-tuuuuuu ?
+<b>Woman:</b> It...it will be okay!
+<b>Femme:</b> ça... ça va aller !
+<b>Woman:</b> Herm... you there, can you help us?
+<b>Femme:</b> Heu... toi là, tu peux nous aider ?
+<b>Woman:</b> My little girl has lost her dear Skitty somewhere in the city!
+<b>Femme:</b> Ma petite fille a perdu son cher Skitty quelque part en ville !
+<b>Woman:</b> Can you try to look for it? I don't think it left the city or entered a building.
+<b>Femme:</b> Tu peux essayer de le chercher ? Je ne pense pas qu'il ait quitté la ville ou qu'il soit rentré dans un bâtiment.
+<b>Woman:</b> Don't worry, I will make it worth your time!
+<b>Femme:</b> Ne t'inquiète pas, je te récompenserai comme il se doit !
+<b>Woman:</b> Did you find it? No? I hope you'll manage!
+<b>Femme:</b> Est-ce que tu l'as trouvé ? Non ? J'espère que tu vas y arriver !
+<b>Woman:</b> Oh, I see it behind you!
+<b>Femme:</b> Oh, je le vois derrière toi !
+<b>Little Girl:</b> Kittyyyyyyyyyyyyyyy! Hehehehehehehe !
+<b>Petite Fille:</b> Kittyyyyyyyyyyyyyyy!  Hehehehehehehe !
+<b>Woman:</b> What a relief! I can't thank you enough!
+<b>Femme:</b> Quel soulagement ! Je pourrai jamais assez te remercier !
+<b>Woman:</b> Take these, you deserved it!
+<b>Femme:</b> Prends ça, tu l'as bien mérité !
+<b>Little Girl:</b> Thank you stranger!
+<b>Petite Fille:</b> Merci l'inconnu !
+<b>Woman:</b> D...don't say it like this! *Ahem*
+<b>Femme:</b> Ne... ne parle pas comme ça aux gens ! *Ahem*
+<b>Woman:</b> Anyway... Have a great day!
+<b>Femme:</b> En tout cas... Passe une excellente journée !
+<b>Woman:</b> Have a great day!
+<b>Femme:</b> Passe une excellente journée !
+<b>Black Belt:</b> So this is the infamous Fang Dojo huh...
+<b>Karatéka:</b> Donc voici le fameux Dojo des Crocs hein...
+<b>Black Belt:</b> Is this true that they allow to bite opponents??
+<b>Karatéka:</b> C'est vrai qu'ici on a le droit de mordre ses adversaires ??
+<b>Tourist:</b> This building is huge! What's that for?
+<b>Touriste:</b> Ce bâtiment est énorme ! A quoi il sert ?
+<b>Monferno:</b> Ooneerooo!
+<b>Chimpenfeu:</b> Iimpeenfeeuuu!
+<b>Lady:</b> What a nice little shop! Do they sell flowers, too?
+<b>Dame:</b> Quelle belle petite boutique ! Est-ce qu'ils vendent aussi des fleurs ?
+<b>Tourist:</b> What a nice place!
+<b>Touriste:</b> Quel endroit charmant !
+<b>Croagunk:</b> Khikhikhikhikhi!!!!
+<b>Cradopaud:</b> Khikhikhikhikhi!!!!
+<b>Harvey?:</b> Hello! No I’m not Harvey? I’m Stanley!
+<b>Harvey?:</b> Bonjour! Non je ne suis pas Harvey? Je suis Stanley!
+<b>Stanley:</b> You’re looking to challenge the Gym? Huuuh, I’m afraid it’s impossible for now…
+<b>Stanley:</b> Tu veux défier l’Arène ? Ermmm, j’ai bien peur que ce ne soit pas possible pour le moment…
+<b>Stanley:</b> Our Leader can’t be here for now.
+<b>Stanley:</b> Notre Leader ne peut pas être là pour le moment.
+<b>Stanley:</b> Where is he? Well it’s kinda confidential you know… League stuff…
+<b>Stanley:</b> Où est-il ? Eh bien, c’est un peu confidentiel tu sais… Les affaires de la Ligue…
+<b>Stanley:</b> What? You’re \pn, the \gt Leader?
+<b>Stanley:</b> Quoi ? Tu es \pn, le Leader \gt ?
+<b>Stanley:</b> Ooooh okay sorry Leader, as you’re pretty new I didn’t know you yet.
+<b>Stanley:</b> Ooooh okay désolé Leader, comme t’es tout nouveau je ne te connaissais pas encore.
+<b>Stanley:</b> The Normal Leader is in the Grey Mines with his friend Samy and someone from the League.
+<b>Stanley:</b> Le Leader Normal est dans les Mines Grises avec son ami Samy et quelqu’un de la Ligue.
+<b>Stanley:</b> Leader Cassian is in the Grey Mines with his friend Samy and someone from the League.
+<b>Stanley:</b> Le Leader Cassian est dans les Mines Grises avec son ami Samy et quelqu’un de la Ligue.
+<b>Stanley:</b> It seems they discovered something linked to the strange fellows you battled with Samy at Sombake.
+<b>Stanley:</b> Je crois qu’ils ont découvert quelque chose en rapport avec les types étranges que tu as affronté avec Samy à Sombake.
+<b>Stanley:</b> If it’s their headquarters, I think they will need all the help they could. You should go help them!
+<b>Stanley:</b> Si c’est leur QG, j’imagine qu’ils auront besoin de toute l’aide disponible. Tu devrais aller les aider !
+<b>Stanley:</b> They're somewhere inside the Grey Mines. You should go help them!
+<b>Stanley:</b> Ils sont quelque part dans les Mines Grises. Tu devrais aller les aider !

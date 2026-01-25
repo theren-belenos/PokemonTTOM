@@ -1,56 +1,67 @@
-﻿#-----------------------------------------------
-#
-# 	NL rematches // rank 1
-#
-#-----------------------------------------------
-[KATHLEENNL,Normal Leader,1]
-Items = SUPERPOTION
-LoseText = ...
-Pokemon = UNFEZANT,38
-	Item = NORMALGEM
-	EV = 20,100,0,100,0,0
-Pokemon = CYCLIZAR,39
-	EV = 20,100,0,100,0,0
-Pokemon = URSARING,39
-	EV = 20,100,100,0,0,0
-Pokemon = DITTO,41
-	Item = SITRUSBERRY
-	AbilityIndex = 2
-	
+﻿# Regardez la documentation sur le wiki pour savoir comment modifier ce fichier.
+#-------------------------------
 [CASSIANNL,Normal Leader,1]
 Items = SUPERPOTION
 LoseText = ...
 Pokemon = UNFEZANT,43
-	Item = NORMALGEM
-	EV = 20,100,0,100,0,0
+    Item = NORMALGEM
+    EV = 20,100,0,100,0,0
 Pokemon = CYCLIZAR,44
-	EV = 20,100,0,100,0,0
-Pokemon = URSARING,44
-	EV = 20,100,100,0,0,0
+    EV = 20,100,0,100,0,0
+Pokemon = KANGASKHAN,44
+    EV = 20,100,100,0,0,0
 Pokemon = DITTO,46
-	Item = SITRUSBERRY
-	AbilityIndex = 2
-
-
-#-----------------------------------------------
-#
-# 	Kathleen rematches
-#
-#-----------------------------------------------
-[KATHLEEN,Kathleen,1]
-Items = SUPERPOTION
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+#-------------------------------
+[KATHLEENNL,Normal Leader,2]
+Items = HYPERPOTION
+LoseText = ...
+Pokemon = UNFEZANT,58
+    Item = NORMALGEM
+    EV = 20,100,0,100,0,0
+Pokemon = CYCLIZAR,59
+    EV = 20,100,0,100,0,0
+Pokemon = KANGASKHAN,63
+    Item = KANGASKHANITE
+    EV = 20,100,100,0,0,0
+Pokemon = PORYGONZ,60
+    EV = 40,0,0,200,200,0
+Pokemon = DITTO,62
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+#-------------------------------
+[CASSIANNL,Normal Leader,2]
+Items = HYPERPOTION
+LoseText = ...
+Pokemon = UNFEZANT,63
+    Item = NORMALGEM
+    EV = 20,100,0,100,0,0
+Pokemon = CYCLIZAR,64
+    EV = 20,100,0,100,0,0
+Pokemon = KANGASKHAN,66
+    Item = KANGASKHANITE
+    EV = 20,100,100,0,0,0
+Pokemon = PORYGONZ,65
+    EV = 40,0,0,200,200,0
+Pokemon = DITTO,67
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+#-------------------------------
+[KATHLEEN,Kathleen,2]
+Items = HYPERPOTION
 LoseText = Wowie! So strong!
-Pokemon = BEAUTIFLY,38
-	EV = 20,0,0,100,100,0
-Pokemon = BEEDRILL,39
-	Item = BUGGEM
-	EV = 20,100,0,0,0,100
-Pokemon = DURANT,39
-	Item = METALCOAT
-	EV = 20,100,0,100,0,0
-Pokemon = VESPIQUEN,41
-    EV = 20,0,100,0,0,100
-	Item = SITRUSBERRY
-	
-
-	
+Pokemon = BEAUTIFLY,58
+    EV = 40,0,0,200,200,0
+Pokemon = BEEDRILL,63
+    Item = BEEDRILLITE
+    EV = 40,200,0,0,0,200
+Pokemon = DURANT,59
+    Item = METALCOAT
+    EV = 40,200,0,200,0,0
+Pokemon = VOLCARONA,60
+    Item = LEFTOVERS
+    EV = 40,0,0,200,200,0
+Pokemon = VESPIQUEN,62
+    Item = SITRUSBERRY
+    EV = 40,0,200,0,0,200

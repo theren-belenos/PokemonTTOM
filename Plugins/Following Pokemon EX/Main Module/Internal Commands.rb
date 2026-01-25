@@ -13,7 +13,7 @@ module FollowingPkmn
     return false if !$game_temp.respond_to?(:followers) || !$game_temp.followers
     return false if !$PokemonGlobal.respond_to?(:followers) || !$PokemonGlobal.followers
     return false if !$player.respond_to?(:party) || !$player.party
-	return false if !$scene.is_a?(Scene_Map)
+
     return true
   end
   #-----------------------------------------------------------------------------
@@ -59,7 +59,6 @@ module FollowingPkmn
     return false if !item || quantity < 1
     itemname = (quantity > 1) ? item.name_plural : item.name
     pocket = item.pocket
-	pocketicon = "bagPocket" + pocket.to_s
     move   = item.move
     if $bag.add(item, quantity)   # If item can be picked up
       meName = (item.is_key_item?) ? "Key item get" : "Item get"
@@ -76,7 +75,8 @@ module FollowingPkmn
       else
         pbMessage(_INTL("\\me[{1}]{3} found a \\c[1]{2}\\c[0]!\\wtnp[30]", meName, itemname, pokename))
       end
-      pbMessage("#{_INTL("You put the {1} away", itemname)}\\n#{_INTL("in the")} <icon=#{pocketicon}>\\c[1]#{_INTL("{1} Pocket", PokemonBag.pocket_names[pocket-1])}\\c[0].")
+      pbMessage(_INTL("You put the {1} away\\nin the <icon=bagPocket{2}>\\c[1]{3} Pocket\\c[0].",
+         itemname, pocket, PokemonBag.pocket_names[pocket]))
       $PokemonGlobal.follower_hold_item = false
       $PokemonGlobal.time_taken         = 0
       return true

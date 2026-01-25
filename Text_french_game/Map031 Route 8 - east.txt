@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map031]
+<b>Tiago:</b> Oho! Let's laugh together!
+<b>Tiago:</b> Oho ! Rigolons ensemble !
+<b>Tiago:</b> Keep on laughing!
+<b>Tiago:</b> Continuons de rigoler !
+<b>Alice:</b> How about a friendly battle, trainer?
+<b>Alice:</b> Que dirais-tu d’un combat amical, dresseur ?
+<b>Alice:</b> You could be a great ranger!
+<b>Alice:</b> Tu ferais un super Ranger !
+<b>Marceau:</b> BUUUUUUGS!!! WHERE ARE YOU????
+<b>Marceau:</b> INSEEEEECTES !!! OU ETES VOUUUUUUS ????
+<b>Marceau:</b> BUUUUUUUUUUUUUUUGS??!!!
+<b>Marceau:</b> INSEEEEEEEEEEEEEEECTES ??!!!

@@ -1,0 +1,34 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map388]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Mimi:</b> Pika pika!
+<b>Mimi:</b> Pika pika!
+<b>Mimi:</b> How was it? I loooove Pikachu so much!
+<b>Mimi:</b> C'était comment ? J'aime troooooop Pikachu !
+<b>Mimi:</b> Hey, what do you say we have a battle here, and if you win I give you something that makes Pikachu even better!
+<b>Mimi:</b> Hey, ça te dit on fait un combat, et si tu gagnes je te donne quelque chose qui rend Pikachu encore meilleur !
+<b>Mimi:</b> Hah! So you've got good taste too...
+<b>Mimi:</b> Ha ! Tu as donc également bon goût...
+<b>Mimi:</b> Show me want you got!
+<b>Mimi:</b> Montre-moi de quoi tu es capable !
+<b>Mimi:</b> Damnnnn... You're so good!
+<b>Mimi:</b> Miiiiince... T'es vraiment fort !
+<b>Mimi:</b> Okay then, you deserved it!
+<b>Mimi:</b> Bon ok, tu l'as mérité !
+<b>Mimi:</b> Take care, fellow Pikafan!
+<b>Mimi:</b> Prends soin de toi, collègue Pikafan !
+<b>Mimi:</b> No? NO? How can you say no????
+<b>Mimi:</b> Non ? NON ? Comment peux-tu dire non ????
+<b>Mimi:</b> Ha, changed your mind huh? You finally figured Pikachu is awesome HUH???
+<b>Mimi:</b> Ha, tu as changé d'avis hein ? Tu t'es finalement rendu compte que Pikachu est incroyable HEIN ???
+<b>Mimi:</b> And so you want to battle to get this marvelous item HUH????????
+<b>Mimi:</b> Et donc tu veux combattre pour gagner ce merveilleux objet HEIN ??????
+<b>Mimi:</b> All those boxes? They're full of Pikachu Dolls and toys!
+<b>Mimi:</b> Tous ces cartons ? Ils sont plein de Goodies Pikachu!
+Yes
+Oui
+No
+Non

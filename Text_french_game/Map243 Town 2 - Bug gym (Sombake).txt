@@ -1,0 +1,64 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map243]
+<b>Little Girl:</b> Noooooooo!! Ehehehehe!
+<b>Little Girl:</b> Noooooooon !! Ehehehehe !
+<b>Kathleen:</b> Hello! I'm Kathleen, the Bug Leader. Nice to meet ya!
+<b>Kathleen:</b> Salut ! Je suis Kathleen, la Leader Insecte ! Enchantée !
+<b>Kathleen:</b> You wanna challenge my Gym huh?
+<b>Kathleen:</b> Tu veux défier mon Arène hein ?
+<b>Kathleen:</b> Sorry but I have something urgent to take care.
+<b>Kathleen:</b> Désolé mais je dois m’occuper de quelque chose d’urgent.
+<b>Kathleen:</b> Did you feel the recent seism?
+<b>Kathleen:</b> Tu as senti le séisme il y a pas longtemps ?
+<b>Kathleen:</b> A wall in the firefly cave, just here, collapsed and revealed a passage.
+<b>Kathleen:</b> Un mur dans la grotte aux lucioles s’est effondré et a révélé un passage.
+<b>Kathleen:</b> The Normal Leader sent someone to check this. Grottos are not really my speciality...
+<b>Kathleen:</b> Le Leader Normal a envoyé quelqu’un pour vérifier ça. Les grottes sont pas vraiment ma spécialité…
+<b>Kathleen:</b> The Rock Leader sent someone to check this. Grottos are not really my speciality...
+<b>Kathleen:</b>  Le Leader Roche a envoyé quelqu’un pour vérifier ça. Les grottes sont pas vraiment ma spécialité…
+<b>Kathleen:</b> I have to wait for him here.
+<b>Kathleen:</b> Je dois l’attendre ici.
+<b>Kathleen:</b> If you want to speed up things, you can go assist him.
+<b>Kathleen:</b> Si tu veux accélérer les choses, tu peux aller l’aider.
+<b>Kathleen:</b> His name is <b><c3=BDA46A,736440>Samy</b></c3>. He is a tall and somewhat muscular guy.
+<b>Kathleen:</b> Son nom est <b><c3=BDA46A,736440>Samy</b></c3>. C’est un gars grand et assez musclé.
+<b>Kathleen:</b> He seems really friendly tho!
+<b>Kathleen:</b> Il a l‘air super sympa !
+You say hello to the person and asks if they're the Normal Leader.
+Vous saluez la personne et lui demandez si c’est le Leader Normal.
+They don't say anything but show you a paper with a smile on it.
+Iel ne dit rien mais vous montre un papier avec un sourire dessus.
+You explain that you want to challenge the Gym.
+Vous expliquez que vous êtes là pour défier l’arène.
+The Normal Leader show you a lot of images on paper, one after another.
+Le Leader Normal vous montre tout un tas d’images sur papier, l’une après l’autre.
+You're a little lost but it seems that someone is inside the cave, investigating a tunnel that appeared with the recent seism.
+Vous êtes un peu perdu mais il semblerait qu’il y a quelqu’un dans la grotte, inspectant un tunnel révélé par le récent séisme.
+Maybe going to help that person could speed up things?
+Peut-être qu’aller aider cette personne pourrait accélérer les choses ?
+The Bug Leader shows you an drawing of a tall, kinda muscular guy, and write the name "Samy" with a really bad handwriting.
+Le Leader Normal vous montre le dessin d’un homme grand et plutôt musclé, et écrit “Samy” avec une très mauvaise écriture.
+Still a bit puzzled, you thank them and go try to find this <b><c3=BDA46A,736440>Samy</b></c3>.
+Toujours un peu confus, vous le remerciez et partez à la recherche de ce <b><c3=BDA46A,736440>Samy</b></c3>.
+<b>Kathleen:</b> Did you find Samy yet?
+<b>Kathleen:</b> Tu as trouvé Samy ?
+The Bug Leader shows you this drawing of a tall, kinda muscular guy with the name "Samy", and looks puzzled.
+Le Leader Normal vous montre ce dessin d’un homme grand et plutôt musclé avec écrit “Samy”, et semble confus.
+<b>Kid:</b> I will catch you like I would catch a big bug !! Haha !
+<b>Enfant:</b> Je vais t'attraper comme si j'attrapais un gros insecte !! Haha !
+<b>Bug Catcher:</b> The birds may be attracted by the high density of insects here... Don't you think ?
+<b>Entomomaniac:</b> Les oiseaux sont sans doute attirés par la haute densité d'insectes... Tu crois pas ?
+<b>Marley?:</b> Hello, do you want to challenge the Gym?
+<b>Marley?:</b> Bonjour, tu veux défier l’Arène ?
+<b>Marley?:</b> Sorry but our Leader is currently near the Firefly tunnel, southeast of the town.
+<b>Marley?:</b> Désolé mais notre Championne est près de la Grotte aux Lucioles, au sud-est de la ville..
+<b>Marley?:</b> With someone from Grey Moose, they're investigating damages caused by the recent seism.
+<b>Marley?:</b> Avec quelqu’un de Greymoose, ils enquêtent sur les dommages causés par le récent séisme.
+<b>Marley?:</b> You can go there if you want to see how things are.
+<b>Marley?:</b> Tu peux aller voir là-bas pour en savoir plus..
+<b>Marley?:</b> The Leader is at the southeast of the town, near the cave entrance.
+<b>Marley?:</b> La Championne est au sud-est de la ville, près de l’entrée de la grotte.
+<b>Tourist:</b> I must say, this is a rather beautiful and calming place...
+<b>Touriste:</b> C'est plutôt reposant et mignon ici, il faut bien le dire...

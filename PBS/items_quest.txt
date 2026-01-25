@@ -46,3 +46,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A book borrowed by a student at the library. Find all 3 of them!
+#-------------------------------
+[FATHERLUNCH]
+Name = Father's Lunch
+NamePlural = Father's Lunches
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A lunch forgotten by someone. Bring him!

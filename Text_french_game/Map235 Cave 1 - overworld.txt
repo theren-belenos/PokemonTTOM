@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map235]
+<b>Nick:</b> Way faster than going through the Pit huh?!
+<b>Nick:</b> Bien plus rapide que passer dans la Fosse hein ?
+<b>Nick:</b> So quick!
+<b>Nick:</b> Si rapide !

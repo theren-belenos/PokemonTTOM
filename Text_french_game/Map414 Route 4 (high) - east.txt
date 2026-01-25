@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map414]
+<b>Gaby:</b> ...watch out Watch Out WATCH OUT!!!
+<b>Gaby:</b> ...watch out Watch Out WATCH OUT!!!
+<b>Gaby:</b> OOOOOH DAMN BOY!!!!
+<b>Gaby:</b> OOOOOH DAMN BOY!!!!
+<b>Cyclist:</b> Welcome to our beautiful Cycling road!
+<b>Cycliste:</b> Bienvenue dans notre belle Piste Cyclable !
+<b>Cyclist:</b> Be careful: most of the trainers here will battle you!
+<b>Cycliste:</b> Sois prudent : la plupart des cyclistes ici vont vouloir te combattre !

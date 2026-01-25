@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map379]
+<b>Kid:</b> Ergh!
+<b>Gamin:</b> Ergh !
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Kid:</b> Take this!
+<b>Gamin:</b> Prends ça !
+<b>Lady:</b> The kids don't really like nature...
+<b>Dame:</b> Les enfants n’aiment pas particulièrement la nature…
+<b>Lady:</b> They prefer modern technologies.
+<b>Dame:</b> Ils préfèrent les technologies modernes.
+<b>Lady:</b> Should I move out to Moonyang?
+<b>Dame:</b> Est-ce que je devrais déménager à Moonyang ?
+<b>Lady:</b> Maybe I should live in Moonyang...
+<b>Dame:</b> Je devrais peut-être vivre à Moonyang ?

@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map043]
+Do you want to go to sleep? The weekend will be over!
+Do you want to go to sleep? The weekend will be over!
+It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
+It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
+Do you want to go to sleep?
+Do you want to go to sleep?
+Yes
+Yes
+No
+No

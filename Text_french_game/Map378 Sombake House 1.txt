@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map378]
+There is only trash in there.
+Il n’y a que des déchets là-dedans
+<b>Lady:</b> Hey! If you like Bug Pokémons, you will like this!
+<b>Lady:</b> Hey ! Si t’aimes les Pokémon insectes, tu aimeras ça !
+<b>Lady:</b> It's a good item, right?
+<b>Lady:</b> C’est un bon objet, n’est-ce pas ?

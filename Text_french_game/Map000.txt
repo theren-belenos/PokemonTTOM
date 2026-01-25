@@ -1,0 +1,510 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map000]
+\bHello, \PN!\nI can see you calling me over there!
+\bHello, \PN!\nI can see you calling me over there!
+\bCome over and talk to me.
+\bCome over and talk to me.
+\bHello, this is Professor Oak...\nOh, hello, \PN!
+\bHello, this is Professor Oak...\nOh, hello, \PN!
+\bSo, how's your Pokédex coming along?
+\bSo, how's your Pokédex coming along?
+\bHmm, let's see..\nYou've seen \v[1] Pokémon, and \nyou've caught \v[2] Pokémon!\nI see!
+\bHmm, let's see..\nYou've seen \v[1] Pokémon, and \nyou've caught \v[2] Pokémon!\nI see!
+\bHmm, you still have a long journey ahead of you! \nKeep on going!
+\bHmm, you still have a long journey ahead of you! \nKeep on going!
+\bHmm, you're catching Pokémon at a decent pace!
+\bHmm, you're catching Pokémon at a decent pace!
+\bYou've caught a lot of Pokémon, but make sure you're raising them carefully!
+\bYou've caught a lot of Pokémon, but make sure you're raising them carefully!
+\bI didn't even know that many Pokémon existed!
+\bI didn't even know that many Pokémon existed!
+\bShow me your Pokédex again anytime!
+\bShow me your Pokédex again anytime!
+\bShow me your Pokédex anytime!
+\bShow me your Pokédex anytime!
+\rDo you want me to stop following you?
+\rDo you want me to stop following you?
+\rI'll just vanish, then.
+\rI'll just vanish, then.
+\rLet's keep going!
+\rLet's keep going!
+Use Life Vial?\n(\v[77] out of \v[78] uses remaining)
+Utiliser Fiole de Vie ?\n(\v[77] utilisation(s) sur \v[78] restante(s))
+Your Pokémons were healed!
+Vos Pokémon ont été soignés !
+The life vial is now empty.
+La Fiole de Vie est maintenant vide.
+\v[77] uses remaining for the life vial.
+\v[77] utilisation(s) restante(s) pour la Fiole de Vie
+The life vial is empty. Replenish it at a Pokémon Center!
+La Fiole de Vie est vide. Remplissez-la dans un Centre Pokémon !
+Do you want to skip next morning?
+Voulez-vous passer la prochaine matinée ?
+<b>\c[10]Maple:</b>\c[0] Hello \pn, may I require your assistance?
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, puis-je te demander un service ?
+<b>\c[10]Maple:</b>\c[0] The beach on the north of Route 1 is experiencing a binacle infestation.
+<b>\c[10]Maple:</b>\c[0] La plage au nord de la Route 1 est confrontée à une invasion d’Opermines.
+<b>\c[10]Maple:</b>\c[0] Joggers and such are really annoyed by these Pokémons that look like rocks if you're not careful.
+<b>\c[10]Maple:</b>\c[0] Ces Pokémons qui ressemblent à des rochers sont vraiment pénibles si on ne fait pas attention.
+<b>\c[10]Maple:</b>\c[0] Can you go there and clear the area of any binacles you find directly on the sand?
+<b>\c[10]Maple:</b>\c[0] Peux tu aller là-bas et nettoyer la zone de tous les Opermines qui sont sur le sable ?
+<b>\c[10]Maple:</b>\c[0] You can defeat or capture them, as you want.
+<b>\c[10]Maple:</b>\c[0] Tu peux les capturer ou les vaincre, comme tu veux.
+<b>\c[10]Maple:</b>\c[0] Thank you \pn!
+<b>\c[10]Maple:</b>\c[0] Merci \pn!
+<b>\c[10]Maple:</b>\c[0] Any luck dealing with the binacles?
+<b>\c[10]Maple:</b>\c[0] Comment ça se passe avec les Opermines ?
+<b>\c[10]Maple:</b>\c[0] You took care of all the binacles?
+<b>\c[10]Maple:</b>\c[0] Tu t’es occupé de tous les Opermines ?
+<b>\c[10]Maple:</b>\c[0] Thank you very much \pn! Your help is very appreciated.
+<b>\c[10]Maple:</b>\c[0] Merci beaucoup \pn !  Ton aide est vraiment appréciée.
+You have nothing to tell Maple about any quest.
+Vous n'avez rien à dire à Maple concernant des quêtes.
+<b>\c[10]Maple:</b>\c[0] Hello \pn, I might need help again.
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, je pourrais avoir encore besoin d’aide.
+<b>\c[10]Maple:</b>\c[0] I'm running low of starters to give to new \gt trainers.
+<b>\c[10]Maple:</b>\c[0] Je commence à être à court de starters à donner aux nouveaux dresseurs \gt.
+<b>\c[10]Maple:</b>\c[0] Would you mind give me an egg of your starter Pokémon?
+<b>\c[10]Maple:</b>\c[0] Pourrais-tu me donner un oeuf de ton Pokémon starter ?
+<b>\c[10]Maple:</b>\c[0] You will need to use the Day-Care for this.
+<b>\c[10]Maple:</b>\c[0] Pour cela tu devras utiliser la Pension.
+<b>\c[10]Maple:</b>\c[0] Thanks a lot!
+<b>\c[10]Maple:</b>\c[0] Merci beaucoup !
+<b>\c[10]Maple:</b>\c[0] Do you have an egg of your starter Pokémon?
+<b>\c[10]Maple:</b>\c[0] As-tu un oeuf de ton Pokémon starter ?
+<b>\c[10]Maple:</b>\c[0] Come back when you got it!
+<b>\c[10]Maple:</b>\c[0] Reviens quand tu l’auras !
+<b>\c[10]Maple:</b>\c[0] Wonderful! Thank you very much \pn you're really helpful!
+<b>\c[10]Maple:</b>\c[0] Merveilleux ! Merci \pn ça m’aide beaucoup !
+<b>\c[10]Maple:</b>\c[0] Hello \pn, do you mind help me again?
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, tu veux bien nous aider à nouveau ?
+<b>\c[10]Maple:</b>\c[0] We need a fossil to test our new machine.
+<b>\c[10]Maple:</b>\c[0] On a besoin d'un fossile pour tester notre nouvelle machine.
+<b>\c[10]Maple:</b>\c[0] Can you give us one?
+<b>\c[10]Maple:</b>\c[0] Peux-tu nous en donner un ?
+<b>\c[10]Maple:</b>\c[0] Can you give us a fossil?
+<b>\c[10]Maple:</b>\c[0] Peux-tu nous donner un fossile ?
+<b>\c[10]Maple:</b>\c[0] No? Unlucky us!
+<b>\c[10]Maple:</b>\c[0] Non ? Pas de chance !
+<b>\c[10]Maple:</b>\c[0] What a magnificent one! Thank you so much!
+<b>\c[10]Maple:</b>\c[0] Quel beau spécimen ! Merci beaucoup !
+<b>\c[10]Maple:</b>\c[0] Hello \pn, Marley talked to me about the shinies.
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, Marley m'a parlé des shinys.
+<b>\c[10]Maple:</b>\c[0] He... He kinda have a obsession over this, right?
+<b>\c[10]Maple:</b>\c[0] Il... Il est un peu obsessif avec ça non ?
+<b>\c[10]Maple:</b>\c[0] But I can see where he is coming from. Having a shiny would be really prestigious!
+<b>\c[10]Maple:</b>\c[0] Mais je peux comprendre ce qu'il veut dire. Avoir un shiny ajouterais vraiment du prestige !
+<b>\c[10]Maple:</b>\c[0] So, \pn, how about you find a \gt shiny? That would be awesome right?
+<b>\c[10]Maple:</b>\c[0] Donc, \pn, et si tu trouvais un shiny type \gt ? Cela serait incroyable non ?
+<b>\c[10]Maple:</b>\c[0] Find one and show it to me!
+<b>\c[10]Maple:</b>\c[0] Trouves-en un et montre-le moi !
+<b>\c[10]Maple:</b>\c[0] Do you have a \gt shiny?
+<b>\c[10]Maple:</b>\c[0] Est-ce que tu as un shiny type \gt ?
+<b>\c[10]Maple:</b>\c[0] Oho! Nice one!
+<b>\c[10]Maple:</b>\c[0] Oho ! Joli !
+<b>\c[10]Maple:</b>\c[0] Thank you for showing me this!
+<b>\c[10]Maple:</b>\c[0] Merci de me l'avoir montré !
+<b>\c[10]Maple:</b>\c[0] Yes I understand, they seem to be really uncommon.
+<b>\c[10]Maple:</b>\c[0] Oui je comprends, ils ont l'air vraiment rares. Courage !
+<b>\c[10]Maple:</b>\c[0] \pn, we've really progressed nowadays.
+<b>\c[10]Maple:</b>\c[0] \pn, on a vraiment progressé ces temps-ci.
+<b>\c[10]Maple:</b>\c[0] But we have to work for housing. We have to be ready to welcome everyone we can.
+<b>\c[10]Maple:</b>\c[0] Mais nous devons travailler pour le logement. On doit être prêts à loger quiconque le voudrait.
+<b>\c[10]Maple:</b>\c[0] Please \pn, do not forget housing in the Town Reconstruction.
+<b>\c[10]Maple:</b>\c[0] S'il te plaît \pn, n'oublies pas le logement dans la Reconstruction de la Ville.
+<b>\c[10]Maple:</b>\c[0] Come talk me again when every housing is rebuilt.
+<b>\c[10]Maple:</b>\c[0] Viens me parler quand tous les logements seront construits.
+<b>\c[10]Maple:</b>\c[0] Did you built all housing ?
+<b>\c[10]Maple:</b>\c[0] As-tu coonstruit tous les logements ?
+<b>\c[10]Maple:</b>\c[0] Not yet? Please \pn don't neglect this!
+<b>\c[10]Maple:</b>\c[0] Pas encore ? S'il te plaît \pn ne néglige pas ce sujet !
+<b>\c[3]Marley:</b>\c[0] Hey boss, have you heard about shiny Pokémons?
+<b>\c[3]Marley:</b>\c[0] Hey boss, t’as déjà entendu parlé des Pokémon shiny ?
+<b>\c[3]Marley:</b>\c[0] They're also called chromatic Pokémons.
+<b>\c[3]Marley:</b>\c[0] Ils sont aussi appelés Pokémon chromatiques.
+<b>\c[3]Marley:</b>\c[0] They are Pokémons with a different, unique color.
+<b>\c[3]Marley:</b>\c[0] Ce sont des Pokémon avec une couleur particulière, unique.
+<b>\c[3]Marley:</b>\c[0] But they are very rare: you will encounter a shiny Pokémon every roughly 500 wild Pokémons, on average.
+<b>\c[3]Marley:</b>\c[0] Mais ils sont très rare : on rencontre un Pokémon shiny tous les 500 Pokémon sauvages, environ.
+<b>\c[3]Marley:</b>\c[0] But I personally love shinies! And I can help you find more.
+<b>\c[3]Marley:</b>\c[0] Moi je les adore ! Et je peux t’aider à en trouver davantage.
+<b>\c[3]Marley:</b>\c[0] Shinies are like attracted by my chillness you know?
+<b>\c[3]Marley:</b>\c[0] Les Shiny sont comme attirés par ma coolitude tu vois ?
+<b>\c[3]Marley:</b>\c[0] If you spend time with me, they will be attracted to you as well!
+<b>\c[3]Marley:</b>\c[0] Si tu passes du temps avec moi, tu les attirera aussi !
+<b>\c[3]Marley:</b>\c[0] Well for starters, try to find a shiny Pokémon and show it to me!
+<b>\c[3]Marley:</b>\c[0] Bon pour commencer, essaye de trouver un shiny et montre-le moi !
+<b>\c[3]Marley:</b>\c[0] Do you have a shiny Pokémon?
+<b>\c[3]Marley:</b>\c[0] T’as un Pokémon shiny ?
+<b>\c[3]Marley:</b>\c[0] I know they're really uncommon, don't lose hope!
+<b>\c[3]Marley:</b>\c[0] Je sais qu’ils sont vraiment rares, perds pas espoir !
+<b>\c[3]Marley:</b>\c[0] Heya boss, nice one! Do you see how it is different from others of its species?
+<b>\c[3]Marley:</b>\c[0] Heya boss, joli ! T’as vu comme il est différent des autres Pokémon de son espèce ?
+<b>\c[3]Marley:</b>\c[0] Nice work boss, I can feel the chillness around you!
+<b>\c[3]Marley:</b>\c[0] Joli boulot boss, je peux voir la coolitude autour de toi !
+You have nothing to tell Marley about any quest.
+Vous n'avez rien à dire à Marley concernant des quêtes.
+<b>\c[3]Marley:</b>\c[0] Do you know another thing I like? Regional forms!
+<b>\c[3]Marley:</b>\c[0] Tu sais ce que j’aime aussi ? Les formes régionales !
+<b>\c[3]Marley:</b>\c[0] Its another type or Pokémons that are unusual.
+<b>\c[3]Marley:</b>\c[0] C’est une autre forme de Pokémon sortant de l’ordinaire.
+<b>\c[3]Marley:</b>\c[0] But this time its not a rarity thing, its a localisation thing.
+<b>\c[3]Marley:</b>\c[0] Mais cette fois c’est pas une question de rareté, mais d’origine.
+<b>\c[3]Marley:</b>\c[0] These variants are unique to certain region. Personally my favourite Pokémon is an Alolan form!
+<b>\c[3]Marley:</b>\c[0] Ces formes sont propres à certaines régions. Perso mon Pokémon préféré est une forme d’Alola !
+<b>\c[3]Marley:</b>\c[0] I really want to see a regional form!
+<b>\c[3]Marley:</b>\c[0] J’aimerais vraiment voir une forme régionale !
+<b>\c[3]Marley:</b>\c[0] You have to go outside Nekanta to find them tho, maybe in Tlingit or at the Far Islands.
+<b>\c[3]Marley:</b>\c[0] Il faut sortir de Nekanta pour ça par contre, peut-être en Tlingit ou dans les Îles Lointaines.
+<b>\c[3]Marley:</b>\c[0] Do you have a regional form?
+<b>\c[3]Marley:</b>\c[0] T’as une forme régionale ?
+<b>\c[3]Marley:</b>\c[0] No? Well I wait here!
+<b>\c[3]Marley:</b>\c[0] Non ? Bon ben j’attends ici !
+<b>\c[3]Marley:</b>\c[0] Heya its so cool! Thank you boss!
+<b>\c[3]Marley:</b>\c[0] Heya c’est si cool l Merci boss !
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, how about we have a friendly battle?
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, ça te dit un combat amical ?
+<b>\c[9]Melly:</b>\c[0] Not necessarly with our Gym Pokémon parties though!
+<b>\c[9]Melly:</b>\c[0] Pas forcément avec nos équipes d’arène hein !
+<b>\c[9]Melly:</b>\c[0] M-my Pokémons will be around level 20!
+<b>\c[9]Melly:</b>\c[0] Mes Pokémons sont vers le niveau 20 !
+<b>\c[9]Melly:</b>\c[0] R-ready when you are!
+<b>\c[9]Melly:</b>\c[0] Quand tu veux !
+<b>\c[9]Melly:</b>\c[0] Ready? L-let's battle!
+<b>\c[9]Melly:</b>\c[0] Prêt ? C’est parti !
+<b>\c[9]Melly:</b>\c[0] Hehe... You're definitely strong!
+<b>\c[9]Melly:</b>\c[0] Hehe... T’es fort, c’est sûr !
+<b>\c[9]Melly:</b>\c[0] Thank you for this battle \pn!
+<b>\c[9]Melly:</b>\c[0] Merci pour ce combat \pn !
+You have nothing to tell Melly about any quest.
+Vous n'avez rien à dire à Melly concernant des quêtes.
+<b>\c[9]Melly:</b>\c[0] H-hi \pn, I wanted to ask you something!
+<b>\c[9]Melly:</b>\c[0] H-hi \pn, je voulais te demander quelque chose !
+<b>\c[9]Melly:</b>\c[0] As you probably figured by now, I reaaaaaally loves pink and purple!
+<b>\c[9]Melly:</b>\c[0] Comme tu l’as sans doute deviné, j’adooooooore le rose et le violet !
+<b>\c[9]Melly:</b>\c[0] Can you show me 3 pink or purple Pokémons? And not the same ones!
+<b>\c[9]Melly:</b>\c[0] Tu pourrais me montrer 3 Pokémon rose ou violet ! Et pas les mêmes hein !
+<b>\c[9]Melly:</b>\c[0] Do you have pink and purple Pokémons to show me?
+<b>\c[9]Melly:</b>\c[0] Est-ce que t’as des Pokémon roses ou violet à me montrer ?
+<b>\c[9]Melly:</b>\c[0] AAAAAAAH THEY'RE SO CUUUUUUUUUUUUUTE!!!!!!
+<b>\c[9]Melly:</b>\c[0] AAAAAAAH ILS SONT SI MIGNOOOOOOOONS !!!!!!!
+<b>\c[9]Melly:</b>\c[0] THANK YOU!!
+<b>\c[9]Melly:</b>\c[0] MERCI !!!
+<b>\c[9]Melly:</b>\c[0] N-no? oh...
+<b>\c[9]Melly:</b>\c[0] Non ? O-oh...
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, how about we have another friendly battle?
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, ça te dit un autre combat amical ?
+<b>\c[9]Melly:</b>\c[0] Thi-this time my Pokémons will be around level 40!
+<b>\c[9]Melly:</b>\c[0] Ce-cette fois mes Pokémon seront vers le niveau 40 !
+<b>\c[9]Melly:</b>\c[0] Ready when you are!
+<b>\c[9]Melly:</b>\c[0] Prête quand tu veux !
+<b>\c[9]Melly:</b>\c[0] Hehe... You're definitely really strong!
+<b>\c[9]Melly:</b>\c[0] Hehe... T'es définitivement vraiment fort !
+<b>\c[9]Melly:</b>\c[0] H-hi \pn, I was talking to Marley the other day and he told me about shinies!
+<b>\c[9]Melly:</b>\c[0] S-Salut \pn, je parlais avec Marley l'autre jour et il m'a parlé de shinys !
+<b>\c[9]Melly:</b>\c[0] It made me curious...
+<b>\c[9]Melly:</b>\c[0] Du coup de suis curieuse...
+<b>\c[9]Melly:</b>\c[0] Say, can you show me a Pokémon that's usually Pink or Purple, and is shiny?
+<b>\c[9]Melly:</b>\c[0] Dis, tu peux me montrer un Pokémon qui normalement est rose ou violet, et qui est shiny ?
+<b>\c[9]Melly:</b>\c[0] Do you have a shiny pink or purple Pokémon to show me?
+<b>\c[9]Melly:</b>\c[0] Tu as un Pokémon rose ou violet shiny ?
+<b>\c[9]Melly:</b>\c[0] OOOOOOOOH!!!! That's amazing acually!!!!!
+<b>\c[9]Melly:</b>\c[0] OOOOOOOOH !!!! C'est génial en vrai !!!!!
+<b>\c[9]Melly:</b>\c[0] Thanks a lot \pn! It's soooo cool!
+<b>\c[9]Melly:</b>\c[0] Merci beaucoup \pn! C'est trooooop cool !
+<b>\c[9]Melly:</b>\c[0] \pn!!!! This time, I will beat you fair and square!
+<b>\c[9]Melly:</b>\c[0] \pn !!!! Cette fois, tu n'as aucune chance !
+<b>\c[9]Melly:</b>\c[0] Be prepared! My Pokémon will be around level 60!
+<b>\c[9]Melly:</b>\c[0] Prépare-toi ! Mes pokémon seront autour du niveau 60 !
+<b>\c[9]Melly:</b>\c[0] Haaaa... I really thought I had a chance...
+<b>\c[9]Melly:</b>\c[0] Haaaa... Je croyais vraiment que j'aurais une chance...
+<b>\c[9]Melly:</b>\c[0] D...don't worry, I'm not sad! I'm really glad to see you're so strong, and yet won't get rid of me!
+<b>\c[9]Melly:</b>\c[0] Ne...ne t'inquiète pas, je suis pas triste ! Je suis contente que tu sois si fort, et pourtant, tu ne te débarasse pas de moi !
+<b>\c[9]Melly:</b>\c[0] I...it's really heartwarming actually...
+<b>\c[9]Melly:</b>\c[0] Franchement ça...ça fait chaud au coeur...
+<b>\c[10]Maple:</b>\c[0] You took care of all the barnacles?
+<b>\c[10]Maple:</b>\c[0] Tu t’es occupé de tous les Opermines ?
+You have nothing to tell Maple about any quest (1).
+Vous n'avez rien à dire à Maple concernant des quêtes (1).
+You have nothing to tell Maple about any quest (2).
+Vous n'avez rien à dire à Maple concernant des quêtes (2).
+You have nothing to tell Maple about any quest (3).
+Vous n'avez rien à dire à Maple concernant des quêtes (3).
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie! Can we ask you something?
+<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor ! On peut te demander quelque chose ?
+<b>\c[5]Nurse:</b>\c[0] As you are traveling around the region, can you deliver some things for us?
+<b>\c[5]Infirmière:</b>\c[0] Comme tu voyages à travers la région, tu pourrais livrer certaines choses pour nous ?
+<b>\c[5]Nurse:</b>\c[0] We have packages to deliver to other Pokemon Centers in north-west Nekanta.
+<b>\c[5]Infirmière:</b>\c[0] Nous avons des colis à délivrer aux autres Centres Pokémon du nord-ouest de Nekanta.
+<b>\c[5]Nurse:</b>\c[0] The packages contains medical supplies.
+<b>\c[5]Infirmière:</b>\c[0] Ces colis contiennent des produits pharmaceutiques.
+<b>\c[5]Nurse:</b>\c[0] We need to deliver one at the Sombake, Grey Moose and Central City Pokémon Centers.
+<b>\c[5]Infirmière:</b>\c[0] On doit en livrer aux Centres Pokémon de Sombake, Greymoose et de la Ville Centrale
+<b>\c[5]Nurse:</b>\c[0] Can you take care of this for us?
+<b>\c[5]Infirmière:</b>\c[0] Tu peux t’en occuper ?
+<b>\c[5]Nurse:</b>\c[0] Here are the packages!
+<b>\c[5]Infirmière:</b>\c[0] Voici les colis !
+<b>\c[5]Nurse:</b>\c[0] Did you deliver the packages? Not yet?
+<b>\c[5]Infirmière:</b>\c[0] Tu as livré les colis ? Pas encore ?
+<b>\c[5]Nurse:</b>\c[0] No problem! We wait here anyway!
+<b>\c[5]Infirmière:</b>\c[0] Aucun problème. On attend là de toute façon !
+<b>\c[5]Nurse:</b>\c[0] Did you deliver the packages? Only one so far?
+<b>\c[5]Infirmière:</b>\c[0] Tu as livré les colis ? Un seul pour le moment ?
+<b>\c[5]Nurse:</b>\c[0] Did you deliver the packages? Two out of three so far?
+<b>\c[5]Infirmière:</b>\c[0] Tu as livré les colis ? 2 sur 3 pour le moment ?
+<b>\c[5]Nurse:</b>\c[0] Thank you very much sweetie! You take really good care of us~
+<b>\c[5]Infirmière:</b>\c[0] Merci beaucoup trésor ! Tu prends bien soin de nous~
+You have nothing to tell the nurses about any quest.
+Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
+<b>\c[5]Nurse:</b>\c[0] Have you heard about the Heal Balls sweetie?
+<b>\c[5]Infirmière:</b>\c[0] Tu as déjà entendu parler des Soin Balls, trésor ?
+<b>\c[5]Nurse:</b>\c[0] Heal balls, as its name suggests, instantly heals any Pokémon catched with.
+<b>\c[5]Infirmière:</b>\c[0] Soin Balls, comme leur nom l’indique, soigne les Pokémon capturés avec.
+<b>\c[5]Nurse:</b>\c[0] Here, take these heal balls and try to catch a Pokémon with it!
+<b>\c[5]Infirmière:</b>\c[0] Tiens, prends ces Soin Balls et essaye de capturer un Pokémon avec !
+<b>\c[5]Nurse:</b>\c[0] Come back and show me a Pokémon inside a heal ball!
+<b>\c[5]Infirmière:</b>\c[0] Reviens me montrer un Pokémon dans une Soin Ball !
+<b>\c[5]Nurse:</b>\c[0] Did you catch a Pokémon with a heal ball?
+<b>\c[5]Infirmière:</b>\c[0] Tu as attrapé un Pokémon avec une Soin Ball ?
+<b>\c[5]Nurse:</b>\c[0] No? Please sweetie, try it for me~
+<b>\c[5]Infirmière:</b>\c[0] Non ? S’il te plaît trésor, essaye, pour moi~
+<b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool invention right?
+<b>\c[5]Infirmière:</b>\c[0] Excellent, trésor ! C’est une belle invention n’est-ce pas ?
+You have nothing to tell the Nurses about any quest.
+Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
+<b>\c[5]Nurse:</b>\c[0] Sweetie, do you know that some Pokémon can heal others?
+<b>\c[5]Infirmière:</b>\c[0] Sweetie, tu savais que certains Pokémon peuvent en soigner d'autres ?
+<b>\c[5]Nurse:</b>\c[0] Some moves, like Pollen Puff or Heal Pulse, can heal allies Pokémon!
+<b>\c[5]Infirmière:</b>\c[0] Certaines capacités, comme Boule Pollen ou Vibra Soin, peuvent soigner les Pokémon alliés !
+<b>\c[5]Nurse:</b>\c[0] Show me a Pokémon who knows a healing move!
+<b>\c[5]Infirmière:</b>\c[0] Montre moi un Pokémon qui connaît une capacité de soin !
+<b>\c[5]Nurse:</b>\c[0] Do you have a Pokémon with a healing move?
+<b>\c[5]Infirmière:</b>\c[0] Est-ce que tu as un Pokémon avec une capacité de soin ?
+<b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool kind of moves right?
+<b>\c[5]Infirmière:</b>\c[0] Excellent trésor ! Ce genre de capacités est vraiment incroyable non ?
+<b>\c[5]Nurse:</b>\c[0] Sweetie, more than healing moves, there is healing Abilities!
+<b>\c[5]Infirmière:</b>\c[0] Trésor, en plus des capacités de soin, il y a des talents de soin !
+<b>\c[5]Nurse:</b>\c[0] Abilities like Regenerator oh Healer can heal Pokémons during battles!
+<b>\c[5]Infirmière:</b>\c[0] Les Talents comme Régé-Force ou Coeur Soin peuvent soigner les Pokémon en combat !
+<b>\c[5]Nurse:</b>\c[0] Show me a Pokémon who knows a healing ability!
+<b>\c[5]Infirmière:</b>\c[0] Montre moi un Pokémon ayant un talent de soin !
+<b>\c[5]Nurse:</b>\c[0] Do you have a Pokémon with a healing ability?
+<b>\c[5]Infirmière:</b>\c[0] Est-ce que tu as un Pokémon ayant un talent de soin ?
+<b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool kind of ability right?
+<b>\c[5]Infirmière:</b>\c[0] Excellent trésor ! Ce genre de talents est vraiment incroyable non ?
+<b>\c[5]Nurse:</b>\c[0] Sweetie we have a huge demand for you.
+<b>\c[5]Infirmière:</b>\c[0] Trésor nous avons un énorme service à te demander.
+<b>\c[5]Nurse:</b>\c[0] We want to boost our prestige and Marley told us about shinies!
+<b>\c[5]Infirmière:</b>\c[0]Nous voulons booster notre prestige et Marley nous a parlé de shiny !
+<b>\c[5]Nurse:</b>\c[0] So we want to have a Pokémon healer taht is shiny! Can you find one for us?
+<b>\c[5]Infirmière:</b>\c[0] Donc nous voulons un Pokémon soigneur qui soit shiny ! Tu peux en trouver un pour nous ?
+<b>\c[5]Nurse:</b>\c[0] Do you have a shiny healer?
+<b>\c[5]Infirmière:</b>\c[0] Est-ce que tu as un soigneur shiny ?
+<b>\c[5]Nurse:</b>\c[0] Ooooh how wonderful!!
+<b>\c[5]Infirmière:</b>\c[0] Ooooh c'est vraiment magnifique !!
+<b>\c[5]Nurse:</b>\c[0] Thanks a lot sweetie!
+<b>\c[5]Infirmière:</b>\c[0] Merci énormément trésor !
+The Normal Leader shows you a drawing of a Kecleon. They seem to love this Pokémon!
+Le Leader Normal vous montre le dessin d’un Kecleon. Iel a l’air d’adorer ce Pokémon !
+Maybe you should capture one and show it to them...
+Peut-être que vous devriez en capturer un et lui montrer…
+The Normal Leader shows you the Kecleon drawing again...
+Le Leader Normal vous montre de nouveau le dessin d’un Kecleon…
+The Normal Leader seems disappointed...
+Le Leader Normal a l’air déçu…
+The Normal Leader seems really happy to see the Kecleon! They pet it a bit before handing it back to you.
+Le Leader Normal a l’air vraiment content de voir le Kecleon ! Iel lui fait quelques papouilles avant de vous le rendre.
+You have nothing to tell the Normal Leader about any quest.
+Vous n'avez rien à dire au Leader Normal concernant des quêtes (1).
+The Normal Leader looks to you with a flaming passion! Maybe they want a rematch?
+Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une revanche ?
+They show you a piece of paper with a big "40" on it.
+They show you a piece of paper with a big "40" on it.
+The Normal Leader takes a combat stance!
+Le Leader Normal prend une position de combat !
+The Normal Leader seems glad to have rematched you!
+Le Leader Normal a l’air heureux d’avoir pu vous combattre à nouveau !
+The Normal Leader show you a drawing of a Love Ball!
+Le Leader Normal vous montre un dessin d'une Love Ball !
+Maybe they want you to catch a Pokémon with a Love Ball.
+Peut-être qu'iel veut que vous capturiez un Pokémon avec une Love Ball.
+As they are the Normal Leader, you better be sure it's a Normal type Pokémon!
+Comme c'est le Leader Normal, vous devriez vous assurer que c'est un Pokémon type Normal !
+The Normal Leader shows you the Love Ball image once again.
+Le Leader Normal vous montre l'image de la Love Ball de nouveau.
+The Normal Leader seems really happy!
+Le Leader Normal semble vraiment content !
+The Normal Leader looks to you with a flaming passion! Maybe they want another rematch?
+Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une autre revanche ?
+They show you a piece of paper with a big "60" on it.
+They show you a piece of paper with a big "60" on it.
+<b>Kathleen:</b> Hey \pn, did I ever talked to you about Bug Poékmons early evolutions?
+<b>Kathleen:</b> Hey \pn, je t’ai déjà parlé du fait que les Pokémon insecte évoluent tôt ?
+<b>Kathleen:</b> It's really cool! They can be fully evolved really early!
+<b>Kathleen:</b> C’est vraiment cool ! Il peuvent même être en stade 3 très tôt !
+<b>Kathleen:</b> You should try to capture some and see for yourself!
+<b>Kathleen:</b> Tu devrais essayer d’en capturer et voir ça par toi-même !
+<b>Kathleen:</b> Show me a bug Pokémon that already evolved 2 times and still didn't exceed level 15!
+<b>Kathleen:</b> Montre-moi un Pokémon qui a déjà évolué deux fois et qui n’a pas dépassé le niveau 15 !
+<b>Kathleen:</b> Found early evolving Bug Pokémons?
+<b>Kathleen:</b> Tu as trouvé des Pokémon Insecte évoluant tôt ?
+<b>Kathleen:</b> Hehe, nice! It is really strong already no?
+<b>Kathleen:</b> Hehe, joli ! Il est déjà super fort non ?
+<b>Kathleen:</b> Not yet? Try in the Green Lush Forest!
+<b>Kathleen:</b> Pas encore ? Essaye dans la Forêt Verdoyante !
+You have nothing to tell Kathleen about any quest.
+Vous n'avez rien à dire à Kathleen concernant des quêtes (1).
+<b>Kathleen:</b> Hey \pn, what do you say we have a little rematch here?
+<b>Kathleen:</b> Hey \pn, que dis-tu d’une petite revanche ?
+<b>Kathleen:</b> It's not an official battle so I won't limit my levels! Actually, my Pokémons are around level 40!
+<b>Kathleen:</b> C’est pas un combat officiel donc pas de limite de niveau ! D’ailleurs mes Pokémon seront aux alentours du niveau 40 !
+<b>Kathleen:</b> Ready when you are!
+<b>Kathleen:</b> Quand tu veux !
+<b>Kathleen:</b> Ready? Let's go!
+<b>Kathleen:</b> Prêt ? C’est parti !
+<b>Kathleen:</b> Wowie! You're definitely super strong!
+<b>Kathleen:</b> Wowie ! T’es vraiment super fort !
+<b>Kathleen:</b> I still need to improve my team! Next time won't be easy even for you!
+<b>Kathleen:</b> Je dois encore améliorer mon équipe ! La prochaine dois ce sera pas facile même pour toi !
+<b>Kathleen:</b> Well thank you for the fun battle!
+<b>Kathleen:</b> Mais merci pour ce combat amusant !
+<b>Kathleen:</b> Hey \pn, do you know about Net Balls?
+<b>Kathleen:</b> Hey \pn, tu connais les Filet Balls ?
+<b>Kathleen:</b> They are really useful for catching Bug (and Water) Pokémon!
+<b>Kathleen:</b> Elles sont vraiment utiles pour capturer des pokémon Insecte (et Eau) !
+<b>Kathleen:</b> Hey, can you show me a Bug Pokémon inside a Net Ball?
+<b>Kathleen:</b> Hey, Tu peux me montrer un Pokémon Insecte dans une Filet Ball ?
+<b>Kathleen:</b> Do you have a Bug Pokémon inside a Net Ball?
+<b>Kathleen:</b> Est-ce que tu as un Pokémon Insecte dans une Filet Ball ?
+<b>Kathleen:</b> No? But it's really neat!
+<b>Kathleen:</b> Non ? Mais elles sont vraiment stylées !
+<b>Kathleen:</b> Eheh, nice!
+<b>Kathleen:</b> Eheh, pas mal !
+<b>Kathleen:</b> It's really easy no?
+<b>Kathleen:</b> C'est vraiment utile non ?
+<b>Kathleen:</b> Hey \pn, what do you say we have another rematch here?
+<b>Kathleen:</b> Hey \pn, que dis-tu d’une autre petite revanche ?
+<b>Kathleen:</b> This time I will go all out! My Pokémon will be around level 60!
+<b>Kathleen:</b> Cette fois j'y vais à fond ! Mes Pokémon seront environ niveau 60 !
+<b>Kathleen:</b> Wowie! You're definitely super ultra mega strong!!!
+<b>Kathleen:</b> Wowie ! T'es définitivement super ultra mega tro fort !!!
+You can't spend time now: it's not the Weekend or Wednesday!
+Impossible de passer du temps : ce n'est ni le Weekend ni Mercredi !
+Do you want to spend time with Prof Maple? <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec le Prof Maple ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+You spend time helping Prof Maple in his lab. You learn a lot!
+Vous passez du temps à aider le Prof Maple dans son labo. Vous apprenez plein de choses !
+You spend time hiking with Maple. It's really refreshing!
+Vous passez du temps en randonnée avec Maple. C’est vraiment revigorant !
+You spend time assisting Maple during his lessons at the academy. Students are really happy to learn from you!
+Vous passez du temps à assister Maple durant ses cours à l’Académie. Les élèves sont vraiment heureux d’apprendre de vous !
+Do you want to spend time with Marley? <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec Marley ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+You spend time hanging out with Marley at the Gym. He is really cool!
+Vous passez du temps avec Marley dans l’arène. Il est vraiment cool !
+You spend time listening to music with Marley in a park. He has great taste!
+Vous passez du temps à écouter de la musique dans un parc avec Marley. Il a bon goût !
+You spend time at the Casino with Marley. Luckily, he pays for everything!
+Vous passez du temps au Casino avec Marley. Heureusement, il paye tout !
+Do you want to spend time with Melly? <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec Melly ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+You spend time training with Melly at the Gym. She is really cool!
+Vous passez du temps à vous entraîner avec Melly dans l’arène. Elle est vraiment sympa !
+You spend time at the beach with Melly. This is really nice!
+Vous passez du temps à la plage avec Melly. C’est vraiment cool !
+You spend time hanging out with Melly in her bedroom. She is a great friend!
+Vous passez du temps avec Melly dans sa chambre. C’est vraiment une super amie !
+You spent the rest of the weekend with Prof Maple. You learnt a lot!
+Vous passez le reste du weekend avec le Prof Maple. Vous apprenez plein de choses !
+Do you want to spend time with the nurses? <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec les infirmières ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+You spend time helping the nurses at the Pokémon Center. You learn a lot!
+Vous passez du temps à aider les infirmières dans le Centre Pokémon. Vous apprenez plein de choses !
+You spend time with the Blisseys of the Pokémon Center. They're so soft and cute!
+Vous passez du temps avec les Leuphories du Centre Pokémon. Ils sont si doux et mignons !
+You spend time at the Day-Care with the nurses, the Day-Care couple, and a lot of cute Pokémon. It's really heartwarming!
+Vous passez du temps à la Pension avec les infirmières, le couple de la Pension, et plein de Pokémon mignons. C’est si réconfortant !
+Do you want to spend time with the Normal Leader? <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec le Leader Normal ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+You spend time helping the Normal Leader in their Gym. You learn a lot!
+Vous passez du temps à aider le Leader Normal dans son arène. Vous apprenez plein de choses !
+You chilled with the Normal Leader in their room! It was rather awkward...
+Vous passez du temps à vous détendre dans la chambre du Leader Normal. C’était légèrement bizarre…
+Do you want to spend time with Kathleen? <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec Kathleen ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+You spend time helping Kathleen in her Gym. You learn a lot!
+Vous passez du temps à aider Kathleen dans son arène. Vous apprenez plein de choses !
+You went catching bugs with Kathleen in the forest! It was really cool!
+Vous passez du temps à captuer des insectes en forêt avec Kathleen ! C’était super cool !
+You chilled with Kathleen in her room! She's really friendly!
+Vous passez du temps à vous détendre dans la chambre de Kathleen. Elle est vraiment sympa !
+<b><c3=BDA46A,736440>Samy:</b></c3> All is right with you pal? Hahah!
+<b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 2!
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 2 !
+<b>\c[10]Maple:</b>\c[0] It's a really good thing we can continue forward.
+<b>\c[10]Maple:</b>\c[0] C'est vraiment génial qu'on puisse aller de l'avant.
+<b>\c[10]Maple:</b>\c[0] You did meet a guy named Samy ? And fought again a certain "Team Absolution" ?
+<b>\c[10]Maple:</b>\c[0] Tu as rencontré quelqu'un qui s'appelle Samy ? Et tu as combattu la "Team Absolution" ?
+<b>\c[10]Maple:</b>\c[0] Hmmm... I might have heard some folks at the Nekanta League talking about this.
+<b>\c[10]Maple:</b>\c[0] Hmmm... J'ai peut-être entendu certaines personnnes en parler à la Ligue de Nekanta.
+<b>\c[10]Maple:</b>\c[0] Okay \pn, I will watch this closely. In the meantime, you have to keep growing!
+<b>\c[10]Maple:</b>\c[0] Ok \pn, je vais surveiller ça attentivement. En attendant, tu dois continuer à t'améliorer !
+<b>\c[10]Maple:</b>\c[0] Let me give you your new quests!
+<b>\c[10]Maple:</b>\c[0] Laisse moi te donner tes nouvelles quêtes !
+<b>\c[10]Maple:</b>\c[0] So the next step for you is Greymoose.
+<b>\c[10]Maple:</b>\c[0] Donc la prochaine étape pour toi est Greymoose.
+<b>\c[10]Maple:</b>\c[0] It's a really big city, in our country only Moonyang is bigger!
+<b>\c[10]Maple:</b>\c[0] C'est vraiment une grande ville, dans notre pays seule Moonyang est plus vaste !
+<b>\c[10]Maple:</b>\c[0] Stay safe during your travels \pn, and good luck!
+<b>\c[10]Maple:</b>\c[0] Sois prudent pendant tes voyages \pn, et bonne chance !
+What do you want to know?
+Que voulez-vous savoir ?
+You have 3 options:\n- Full animation
+Vous avez 3 options:\n- Animation complète
+- Shortened: Skip the walking parts\n- Skip all: Only show texts ; show challenger only in your room.
+- Écourtée : Passe les déplacements\n- Tout passer : Montre seulement les textes ; montre le challenger dans votre salle uniquement.
+Which animation style do you want?
+Quel style d’animation voulez-vous ?
+Animation Skip Style updated.
+Style d’animation mis à jour.
+You're currently doing Mono Battles at your Gym.
+Actuellement vous faites des Combats Solo dans votre Arène
+You're currently doing Double Battles at your Gym.
+Actuellement vous faites des Combats Double dans votre Arène
+Change the battle format?
+Changer le format des combats ?
+Mono Battles at the Gym.
+Combats Solo dans l'Arène.
+Double Battles at the Gym.
+Combats Double dans l'Arène.
+Evaluate Pokédex
+Evaluer Pokédex
+Quit
+Quitter
+Yes
+Oui
+No
+Non
+General Gym infos
+Infos générales de l’arène
+Gym trainers infos
+Infos des dresseurs de l’arène
+Set skipping settings
+Changer style d’animation
+Double battles
+Combats Double
+Full animation
+Animation complète
+Shortened
+Écourtée
+Skip all
+Tout passer
+Cancel
+Annuler
+Mono Battles
+Combats Solo
+Double Battles
+Combats Double

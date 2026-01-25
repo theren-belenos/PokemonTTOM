@@ -40,6 +40,18 @@ module QuestModule
 		:RewardString => ""
 	}
 
+	# Old chapter 3
+	MainQuest3 = {
+		:ID => "MQ3",
+		:Name => _INTL("First week at work"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Finish the first week"),
+		:Location1 => _INTL("Your Gym"),
+		:QuestDescription => _INTL("Learn the ropes of being a Gym Leader by opening the Gym for your first week !"),
+		:RewardString => "???"
+	}
+	
+
 	# Chapter 2
 	MainQuest4 = {
 		:ID => "MQ4",
@@ -89,6 +101,48 @@ module QuestModule
 		:RewardString => ""
 	}
 	
+	# Old Chapter 3 // à suppr quand plus de files corrompues
+	MainQuest5 = {
+		:ID => "MQ5",
+		:Name => _INTL("debug"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("debug"),
+		:Location1 => "/",
+		:QuestDescription => _INTL('debug'),
+		:RewardString => ""
+	}
+	
+	MainQuest5A = {
+		:ID => "MQ5A",
+		:Name => _INTL("debug"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("debug"),
+		:Location1 => "/",
+		:QuestDescription => _INTL('debug'),
+		:RewardString => ""
+	}
+	
+	MainQuest5B = {
+		:ID => "MQ5B",
+		:Name => _INTL("debug"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("debug"),
+		:Location1 => "/",
+		:QuestDescription => _INTL('debug'),
+		:RewardString => ""
+	}
+	
+	MainQuest5C = {
+		:ID => "MQ5C",
+		:Name => _INTL("debug"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("debug"),
+		:Location1 => "/",
+		:QuestDescription => _INTL('debug'),
+		:RewardString => ""
+	}
+	
+	
 	# Chapter 3
 	MainQuestCh3 = {
 		:ID => "MQCh3",
@@ -136,7 +190,7 @@ module QuestModule
 		:Stage2 => _INTL("Complete both goals (1/2)"),
 		:Location1 => "/",
 		:Location2 => "/",
-		:QuestDescription => _INTL('Complete the city task n°17 : "Gym Team - Second trainer" and find someone who can become the second trainer of your Gym.'),
+		:QuestDescription => _INTL("Complete the city task 17 : 'Gym Team - Second trainer' and find someone who can become the second trainer of your Gym."),
 		:RewardString => ""
 	}
   
@@ -230,14 +284,25 @@ module QuestModule
 		:Stage1 => _INTL("Bring Ernest 2 Poké Dolls"),
 		:Location1 => _INTL("Your Town (little park)"),
 		:QuestDescription => _INTL("Ernest wants to gift his grandchildren some Poké Dolls. Bring him two!"),
-		:RewardString => "5 Ultra Balls"
+		:RewardString => _INTL("5 Ultra Balls")
 	}
 	
-  ##############################################################################
-  #
-  #		Battle Quests
-  #
-  ##############################################################################
+	# Bring lunch to the guard
+	ItemQuest8 = {
+		:ID => "IQ8",
+		:Name => _INTL("Missing lunch"),
+		:QuestGiver => _INTL("A lady"),
+		:Stage1 => _INTL("Bring the lunch to the dad"),
+		:Location1 => _INTL("Route 11"),
+		:QuestDescription => _INTL("A mother asked you to bring her husband the lunch he forgot. Go see him near the Camosack's gates in Route 11"),
+		:RewardString => "???"
+	}
+	
+	##############################################################################
+	#
+	#		Battle Quests
+	#
+	##############################################################################
   
 	# The croagunks in route 1
 	BattleQuest1 = {
@@ -278,6 +343,8 @@ module QuestModule
 		:RewardString => "???"
 	}
 	
+	
+	
 	# Bandit ambush Route 9
 	BattleQuest4 = {
 		:ID => "BQ4",
@@ -288,14 +355,30 @@ module QuestModule
 		:Location1 => _INTL("Route 9"),
 		:Location2 => _INTL("Sombake PC"),
 		:QuestDescription => _INTL("Some bandits are ambushing travellers near the east	end of Route 9. Go there yourself and prepare for battle!"),
-		:RewardString => "Cyclizar"
+		:RewardString => _INTL("A Cyclizar")
 	}
   
-  ##############################################################################
-  #
-  #		Pokémon Quests
-  #
-  ##############################################################################
+  
+	# Get the Mining Kit
+	BattleQuest5 = {
+		:ID => "BQ5",
+		:Name => _INTL("Gain a Mining Kit"),
+		:QuestGiver => "Lando",
+		:Stage1 => _INTL("Battle with Lando (lvl 26+)"),
+		:Stage2 => _INTL("Bring a Lemonade to Lando"),
+		:Stage3 => _INTL("Bring a Bergmite to Lando"),
+		:Location1 => "Grey Mines",
+		:Location2 => "Grey Mines",
+		:Location3 => "Grey Mines",
+		:QuestDescription => _INTL("A worker wants to take a break from his work. He might give you something to mine Glowing Rocks!"),
+		:RewardString => _INTL("The Mining Kit")
+	}
+	
+	##############################################################################
+	#
+	#		Pokémon Quests
+	#
+	##############################################################################
   
 	# Show a MimeJr to the scientist in Central Town PC
 	PokemonQuest1 = {
@@ -349,14 +432,50 @@ module QuestModule
 		:Stage1 => _INTL("Lend a Falinks to an academy's teacher"),
 		:Location1 => _INTL("Academy"),
 		:QuestDescription => _INTL("A teacher in the Academy wants to show a Falinks to their student. Catch one and lend it to the teacher!"),
-		:RewardString => _INTL("???")
+		:RewardString => "???"
+	}
+	
+	# Find the Skitty
+	PokemonQuest6 = {
+		:ID => "PQ6",
+		:Name => _INTL("Find the Kitty!"),
+		:QuestGiver => _INTL("A mother"),
+		:Stage1 => _INTL("Find the Skitty"),
+		:Stage2 => _INTL("Bring the Skitty back"),
+		:Location1 => "Greymoose",
+		:Location2 => "Greymoose",
+		:QuestDescription => _INTL("A little girl lost her Skitty in the big city of greymoose. Find it and bring it back to her."),
+		:RewardString => "???"
 	}
   
-  ##############################################################################
-  #
-  #		Social Quests
-  #
-  ##############################################################################
+	# Find the Skitty
+	PokemonQuest7 = {
+		:ID => "PQ7",
+		:Name => _INTL("Give a Cherubi"),
+		:QuestGiver => _INTL("A Poké Fan"),
+		:Stage1 => _INTL("Give a Cherubi"),
+		:Location1 => _INTL("Greymoose Bighouse"),
+		:QuestDescription => _INTL("A Poké Fan is sad that he doesn't have a cute Pokémon like his friends. Catch a Cherubi on Route 11 and give it to him."),
+		:RewardString => _INTL("Soothe Bell")
+	}
+	
+	# Lend an Elgyem
+	PokemonQuest8 = {
+		:ID => "PQ8",
+		:Name => _INTL("Lend an Elgyem"),
+		:QuestGiver => _INTL("A Producer"),
+		:Stage1 => _INTL("Give an Elgyem"),
+		:Location1 => _INTL("Greymoose Townhouse"),
+		:QuestDescription => _INTL("The Producer at the Floor 4 of Greymoose Townhouse needs an Elgyem for one of his shootings. Catch one and lend it to him."),
+		:RewardString => "???"
+	}
+	
+	
+	##############################################################################
+	#
+	#		Social Quests
+	#
+	##############################################################################
   
   # Maple
   ##############################################################################
@@ -517,18 +636,18 @@ module QuestModule
 		:QuestGiver => "Melly",
 		:Stage1 => _INTL("Show a pink or purple shiny to Melly"),
 		:Location1 => _INTL("Your Gym or Melly's house."),
-		:QuestDescription => _INTL("Melly learnt from Maple about the shinies and she is very excited about it. She wants you to capture a shiny Pokémon that's pink or purple, and is not pink or purple if not shiny."),
+    	:QuestDescription => _INTL("Melly learnt from Marley about the shinies and she is very excited about it. She wants you to capture a shiny of a Pokémon that's pink or purple"),
 		:RewardString => _INTL("Melly relation up.")
 	}
 
 
 	MellyQuest5= {
 		:ID => "MellyQ5",
-		:Name => _INTL("Melly last training battle (lvl 50+)"),
+		:Name => _INTL("Melly last training battle (lvl 60+)"),
 		:QuestGiver => "Melly",
 		:Stage1 => _INTL("Have a training battle with Melly"),
 		:Location1 => _INTL("Your Gym or Melly's house."),
-		:QuestDescription => _INTL("Melly wants to train with you one last time. Battle her at your Gym. Her Pokémon will be around lvl 50. Note: you HAVE to win the battle to complete the quest"),
+		:QuestDescription => _INTL("Melly wants to train with you one last time. Battle her at your Gym. Her Pokémon will be around lvl 60. Note: you HAVE to win the battle to complete the quest"),
 		:RewardString => _INTL("Melly relation up, and a gift.")
 	}
   

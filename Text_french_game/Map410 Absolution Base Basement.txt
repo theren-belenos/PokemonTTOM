@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map410]
+\c[3]Activating... "L"
+\c[3]Activating... "L"
+\c[3]De-activating... "L"
+\c[3]De-activating... "L"
+\c[3]Hidden Vault unlocked...
+\c[3]Hidden Vault unlocked...
+\c[3]Activating... "S"
+\c[3]Activating... "S"
+\c[3]De-activating... "S"
+\c[3]De-activating... "S"
+\c[3]Activating... "U"
+\c[3]Activating... "U"
+\c[3]De-activating... "U"
+\c[3]De-activating... "U"

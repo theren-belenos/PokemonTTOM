@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map017]
+<b>Daniel:</b> Is there even fishes in there?!
+<b>Daniel:</b> Est-ce qu’il y a vraiment des poissons ici ?
+<b>Daniel:</b> Fisheeeeeees! Where are youuuuuuuuu?
+<b>Daniel:</b> Poissoooooons ! Ouu êtees vouuuuuuuus ?

@@ -4253,7 +4253,7 @@ Un Pokémon utile pour l’élevage…
 <b>Kathleen:</b> Wowie!! Is this really for me?? You're really a great friend \pn!
 <b>Kathleen :</b> Wowie !! C’est vraiment pour moi ?? C’est vraiment trop gentil \pn !
 Bicycle Seller
-Bicycle Seller
+Vendeur de vélos
 The Daycare man now sells bikes (and will give you one for free!). It can grants you access to the Route 4's Cycling road.
 Le monsieur de la pension vend maintenant des vélos et vous en aurez un gratuit, vous donnant accès à la piste cyclable de la Route 4)
 Some bandits are ambushing travellers near the east<<t>>end of Route 9. Go there yourself and prepare for battle!
@@ -4269,25 +4269,25 @@ Chapter 5: Bigger and better
 Progress as a Gym leader by completing sub-goals (quests called Ch.5-A, Ch.5-B and Ch.5-C), and get to rank 3 by winning the rank up battle.
 Progress as a Gym leader by completing sub-goals (quests called Ch.5-A, Ch.5-B and Ch.5-C), and get to rank 3 by winning the rank up battle.
 Ch.4-A: Get to fame level 6
-Ch.4-A: Get to fame level 6
+Ch.4-A: Atteindre Fame niveau 6
 Get to fame level 6
-Get to fame level 6
+Atteindre Fame niveau 6
 Gain fame to let your Gym be recognized by getting to fame level 6.
-Gain fame to let your Gym be recognized by getting to fame level 6.
+Gagnez en réputation pour que votre Arène soit mieux connue en atteignant le niveau 6 de réputation.
 Ch.5-B: Get Greymoose badge
 Ch.5-B: Get Greymoose badge
 Get Greymoose Gym's badge
-Get Greymoose Gym's badge
+Obtenir le badge de Greymoose
 Greymoose Gym
-Greymoose Gym
+Arène de Greymoose
 Travel to Greymoose through the Power Tunnel and Route 10, or by going on the Cycling road of route 4, to earn a new badge.
-Travel to Greymoose through the Power Tunnel and Route 10, or by going on the Cycling road of route 4, to earn a new badge.
+Voyager jusqu'à Greymoose par le Tunnel Energie et la Route 10, ou en passant par la Piste Cyclable de la Route 4, pour obtenir un nouveau badge
 Ch.5-C: Another Gym trainer
 Ch.5-C: Another Gym trainer
 Complete both goals (0/2)
-Complete both goals (0/2)
+Compléter les deux objectifs (0/2)
 Complete both goals (1/2)
-Complete both goals (1/2)
+Compléter les deux objectifs (1/2)
 The nurses of your town have new pharmaceutical products to share with other Pokémon Centers. Deliver a package to the Pokémon Centers of Sombake, Greymooose and Central Town.
 Les infirmières de votre ville ont de nouveaux produits pharmaceutiques à partager avec les autres Centres Pokémon. Livez un colis aux Centres Pokémon de Sombake, Greymoose et Ville Centrale
 Section {1} has an odd number {2} of entries (section was recognized as a hash because its first line is not a number).
@@ -5187,7 +5187,7 @@ Ramener les livres à la bibliothèque
 You've reached the current limit of your relationship with Maple
 Vous avez atteint la limite actuelle de votre relation avec Maple.
 Complete his current quests to improve it further.
-Complete his current quests to improve it further.
+Terminez sa quête actuelle pour continuer de l'améliorer.
 Complete his current quest to improve it further.
 Terminez sa quête actuelle pour continuer de l'améliorer.
 You've reached the current limit of your relationship with Marley
@@ -5221,4 +5221,106 @@ Vous avez atteint la limite actuelle de votre relation avec Cassian.
 Various rewards:<<n>>- A lot of PNJs, quests, items...<<n>>- Passive town income + 1500<<n>>- Passive fame +5 per week
 Récompenses variées :<<n>>- Des PNJ, des quêtes, des objets...<<n>>- Revenu passif de la ville +1500$ par semaine<<n>>- Réputation passive +5 par semaine.
 Melly second training battle (lvl 40+)
-Melly second training battle (lvl 40+)
+2e combat d’entraînement avec Melly (lvl 40+)
+Select a
+Choisir un
+Select a Pokémon with a healing move
+Choisir un Pokémon avec une capacité de soin
+Select a Pokémon with a healing ability
+Choisir un Pokémon avec un talent de soin
+Select a shiny healer !
+Choisir un soigneur shiny !
+First week at work
+Première semaine dans l'arène
+Learn the ropes of
+Apprendre
+Complete the city task 17 : 'Gym Team - Second trainer' and find someone who can become the second trainer of your Gym.
+Terminer la tâche 17 : 'Equipe d'Arène - Deuxième dresseur' et trouver quelqu'un qui peut devenir le deuxième dresseur de l'Arène.
+I can't believe the Gym finaly reopened!!!
+J'arrive pas à croire que l'Arène est enfin réouverte!!!
+I won??? I really won ???
+J'ai gagné ??? J'ai vraiment gagné ???
+My scout group told me I should begin to get some badges!
+Mon groupe de scouts m'a dit que je devais rassembler des badges !
+What do you mean 'Not this kind of badge'???
+Comment ça 'Pas ce genre de badges' ?
+5 Ultra Balls
+5 Hyper Balls
+Missing lunch
+Repas manquant
+A lady
+Une dame
+Bring the lunch to the dad
+Amener le repas au papa
+Route 11
+Route 11
+A mother asked you to bring her husband the lunch he forgot. Go see him near the Camosack's gates in Route 11
+Une maman vous a demandé d'amener à son mari le repas aqu'il a oublié. Allez le voir vers les portes de Camosack dans la Route 11
+A Cyclizar
+Un Motorizard
+Gain a Mining Kit
+Gganer un Kit de Minage
+Battle with Lando (lvl 26+)
+Combattre Lando (niv 26+)
+Bring a Lemonade to Lando
+Amener une Limonade à Lando
+Bring a Bergmite to Lando
+Amener un grelaçon à Lando
+A worker wants to take a break from his work. He might give you something to mine Glowing Rocks!
+Un travailleur veut faire une pause dans son travail. Il pourrait vous donner quelque chose pour miner les Rochers Luisants !
+The Mining Kit
+Le Kit de Minage
+Find the Kitty!
+Trouver le chaton!
+A mother
+Une maman
+Retrouver le Skitty
+Retrouver le Skitty
+Ramener le Skitty
+Ramener le Skitty
+Une petite fille a égaré son Skitty dans la grande ville de Greymoose. Sa mère vous a demandé de le retrouver et de leur rapporter.
+Une petite fille a égaré son Skitty dans la grande ville de Greymoose. Sa mère vous a demandé de le retrouver et de leur rapporter.
+Give a Cherubi
+Donner un Ceribou
+A Poké Fan
+Un Pokéfan
+Greymoose Bighouse
+Greuymoose - Grande Maison
+A Poké Fan is sad that he doesn't have a cute Pokémon like his friends. Catch a Cherubi on Route 11 and give it to him.
+Un Pokéfan est triste de ne pas avoir, comme ses amis, un Pokémon mignon. Ca^pturez un Ceribou sur la Route 11 et offrez-lui.
+Soothe Bell
+Grelot Zen
+Lend an Elgyem
+Prêt de Lewsor
+A Producer
+Un Producteur
+Give an Elgyem
+Donner un Lewsor
+Greymoose Townhouse
+Centre Communautaire
+The Producer at the Floor 4 of Greymoose Townhouse needs an Elgyem for one of his shootings. Catch one and lend it to him.
+Le Producteur à l'étage 4 du Centre Communautaire a besoin d'un Lewsor pour l'un de ses tournages. Capturez-en un et prêtez-lui.
+Melly learnt from Maple about the shinies and she is very excited about it. She wants you to capture a shiny of a Pokémon that's pink or purple
+Marley a parlé à Melly des shinys et elle est super intéressée. Elle veut que vous lui montriez un shiny d'un Pokémon qui est rose ou violet.
+Melly last training battle (lvl 60+)
+Dernier combat avec Melly (lvl 60+)
+Melly wants to train with you one last time. Battle her at your Gym. Her Pokémon will be around lvl 60. Note: you HAVE to win the battle to complete the quest
+Melly veut de nouveau s’entraîner avec vous. Combattez-la dans votre Arène. Ses Pokémons seront autour du niv 60. Note : vous DEVEZ gagner pour compléter la quête
+Find the Skitty
+Retrouver le Skitty
+Bring the Skitty back
+Ramener le Skitty
+A little girl lost her Skitty in the big city of greymoose. Find it and bring it back to her.
+Une petite fille a égaré son Skitty dans la grande ville de Greymoose. Sa mère vous a demandé de le retrouver et de leur rapporter.
+Melly learnt from Marley about the shinies and she is very excited about it. She wants you to capture a shiny of a Pokémon that's pink or purple
+Marley a parlé à Melly des shinys et elle est super intéressée. Elle veut que vous lui montriez un shiny d'un Pokémon qui est rose ou violet.
+Test
+Test
+debug
+debug
+Heh! Now I understand what Samy sees in you!
+Heh! Now I understand what Samy sees in you!
+Show me you deserve my rank 3!
+Show me you deserve my rank 3!
+Rewards :<br> For each ♥ level, gain a random rock starter
+Rewards :<br>  For each ♥ level, gain a random rock starter  

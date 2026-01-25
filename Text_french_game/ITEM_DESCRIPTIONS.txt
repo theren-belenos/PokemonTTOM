@@ -3,7 +3,11 @@
 #-------------------------------
 [ITEM_DESCRIPTIONS]
 Heals and revive all of your Pokémons a limited number of times. Replenish it by going to a Pokémon Center.
-Soigne et ramine tous vos Pokémon un nombre limité de fois. A recharger en allant dans un Centre Pokémon
+Soigne et ramine tous vos Pokémon un nombre limité de fois. A recharger en allant dans un Centre Pokémon.
+Allows you to mine Glowing Rocks.
+Vous permet de miner des Rochers Luisants
+Gain you access to Camosack, the Resort Center.
+Vous donne accès à Camosack, la Station Balnéaire.
 A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
 Lorsqu'on brise cette pierre noire semblable à du verre, on obtient des éclats très coupants. Elle est appréciée d'un certain Pokémon.
 A block of muddy material that is for fuel. It’s loved by a certain Pokémon.
@@ -539,15 +543,15 @@ Le lanceur attaque avec des ondes sonores dissonantes. Cela empêche la cible de
 An attack that hits first and makes the target flinch. Fails if the target isn't using a high priority move.
 Le lanceur réagit instinctivement au moindre mouvement et donne un coup de Paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé un capacité prioritaire.
 A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit.
-A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit.
+Un coup tranchant qui peut empoisonner la cible. Taux de critiques élevé.
 The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
-The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
+Explosion lumineuse qui fait baisser la Précision de l'ennemi. Illumine les endroits sombres.
 The user slugs the foe with a shattering punch. It can also smash cracked boulders.
 Le lanceur porte un coup de poing à la cible, ce qui peut baisser la Défense de celle-ci.
 Stops the current weather, the winds, and completely clear the sky.
-Stops the current weather, the winds, and completely clear the sky.
+Annule le climat actuel, les vents, et enlver tout ce qu'il y a dans le ciel.
 A powerful attack that may harm its user if failed.
-A powerful attack that may harm its user if failed.
+Une attaque puissante qui peut blesser son lancer si ratée
 One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
 Une variété de Méga-Gemme. Tenue par un Papillusion, elle lui permet de méga-évoluer durant un combat.
 One of a variety of mysterious Mega Stones. Have Kingler hold it, and it will be able to Mega Evolve.
@@ -604,3 +608,5 @@ A package the nurses of your town gave to you. You have to deliver it to other P
 Un colis que les infirmières de votre ville vous ont donné. A livrer aux autres Centres Pokémon du nord ouest Nekanta
 A book borrowed by a student at the library. Find all 3 of them!
 Un livre emprunté par un étudiant à la bibliothèque. Trouvez-les tous les 3 !
+A lunch forgotten by someone. Bring him!
+Un repas oublié par quelqu'un. Amenez-lui!

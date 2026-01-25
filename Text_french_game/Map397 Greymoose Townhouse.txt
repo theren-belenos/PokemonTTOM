@@ -1,0 +1,300 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map397]
+<b>Teacher:</b> Man, I miss working at \tn 's Academy...
+<b>Enseignant:</b> Sérieux, travailler à l'université de \tn me manque...
+<b>Bugmaniac:</b> I swear to God I will get mad. How is it possible I only got Cascoons? TEN TIMES IN A ROW???
+<b>Entomomaniac:</b> J'ai juré je vais devenir fou. Comment c'est possible que j'aie que des Blindalys ? DIX FOIS DE SUITE ??
+<b>Bugmaniac:</b> YOU!!! I BEG!!! Do you have a Silcoon??? Please!!!
+<b>Entomomaniac:</b> TOI !!! JE T'EN SUPPLIE !!! Est-ce que tu as un Armulys ??? S'il te plaît !!!
+<b>Bugmaniac:</b> I will trade it for one of my NUMEROUS Cascoon!
+<b>Entomomaniac:</b> Je te l'échangerai contre l’un de mes NOMBREUX Blindalys!
+<b>Bugmaniac:</b> NOOOOOOOO *sob*
+<b>Entomomaniac:</b> NOOOOOOOON *snif*
+<b>Bugmaniac:</b> OMG YEEEEEEEEEES!!!! LET'S EXCHANGE!!!!!!
+<b>Entomomaniac:</b> OMG OUIIIIIIIIIIIII!!!! ECHANGEONS!!!!!!
+YouAgain!
+EncoreToi!
+BUGMANIAC
+Entomomaniac
+\pn traded Silcoon for Cascoon!
+\pn a échangé Armulys contre Blindalys !
+<b>Bugmaniac:</b> Thank you so much!!!! You're a life savior !!
+<b>Entomomaniac:</b> Merci énormément !!!! Tu me sauves la vie !!
+<b>Bugmaniac:</b> I swear to God I will get mad. How is it possible I only got Silcoons? TEN TIMES IN A ROW???
+<b>Entomomaniac:</b> J'ai juré je vais devenir fou. Comment c'est possible que j'aie que des Armulys ? DIX FOIS DE SUITE ??
+<b>Bugmaniac:</b> YOU!!! I BEG!!! Do you have a Cascoon??? Please!!!
+<b>Entomomaniac:</b> TOI !!! JE T'EN SUPPLIE !!! Est-ce que tu as un Blindalys ??? S'il te plaît !!!
+<b>Bugmaniac:</b> I will trade it for one of my NUMEROUS Silcoon!
+<b>Entomomaniac:</b> Je te l'échangerai contre l’un de mes NOMBREUX Armulys!
+\pn traded Cascoon for Silcoon!
+\pn a échangé Blindalys contre Armulys !
+<b>Bugmaniac:</b> Can you trade a Silcoon for one of my Cascoons?
+<b>Entomomaniac:</b> Veux-tu échanger un Armulys contre l'un de mes Blindalys ?
+<b>Bugmaniac:</b> Can you trade a Cascoon for one of my Silcoons?
+<b>Entomomaniac:</b> Veux-tu échanger un Blindalys contre l'un de mes Armulys ?
+<b>Bugmaniac:</b> Thanks again!
+<b>Entomomaniac:</b> Merci encore!
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Cameraman:</b> ZZZZzzzzz....
+<b>Caméraman:</b> ZZZZzzzzz....
+You wonder if all cameramen can shoot while sleeping...
+Vous vous demandez si tous les caméramans peuvent filmer en dormant...
+<b>Teacher:</b> Having underage pupils is kinda tiring... But they're so cute!
+<b>Enseignant:</b> Enseigner à des petits est un peu fatiguant... Mais ils sont si mignons !
+<b>Man:</b> Without coffee, I would be sleepy all the time...
+<b>Homme:</b> Sans café, j'aurais tout le temps sommeil...
+<b>Wurmple:</b> Upleeee!
+<b>Chenipotte:</b> ipooootte!
+<b>Actor:</b> So we can't shoot the ad huh? Figures, I needed a break anyway.
+<b>Acteur:</b> Donc on peut pas tourner la pub hein ? Bah, j'avais besoin d'une pause dans tous les cas.
+<b>Schoolgirl:</b> Beware! My drawing!
+<b>Écolière:</b> Tremble ! Mon dessin !
+<b>Schoolgirl:</b> Are you super scared? Hehehehe
+<b>Écolière:</b> T'as super peur ? Hehehehe
+<b>Man:</b> ...and here... a flashy transition! Ha!
+<b>Homme:</b> et là... une transition flashy ! Ha !
+<b>Receptionist:</b> Welcome to the Townhouse! We hope you have a great day!
+<b>Réceptionniste:</b> Bienvenue au Centre Communautaire ! Nous espérons que vous passez une excellente journée !
+<b>Receptionist:</b> We sometimes call this room the Meeting & Greeting zone!
+<b>Réceptionniste:</b> Cette pièce est appelée Zone d'Accueil et de Rencontres !
+<b>Receptionist:</b> Please feel free to ask anything and speak to other persons.
+<b>Réceptionniste:</b> N'hésitez pas à poser des questions et à parler aux autres personnes présentes.
+<b>Receptionist:</b> This is the main purpose of this place!
+<b>Réceptionniste:</b> C'est le but principal de cet endroit !
+<b>Producer:</b> How come nobody here have an Elgyem??? They're not so uncommon!
+<b>Producteur:</b> Comment s'est possible que personne ici n'ait de Lewsor ?? Ils sont pas si rares !
+<b>Producer:</b> You there! I didn't ask you yet! You have a Elgyem right? Let us borrow it!
+<b>Producteur:</b> Toi là ! Je t'ai pas encore demandé ! T'as un Lewsor hein ? Laisse nous l'emprunter !
+<b>Producer:</b> Do you have an Elgyem yet? Quick!
+<b>Producteur:</b> C'est bon, t'as un Lewsor ? Vite !
+<b>Producer:</b> So you're as useless as the others...
+<b>Producteur:</b> Donc t'es aussi inutile que les autres...
+<b>Producer:</b> Ha! Marvelous! Don't worry, it won't be long!
+<b>Producteur:</b> Ha ! Merveilleux ! T'inquiète pas, ce sera pas long !
+Almost two hours later...
+Presque deux heures plus tard...
+<b>Producer:</b> Thank you, at least someone is useful around here.
+<b>Producteur:</b> Merci, au moins quelqu'un est utile dans le coin.
+<b>Producer:</b> What? You don't even work here?
+<b>Producteur:</b> Quoi ? Tu ne travailles même pas ici ?
+<b>Producer:</b> Then why did you help me? Wanted a reward?
+<b>Producteur:</b> Alors pourquoi tu m'as aidé ? Tu voulais une récompense ?
+<b>Producer:</b> ...I guess I can give you a little something.
+<b>Producteur:</b> ...j'imagine que je peux te donner un petit quelque chose.
+You received an egg!
+Vous recevez un oeuf !
+<b>Producer:</b> We found this egg during a shooting with a lot of Pokémon.
+<b>Producteur:</b> On a trouvé cet oeuf durant un tournage avec beaucoup de Pokémon
+<b>Producer:</b> I don't even know which Pokémon will come out of this. I hope for you it's something good!
+<b>Producteur:</b> Je ne sais même pas quel Pokémon va en sortir… J’espère pour toi que ce sera quelque chose de bien !
+<b>Producer:</b> Now let us work! Shoo, shoo!
+<b>Producteur:</b> Maintenant laisse nous travailler ! Aller, ouste !
+<b>Schoolgirl:</b> It's my drawing!
+<b>Écolière:</b> C'est mon dessin !
+<b>Schoolgirl:</b> I love it even if it's a bit ugly! Just like our teacher!
+<b>Écolière:</b> Je l'aime même s'il est un peu moche ! Pareil que notre prof !
+<b>Man:</b> Now where are those damn boxes??
+<b>Homme:</b> Bon où sont passés ces fichus cartons ??
+<b>Woman:</b> What is this thing doing on my desk? Hey, you, get rid of it!
+<b>Femme:</b> Qu'est-ce que ce truc fait sur la table? Toi, débarrasse moi de ça !
+<b>Woman:</b> Is a clean workspace too much to ask?
+<b>Femme:</b> Est-ce qu'un environnement de travail propre, c'est trop demander ?
+<b>Schoolgirl:</b> I wanna draw something cute... This doesn't help me!
+<b>Écolière:</b> Je veux dessiner quelque chose de mignon...ça, ça m'aide pas !
+<b>Schoolgirl:</b> Take it, I don't want it!
+<b>Écolière:</b> Prends-le, je le veux pas !
+<b>Schoolgirl:</b> Let's draw something cute!
+<b>Écolière:</b> Dessinons un truc mignon !
+<b>Receptionist:</b> Do you want to have a presentation of the upper floors?
+<b>Réceptionniste:</b> Voulez-vous une présentation des étages supérieurs ?
+<b>Receptionist:</b> You can access the other floors by taking the stairs or the elevator.
+<b>Réceptionniste:</b> Vous pouvez accéder aux autres étages via les escaliers ou l'ascenseur.
+<b>Receptionist:</b> The second floor is the Town Administrative Center.
+<b>Réceptionniste:</b> L'étage 2 est le Centre Administratif de la Ville.
+<b>Receptionist:</b> This is where you can meet the secretary-general and, occasionally, the Leader. Important meetings are also held here.
+<b>Réceptionniste:</b> C'est ici que vous pouvez rencontrer la secrétaire générale et, parfois, le Leader. Des réunions importantes s'y tiennent également.
+<b>Receptionist:</b> The second floor is the School floor.
+<b>Receptionist:</b> L'étage 3 est l'étage scolaire.
+<b>Receptionist:</b> This floor is the actual town's school.
+<b>Réceptionniste:</b> Cet étage est tout simplement l'école de la ville.
+<b>Receptionist:</b> Lastly, the fourth floor is the media floor.
+<b>Réceptionniste:</b> Enfin, l'étage 4 est l'étage des médias.
+<b>Receptionist:</b> This is full of journalists and such. Most television shows come from here or Moonyang.
+<b>Réceptionniste:</b> L'étage est rempli de journalistes et autres. La plupart des émissions de télé viennent de là ou de Moonyang.
+<b>Receptionist:</b> And this concludes this presentation! See you soon!
+<b>Receptioniste:</b> Et voilà qui conclut cette présentation ! A bientôt !
+<b>Receptionist:</b> See you soon!
+<b>Receptioniste:</b> A bientôt !
+<b>Man:</b> But the funds won't allow it!
+<b>Homme:</b> Mais on aura jamais les fonds pour ça !
+<b>Woman:</b> Ohoho! Our new show is gorgeous!
+<b>Femme:</b> Ohoho ! Notre nouvelle émission est géniale !
+<b>Schoolboy:</b> I'm not done! I wanna do a perfect thing! Because I love Pokémon!
+<b>Écolier:</b> J'ai pas fini ! Je veux faire un truc parfait ! Parce-que j'adore les Pokémon !
+<b>Tourist:</b> I'm glad this place exists! I was feeling a little lost in this big city!
+<b>Touriste:</b> Heureusement que cet endroit existe ! Je me sentais un peu perdu dans cette grande ville !
+<b>Man:</b> Hello, I'm the editor-in-chief. What can I do for you?
+<b>Homme:</b> Bonjour, je suis l'éditeur en chef. Que puis-je faire pour toi ?
+<b>Man:</b> We will find a way.
+<b>Homme:</b> On trouvera bien un moyen.
+<b><c3=BDA46A,736440>Samy:</b></c3> So, are we throwing a party or what? Should I go buy some beverages?
+<b><c3=BDA46A,736440>Samy:</b></c3> Donc, on fait la fête du coup ou pas ? Je vais acheter des boissons ?
+<b>Cassian:</b> Hahaha! You, my friend, never miss!
+<b>Cassian:</b> Hahaha ! Toi, mon ami, t’es toujours au top !
+<b>\c[2]Tom:</b>\c[0] ...
+<b>\c[2]Tom:</b>\c[0] ...
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy, lad, what's the matter? Team Absolution is over for good, it's an important day!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy, mon ami, ça va ? La Team Absolution est vaincue pour de bon, c’est un jour important !
+<b>\c[2]Tom:</b>\c[0] Didn't you find all of this...a little too easy?
+<b>\c[2]Tom:</b>\c[0] Vous n’avez pas trouvé tout ça… trop facile ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Yeah, without the Elite 4 we would have lost !
+<b><c3=BDA46A,736440>Samy:</b></c3> Ouais, sans le Conseil 4 on aurait perdu!
+<b>Cassian:</b> What do you mean? Without the Elite 4, we would have lost!
+<b>Cassian:</b> Comment ça ? Sans le Conseil 4, on aurait perdu !
+<b>\c[2]Tom:</b>\c[0] I don't know... And this admin, Elias right? The only admin of the whole Team?
+<b>\c[2]Tom:</b>\c[0] Je sais pas… et cet admin, Elias c’est ça ? Le seul admin de toute la Team ?
+<b>\c[2]Tom:</b>\c[0] Nah, something is fishy. It's like they wanted us to believe they were completely defeated.
+<b>\c[2]Tom:</b>\c[0] Non, il y a un truc qui cloche. C’est comme s’ils voulaient qu’on pense les avoir complètement vaincus.
+<b>\c[2]Tom:</b>\c[0] Aristarque is sometimes a little... naive. He might have been tricked.
+<b>\c[2]Tom:</b>\c[0] Aristarque est parfois un peu… naïf. Il pourrait avoir été berné.
+<b>\c[2]Tom:</b>\c[0] And now he will be so enthusiastic about having this settled down...
+<b>\c[2]Tom:</b>\c[0] Et maintenant il va être tellement euphorique d’avoir réglé ça…
+<b>\c[2]Tom:</b>\c[0] He won't accept that the League stays on this topic for too long.
+<b>\c[2]Tom:</b>\c[0] Il n’acceptera pas que la Ligue continue sur ce sujet trop longtemps.
+<b>\c[2]Tom:</b>\c[0] His "heroïc save" is enough for him. and this will improve his image further, if that’s even possible.
+<b>\c[2]Tom:</b>\c[0] Son “sauvetage héroïque” sera suffisant pour lui. Et cela améliorera encore son image publique, si c’est possible.
+<b>\c[2]Tom:</b>\c[0] But I'm sure there is more to uncover here... I don't like this.
+<b>\c[2]Tom:</b>\c[0] Mais je suis sûr qu’il y a plus de choses à divulguer ici… J’aime pas ça.
+<b><c3=BDA46A,736440>Samy:</b></c3> Hmm okay I see where you're coming from, I might postpone this beverage thing...
+<b><c3=BDA46A,736440>Samy:</b></c3> Hmm okay je vois où tu veux en venir, je vais peut-être repousser cette histoire de boissons…
+<b><c3=BDA46A,736440>Samy:</b></c3> I’m also intrigued. But we can only count on ourselves, that’s right?
+<b><c3=BDA46A,736440>Samy:</b></c3> I’m also intrigued. But we can only count on ourselves, that’s right?
+<b>\c[2]Tom:</b>\c[0] Yea. Hey, Normal Leader, you can monitor everything about Greymoose, Sombake and the mountains between, right?
+<b>\c[2]Tom:</b>\c[0] Ouais. Hé, Leader Normal, tu peux surveiller Greymoose, Sombake et les montagnes autour non ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Yeah, you can contact Kathleen, I think that’s a good idea.
+<b><c3=BDA46A,736440>Samy:</b></c3> Ouais, tu peux contacter Kathleen, je pense que c’est une bonne idée.
+<b><c3=BDA46A,736440>Samy:</b></c3> She saw Team Absolution herself anyway.
+<b><c3=BDA46A,736440>Samy:</b></c3> Elle a vu la Team Absolution de ses propres yeux de toute façon.
+<b>Cassian:</b> I admit I'm also intrigued, but you're saying we're on our own?
+<b>Cassian:</b> J’admet que je suis aussi intrigué, mais tu dis qu’on ne peut compter que sur nous-mêmes ?
+<b>\c[2]Tom:</b>\c[0] Yea. Cassian, you can monitor everything about Greymoose, Sombake and the mountains between.
+<b>\c[2]Tom:</b>\c[0] Ouais. Cassian, tu peux surveiller tout ce qui se passe à Greymoose, Sombake, et les montagnes au milieu.
+<b>Cassian:</b> Right. I will contact the Normal Leader as well, we can trust them and they saw Team Absolution firsthand.
+<b>Cassian:</b> Bien sûr. Je contacterai également le Leader Normal, on peut lui faire confiance et iel a vu la Team Absolution de ses propres yeux.
+<b>Cassian:</b> Right. I will contact Kathleen as well, we can trust here and she saw Team Absolution firsthand.
+<b>Cassian:</b> Bien sûr. Je contacterai également Kathleen, on peut lui faire confiance et elle a vu la Team Absolution de ses propres yeux.
+<b>\c[2]Tom:</b>\c[0] I will continue searching intel from the League...
+<b>\c[2]Tom:</b>\c[0] Je vais continuer à chercher des infos au sein de la Ligue…
+<b>\c[2]Tom:</b>\c[0] Something really bothers me: we know Team Absolution are the ones behind the "earthquake" that destroyed \tn.
+<b>\c[2]Tom:</b>\c[0] Quelque chose me dérange particulièrement : on sait que la Team Absolution sont derrière le “séisme” qui a détruit \tn.
+<b>\c[2]Tom:</b>\c[0] But we didn't even find how they did it! Was it some sort of artificial cave? Tunnels? We don’t have anything!
+<b>\c[2]Tom:</b>\c[0] Mais on a même pas trouvé comment ils ont fait ! Une grotte artificielle ? Des tunnels ? On a rien !
+<b>\c[2]Tom:</b>\c[0] And I think \pn is too busy being a Leader, ranking up, or rebuilding his city, to find anything...
+<b>\c[2]Tom:</b>\c[0] Et je pense que \pn est trop occupé avec son job de Leader, à monter de rang, et à reconstruire sa ville, pour trouver quoi que ce soit.
+<b><c3=BDA46A,736440>Samy:</b></c3> Hmm, I can try to find more but won't that upset the League? Shouldn't we try to stay low here?
+<b><c3=BDA46A,736440>Samy:</b></c3> Hmm, je pourrais essayer d’enquêter mais ça risque pas d’éveiller les soupçons ? On devrait pas faire profil bas ?
+<b>\c[2]Tom:</b>\c[0] It’s not like you work for the league,
+<b>\c[2]Tom:</b>\c[0] It’s not like you work for the league,
+but that’s true that you are “affiliated” to me now… <b>\c[2]Tom:</b>\c[0] Maybe if you have a good reason to be in \tn, we would be completely safe...
+but that’s true that you are “affiliated” to me now… <b>\c[2]Tom:</b>\c[0] Maybe if you have a good reason to be in \tn, we would be completely safe...
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha! You're looking for another trainer in your Gym? But that's perfect!
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha ! Tu cherches un autre dresseur pour ton Arène ! Mais c’est parfait !
+<b><c3=BDA46A,736440>Samy:</b></c3> I would have a good excuse AND a really good job!
+<b><c3=BDA46A,736440>Samy:</b></c3> J’aurai une bonne excuse ET un super job !
+<b><c3=BDA46A,736440>Samy:</b></c3> Besides, you're really a good kid so it could be really fun!
+<b><c3=BDA46A,736440>Samy:</b></c3> En plus, t’es vraiment au top donc ça pourrait être super fun !
+<b>\c[2]Tom:</b>\c[0] What a great idea actually! And I can do the paperwork!
+<b>\c[2]Tom:</b>\c[0] En vrai, quelle super idée ! Et je peux m’occuper de la paperasse !
+<b>\c[2]Tom:</b>\c[0] Erm, but it's easier to have more trainers when ranking up. Say, \pn, you still want to get to rank 3 right?
+<b>\c[2]Tom:</b>\c[0] Erm, mais c’est plus facile à justifier si tu montes de rang. Dis, \pn, t’as toujours prévu de devenir rang 3 non ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha, don’t worry lad, I’m sure \pn wouldn’t want you to lose on purpose!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha, ne t’inquiète pas mon ami, je suis sûr que \pn n’aimerait pas que tu fasses exprès de perdre !
+<b>Cassian:</b> Eh, okay, but don't go thinking I will lose on purpose! You have to earn this, \pn!
+<b>Cassian:</b> Eh, okay, mais pense pas que je vais faire exprès de perdre ! Tu devras le mériter, \pn !
+<b>\c[2]Tom:</b>\c[0] I will do so that Samy is your second trainer when you get to rank 3.
+<b>\c[2]Tom:</b>\c[0] Je vais faire en sorte que Samy soit ton deuxième dresseur quand tu atteindras le rang 3.
+The Normal Leader waves at you. You sense that they will wait for your challenge at the Gym !
+Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre challenger à l’Arène !
+<b>Cassian:</b> Well, I should go to my Gym then, no? See you there \pn!
+<b>Cassian:</b> Alors, devrais-je aller à mon Arène ? On se voit là-bas \pn !
+<b>\c[2]Tom:</b>\c[0] I'm really glad I can count on you guys. Let's be a great team!
+<b>\c[2]Tom:</b>\c[0] Je suis vraiment content de pouvoir compter sur vous les amis. On va former une super équipe !
+<b>\c[2]Tom:</b>\c[0] I will go back to the League. See you at your rank up battle, \pn!
+<b>\c[2]Tom:</b>\c[0] Je vais retourner à la Ligue. On se voit pour ton combat de rang \pn !
+<b><c3=BDA46A,736440>Samy:</b></c3> I will pack my things and prepare to move out!
+<b><c3=BDA46A,736440>Samy:</b></c3> Je vais préparer mes affaires pour le déménagement !
+<b><c3=BDA46A,736440>Samy:</b></c3> I’m actually excited to work with you lad!
+<b><c3=BDA46A,736440>Samy:</b></c3> J’ai vraiment hâte de travailler avec toi mon ami !
+<b><c3=BDA46A,736440>Samy:</b></c3> See ya!
+<b><c3=BDA46A,736440>Samy:</b></c3> A plus !
+<b>Schoolboy:</b> Hey hey, look at my drawing!
+<b>Écolier:</b> Hey hey, regarde mon dessin !
+<b>Schoolboy:</b> So cool right? I know, I know!
+<b>Écolier:</b> Trop cool hein? Ouais, je sais !
+<b>Tourist:</b> My my! Everybody is so charming in here~
+<b>Touriste:</b> Ohlala ! Tout le monde ici est si charmant~
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
+<b>Receptionist:</b> You're already on this floor!
+<b>Réceptioniste:</b> Vous êtes déjà à cet étage !
+<b>Receptionist:</b> Understood! Let us go!
+<b>Réceptioniste:</b> Compris ! C'est parti !
+<b>Receptionist:</b> Have a good day!
+<b>Réceptioniste:</b> Passez une bonne journée !
+<b>Anchorwoman:</b> The investigation following the recent earthquake is still going...
+<b>Présentatrice:</b> L'enquête sur le récent séisme est toujours en cours...
+<b>Man:</b> This must be our absolute priority.
+<b>Homme:</b> Cela devrait être notre priorité absolue.
+<b>Worker:</b> I come here often to drink a lemonade and talk to people.
+<b>Travailleur:</b> Je viens souvent ici pour boire une limonade et discuter avec des gens.
+<b>Schoolboy:</b> See! My drawing!
+<b>Écolier:</b> Regarde ! Mon dessin !
+<b>Schoolboy:</b> I'm proud of it!
+<b>Écolier:</b> J'en suis fier !
+<b>Man:</b> I swear, you're too naïve!
+<b>Homme:</b> Je le dis, vous êtes trop naïfs !
+<b>Hiker:</b> I'm about to go hiking!
+<b>Randonneur:</b> Je m'apprête à partir en randonnée !
+<b>Hiker:</b> ... 5 Fresh Water may be too much. Do you want one?
+<b>Randonneur:</b> ... 5 Eaux Fraîches ça fait peut-être beaucoup. T'en veux une ?
+<b>Hiker:</b> Let's go hiking!
+<b>Randonneur:</b> C'est parti !
+<b>Janitor:</b> They asked me to find something here... But it's such a mess!
+<b>Concierge:</b> On m'a demandé de trouver quelque chose ici... Mais c'est vraiment le bazar !
+<b>Janitor:</b> Why do we have so much Poké Toys anyway? Do you want some?
+<b>Concierge:</b> Déjà pourquoi on a autant de Poké Plumets ? Tu en veux un peu ?
+<b>Janitor:</b> Don't thank me, I have to clean up anyway!
+<b>Concierge:</b> Me remercie pas, je dois nettoyer de toute façon !
+<b>Janitor:</b> Goodbye!
+<b>Concierge:</b> Au revoir !
+<b>Lady</b> Hello. I'm the town's secretary-general.
+<b>Dame:</b> Bonjour. Je suis la secrétaire générale de la ville.
+<b>Lady</b> The Leader is technically our mayor but I'm the one really managing the city.
+<b>Dame:</b> Le Leader est techniquement notre maire mais je suis celle qui gère la ville en pratique.
+<b>Lady</b> Can I help you?
+<b>Dame:</b> Puis-je t'aider ?
+<b>Policeman:</b> W...well, we have some leads, obviously! I... I just can't reveal them in case he is watching us!
+<b>Policier:</b> E...eh bien, on a quelques pistes, bien sûr ! Je...je peux juste pas les révéler au cas où il nous écoute !
+<b>Teacher:</b> Sorry I'm uploading test results... this class is improving fast!
+<b>Enseignant:</b> Désolé je rentre des résultats de contrôles... cette classe progresse à vue d'oeil !
+<b>Lady:</b> Hello honey! Do you need some help?
+<b>Dame:</b> Bonjour trésor ! Tu as besoin d'aide ?
+<b>Teacher:</b> ...hmmm... finding interesting activities is hard!
+<b>Enseignant:</b> ...hmmm... pas facile de trouver des activités intéressantes !
+<b>Journalist:</b> So you're saying you don't know where the suspect went?
+<b>Journaliste:</b> Donc vous nous dites que vous ne savez pas où le suspect s'est enfui?
+Yes
+Oui
+No
+Non
+Floor 1
+Étage 1
+Floor 2
+Étage 2
+Floor 3
+Étage 3
+Floor 4
+Étage 4

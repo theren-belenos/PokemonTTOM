@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map006]
+<b>Hank:</b> Hello and welcome to my humble garden!
+<b>Hank:</b> Bonjour et bienvenue dans mon humble jardin !
+<b>Hank:</b> Please enjoy the garden!
+<b>Hank:</b> Profite bien du jardin !
+<b>Billy:</b> Ha! Gotcha!
+<b>Billy:</b> Ha ! J’t’ai eu !
+<b>Billy:</b> I'll get you one day!
+<b>Billy:</b> Je t’aurai un jour !

@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map015]
+<b>Arnold:</b> The cycling road west of Central Town is neat but I prefer sandy terrain!
+<b>Arnold:</b> La piste cyclable à l’ouest de la Ville Centrale est bien mais je préfère le tout-terrain !
+<b>Arnold:</b> You need a bike to access the cycling road tho.
+<b>Arnold:</b> Tu as besoin d’un vélo pour accéder à la piste cyclable par contre.
+<b>Kid:</b> We're training to be the best trainer!
+<b>Enfant:</b> On s'entraîne pour devenir les meilleurs dresseurs !
+<b>Skitty:</b> Skiiiiii!
+<b>Skitty:</b> Skiiiiii!
+<b>Kid:</b> My Skitty is invincible!
+<b>Kid:</b> Mon Skitty est invincible !
+<b>Lotad:</b> Lolo!
+<b>Nénupiot:</b> Nénu !
+<b>Boy:</b> Haha! They're sooooo bad!
+<b>Garçon:</b> Haha ! Ils sont trop nuuuuls !
+<b>Lady:</b> They're so cute!
+<b>Dame:</b> Ils sont trop mignons !
+Who is the owner of this scarf? You notice there is sand on it...
+A qui appartient ce foulard ? Vous remarquez qu’il y a du sable dessus…

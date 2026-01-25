@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map045]
+<b>Guard:</b> Hello, oh you have something for me?
+<b>Garde:</b> Bonjour, oh tu as quelque chose pour moi ?
+You give the Father's Lunch.
+Vous donnez le Repas du Papa.
+<b>Guard:</b> So that's you! Thanks a lot, I won't starve now haha!
+<b>Garde:</b> Alors c'est toi ! Merci beaucoup, finalement je ne mourrai pas de faim haha !
+<b>Guard:</b> Sorry for the inconvenience. Let me give you this as a thanks.
+<b>Garde:</b> Désolé pour le dérangement. Laisse moi te donner ça pour te remercier.
+<b>Guard:</b> I like to fish sometimes when there is no one around... Don't tell my boss!
+<b>Garde:</b> J'aime bien pêcher de temps en temps quand personne n'est dans le coin... Le dis pas à mon chef !
+<b>Guard:</b> Thanks again and see you around!
+<b>Garde:</b> Merci encore et à bientôt !
+<b>Guard:</b> Hello, behind me is Camosack, the Resort Center.
+<b>Garde:</b> Bonjour, derrière moi est l'entrée de Camosack, la station balnéaire.
+<b>Guard:</b> It's a private property ; you need an invitation or a pass.
+<b>Garde:</b> C'est une propriété privée ; il te faut une invitation ou un pass.
+<b>Guard:</b> You can buy a pass from various places like Titaga or Moonyang. But I heard the shop at Greymoose closed recently...
+<b>Garde:</b> Tu peux acheter un pass depuis différents endroits comme Titaga ou Moonyang. Mais on m'a dit que le point de vente de Greymoose a fermé récemment...
+<b>Guard:</b> Do you have a pass ?
+<b>Garde:</b> Est-ce que tu as un pass ?
+<b>Guard:</b> Perfect! Have fun!
+<b>Garde:</b> Parfait ! Amuse-toi bien !
+<b>Guard:</b> No? Well sorry I can't let you in. Come back with a pass!
+<b>Garde:</b> Non ? Eh bien désolé mais je peux pas te laisser passer. Reviens avec un pass !
+<b>Guard:</b> Did you managed to get a pass?
+<b>Garde:</b> T'as réussi à avoir un pass ?
+<b>Guard:</b> Have fun in the Resort!
+<b>Garde:</b> Amuse toi bien dans la Station !

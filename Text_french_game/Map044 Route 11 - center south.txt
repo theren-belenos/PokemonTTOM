@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map044]
+<b>Artist:</b> Haaaaaaa... I might fall asleep...
+<b>Artiste:</b> Haaaaaaa... Je vais finir par m'endormir...
+<b>Zachary:</b> I'm training for a triathlon!
+<b>Zachary:</b> Je m'entraîne pour un triathlon !
+<b>Zachary:</b> Did you ever run a triathlon?
+<b>Zachary:</b> T'as déjà fait un triathlon ?
+<b>Artist:</b> W often come here to relax and breathe!
+<b>Artiste:</b> On vient souvent ici pour se relaxer et respirer !

@@ -6,6 +6,10 @@ Nekanta Maps
 Cartes de Nekanta
 Life Vials
 Fioles de Vie
+Mining Kits
+Mining Kits
+Camosack Pass
+Camosack Pass
 Black Augurites
 Obsidiennes
 Peat Blocks
@@ -631,8 +635,10 @@ Jeremy's Notebooks
 Henry's Bags
 Henry's Bags
 Scarfs
-Scarfs
+Echarpes
 Medical Packages
 Colis Médicaux
 Borrowed Books
 Livres Empruntés
+Father's Lunches
+Repas du Papa

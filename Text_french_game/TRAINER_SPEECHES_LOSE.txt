@@ -134,6 +134,82 @@ What??? We lost???
 Quoi ??? On a perdu ???
 Who are you?
 Qui es-tu ?
+AND YOUR NAME IS...
+AND YOUR NAME IS...
+Heh! Good workout!
+Heh ! Un bon exercice !
+You're too sharp for me!
+T'es trop affûté pour moi !
+So dizzy...
+Trop le tournis...
+Cycling and battling are so fun!
+Le vélo et les combats c'est trop cool !
+Is this the Revolution?
+Est-ce une Révolution ?
+Five Six Seven Eight !
+Cinq Six Sept Huit !
+Swimming is harder!
+Nager est plus dur !
+Hmpf...
+Pfff...
+This won't inspire me!
+C'est pas comme ça que je trouverai de l'inspi !
+I'm the one who should escape!
+C'est moi qui devrait m'échapper !
+It can't, right?
+C'est impossible, non ?
+You don't seem in trouble...
+T'as pas l'air en danger...
+So blazing!
+Éblouissant !
+Battling you is even harder!
+Te combattre est encore plus dur !
+...
+...
+I got nearly all of them!
+Je les ai presque tous !
+You seem to master both!
+T'as l'air de maîtriser les deux !
+You don't seem to need training!
+T'as pas l'air d'avoir besoin d'entraînement !
+Sorry! Didn't mean to pry!
+Désolé ! Je voulais pas être indiscret !
+What a weird bug!
+Quel étrange insecte !
+Entertainment complete!
+Amusement validé !
+I heard but I couldn't do anything!
+J'ai entendu mais j'ai rien pu faire !
+What can we do??
+Qu'est-ce qu'on peut faire ??
+What is this power??
+C'est quoi cette puissance !
+Argh!
+Argh !
+Seriously, why?
+Sérieusement, pourquoi ?
+I told you its useless!
+Je t'ai dit que ça servait à rien !
+Oww... Even alone, you're too strong!
+Oww... Même seul, t'es trop puissant !
+Okay, my bad...
+Okay, désolé...
+You trespasser!
+T'es qu'un cambrioleur !
+We will make a complaint against you!
+On va porter plainte contre toi !
+But...
+Mais...
+But... Who are you?
+Mais... Qui es-tu ?
+Leave OUR home!!
+Pars de notre chez nous !
+Not again! Seriously??
+Pas encore ! Sérieusement ??
+Even your team puzzles me!
+Même ton équipe est trop complexe pour moi !
+Your mind seems intact!
+Ta tête semble intacte !
 Hah! That's the kind of workout I'm talking about!
 Hah ! C'est le genre de sport qui me plaît !
 I want to talk to your manager !
@@ -162,8 +238,6 @@ Sooooo... No badge them?
 Doooooonc... Pas de badge du coup ?
 What a tempest!
 Quelle tempête !
-...
-...
 Oh but it's no use in a Pokémon battle...
 Oh mais ça ne sert à rien dans un combat de Pokémon…
 Well done young one!
@@ -218,5 +292,7 @@ What??
 Quoi ??
 Tch!
 Tch !
+You rock!
+T'assures !
 Oww, so strong!
 Oww, si fort !

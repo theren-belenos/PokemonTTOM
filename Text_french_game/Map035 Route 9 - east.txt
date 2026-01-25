@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map035]
+<b>Honoré:</b> In my job, you need to have eyes everywhere!
+<b>Honoré:</b> Dans mon travail, il faut avoir des yeux partout !
+<b>Honoré:</b> Keep training your eyes!
+<b>Honoré:</b> Continue d’entraîner tes yeux !
+<b>Butch:</b> Ha! Another one falls for our trap!
+<b>Butch:</b> Ha ! Un autre tombe dans notre piège !
+<b>Carmine:</b> Hand us all your goods, now!
+<b>Carmine:</b> Donne nous toutes tes possessions, maintenant !
+<b>Butch:</b> Dammit! This area seems protected!
+<b>Butch:</b> Mince ! Cette zone semble protégée !
+<b>Carmine:</b> Let us go Butch, we will find another place!
+<b>Carmine:</b> Allons-nous en Butch, on trouvera un autre endroit !
+<b>Man:</b> This area is really peaceful!
+<b>Homme:</b> Cette zone est vraiment paisible !
+<b>Lady:</b> ...what? No I'm not a trainer, I'm just enjoying fresh air!
+<b>Dame:</b> ...quoi ? Non je ne suis pas une dresseuse, je profite juste de l’air frais !

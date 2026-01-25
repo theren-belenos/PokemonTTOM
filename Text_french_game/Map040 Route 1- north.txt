@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map040]
+The rock suddenly jumps you!
+Le rocher vous saute dessus !
+<b>Isaac:</b> Are there good Pokémons here?
+<b>Isaac:</b> Est-ce qu’il y a des bons Pokémon ici ?
+<b>Isaac:</b> Pspspsps! Little Pokémons!!
+<b>Isaac:</b> Pspspsps ! Petit Pokémon !!
+<b>Mike:</b> I love shorts! They're so comfy!
+<b>Mike:</b> J’adore les shorts ! Ils sont si confortables !
+<b>Tom:</b> Why don't you wear shorts?
+<b>Tom:</b> Pourquoi tu ne portes pas de shorts ?
+<b>Alain:</b> Just warming up before taking a dip!
+<b>Alain:</b> Juste un petit échauffement avant d’aller faire trempette !
+<b>Alain:</b> I hope the sea isn't cold!
+<b>Alain:</b> J’espère que la mer n’est pas froide !

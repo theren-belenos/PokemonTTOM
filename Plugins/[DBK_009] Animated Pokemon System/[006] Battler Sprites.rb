@@ -615,7 +615,7 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     ball = addBallSprite(ballStartX, ballStartY, poke_ball)
     ball.setZ(0, 25)
     ball.setVisible(0, false)
-    if @showingTrainer && traSprite && traSprite.x > 0
+    if @showingTrainer && traSprite && traSprite.bitmap && traSprite.x > 0
       ball.setZ(0, traSprite.z - 1)
       ballStartX, ballStartY = ballTracksHand(ball, traSprite)
     end

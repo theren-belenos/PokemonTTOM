@@ -1,0 +1,54 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map232]
+<b>Skitty:</b> Skiiiiii!
+<b>Skitty:</b> Skiiiiii!
+<b>Day-Care Man:</b> Erm, sorry Leader, please don't go there yet.
+<b>Homme de la Pension:</b> Erm, désolé Champion, ne va pas là-bas s’il te plaît.
+<b>Day-Care Man:</b> The place was a bit damaged.
+<b>Homme de la Pension:</b> L’endroit a été endommagé.
+<b>Day-Care Man:</b> Please think about us for the Town Development!
+<b>Homme de la Pension:</b> Penses à nous pour le Développement de la Ville !
+<b>Day-Care Man:</b> Hello Leader, this way are our bicycles! But for you, it's free! Thanks again for your help!
+<b>Homme de la Pension:</b> Bonjour Champion, par ici ce sont nos vélos ! Mais c’est gratuit pour toi, merci encore pour ton aide !
+You received a bicycle!
+Vous obtenez un vélo !
+<b>Day-Care Man:</b> See you around!
+<b>Homme de la Pension:</b> A bientôt !
+<b>Day-Care Man:</b> Oh hello! You're the new Gym Leader, right?
+<b>Homme de la Pension:</b> Oh bonjour ! Tu es le nouveau Champion, c’est ça ?
+<b>Day-Care Man:</b> To thank you for clearing the path to the DayCare, we want to give you this egg!
+<b>Homme de la Pension:</b> Pour te remercier d’avoir déblayé la voie vers la Pension, nous voulons te donner cet oeuf !
+You received an egg!
+Vous obtenez un oeuf !
+<b>Day-Care Man:</b> Take good care of this egg! I'm sure you'll love this Pokémon!
+<b>Homme de la Pension:</b> Prends bien soin de cet oeuf ! Je suis sûr que tu adoreras ce Pokémon !
+<b>Day-Care Man:</b> Oh, and my wife wanted to see you! Go see her inside please!
+<b>Homme de la Pension:</b> Oh, et ma femme voulait te parler ! Va la voir à l’intérieur s’il te plaît !
+<b>Day-Care Man:</b> Hello dear leader!
+<b>Homme de la Pension:</b> Bonjour cher Champion !
+<b>Day-Care Man:</b> Hello Leader, thanks for giving us funds to open our bicycle sell point again!
+<b>Homme de la Pension:</b> Bonjour Champion, mercid e nous avoir donné le budget nécessaire pour réouvrir notre point de vente de vélo !
+<b>Day-Care Man:</b> But for you it's free obviously!
+<b>Homme de la Pension:</b> Mais pour toi c’est gratuit évidemment !
+<b>Daycare Man:</b> We were raising your Pokémons and suddenly had a surprise!
+<b>Homme de la Pension:</b> On élevait tes Pokémon et on a eu une surprise !
+<b>Daycare Man:</b> One of your Pokémon was holding an egg!
+<b>Homme de la Pension:</b> Un de tes Pokémon tenait un oeuf !
+<b>Daycare Man:</b> Do you want to take it with you now?
+<b>Homme de la Pension:</b> Tu veux le prendre maintenant ?
+<b>Day-Care Man:</b> Make room in your party and talk to me again.
+<b>Homme de la Pension:</b> Fais de la place dans ton équipe et reviens me voir.
+<b>Day-Care Man:</b> You can use the computer inside the Day-Care if you want.
+<b>Homme de la Pension:</b> Tu peux utiliser le PC à l’intérieur de la Pension si besoin.
+You received an egg from the Day-Care Man!
+L’homme de la Pension vous donne un oeuf !
+<b>Day-Care Man:</b> Talk to me again when you want.
+<b>Homme de la Pension:</b> Parle moi de nouveau quand tu le souhaites.
+<b>Daycare Man:</b> Do you want to take the egg with you now?
+<b>Homme de la Pension:</b> Veux-tu prendre l’oeuf avec toi ?
+Yes
+Oui
+No
+Non

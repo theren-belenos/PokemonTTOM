@@ -481,6 +481,16 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
+    :id             => :NLBUG,
+    :name		    => _INTL("The Normal Leader"),
+    :image		    => "KATHLEENNL",
+    :init_location  => _INTL("Sombake"),
+    :init_status    => _INTL("Test"),
+    :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
     :id             => :KATHLEEN,
     :name		    => "Kathleen",
     :image		    => "KATHLEEN",
@@ -493,10 +503,20 @@ GameData::SocialLinkProfile.register({
 GameData::SocialLinkProfile.register({
     :id             => :NLRock,
     :name		    => _INTL("The Normal Leader"),
-    :image		    => "KATHLEENNL",
+    :image		    => "CASSIANNL",
     :init_location  => _INTL("Sombake"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random normal starter  "),
     :favorite_pokemon => :DITTO
+    
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :CASSIAN,
+    :name		    => "Cassian",
+    :image		    => "CASSIAN",
+    :init_location  => "Greymoose",
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random rock starter  "),
+    :favorite_pokemon => :RAMPARDOS
     
 })
 

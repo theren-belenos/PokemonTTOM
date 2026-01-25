@@ -2,76 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [TRAINER_TYPE_NAMES]
-Object
-Objet
-Cool Trainer &m;
-Topdresseur
-Cool Trainer &f;
-Topdresseuse
-Schoolgirl
-Écolière
-Schoolboy
-Écolier
-Jogger
-Joggeur
 Gym trainer
 Dresseur d'Arène
 Pokémon trainer
 Dresseur de Pokémon
-Collector
-Collectionneur
-Some wild
-Horde sauvage
-Fun old man
-Joyeux papy
-Fun old lady
-Joyeuse mamie
-Preschooler
-Petite
-Bugmaniac
-Entomomaniac
-Gardener
-Jardinier
-Ninja boy
-Ninja fan
-Cyclist
-Cycliste
-Backpacker
-Randonneur
-Artist
-Artiste
-Rich Boy
-Richard
-Pokékid
-Poké Enfant
-Tourist
-Touriste
-Pokéfan
-Pokéfan
-Idol
-Star
-Janitor
-Nettoyeur
-Parasol Lady
-Soeur Parasol
-Clown
-Clown
-Cowgirl
-Cowgirl
-Musician
-Musicien
-Hex Maniac
-Mystimaniac
-Butler
-Majordome
-Punk Trainer
-Vaurien
-Maid
-Gouvernante
-Delinquant
-Terreur
-Firebreather
-Crache-Feu
 Team Absolution
 Team Absolution
 Absolution Admin
@@ -80,9 +14,123 @@ Absolution Genius
 Génie Absolution
 Absolution Leader
 Leader Absolution
-Mysterious
-Mystérieux
+Absolution
+Absolution
 Stand-in Gym Leader
 Leader par Intérim
 The
 Le
+Camper &m;
+Scout &m;
+Camper &f;
+Scout &f;
+Fun old lady
+Joyeuse mamie
+Fun old man
+Joyeux papy
+Idol
+Star
+Pokéfan
+Pokéfan
+Pokékid
+Poké Enfant
+Preschooler
+Petite Fille
+Rich Boy
+Richard
+Schoolgirl
+Écolière
+Schoolboy
+Écolier
+Tourist
+Touriste
+Tuber &m;
+Flotteur &m;
+Tuber &f;
+Flotteuse &f;
+Backpacker
+Randonneur
+Bugmaniac
+Entomomaniac
+Clown
+Clown
+Collector
+Collectionneur
+Furisode Girl
+Fille en Kimono
+Janitor
+Nettoyeur
+Maid
+Gouvernante
+Ninja boy
+Ninja fan
+Pokémon Breeder &f;
+Éleveuse
+Pokémon Breeder &m;
+Éleveur
+Punk Trainer &f;
+Vaurienne
+Punk Trainer &m;
+Vaurien
+Swimmer &f;
+Nageuse
+Swimmer &m;
+Nageur
+Artist
+Artiste
+Butler
+Majordome
+Cowgirl
+Cowgirl
+Cyclist
+Cycliste
+Delinquant
+Terreur
+Firebreather
+Crache-Feu
+Gardener
+Jardinier
+Jogger
+Joggeur
+Musician
+Musicien
+Parasol Lady
+Soeur Parasol
+Postman
+Facteur
+Roller Skater &f;
+Roller Skateuse
+Roller Skater &m;
+Roller Skateur
+Worker &m;
+Travailleur
+Firefighter
+Pompier
+Hex Maniac
+Mystimaniac
+Pokémon Ranger &m;
+Pokémon Ranger &m;
+Pokémon Ranger &f;
+Pokémon Ranger &f;
+Psychic &f;
+Kinésiste &f;
+Psychic &m;
+Kinésiste &m;
+Roughneck
+Loubard
+Scientist &f;
+Scientifique &f;
+Scientist &m;
+Scientifique &m;
+Ace Trainer &f;
+Dresseuse d'élite &f;
+Ace Trainer &m;
+Dresseur d'élite &m;
+Cool Trainer &f;
+Topdresseuse
+Cool Trainer &m;
+Topdresseur
+Some wild
+Horde sauvage de
+Object
+Objet

@@ -943,11 +943,11 @@ Sky Drop ne laissera pas {1} partir !
 The sunlight faded.
 Les rayons du soleil sont revenus à la normale.
 The rain stopped.
-La pluie s’est arrêtée
+La pluie s’est arrêtée.
 The sandstorm subsided.
-La tempête de sable s’est calmée
+La tempête de sable s’est calmée.
 The hail stopped.
-La grêle s’est arrêtée
+La grêle s’est arrêtée.
 The shadow sky faded.
 Le ciel obscur s’est éclairci.
 Rain continues to fall.
@@ -1197,7 +1197,7 @@ L’équipe du {1} est protégée par Rune Protect !
 {1} was hurt by its burn!
 {1} souffre de la brûlure !
 {1} is paralyzed! It can't move!
-{1} est paralysé !Il ne peut pas bouger !
+{1} est paralysé ! Il ne peut pas bouger !
 {1} is frozen solid!
 {1} est gelé !
 {1} woke up!

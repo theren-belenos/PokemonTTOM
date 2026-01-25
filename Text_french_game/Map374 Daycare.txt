@@ -1,0 +1,104 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map374]
+There is only trash in there...
+Il n’y a que des déchets là-dedans…
+<b>Daycare Lady:</b> Hello sugar, I'm the Daycare lady.
+<b>Dame de la Pension:</b> Bonjour petit coeur, je suis la dame de la Pension.
+<b>Daycare Lady:</b> Ah! You are our new Gym leader?
+<b>Dame de la Pension:</b> Ah ! Tu dois être notre nouveau Champion d’Arène ?
+<b>Daycare Lady:</b> So I must thank you for clearing the town's access to our beautiful Daycare!
+<b>Dame de la Pension:</b> Donc je dois te remercier pour avoir dégagé l’accès à notre belle Pension !
+<b>Daycare Lady:</b> My husband wanted to give you something, go see him!
+<b>Dame de la Pension:</b> Mon mari voulait te donner quelque chose, va le voir !
+<b>Daycare Lady:</b> You already talked to my husband? So he already gave you our gift!
+<b>Dame de la Pension:</b> Tu as déjà parlé à mon mari ? Alors il t’as déjà donné ton cadeau !
+<b>Daycare Lady:</b> Actually I may have another gift for you... but only if you do a little something to brighten my old days!
+<b>Dame de la Pension:</b> En fait j’ai peut-être un autre cadeau pour toi… mais seulement si tu fais un petit truc pour illuminer mes vieux jours !
+<b>Daycare Lady:</b> You see, I really LOVE baby Pokémons! They're so cute!
+<b>Dame de la Pension:</b> Tu vois, j’ADORE vraiment les Bébés Pokémon ! Ils sont si mignons !
+<b>Daycare Lady:</b> But as they cannot breed, people doesn't left them with us very often...
+<b>Dame de la Pension:</b> Mais comme ils ne peuvent pas se reproduire, on ne nous en laisse pas souvent…
+<b>Daycare Lady:</b> So I want you to show me at least two different baby Pokémons! I miss them so much!
+<b>Dame de la Pension:</b> Donc j’aimerais que tu me montres au moins deux Bébés Pokémons ! Ils me manquent tellement !
+<b>Daycare Lady:</b> Oh sorry sugar, I didn't even properly explained to you what the DayCare is!
+<b>Dame de la Pension:</b> Oh désolé petit coeur, je ne t’ai même pas expliqué ce qu’était la Pension !
+<b>Daycare Lady:</b> You see, we can raise Pokémon for you. While they're with us, they may grow stronger!
+<b>Dame de la Pension:</b> En fait, nous pouvons élever des Pokémon pour toi. Tant qu’ils sont avec nous, ils deviennent plus forts !
+<b>Daycare Lady:</b> We can raise up to two Pokémons at the same time.
+<b>Dame de la Pension:</b> On peut s’occuper de deux Pokémons en même temps.
+<b>Daycare Lady:</b> If we keep two Pokémons at the same time, you may even have a surprise!
+<b>Dame de la Pension:</b> Si on garde deux Pokémon en même temps, tu pourrais même avoir une surprise !
+<b>Daycare Lady:</b> You can use the computer at your left at any time!
+<b>Dame de la Pension:</b> Tu peux utiliser le PC à ta gauche quand tu veux !
+<b>Daycare Lady:</b> So if you want us to raise your Pokémons, just talk to me any time, sugar!
+<b>Dame de la Pension:</b> Donc si tu veux qu’on élève des Pokémon pour toi, n'hésites pas petit coeur !
+<b>Daycare Lady:</b> Ah, there you are, sugar. My husband was looking for you.
+<b>Dame de la Pension:</b> Ah te voilà petit coeur. Mon mari te cherchait.
+<b>Daycare Lady:</b> Are you here to show me some cute baby Pokémons?
+<b>Dame de la Pension:</b> Es-tu là pour me montrer des Bébés Pokémon tout mignons ?
+<b>Daycare Lady:</b> Let me see!
+<b>Dame de la Pension:</b> Montre-moi !
+<b>Daycare Lady:</b> Owww! Aren't they cute?
+<b>Dame de la Pension:</b> Owww ! Ils sont si mignons !
+<b>Daycare Lady:</b> Thank you very much sugar, It really brighten my old days.
+<b>Dame de la Pension:</b> Merci beaucoup petit coeur, ça illumine vraiment mes vieux jours.
+<b>Daycare Lady:</b> Here, let me give you this really peculiar fellow...
+<b>Dame de la Pension:</b> Tiens, laisse moi te donner ce compagnon vraiment particulier…
+<b>Daycare Lady:</b> Don't give me some false expectations!
+<b>Dame de la Pension:</b> Ne me donne pas de faux espoirs !
+<b>Daycare Lady:</b> Would you like us to raise your Pokémon ?
+<b>Dame de la Pension:</b> Veux-tu que l’on s'occupe de ton Pokémon ?
+<b>Daycare Lady:</b> Oh? But you only have one Pokémon with you.
+<b>Dame de la Pension:</b> Oh ? Mais tu n’as qu’un seul Pokémon avec toi.
+<b>Daycare Lady:</b> You can't go off without a Pokémon. Come back with at least 2 Pokémons.
+<b>Dame de la Pension:</b> Tu ne peux pas te promener sans Pokémon. Reviens avec au moins 2 Pokémon.
+<b>Daycare Lady:</b> Which Pokémon should we raise for you?
+<b>Dame de la Pension:</b> Quel Pokémon veux-tu nous confier ?
+<b>Daycare Lady:</b> Oh, fine, then.\nCome again, sugar.
+<b>Dame de la Pension:</b> Oh, d’accord.\A bientôt, petit coeur.
+<b>Daycare Lady:</b> If you leave me that Pokémon, what are you gonna battle with?
+<b>Dame de la Pension:</b> Si tu me laisses ce Pokémon, comment vas-tu combattre ?
+<b>Daycare Lady:</b> Come back with at least another Pokémon that can battle, sugar!
+<b>Dame de la Pension:</b> Reviens avec au moins un autre Pokémon apte au combat, petit coeur !
+<b>Daycare Lady:</b> Fine, we'll raise your \v[3] for a while.
+<b>Dame de la Pension:</b> Ok, on va s’occuper de ton \v[3].
+<b>Daycare Lady:</b> Come back for it later, sugar.
+<b>Dame de la Pension:</b> Reviens le chercher plus tard, petit coeur.
+<b>Daycare Lady:</b> We can raise two of your pokémon. Would you like us to raise another?
+<b>Dame de la Pension:</b> On peut s’occuper de deux Pokémon. Veux-tu nous en confier un autre ?
+<b>Daycare Lady:</b> You can't go off without a Pokémon. Come back with at least 2 Pokémons, sugar.
+<b>Dame de la Pension:</b>  Tu ne peux pas te promener sans Pokémon. Reviens avec au moins 2 Pokémon, petit coeur.
+<b>Daycare Lady:</b> Very good. Come again, sugar.
+<b>Dame de la Pension:</b> Très bien. A bientôt, petit coeur.
+<b>Daycare Lady:</b> That Pokémon looks like it would rather stay with you.
+<b>Dame de la Pension:</b> On dirait que ce Pokémon préfère rester avec toi.
+<b>Daycare Lady:</b> Come back another time, sugar.
+<b>Dame de la Pension:</b> A bientôt, petit coeur.
+<b>Daycare Lady:</b> No? Well now, about your Pokémon...
+<b>Dame de la Pension:</b> Non ? Eh bien, a propos de ton Pokémon…
+<b>Daycare Lady:</b> By level, your \v[3] has grown by about \v[4]
+<b>Dame de la Pension:</b> Ton \v[3] a gagné \v[4] niveaux.
+<b>Daycare Lady:</b> Do you want your Pokémon back?
+<b>Dame de la Pension:</b> Veux-tu récupérer ton Pokémon ?
+<b>Daycare Lady:</b> Your Pokémon team is full. Make room, then come see me.
+<b>Dame de la Pension:</b> Ton équipe Pokémon est complète. Fais de la place et reviens me voir.
+Which one do you want back?
+Lequel voulez-vous récuperer ?
+<b>Daycare Lady:</b> Very good. Come again.
+<b>Dame de la Pension:</b> Très bien. A bientôt.
+\G<b>Daycare Lady:</b> If you want your \v[3] back, it will cost $\v[4]
+\G<b>Dame de la Pension:</b> Si tu veux récuperer ton \v[3], cela te coûtera $\v[4]
+\G<b>Daycare Lady:</b> You don't have enough money...
+\G<b>Dame de la Pension:</b> Tu n’as pas assez d’argent…
+\G<b>Daycare Lady:</b> Excellent.\nHere's your Pokémon.
+\G<b>Dame de la Pension:</b> Excellent.\nVoici ton Pokémon.
+\PN took \v[3] back from the Day-Care Lady.
+La Dame de la Pension rend \v[3] à \pn.
+\G<b>Daycare Lady:</b> Do you want to take back the other one, too?
+\G<b>Dame de la Pension:</b> Veux-tu également récupérer l’autre ?
+Yes
+Oui
+No
+Non

@@ -317,7 +317,56 @@ Outdoor = false
 Name = Cycling road entry - east
 MapPosition = 0,15,22
 Outdoor = false
-
+#-------------------------------
+[413]   # Route 4 (high) - far east
+Name = Route 4 (east)
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,19,22
+MapSize = 1,1
+Environment = None
+BattleBack = field
+#-------------------------------
+[414]   # Route 4 (high) - east
+Name = Route 4 (east)
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,18,22
+MapSize = 1,1
+Environment = None
+BattleBack = field
+#-------------------------------
+[415]   # Route 4 (high) - center
+Name = Route 4 (west)
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,17,22
+MapSize = 1,1
+Environment = None
+BattleBack = field
+#-------------------------------
+[416]   # Route 4 (high) - west
+Name = Route 4 (west)
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,16,22
+MapSize = 1,1
+Environment = None
+BattleBack = field
+#-------------------------------
+[417]   # Route 4 (high) - far west
+Name = Route 4 (west)
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,15,22
+MapSize = 1,1
+Environment = None
+BattleBack = field
 
 #-------------------------------
 [021]   # Route 5
@@ -486,7 +535,7 @@ Name = Route 10
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,20
+MapPosition = 0,14,20
 MapSize = 1,1
 Environment = Grass
 BattleBack = field
@@ -500,36 +549,40 @@ Name = Route 11
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,14,22
+MapPosition = 0,12,22
 MapSize = 1,1
 Environment = Grass
+BattleBack = beach
 #-------------------------------
 [041]   # Route 11 - center north
 Name = Route 11
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,14,23
+MapPosition = 0,12,23
 MapSize = 1,1
 Environment = Grass
+BattleBack = beach
 #-------------------------------
 [044]   # Route 11 - center south
 Name = Route 11
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,14,24
+MapPosition = 0,12,24
 MapSize = 1,1
 Environment = Grass
+BattleBack = beach
 #-------------------------------
 [045]   # Route 11 - south
 Name = Route 11
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,14,25
+MapPosition = 0,12,25
 MapSize = 1,1
 Environment = Grass
+BattleBack = beach
 
 
 
@@ -539,45 +592,50 @@ Name = Route 12
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,23
+MapPosition = 0,14,23
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [047]   # Route 12 - west
 Name = Route 12
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,24
+MapPosition = 0,14,24
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 #-------------------------------
 [049]   # Route 12 - center
 Name = Route 12
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,17,24
+MapPosition = 0,15,24
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [050]   # Route 12 - south
 Name = Route 12
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,17,25
+MapPosition = 0,15,25
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [051]   # Route 12 - south east
 Name = Route 12
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,18,25
+MapPosition = 0,16,25
 MapSize = 1,1
 Environment = Grass
+BattleBack = field
 
 
 
@@ -591,6 +649,7 @@ Bicycle = true
 MapPosition = 0,18,27
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [053]   # Route 13 - B
 Name = Route 13
@@ -600,6 +659,7 @@ Bicycle = true
 MapPosition = 0,19,27
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [054]   # Route 13 - C
 Name = Route 13
@@ -609,6 +669,7 @@ Bicycle = true
 MapPosition = 0,20,27
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [055]   # Route 13 - D
 Name = Route 13
@@ -618,6 +679,7 @@ Bicycle = true
 MapPosition = 0,21,27
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [056]   # Route 13 - E
 Name = Route 13
@@ -627,6 +689,7 @@ Bicycle = true
 MapPosition = 0,22,27
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [057]   # Route 13 - F
 Name = Route 13
@@ -636,6 +699,7 @@ Bicycle = true
 MapPosition = 0,23,27
 MapSize = 1,1
 Environment = Grass
+BattleBack = rocky
 #-------------------------------
 [058]   # Route 13 - G
 Name = Route 13
@@ -645,15 +709,7 @@ Bicycle = true
 MapPosition = 0,24,27
 MapSize = 1,1
 Environment = Grass
-#-------------------------------
-[059]   # Route 13 - H
-Name = Route 13
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,25,27
-MapSize = 1,1
-Environment = Grass
+BattleBack = rocky
 
 
 
@@ -2113,7 +2169,7 @@ Name = Power Tunnel
 Outdoor = false
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,19
+MapPosition = 0,14,19
 MapSize = 1,1
 BattleBack = cave
 Environment = Cave
@@ -2124,7 +2180,7 @@ Name = Power Tunnel
 Outdoor = false
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,19
+MapPosition = 0,14,19
 MapSize = 1,1
 BattleBack = cave
 Environment = Cave
@@ -2236,7 +2292,7 @@ Name = Normal Gym
 ShowArea = true
 MapPosition = 0,17,18
 #-------------------------------
-[385]   # Normal Gym Sombake
+[385]   # Bug Gym Sombake
 Name = Bug Gym
 ShowArea = true
 MapPosition = 0,17,18
@@ -2249,6 +2305,139 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,13,21
 MapSize = 2,1111
+#-------------------------------
+[387]   # Greymoose House A
+Name = Greymoose House A
+MapPosition = 0,14,21
+#-------------------------------
+[388]   # Greymoose House B
+Name = Greymoose House B 
+MapPosition = 0,14,22
+#-------------------------------
+[389]   # Greymoose House C
+Name = Greymoose House C
+MapPosition = 0,14,21
+#-------------------------------
+[390]   # Greymoose House D
+Name = Greymoose House D
+MapPosition = 0,14,22
+#-------------------------------
+[391]   # Greymoose House E
+Name = Greymoose House E
+MapPosition = 0,14,22
+#-------------------------------
+[392]   # Greymoose House F
+Name = Greymoose House F
+MapPosition = 0,13,21
+#-------------------------------
+[393]   # Greymoose Bighouse A
+Name = Greymoose Bighouse A
+MapPosition = 0,14,21
+#-------------------------------
+[394]   # Greymoose Bighouse B
+Name = Greymoose Bighouse B
+MapPosition = 0,13,21
+#-------------------------------
+[395]   # Greymoose Bighouse C
+Name = Greymoose Bighouse C
+MapPosition = 0,13,22
+#-------------------------------
+[396]   # Greymoose Underground
+Name = Greymoose Underground
+ShowArea = true
+Outdoor = false
+BattleBack = cave
+Environment = Cave
+MapPosition = 0,13,21
+MapSize = 2,1111
+#-------------------------------
+[059]   # Greymoose Dojo
+Name = Greymoose Dojo
+MapPosition = 0,13,21
+BattleBack = gym
+#-------------------------------
+[397]   # Greymoose Townhouse
+Name = Greymoose Townhouse
+MapPosition = 0,13,21
+#-------------------------------
+[401]   # Greymoose PC
+Name = Greymoose PC
+MapPosition = 0,14,21
+#-------------------------------
+[402]   # Greymoose Shop
+Name = Greymoose Shop
+MapPosition = 0,14,22
+#-------------------------------
+[403]   # Greymoose Berry Shop
+Name = Greymoose Berry Shop
+MapPosition = 0,14,21
+#-------------------------------
+[404]   # Grey Mines
+Name = Grey Mines
+ShowArea = true
+Outdoor = false
+BattleBack = cave
+Environment = Cave
+MapPosition = 0,15,22
+#-------------------------------
+[405]   # Grey Mines
+Name = Grey Mines Tunnel
+ShowArea = true
+Outdoor = false
+BattleBack = cave
+Environment = Cave
+MapPosition = 0,15,21
+#-------------------------------
+[406]   # Grey Mines
+Name = Grey Mines Depths
+ShowArea = true
+Outdoor = false
+BattleBack = cave
+Environment = Cave
+MapPosition = 0,16,21
+#-------------------------------
+[407]   # Absolution base Floor 2
+Name = Absolution Base
+ShowArea = true
+Outdoor = false
+BattleBack = TAbase
+Environment = Cave
+MapPosition = 0,16,20
+#-------------------------------
+[408]   # Absolution base Floor 1
+Name = Absolution Base
+ShowArea = true
+Outdoor = false
+BattleBack = TAbase
+Environment = Cave
+MapPosition = 0,16,20
+#-------------------------------
+[409]   # Absolution base RDC
+Name = Absolution Base
+ShowArea = true
+Outdoor = false
+BattleBack = TAbase
+Environment = Cave
+MapPosition = 0,16,20
+#-------------------------------
+[410]   # Absolution base basement
+Name = Absolution Base
+ShowArea = true
+Outdoor = false
+BattleBack = TAbase
+Environment = Cave
+MapPosition = 0,16,20
+#-------------------------------
+[420]   # Normal Gym Greymoose
+Name = Normal Gym
+ShowArea = true
+MapPosition = 0,13,21
+#-------------------------------
+[419]   # Bug Gym Sombake
+Name = Rock Gym
+ShowArea = true
+MapPosition = 0,13,21
+
 #-------------------------------
 [245]   # Town 4 - Beach resort
 Name = Camosack

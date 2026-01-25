@@ -6,6 +6,10 @@ Nekanta Map
 Carte de Nekanta
 Life Vial
 Fiole de Vie
+Mining Kit
+Kit de Minage
+Camosack Pass
+Pass Camosack
 Black Augurite
 Obsidienne
 Peat Block
@@ -638,3 +642,5 @@ Medical Package
 Colis Médical
 Borrowed Book
 Livre Emprunté
+Father's Lunch
+Repas du Papa

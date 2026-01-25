@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map387]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Man:</b> Hey! Never seen you, are you new here?
+<b>Homme:</b> Hey ! Je t'avais jamais vu, t'es nouveau ici?

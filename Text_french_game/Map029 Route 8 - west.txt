@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map029]
+^ Tlingit gates\n> Sombake\nv Grey Moose (through Power Tunnel)
+^ Portes de Tlingit\n> Sombake\nv Greymoose (par le Tunnel Énergie)
+<b>Ranger:</b> Hello young one I'm a ranger. You're in front of the Grey Tunnel.
+<b>Ranger:</b> Salut à toi, je suis un Ranger. Tu es devant le Tunnel Énergie.
+<b>Ranger:</b> Be careful not to get lost. Here, let me heal your Pokémons.
+<b>Ranger:</b> Fais attention à ne pas te perdre. Laisse moi soigner tes Pokémon.
+Your Pokémons were completely healed !
+Vos Pokémon ont été soignés !
+<b>Ranger:</b> Take care!
+<b>Ranger:</b> Sois prudent !
+<b>Ranger:</b> Do you need me to heal your pokémons again ?
+<b>Ranger:</b> Veux-tu que je soigne tes Pokémon à nouveau ?
+<b>Cyclist:</b> Watch out!
+<b>Cycliste:</b> Fais gaffe !
+<b>Hiker:</b> I don't really mind the rain. It's better than a harsh sun!
+<b>Montagnard:</b> La pluie ne me dérange pas vraiment. C’est mieux qu’un soleil de plomb !
+Yes
+Oui
+No
+Non
