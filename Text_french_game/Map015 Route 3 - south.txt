@@ -11,7 +11,7 @@
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
 <b>Kid:</b> My Skitty is invincible!
-<b>Kid:</b> Mon Skitty est invincible !
+<b>Enfant:</b> Mon Skitty est invincible !
 <b>Lotad:</b> Lolo!
 <b>Nénupiot:</b> Nénu !
 <b>Boy:</b> Haha! They're sooooo bad!

@@ -178,7 +178,8 @@ module ZBox_Shadows
     "smashrock", "rocarompible", "strengthboulder", "piedrafuerza",
     "cuttree", "arbolcorte", "headbutttree", "arbolgolpecabeza",
     "berryplant", "plantabayas", "item", "pannel",
-    ".sl", ".noshadow", "no_shadow", "healing", "ComputerPC"
+    ".sl", ".noshadow", "no_shadow", "healing", "ComputerPC",
+	"ExchangeIcon", "indicator"
   ]
 
   # Terrain Tags where the shade should be eliminated.
