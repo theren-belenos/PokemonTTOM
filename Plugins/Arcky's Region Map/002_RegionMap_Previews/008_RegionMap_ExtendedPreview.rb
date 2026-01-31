@@ -43,13 +43,17 @@ class PokemonRegionMap_Scene
       @timer += 1 if @timer
       updateButtonInfo if !ARMSettings::ButtonBoxPosition.nil?
       if Input.trigger?(Input::BACK)
-        if @previewBox.isExtShown
-          hideExtendedPreview
-          showAndUpdateMapInfo
-		  @previewBox.hideIt
-          hidePreviewBox
-          break
-        end
+	  puts "test"
+		hideExtendedPreview
+		showAndUpdateMapInfo
+		break
+        #if @previewBox.isExtShown
+         # hideExtendedPreview
+         # showAndUpdateMapInfo
+		 # @previewBox.hideIt
+         # hidePreviewBox
+         # break
+        #end
       elsif Input.trigger?(nil)
         if @dataIndex > 0
           @dataIndex -= 1

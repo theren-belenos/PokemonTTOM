@@ -76,7 +76,6 @@ class PokemonRegionMap_Scene
 	else
 		main
 	end
-    #@playerMapName = !(@playerPos.nil?) ? _INTL(pbGetMapLocation(@playerPos[1], @playerPos[2])) : ""
     @playerMapName = !(@playerPos.nil?) ? pbGetMapLocation(@playerPos[1], @playerPos[2]) : ""
   end
 
@@ -335,7 +334,7 @@ class PokemonRegionMap_Scene
       @timer += 1 if @timer
       toggleButtonBox(opacityBox) if @modeCount >= 2
       updateButtonInfo if @previewBox.isShown && !ARMSettings::ButtonBoxPosition.nil?
-      animatePreviewBox if previewAnimation
+      #animatePreviewBox if previewAnimation
       if @zoomTriggered
         @sprites["cursor"].x = lerp(@ZoomValues[:begin][:cursor][:x], @ZoomValues[:end][:cursor][:x], @zoomSpeed, @distPerFrame, System.uptime)
         @sprites["cursor"].y = lerp(@ZoomValues[:begin][:cursor][:y], @ZoomValues[:end][:cursor][:y], @zoomSpeed, @distPerFrame, System.uptime)
@@ -417,7 +416,6 @@ class PokemonRegionMap_Scene
         elsif Input.trigger?(ARMSettings::ShowExtendedButton) && !@cannotExtPreview && @mode == 0 && ARMSettings::ProgressCounter && !@previewBox.isShown && !previewAnimation
           pbPlayDecisionSE
           showExtendedPreview
-		  break
         elsif ((Input.trigger?(Input::USE) || Input.trigger?(ARMSettings::MouseButtonSelectLocation)) && @mode == 1) || inputFly
           limit = getFameLimit
 		  if editor
@@ -473,21 +471,9 @@ class PokemonRegionMap_Scene
           end
         end
       end
-      if Input.trigger?(Input::BACK)
-        next if previewAnimation
-        if @previewBox.isShown || @previewBox.isUpdated
-          @previewBox.hideIt
-          hidePreviewBox  
-        elsif @previewBox.isExtHidden
-          @previewBox.shown
-          getPreviewWeather
-          next
-        else
-          break
-        end
-      end
+      next if Input.trigger?(Input::BACK)
     end
-    pbPlayCloseMenuSE
+	pbPlayCloseMenuSE
     return nil
   end
 

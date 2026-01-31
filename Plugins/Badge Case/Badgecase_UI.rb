@@ -259,7 +259,7 @@ class BadgeCase_Scene
 	  if @badges[@badgeindex].id == :RAINBOWBADGE && $town.rank > 0
 	    textpos.push([$town.name, 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
 	  else
-        textpos.push([@badges[@badgeindex].location, 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
+        textpos.push([_INTL(@badges[@badgeindex].location), 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
 	  end
     else
       textpos.push([_INTL("???"), 425, 150, :center, Color.new(64, 64, 64), Color.new(176, 176, 176)])
