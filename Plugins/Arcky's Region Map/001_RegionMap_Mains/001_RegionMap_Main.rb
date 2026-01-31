@@ -328,6 +328,7 @@ class PokemonRegionMap_Scene
     @uiHeight = @mapHeight < UI_HEIGHT ? @mapHeight : UI_HEIGHT
     @switchMode = false
     loop do
+	  flag = false
       Graphics.update
       Input.update
       pbUpdate
@@ -416,6 +417,7 @@ class PokemonRegionMap_Scene
         elsif Input.trigger?(ARMSettings::ShowExtendedButton) && !@cannotExtPreview && @mode == 0 && ARMSettings::ProgressCounter && !@previewBox.isShown && !previewAnimation
           pbPlayDecisionSE
           showExtendedPreview
+		  flag = true
         elsif ((Input.trigger?(Input::USE) || Input.trigger?(ARMSettings::MouseButtonSelectLocation)) && @mode == 1) || inputFly
           limit = getFameLimit
 		  if editor
@@ -471,7 +473,10 @@ class PokemonRegionMap_Scene
           end
         end
       end
-      next if Input.trigger?(Input::BACK)
+      if Input.trigger?(Input::BACK) 
+		next if flag
+		break
+	  end
     end
 	pbPlayCloseMenuSE
     return nil
