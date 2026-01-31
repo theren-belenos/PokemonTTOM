@@ -2,8 +2,8 @@
 # translate every second line of this file.
 #-------------------------------
 [Map399]
-<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
-<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
+<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour !
+<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour !
 Marley is in training these days. Do you want to start your work day?
 Marley est en formation en ce moment. Voulez-vous commencer la journée ?
 Change your party?

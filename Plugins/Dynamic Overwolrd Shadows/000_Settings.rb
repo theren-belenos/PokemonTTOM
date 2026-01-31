@@ -174,11 +174,11 @@ module ZBox_Shadows
   # Event names that will NEVER have a shadow.
   # Check if the event name CONTAINS any of these words.
   BLACKLIST_NAMES = [
-    "door", "puerta", "nurse", "enfermera", "mostrador", 
+    "door", "puerta", "enfermera", "mostrador", 
     "smashrock", "rocarompible", "strengthboulder", "piedrafuerza",
     "cuttree", "arbolcorte", "headbutttree", "arbolgolpecabeza",
-    "berryplant", "plantabayas", 
-    ".sl", ".noshadow", "no_shadow"
+    "berryplant", "plantabayas", "item", "pannel",
+    ".sl", ".noshadow", "no_shadow", "healing", "ComputerPC"
   ]
 
   # Terrain Tags where the shade should be eliminated.

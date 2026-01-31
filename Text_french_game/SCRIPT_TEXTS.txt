@@ -738,20 +738,18 @@ Number of times traded:
 Nombre de fois échangé :
 Battle History
 Historique de combat
-Récap des combats
 Opponents defeated:
-Adversaires vaincus :
+Opponents defeated:
 Number of times fainted:
-Nombre de fois mis K.O. :
+Number of times fainted:
 Supereffective hits dealt:
-Coups super efficaces infligés :
+Supereffective hits dealt:
 Critical hits dealt:
-Coups critiques infligés :
+Critical hits dealt:
 Total number of retreats:
-Nombre total de replis :
+Total number of retreats:
 Team History
-Historique d’équipe
-Récap de l'équipe
+Team History
 Trainer battle victories:
 Victoires contre dresseurs :
 Gym Leader battle victories:
@@ -5326,3 +5324,19 @@ Show me you deserve my rank 3!
 Montre-moi que tu mérites mon rang 3 !
 Rewards :<br> For each ♥ level, gain a random rock starter
 Récompenses :<br> Pour chaque niveau-♥, gagnez un starter Roche aléatoire
+\wu\opSpeed x {1}\wtnp[15]
+\wu\opVitesse x {1}\wtnp[15]
+<fs=X>{1} {2}</fs>
+<fs=X>{1} {2}</fs>
+<fs=X>{1}</fs>
+<fs=X>{1}</fs>
+<fs=24>{1} {2}</fs>
+<fs=24>{1} {2}</fs>
+<fs=24>{1}</fs>
+<fs=24>{1}</fs>
+<fs=20>{1} {2}</fs>
+<fs=20>{1} {2}</fs>
+<fs=20>{1}</fs>
+<fs=20>{1}</fs>
+Graphics/Pictures/Tip Cards/Images/
+Graphics/Pictures/Tip Cards/ImagesVF/

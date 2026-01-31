@@ -2,8 +2,8 @@
 # translate every second line of this file.
 #-------------------------------
 [Map022]
-<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
-<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour.\n <b>\c[4]Kiana:</b>\c[0] Bonjour.\n <b>\c[2]\rn:</b>\c[0] Bonjour.
+<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour !
+<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour !
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe enregistrée ?
 End of the first half of the week!

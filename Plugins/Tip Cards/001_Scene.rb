@@ -258,7 +258,7 @@ class TipCard_Scene
                 @sprites["background"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/#{Settings::TIP_CARDS_DEFAULT_BG}"))
             end
             if info[:Image]
-                @sprites["image"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/Images/#{info[:Image]}"))
+                @sprites["image"].setBitmap("#{_INTL("Graphics/Pictures/Tip Cards/Images/")}#{info[:Image]}")
                 image_pos = info[:ImagePosition] || ((@sprites["image"].width > @sprites["image"].height) ? :Top : :Left)
                 case image_pos
                 when :Top
@@ -974,6 +974,7 @@ class TipCardGroups_Scene
     end
 
     def pbDrawTip
+		puts "testdébut"
         overlay = @sprites["overlay"].bitmap
         overlay.clear
         @sprites["image"].visible = false
@@ -1000,7 +1001,9 @@ class TipCardGroups_Scene
                 @sprites["background"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/#{Settings::TIP_CARDS_DEFAULT_BG}"))
             end
             if info[:Image]
+				
                 @sprites["image"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/Images/#{info[:Image]}"))
+				puts _INTL("Graphics/Pictures/Tip Cards/Images/#{info[:Image]}")
                 image_pos = info[:ImagePosition] || ((@sprites["image"].width > @sprites["image"].height) ? :Top : :Left)
                 case image_pos
                 when :Top
