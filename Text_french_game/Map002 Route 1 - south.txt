@@ -3,7 +3,7 @@
 #-------------------------------
 [Map002]
 <b>Alphonse:</b> Be careful kid! If you meet eyes with a trainer, he will battle you!
-<b>Alphonse:</b> Be careful kid! If you meet eyes with a trainer, he will battle you!
+<b>Alphonse:</b> Fais attention mon enfant ! Si tu croises le regard d'un autre dresseur, il te proposera un combat !
 <b>Ana:</b> Hii \pn! Did you come to play with me?
 <b>Ana:</b> Coucou \pn ! T’es venu jouer avec moi ?
 <b>Ana:</b> Come play with me again!

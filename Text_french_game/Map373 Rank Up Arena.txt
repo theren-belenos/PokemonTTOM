@@ -221,9 +221,9 @@ Votre nouvelle équipe d’Arène doit avoir 3 Pokémons. Ils seront abaissés (
 <b>Cassian:</b> I will rock you!
 <b>Cassian:</b> Je vais t'écraser !
 Your Gym is now rank 3!
-Votre Arène est maintenant rang 2 !
+Votre Arène est maintenant rang 3 !
 <b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3! Cassian, nice fight my friend!
-<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 2 ! Cassian, beau combat mon ami !
+<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 3 ! Cassian, beau combat mon ami !
 <b>Cassian:</b> Heh. Couldn't do anything...
 <b>Cassian:</b> Heh. J'ai rien pu faire...
 <b>Cassian:</b> So it's back to rank 2 for me huh?

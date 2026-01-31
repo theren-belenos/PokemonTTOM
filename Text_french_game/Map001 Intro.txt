@@ -99,7 +99,7 @@ Attends...
 What was the name of this town again?
 Quel était le nom de cette ville déjà ?
 Ah yes how could I forgot! The beautiful city of \tn.
-Ah oui comment ai-je pu oublié ! La belle ville de \tn.
+Ah oui comment ai-je pu oublier ! La belle ville de \tn.
 Former home to the 12th Gym.
 Ancien lieu abritant la 12ème arène.
 The last Gym, the hardest and most prestigious of them all:

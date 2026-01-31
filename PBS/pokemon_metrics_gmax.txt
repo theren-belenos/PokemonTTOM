@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Regardez la documentation sur le wiki pour savoir comment modifier ce fichier.
 #-------------------------------
 [VENUSAUR,2]
 BackSprite = 10,50
