@@ -7,7 +7,7 @@
 <b>\c[9]Melly:</b>\c[0] How are you?
 <b>\c[9]Melly:</b>\c[0] Comment vas-tu ?
 <b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle Willy!
-<b>\c[9]Melly:</b>\c[0] J'entraînais mon Pokémon dans le coin donc je suis allée dire bonjour à mon oncle Willy !
+<b>\c[9]Melly:</b>\c[0] J'entraînais mon pokémon dans le coin donc je suis allée dire bonjour à mon oncle Willy !
 <b>Willy:</b> Hello \pn, how are you?
 <b>Willy:</b> Salut \pn, comment vas-tu?
 <b>\c[9]Melly:</b>\c[0] Hey, let me show you the cuuuuute Pokémon I got, okay?

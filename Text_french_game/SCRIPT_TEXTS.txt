@@ -738,7 +738,6 @@ Number of times traded:
 Nombre de fois échangé :
 Battle History
 Historique de combat
-Récap des combats
 Opponents defeated:
 Adversaires vaincus :
 Number of times fainted:
@@ -751,7 +750,6 @@ Total number of retreats:
 Nombre total de replis :
 Team History
 Historique d’équipe
-Récap de l'équipe
 Trainer battle victories:
 Victoires contre dresseurs :
 Gym Leader battle victories:
@@ -767,7 +765,7 @@ HISTORIQUE DU {1}
 |
 |
 EV/IV Total
-Total EV/IV
+Total d’EV/IV
 EV's Remaining:
 EV restants :
 Hidden Power Type:
@@ -2125,7 +2123,7 @@ Graphics/Pictures/Tip Cards/arrow_left
 Graphics/Pictures/Tip Cards/#{info[:Background]}
 Graphics/Pictures/Tip Cards/#{info[:Background]}
 Graphics/Pictures/Tip Cards/Images/#{info[:Image]}
-Graphics/Pictures/Tip Cards/ImagesVF/#{info[:Image]}
+Graphics/Pictures/Tip Cards/Images/#{info[:Image]}
 <ac>Tip not defined.</ac>
 <ac>Tip not defined.</ac>
 {1}/{2}
@@ -2873,7 +2871,7 @@ Dans la page capacités, le sous-menu permet de vérifier, oublier mais aussi r�
 The Pokédex notably have the DATA page, which shows you nearly every info you can imagine on the species - check it out!
 Le Pokédex contient une page de données détaillant presque toutes les infos imaginables sur l’espèce - allez voir !
 Each quest has a color code depending on what you have to do to complete it:<<n>>- Gold: Main Quests (various objectives)<<n>>- Red: Battle Quest (win battle(s))<<n>>- Blue: Item Quest (give/find an item)<<n>>- Green: Pokémon Quest (give/show a Pokémon, an Egg...)
-Chaque quête a un code couleur dépendant du type de quête :<<n>>- Or : Quêtes principales (objectifs variés)<<n>>- Rouge : Quête de combat (gagner combat)<<n>>- Bleu : Quête d'objet (donner un objet)<<n>>- Vert : Quête de Pokémon (donner/montrer un Pokémon, un oeuf…)
+Chaque quête a un code couleur dépendant du type de quête :<<n>>- Or : Quêtes principales (objectifs variés)<<n>>- Rouge : Quête de combat (gagner combat(s))<<n>>- Bleu : Quête d'objet (donner un objet)<<n>>- Vert : Quête de Pokémon (donner/montrer un Pokémon, un oeuf…)
 Time: {1}h {2}m
 Temps : {1}h {2}m
 Time: {1}m
@@ -4201,9 +4199,9 @@ Le Leader Normal
 Sombake
 Sombake
 Rewards :<br> For each ♥ level, gain a random normal starter
-Récompenses :<br> Pour chaque niveau-♥, gagnez un starter Normal aléatoire
+Récompenses :<br> Pour chaque niveau-♥, gagnez un starter normal aléatoire
 Rewards :<br> For each ♥ level, gain a random bug starter
-Récompenses :<br> Pour chaque niveau-♥, gagnez un starter Insecte aléatoire
+Récompenses :<br> Pour chaque niveau-♥, gagnez un starter normal aléatoire
 Light is filtering down from above. You may be able to surface here.
 De la lumière arrive d’en haut. Vous devriez pouvoir revenir à la surface ici.
 It's a rugged rock, but you may be able to smash it with the right HM.
@@ -5289,7 +5287,7 @@ Un Pokéfan
 Greymoose Bighouse
 Greuymoose - Grande Maison
 A Poké Fan is sad that he doesn't have a cute Pokémon like his friends. Catch a Cherubi on Route 11 and give it to him.
-Un Pokéfan est triste de ne pas avoir, comme ses amis, un Pokémon mignon. Capturez un Ceribou sur la Route 11 et offrez-lui.
+Un Pokéfan est triste de ne pas avoir, comme ses amis, un Pokémon mignon. Ca^pturez un Ceribou sur la Route 11 et offrez-lui.
 Soothe Bell
 Grelot Zen
 Lend an Elgyem
@@ -5321,8 +5319,8 @@ Test
 debug
 debug
 Heh! Now I understand what Samy sees in you!
-Heh ! Maintenant je comprends ce que Samy voit en toi !
+Heh! Now I understand what Samy sees in you!
 Show me you deserve my rank 3!
-Montre-moi que tu mérites mon rang 3 !
+Show me you deserve my rank 3!
 Rewards :<br> For each ♥ level, gain a random rock starter
-Récompenses :<br> Pour chaque niveau-♥, gagnez un starter Roche aléatoire
+Rewards :<br>  For each ♥ level, gain a random rock starter  

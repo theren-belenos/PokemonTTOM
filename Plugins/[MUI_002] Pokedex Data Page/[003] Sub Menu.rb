@@ -506,10 +506,7 @@ class PokemonPokedexInfo_Scene
     end
     pbDrawImagePositions(overlay, imagepos)
     pbDrawTextPositions(overlay, textpos)
-	base2    = Color.new(88, 88, 80)
-    shadow2  = Color.new(168, 184, 184)
-    drawFormattedTextEx(overlay, 34, 294, 446, _INTL("<fs=24>{1}</fs>", data_text), base2, shadow2, 24)
-    #drawFormattedTextEx(overlay, 34, 294, 446, _INTL("{1}", data_text))
+    drawFormattedTextEx(overlay, 34, 294, 446, _INTL("{1}", data_text))
   end
   
   #-----------------------------------------------------------------------------
@@ -666,9 +663,6 @@ class PokemonPokedexInfo_Scene
     else
       data_text = DATA_TEXT_TAGS[0] + _INTL("Return to species data.")
     end
-	base2    = Color.new(88, 88, 80)
-    shadow2  = Color.new(168, 184, 184)
-    drawFormattedTextEx(overlay, 34, 294, 446, _INTL("<fs=24>{1}</fs>", data_text), base2, shadow2, 24)
-    #drawFormattedTextEx(overlay, 34, 294, 446, _INTL("{1}", data_text))
+    drawFormattedTextEx(overlay, 34, 294, 446, _INTL("{1}", data_text))
   end
 end

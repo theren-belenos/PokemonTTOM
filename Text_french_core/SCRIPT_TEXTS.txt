@@ -3933,7 +3933,7 @@ Merci de votre visite.
 Please visit us again when you have saved up more BP.
 Revenez nous voir lorsque vous aurez économisé plus de PCo.
 Teach which move?
-Apprendre capacité ?
+Apprendre quelle capacité ?
 Teach {1}?
 Apprendre {1} ?
 Give up trying to teach a new move to {1}?

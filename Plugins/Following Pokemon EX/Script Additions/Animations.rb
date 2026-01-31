@@ -48,7 +48,6 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     @idxOrder       = idxOrder
     @trainer        = @battler.battle.pbGetOwnerFromBattlerIndex(@battler.index)
     @shadowVisible  = sprites["shadow_#{battler.index}"].visible
-	puts @shadowVisible
     @sprites        = sprites
     @viewport       = viewport
     @pictureEx      = []   # For all the PictureEx
@@ -57,9 +56,7 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     @animDone       = false
     if FollowingPkmn.active? && startBattle &&
        battler.index == 0 && FollowingPkmn::SLIDE_INTO_BATTLE
-	   puts "hello"
-       createFollowerProcesses
-	   
+      createFollowerProcesses
     else
       createProcesses
     end
@@ -70,10 +67,7 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     delay = 5 if @showingTrainer
     batSprite = @sprites["pokemon_#{@battler.index}"]
     shaSprite = @sprites["shadow_#{@battler.index}"]
-	puts "shadow_#{@battler.index}"
-	puts @sprites["shadow_1"]
-	@sprites["shadow_1"].visible = true
-    #batSprite.y
+    batSprite.y
     battler = addSprite(batSprite, PictureOrigin::BOTTOM)
     battler.setVisible(delay, true)
     battler.setZoomXY(delay, 100, 100)
@@ -82,14 +76,10 @@ class Battle::Scene::Animation::PokeballPlayerSendOut < Battle::Scene::Animation
     battler.moveDelta(delay, 12, 240, 0)
     battler.setCallback(delay + 12, [batSprite,:pbPlayIntroAnimation])
     if @shadowVisible
-		puts delay
       shadow = addSprite(shaSprite, PictureOrigin::CENTER)
       shadow.setVisible(delay, @shadowVisible)
       shadow.setDelta(0, -Graphics.width/2, 0)
       shadow.setDelta(delay, 12, Graphics.width/2, 0)
-	  shaSprite.visible = true
-	  puts shadow
-	  shadowAppear(@battler, 5)
     end
   end
 end

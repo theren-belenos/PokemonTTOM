@@ -196,10 +196,10 @@ Vous recevez un oeuf !
 <b>\c[2]Tom:</b>\c[0] Et je pense que \pn est trop occupé avec son job de Leader, à monter de rang, et à reconstruire sa ville, pour trouver quoi que ce soit.
 <b><c3=BDA46A,736440>Samy:</b></c3> Hmm, I can try to find more but won't that upset the League? Shouldn't we try to stay low here?
 <b><c3=BDA46A,736440>Samy:</b></c3> Hmm, je pourrais essayer d’enquêter mais ça risque pas d’éveiller les soupçons ? On devrait pas faire profil bas ?
-<b>\c[2]Tom:</b>\c[0] You're not a League employee but it's true you're kinda "associated" with me now.
-<b>\c[2]Tom:</b>\c[0] T'es pas un employé de la Ligue, mais c'est vrai que t'es en quelque sorte "associé" à moi maintenant.
-<b>\c[2]Tom:</b>\c[0] To be really safe maybe you need a good reason to be in \tn...
-<b>\c[2]Tom:</b>\c[0] Pour être vraiment prudent peut-être que tu as besoin d'une bonne raison pour être à \tn...
+<b>\c[2]Tom:</b>\c[0] It’s not like you work for the league,
+<b>\c[2]Tom:</b>\c[0] It’s not like you work for the league,
+but that’s true that you are “affiliated” to me now… <b>\c[2]Tom:</b>\c[0] Maybe if you have a good reason to be in \tn, we would be completely safe...
+but that’s true that you are “affiliated” to me now… <b>\c[2]Tom:</b>\c[0] Maybe if you have a good reason to be in \tn, we would be completely safe...
 <b><c3=BDA46A,736440>Samy:</b></c3> Ha! You're looking for another trainer in your Gym? But that's perfect!
 <b><c3=BDA46A,736440>Samy:</b></c3> Ha ! Tu cherches un autre dresseur pour ton Arène ! Mais c’est parfait !
 <b><c3=BDA46A,736440>Samy:</b></c3> I would have a good excuse AND a really good job!

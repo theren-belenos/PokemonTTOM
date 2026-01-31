@@ -421,7 +421,7 @@ Vous êtes sûr ?
 <b>\c[10]Maple:</b>\c[0] These are the reasons why we need more fame in order to have more constructions availables.
 <b>\c[10]Maple:</b>\c[0] Voilà les raisons expliquant pourquoi nous avons besoin de Fame pour avoir plus de tâches disponibles.
 <b>\c[10]Maple:</b>\c[0] You will be able to up the Town's fame when the Gym open. For now let's check what's available.
-<b>\c[10]Maple:</b>\c[0] Tu pourrais améliorer la Fame de la ville quand l’Arène ouvrira. Pour l’instant regardons ce qui est disponible.
+<b>\c[10]Maple:</b>\c[0] Tu pourrais améliorer la Fame de la ville quand l’Arène ouvrira. pour l’instant regardons ce qui est disponible.
 \wm<b>\c[10]Maple:</b>\c[0] Each node represent a construction or upgrade for the Town.
 \wm<b>\c[10]Maple:</b>\c[0] Chaque carré représente une construction ou une amélioration pour la ville.
 \wm<b>\c[10]Maple:</b>\c[0] The icons give you a hint of what is the node, and if you place your cursor on it, you have infos at the bottom of the screen.

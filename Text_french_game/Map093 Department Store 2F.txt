@@ -3,6 +3,6 @@
 #-------------------------------
 [Map093]
 <b>Hiker:</b> Always have an escape rope with you while exploring caves!
-<b>Montagnard:</b> Toujours avoir une Corde Sortie avec soi quand on explore une grotte !
+<b>Hiker:</b> Always have an escape rope with you while exploring caves!
 There is only trash in there.
 Il n’y a que des déchets là-dedans.

@@ -1,4 +1,4 @@
-﻿# Regardez la documentation sur le wiki pour savoir comment modifier ce fichier.
+﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [BULBASAUR]
 BackSprite = 0,0
@@ -6568,8 +6568,8 @@ ShadowSprite = 0,6,23
 #-------------------------------
 [MOTHEON]
 BackSprite = 0,0
-FrontSprite = 0,3
-ShadowSprite = 0,-12,5
+FrontSprite = 0,0
+ShadowSprite = 0,0,0
 #-------------------------------
 [SAWSBUCK,3]
 BackSprite = 0,0

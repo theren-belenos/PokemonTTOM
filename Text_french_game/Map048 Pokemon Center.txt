@@ -103,13 +103,13 @@ Vous avez déjà offert un cadeaux aux infirmières cette semaine !
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
 <b>Jason:</b> Hello \pn! Will you play with me sometime?
-<b>Jason:</b> Salut \pn ! Tu viendras jouer avec moi ?
+<b>Jason:</b> Hello \pn! Will you play with me sometime?
 <b>Happiny:</b> Pibilipibili !!!
 <b>Ptiravi:</b> Pibilipibili !!!
 Happiny seems really happy to hang out on top of the counter!
 Ptiravi a l’air très content de se balader sur le comptoir !
 <b>Daniel:</b> Hello \pn, have a bright day!
-<b>Daniel:</b> Bonjour \pn, passe une bonne journée !
+<b>Daniel:</b> Hello \pn, have a bright day!
 <b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go to the upper part for now.
 <b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas aller à l’étage pour le moment.
 Yes

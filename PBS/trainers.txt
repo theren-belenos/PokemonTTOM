@@ -562,7 +562,7 @@ Pokemon = SWIRLIX,23
 LoseText = So blazing!
 Pokemon = DUCKLETT,23
 Pokemon = GOLDEEN,24
-Pokemon = CORSOLA,25
+Pokemon = MILOTIC,24
 
 [ROLLERSKATERFEMALE,Rebecca]
 LoseText = Battling you is even harder!
@@ -633,7 +633,7 @@ Pokemon = CORSOLA,26
 LoseText = You don't seem to need training!
 Pokemon = GOLDEEN,25
 Pokemon = FINNEON,26	
-Pokemon = PELIPPER,26	
+Pokemon = MILOTIC,26	
 
 #-------------------------------------------------------------
 #
@@ -671,7 +671,6 @@ Items = MEGARING
 LoseText = ...
 Pokemon = STEELEON,70
 	Item = ROCKYHELMET
-	Moves = BODYSLAM,METALBURST,COUNTER,PAYBACK
 Pokemon = MAGNEZONE,70
 	Item = AIRBALLOON
 Pokemon = METAGROSS,70
@@ -682,7 +681,6 @@ Items = MEGARING
 LoseText = ...
 Pokemon = FLAREON,70
 	Item = LIFEORB
-	Moves = GIGAIMPACT,FIRESPIN,FLAREBLITZ,TAKEDOWN
 Pokemon = VOLCARONA,70
 	Item = LEFTOVERS
 Pokemon = CAMERUPT,70

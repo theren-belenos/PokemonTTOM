@@ -12,10 +12,6 @@
 <b>Vendeuse:</b> Comment vas-tu \pn ? J’ai vraiment hâte de notre réouverture !
 <b>Student:</b> Can't wait to learn everything about Pokémon battles!!
 <b>Etudiante:</b> J'ai hâte de tout apprendre sur les combats Pokémon !!
-<b>\c[9]Melly:</b>\c[0] The weekend is nice! H...how do you spend it \pn?
-<b>\c[9]Melly:</b>\c[0] The weekend is nice! H...how do you spend it \pn?
-You already gave a gift to Melly this week!
-You already gave a gift to Melly this week!
 You should search for <b>\c[9]Melly</b>\c[0] at the Route 1 first.
 Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
 <b>Student:</b> Haha! Let’s go guys!
@@ -181,7 +177,7 @@ Elder: I have better hats now! Do you want to see?
 <b>Tourist:</b> I wonder what the Leader is like...
 <b>Touriste:</b> Je me demande à quoi ressemble le Champion...
 <b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
-<b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
+<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
 <b>Gardener:</b> Taking care of all the flowers and bushes is hard work!
 <b>Jardinier:</b> S'occuper de toutes les fleurs et des buissons n'est pas un travail facile !
 Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
@@ -237,9 +233,9 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 \c[9]Hairdresser: I know more hairstyles now. Wanna try?
 \c[9]Hairdresser: I know more hairstyles now. Wanna try?
 <b>Student:</b> Ha! Take this!
-<b>Student:</b> Ha ! Prends ça !
+<b>Student:</b> Ha! Take this!
 <b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
-<b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au limieu d'un combat là...
+<b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
 <b>Man:</b> Is there good trainers around here ?
 <b>Homme:</b> Il y a des bons dresseurs dans le coin ?
 <b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
@@ -252,14 +248,6 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 <b>Etudiant:</b> Oh salut, mon nom est Justine, désolée je suis occupée !
 <b>Student:</b> Justine Cruz now let me be please!
 <b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
-Quest
-Quest
-Give gift
-Give gift
-Spend time
-Spend time
-Say goodbye
-Say goodbye
 What's your name?
 Comment tu t'appelles ?
 Bye

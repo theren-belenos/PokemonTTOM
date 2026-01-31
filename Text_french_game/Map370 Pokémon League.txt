@@ -3,11 +3,11 @@
 #-------------------------------
 [Map370]
 <b>Kid:</b> Mommy! I wanna challenge the league!
-<b>Enfant:</b> Maman ! Je veux faire la Ligue !
+<b>Enfant:</b> Maman ! Je veux faire la League !
 <b>Elder:</b> I say, no good trainer these days!
 <b>Papy:</b> Moi je dis, ya plus aucun bon dresseur de nos jours !
 <b>Boy:</b> Dear little sister, you don't even have Pokémons yet! You can't challenge the league!
-<b>Garçon:</b> Chère petite soeur, tu n’as même pas de Pokémon ! Tu peux pas défier la Ligue !
+<b>Garçon:</b> Chère petite soeur, tu n’as même pas de Pokémon ! Tu peux pas défier la League !
 <b>Employee:</b> Hello. The room behind me is currently serving as a replacement for the \gt Gym.
 <b>Employé:</b> Bonjour. La salle derrière moi sert d’Arène \gt de remplcament.
 <b>Employee:</b> I heard you'll be the \gt Leader? Congratulations!

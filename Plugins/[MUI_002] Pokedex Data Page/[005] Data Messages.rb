@@ -38,9 +38,7 @@ class PokemonPokedexInfo_Scene
         text << _INTL("Unknown.")
       end
     end
-	base2    = Color.new(88, 88, 80)
-    shadow2  = Color.new(168, 184, 184)
-    drawFormattedTextEx(overlay, 34, 294, 446, _INTL("<fs=24>{1}</fs>", text), base2, shadow2, 24)
+    drawFormattedTextEx(overlay, 34, 294, 446, _INTL("{1}", text))
   end
   
   
