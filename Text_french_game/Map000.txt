@@ -389,7 +389,7 @@ Vous n'avez rien à dire à Kathleen concernant des quêtes (1).
 <b>Kathleen:</b> This time I will go all out! My Pokémon will be around level 60!
 <b>Kathleen:</b> Cette fois j'y vais à fond ! Mes Pokémon seront environ niveau 60 !
 <b>Kathleen:</b> Wowie! You're definitely super ultra mega strong!!!
-<b>Kathleen:</b> Wowie ! T'es définitivement super ultra mega tro fort !!!
+<b>Kathleen:</b> Wowie ! T'es définitivement super ultra mega trop fort !!!
 You can't spend time now: it's not the Weekend or Wednesday!
 Impossible de passer du temps : ce n'est ni le Weekend ni Mercredi !
 Do you want to spend time with Prof Maple? <b>Warning: The weekend or wednesday will be over!</b>

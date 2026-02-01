@@ -183,9 +183,9 @@ Votre Arène est maintenant rang 2 !
 <b>Kathleen:</b> What? No I don't mind this much to go back to rank 1.
 <b>Kathleen:</b> Quoi ? Non ça ne me dérange pas tant que ça de retourner rang 1.
 <b>Kathleen:</b> Actually, it was my favorite spot because I can teach young trainers about Bug Pokémons evolving early.
-<b>Kathleen:</b> En fait c’est ma position préférée car je peux parler aux jeunes dresseurs des pokémon insectes qui évoluent tôt.
+<b>Kathleen:</b> En fait c’est ma position préférée car je peux parler aux jeunes dresseurs des Pokémon insectes qui évoluent tôt.
 <b>Kathleen:</b> I will miss being able to have Vespiqueen in my Gym fights tho... But it's okay!
-<b>Kathleen:</b> Je pourrai plus utiliser Apireine dans les combats d’Arène par contre… Mais c’est ok !
+<b>Kathleen:</b> Je ne pourrai plus utiliser Apireine dans les combats d’Arène par contre… Mais c’est ok !
 <b>Kathleen:</b> Well good luck for your rank climb! Next is the Normal Gym in Grey Moose right? Piece of cake for you!
 <b>Kathleen:</b> Eh bien bonne chance pour la montée de rang ! Après c’est l’Arène Normal à Greymoose non ? Un jeu d’enfant pour toi !
 <b>Kathleen:</b> Well good luck for your rank climb! Next is Cassian's Rock Gym, right? Piece of cake for you!
@@ -233,7 +233,7 @@ Votre Arène est maintenant rang 3 !
 <b>Cassian:</b> Have a nice day \pn, we will see each other again for sure!
 <b>Cassian:</b> Passe une bonne journée \pn, on se reverra vite pour sûr !
 <b>Cassian:</b> See you!
-<b>Cassian:</b> A plus
+<b>Cassian:</b> A plus !
 Dev note: End of current build. Please wait for the next update!
 Dev note : Fin du build actuel. Merci d'attendre la prochaine update !
 <b>Cassian:</b> No pressure, I wait here.

@@ -11,7 +11,7 @@
 <b>Policeman:</b> Anyway, you're free to go! Thanks for your help!
 <b>Policier:</b> En tout cas, vous pouvez y aller ! Merci pour votre aide !
 <b>Policeman:</b> What? You're sent by the Bug Leader to help Samy? Well okay then, go on! Thanks for your help!
-<b>Policier:</b> Quoi ? Vous êtes envoyés par le Leader Roche pour aider Samy ? Ok alors, allez-y ! Merci pour votre aide !
+<b>Policier:</b> Quoi ? Vous êtes envoyés par le Leader Insecte pour aider Samy ? Ok alors, allez-y ! Merci pour votre aide !
 <b>Policeman:</b> Be careful citizen, part of the grotto wall ahead was destroyed by the seism.
 <b>Policier:</b> Soyez prudent citoyen, une partie du mur de la grotte droit devant a été détruit par le séisme.
 <b>Scientist:</b> So marvelous!

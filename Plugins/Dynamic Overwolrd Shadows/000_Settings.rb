@@ -34,7 +34,7 @@ module ZBox_Shadows
   # Sync reflections with shadow shape?
   # If true, the reflections in the water will have the same  
   # squash effect as the Enhanced shadow..
-  SYNC_REFLECTION_SQUASH = true
+  SYNC_REFLECTION_SQUASH = false
 
   # Default shadow radius (in pixels) for BASIC/STANDARD mode.
   DEFAULT_RADIUS = 15
@@ -179,7 +179,7 @@ module ZBox_Shadows
     "cuttree", "arbolcorte", "headbutttree", "arbolgolpecabeza",
     "berryplant", "plantabayas", "item", "pannel",
     ".sl", ".noshadow", "no_shadow", "healing", "ComputerPC",
-	"ExchangeIcon", "indicator"
+	"ExchangeIcon", "indicator", "Quest"
   ]
 
   # Terrain Tags where the shade should be eliminated.
