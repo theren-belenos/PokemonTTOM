@@ -97,7 +97,7 @@ module QuestModule
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Gain access to the Daycare"),
 		:Location1 => "/",
-		:QuestDescription => _INTL('Complete the city task n°13 : "Clearing - Town exteriors" to get access to the Daycare.'),
+		:QuestDescription => _INTL("Complete the city task n°13 : 'Clearing - Town exteriors' to get access to the Daycare."),
 		:RewardString => ""
 	}
 	

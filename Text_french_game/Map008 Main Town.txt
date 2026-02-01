@@ -110,6 +110,8 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 \c[5]Lady: I have better clothes now! Do you want to see it?
 \c[3]WIP : clothes store lvl2
 \c[3]WIP : clothes store lvl2
+\pn received the Pokegear!
+\pn received the Pokegear!
 <b>Tourist:</b> I’m thirsty! Can’t we drink something in this city??
 <b>Touriste:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!
@@ -164,8 +166,6 @@ Elder: I have better hats now! Do you want to see?
 Elder: I have better hats now! Do you want to see?
 \c[3]WIP: hats store lvl2
 \c[3]WIP: hats store lvl2
-<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
-<b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
 \c[5]\Beauty: Hello dear~
 \c[5]\Beauty: Hello dear~
 \c[5]\Beauty: I can take care of one of your pokémon for a mere price~
@@ -182,24 +182,26 @@ Elder: I have better hats now! Do you want to see?
 <b>Touriste:</b> Donc voici l'arène \gt hein ?
 <b>Tourist:</b> I wonder what the Leader is like...
 <b>Touriste:</b> Je me demande à quoi ressemble le Champion...
+<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
+<b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
 <b>Gardener:</b> Taking care of all the flowers and bushes is hard work!
 <b>Jardinier:</b> S'occuper de toutes les fleurs et des buissons n'est pas un travail facile !
-<b>Rose:</b> \pn you’re it! Hehehe!
-<b>Rose:</b> \pn c'est toi le loup ! Hihihihi !
+Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
+Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
+Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
+Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
+\c[3]WIP (donner grelot zen)
+\c[3]WIP (donner grelot zen)
+\c[3]WIP
+\c[3]WIP
+Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
+Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 <b>Woman:</b> Oh ! The Day-Care is reachable again !
 <b>Femme:</b> Oh ! La Pension est de nouveau accessible !
 <b>Woman:</b> Should I take some of my Pokémon there ?
 <b>Femme:</b> Est-ce que je devrais y laisser des Pokémons ?
-Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
-Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
-\c[3]WIP (donner grelot zen)
-\c[3]WIP (donner grelot zen)
-\c[3]WIP
-\c[3]WIP
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
+<b>Rose:</b> \pn you’re it! Hehehe!
+<b>Rose:</b> \pn c'est toi le loup ! Hihihihi !
 <b>Student:</b> Hiiii! I love to chill outside!
 <b>Etudiant:</b> Saluuuut ! J'adore me relaxer au soleil !
 <b>Student:</b> Isn’t flowers beautiful???
@@ -222,36 +224,36 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 <b>Etudiant:</b> T'as perdu la tête ?
 <b>Student:</b> I don’t have it !
 <b>Etudiant:</b> Je ne l'ai pas !
-\c[9]Hairdresser: Hello child, I'm the hairdresser.
-\c[9]Hairdresser: Hello child, I'm the hairdresser.
-\c[9]Hairdresser: Do you want me to change your hair?
-\c[9]Hairdresser: Do you want me to change your hair?
-\c[3]WIP : Hairs
-\c[3]WIP : Hairs
-\c[9]Hairdresser: I'm here if you change your mind.
-\c[9]Hairdresser: I'm here if you change your mind.
-\c[9]Hairdresser: I know more hairstyles now. Wanna try?
-\c[9]Hairdresser: I know more hairstyles now. Wanna try?
 <b>Roger:</b> Hey \pn how are you?
 <b>Roger:</b> Hey \pn comment tu vas ?
 <b>Roger:</b> Better with your house built again I bet!
 <b>Roger:</b> Mieux depuis que ta maison a été reconstruite je parie !
+\c[9]Hairdresser: Hello child, I'm the hairdresser.
+\c[9]Hairdresser: Hello child, I'm the hairdresser.
+\c[9]Hairdresser: Do you want me to change your hair?
+\c[9]Hairdresser: Do you want me to change your hair?
+\c[3]WIP : Hairs
+\c[3]WIP : Hairs
+\c[9]Hairdresser: I'm here if you change your mind.
+\c[9]Hairdresser: I'm here if you change your mind.
+\c[9]Hairdresser: I know more hairstyles now. Wanna try?
+\c[9]Hairdresser: I know more hairstyles now. Wanna try?
 <b>Student:</b> Ha! Take this!
 <b>Student:</b> Ha ! Prends ça !
 <b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
 <b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au limieu d'un combat là...
-<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
-<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
 <b>Man:</b> Is there good trainers around here ?
 <b>Homme:</b> Il y a des bons dresseurs dans le coin ?
+<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
+<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
+^ Route 1\n< Route 2\n
+^ Route 1\n< Route 2\n
 <b>Student:</b> I’m not done yet!
 <b>Etudiant:</b> J'ai pas encore perdu !
 <b>Student:</b> Oh hi, my name is Justine, sorry I’m busy!
 <b>Etudiant:</b> Oh salut, mon nom est Justine, désolée je suis occupée !
 <b>Student:</b> Justine Cruz now let me be please!
 <b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
-^ Route 1\n< Route 2\n
-^ Route 1\n< Route 2\n
 Quest
 Quest
 Give gift

@@ -54,28 +54,6 @@ TODO: RequestBoard
 <b>\c[5]Infirmière:</b>\c[0] Il y a encore besoin de réparations.
 TODO: ProfChallenges
 TODO: ProfChallenges
-<b>\c[5]Nurse:</b>\c[0] Oh! Come here sweetie~
-<b>\c[5]Infirmière:</b>\c[0] Oh ! Viens voir mon trésor~
-<b>\c[5]Nurse:</b>\c[0] Us nurses want to help you on your mission!
-<b>\c[5]Infirmière:</b>\c[0] Nous les infirmières voulons t’aider dans ta mission !
-<b>\c[5]Nurse:</b>\c[0] We have a very special gift for you~
-<b>\c[5]Infirmière:</b>\c[0] Nous avons un cadeau très spécial pour toi~
-<b>\c[5]Nurse:</b>\c[0] The Life Vial can heal and revive all of your Pokémons even when you're out in the wild!
-<b>\c[5]Infirmière:</b>\c[0] La Fiole de Vie peut soigner complètement tous tes Pokémon lorsque tu es en voyage !
-<b>\c[5]Nurse:</b>\c[0] Isn't it marvelous?
-<b>\c[5]Infirmière:</b>\c[0] N’est-ce pas fabuleux ?
-<b>\c[5]Nurse:</b>\c[0] To use it, go to your bag's key items pocket.
-<b>\c[5]Infirmière:</b>\c[0] Pour l’utiliser, va dans la poche d’objets clés de ton sac.
-<b>\c[5]Nurse:</b>\c[0] You can also register it like a rod or a bicycle to use it with the quick menu.
-<b>\c[5]Infirmière:</b>\c[0] Tu peux aussi l’enregistrer pour l’utiliser dans le menu rapide, comme pour une canne ou un vélo.
-<b>\c[5]Nurse:</b>\c[0] You can access the quick menu with the SPECIAL button (default : D)
-<b>\c[5]Infirmière:</b>\c[0] Tu peux accéder au menu rapide avec le bouton SPECIAL (par défaut : D)
-<b>\c[5]Nurse:</b>\c[0] You can only use it once for now, but maybe if we get to know you better, we could try to improve it..
-<b>\c[5]Infirmière:</b>\c[0] Tu ne peux l’utiliser qu’une seule fois pour le moment, mais si on apprend à mieux se connaître, on pourrait essayer de l’améliorer…
-<b>\c[5]Nurse:</b>\c[0] To replenish it, just go heal your Pokémons in any Pokémon Center!
-<b>\c[5]Infirmière:</b>\c[0] Pour la remplir, va juste soigner tes Pokémon dans n’importe quel Centre Pokémon !
-<b>\c[5]Nurse:</b>\c[0] We hope you enjoy your gift, see you soon~
-<b>\c[5]Infirmière:</b>\c[0] On espère que tu apprécieras ton cadeau, à bientôt~
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, bienvenue au Centre Pokémon.
 <b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
@@ -100,16 +78,38 @@ Vous avez déjà offert un cadeaux aux infirmières cette semaine !
 <b>\c[5]Infirmière:</b>\c[0] Tes Pokémon sont en pleine forme.
 <b>\c[5]Nurse:</b>\c[0] Take care sweetie!
 <b>\c[5]Infirmière:</b>\c[0] Sois prudent trésor !
-<b>Skitty:</b> Skiiiiii!
-<b>Skitty:</b> Skiiiiii!
+<b>\c[5]Nurse:</b>\c[0] Oh! Come here sweetie~
+<b>\c[5]Infirmière:</b>\c[0] Oh ! Viens voir mon trésor~
+<b>\c[5]Nurse:</b>\c[0] Us nurses want to help you on your mission!
+<b>\c[5]Infirmière:</b>\c[0] Nous les infirmières voulons t’aider dans ta mission !
+<b>\c[5]Nurse:</b>\c[0] We have a very special gift for you~
+<b>\c[5]Infirmière:</b>\c[0] Nous avons un cadeau très spécial pour toi~
+<b>\c[5]Nurse:</b>\c[0] The Life Vial can heal and revive all of your Pokémons even when you're out in the wild!
+<b>\c[5]Infirmière:</b>\c[0] La Fiole de Vie peut soigner complètement tous tes Pokémon lorsque tu es en voyage !
+<b>\c[5]Nurse:</b>\c[0] Isn't it marvelous?
+<b>\c[5]Infirmière:</b>\c[0] N’est-ce pas fabuleux ?
+<b>\c[5]Nurse:</b>\c[0] To use it, go to your bag's key items pocket.
+<b>\c[5]Infirmière:</b>\c[0] Pour l’utiliser, va dans la poche d’objets clés de ton sac.
+<b>\c[5]Nurse:</b>\c[0] You can also register it like a rod or a bicycle to use it with the quick menu.
+<b>\c[5]Infirmière:</b>\c[0] Tu peux aussi l’enregistrer pour l’utiliser dans le menu rapide, comme pour une canne ou un vélo.
+<b>\c[5]Nurse:</b>\c[0] You can access the quick menu with the SPECIAL button (default : D)
+<b>\c[5]Infirmière:</b>\c[0] Tu peux accéder au menu rapide avec le bouton SPECIAL (par défaut : D)
+<b>\c[5]Nurse:</b>\c[0] You can only use it once for now, but maybe if we get to know you better, we could try to improve it..
+<b>\c[5]Infirmière:</b>\c[0] Tu ne peux l’utiliser qu’une seule fois pour le moment, mais si on apprend à mieux se connaître, on pourrait essayer de l’améliorer…
+<b>\c[5]Nurse:</b>\c[0] To replenish it, just go heal your Pokémons in any Pokémon Center!
+<b>\c[5]Infirmière:</b>\c[0] Pour la remplir, va juste soigner tes Pokémon dans n’importe quel Centre Pokémon !
+<b>\c[5]Nurse:</b>\c[0] We hope you enjoy your gift, see you soon~
+<b>\c[5]Infirmière:</b>\c[0] On espère que tu apprécieras ton cadeau, à bientôt~
 <b>Jason:</b> Hello \pn! Will you play with me sometime?
 <b>Jason:</b> Salut \pn ! Tu viendras jouer avec moi ?
+<b>Skitty:</b> Skiiiiii!
+<b>Skitty:</b> Skiiiiii!
+<b>Daniel:</b> Hello \pn, have a bright day!
+<b>Daniel:</b> Bonjour \pn, passe une bonne journée !
 <b>Happiny:</b> Pibilipibili !!!
 <b>Ptiravi:</b> Pibilipibili !!!
 Happiny seems really happy to hang out on top of the counter!
 Ptiravi a l’air très content de se balader sur le comptoir !
-<b>Daniel:</b> Hello \pn, have a bright day!
-<b>Daniel:</b> Bonjour \pn, passe une bonne journée !
 <b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go to the upper part for now.
 <b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas aller à l’étage pour le moment.
 Yes

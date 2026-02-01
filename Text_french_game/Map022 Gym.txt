@@ -382,6 +382,8 @@ Are you sure ?
 Vous êtes sûr ?
 (after the explanations...)
 (après les explications...)
+\pn received the Pokegear!
+\pn reçoit le Pokegear!
 <b>\c[10]Maple:</b>\c[0] We have two main things to discuss: the Gym, and the reconstruction of the city.
 <b>\c[10]Maple:</b>\c[0] Nous avons deux sujets à aborder : l’Arène, et la reconstruction de la ville.
 <b>\c[10]Maple:</b>\c[0] Firstly, in order to reopen the Gym, we need the permission from the League.
@@ -400,8 +402,6 @@ Vous êtes sûr ?
 <b>\c[10]Maple:</b>\c[0] Passons au second sujet, parlons de la reconstruction de la ville.
 <b>\c[10]Maple:</b>\c[0] First, you need this.
 <b>\c[10]Maple:</b>\c[0] Tout d’abord, tu as besoin de ça.
-\pn received the Pokegear!
-\pn reçoit le Pokegear!
 <b>\c[10]Maple:</b>\c[0] Among a few other things, the Pokegear let's you access the Town Development screen.
 <b>\c[10]Maple:</b>\c[0] Entre autres, le Pokegear te donne accès à l’écran du développement de la ville.
 <b>\c[10]Maple:</b>\c[0] Here, let me show you.

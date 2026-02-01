@@ -2841,7 +2841,7 @@ Impossible de choisir deux fois le même Pokémon !
 Tom
 Tom
 Nekanta League ?
-League de Nekanta ?
+Ligue de Nekanta ?
 Rewards :<br> For each ♥ level,<br>gain a random Steel starter
 Récompenses :<br>  Pour chaque niveau-♥,<br>gagnez un starter Acier aléatoire
 Rewards :<br> For each ♥ level,<br>gain a random Fire starter
@@ -3327,9 +3327,9 @@ Votre Fiole de Vie peut maintenant être utilisée {1} fois !
 <b>\c[9]Melly:</b>\c[0] I really l-like spending time with y-you!
 <b>\c[9]Melly:</b>\c[0] J’aime vraiment passer du temps avec toi !
 <b>\c[9]Melly:</b>\c[0] I-I will do my best to be b-better at the League, I promise you!
-<b>\c[9]Melly:</b>\c[0] Je vais faire de mon mieux pour m’améliorer à la League, promis !
+<b>\c[9]Melly:</b>\c[0] Je vais faire de mon mieux pour m’améliorer à la Ligue, promis !
 Melly's chances to win in the League improved!
-Les chances de victoire de Melly à la League augmentent !
+Les chances de victoire de Melly à la Ligue augmentent !
 Speak to Marley for detailed winning percentages.
 Parlez à Marley pour avoir les pourcentages de victoire complets.
 <b>\c[9]Melly:</b>\c[0] And e-ehm..., p-please accept this!
@@ -3357,7 +3357,7 @@ Les chances de victoire de Melly dans l’arène augmentent !
 <b><c3=BDA46A,736440>Samy:</b></c3> I'll improve my performances as an Elite 4 member, rest assured! Haha!
 <b><c3=BDA46A,736440>Samy:</b></c3> J’vais améliorer mes performances en tant que membre du Conseil 4, t’en fais pas va ! Haha !
 Samy's chances to win in the League improved!
-Les chances de victoire de Samy à la League augmentent !
+Les chances de victoire de Samy à la Ligue augmentent !
 <b><c3=BDA46A,736440>Samy:</b></c3> And I also wanted to give you this!
 <b><c3=BDA46A,736440>Samy:</b></c3> Et j’voulais aussi te donner ça !
 <b><c3=BDA46A,736440>Samy:</b></c3> I can't give you more {1} starters tho!
@@ -3385,11 +3385,11 @@ Les chances de victoire de Samy dans l’arène augmentent !
 <b>\c[4]Kiana:</b>\c[0] You're okay... But far from my level of course!
 <b>\c[4]Kiana:</b>\c[0] T’es ok… mais loin de mon niveau bien sur !
 <b>\c[4]Kiana:</b>\c[0] Don't worry, I will improve at the League.
-<b>\c[4]Kiana:</b>\c[0] Ne t’inquiète pas, je vais m’améliorer à la League..
+<b>\c[4]Kiana:</b>\c[0] Ne t’inquiète pas, je vais m’améliorer à la Ligue..
 <b>\c[4]Kiana:</b>\c[0] Without me we would be a ridiculous Elite 4 anyway!
 <b>\c[4]Kiana:</b>\c[0] Sans moi, ce Conseil 4 serait ridicule de toute façon !
 Kiana's chances to win in the League improved!
-Les chances de victoire de Kiana à la League augmentent !
+Les chances de victoire de Kiana à la Ligue augmentent !
 Speak to Marley for detailed winning percentages
 Parlez à Marley pour avoir les pourcentages de victoire complets.
 <b>\c[4]Kiana:</b>\c[0] And e-ehm..., it's not like I want to give you a gift...
@@ -3427,7 +3427,7 @@ Les chances de victoire de Kiana dans l’arène augmentent !
 <b>\c<<[>>2<<]>>\<<r>>n:</b>\c<<[>>0<<]>> I will improve as the Elite 4 best member, you'll see!
 <b>\c<<[>>2<<]>>\<<r>>n:</b>\c<<[>>0<<]>>Je vais m’améliorer en tant que chef du Conseil 4, tu verras !
 \<<r>>n chances to win in the League improved!
-Les chances de victoire de \<<r>>n chances à la League augmentent !
+Les chances de victoire de \<<r>>n chances à la Ligue augmentent !
 <b>\c<<[>>2<<]>>\<<r>>n:</b>\c<<[>>0<<]>> Hey, I have something for you pal!
 <b>\c<<[>>2<<]>>\<<r>>n:</b>\c<<[>>0<<]>> Hey, j’ai quelque chose pour toi poto !
 <b>\c<<[>>2<<]>>\<<r>>n:</b>\c<<[>>0<<]>> I wanted to give you another {1} starters...
@@ -3655,7 +3655,7 @@ Parler au prof Maple
 Center Town
 Ville Centrale
 Travel to the Pokémon League to become a true Gym Leader!
-Voyager vers la League Pokémon pour devenir un vrai champion d’arène !
+Voyager vers la Ligue Pokémon pour devenir un vrai champion d’arène !
 Chapter 3: First week at work
 Chapitre 3 : Première semaine
 Go to sleep
@@ -5340,3 +5340,5 @@ Récompenses :<br> Pour chaque niveau-♥, gagnez un starter Roche aléatoire
 <fs=20>{1}</fs>
 Graphics/Pictures/Tip Cards/Images/
 Graphics/Pictures/Tip Cards/ImagesVF/
+Complete the city task n°13 : 'Clearing - Town exteriors' to get access to the Daycare.
+Terminer la tâche 13 : 'Déblayage - Extérieurs de la ville' pour accéder à la Pension
