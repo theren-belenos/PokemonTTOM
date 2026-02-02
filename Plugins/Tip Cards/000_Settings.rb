@@ -1835,7 +1835,7 @@ module Settings
 			},
 			:TOWNDEV9REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Gain passive fame everyday.\nPassive fame : +3 per week."),
+                :Text => _INTL("Gain passive fame every week.\nPassive fame : +3 per week."),
                 :Background => "bg2",
 			},
 			
@@ -1887,7 +1887,7 @@ module Settings
 			},
 			:TOWNDEV12REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Allows the reconstruction of the house n°1 afterwards."),
+                :Text => _INTL("Allows the reconstruction of the house n°1 (Melly's house) afterwards."),
                 :Background => "bg2",
 			},
 			

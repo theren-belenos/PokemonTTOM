@@ -6,6 +6,8 @@
 <b>Enfant:</b> Maman ! Je veux faire la Ligue !
 <b>Elder:</b> I say, no good trainer these days!
 <b>Papy:</b> Moi je dis, ya plus aucun bon dresseur de nos jours !
+<b>Boy:</b> Dear little sister, you don't even have Pokémons yet! You can't challenge the league!
+<b>Garçon:</b> Chère petite soeur, tu n’as même pas de Pokémon ! Tu peux pas défier la Ligue !
 <b>Employee:</b> Hello. The room behind me is currently serving as a replacement for the \gt Gym.
 <b>Employé:</b> Bonjour. La salle derrière moi sert d’Arène \gt de remplcament.
 <b>Employee:</b> I heard you'll be the \gt Leader? Congratulations!
@@ -14,10 +16,22 @@
 <b>Employé:</b> J’imagine donc que c’en est terminé pour notre pseudo Arène de remplacement…
 <b>Employee:</b> Good luck for your rank up battle, \gt Leader!
 <b>Employé:</b> Bonne chance pour ton Combat de Rang, Leader \gt !
-<b>Boy:</b> Dear little sister, you don't even have Pokémons yet! You can't challenge the league!
-<b>Garçon:</b> Chère petite soeur, tu n’as même pas de Pokémon ! Tu peux pas défier la Ligue !
 <b>Elder:</b> The League Champion isn't even this good tho
 <b>Papy:</b> Le Maître de la Ligue n’est même pas si fort que ça.
+<b>Employee:</b> Hello \gt Leader.
+<b>Employé:</b> Bonjour Leader \gt.
+<b>Employee:</b> Behind me is the rank up battle arena.
+<b>Employé:</b> Derrière moi se trouve l’Arène de Rang.
+<b>Employee:</b> If you wish to have a rank up battle, please talk to the receptionist close to us.
+<b>Employé:</b> Si tu veux provoquer un Combat de Rang, merci de parler à la réceptionniste proche de nous.
+<b>Man:</b> I don't know for which challenge you came here but good luck to you!
+<b>Homme:</b> Je ne sais pas pour quel challenge tu es venu mais bonne chance à toi !
+<b>Man:</b> And if you lose... Just train harder and come back!
+<b>Homme:</b> Et si tu perds… Entraîne toi davantage et reviens !
+<b>Man:</b> Here, take these to help you train better!
+<b>Homme:</b> Tiens, prends ça pour t’aider à t’entraîner !
+<b>Man:</b> If you lose... Just train harder and come back!
+<b>Homme:</b> Si tu perds… Entraîne toi davantage et reviens !
 <b>Employee:</b> Hello. The room behind me is the access for the ultimate challenge : The Nekanta League!
 <b>Employé:</b> Bonjour. La pièce derrière moi permet d’accéder au challenge ultime : la Ligue de Nekanta !
 <b>Employee:</b> Do you wish to challenge the Nekanta League?
@@ -34,36 +48,24 @@ Vous montrez vos badges.
 <b>Employé:</b> Au revoir !
 <b>Employee:</b> Hello! Do you wish to challenge the Nekanta League again?
 <b>Employé:</b> Bonjour ! Veux-tu défier la Ligue de Nekanta de nouveau ?
-<b>Man:</b> I don't know for which challenge you came here but good luck to you!
-<b>Homme:</b> Je ne sais pas pour quel challenge tu es venu mais bonne chance à toi !
-<b>Man:</b> And if you lose... Just train harder and come back!
-<b>Homme:</b> Et si tu perds… Entraîne toi davantage et reviens !
-<b>Man:</b> Here, take these to help you train better!
-<b>Homme:</b> Tiens, prends ça pour t’aider à t’entraîner !
-<b>Man:</b> If you lose... Just train harder and come back!
-<b>Homme:</b> Si tu perds… Entraîne toi davantage et reviens !
-<b>Employee:</b> Hello \gt Leader.
-<b>Employé:</b> Bonjour Leader \gt.
-<b>Employee:</b> Behind me is the rank up battle arena.
-<b>Employé:</b> Derrière moi se trouve l’Arène de Rang.
-<b>Employee:</b> If you wish to have a rank up battle, please talk to the receptionist close to us.
-<b>Employé:</b> Si tu veux provoquer un Combat de Rang, merci de parler à la réceptionniste proche de nous.
-<b>Elder:</b> I could take on all of them if it wasn't for my broken hip!
-<b>Papy:</b> Je pourrais tous les battre facilement si j’avais pas une hanche cassée !
 <b>Trainer:</b> Nekanta League here I come!
 <b>Dresseur:</b> Ligue de Nekanta me voilà !
-<b>Trainer:</b> Man, the Nekanta league is something else...
-<b>Dresseur:</b> Mec, la Ligue de Nekanta c’est quelque chose…
+<b>Elder:</b> I could take on all of them if it wasn't for my broken hip!
+<b>Papy:</b> Je pourrais tous les battre facilement si j’avais pas une hanche cassée !
 There is only trash in there.
 Il n’y a que des déchets là-dedans.
+<b>Trainer:</b> Man, the Nekanta league is something else...
+<b>Dresseur:</b> Mec, la Ligue de Nekanta c’est quelque chose…
+<b>Trainer:</b> Pfeuh! I'm sure this League will be a piece of cake!
+<b>Dresseur:</b> Pfeuh ! Je suis sûr que cette Ligue va être un jeu d’enfant !
+<b>Man:</b> These old geezers really are saying nonsense all the time...
+<b>Homme:</b> Ces vieux ahuris passent leur temps à raconter n’importe quoi…
 <b>Receptionist:</b> Hello and welcome to the Nekanta League!
 <b>Réceptionniste:</b> Bonjour et bienvenue à la Ligue de Nekanta !
 <b>Receptionist:</b> Head to the door at your left if you want to challenge the Nekanta League!
 <b>Réceptionniste:</b> Dirige-toi vers ta gauche si tu veux défier la Ligue de Nekanta !
-<b>Man:</b> These old geezers really are saying nonsense all the time...
-<b>Homme:</b> Ces vieux ahuris passent leur temps à raconter n’importe quoi…
-<b>Trainer:</b> Pfeuh! I'm sure this League will be a piece of cake!
-<b>Dresseur:</b> Pfeuh ! Je suis sûr que cette Ligue va être un jeu d’enfant !
+<b>Guard:</b> Congratulations for your win, \gt Leader! See you again!
+<b>Garde:</b> Félicitations pour ta victoire, Leader \gt ! A bientôt !
 <b>Reporter:</b> Erm... Can you not stand between me and the camera please?
 <b>Journaliste:</b> Erm... Tu pourrais ne pas te mettre entre moi et la camera stp ?
 <b>Reporter:</b> Kids these days...
@@ -72,8 +74,10 @@ Il n’y a que des déchets là-dedans.
 <b>Journaliste:</b> Donc apparemment aucun nouveau gagnant de la Ligue de Nekanta cette semaine encore ! A vous les studios !
 <b>Reporter:</b> ...ugh, nothing happens here anymore these days...
 <b>Journaliste:</b> ...ugh, il ne se passe rien par ici en ce moment…
-<b>Guard:</b> Congratulations for your win, \gt Leader! See you again!
-<b>Garde:</b> Félicitations pour ta victoire, Leader \gt ! A bientôt !
+<b>Trainer:</b> This is a nice place! Can't wait to challenge the League!
+<b>Dresseur:</b> C’est un bel endroit ! J’ai hâte de défier la Ligue !
+<b>Lady:</b> I don't think we can spectate the replacement Gym battles... too bad!
+<b>Femme:</b> Je ne crois pas qu’on puisse assister aux combats de l’Arène de remplacement… Dommage !
 <b>Receptionist:</b> Hello dear \gt Leader!
 <b>Réceptionniste:</b> Bonjour cher Leader \gt !
 <b>Receptionist:</b> You have a rank up battle scheduled.
@@ -104,10 +108,6 @@ Un peu après…
 <b>Réceptionniste:</b> On va aller le chercher, attends quelques instants.
 <b>Receptionist:</b> Head to the door at your right if you want to challenge the temporary \gt Gym!
 <b>Réceptionniste:</b> Dirige-toi vers ta droite si tu veux défier l’Arène \gt temporaire !
-<b>Lady:</b> I don't think we can spectate the replacement Gym battles... too bad!
-<b>Femme:</b> Je ne crois pas qu’on puisse assister aux combats de l’Arène de remplacement… Dommage !
-<b>Trainer:</b> This is a nice place! Can't wait to challenge the League!
-<b>Dresseur:</b> C’est un bel endroit ! J’ai hâte de défier la Ligue !
 <b>Cameraman:</b> ......... *snore*
 <b>Cameraman:</b> ......... *zzzzzzzzz*
 He seems asleep. You wonder how can he hold his camera while sleeping...

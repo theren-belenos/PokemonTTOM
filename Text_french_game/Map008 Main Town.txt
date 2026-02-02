@@ -110,8 +110,6 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 \c[5]Lady: I have better clothes now! Do you want to see it?
 \c[3]WIP : clothes store lvl2
 \c[3]WIP : clothes store lvl2
-\pn received the Pokegear!
-\pn received the Pokegear!
 <b>Tourist:</b> I’m thirsty! Can’t we drink something in this city??
 <b>Touriste:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!

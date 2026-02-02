@@ -2,10 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map244]
-<b>Worker:</b> We found too many of these, honestly... Do you want some?
-<b>Travailleur:</b> On a trouvé beaucoup trop de ces trucs, honnêtement... Tu en veux un peu ?
-<b>Worker:</b> Good day!
-<b>Worker:</b> Bonne journée !
 <b>Boy:</b> But I picked it up!
 <b>Garçon:</b> Mais c'est moi qui l'ai ramassé !
 <b>Girl:</b> You picked it up because I saw it and pointed it!
@@ -34,34 +30,36 @@
 <b>Garçon:</b> Oublions ça et restons copains !
 <b>Girl:</b> Ok friend!
 <b>Fille:</b> Ok copain !
-<b>Machop:</b> Machoooop!!!
-<b>Machoc:</b> Machooooc!!!
+<b>Worker:</b> We found too many of these, honestly... Do you want some?
+<b>Travailleur:</b> On a trouvé beaucoup trop de ces trucs, honnêtement... Tu en veux un peu ?
+<b>Worker:</b> Good day!
+<b>Worker:</b> Bonne journée !
+You can't leave the Town with the Skitty! Bring it back to its owner!
+Vous ne pouvez pas quitter la ville avec le Skitty! Ramenez-le à son propriétaire!
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
 The Skitty fled somewhere!
 Le Skitty s'est enfui quelque part !
-You can't leave the Town with the Skitty! Bring it back to its owner!
-Vous ne pouvez pas quitter la ville avec le Skitty! Ramenez-le à son propriétaire!
+<b>Machop:</b> Machoooop!!!
+<b>Machoc:</b> Machooooc!!!
 <b>Thug:</b> Psst! You want da good shit?
 <b>Voyou :</b> Psst ! Tu veux de la bonne came ?
 <b>Thug:</b> That's good shit!
 <b>Voyou:</b> C'est de la bonne !
-<b>Lotad:</b> Lotad!!!
-<b>Nenupiot:</b> Nupiot !!!
 This time Skitty can't flee!
 Cette fois Skitty ne peut pas s'enfuir !
 You approach and pet the Skitty. It seems relaxed.
 Vous vous approchez et caressez le Skitty. Il semble se détendre.
 Skitty agrees to follow you!
 Skitty accepte de vous suivre !
-<b>Youngster:</b> Pfff... I'm bored!
-<b>Gamin :</b> Pfff... Je m'ennuie !
+<b>Lotad:</b> Lotad!!!
+<b>Nenupiot:</b> Nupiot !!!
 <b>Little Girl:</b> Mamaaaa! Where is Kitty????
 <b>Petite Fille:</b> Mamaaaan ! Où est Kitty ????
+<b>Youngster:</b> Pfff... I'm bored!
+<b>Gamin :</b> Pfff... Je m'ennuie !
 <b>Tourist:</b> Wow, is this the Gym?
 <b>Touriste:</b> Wow, alors voici l'Arène ?
-<b>Lass:</b> I don't wanna go to school!
-<b>Fillette:</b> Je veux pas aller à l'école !
 <b>Woman:</b> D... don't worry honey, we'll find it!
 <b>Femme:</b> Ne... ne t'inquiète pas ma chérie, on va le retrouver !
 <b>Little Girl:</b> Kittyyyyyyyyy! Where did you gooooo?
@@ -94,20 +92,20 @@ Skitty accepte de vous suivre !
 <b>Femme:</b> En tout cas... Passe une excellente journée !
 <b>Woman:</b> Have a great day!
 <b>Femme:</b> Passe une excellente journée !
+<b>Lass:</b> I don't wanna go to school!
+<b>Fillette:</b> Je veux pas aller à l'école !
+<b>Tourist:</b> This building is huge! What's that for?
+<b>Touriste:</b> Ce bâtiment est énorme ! A quoi il sert ?
 <b>Black Belt:</b> So this is the infamous Fang Dojo huh...
 <b>Karatéka:</b> Donc voici le fameux Dojo des Crocs hein...
 <b>Black Belt:</b> Is this true that they allow to bite opponents??
 <b>Karatéka:</b> C'est vrai qu'ici on a le droit de mordre ses adversaires ??
-<b>Tourist:</b> This building is huge! What's that for?
-<b>Touriste:</b> Ce bâtiment est énorme ! A quoi il sert ?
 <b>Monferno:</b> Ooneerooo!
 <b>Chimpenfeu:</b> Iimpeenfeeuuu!
-<b>Lady:</b> What a nice little shop! Do they sell flowers, too?
-<b>Dame:</b> Quelle belle petite boutique ! Est-ce qu'ils vendent aussi des fleurs ?
 <b>Tourist:</b> What a nice place!
 <b>Touriste:</b> Quel endroit charmant !
-<b>Croagunk:</b> Khikhikhikhikhi!!!!
-<b>Cradopaud:</b> Khikhikhikhikhi!!!!
+<b>Lady:</b> What a nice little shop! Do they sell flowers, too?
+<b>Dame:</b> Quelle belle petite boutique ! Est-ce qu'ils vendent aussi des fleurs ?
 <b>Harvey?:</b> Hello! No I’m not Harvey? I’m Stanley!
 <b>Harvey?:</b> Bonjour! Non je ne suis pas Harvey? Je suis Stanley!
 <b>Stanley:</b> You’re looking to challenge the Gym? Huuuh, I’m afraid it’s impossible for now…
@@ -130,3 +128,5 @@ Skitty accepte de vous suivre !
 <b>Stanley:</b> Si c’est leur QG, j’imagine qu’ils auront besoin de toute l’aide disponible. Tu devrais aller les aider !
 <b>Stanley:</b> They're somewhere inside the Grey Mines. You should go help them!
 <b>Stanley:</b> Ils sont quelque part dans les Mines Grises. Tu devrais aller les aider !
+<b>Croagunk:</b> Khikhikhikhikhi!!!!
+<b>Cradopaud:</b> Khikhikhikhikhi!!!!

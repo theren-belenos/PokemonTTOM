@@ -305,13 +305,13 @@ Oui
 No
 Non
 Fresh Water (200$)
-Fresh Water (200$)
+Eau Fraîche (200$)
 Soda Pop (350$)
-Soda Pop (350$)
+Soda Cool (350$)
 Lemonade (500$)
-Lemonade (500$)
+Limonade (500$)
 Go away
-Go away
+Partir
 Floor 1
 Étage 1
 Floor 2

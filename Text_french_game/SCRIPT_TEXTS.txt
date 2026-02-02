@@ -5177,7 +5177,7 @@ Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch4-A
 Ch.3-A: Get to fame level 6
 Ch.3-A: Atteindre le niveau de fame 6
 Ch.3-B: Get Greymoose badge
-Ch.3-B: Obtenir le badge de Sombake
+Ch.3-B: Obtenir le badge de Greymoose
 Ch.3-C: Another Gym trainer
 Ch.3-C: Un autre dresseur d'Arène
 Various rewards:<<n>>- Prettier exteriors<<n>>- Passive Town income +1000 per week<<n>>- A new Park with new NPCs and a quest
@@ -5342,3 +5342,9 @@ Graphics/Pictures/Tip Cards/Images/
 Graphics/Pictures/Tip Cards/ImagesVF/
 Complete the city task n°13 : 'Clearing - Town exteriors' to get access to the Daycare.
 Terminer la tâche 13 : 'Déblayage - Extérieurs de la ville' pour accéder à la Pension
+Gain passive fame every week.<<n>>Passive fame : +3 per week.
+Gain de fame passif hebdomadaire.<<n>>Fame passive : +3 par semaine.
+Allows the reconstruction of the house n°1 (Melly's house) afterwards.
+Permet la reconstruction de la maison n°1 (la maison de Melly) par la suite.
+Travel to the Pokémon League via Route 2, the Geodude Pit and Route 3 to become a true Gym Leader!
+Voyagez jusqu'à la Ligue Pokémon via la Route 2, la Fosse Racaillou puis la Route 3 pour devenir un vrai Champion d'Arène !

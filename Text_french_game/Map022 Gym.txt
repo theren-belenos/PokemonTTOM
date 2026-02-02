@@ -20,6 +20,10 @@ Changer votre équipe ?
 <b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly </b>\c[0] ?
 <b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
 <b>\c[10]Maple:</b>\c[0] Sois prudent !
+WARNING! This is for debug purpose. It initialize the challengers list.
+WARNING! This is for debug purpose. It initialize the challengers list.
+Proceed? Press no if you aren't the dev and doesn't want your game to crash.
+Proceed? Press no if you aren't the dev and doesn't want your game to crash.
 <b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
 <b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
 <b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
@@ -318,10 +322,6 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec les gens que tu apprécies, à passer du temps avec eux ou même leur donner des cadeaux.
 <b>\c[10]Maple:</b>\c[0] Good luck and above all: have fun!
 <b>\c[10]Maple:</b>\c[0] Bonne chance et surtout : amuse-toi !
-WARNING! This is for debug purpose. It initialize the challengers list.
-WARNING! This is for debug purpose. It initialize the challengers list.
-Proceed? Press no if you aren't the dev and doesn't want your game to crash.
-Proceed? Press no if you aren't the dev and doesn't want your game to crash.
 <b>\c[10]Maple:</b>\c[0] \pn you remember Marley right?
 <b>\c[10]Maple:</b>\c[0] \pn tu te rappelles de Marley n’est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] Hello \pn!

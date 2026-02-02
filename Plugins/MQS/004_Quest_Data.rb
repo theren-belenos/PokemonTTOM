@@ -36,7 +36,7 @@ module QuestModule
 		:Location3 => "Pokémon League",
 		:Location4 => "Pokémon Lab",
 		:Location5 => _INTL("Your Gym"),
-		:QuestDescription => _INTL("Travel to the Pokémon League to become a true Gym Leader!"),
+		:QuestDescription => _INTL("Travel to the Pokémon League via Route 2, the Geodude Pit and Route 3 to become a true Gym Leader!"),
 		:RewardString => ""
 	}
 
