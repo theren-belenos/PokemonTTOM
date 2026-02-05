@@ -2,10 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map386]
-<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour !
-<b><c3=BDA46A,736440>Samy:</b></c3> Bonjour !
+<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
 Marley is in training these days. Do you want to start your work day?
 Marley est en formation en ce moment. Voulez-vous commencer la journée ?
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 Change your party?
 Changer votre équipe ?
 End of the first half of the week!
@@ -26,6 +28,10 @@ Si vous changez d’avis, sortez de l’Arène et re-entrez.
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Bonne chance pour ta première semaine !
 You already gave a gift to Marley this week!
 Vous avez déjà offert un cadeau à Marley cette semaine !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Good evening!
+<b>\c[3]Marley:</b>\c[0] Heya boss! Good evening!
+<b>\c[3]Marley:</b>\c[0] See ya!
+<b>\c[3]Marley:</b>\c[0] See ya!
 <b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Prêt pour le travail !
 <b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
@@ -66,9 +72,9 @@ Spend time
 Passer du temps
 Say goodbye
 Dire au revoir
-Start work day
-Commencer la journée
 Gym infos
 Infos Arène
+Start work day
+Commencer la journée
 Don't start work day
 Ne pas commencer la journée

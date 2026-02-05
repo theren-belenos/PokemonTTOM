@@ -6,5 +6,7 @@
 <b>Brady:</b> Citoyen ! Je m'ennuie ! Amusons-nous !
 <b>Brady:</b> Still entertained?
 <b>Brady:</b> Toujours amusé ?
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 <b>Rancher:</b> Hmm, this path is too rocaillous... I can't go on.
 <b>Rancher:</b> Hmm, ce chemin est trop rocailleux... Je peux pas continuer.

@@ -4,6 +4,8 @@
 [Map396]
 <b>Delinquent:</b> I sometimes feel like everybody has forgotten this place even exists...
 <b>Terreur:</b> J'ai parfois l'impression que tout le monde a oublié l'existence de cet endroit...
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 This stone is glowing!
 Cette pierre brille de mille feux !
 Do you want to use the Mining Kit?

@@ -460,6 +460,10 @@ Vous passez du temps à vous détendre dans la chambre de Kathleen. Elle est vra
 <b>\c[10]Maple:</b>\c[0] C'est vraiment une grande ville, dans notre pays seule Moonyang est plus vaste !
 <b>\c[10]Maple:</b>\c[0] Stay safe during your travels \pn, and good luck!
 <b>\c[10]Maple:</b>\c[0] Sois prudent pendant tes voyages \pn, et bonne chance !
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 3!
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 3!
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 What do you want to know?
 Que voulez-vous savoir ?
 You have 3 options:\n- Full animation

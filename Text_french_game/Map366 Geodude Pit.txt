@@ -58,8 +58,8 @@ Pour pas que vous vous retrouviez dans un combat de trop haut niveau, vous pouve
 <b>Martha:</b> Tu l’as récupéré !
 <b>Martha:</b> Well thank you very much, but...
 <b>Martha:</b> Eh bien merci beaucoup mais…
-<b>Martha:</b> I realise that I can't protect my cute Milcy... I don't want it to suffer!
-<b>Martha:</b> Il est clair que je suis incapable de protéger mon Crémy tout mignon… Je veux pas qu’il souffre !
+<b>Martha:</b> I realise that I can't protect my cute Chantilly... I don't want it to suffer!
+<b>Martha:</b> Je réalise que je ne peux pas protéger mon mignon petit Chantilly... Je veux pas qu'il souffre !
 <b>Martha:</b> I'm really sad to even say this but...
 <b>Martha:</b> Je suis triste rien qu’à demander ça mais…
 <b>Martha:</b> Would you take it with you? You will keep it safe I know!
@@ -68,10 +68,8 @@ Pour pas que vous vous retrouviez dans un combat de trop haut niveau, vous pouve
 <b>Marta:</b> Et en plus, il sera plus heureux avec toi et tes autres Pokémon !
 <b>Marta:</b> It already likes you! Take it with you please!
 <b>Marta:</b> Il t’adore déjà ! Prends-le avec toi s’il te plaît !
-<b>Martha:</b> Take care of Milcy!
-<b>Martha:</b> Prends soin de Crémy !
-<b>Martha:</b> Take care of Milcy!</b>
-<b>Martha:</b> Prends soin de Crémy !</b>
+<b>Martha:</b> Take care of Chantilly!
+<b>Martha:</b> Prends soin de Chantilly!
 <b>Gregory:</b> I love speleology!
 <b>Gregory:</b> J’adore la spéléologie !
 <b>Patrice:</b> I love hiking!
