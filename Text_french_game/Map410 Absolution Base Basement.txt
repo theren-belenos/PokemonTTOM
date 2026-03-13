@@ -3,16 +3,16 @@
 #-------------------------------
 [Map410]
 \c[3]Activating... "L"
-\c[3]Activating... "L"
+\c[3]Activation... "L"
 \c[3]De-activating... "L"
-\c[3]De-activating... "L"
+\c[3]Désactivation... "L"
 \c[3]Hidden Vault unlocked...
-\c[3]Hidden Vault unlocked...
+\c[3]Réserve cachée débloquée...
 \c[3]Activating... "S"
-\c[3]Activating... "S"
+\c[3]Activation... "S"
 \c[3]De-activating... "S"
-\c[3]De-activating... "S"
+\c[3]Désactivation... "S"
 \c[3]Activating... "U"
-\c[3]Activating... "U"
+\c[3]Activation... "U"
 \c[3]De-activating... "U"
-\c[3]De-activating... "U"
+\c[3]Désactivation... "U"

@@ -660,7 +660,7 @@ IntroBGM = encounter_youngster
 Name = Roughneck
 Gender = Male
 BaseMoney = 64
-IntroBGM = encounter_youngster
+IntroBGM = encounter_delinquent
 #-------------------------------
 [SCIENTISTFEMALE]
 Name = Scientist &f;
@@ -673,6 +673,12 @@ Name = Scientist &m;
 Gender = Male
 BaseMoney = 64
 IntroBGM = encounter_youngster
+#-------------------------------
+[STREETTHUG]
+Name = Street Thug
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_delinquent
 
 #---------------------------------------------------
 #

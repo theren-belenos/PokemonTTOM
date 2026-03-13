@@ -33,13 +33,14 @@ class PokemonRegionMap_Scene
         selFlySpots[key] << [flySpot, pos[:x], pos[:y]]
       end
       selFlySpots.each do |index, spot|
-		case $town.buildings[index[0]]
-		when 0 
-			name = "TownDevUnbuilt"
-		when 1
-			name = "TownDevWIP"
+		if $town.getBuildingData(index[0])[2] == 0 || $town.buildings[index[0]] > 0
+			if $town.buildings[index[0]] > $town.getBuildingData(index[0])[1]
+				name = "TownDevBuilt"
+			else
+				name = "TownDevWIP"
+			end
 		else
-			name = "TownDevBuilt"
+			name = "TownDevUnbuilt"
 		end
 		centerX = spot.map { |map| map[1] }.sum.to_f / spot.length
         centerY = spot.map { |map| map[2] }.sum.to_f / spot.length
@@ -144,45 +145,106 @@ class PokemonRegionMap_Scene
 	@sprites["rightArrow"].visible = false
     infos = pbGetTownDevInfos(@mapX, @mapY)
     if infos
-      name = _INTL("{1} - {2}", infos[0], infos[1])
-	  pbShowTipCard(("TOWNDEV"+(infos[2].to_s)).to_sym,("TOWNDEV"+(infos[2].to_s)+"REWARDS").to_sym)
-	  @sprites["cursor"].visible = true
-	  @sprites["upArrow"].visible = true
-	  @sprites["downArrow"].visible = true
-	  @sprites["leftArrow"].visible = true
-	  @sprites["rightArrow"].visible = true
-	  if $town.buildings[infos[2]] == 0
-		if $town.funds < infos[3]
-			pbMessage(_INTL("Not enough funds for this task"))
-			pbPlayCancelSE
-			return
-		end
-		if $town.workers < infos[4]
-			pbMessage(_INTL("Not enough available workers for this task"))
-			pbPlayCancelSE
-			return
-		end
-		if confirmMessageMap(_INTL("Do you really want to do this task ?"))
-			case infos[2]
-			when 7, 10, 15, 16, 17, 20, 24
-				pbPlayLevelUpSE
-				$town.build(infos[2])
-				pbMessage(_INTL("This task was done!"))
-				@spritesMap["FlyIcons"].bitmap.clear
-				
-			else
-				pbPlayDecisionSE
-				$town.buildings[infos[2]] = 1
-				$game_switches[64] = true if infos[2] == 8
-				pbMessage(_INTL("The task begins!"))
-				@spritesMap["FlyIcons"].bitmap.clear
+		name = _INTL("{1} - {2}", infos[0], infos[1])
+		index = infos[2]
+		data = $town.getBuildingData(infos[2])
+		pbShowTipCard(("TOWNDEV"+(index.to_s)).to_sym,("TOWNDEV"+(index.to_s)+"REWARDS").to_sym)
+		@sprites["cursor"].visible = true
+		@sprites["upArrow"].visible = true
+		@sprites["downArrow"].visible = true
+		@sprites["leftArrow"].visible = true
+		@sprites["rightArrow"].visible = true
+		
+		puts "index"
+		puts index
+		puts "state"
+		puts $town.buildings[index]
+		# Construction non achetée
+		if $town.buildings[index] == 0
+		
+			puts "test1"
+		
+			# Vérification prérequis
+			pre = data[3]
+			flag = false
+			
+			# Bâtiments
+			pre.length.times do |i|
+				flag = true if not $town.finished?(pre[i])
 			end
-			$town.funds -= infos[3]
-			$town.workers -= infos[4]
+			
+			# Autres conditions
+			flag = true if index == 19 && pbGet(227) < 2
+			
+			if flag 
+				messageMap(_INTL("Prerequisites not satisfied."))
+				pbPlayCancelSE
+			else
+				puts "test2"
+				if $town.funds < (data[2]*1000)
+					messageMap(_INTL("Cost: $") + (data[2]*1000).to_s + _INTL(". Funds available: $") + $town.funds.to_s + _INTL(".\nNot enough funds to invest on this task"))
+					pbPlayCancelSE
+				else
+					puts "test3"
+					if confirmMessageMap(_INTL("Cost: $") + (data[2]*1000).to_s + _INTL(". Funds available: $") + $town.funds.to_s + _INTL(".\nDo you want to invest on this task ?"))
+						pbPlayDecisionSE
+						$town.funds -= (data[2]*1000)
+						$town.buildings[index] = 1
+						messageMap("Investment complete !")
+						if data[1] == 0
+							pbPlayLevelUpSE
+							$town.build(infos[2])
+							messageMap(_INTL("As an instant build, the task is completed !"))
+							@spritesMap["FlyIcons"].bitmap.clear
+						end
+					else
+						pbPlayCancelSE
+					end
+				end
+			end
 		else
-			pbPlayCancelSE
+			if data[1] < $town.buildings[index]
+				pbMessage("Task already done.")
+			end	
 		end
-	  end
+		
+		# Construction en cours ou tout juste achetée
+		if data[1] >= $town.buildings[index] && $town.buildings[index] > 0
+			while true
+				unassigned = $town.totalworkers
+				onthistask = 0
+				$town.workers.length.times do |i|
+					if $town.workers[i] > -1
+						unassigned -= 1
+						if $town.workers[i] == index
+							onthistask += 1
+						end
+					end
+				end
+				message = _INTL("Progression: ") + ($town.buildings[index]-1).to_s + " / " + data[1].to_s + _INTL("\nWorkers: ") + onthistask.to_s + _INTL(" on this task ; ") + unassigned.to_s + _INTL(" free") 
+				missing = 1 + data[1] - $town.buildings[index]
+				case pbChangeWorkers(message, onthistask, unassigned, missing)
+				when 0 # Add a worker on this task
+					$town.workers.length.times do |i|
+						if $town.workers[i] == -1
+							$town.workers[i] = index
+							break
+						end
+					end
+				when 1 # Remove a worker from this task
+					$town.workers.length.times do |i|
+						if $town.workers[i] == index
+							$town.workers[i] = -1
+							break
+						end
+					end
+				else 
+					break
+				end
+			end
+		end
+		
+		
     end
   end
 

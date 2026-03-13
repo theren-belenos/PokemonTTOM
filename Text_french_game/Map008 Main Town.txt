@@ -118,6 +118,8 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Touriste:</b> J’ai soif! Allons au café!
 <b>Tourist</b> My! What a cute little park!
 <b>Touriste:</b> Oh ! Quel joli petit parc !
+Beauty Market lvl 1
+Beauty Market lvl 1
 \tn's Department Store
 Centre Commercial de \tn
 <b>Amanda:</b> Hello \pn how are you ?
@@ -148,38 +150,44 @@ Vous n'avez pas assez de Poké Poupées !
 <b>Ernest:</b> Pas intéressé ? Je suis là si tu changes d'avis !
 <b>Ernest:</b> Hello young \pn, how are you? Thanks again for the Poké Dolls!
 <b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ? Merci encore pour les Poké Poupées !
+<b>Lady:</b> Hello you pretty thing!
+<b>Dame:</b> Bonjour mignonne petite chose~
+<b>Lady:</b> You're already pretty but for a small price, I can make you Pokémon prettier too!
+<b>Dame:</b> Tu es déjà sublime mais pour une modeste somme d'argent, je peux rendre ton Pokémon superbe également !
+<b>Lady:</b> If you have a Feebas, it could be really useful you know...
+<b>Dame:</b> Si tu as un Barpau, ça peut vraiment t'être utile tu sais...
+<b>Lady:</b> Do you want me to make your Pokémon pretty?
+<b>Dame:</b> Veux-tu que j'embellisse ton Pokémon ?
+<b>Lady:</b> No? Are you sure? You would be so pretty you both!!
+<b>Dame:</b> Non ? Tu es sûr ? Vous seriez si beaux tous les deux !!
+<b>Lady:</b> Okay, let us begin!
+<b>Dame:</b> Okay, c'est parti !!
+You wait a few minutes...
+Vous attendez quelques minutes...
+<b>Lady:</b> It's done! You're soooo pretty together!!!
+<b>Dame:</b> C'est fait ! Vous êtes trop magnifiques tous les deux !!!
+\c[3] WIP: Pokemon beauty
+\c[3] WIP: Pokemon beauty
 The sign is really damaged... You can't read anything.
 Le panneau est vraiment endommagé... C'est complètement illisible.
 Trainer's Academy
 Académie de dresseurs
-Elder: Oh hello here dear child. How are you?
-Elder: Oh hello here dear child. How are you?
-\Elder: I sell a variety of beautiful hats. Do you want to check what I have in store?
-\Elder: I sell a variety of beautiful hats. Do you want to check what I have in store?
-\c[3]WIP: hats store
-\c[3]WIP: hats store
-Elder: No problem I stay here if you change your mind! Have a wonderful day!
-Elder: No problem I stay here if you change your mind! Have a wonderful day!
-Elder: Do you want to buy hats?
-Elder: Do you want to buy hats?
-Elder: I have better hats now! Do you want to see?
-Elder: I have better hats now! Do you want to see?
-\c[3]WIP: hats store lvl2
-\c[3]WIP: hats store lvl2
 <b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
 <b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
-\c[5]\Beauty: Hello dear~
-\c[5]\Beauty: Hello dear~
-\c[5]\Beauty: I can take care of one of your pokémon for a mere price~
-\c[5]\Beauty: I can take care of one of your pokémon for a mere price~
-\c[5]\Beauty: This will make them more relaxed and happy! Do you want to try?
-\c[5]\Beauty: This will make them more relaxed and happy! Do you want to try?
-\c[3] WIP: Pokemon massage
-\c[3] WIP: Pokemon massage
-\c[5]\Beauty: What a shame~~ Come back soon darling !
-\c[5]\Beauty: What a shame~~ Come back soon darling !
-\c[5]Beauty: Hello dear~ Do you want me to take care of a Pokémon ?
-\c[5]Beauty: Hello dear~ Do you want me to take care of a Pokémon ?
+<b>Beauty:</b> Hello dear~
+<b>Canon:</b> Bonjour toi~
+<b>Beauty:</b> I can take care of one of your Pokémon for a super small tiny price~
+<b>Canon:</b> Je peux m'occuper d'un de tes Pokémon pour un tout petit riquiqui prix~
+<b>Beauty:</b> This will make them more relaxed and happy! Do you want to try?
+<b>Canon:</b> Cela les rendra plus détendus et heureux ! Tu veux essayer ?
+<b>Beauty:</b> What a shame~~ Come back soon darling !
+<b>Canon:</b> Quel dommage~~ Reviens quand tu veux trésor!
+<b>Beauty:</b> Okay~~ Come here darling~
+<b>Canon:</b> Okay~~ Viens ici mon trésor~
+<b>Beauty:</b> This little thing seems really relaxed! I'm sure its happier now!
+<b>Canon:</b> Cette petite chose a l'air vraiment détendue ! Je suis sûr que son bonheur s'est amélioré !
+<b>Beauty:</b> Hello dear~ Do you want me to take care of a Pokémon ?
+<b>Canon:</b> Bonjour toi~ Tu veux que je m'occupe d'un Pokémon ?
 <b>Tourist:</b> So this is the \gt Gym huh ?
 <b>Touriste:</b> Donc voici l'arène \gt hein ?
 <b>Tourist:</b> I wonder what the Leader is like...
@@ -193,15 +201,29 @@ Elder: I have better hats now! Do you want to see?
 <b>Woman:</b> Should I take some of my Pokémon there ?
 <b>Femme:</b> Est-ce que je devrais y laisser des Pokémons ?
 Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
-Girl: DO YOU HAVE A <b>HAPPY</> POKÉMON???
-\c[3]WIP (donner grelot zen)
-\c[3]WIP (donner grelot zen)
-\c[3]WIP
-\c[3]WIP
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
+Girl: Bonjour!!! Je veux voir des Pokémon !!! Je veux voir des Pokémon <b>Heureux</b> !!!
+Girl: DO YOU HAVE A <b>HAPPY</b> POKÉMON???
+Girl: TU AS DES POKÉMON <b>HEREUX</b> ???
+<b>Girl:</b> WHYYYYYYYYYYYY???????????
+<b>Girl:</b> POURQUOI ???????????????????
+<b>Girl:</b> OH. MY. GAWDDDDDDDDD!!!!!!!!! It's so happy!!!! It loves you really really a lot!!!
+<b>Girl:</b> OH. MON. DIEU!!!!!!!!! Il est si heureux !!!! Il t'aime vraiment vraiment beaucoup !!!
+<b>Girl:</b> Thank you for showing me your incredible bond!!! I'M HONORED!!!!! TAKE THIS!!!!!!!!!!!!
+<b>Girl:</b> Merci de m'avoir montré votre incroyable lien !!! JE SUIS HONORÉÉ !!!!! PRENDS ÇA !!!!!!!!!!!!
+<b>Girl:</b> Heyyy!!! It really likes you!! You're close to being really inseparables!
+<b>Girl:</b> Heyyy !!! Il t'apprécies vraiment !! Vous êtes presque inséparables !
+<b>Girl:</b> Hey! It's friendly towards you! It's like, kinda happy, but it could be better!
+<b>Girl:</b> Hey ! Il t'apprécies ! Il est, genre, plutôt heureux, mais ça pourrait être mieux !
+<b>Girl:</b> Eh, it's kinda cute but not really used to you...
+<b>Girl:</b> Eh, il est plutôt mignon mais il est pas trop habitué à toi...
+<b>Girl:</b> Eeeeeh... You should be nicer to it, it doesn't really like you...
+<b>Girl:</b> Eeeeeh... Tu devrais être plus gentil avec lui, il ne t'aime pas trop...
+<b>Girl:</b> Eeeeeeeh? It... it doesn't like you at all. What... What are you doing to it??? You meanie!!!
+<b>Girl:</b> Eeeeeeeh? Il... Il ne t'aime pas du tout. Qu...Qu'estce que tu lui fais ??? T'es trop méchant !!!
+Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</b> POKÉMON???
+Girl: EST-CE QUE TU AS <u>UN AUTRE</u> POKÉMON <b>HEUREUX</b> ???
+<b>Girl:</b> You're really an incredible trainer!!!! CONGRATS!!!!!!
+<b>Girl:</b> T'es vraiment un incroyable dresseur !!!! FÉLICITATIONS !!!!!!
 <b>Student:</b> Hiiii! I love to chill outside!
 <b>Etudiant:</b> Saluuuut ! J'adore me relaxer au soleil !
 <b>Student:</b> Isn’t flowers beautiful???
@@ -224,16 +246,6 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 <b>Etudiant:</b> T'as perdu la tête ?
 <b>Student:</b> I don’t have it !
 <b>Etudiant:</b> Je ne l'ai pas !
-\c[9]Hairdresser: Hello child, I'm the hairdresser.
-\c[9]Hairdresser: Hello child, I'm the hairdresser.
-\c[9]Hairdresser: Do you want me to change your hair?
-\c[9]Hairdresser: Do you want me to change your hair?
-\c[3]WIP : Hairs
-\c[3]WIP : Hairs
-\c[9]Hairdresser: I'm here if you change your mind.
-\c[9]Hairdresser: I'm here if you change your mind.
-\c[9]Hairdresser: I know more hairstyles now. Wanna try?
-\c[9]Hairdresser: I know more hairstyles now. Wanna try?
 <b>Roger:</b> Hey \pn how are you?
 <b>Roger:</b> Hey \pn comment tu vas ?
 <b>Roger:</b> Better with your house built again I bet!
@@ -252,16 +264,16 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</> POKÉMON???
 <b>Etudiant:</b> Oh salut, mon nom est Justine, désolée je suis occupée !
 <b>Student:</b> Justine Cruz now let me be please!
 <b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
-^ Route 1\n< Route 2\n
-^ Route 1\n< Route 2\n
+^ Route 1\n< Route 2
+^ Route 1\n< Route 2
 Quest
-Quest
+Quête
 Give gift
-Give gift
+Donner cadeau
 Spend time
-Spend time
+Passer du temps
 Say goodbye
-Say goodbye
+Dire au revoir
 What's your name?
 Comment tu t'appelles ?
 Bye
@@ -276,8 +288,10 @@ Yes
 Oui
 No
 Non
-Yes ($1000)
-Oui ($1000)
+Yes ($20000)
+Oui ($20000)
+Yes ($5000)
+Oui ($5000)
 And your surname?
 Et ton nom de famille ?
 I'm sure!

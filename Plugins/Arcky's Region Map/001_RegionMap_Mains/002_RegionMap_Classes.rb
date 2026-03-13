@@ -70,7 +70,7 @@ class RegionMapSprite
       bitmap = AnimatedBitmap.new("Graphics/Pictures/RegionMap/Regions/#{@map[1]}").deanimate
     else
       townMap = GameData::TownMap.get(map)
-      bitmap = AnimatedBitmap.new("Graphics/UI/Town Map/Regions/#{townMap.filename}").deanimate
+      bitmap = AnimatedBitmap.new(_INTL("Graphics/UI/Town Map/Regions/") + townMap.filename).deanimate
     end
     retbitmap = BitmapWrapper.new(bitmap.width / 2, bitmap.height / 2)
     retbitmap.stretch_blt(

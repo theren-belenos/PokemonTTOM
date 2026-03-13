@@ -2,6 +2,8 @@
 # translate every second line of this file.
 #-------------------------------
 [Map243]
+<b>Little Girl:</b> Noooooooo!! Ehehehehe!
+<b>Little Girl:</b> Noooooooon !! Ehehehehe !
 <b>Kathleen:</b> Hello! I'm Kathleen, the Bug Leader. Nice to meet ya!
 <b>Kathleen:</b> Salut ! Je suis Kathleen, la Leader Insecte ! Enchantée !
 <b>Kathleen:</b> You wanna challenge my Gym huh?
@@ -44,8 +46,6 @@ Toujours un peu confus, vous le remerciez et partez à la recherche de ce <b><c3
 <b>Kathleen:</b> Tu as trouvé Samy ?
 The Bug Leader shows you this drawing of a tall, kinda muscular guy with the name "Samy", and looks puzzled.
 Le Leader Normal vous montre ce dessin d’un homme grand et plutôt musclé avec écrit “Samy”, et semble confus.
-<b>Little Girl:</b> Noooooooo!! Ehehehehe!
-<b>Little Girl:</b> Noooooooon !! Ehehehehe !
 <b>Kid:</b> I will catch you like I would catch a big bug !! Haha !
 <b>Enfant:</b> Je vais t'attraper comme si j'attrapais un gros insecte !! Haha !
 <b>Bug Catcher:</b> The birds may be attracted by the high density of insects here... Don't you think ?

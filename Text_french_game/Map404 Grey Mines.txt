@@ -18,6 +18,10 @@ Cette pierre brillante a déjà été minée.
 <b>Travailleur:</b> Tu veux ça ? Je l'ai trouvée mais j'en ai pas vraiment besoin.
 <b>Worker:</b> I found it but I don't need it.
 <b>Travailleur:</b> Je l'ai trouvée mais j'en ai pas vraiment besoin.
+<b>Blaise:</b> What? Yes, I'm the boss. What do you mean I'm not working??? Huh... em, take this!
+<b>Blaise:</b> What? Yes, I'm the boss. What do you mean I'm not working??? Huh... em, take this!
+<b>Blaise:</b> I'm really working here, I swear!
+<b>Blaise:</b> I'm really working here, I swear!
 Yes
 Oui
 No

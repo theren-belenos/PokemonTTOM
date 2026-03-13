@@ -4,6 +4,10 @@
 [Map232]
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
+You spend time at the Day-Care with the nurses, the Day-Care couple, and a lot of cute Pokémon.
+Vous passez du temps à la Pension avec les infirmières, le couple de la Pension, et plein de Pokémon mignons.
+It's really heartwarming!
+Ça fait vraiment chaud au coeur !
 <b>Day-Care Man:</b> Erm, sorry Leader, please don't go there yet.
 <b>Homme de la Pension:</b> Erm, désolé Champion, ne va pas là-bas s’il te plaît.
 <b>Day-Care Man:</b> The place was a bit damaged.

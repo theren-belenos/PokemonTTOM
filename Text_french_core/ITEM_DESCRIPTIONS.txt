@@ -105,9 +105,9 @@ Un grand champignon assez rare. Il est très populaire auprès de certains gourm
 A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
 Un champignon rare qui répand un agréable parfum autour de lui. Peut être vendu à bon prix en magasin.
 A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
-Un champignon rare qui répand un agréable parfum autour de lui. Peut être vendu à bon prix en magasin.
+Une petite perle qui brille d'une jolie couleur argent. Peut être vendue à bas prix en magasin.
 A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
-Un champignon rare qui répand un agréable parfum autour de lui. Peut être vendu à bon prix en magasin.
+Une grosse perle qui brille d'une jolie couleur argent. Peut être vendue à bon prix en magasin.
 Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
 Une grappe de perles brillant d'une jolie couleur argent. Peut être vendue à bon prix en magasin.
 Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
@@ -1057,23 +1057,23 @@ Le lanceur plonge sous l'eau au premier tour et frappe au second
 It may be used or held by a Pokémon to recover from paralysis.
 Baie qui soigne la paralysie lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to recover from sleep.
-Une Baie qui soigne le sommeil lorsqu'elle est tenue par un Pokémon.
+Baie qui soigne le sommeil lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to recover from poison.
-Une Baie qui soigne l'empoisonnement lorsqu'elle est tenue par un Pokémon.
+Baie qui soigne l'empoisonnement lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to recover from a burn.
-Une Baie qui soigne une brûlure lorsqu'elle est tenue par un Pokémon.
+Baie qui soigne une brûlure lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to defrost it.
 Baie qui soigne le gel lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to restore a move's PP by 10.
-Une Baie qui restaure 10 PP lorsqu'elle est tenue par un Pokémon.
+Baie qui restaure 10 PP lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to heal the user by just 10 HP.
-Une Baie qui restaure 10 PV lorsqu'elle est tenue par un Pokémon.
+Baie qui restaure 10 PV lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to recover from confusion.
 Baie qui soigne la confusion lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to recover from any status problem.
-Une Baie qui soigne toutes les altérations de statut lorsqu'elle est tenue par un Pokémon.
+Baie qui soigne toutes les altérations de statut lorsqu'elle est tenue par un Pokémon.
 It may be used or held by a Pokémon to heal the user's HP a little.
-Une Baie qui restaure quelques PV lorsqu'elle est tenue par un Pokémon.
+Baie qui restaure quelques PV lorsqu'elle est tenue par un Pokémon.
 If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
 Tenue, cette Baie restaure des PV en cas de besoin, mais rend le Pokémon confus si son goût lui déplaît.
 In the Sinnoh region, they like to make sweets known as Poffins with this Berry.

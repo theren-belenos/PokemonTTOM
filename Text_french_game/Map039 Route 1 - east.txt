@@ -46,6 +46,10 @@
 <b>Willy:</b> En tous cas, je te laisse retourner à ton arène, <i>respectable Leader</i>
 Willy's hut
 Cabane de Willy
+You spend time at the beach with Melly.
+Vous passez du temps à la plage avec Melly.
+This is really nice!
+C'est vraiment le top !
 <b>Will:</b> Let's exercise together!
 <b>Will:</b> Entraînons-nous ensemble !
 <b>Will:</b> You gotta stay in shape!

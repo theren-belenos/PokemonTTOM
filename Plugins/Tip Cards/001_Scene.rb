@@ -177,7 +177,7 @@ class TipCard_Scene
 			rewardtext << "</b></c3>"
 		end
 		rewardtext << "\nBonus: +<c3=FFD700,DAA520><b>$"
-		rewardtext << ($town.rank*1000).to_s
+		rewardtext << ($town.rank*500).to_s
 		rewardtext << "</b></c3> " + _INTL("funds & money!") + " </al>"
 		drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 190, @sprites["background"].width - 48, rewardtext, base, shadow)
 		loop do
@@ -196,6 +196,7 @@ class TipCard_Scene
 		@fraction_tic = target_fraction / @count	
 		@famebar.src_rect.width = 0
 		limits = [0,3,6,10,15,20,25,30,40,50,60,70,85,100]
+		puts fameToAdd
 		if fameToAdd > 0 && newlvl < limits[$town.rank]
 			pbSEPlay("Pkmn exp gain")
 		else
@@ -308,21 +309,47 @@ class TipCard_Scene
             drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, title, base, shadow)
             text_y_adj += info[:YAdjustment] if info[:YAdjustment]
 			if info[:BuildingIndex]
+				index = info[:BuildingIndex].to_i
+				data = $town.getBuildingData(index)
 				infos = "<ar>"
-				if info[:BuildingIndex] && $town.buildings[info[:BuildingIndex]] == 1
-					infos += "<i> " + _INTL("(In progress)") + "</i>\n"
-				elsif info[:BuildingIndex] && $town.buildings[info[:BuildingIndex]] == 2
-					infos += "<i> " + _INTL("(Already done)")+ "</i>\n"
-				end
-				fundscolor = ($town.buildings[info[:BuildingIndex]] > 0) ? "<c2=318c675a>" : ($town.funds < info[:Funds]) ? "<c2=043c3aff>" : "<c2=06644bd2>" 
-				workerscolor = ($town.buildings[info[:BuildingIndex]] > 0) ? "<c2=318c675a>" : ($town.workers < info[:Workers]) ? "<c2=043c3aff>" : "<c2=06644bd2>" 
-				instantbuildcolor = ($town.buildings[info[:BuildingIndex]] > 0) ? "<c2=318c675a>" : "<c2=65467b14>"
 				
-				infos += fundscolor + _INTL("Funds: <b>") + info[:Funds].to_s + "</b> / " + $town.funds.to_s + "</c2>\n" + workerscolor + _INTL("Workers : <b>") + info[:Workers].to_s + "</b> / " + $town.workers.to_s + "</c2></ar>" 
-				if (info[:Instant] && info[:Instant] == 1) 
-					infos += "\n<ar>"+instantbuildcolor+"<i>" + _INTL("Instant build") + "</i></c2></ar>"
+				if $town.buildings[index] == 0 && data[2] == 0
+					$town.buildings[index] = 1
 				end
-				drawFormattedTextEx(overlay, @sprites["background"].x + 8 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + 24 + top_text_x_adj), infos, base, shadow)
+				state = $town.buildings[index]
+				
+				# Not brought yet
+				if state == 0
+					infos += _INTL("Not bought yet") + "\n"
+					fundscolor = ($town.funds < (data[2]*1000)) ? "<c2=043c3aff>" : "<c2=06644bd2>" 
+					infos += fundscolor + _INTL("Cost: <b>") + (data[2]*1000).to_s + "</b> / " + $town.funds.to_s + "</c2>\n"
+					infos += _INTL("Work required:\n ")
+					if data[1] == 0
+						infos += _INTL("None (Instant build)") 
+					else
+						infos += data[1].to_s 
+						if data[1] > 1
+							infos += _INTL(" working phases")
+						else
+							infos += _INTL(" working phase")
+						end
+					end
+					
+					
+				# Finished
+				elsif state > data[1]
+					infos += "<i> " + _INTL("Finished !")+ "</i>\n"
+				# Not built
+				else
+					infos += _INTL("Progress: ") + (state-1).to_s + " / " + data[1].to_s + "\n"
+					if data[2] == 0
+						infos += _INTL("Free task") 
+					else
+						infos += _INTL("Invested $")
+						infos += (data[2]*1000).to_s
+					end
+				end
+				drawFormattedTextEx(overlay, @sprites["background"].x + 10 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + top_text_x_adj) + 5, infos, base, shadow)
 			end
 			text = "<al><fs=24>" + _INTL(info[:Text]) + "</fs></al>"
 			if info[:Stars]
@@ -479,15 +506,15 @@ class TipCard_Scene
 					text << $town.dayTrainers[0].to_s
 					text << "</ac></b><al>" + _INTL("Victories:") +"  <c3=B8A8E0,7240E8>Melly <b>"
 					text << $town.dayTrainers[8].to_s
-					if $town.buildings[50] == 3
+					if $town.rank >= 3
 						text << "  </c3></b><c3=BDA46A,736440>Samy <b>"
 						text << $town.dayTrainers[9].to_s
 					end
-					if $town.buildings[70] == 3
+					if $town.rank >= 6
 						text << "  </c3></b><c3=A8E0E0,48D8D8>Kiana <b>"
 						text << $town.dayTrainers[10].to_s
 					end
-					if $town.buildings[90] == 3
+					if $town.rank >= 11
 						text << "  </c3></b><c3=F8A8B8,E82010>"
 						text << pbGet(12)
 						text << " <b>"
@@ -547,48 +574,48 @@ class TipCard_Scene
 						trainers = $town.dayTrainers[2]
 						text << "\n"
 						text << trainers.to_s
-						text << " " + _INTL("trainer(s) 2-star") + " x 2 = <c3=FFD700,DAA520>"
-						text << (trainers*2).to_s
+						text << " " + _INTL("trainer(s) 2-star") + " x 3 = <c3=FFD700,DAA520>"
+						text << (trainers*3).to_s
 						text << "</c3>"
 					end
 					if $town.dayTrainers[3] > 0
 						trainers = $town.dayTrainers[3]
 						text << "\n"
 						text << trainers.to_s
-						text << " " + _INTL("trainer(s) 3-star") + " x 3 = <c3=FFD700,DAA520>"
-						text << (trainers*3).to_s
+						text << " " + _INTL("trainer(s) 3-star") + " x 5 = <c3=FFD700,DAA520>"
+						text << (trainers*5).to_s
 						text << "</c3>"
 					end
 					if $town.dayTrainers[4] > 0
 						trainers = $town.dayTrainers[4]
 						text << "\n"
 						text << trainers.to_s
-						text << " " + _INTL("trainer(s) 4-star") + " x 5 = <c3=FFD700,DAA520>"
-						text << (trainers*5).to_s
+						text << " " + _INTL("trainer(s) 4-star") + " x 8 = <c3=FFD700,DAA520>"
+						text << (trainers*8).to_s
 						text << "</c3>"
 					end
 					if $town.dayTrainers[5] > 0
 						trainers = $town.dayTrainers[5]
 						text << "\n"
 						text << trainers.to_s
-						text << " " + _INTL("trainer(s) 5-star") + " x 7 = <c3=FFD700,DAA520>"
-						text << (trainers*7).to_s
+						text << " " + _INTL("trainer(s) 5-star") + " x 12 = <c3=FFD700,DAA520>"
+						text << (trainers*12).to_s
 						text << "</c3>"
 					end
 					if $town.dayTrainers[6] > 0
 						trainers = $town.dayTrainers[6]
 						text << "\n"
 						text << trainers.to_s
-						text << " " + _INTL("trainer(s) 6-star") + " x 10 = <c3=FFD700,DAA520>"
-						text << (trainers*10).to_s
+						text << " " + _INTL("trainer(s) 6-star") + " x 18 = <c3=FFD700,DAA520>"
+						text << (trainers*18).to_s
 						text << "</c3>"
 					end
 					if $town.dayTrainers[7] > 0
 						trainers = $town.dayTrainers[7]
 						text << "\n"
 						text << trainers.to_s
-						text << " " + _INTL("trainer(s) 7-star") + " x 15 = <c3=FFD700,DAA520>"
-						text << (trainers*15).to_s
+						text << " " + _INTL("trainer(s) 7-star") + " x 25 = <c3=FFD700,DAA520>"
+						text << (trainers*25).to_s
 						text << "</c3>"
 					end
 					dayTotalFame = $town.getDayTotalFame
@@ -597,7 +624,7 @@ class TipCard_Scene
 					text << $town.getDayTotalFame.to_s
 					text << "</c3></b></ar>"
 				else
-					limits = [0,21,51,105,210,365,585,880,1750,3020,4745,6970,11770,25000]
+					limits = [0,25,54,100,169,268,406,594,844,1169,1584,2106,2694,4999]
 					fameToAdd = $town.getDayTotalFame
 					startFame = $town.fame
 					startLevelFame = $town.calculateFameLvl
@@ -633,14 +660,8 @@ class TipCard_Scene
 			end
             if info[:Weekend]
 				if info[:Weekend] == 1
-					text = "<ac><b>" + _INTL("Task(s) done this week:") + " </ac></b><al>"
-					tasks = $town.messagesValidateBuildings
-					i = 0
-					while i < tasks.length
-						text << tasks[i]
-						i += 1
-						text << "\n" if i < tasks.length
-					end		
+					text = "<ac><b>" + _INTL("Buildings progressions this midweek :") + " </ac></b><al>"
+					text << $town.daysWork
 					money = $town.passiveFunds
 					text << "</al><ac>------------------------------\n" + _INTL("Weekly funds bonus:") + " <c3=FFD700,DAA520>"
 					text << money.to_s
@@ -659,7 +680,7 @@ class TipCard_Scene
 					text << $town.passiveFame.to_s
 					text << "</c3>"
 				elsif info[:Weekend] == 2
-					limits = [0,21,51,105,210,365,585,880,1750,3020,4745,6970,11770,25000]
+					limits = [0,25,54,100,169,268,406,594,844,1169,1584,2106,2694,4999]
 					fameToAdd = $town.passiveFame
 					startFame = $town.fame
 					startLevelFame = $town.calculateFameLvl
@@ -692,15 +713,8 @@ class TipCard_Scene
 						pbSEPlay("Pkmn exp gain")
 					end
 				elsif info[:Weekend] == 3
-					text = "<ac><b>" + _INTL("Task(s) done this midweek:") + " </ac></b><al>"
-					tasks = $town.messagesValidateBuildings
-					i = 0
-					while i < tasks.length
-						text << tasks[i]
-						i += 1
-						text << "\n" if i < tasks.length
-					end		
-					money = $town.passiveFunds
+					text = "<ac><b>" + _INTL("Buildings progressions this midweek :") + " </ac></b><al>"
+					text << $town.daysWork
 					text << "</al><ac>------------------------------"
 				else
 					startFame = $town.fame

@@ -6,10 +6,10 @@
 <b>Balignon:</b> Baliiiiiiiiiiii!
 <b>Elder:</b> I can see evil spirits... And you are one!!!!! Get ouuuuuuuuuuuut!!!!!
 <b>Mamie:</b> Je peux voir les esprits maléfiques… Comme toi !!!!! Va-t-eeeeeeeeen !!!!!!!!
-Level cap = 18
-Limite de niveau = 18
 There is only trash in there.
 Il n’y a que des déchets là-dedans.
+Level cap = 18
+Limite de niveau = 18
 <b>Elder:</b> Hello little one. I heard about a rare pokémon on Route 5 named Seviper.
 <b>Papy:</b> Bonjour jeune pousse. J’ai entendu parler d’un Pokémon rare sur la Route 5 appelé Seviper.
 <b>Elder:</b> I wish to have one but I'm not really good a catching Pokémons...
@@ -32,8 +32,6 @@ Papy
 <b>Papy:</b> Veux-tu échanger ton Séviper contre mon Tic ?
 <b>Elder:</b> Hello little one. I hope my dear Cloggy is fine with you.
 <b>Papy:</b> Bonjour jeune pousse. J’espère que mon cher Rolly se porte bien.
-<b>Psyduck:</b> Psypsyyyyy!
-<b>Psykokwak:</b> Ykokwak !
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, bienvenue au Centre Pokémon.
 <b>\c[5]Nurse:</b>\c[0] What? You got a package for us?
@@ -58,10 +56,12 @@ Papy
 <b>\c[5]Infirmière:</b>\c[0] Tes pokémon sont en pleine forme.
 <b>\c[5]Nurse:</b>\c[0] Take care sweetie!
 <b>\c[5]Infirmière:</b>\c[0] Sois prudent trésor !
-<b>Kid:</b> Can't you see I'm playing? Look out!
-<b>Gamin:</b> Tu vois pas que je suis en train de jouer ? Fais gaffe !
+<b>Psyduck:</b> Psypsyyyyy!
+<b>Psykokwak:</b> Ykokwak !
 Relaxation and meeting zone
 Zone détente & rencontres
+<b>Kid:</b> Can't you see I'm playing? Look out!
+<b>Gamin:</b> Tu vois pas que je suis en train de jouer ? Fais gaffe !
 <b>Klink:</b> Kliiiiiiii!
 <b>Tic:</b> Tiiiiiiiii!
 <b>Seviper:</b> Ssssssss!

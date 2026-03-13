@@ -2,20 +2,34 @@
 # translate every second line of this file.
 #-------------------------------
 [Map396]
-<b>Delinquent:</b> I sometimes feel like everybody has forgotten this place even exists...
-<b>Terreur:</b> J'ai parfois l'impression que tout le monde a oublié l'existence de cet endroit...
-Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
-Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 This stone is glowing!
 Cette pierre brille de mille feux !
 Do you want to use the Mining Kit?
 Voulez-vous utiliser le Kit de Minage ?
 This glowing rock was already mined.
 Cette pierre brillante a déjà été minée.
+<b>Delinquent:</b> I sometimes feel like everybody has forgotten this place even exists...
+<b>Terreur:</b> J'ai parfois l'impression que tout le monde a oublié l'existence de cet endroit...
+<b>Delinquent:</b> If you come down here, you're part of the family. Take this!
+<b>Delinquent:</b> If you come down here, you're part of the family. Take this!
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+<b>Scar:</b> Go away! This is my secret hideout!
+<b>Scar:</b> Go away! This is my secret hideout!
+<b>Scar:</b> Hmpf, okay, you can stay.
+<b>Scar:</b> Hmpf, okay, you can stay.
+<b>Nicole:</b> Hey! Don't disturb me!
+<b>Nicole:</b> Hey! Don't disturb me!
+<b>Nicole:</b> Okay but be quiet please!
+<b>Nicole:</b> Okay but be quiet please!
 <b>Jogger:</b> Nobody comes here... Perfect for jogging!
 <b>Joggeur:</b> Personne vient ici... Parfait pour le jogging !
-<b>Thug:</b> Hmpf, what do you want?
-<b>Voyou:</b> Hmpf, qu'est-ce que tu veux ?
+<b>Boris:</b> Hmpf, what do you want?
+<b>Boris:</b> Hmpf, what do you want?
+<b>Boris:</b> A fight, huh? huh? Come on!
+<b>Boris:</b> A fight, huh? huh? Come on!
+<b>Boris:</b> Leave me alone!
+<b>Boris:</b> Leave me alone!
 Yes
 Oui
 No

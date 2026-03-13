@@ -2,8 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map385]
-Reset the last minigame?
-Réinitialiser le dernier mini-jeu ?
 <b>Stephen:</b> Welcome to our beautiful Gym!
 <b>Stephen:</b> Bienvenue dans notre belle Arène !
 <b>Stephen:</b> Damn! That's a challenger!
@@ -12,22 +10,6 @@ Réinitialiser le dernier mini-jeu ?
 <b>Karim:</b> Des difficultés avec les Statitiks ?
 <b>Karim:</b> Good luck with the last minigame!
 <b>Karim:</b> Bonne chance pour le dernier mini-jeu !
-<b>Marley?:</b> Hello challenger and welcome to the Bug Gym!
-<b>Marley?:</b> Bonjour challenger et bienvenue dans l’Arène Insecte !
-<b>Marley?:</b> ...what? No my name is not Marley, why would that be? I'm Harvey!
-<b>Marley?:</b> ...quoi ? Non mon nom n’est pas Marley, pourquoi je m’appellerais comme ça ? Je suis Harvey !
-<b>Harvey:</b> Anyway, to defeat this Gym you will like having Rock, Fire or Flying Pokémons!
-<b>Harvey:</b> Bref, pour battre cette Arène les Pokémon Roche, Feu et Vol te seront très utiles !
-<b>Harvey:</b> Bug Pokémons are often underestimated but take care : they generally evolve early.
-<b>Harvey:</b> Les Pokémon Insectes sont souvent sous-estimés mais prends garde : ils évoluent généralement très tôt.
-<b>Harvey:</b> Prepare to face fully evolved Pokémons!
-<b>Harvey:</b> Prépare-toi à affronter des Pokémon complètement évolués !
-<b>Harvey:</b> To reach the Leader, you'll need to launch webs on Joltiks with these shooting-arrow- platforms!
-<b>Harvey:</b> Pour atteindre le Leader, tu devras lancer des toiles sur les Statitiks à l’aide de ces plateformes-flèches !
-<b>Harvey:</b> But be prepared, some Joltiks are moving fast! Good luck!
-<b>Harvey:</b> Mais attention, certains Statitiks bougent très rapidement ! Bonne chance !
-<b>Harvey:</b> Jotiks are hard to catch? Don't give up!
-<b>Harvey:</b> Les Statitiks sont durs à attraper ? N’abandonne pas !
 <b>Kathleen:</b> Hello again, \pn right?
 <b>Kathleen:</b> Rebonjour, \pn c’est ça ?
 <b>Kathleen:</b> As you know, I'm the Bug Leader. Are you ready to challenge me and get the Hive Badge?
@@ -54,6 +36,10 @@ Vous obtenez le Badge Ruche ! \f[HIVEBADGE]
 <b>Kathleen:</b> Hey \pn, ça va ?
 You already gave a gift to Kathleen this week!
 Vous avez déjà offert un cadeau à Kathleen cette semaine !
+You spend time helping Kathleen in her Gym.
+Vous passez du temps à aider Kathleen dans son Arène.
+You learn a lot!
+Vous apprenez plein de choses !
 Joltik flew away!
 Statititk s’est enfui !
 You hit all the Joltiks in 6 hits or less! Both the bonus bridges, left and right, are open!
@@ -70,6 +56,24 @@ You can interact with the statues left or right of the web pit to reset the last
 Vous pouvez intéragir avec les statues à gauche ou à droite de la fosse pour réinitialiser le dernier mini-jeu.
 Try to hit all joltiks in 6 hits or less to earn all the bonuses!
 Essayez de toucher tous les Statitiks en 6 tirs ou moins pour gagner tous les bonus !
+Reset the last minigame?
+Réinitialiser le dernier mini-jeu ?
+<b>Marley?:</b> Hello challenger and welcome to the Bug Gym!
+<b>Marley?:</b> Bonjour challenger et bienvenue dans l’Arène Insecte !
+<b>Marley?:</b> ...what? No my name is not Marley, why would that be? I'm Harvey!
+<b>Marley?:</b> ...quoi ? Non mon nom n’est pas Marley, pourquoi je m’appellerais comme ça ? Je suis Harvey !
+<b>Harvey:</b> Anyway, to defeat this Gym you will like having Rock, Fire or Flying Pokémons!
+<b>Harvey:</b> Bref, pour battre cette Arène les Pokémon Roche, Feu et Vol te seront très utiles !
+<b>Harvey:</b> Bug Pokémons are often underestimated but take care : they generally evolve early.
+<b>Harvey:</b> Les Pokémon Insectes sont souvent sous-estimés mais prends garde : ils évoluent généralement très tôt.
+<b>Harvey:</b> Prepare to face fully evolved Pokémons!
+<b>Harvey:</b> Prépare-toi à affronter des Pokémon complètement évolués !
+<b>Harvey:</b> To reach the Leader, you'll need to launch webs on Joltiks with these shooting-arrow- platforms!
+<b>Harvey:</b> Pour atteindre le Leader, tu devras lancer des toiles sur les Statitiks à l’aide de ces plateformes-flèches !
+<b>Harvey:</b> But be prepared, some Joltiks are moving fast! Good luck!
+<b>Harvey:</b> Mais attention, certains Statitiks bougent très rapidement ! Bonne chance !
+<b>Harvey:</b> Jotiks are hard to catch? Don't give up!
+<b>Harvey:</b> Les Statitiks sont durs à attraper ? N’abandonne pas !
 Yes
 Oui
 No

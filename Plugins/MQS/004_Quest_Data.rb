@@ -492,24 +492,24 @@ module QuestModule
 		:RewardString => _INTL("Maple relation up.")
 	}
 
+
 	MapleQuest2= {
 		:ID => "MapleQ2",
-		:Name => _INTL("Make an egg of your starter"),
-		:QuestGiver => "Prof Maple",
-		:Stage1 => _INTL("Bring the egg to Maple"),
-		:Location1 => "Pokémon Lab",
-		:QuestDescription => _INTL("Prof Maple has a shortage of starter Pokémons to give to new trainers. He asked you to give him an egg of your starter. To produce eggs, you must use the Day-Care."),
-		:RewardString => _INTL("Maple relation up.")
-	}
-
-
-	MapleQuest3= {
-		:ID => "MapleQ3",
 		:Name => _INTL("Bring a fossil"),
 		:QuestGiver => "Prof Maple",
 		:Stage1 => _INTL("Bring a fossil to Maple"),
 		:Location1 => "Pokémon Lab",
 		:QuestDescription => _INTL("Prof Maple needs a fossil for his researchs. Bring him one. You can found fossils in glowing rocks, or in the desert."),
+		:RewardString => _INTL("Maple relation up.")
+	}
+	
+	MapleQuest3= {
+		:ID => "MapleQ3",
+		:Name => _INTL("Make an egg of your starter"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Bring the egg to Maple"),
+		:Location1 => "Pokémon Lab",
+		:QuestDescription => _INTL("Prof Maple has a shortage of starter Pokémons to give to new trainers. He asked you to give him an egg of your starter. To produce eggs, you must use the Day-Care."),
 		:RewardString => _INTL("Maple relation up.")
 	}
 

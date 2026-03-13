@@ -62,6 +62,24 @@ Voulez-vous passer la prochaine matinée ?
 <b>\c[10]Maple:</b>\c[0] Merci beaucoup \pn !  Ton aide est vraiment appréciée.
 You have nothing to tell Maple about any quest.
 Vous n'avez rien à dire à Maple concernant des quêtes.
+<b>\c[10]Maple:</b>\c[0] Hello \pn, do you mind help me again?
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, tu veux bien nous aider à nouveau ?
+<b>\c[10]Maple:</b>\c[0] We need a fossil to test a new machine.
+<b>\c[10]Maple:</b>\c[0] We need a fossil to test a new machine.
+<b>\c[10]Maple:</b>\c[0] If we succeed, you'll be able to improve the Lab to lvl 2 and revive fossils !
+<b>\c[10]Maple:</b>\c[0] If we succeed, you'll be able to improve the Lab to lvl 2 and revive fossils !
+<b>\c[10]Maple:</b>\c[0] Can you give us one?
+<b>\c[10]Maple:</b>\c[0] Peux-tu nous en donner un ?
+<b>\c[10]Maple:</b>\c[0] Can you give us a fossil?
+<b>\c[10]Maple:</b>\c[0] Peux-tu nous donner un fossile ?
+<b>\c[10]Maple:</b>\c[0] No? Unlucky us!
+<b>\c[10]Maple:</b>\c[0] Non ? Pas de chance !
+<b>\c[10]Maple:</b>\c[0] What a magnificent one! Thank you so much!
+<b>\c[10]Maple:</b>\c[0] Quel beau spécimen ! Merci beaucoup !
+A few moments later...
+A few moments later...
+<b>\c[10]Maple:</b>\c[0] Okay, it works perfectly! Thank you \pn, you can now purchase the Lab improvement!
+<b>\c[10]Maple:</b>\c[0] Okay, it works perfectly!  Thank you \pn, you can now purchase the Lab improvement!
 <b>\c[10]Maple:</b>\c[0] Hello \pn, I might need help again.
 <b>\c[10]Maple:</b>\c[0] Bonjour \pn, je pourrais avoir encore besoin d’aide.
 <b>\c[10]Maple:</b>\c[0] I'm running low of starters to give to new \gt trainers.
@@ -78,18 +96,6 @@ Vous n'avez rien à dire à Maple concernant des quêtes.
 <b>\c[10]Maple:</b>\c[0] Reviens quand tu l’auras !
 <b>\c[10]Maple:</b>\c[0] Wonderful! Thank you very much \pn you're really helpful!
 <b>\c[10]Maple:</b>\c[0] Merveilleux ! Merci \pn ça m’aide beaucoup !
-<b>\c[10]Maple:</b>\c[0] Hello \pn, do you mind help me again?
-<b>\c[10]Maple:</b>\c[0] Bonjour \pn, tu veux bien nous aider à nouveau ?
-<b>\c[10]Maple:</b>\c[0] We need a fossil to test our new machine.
-<b>\c[10]Maple:</b>\c[0] On a besoin d'un fossile pour tester notre nouvelle machine.
-<b>\c[10]Maple:</b>\c[0] Can you give us one?
-<b>\c[10]Maple:</b>\c[0] Peux-tu nous en donner un ?
-<b>\c[10]Maple:</b>\c[0] Can you give us a fossil?
-<b>\c[10]Maple:</b>\c[0] Peux-tu nous donner un fossile ?
-<b>\c[10]Maple:</b>\c[0] No? Unlucky us!
-<b>\c[10]Maple:</b>\c[0] Non ? Pas de chance !
-<b>\c[10]Maple:</b>\c[0] What a magnificent one! Thank you so much!
-<b>\c[10]Maple:</b>\c[0] Quel beau spécimen ! Merci beaucoup !
 <b>\c[10]Maple:</b>\c[0] Hello \pn, Marley talked to me about the shinies.
 <b>\c[10]Maple:</b>\c[0] Bonjour \pn, Marley m'a parlé des shinys.
 <b>\c[10]Maple:</b>\c[0] He... He kinda have a obsession over this, right?
@@ -321,7 +327,7 @@ Vous n'avez rien à dire au Leader Normal concernant des quêtes (1).
 The Normal Leader looks to you with a flaming passion! Maybe they want a rematch?
 Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une revanche ?
 They show you a piece of paper with a big "40" on it.
-They show you a piece of paper with a big "40" on it.
+Iel vous montre un papier avec un gros "40" dessus.
 The Normal Leader takes a combat stance!
 Le Leader Normal prend une position de combat !
 The Normal Leader seems glad to have rematched you!
@@ -339,7 +345,7 @@ Le Leader Normal semble vraiment content !
 The Normal Leader looks to you with a flaming passion! Maybe they want another rematch?
 Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une autre revanche ?
 They show you a piece of paper with a big "60" on it.
-They show you a piece of paper with a big "60" on it.
+Iel vous montre un papier avec un gros "60" dessus.
 <b>Kathleen:</b> Hey \pn, did I ever talked to you about Bug Poékmons early evolutions?
 <b>Kathleen:</b> Hey \pn, je t’ai déjà parlé du fait que les Pokémon insecte évoluent tôt ?
 <b>Kathleen:</b> It's really cool! They can be fully evolved really early!
@@ -394,52 +400,20 @@ You can't spend time now: it's not the Weekend or Wednesday!
 Impossible de passer du temps : ce n'est ni le Weekend ni Mercredi !
 Do you want to spend time with Prof Maple? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec le Prof Maple ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spend time helping Prof Maple in his lab. You learn a lot!
-Vous passez du temps à aider le Prof Maple dans son labo. Vous apprenez plein de choses !
-You spend time hiking with Maple. It's really refreshing!
-Vous passez du temps en randonnée avec Maple. C’est vraiment revigorant !
-You spend time assisting Maple during his lessons at the academy. Students are really happy to learn from you!
-Vous passez du temps à assister Maple durant ses cours à l’Académie. Les élèves sont vraiment heureux d’apprendre de vous !
 Do you want to spend time with Marley? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec Marley ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spend time hanging out with Marley at the Gym. He is really cool!
-Vous passez du temps avec Marley dans l’arène. Il est vraiment cool !
-You spend time listening to music with Marley in a park. He has great taste!
-Vous passez du temps à écouter de la musique dans un parc avec Marley. Il a bon goût !
 You spend time at the Casino with Marley. Luckily, he pays for everything!
 Vous passez du temps au Casino avec Marley. Heureusement, il paye tout !
 Do you want to spend time with Melly? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec Melly ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spend time training with Melly at the Gym. She is really cool!
-Vous passez du temps à vous entraîner avec Melly dans l’arène. Elle est vraiment sympa !
-You spend time at the beach with Melly. This is really nice!
-Vous passez du temps à la plage avec Melly. C’est vraiment cool !
-You spend time hanging out with Melly in her bedroom. She is a great friend!
-Vous passez du temps avec Melly dans sa chambre. C’est vraiment une super amie !
 You spent the rest of the weekend with Prof Maple. You learnt a lot!
 Vous passez le reste du weekend avec le Prof Maple. Vous apprenez plein de choses !
 Do you want to spend time with the nurses? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec les infirmières ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spend time helping the nurses at the Pokémon Center. You learn a lot!
-Vous passez du temps à aider les infirmières dans le Centre Pokémon. Vous apprenez plein de choses !
-You spend time with the Blisseys of the Pokémon Center. They're so soft and cute!
-Vous passez du temps avec les Leuphories du Centre Pokémon. Ils sont si doux et mignons !
-You spend time at the Day-Care with the nurses, the Day-Care couple, and a lot of cute Pokémon. It's really heartwarming!
-Vous passez du temps à la Pension avec les infirmières, le couple de la Pension, et plein de Pokémon mignons. C’est si réconfortant !
 Do you want to spend time with the Normal Leader? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec le Leader Normal ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spend time helping the Normal Leader in their Gym. You learn a lot!
-Vous passez du temps à aider le Leader Normal dans son arène. Vous apprenez plein de choses !
-You chilled with the Normal Leader in their room! It was rather awkward...
-Vous passez du temps à vous détendre dans la chambre du Leader Normal. C’était légèrement bizarre…
 Do you want to spend time with Kathleen? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec Kathleen ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spend time helping Kathleen in her Gym. You learn a lot!
-Vous passez du temps à aider Kathleen dans son arène. Vous apprenez plein de choses !
-You went catching bugs with Kathleen in the forest! It was really cool!
-Vous passez du temps à captuer des insectes en forêt avec Kathleen ! C’était super cool !
-You chilled with Kathleen in her room! She's really friendly!
-Vous passez du temps à vous détendre dans la chambre de Kathleen. Elle est vraiment sympa !
 <b><c3=BDA46A,736440>Samy:</b></c3> All is right with you pal? Hahah!
 <b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 2!
@@ -461,7 +435,7 @@ Vous passez du temps à vous détendre dans la chambre de Kathleen. Elle est vra
 <b>\c[10]Maple:</b>\c[0] Stay safe during your travels \pn, and good luck!
 <b>\c[10]Maple:</b>\c[0] Sois prudent pendant tes voyages \pn, et bonne chance !
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 3!
-<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 3!
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 3 !
 Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 What do you want to know?
@@ -484,6 +458,573 @@ Mono Battles at the Gym.
 Combats Solo dans l'Arène.
 Double Battles at the Gym.
 Combats Double dans l'Arène.
+Title: Nekanta History, Vol. 1: Nekanta’s origin. Read?
+Titre: Histoire de Nekanta, Vol. 1 : Aux origines de Nekanta. Lire ?
+The enormous mountains at the south completely isolated the region from Unova, the closest developed country.
+Nekanta est un pays très récent. Les énormes montagnes du sud l’ont longtemps coupé de Unova, le pays développé le plus proche.
+The region was populated mainly by small settlements of hunters coming from the faraway islands or from Tlingit.
+La région était peuplée principalement de petits campements de chasseurs venant des Îles Faraway ou de Tlingit.
+Inhabitants of Tlingit, mainly people coming from Paldea, never really wanted to colonize all Nekanta, but they gave it its name.
+Les habitants de Tlingit, venant principalement de Paldea, n’ont jamais vraiment voulu coloniser tout Nekanta, mais lui ont donné son nom.
+Il faut noter que le nom de la plupart des villes de Nekanta viennent des appellations de Tlingit, comme une sorte de tradition qui perdure encore aujourd’hui !Interestingly, the name of most of Nekanta’s cities come from them too, a sort of a tradition that still exists today !
+Tlingitis, as they call themselves, stayed on a small part of the land, saying it was more than enough for them.
+Les Tlingitis, comme ils se nomment, sont restés dans une petite partie des terres, déclarant que c’était largement suffisant pour eux.
+Nekanta’s northern islands, including Nunavut, were mostly deserted save for a few hunters from the faraway islands,
+Les îles du nord de Nekanta, en particulier Nunavut, étaient principalement désertes à part quelques chasseurs venus des îles Faraway, 
+but they never really wanted to settle there.
+mais ils n’ont jamais eu l’intention de s’y installer.
+At the time, a lot of Pokémon already roamed the place, coming from The Continent via Tlingit,
+A l’époque déjà, un grand nombre de Pokémon peuplaient l’endroit, venant du Continent via Tlingit,
+from Unova by the south, or from islands by sea.
+de Unova au sud ou des îles par la mer.
+The region was a really calm place, but it would change a bit, soon enough.
+La région était très calme, mais ça allait changer rapidement.
+Title: Nekanta History, Vol. 2: Nekanta’s creation. Read?
+Titre: Histoire de Nekanta, Vol. 2 : Création de Nekanta. Lire ?
+Around seventy years ago, a young Pokémon Professor named Ginkgo
+Il y a environ 70 ans, un jeune Professeur Pokémon nommé Ginkgo 
+and his friend Maximilien, a real estate tycoon, decided to create the country of Nekanta.
+et son ami Maximilien, un magnat de l’immobilier, ont décidé de créer le pays de Nekanta.
+Ginkgo saw in these wild regions a great place to study Pokémon,
+Ginko voyait en ces régions sauvages une belle opportunité pour étudier les Pokémon,
+and quickly realised that the region was home to a lot of different Pokémon species, coming from various other regions.
+et réalisa rapidement que la diversité de Pokémon était presque inhabituelle, avec des Pokémon venant de toutes les autres régions connues.
+Maximilien began the development of the country’s future capital, Moonyang.
+Maximilien débuta le développement de la future capitale du pays, Moonyang.
+Maximilien taught all he could to his son Kristopher, still mayor of Moonyang to this day.
+Maximilien enseigna tout ce qu’il pouvait à son fils Kristopher, qui est toujours maire de la ville à ce jour.
+Meanwhile, Ginkgo spoke with Tlingit representatives to set borders of the country.
+Pendant ce temps, Ginkgo partit parlementer avec les représentants de Tlingit pour définir les frontières du pays.
+It was stated that Tlingitis were free to roam Nekanta as they always did, but Tlingit was still their "private" territory.
+Il fut décidé que les Tlingitis étaient libres d’arpenter tout Nekanta comme ils l’avaient toujours fait, mais que Tlingit restait leur “propriété privée”.
+Thus, a Nekantan can’t freely go to Tlingit without an authorization. Nowadays, this authorization is the infamous Tlingit pass.
+Ainsi, un Nekantien ne peut pas aller librement à Tlingit sans autorisation. De nos jours, cette autorisation est le bien connu Pass Tlingit.
+Ginkgo decided to stay closer to Tlingit and created the city of \tn.
+Ginkgo décida alors de rester proche de Tlingit et fonda la ville de \tn.
+Slowly, under supervision of Ginkgo and Maximilien, Nekanta opened up to the world, people came and started populating the country.
+Lentement, sous la supervision de Ginkgo et Maximilien, Nekanta s’ouvrit au monde, se peuplant petit à petit, village après village.
+Title: Nekanta History, Vol. 3: Ginkgo’s disciples. Read?
+Titre: Histoire de Nekanta, Vol. 3 : Les disciples de Ginkgo. Lire ?
+Ginkgo didn’t want to only study Pokémon, he wanted to transform the country into a proper Pokémon region, with its own League,
+Ginkgo ne voulait pas simplement étudier les Pokémon, il voulait changer le pays en une vraie région Pokémon, avec sa propre Ligue,
+Gyms…\nAround forty years ago, Ginkgo took 3 young persons with him : two promising trainers, and a really curious Pokémon student.
+Arènes…\nIl y a environ 40 ans, Ginkgo pris 3 jeunes personnes sous son aile : deux dresseurs prometteurs, et un étudiant Pokémon très curieux.
+Their names were Aristarque, Zanstra and Maple.
+Leurs noms étaient Aristarque, Zanstra et Maple.
+Under Ginkgo’s guidance, Maple learnt everything he needed to become a proper Pokemon Professor himself.
+Sous la supervision de Ginkgo, Maple apprit tout ce dont il avait besoin pour devenir lui-même un authentique Prof Pokémon. 
+Meanwhile, Aristarque and Zanstra trained themselves, pushed by an amical rivalry.
+Pendant ce temps, Aristarque et Zanstra s’entraînèrent, poussés par une rivalité amicale.
+Twenty years later, everything was ready : cities were flourishing, a lot of good trainers were there,
+20 ans plus tard, tout était prêt : les villes étaient florissantes, il y avait un grand nombre de bons dresseurs,
+Aristarque and Zanstra were ready to be the most important trainers of the region : the Champion and the final Gym Leader.
+Aristarque et Zanstra étaient prêts à devenir les deux plus importants dresseurs de la région : le Maître, et le Leader de la dernière Arène.
+Ginkgo once said that his disciples exceeded even his wildest expectations,
+Ginkgo a déclaré que ses disciples avaient dépassé ses espérances les plus folles, 
+and that he only feared an overheated rivalry between Aristarque and Zanstra.
+et que la seule chose qu’il craignait était une rivalité trop enflammée entre Aristarque et Zanstra.
+Luckily, he worried for nothing as the two of them always stayed in good terms.
+Par chance, ses inquiétudes étaient infondées, les deux étant toujours restés en bons termes.
+Title: Nekanta History, Vol. 4: Nekanta League creation. Read?
+Titre: Histoire de Nekanta, Vol. 4 : création de la Ligue de Nekanta. Lire ?
+Twenty-one years ago, everything was ready for the creation of the Nekanta League. Except for two little problems.
+Il y a 21 ans, tout était prêt pour la création de la Ligue de Nekanta. Mis à part deux petits problèmes.
+Firstly, Aristarque and Zanstra were going to be Champion and final Gym Leader. But who will be the Champion ?
+Tout d’abord, Aristarque et Zanstra allaient être Maître et Leader de la dernière Arène. Mais qui des deux allait être le Maître ?
+We don’t really know, even today, how Aristarque was chosen to be the Champion.
+On ne sait pas vraiment, encore aujourd’hui, pourquoi il fut décidé que le Maître serait Aristarque.
+Aristarque once said that Zanstra herself said she preferred Aristarque to be the Champion.
+Selon une de ses déclarations, ce serait Zanstra elle-même qui aurait préféré que Aristarque soit le Maître.
+But the second problem remained : both of them technically came from the same city, \tn.
+Mais le second problème restait entier : les deux venaient techniquement de la même ville, \tn.
+And Ginkgo didn’t want the League and the final Gym to be in the same city.
+Et Ginkgo ne voulait pas que la Ligue et l’Arène finale soit dans la même ville.
+Aristarque proposed to leave \tn and create a new city north of the Assiniboia desert.
+Aristarque se proposa alors de quitter \tn pour fonder une nouvelle ville au nord du désert d’Assiniboia.
+He said it would have a Central place, being close to the 3 main cities of the country : Greymoose, \tn and Moonyang.
+Il disait qu’elle aurait une place centrale, étant proche des 3 villes principales du pays : Greymoose, \tn et Moonyang.
+To emphasize this, Aristarque decided to simply name the new city Central Town,
+Pour souligner ce fait, Aristarque décida de simplement l’appeler la Ville Centrale,
+and quickly began to work on the Pokemon League building itself, while Zanstra stayed in control of \tn, with Maple.
+et commença rapidement à travailler sur le bâtiment de la Ligue Pokémon lui-même, pendant que Zanstra restait en contrôle de \tn avec Maple.
+A few months later, the Nekanta League was recognized by the Inter-League Organization, and became official.
+Quelques mois plus tard, la Ligue de Nekanta fut reconnue par l’Organisation Inter-League, et devint officielle.
+Quickly after, Ginkgo suddenly announced that he could leave Nekanta in the hands of his 3 disciples, and Kristopher.
+Peu de temps après, Ginkgo annonça soudainement qu’il laissait Nekanta entre les mains de ses 3 disciples, et de Kristopher 
+Kristopher’s father Maximilien had sadly passed away a few years before, due to a severe disease.
+Maximilien, le père de Kristopher, nous avait quitté quelques années auparavant des suites d'une grave maladie.
+Ginkgo then left without further information, leaving everyone a bit dumbfounded.
+Ginkgo partit ainsi sans plus d’explications, laissant tout le monde un peu sonné.
+Title: Nekanta History, Vol. 5 : The League and the Cataclysm. Read?
+Titre: Histoire de Nekanta, Vol. 5: La Ligue et le Cataclysme. Lire ?
+For twenty years Nekanta and its Pokémon League were flourishing, even without Ginkgo and Maximilien guidance.
+Pendant 20 ans, Nekanta et sa Ligue Pokémon ont prospéré sans heurts, même sans les conseils de Ginkgo et Maximilien.
+Nekanta attracted really good trainers, and the League quickly gained the reputation of being one of the toughest of all the Inter-League Organisation.
+Nekanta attirait de très bons dresseurs, et la Ligue gagna rapidement la réputation de faire partie des plus difficiles de toute l’Organisation Inter-Ligue.
+Aristarque gained popularity by being a really good Champion, offering a hard challenge,
+Aristarque gagna en popularité en étant un bon Maître, proposant un challenge vraiment relevé,
+after surrounding himself with some of his friends that became the Elite 4 - Makar, Cecily, Callistrate and Margaret.
+après s’être entouré de certains de ses amis, devenus le Conseil 4 - Makar, Cecily, Callistrate et Margaret.
+On the other hand, Zanstra herself was getting really popular, maybe even more than Aristarque.
+De l’autre côté, Zanstra elle aussi devenait extrêmement populaire, peut-être même encore plus qu’Aristarque.
+Her near-unmatched skill for Pokémon battles and the way she loved to pass on her knowledge led a lot of challengers to be almost in awe with her.
+Son talent quasi-inégalé en combat Pokémon, et sa capacité exceptionnelle pour transmettre ses connaissances ont amené un grand nombre de dresseurs à être presque en admiration devant elle.
+She always took a lot of time to talk with the challengers, gave them tips, and did all she could so that they would improve.
+Elle prenait toujours du temps pour parler avec les challengers, leur donner des conseils, et faisait tout ce qu’elle pouvait pour qu’ils progressent.
+The other Gym Leaders gained respect from trainers as well, and everything seemed fine. Until…
+Pendant ce temps, les autres Champions d’Arènes s’attiraient également le respect des dresseurs. Tout semblait aller bien, mais…
+The Cataclysm.
+Le Cataclysme.
+A devastating earthquake that nearly completely wiped out \tn.
+Un séisme dévastateur qui a failli complètement rayer \tn de la carte. 
+Even qualified scientists have a hard time explaining how such a powerful earthquake can even exist.
+Même d’éminents experts peinent à comprendre comment un tel séisme a pu survenir.
+But it did. Because of it, we lost most of \tn, including… Zanstra.
+Mais c’est arrivé. Et nous avons alors perdu presque tout \tn, y compris… Zanstra.
+Aristarque said it was the darkest day of all Nekanta history, stating that since this day, he can never really sleep well.
+Aristarque a déclaré qu’il s’agissait du jour le plus noir de l’histoire de Nekanta, et que depuis ce jour, il n’avait jamais vraiment réussi à retrouver le sommeil.
+He lost his mentor and his rival, and said it was “deeply unfair”.
+Il avait perdu son mentor et sa rivale, et déclara que c’était “profondément injuste”.
+Thankfully, Maple survived the earthquake and took after \tn, saying he will do his best to rebuild his mentor’s city.
+Par chance, Maple échappa à la catastrophe, et pris \tn sous son aile, déclarant qu’il ferait de son mieux pour reconstruire la ville de son mentor.
+Aristarque continues to this day to pursue the dream of Ginkgo (whom we never saw again), and to cherish his memories with his rival, Zanstra.
+Aristarque continue encore aujourd’hui de faire vivre le rêve de Ginkgo (que personne ne vit plus jamais), et d’honorer la mémoire de sa rivale, Zanstra.
+THE END
+FIN
+Title: The Inter-League Organisation. Read?
+Titre: L'Organisation Inter-League. Lire ?
+A few years ago, former Hoenn Champion Steven Stone left Hoenn’s League in the capable hands of his friend Wallace.
+Il y a quelques années, l’ancien Maître d’Hoenn Pierre Rochard a laissé la Ligue d’Hoenn entre les mains expertes de son ami Marc.
+Steven wanted to take time to explore the world and pursue his archeological researches, and so he did for several years.
+Pierre voulait prendre du temps pour explorer le monde et poursuivre ses recherches archéologiques, et c’est ce qu’il fit pendant plusieurs années.
+Being finally satisfied by these researches, he settled down but didn’t want to reclaim his title from his good friend Wallace, so he started a new project.
+Finalement satisfait par ses recherches, Pierre interrompit ses voyages mais, ne pouvant se résoudre à reprendre son ancien titre à son ami Marc, il lança un nouveau projet.
+Combining his love for the Leagues and the Pokémon battles,
+Combinant son amour pour les Ligues et les combats Pokémon,
+with his entrepreneurial skills from being the son of M. Stone, Devon Corp CEO, Steven had the idea of an Inter-League Organisation.
+avec ses qualités organisationnelles héritées de son père le PDG de Devon SARL, Pierre eut l'idée d'une Organisation Inter-Ligue.
+The goal of this organisation is to assemble Champions from different regions,
+Le but de l’organisation était de rassembler les Maîtres des différentes régions, 
+who could discuss improvements for the future of Pokémon battles, or even resolve inter-regional conflicts.
+wqui pourraient alors discuter d’améliorations pour le futur des combats Pokémon, ou même pour résoudre des conflits inter-régions.
+Quickly enough, all of the current known League Champions agreed to be part of the Organisation, with Steven Stone being on the lead.
+Assez rapidement, tous les Maîtres des régions connues ont accepté de rejoindre l’organisation, avec Pierre Rochard à leur tête.
+Today, everyone considers a Pokémon League “official” when - and only when - it is approved by the Inter-League Organisation.
+Aujourd’hui, tout le monde considère qu’une Ligue Pokémon est “officielle” si - et seulement si - elle est approuvée par l’Organisation Inter-Ligue.
+Title: The Pokémon types part 1: Definitions. Read?
+Titre: Les Types Pokémon partie 1 : Définitions. Lire ?
+All Pokémon have one or two types of their own.
+Chaque Pokémon possède un ou deux types qui lui sont propres.
+These types are important for both offense and defense, although the defensive one might be the most impactful.
+Ces types ont deux rôles : offensif et défensif. Mais le plus important est peut-être l’aspect défensif.
+Depending on what we call the type chart, moves with a certain type can be more or less effective on the receiving Pokémon.
+Suivant ce qu’on appelle la table des types, les attaques d’un certain type sont plus ou moins efficaces sur le Pokémon qui reçoit l’attaque.
+Thus, Fire is weak against Water ; Water is weak against Grass ; Grass is weak against Fire.
+Ainsi, le type feu craint l’eau ; l’eau craint la plante ; la plante craint le feu.
+For offense, type is important for the STAB mechanic.
+Offensivement, le type est important via la mécanique du STAB.
+In concrete terms, the power of offensive moves sharing a type with the Pokémon using them is increased by a half.
+Concrètement, la puissance des attaques du même type que le Pokémon qui les lance est augmentée de 50%.
+Having a double type can then be an advantage from this point of view, allowing more STABs.
+Avoir un double type est alors, de ce point de vue, avantageux pour avoir davantage d’attaques stabbées.
+But it can also be dangerous defensively, creating double weaknesses… or double resistances!
+Par contre, cela peut entraîner aussi des doubles faiblesses défensives dangereuses… Mais aussi des double résistances !
+Title: The Pokémon types part 2: On the offense! Read?
+Titre: Les Types Pokémon partie 2 : A l'attaque ! Lire ?
+Offense-wise, the most effective types are Fighting and Ground, supereffective against 5 types.
+Offensivement, les type les plus efficaces sont les types Combat et Sol super efficaces contre 5 types.
+Coming second, with 4 supereffectivities, are Fire, Ice, and Rock types.
+Viennent ensuite, avec 4 super-efficacités, les types Feu, Glace, et Roche.
+If we talk about double types, Fighting/Ground doesn’t have the best offensive coverage as 2 are doublons.
+En termes de double type, Combat/Sol n’est pas celui bénéficiant de la meilleure couverture car 2 sont en doublon.
+The only double type with a 9 types offensive coverage is the Fighting/Ice double type.
+Le seul double type disposant d’une couverture offensive de 9 types est le double type Combat/Glace.
+Only one Pokémon has this double type : Crabominable! But beware of the defensive aspect, with its 6 weaknesses…
+Un seul Pokémon dispose de ce double-type : Crabominable ! Mais attention à l’aspect défensif, avec ses 6 faiblesses…
+Title: The Pokémon types part 3: defensive measures. Read?
+Titre: Les Types Pokémon partie 3 : mesures défensives. Lire ?
+Defense-wise, the best type is clearly Steel with no less than 10 resistances and 1 immunity!
+Défensivement, le meilleur type est sans conteste le type Acier avec pas moins de 10 résistances et une immunité !
+Coming second, and that may surprise a lot of people, is the Fire type with its 6 resistances.
+Vient ensuite, et ça pourrait surprendre certains, le type feu et ses 6 résistances.
+If we talk about double types, it’s way more complex than the offensive part ; adding a type may adds its resistances, but also its weaknesses.
+En terme de double type, c’est plus complexe que pour la partie offensive ; en effet, ajouter un type c’est ajouter ses résistances certes, mais aussi ses faiblesses.
+Thus, a Pokémon having the two types with the most resistances (Steel/Fire) isn’t guaranteed to be the most resistant.
+Ainsi, un Pokémon combinant les deux types avec le plus de résistance (Acier/Feu) n’est pas forcément le plus résistant.
+Heatran, Fire/Steel, has 8 resistances and 1 immunity. That’s a lot, but not the most.
+Heatran, Feu/acier, dispose de 8 résistances et une immunité. C’est beaucoup, mais pas le mieux.
+The double type with the most resistances is Steel/Fairy, with no less than 10 resistances and two immunities!
+Le double type offrant le plus de résistances est Acier/fée, avec 9 résistances et 2 immunités.
+Thus, Magearna, Tinkaton, Mawile or even Klefki have a really good defense.
+Ainsi, Magearna, Forgelina, Mysdibule ou encore Trousselin sont a priori les Pokémon les plus fiables défensivement.
+But we can also mention the double types Water/Ground, Bug/Steel or Ghost/Dark with less resistances, but only one weakness!
+Cependant, on peut citer les double types Eau/Sol, Acier/insecte ou Spectre/Ténèbres qui certes ont bien moins de résistances, mais n’ont qu’une seule faiblesse !
+Pokémon like Swampert, Scizor or Sableye can be really strong defensively, if you don’t have the only type effective against them.
+Des Pokémon comme Laggron Cisayox ou Ténéfix peuvent alors être très solides, si on ne dispose pas du seul type pouvant les inquiéter.
+Title: Pokémon types 4: Advanced tips. Read?
+Titre: Les Types Pokémon partie 4 : Astuces avancées. Lire ?
+One can note that Pokémon type can also have more subtle effects.
+Il est à noter que le type d’un Pokémon peut avoir d’autres effets plus subtils.
+For instance, damage taken from Stealth Rock are not fixed but rather determined by the Pokémon’s Rock resistance.
+Par exemple, les dégâts des pièges de roc ne sont pas fixes et dépendent de la résistance à la roche du Pokémon les subissant.
+Thus, Aggron with its double Rock resistance will only take a quarter of the damage : a mere 3% of its HP.
+Ainsi, un Galeking et sa double résistance ne subira qu’un quart des dégâts soit à peine 3% de ses PV.
+Meanwhile, Talonflame and its double Rock weakness will take four times damage, its whole half HP!
+Par contre, un Flambusard et sa double faiblesse subira dégâts quadruplés, soit la moitié de ses PV !
+Type can also change the effects of other moves, like Curse, a move really different when used by a Ghost type.
+Le type peut aussi changer le comportement d’autres capacités, comme Malédiction qui change complètement d’effet si le lanceur est type Spectre.
+Title: The Pokémon types part 5: Trivia time! Read?
+Titre: Les Types Pokémon partie 5 : Des Anecdotes ! Lire ?
+Did you know?
+Le saviez-vous ?
+There is the same number of types resisting themselves as types that don't resist themselves!
+Il existe autant de types résistant à eux-mêmes que ne résistant pas à eux-mêmes !
+Poison and Fighting are the only types resisting each other!
+Poison et Combat sont les deux seuls types à se résister mutuellement !
+There are 8 immunities in total. Can you name them all?
+Il existe 8 immunités en tout. Pouvez-vous toutes les citer ?
+Lamperoie’s family is the only one without any weakness!
+La famille de Ohmassacre est la seule n’ayant aucune faiblesse !
+Ghost is immune to Normal and Fighting, but only Normal is immune to Ghost, Fighting isn’t!
+Spectre est immunisé au Normal et Combat, mais seul Normal est immunisé au Spectre, le Combat ne l’est pas !
+Title: Rule-Bending part 1: Weather. Read?
+Titre: Changer les règles 1 : Climats. Lire ?
+Climates are really powerful effects that can give a huge advantage during Pokémon battles.
+Les climats sont des effets très puissants pouvant donner un énorme avantage en combat.
+Climates are summoned by using the appropriate move, like Rain Dance for the rain.
+Les climats sont invoqués en utilisant la capacité correspondante, comme Danse Pluie pour la pluie.
+Furthermore, some abilities summon weather when the Pokémon enters the battle, like Peilipper summoning rain with Drizzle.
+De plus, certains Talents invoquent également un climat quand le Pokémon entre sur le terrain, comme le Crachin de Bekipan.
+There are 4 main climates : Rain, Sun, Sandstorm and Hailstorm.
+Il y a 4 climats principaux : Pluie, Soleil, Tempête de sable et Tempête de grêle.
+Rain makes water moves stronger and fire moves weaker.
+La pluie renforce les attaques eau et affaibli les attaques feu.
+Sun is the opposite, making fire moves stronger and water moves weaker.
+Le soleil fait l’inverse, renforçant les attaques feu et affaiblissant les attaques eau.
+Sandstorm damages Pokémon each turn, except the Ground, Rock and Steel types.
+La Tempête de sable inflige des dégâts aux Pokémon chaque tour, sauf s’ils sont type Roche Sol ou Acier.
+Rock types also have their Special Defense raised by 50%.
+De plus, les Pokémon Roche voient leur Défense Spéciale augmenter de 50%.
+Hailstorm damages Pokémon each turn, except Ice Pokémon, who also have their Physical Defense raised by 50%.
+La Tempête de grêle inflige des dégâts aux Pokémon chaque tour, sauf les Pokémon glace, dont la défense augmente de 50%.
+These are just the basic effects of each climate. There are a lot of additional “little” effects too that we won’t list here.
+Voici juste les effets basiques de ces climats. Il y a bien plus d’effets mineurs que nous ne listerons pas ici.
+For example, hailstorm allows the use of Aurora Veil and makes the move Blizzard hit every time.
+Par exemple, la Tempête de grêle permet d’utiliser Voile Aurore et fait que Blizzard n’échoue jamais.
+One can also note that a lot of Pokémon have abilities giving them a bonus under a certain climate.
+On peut noter aussi qu’il existe un grand nombre de Talents liés aux climats.
+Thus, Ludicolo’s Swift Swim makes it faster under the rain, while Jumpluff’s Leaf Guard prevents status change under the sun.
+Ainsi, Ludicolo va plus vite sous la pluie grâce à Glissade, tandis que Feuille garde de Cotovol le protège des effets de statut sous le soleil.
+We can also mention Castform, a Pokémon whose form (and type) changes completely depending on the weather.
+On peut aussi mentionner Morphéo, un Pokémon dont la forme (et le type) changent radicalement selon la météo.
+In addition to these 4 main climates, there are other “minor” climates rarely seen, like strong winds, fog,
+En plus de ces 4 climats principaux, il existe des climats mineurs, rarement croisés, comme brume, 
+shadowy aura…\nAll of the climates are summoned for 5 turns, or 8 turns if the Pokémon have the corresponding item like Damp Rock for the rain.
+aura sombre…\nTous les climats sont invoqués pour une durée de 5 tours, ou 8 si le Pokémon tient l’objet correspondant (comme Roche Humide pour la pluie).
+Be aware, though, that a Pokémon using Calm Sky or with the ability Cloud Nine will negate the effect of the climate.
+Soyez conscient, cependant, qu’un Pokémon utilisant Beau Fixe ou ayant Ciel Gris annulera l’effet de la météo.
+Don’t neglect climates, as it’s a really powerful tool for your Pokémon battles!
+Ne négligez pas les climats, c’est un outil très puissant pour les combats Pokémon !
+Title: Rule-Bending part 2: Terrains. Read?
+Titre: Changer les règles 2 : Champs. Lire ?
+Terrain, like climates, are really powerful tools for Pokémon battles.
+Les Champs, comme les climats, sont de puissants outils pour les combats Pokémon.
+Methods for creating a terrain are the same as for summoning climates :
+Les méthodes pour créer un champ sont les mêmes que pour les climats :
+Either with the move bearing the name of the terrain like Psychic Terrain ; or with a pokémon ability like Indeedee’s Psychic Surge.
+Soit avec la capacité portant le nom du Champ, comme Champ Psychique ; ou via le talent d’un Pokémon comme Créa-Psy de Wimessir.
+There are 4 different terrains : psychic, grassy, electric and misty.
+Il y a 4 Champs différents : psychique, herbu, électrifié et brumeux.
+Psychic terrain prevents priority moves from being used and boosts psychic moves by 30%
+Le Champ Psychique protège des capacités prioritaires et augmente les dégâts psy de 30%.
+Grassy terrain heals Pokémon each turn and boosts grass moves by 30%
+Le Champ Herbu soigne les Pokémon chaque tour et augmente les dégâts type Plante de 30%.
+Electric terrain prevents Pokémon from falling asleep and boosts electric moves by 30%
+Le Champ Électrifié empêche de s’endormir et augmente les dégâts électriques de 30%.
+Misty terrain prevents status change and halves damage from dragon moves.
+Le Champ Brumeux empêche tout changement de statut et réduit de moitié les dégâts type dragon.
+Please note that all of these effects only affect Pokémon on the ground.
+Veuillez noter que seuls les Pokémon au sol subiront ces effets.
+Levitating or Flying Pokémon don't touch the terrain thus aren’t affected by it.
+Les Pokémon volant ou en Lévitation ne touchent pas le champ et ne sont donc pas affectés.
+Just like for the climate, there are a lot of minor additional effects like boosted moves.
+Comme pour les climats, il y a un grand nombre d’effets mineurs additionnels.
+And also like climates, some Pokémon have abilities depending on the terrain like Alolan Raichu’s Surge Surfer.
+De même, certains Pokémon ont un talent dépendant d’un champ comme le Surf Caudal de Raichu d’Alola.
+Lastly, once more just like climates, terrains last 5 turns, or 8 turns if the Pokémon holds a Terrain Extender.
+Enfin, toujours comme les climats, les champs durent 5 tours, 8 si le Pokémon tient un Champ’Duit
+Don’t neglect terrains either! It can really be a game- changer!
+Ne négligez pas non plus les Champs ! C’est vraiment très impactant !
+Title: Rule-Bending part 3: Trick Room and rare things. Read?
+Titre: Changer les règles 3 : Distorsion et choses rares. Lire ?
+In addition to climates and terrains, other “rule- bending” moves also exist.
+En plus des champs et des terrains, d’autres capacités changeant les règles existent.
+The most important is clearly Trick Room.
+La plus importante étant clairement Distorsion.
+Trick Room reverses the move order: slower Pokémon attack first.
+Distorsion inverse l’ordre de jeu : les Pokémon les plus lents jouent en premier.
+Contrary to climates and terrains, there is no Abilities creating a Trick Room on Pokémon entrance.
+Contrairement aux climats et aux champs, aucun Talent ne crée de Distorsion à l’arrivée d’un Pokémon.
+The only way is to use the Trick Room move, which is always played on the very end of the turn.
+Le seul moyen est d’utiliser la capacité Distorsion, qui est toujours jouée à la toute fin du tour.
+Like climates and terrains, Trick Room lasts 5 turns but there is no item extending its duration to 8 turns.
+Comme les climats et les champs, Distorsion dure 5 tours mais il n’y a pas d’objet augmentant sa durée.
+Other “rooms” exists with similar mechanics :
+D’autres “zones” similaires existent avec des mécaniques semblables :
+Magic Room negates effects of most held items.
+La Zone magique annule les effets de la plupart des objets tenus.
+Wonder Room swaps Defense and Special Defense of all Pokémon.
+La Zone Étrange échange la Défense et la Défense Spéciale de tous les Pokémon.
+These “Rooms” are more niche but can also be really game-changing!
+Ces “Zones” sont un peu plus niche mais peuvent vraiment tout changer !
+Title: Rule-Bending part 4: Entry Hazards. Read?
+Titre: Changer les règles 4 : Entry hazards. Lire ?
+If you want to gain an edge on your opponent for the entire battle, you may want to draw entry hazards.
+Si vous voulez avoir un avantage sur vos adversaires, vous devriez utiliser des Entry Hazards !
+Entry hazards are moves that affect Pokémon entering the battle.
+“Entry hazard” désigne des capacités affectant les Pokémon entrant sur le terrain.
+Stealth rock and spikes damage the entering Pokémon.
+Les pièges de roc et les picots infligent des dégâts au Pokémon entrant.
+Poison spikes poisons entering Pokémon.
+Les pics toxiques empoisonnent le Pokémon entrant.
+Sticky web reduces the speed of entering Pokémon.
+La Toile gluante réduit la vitesse du Pokémon entrant.
+Having drawn these moves gains you an edge on the opponent but be careful : their effects can be removed!
+Avoir placé ces cpacités donne un réel avantage sur l’adversaire mais soyez prudents : ces effets peuvent être retirés !
+Moves like Rapid Spin or Defog can remove these hazards, and Calm Sky removes Stealth Rocks.
+Des capacités comme Tour Rapide ou Defog peuvent retirer tous ces effets, et Beau Fixe retire les Pièges de Roc.
+Don’t underestimate their power: they can really make a difference in battle!
+Ne sous-estimez pas leur puissance : ils peuvent vraiment faire la différence en combat !
+Title: Rule-Bending part 5: Screens and wind. Read?
+Titre: Changer les règles 5 : Murs et vent. Lire ?
+Somewhat close to entry hazards and terrain/weather effects, let’s talk about the screens, and Tailwind.
+En quelque sorte à mi-chemin entre climats/champs et entry hazards, parlons des murs et du vent arrière.
+Tailwind is a move that, for 5 turns, boosts the speed of Pokémon on the side of the launcher.
+Le Vent Arrière booste la vitesse des Pokémon du côté du lanceur.
+Like everything in the sky, it can be negated by the move Calm Sky.
+Comme tout ce qui est dans le ciel, cela peut être annulé par Beau Fixe.
+Screens are moves that protect Pokémon on the side of the launcher, reducing incoming damage.
+Les murs sont des capacités réduisant les dégâts subis par les Pokémon du côté du lanceur.
+Reflect reduces Physical damage, Light Screen Special damage.
+Protection réduit les dégâts physiques, Mur Lumière les dégâts spéciaux.
+Aurora Veil reduces both damage types but can only be used during a hailstorm.
+Voile aurore réduit les deux mais ne peut être utilisé que lors d’une Tempête de Grêle.
+All these screens last 5 turns, or 8 if the Pokémon holds a Light Clay.
+Tous ces murs durent 5 tours, 8 si le lanceur tient une Lumargile.
+Be careful around fighting types: the Brick Break move shatters these screens, removing their effects!
+Attention aux types combat : le capacité Casse-Brique détruit ces murs, annulant leur effet !
+Screens and Tailwind can really help you against dangerous foes, don’t forget about them!
+Les Murs et le Vent Arrière peuvent vraiment aider contre des adversaires dangereux, ne les oubliez pas !
+Title: Pokémon Statistics vol. 1: Definitions. Read?
+Titre: Stats des Pokémon vol. 1 : Définitions. Lire ?
+The strength of every Pokémon is represented by its statistics.
+La force d’un pokémon est représentée par des statistiques.
+There are 6 different statistics each with its own utility.
+Il y 6 stats différentes, chacune ayant sa propre utilité.
+HP stands for Hit Points, indicating how much damage the Pokémon can take before being KO’d.
+Les PV, Points de Vie, indiquent combien de dégâts peut subir le Pokémon avant de tomber KO.
+Attack increases physical damage dealt by the Pokémon
+L’Attaque augmente les dégâts physiques infligés par le Pokémon.
+Defense reduces incoming physical damage on the Pokémon
+La Défense réduit les dégâts physiques subis par le Pokémon.
+Special Attack increases special damage dealt by the Pokémon
+L’Attaque Spéciale augmente les dégâts spéciaux infligés par le Pokémon.
+Special Defense reduces incoming special damage on the Pokémon
+La Défense Spéciale réduit les dégâts spéciaux subis par le Pokémon
+We remind you that (almost) every damaging move is either physical or special.
+Nous vous rappelons que (presque) toutes les attaques sont soit physiques soit spéciales.
+A physical attack will then use the launcher’s Attack and the receiver Defense.
+Une attaque physique utilise l’Attaque du lanceur et la Défense de la cible.
+A special attack will use the launcher’s Special Attack and the receiver’s Special Defense.
+Une attaque spéciale utilise l’Attaque Spéciale du lanceur et la Défense Spéciale de la cible.
+Finally, Speed determines the turn order.
+Enfin, la Vitesse détermine l’ordre de jeu.
+Like every other Pokémon battle concept, all of these definitions have exceptions.
+Comme pour tous les concepts de combats Pokémon, il y a des exceptions à ces principes.
+In addition to these 6 main stats, there are other minor stats like evasion, precision, crit chance.
+En plus de ces 6 stats principales, il y a d’autres stats mineurs comme l’esquive ou la précision.
+But these minor stats are the same for every Pokémon, and can only be changed during a battle.
+Mais ces stats mineures sont les mêmes pour tous les Pokémon, et ne peuvent être changées qu’en combat.
+Title: Pokémon Statistics vol. 2: In-battle modifications. Read?
+Titre: Stats des Pokémon vol. 2 : Modifications en combat. Lire ?
+Some moves weaken or improve a stat during battle.
+Certaines capacités augmentent ou diminuent une stat durant un combat.
+These changes only last for the current battle, obviously.
+Ces changements ne durent que le temps du combat, évidemment.
+When a stat is improved, it is improved by 50 percentage points each time.
+Quand une stat est augmentée, elle est augmentée de 50 points de pourcentage à chaque fois.
+So, improved one time : +50% ; two times +100% ; three times +150%, etc.
+Donc, augmentée une fois : +50% ; deux fois : +100% ; trois fois : +150%, etc.
+The limit is “+6”, improved 6 times, for +300% bonus, corresponding to a x4 (100% + 300% = 400%).
+La limite est “+6”, augmentée 6 fois, pour un bonus de +300%, soit un x4 (100% + 300% = 400%)
+For weakened stats, it’s a bit more complex to understand.
+Pour les stats diminuées, c’est un peu plus complexe à comprendre.
+We start at 100%, before any change. 100% = 1 = 2/2.
+On commence à 100%, avant changements. 100% = 1 = 2/2
+Every lowering of the stat adds 1 to the denominator.
+Chaque baisse de la stat ajoute 1 au dénominateur.
+Weakened 1 time : 2/3 of the original stat value.
+Diminuée 1 fois : 2/3 de la valeur d’origine
+2 times : 2/4 so half of the original stat value.
+2 fois : 2/4 soit la moitié de la valeur d’origine.
+3 times : 2/5 ; 4 times : 2/6 ; 5 times : 2/7 ; 6 times : 2/8
+3 fois : 2/5 ; 4 fois : 2/6 5 fois : 2 / 7 ; 6 fois : 2/8
+So when the stat is equal to a quarter of the original value, it is at its lowest possible.
+Donc quand la stat est égale à un quart de sa valeur d’origine, elle est à son minimum possible.
+Remember that a single move can improve or weaken a stat by several levels.
+Rappelez vous qu’une capacité peut augmenter ou diminuer une stat de plusieurs niveaux.
+We hope these explanations will make in-battle stats modifications more readable for you.
+Nous espérons que ces explications préciseront dans votre esprit ce que font les changements de stats en combat.
+Title: Pokémon Statistics vol. 3: Natures, IV, and EV. Read?
+Titre: Stats des Pokémon vol. 3 : Natures, IV, et EV. Lire ?
+A Pokémon's statistics depend on its species (and its level), but not entirely.
+Les stats d’un Pokémon dépendent de son espèce (et de son niveau), mais pas seulement.
+Every Pokémon has a Nature, and some IV & EV.
+Tous les Pokémon ont une Nature, et des IV & EV.
+The Nature of the Pokémon, determined at birth, improves one of its stats but lowers another.
+La Nature du Pokémon, déterminée à la naissance, augmente une de ses stats mais en baisse une autre.
+It can be any of its stats, excluding HP.
+Cela peut être n'importe quelle stat, sauf les PV.
+The improved stat has a 10% bonus and the lowered a 10% malus.
+La stat améliorée a un bonus de 10%, celle abaissée un malus de 10%.
+Note that these two stats can be the same one, resulting in a neutral Nature with no effects.
+Notez que ces deux stats peuvent être la même, ce qui résulte en une nature neutre, sans effet.
+IV, for Individual Values, represent the innate strength of the Pokémon.
+Les IV, Individual Values, représentent la force innée du Pokémon.
+Every Pokémon has between 0 and 31 IV points in each stat.
+Chaque Pokémon a entre 0 et 31 IV dans chaque stat.
+These values can be improved by giving stat feathers to the Pokémon.
+Ces valeurs peuvent être améliorées en donnant des plumes de stat au Pokémon.
+EV, for effort Values, represent strength earned by the Pokémon during its battles.
+Les EV, Effort Values, représentent la force gagnée par le Pokémon durant ses combats.
+Defeating a Pokémon earns EV depending on the Pokémon defeated.
+Battre un Pokémon fait gagner des EV dépendant du Pokémon battu.
+Every Pokémon can have 510 EV across all of its stats, with a limit of 252 per stat.
+Chaque Pokémon peut avoir jusqu’à 510 EV au total, avec une limite de 252 par stat.
+For every 4 IV/EV points, the stat of the Pokémon is increased by 1.
+Pour chaque 4 points d’IV/EV, la stat associée augmente de 1.
+Pokémon with good natures and nice IV/EV are really stronger, don’t underestimate that!
+Les Pokémon avec une nature adéquate et de bons IV/EV sont vraiment plus forts, à ne pas sous-estimer !
+Title: All about objets vol.1: General infos. Read?
+Titre: Tout sur les objets vol. 1 : Infos générales. Lire ?
+Every pokémon can hold one item, keeping it even in battles.
+Un Pokémon peut tenir un objet, le gardant avec lui même en combat.
+There are a lot of different items with a wide range of effects.
+Il y a beaucoup d’objets différents avec une grande variété d’effets.
+We can distinguish two types of items : passive items and berries.
+On peut distinguer deux types d’objets : les objets passifs et les baies.
+Passive items give a bonus to the Pokémon for the entire duration of the battle.
+Les objets passifs donnent un bonus au Pokémon pour toute la durée du combat.
+Berries are meant to be eaten by the Pokémon in a certain moment of the battle.
+Les baies sont faites pour être mangées par le Pokémon à un certain moment du combat.
+Be careful : give only berries, don’t give medicines to a Pokémon, it won’t know how to use it!
+Attention : ne donnez que des baies, et pas des médicaments, le Pokémon ne saurait pas les utiliser!
+Pokémon eat their berries when it's useful, for example when their HP are low for HP restoring berries.
+Les pokémon mangent leur baie quand c’est utile, une fois bas PV pour celles les soignant par exemple.
+Some moves and abilities interact with items, like Knock-off removing the target item.
+Certains talents et capacités interagissent avec les objets, comme Sabotage qui retire l’objet de l’adversaire.
+You can even swap your item with the foe’s one with Trick!
+Vous pouvez même échanger votre objet avec celui de l’adversaire grâce à Tourmagik !
+Don’t forget to give items to your pokémon! It can make a really huge difference!
+N’oubliez pas de donner des objets à vos Pokémon ! Cela peut réellement faire une énorme différence !
+Title: All about objects vol.2: Special items. Read?
+Titre: Tout sur les objets vol. 2 : Objets spéciaux. Lire ?
+Some items have particularly strong effects, and you should know about them.
+Certains objets ont des effets particulièrement puissants, et vous devriez les connaître.
+Focus Sash prevents the Pokémon from suffering one-hit KO!
+La Ceinture Force empêche le Pokémon d’être mis KO en un coup !
+Be careful though: Entry hazards can easily “break” this effect!
+Soyez vigilants cependant : les entry hazards peuvent facilement “casser” cet effet !
+Talking about Entry Hazards, the Heavy-Duty Boots negate their effects!
+En parlant des entry hazards, les Grosses Bottes annulent leur effet !
+Choice items boost attack, special attack or speed by a lot (+50%) but only allow use of 1 move!
+Les objets “Choix” augmentent l’attaque, l’attaque spéciale ou la vitesse de 50% mais obligent à n’utiliser qu’une capacité !
+It may appear really restricting but switching our the Pokémon resets the choice of the move used.
+Cela peut paraître restrictif mais l’effet est réinitialisé quand le Pokémon part du terrain.
+Life Orb boost general offensive power but damages user each turn. Use it with caution!
+L’orbe Vie augmente la puissance des attaques mais inflige des dégâts. A utiliser avec précaution !
+Flame Orb and Toxic Orb burns or poisons the Pokémon!
+L’orbe Flamme et l’Orbe Toxique brûle ou empoisonne le Pokémon !
+It may look like a malus, but it can be useful to specific Pokémon.
+Cela peut sembler un malus mais peut être utile à certains Pokémon.
+Leftovers heal the pokémon each turn by 1/16 of its max HP, excellent for defensive Pokémon!
+Les Restes soignent le Pokémon de 1/16 de ses PV max chaque tour, parfait pour les Pokémon défensifs !
+Assault Vest boosts Special Defense of the Pokémon, but prevents it from using non-attack moves!
+La Veste de Combat augmente la défense spéciale mais empêche d’utiliser des capacités non offensives !
+Lastly, Rocky Helmet damages any Pokémon making direct contact with the holder.
+Enfin, le Casque brut inflige des dégâts aux Pokémon entrant en contact avec le porteur.
+There are more important items out there. Be really attentive, items can really be devastating!
+Il y a encore d’autres objets importants. Soyez attentifs, les objets peuvent être dévastateurs!
+<b>TV:</b> Nekanta News: A strange Team?
+<b>TV:</b> Nekanta News: Une étrange Team ?
+Watch the report?
+Regarder le reportage ?
+<b>Reporter:</b> Various sources claim they saw strangely dressed persons in some place around northwest Nekanta.
+<b>Reporter:</b> Plusieurs sources affirment avoir vu des individus étrangement habillés autour du Nord-ouest de Nekanta.
+<b>Reporter:</b> Some say they try to steal other trainer’s Pokémon, claiming they want to “free” the Pokémon!
+<b>Reporter:</b> Certains affirment qu’ils essayent de voler les Pokémon des autres dresseurs, prétendant les “libérer” !
+<b>Reporter:</b> They call themselves “Team Absolution” and wear whitish clothes with a Yin & Yang symbol on it.
+<b>Reporter:</b> Ils se font appeler “Team Absolution” et portent des habits plutôt blancs avec un symbole de Yin & Yang dessus.
+<b>Reporter:</b> We urge our spectators to be really careful! If you spot one of them, go away and call the Police! 
+<b>Reporter:</b> Nous encourageons nos téléspectateurs à faire preuve d’une grande prudence si vous les croisez : partez et prévenez la police !
+<b>TV:</b> Nekanta News: A \gt Leader appears!
+<b>TV:</b> Nekanta News : Un Leader \gt apparaît !
+<b>Reporter:</b> This is the end for the provisionary \gt Gym in the Pokémon League. 
+<b>Reporter:</b> C’en est fini de l’Arène \gt temporaire au sein de la Ligue Pokémon.
+<b>Reporter:</b> \pn, a new \gt Leader from \tn, came and fought with Tom, the temporary \gt Leader. 
+<b>Reporter:</b> \pn, un nouveau Leader \gt venu de \tn, a combattu Tom, le Leader \gt par Intérim.
+<b>Reporter:</b> \pn is the one chosen by Maple to succeed Zanstra, the former over-popular \gt Leader that disappeared during the Cataclysm. 
+<b>Reporter:</b> \pn est la personne choisie par Maple pour succéder à Zanstra, l’ancienne ultra-populaire Leader \gt qui a disparu durant le Cataclysme.
+<b>Reporter:</b> Maple considers \pn, and the city of \tn, are ready, and thinks that the \gt Gym can open again!
+<b>Reporter:</b> Maple considère que \pn, et la ville de \tn, sont prêts, et que la véritable Arène \gt peut ouvrir à nouveau.
+<b>Reporter:</b> Thus, \pn beat Tom in a classic match and then in a rankup battle with fair rules, 
+<b>Reporter:</b> Ainsi, \pn a battu Tom lors d’un match classique puis lors d’un combat de rang avec règles équitables,
+winning the challenge set by Aristarque himself, thus becoming the new \gt Leader!
+réussissant ainsi le défi lancé par Aristarque, et devenant ainsi le Leader \gt !
+<b>Reporter:</b> Tom told us “I’m glad this is over! I have many other things to do in the League. Back to usual work!”.
+<b>Reporter:</b> Tom nous a déclaré “Je suis content que ce soit fini ! J’ai plein d’autres choses à faire au sein de la Ligue. Retour au travail habituel pour moi !”
+<b>Reporter:</b> Our popular Champion Aristarque told us afterwards : 
+<b>Reporter:</b> Notre populaire Maître Aristarque nous a déclaré :
+“The new Leader is really promising! I think their goal at \tn is to bring their Gym back to rank 12. Good luck to them!”
+“Le nouveau Leader est vraiment prometteur ! Je pense que son objectif est de ramener son Arène au rang 12. Je lui souhaite bonne chance !”
+<b>Reporter:</b> This concludes our report. Everyone, let’s bid good luck to \pn, the new \gt Leader!
+<b>Reporter:</b> Ceci conclut ce reportage. Tout le monde, souhaitons bonne chance à \pn, notre nouveau Leader \gt !
+<b>TV:</b> Nekanta News: Another earthquake?!
+<b>TV:</b> Nekanta News : Un autre séisme ?!
+<<b>Reporter:</b> Bad news for northwest Nekanta: another earthquake hit the region, this time near Sombake.
+<b>Reporter:</b> Mauvaise nouvelle pour le Nord-ouest de Nekanta : un autre séisme a frappé la région, cette fois près de Sombake.
+<b>Reporter:</b> Fortunately, it was a lot weaker than the one which destroyed \tn. But no doubt it scared the inhabitants!
+<b>Reporter:</b> Heureusement, il était bien plus faible que celui ayant détruit \tn. Mais aucun doute que les habitants ont été effrayés !
+<b>Reporter:</b> Following the incident, our new \gt Leader teamed with Samy, friend of Greymoose’s Leader, to explore a tunnel created by the event.
+<b>Reporter:</b> A la suite de l’incident, notre nouveau Leader \gt a fait équipe avec Samy, un ami du Leader de l’Arène de Greymoose, pour explorer un tunnel révélé par le séisme.
+<b>Reporter:</b> There, they stumbled upon members of vile Team Absolution! Remember, we talked about them some time ago!
+<b>Reporter:</b> A l’intérieur, ils sont tombés sur des membres de la vile Team Absolution ! Rappelez-vous, nous vous en avions parlé il y a quelque temps !
+<b>Reporter:</b> They managed to defeat them all, including a Team Admin. Hooray for them!
+<b>Reporter:</b> Ils ont réussi à tous les battre, y compris un Admin de la Team. Bravo à eux !
+<b>Reporter:</b> There is a rumor saying that Team Absolution may be the ones creating these earthquakes… Stay tuned, and back to the studios!
+<b>Reporter:</b> Une rumeur affirme ainsi que c’est la Team Absolution qui est derrière ces séismes… Affaire à suivre, à vous les studios !
+<b>TV:</b> Nekanta News: Team Absolution defeated!
+<b>TV:</b> Nekanta News : La Team Absolution est vaincue !
+<b>Reporter:</b> Today is a day to remember!
+<b>Reporter:</b> Aujourd’hui est un jour à marquer d’une pierre blanche !
+<b>Reporter:</b> Thanks to the heroïc intervention of Aristarque, our dear Champion, Team Absolution’s plans were shattered!
+<b>Reporter:</b> Grâce à l'action héroïque d’Aristarque, notre cher Maître, les plans de la Team Absolution ont volé en éclats !
+<b>Reporter:</b> Let’s listen directly to our Champion.
+<b>Reporter:</b> Écoutons directement notre Maître.
+<b>Aristarque:</b> Our dear Tom, whom you may know by being the former \gt Leader, investigated a potential stronghold of Team Absolution.
+<b>Aristarque:</b> Notre cher Tom, que vous connaissez peut-être comme l'ancien Leader \gt par intérim, menait l’enquête sur ce qui pouvait être une base de la Team Absolution.
+<b>Aristarque:</b> He was with 3 of his friends, including our new \gt Leader. But it turns out it was actually their headquarters !
+<b>Aristarque:</b> Il était avec 3 de ses amis, dont notre nouveau Leader \gt. Mais il s’avère que c’était en réalité leur QG !
+<b>Aristarque:</b> It was a kind of a trap because me and the Elite 4 were lured out to a false alarm in Moonyang.
+<b>Aristarque:</b> C’était une sorte de piège car le Conseil 4 et moi-même avons été envoyés sur une fausse alerte à Moonyang.
+<b>Aristarque:</b> Tom and his friends were then cornered by the powerful Leader of the Team!
+<b>Aristarque:</b> Tom et ses amis furent ainsi pris au piège par le puissant Leader de la Team !
+<b>Aristarque:</b> But I sensed something was not right, so I came anyway and boy I’m glad I did that!
+<b>Aristarque:</b> Mais j’avais un mauvais pressentiment, donc je suis tout de même venu et mon gars, je suis content de l’avoir fait !
+<b>Aristarque:</b> With Cecily and Callistrate, we easily overthrew them! So they’re all under arrest!
+<b>Aristarque:</b> Avec Cecily et Callistrate, on les a facilement défaits ! Donc ils sont tous en état d’arrestation désormais !
+<b>Reporter:</b> We can’t thank Aristarque enough! Thanks to him, the vile Team Absolution is finally behind us! Studios, back to you!
+<b>Reporter:</b> Nous ne pourrons jamais assez remercier Aristarque ! Grâce à lui, l’ignoble Team Absolution est enfin de l’histoire ancienne ! A vous les studios !
 Evaluate Pokédex
 Evaluer Pokédex
 Quit

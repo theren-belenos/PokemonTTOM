@@ -4,6 +4,8 @@
 [Map397]
 <b>Teacher:</b> Man, I miss working at \tn 's Academy...
 <b>Enseignant:</b> Sérieux, travailler à l'université de \tn me manque...
+It's full of touristic guides...
+It's full of touristic guides...
 <b>Bugmaniac:</b> I swear to God I will get mad. How is it possible I only got Cascoons? TEN TIMES IN A ROW???
 <b>Entomomaniac:</b> J'ai juré je vais devenir fou. Comment c'est possible que j'aie que des Blindalys ? DIX FOIS DE SUITE ??
 <b>Bugmaniac:</b> YOU!!! I BEG!!! Do you have a Silcoon??? Please!!!
@@ -38,14 +40,20 @@ Entomomaniac
 <b>Entomomaniac:</b> Merci encore!
 There is only trash in there.
 Il n'y a que des déchets là-dedans.
+It's full of important looking folders...
+It's full of important looking folders...
 <b>Cameraman:</b> ZZZZzzzzz....
 <b>Caméraman:</b> ZZZZzzzzz....
 You wonder if all cameramen can shoot while sleeping...
 Vous vous demandez si tous les caméramans peuvent filmer en dormant...
+It's full of textbooks...
+It's full of textbooks...
 <b>Teacher:</b> Having underage pupils is kinda tiring... But they're so cute!
 <b>Enseignant:</b> Enseigner à des petits est un peu fatiguant... Mais ils sont si mignons !
 <b>Man:</b> Without coffee, I would be sleepy all the time...
 <b>Homme:</b> Sans café, j'aurais tout le temps sommeil...
+It looks like a trophy case...
+It looks like a trophy case...
 <b>Wurmple:</b> Upleeee!
 <b>Chenipotte:</b> ipooootte!
 <b>Actor:</b> So we can't shoot the ad huh? Figures, I needed a break anyway.
@@ -54,6 +62,8 @@ Vous vous demandez si tous les caméramans peuvent filmer en dormant...
 <b>Écolière:</b> Tremble ! Mon dessin !
 <b>Schoolgirl:</b> Are you super scared? Hehehehe
 <b>Écolière:</b> T'as super peur ? Hehehehe
+It's full of promotional goodies and prospectus...
+It's full of promotional goodies and prospectus...
 <b>Man:</b> ...and here... a flashy transition! Ha!
 <b>Homme:</b> et là... une transition flashy ! Ha !
 <b>Receptionist:</b> Welcome to the Townhouse! We hope you have a great day!
@@ -92,6 +102,8 @@ Vous recevez un oeuf !
 <b>Producteur:</b> Je ne sais même pas quel Pokémon va en sortir… J’espère pour toi que ce sera quelque chose de bien !
 <b>Producer:</b> Now let us work! Shoo, shoo!
 <b>Producteur:</b> Maintenant laisse nous travailler ! Aller, ouste !
+It's full of report cards, meeting reports, administrative documents...
+It's full of report cards, meeting reports, administrative documents...
 This is a drink vending machine. Wanna buy something?\G
 C'est un distributeur de boisson ? Acheter ?\G
 \G...Klang! One bottle of Fresh Water fell down!
@@ -248,6 +260,10 @@ Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre c
 <b>Écolier:</b> Trop cool hein? Ouais, je sais !
 <b>Tourist:</b> My my! Everybody is so charming in here~
 <b>Touriste:</b> Ohlala ! Tout le monde ici est si charmant~
+\GThis is a drink vending machine. Wanna buy something?
+\GThis is a drink vending machine. Wanna buy something?
+<b>Man:</b> This must be our absolute priority.
+<b>Homme:</b> Cela devrait être notre priorité absolue.
 <b>Receptionist:</b> Hello! Where do you want to go?
 <b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
 <b>Receptionist:</b> You're already on this floor!
@@ -258,16 +274,12 @@ Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre c
 <b>Réceptioniste:</b> Passez une bonne journée !
 <b>Anchorwoman:</b> The investigation following the recent earthquake is still going...
 <b>Présentatrice:</b> L'enquête sur le récent séisme est toujours en cours...
-<b>Man:</b> This must be our absolute priority.
-<b>Homme:</b> Cela devrait être notre priorité absolue.
-\GThis is a drink vending machine. Wanna buy something?
-\GThis is a drink vending machine. Wanna buy something?
-<b>Worker:</b> I come here often to drink a lemonade and talk to people.
-<b>Travailleur:</b> Je viens souvent ici pour boire une limonade et discuter avec des gens.
 <b>Schoolboy:</b> See! My drawing!
 <b>Écolier:</b> Regarde ! Mon dessin !
 <b>Schoolboy:</b> I'm proud of it!
 <b>Écolier:</b> J'en suis fier !
+<b>Worker:</b> I come here often to drink a lemonade and talk to people.
+<b>Travailleur:</b> Je viens souvent ici pour boire une limonade et discuter avec des gens.
 <b>Man:</b> I swear, you're too naïve!
 <b>Homme:</b> Je le dis, vous êtes trop naïfs !
 <b>Hiker:</b> I'm about to go hiking!
@@ -292,14 +304,14 @@ Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre c
 <b>Dame:</b> Puis-je t'aider ?
 <b>Policeman:</b> W...well, we have some leads, obviously! I... I just can't reveal them in case he is watching us!
 <b>Policier:</b> E...eh bien, on a quelques pistes, bien sûr ! Je...je peux juste pas les révéler au cas où il nous écoute !
-<b>Lady:</b> Hello honey! Do you need some help?
-<b>Dame:</b> Bonjour trésor ! Tu as besoin d'aide ?
 <b>Teacher:</b> Sorry I'm uploading test results... this class is improving fast!
 <b>Enseignant:</b> Désolé je rentre des résultats de contrôles... cette classe progresse à vue d'oeil !
-<b>Journalist:</b> So you're saying you don't know where the suspect went?
-<b>Journaliste:</b> Donc vous nous dites que vous ne savez pas où le suspect s'est enfui?
+<b>Lady:</b> Hello honey! Do you need some help?
+<b>Dame:</b> Bonjour trésor ! Tu as besoin d'aide ?
 <b>Teacher:</b> ...hmmm... finding interesting activities is hard!
 <b>Enseignant:</b> ...hmmm... pas facile de trouver des activités intéressantes !
+<b>Journalist:</b> So you're saying you don't know where the suspect went?
+<b>Journaliste:</b> Donc vous nous dites que vous ne savez pas où le suspect s'est enfui?
 Yes
 Oui
 No

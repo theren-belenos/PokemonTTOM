@@ -3835,7 +3835,7 @@ Bonus de relation avec Marley, et un cadeau.
 Melly first training battle (lvl 20+)
 1er combat d’entraînement avec Melly (lvl 20+)
 Have a training battle with Melly
-Faire un combat d'entraînement avec Melly
+Faire un combat avec Melly
 Your Gym or Melly's house.
 Votre Arène ou chez Melly
 Melly wants to train with you. Battle her at your Gym. Her Pokémons will be around lvl 20. Note: you HAVE to win the battle to complete the quest
@@ -3869,7 +3869,7 @@ Bonus de relation avec Melly, et un cadeau.
 Samy first training battle (lvl 30+)
 1er combat d’entraînement avec Samy (lvl 30+)
 Have a training battle with Samy
-Faire un combat d'entraînement avec Samy
+Faire un combat avec Samy
 Your Gym or Samy's house.
 Votre arène ou chez Samy.
 Samy wants to train with you. Battle him at your Gym. His Pokémons will be around lvl 30. Note: you HAVE to win the battle to complete the quest
@@ -5163,7 +5163,7 @@ Interlude : Première semaine de travail
 Chapter 2: Get to rank 2
 Chapitre 2 : Monter de rang
 Progress as a Gym leader by completing sub-goals (quests called Ch.2-A, Ch.2-B and Ch.2-C), and get to rank 2 by winning the rank up battle.
-Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch2-A, Ch4-B et Ch4-C), et devenez rang 2 en gagnant le combat de rang.
+Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch2-A, Ch2-B et Ch2-C), et devenez rang 2 en gagnant le combat de rang.
 Ch.2-A: Get to fame level 3
 Ch.2-A: Atteindre le niveau de fame 3
 Ch.2-B: Get Sombake badge
@@ -5173,7 +5173,7 @@ Ch.2-C: Libérer la Pension
 Chapter 3: Bigger and better
 Chapitre 3 : Les choses en grand
 Progress as a Gym leader by completing sub-goals (quests called Ch.3-A, Ch.3-B and Ch.3-C), and get to rank 3 by winning the rank up battle.
-Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch4-A, Ch4-B et Ch4-C), et devenez rang 3 en gagnant le combat de rang.
+Progressez en tant que Champion en complétant les sous-objectifs (quêtes Ch3-A, Ch3-B et Ch3-C), et devenez rang 3 en gagnant le combat de rang.
 Ch.3-A: Get to fame level 6
 Ch.3-A: Atteindre le niveau de fame 6
 Ch.3-B: Get Greymoose badge
@@ -5348,3 +5348,133 @@ Allows the reconstruction of the house n°1 (Melly's house) afterwards.
 Permet la reconstruction de la maison n°1 (la maison de Melly) par la suite.
 Travel to the Pokémon League via Route 2, the Geodude Pit and Route 3 to become a true Gym Leader!
 Voyagez jusqu'à la Ligue Pokémon via la Route 2, la Fosse Racaillou puis la Route 3 pour devenir un vrai Champion d'Arène !
+Add a Worker
+Ajouter travailleur
+Remove a worker
+Retirer travailleur
+Not bought yet
+Pas encore acheté
+Cost: <b>
+Coût : <b>
+Construction duration:
+Durée de construction : 
+Finished !
+Terminé !
+Construction progress :
+Progression de la construction :
+Buildings progressions this midweek :
+Progression des constructions cette mi-semaine :
+Not enough funds to invest on this task
+Pas assez de fonds pour investir dans cette tâche
+Do you want to invest on this task ?
+Voulez-vous investir dans cette tâche ?
+As an instant build, the task is completed !
+La construction étant instantannée, elle est terminée !
+Workers currently on this task:
+Travailleurs sur cette tâche : 
+Currently unassigned workers:
+Travailleurs libres : 
+Work required:
+Travail requis :
+Progress:
+Progression : 
+Prerequisites not built yet.
+Prérequis pas encore construits.
+None (Instant build)
+Aucun (Instantanné)
+working phases
+périodes de travail
+working phase
+période de travail
+Prerequisites not satisfied.
+Prérequis non satisfaits.
+Progression:
+Progression : 
+. Workers:
+. Travailleurs :
+on this task ;
+sur cette tâche ; 
+free
+libres
+(Free task)
+(Gratuit)
+(Investment has cost
+(A coûté
+(Investment was
+(A coûté
+Free task
+Gratuit
+Investment was
+A coûté 
+Invested $
+A investi $
+Cost: $
+Coût : $
+. Funds available: $
+. Fonds disponibles : $
+.<<n>>Not enough funds to invest on this task
+.<<n>>Pas assez de fonds pour investir dans cette tâche
+.<<n>>Do you want to invest on this task ?
+.<<n>>Voulez-vous investir dans cette tâche ?
+<i>Prerequisites: Gym Interiors 1.</i><<n>>Improve interiors of your Gym. Repairs and clears everything.
+<i>Prérequis : Intérieurs de l'Arène 1.</i><<n>>Améliore l'intérieur de votre Arène. Répare et nettoie tout.
+Gain passive fame every week.<<n>>Passive fame : +2 per week.
+Gain de Fame chaque semaine.<<n>>Fame passive : +2 par semaine.
+<i>Prerequisites: Pokémon Lab 1.</i><<n>>Upgrades the Lab with a new scientist and research funds.
+<i>Prérequis : Labo Pokémon 1.</i><<n>>Améliore le Labo avec un nouveau scientifique et des fonds de recherche.
+Two rewards:<<n>>- New scientist; complete his quest to obtain an improved version of the Pokégear with a new tool : the Town Status Center (WIP for now).<<n>>- Passive town income +$500 per week
+2 récompenses :<<n>>- Nouveau scientifique : complétez sa quête pour ajouter l'Écran de Statut de la Ville (WIP for now) au Pokégear.<<n>>- Revenu passif +500 par semaine
+<i>Prerequisites: Clearing - Your house.</i><<n>>Build your House.
+<i>Prérequis: Déblayage - Votre maison.</i><<n>>Construit votre maison.
+Clearing - House 1
+Déblayage - Maison 1
+<i>Prerequisites: Clearing - Your house.</i><<n>>Clears the wreckage on the house n°1.
+<i>Prérequis : Déblayage - Votre maison.</i><<n>>Retire les débris sur la maison n°1.
+Clearing - Academy
+Déblayage - Académie
+<i>Prerequisites: Dept. Store 1-1.</i><<n>>Opens the second floor of the Dept. Store (Exploration items & Berries).
+<i>Prérequis : Centre Commercial 1-1.</i><<n>>Ouvre l'étage 2 du Centre Commercial (Objets d'exploration & Baies).
+<i>Prerequisites: Dept. Store 1-1.</i><<n>>Upgrades the first floor of the Department Store (Medicines & Balls).
+<i>Prérequis : Centre Commercial 1-1.</i><<n>>Améliore l'étage 1 du Centre Commercial (Médicaments & Balls).
+<i>Prerequisites: Gym Team First trainer</i><<n>>Allows you to have another trainer on your Gym.
+<i>Prérequis : Equipe d'Arène : premier dresseur</i><<n>>Vous permet d'avoir un autre dresseur dans votre Arène.
+<i>Prerequisites: Leader Room 1.</i><<n>>Upgrades the visuals of your Leader room.
+<i>Prérequis : Salle du Leader 1.</i><<n>>Améliore l'apparence de votre salle du Leader.
+Improve the money earned from the challengers (and the money lost when losing!) by 20%.<<n>>Passive fame +2 per week.
+Augmente l'argent gagné des challengers (et l'argent perdu en perdant !) de 20%.<<n>>Fame passive +2 par semaine.
+Pokémon Lab - Lvl.3
+Labo Pokémon - Niv.3
+<i>Prerequisites: Pokémon Lab 2.</i><<n>>Unlocks fossil revival machine and give passive money.
+<i>Prérequis: Labo Pokémon 2.</i><<n>>Débloque la possibilité de ressuciter les fossiles et donne des fonds passifs.
+Unlocks a machine that can revive fossils found in the desert or in glowing rocks.<<n>>Passive town income +$1000 per week
+Débloque une machine qui peut ressuciter les fossiles trouvés das le désert ou dans les Rochers Luisants.<<n>>Revenus passifs +$1000 par semaine
+<i>Prerequisites: Clearing House 1.</i><<n>>Build the first house : Melly's house.
+<i>Prérequis : Déblayage maison 1.</i><<n>>Construit la première maison : la maison de Melly.
+<i>Prerequisites: Clearing House 1.</i><<n>>Clears the wreckage on the Block 1.
+<i>Prérequis : Déblayage maison 1.</i><<n>>Retire les débris sur l'immeuble n°1.
+<i>Prerequisites: Clearing Town Exteriors.</i><<n>>Upgrades the exteriors of your Town, improving tourism.
+<i>Prérequis : Déblayage Extérieurs de la ville.</i><<n>>Améliore les extérieurs de votre ville, améliorant le tourisme.
+Various rewards:<<n>>- Prettier exteriors<<n>>- Passive Town income +$1000 per week<<n>>- A new Park with new NPCs and a quest
+Récompenses diverses :<<n>>- Extérieurs plus jolis<<n>>- Fonds passifs + $1000 par semaine<<n>>- Un nouveau parc avec des PNJ et une quête
+<i>Prerequisites: Clearing Town Exteriors.</i><<n>>The Day Care Man now sells bikes
+<i>Prérequis : Déblayage Extérieurs de la ville.</i><<n>>L'homme de la Pension vend maintenant des vélos
+<i>Prerequisites: Clearing Academy.</i><<n>>Build the Trainers Academy, giving you a lot of fame and tourism.
+<i>Prérequis : Déblayage Académie.</i><<n>>Construit l'Académie de dresseurs, vous donnant beaucoup de fame et de tourisme.
+Various rewards:<<n>>- A lot of PNJs, quests, items...<<n>>- Passive town income + $1500<<n>>- Passive fame +3 per week
+Récompenses diverses :<<n>>- Beaucoup de PNJs, quêtes, objets...<<n>>- Fonds passifs +$1500<<n>>- Fame passive +3 par semaine
+Clearing - Safari Park
+Déblayage - Pärc Safari
+Selfcare Market - Lvl 1
+Marché Bien-être - Lvl 1
+Opens the Selfcare exterior market
+Oure le Marché extérieur de Bien-être.
+Passive town income +$500 per week.<<n>>Three different PNJs become available:<<n>>- A masseuse to improve Pokémon happiness.<<n>>- A Pokéfan that can judge Pokémon happiness.<<n>>- A stylist that can improve Pokémon beauty.
+Fonds passifs +$500 par semaine.<<n>>Trois PNJs deviennent disponibles:<<n>>- Une masseuse qui améliore le bonheur des Pokémon. <<n>>- Une Pökéfan qui juge le bonheur des Pokémon.<<n>>- Une stylite qui améliore la beauté des Pokémon.
+Graphics/UI/Town Map/Regions/
+Graphics/UI/Town Map/RegionsVF/
+Workers:
+Travailleurs : 
+<i>Prerequisites: Gym Interiors 1.</i><<n>>Improve interiors of your Gym. Repairs and clears everything, giving more fame.
+<i>Prérequis : Intérieurs de l'Arène 1.</i><<n>>Améliore l'intérieuir de l'Arène. Répare et nettoie tout, donnant plus de fame.
+Gym Welcoming - Lvl.1
+Accueil dans l’arène - Lvl.1

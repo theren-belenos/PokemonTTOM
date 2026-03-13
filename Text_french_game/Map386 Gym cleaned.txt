@@ -20,8 +20,18 @@ End of the week!
 Fin de la semaine !
 If you change your mind, go out of the Gym and enter again.
 Si vous changez d’avis, sortez de l’Arène et re-entrez.
+You spend time training with Melly at the Gym.
+You spend time training with Melly at the Gym.
+She is really cool!
+She is really cool!
+You spend time hanging with Marley at the Gym.
+You spend time hanging with Marley at the Gym.
+He is really cool!
+He is really cool!
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
+Welcome to the \gt Gym!
+Welcome to the \gt Gym!
 <b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!

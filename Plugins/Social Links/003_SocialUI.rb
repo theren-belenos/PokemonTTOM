@@ -364,7 +364,7 @@ class SocialMedia_Scene
         @show_pokemon = !@profile.favorite_pokemon.nil? && SocialLinkSettings::SHOW_FAVORITE_POKEMON
         @instant_messages = !@profile.im_contact_id.nil? && PluginManager.installed?("Instant Messages", "1.1")
 
-        @pic_center = [72, 72]
+        @pic_center = [120, 120]
         @name_position = [344, 46]
         @name_position[1] -= 4 if SocialLinkSettings::PROFILE_NAME_FONT_SIZE > 27
         @name_alignment = 2
@@ -415,8 +415,8 @@ class SocialMedia_Scene
         if SocialLinkSettings::USE_LARGE_PIC_ON_PROFILE && pbResolveBitmap("Graphics/UI/Social Links/Profile Pictures/#{@profile.image}_large")
             profile_picture = "Graphics/UI/Social Links/Profile Pictures/#{@profile.image}_large"
             @sprites["profile_picture"].setBitmap(profile_picture)
-            @sprites["profile_picture"].x = @pic_center[0] - @sprites["profile_picture"].width / 2
-            @sprites["profile_picture"].y = @pic_center[1] - @sprites["profile_picture"].height / 2
+            @sprites["profile_picture"].x = 4 + @pic_center[0] - @sprites["profile_picture"].width / 2
+            @sprites["profile_picture"].y = 4 + @pic_center[1] - @sprites["profile_picture"].height / 2
         else
             profile_picture = "Graphics/UI/Social Links/Profile Pictures/#{@profile.image}"
             @sprites["profile_picture"].setBitmap(profile_picture)

@@ -2,6 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map380]
+You spend time with the Normal Leader in their room.
+Vous passez du temps avec le Leader Normal dans sa maison.
+It was rather awkward...
+C'était un peu bizarre...
 There is only trash in there.
 Il n’y a que des déchets là-dedans.
 <b>Girl:</b> Hey hey, you! Guess what we learnt at school yesterday?

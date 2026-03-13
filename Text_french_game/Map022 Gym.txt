@@ -16,14 +16,20 @@ End of the week!
 Fin de la semaine !
 Change your party?
 Changer votre équipe ?
+You spend time training with Melly at the Gym.
+Vous passez du temps à vous entraîner avec Melly dans l'Arène.
+She is really cool!
+Elle est vraiment cool !
+You spend time hanging with Marley at the Gym.
+Vous passez du temps à traîner avec Marley dans l'Arène.
+He is really cool!
+Il est vraiment cool !
 <b>\c[10]Maple:</b>\c[0] You didn't find <b>\c[5]Melly </b>\c[0]yet?
 <b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly </b>\c[0] ?
 <b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
 <b>\c[10]Maple:</b>\c[0] Sois prudent !
-WARNING! This is for debug purpose. It initialize the challengers list.
-WARNING! This is for debug purpose. It initialize the challengers list.
-Proceed? Press no if you aren't the dev and doesn't want your game to crash.
-Proceed? Press no if you aren't the dev and doesn't want your game to crash.
+Welcome to the \gt Gym!
+Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
 <b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
 <b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
@@ -428,12 +434,10 @@ Vous êtes sûr ?
 \wm<b>\c[10]Maple:</b>\c[0] Les icônes indiquent sommairement quelle est cette tâche, et en plaçant le curseur dessus, tu as des infos en bas de l’écran.
 \wm<b>\c[10]Maple:</b>\c[0] The color surrounding the node represent the state of this construction.
 \wm<b>\c[10]Maple:</b>\c[0] La couleur autour du carré montre l’état de cette tâche.
-\wm <b>\c[10]Maple:</b>\c[0] Green: Construction done. Orange: Ongoing construction. Red: Construction not started yet.
-\wm <b>\c[10]Maple:</b>\c[0] Vert : Tâche terminée. Orange : Tâche en cours. Rouge : Tâche non commencée.
+\wm <b>\c[10]Maple:</b>\c[0] Green: Task finished. Orange: Investesment done. Red: Not invested on the task yet.
+\wm <b>\c[10]Maple:</b>\c[0] Vert : Tâche terminée.  Orange : Investissement fait. Rouge : Investissement pas encore fait.
 \wm<b>\c[10]Maple:</b>\c[0] Most of the available nodes are already green, because we didn't slack off! We worked hard recently!
 \wm<b>\c[10]Maple:</b>\c[0] La plupart des carrés sont déjà entourés de vert, car nous avons déjà bien travaillé !
-\wm<b>\c[10]Maple:</b>\c[0] Here you can see that the node for the PokéCenter construction is orange.
-\wm<b>\c[10]Maple:</b>\c[0] Ici tu peux voir que le carré pour le Centre Pokémon est orange.
 \wm<b>\c[10]Maple:</b>\c[0] Franck told me a few minutes that he is almost done. Let's wait a bit...
 \wm<b>\c[10]Maple:</b>\c[0] Franck m’a dit il y a quelques minutes qu’il avait presque terminé. Attendons un peu…
 A few minutes later...
@@ -462,24 +466,18 @@ Quelques minutes plus tard…
 <b>\c[10]Maple:</b>\c[0] Pour cette tâche pas besoin de fonds car il s’agit juste d’enlever des trucs, pas de construire quelque chose.
 <b>\c[10]Maple:</b>\c[0] ...and don't worry, the workers are paid, obviously... I take care of it.
 <b>\c[10]Maple:</b>\c[0] ...et pas d'inquiétude, les travailleurs sont payés... J'y veille personnellement.
-<b>\c[10]Maple:</b>\c[0] Second, we have the required amount of workers.
-<b>\c[10]Maple:</b>\c[0] Ensuite, nous avons le nombre nécessaire de travailleurs.
-<b>\c[10]Maple:</b>\c[0] Here we only need 1 worker, a good thing because obviously we only have Franck...
-<b>\c[10]Maple:</b>\c[0] Ici nous n’avons besoin que d’un travailleur, une bonne chose évidemment car on a que Franck…
-<b>\c[10]Maple:</b>\c[0] Again don't worry for Franck, it doesn't mean he will immediately go back to work!
-<b>\c[10]Maple:</b>\c[0] Encore une fois ne t’inquiète pas pour Franck, ça ne veut pas dire qu’il va tout de suite retourner au boulot !
-<b>\c[10]Maple:</b>\c[0] This is weekend time right now, and here is how it works:
-<b>\c[10]Maple:</b>\c[0] C’est le week-end actuellement, voici comment ça marche :
-<b>\c[10]Maple:</b>\c[0] During the "planning days", weekend and wednesday, we choose what task our workers will work on.
-<b>\c[10]Maple:</b>\c[0] Durant les “jours de planification”, le week-end et les mercredis, on choisit quelle tâche vont effectuer les travailleurs.
-<b>\c[10]Maple:</b>\c[0] Then they work on this task during the next two days.
-<b>\c[10]Maple:</b>\c[0] Ils travaillent alors sur cette tâche durant les deux prochains jours.
-<b>\c[10]Maple:</b>\c[0] We then have to wait until next "planning day" to see the results of their work.
-<b>\c[10]Maple:</b>\c[0] On doit alors attendre le prochain “jour de planification” pour voir les résultats de leur travail.
-<b>\c[10]Maple:</b>\c[0] A few tasks aren't really constructions and can be done instantly (and without workers, usually).
-<b>\c[10]Maple:</b>\c[0] Quelques tâches ne sont pas des constructions et peuvent être faites instantanément (et sans travailleur, généralement)
-<b>\c[10]Maple:</b>\c[0] In this case, a message saying "Instant build" will be displayed under the number of workers required.
-<b>\c[10]Maple:</b>\c[0] Dans ce cas, un message indiquant “Construction instantanée” est affiché sous le nombre de travailleurs requis.
+<b>\c[10]Maple:</b>\c[0] Second, we have the required amount of working phases required to complete the task.
+<b>\c[10]Maple:</b>\c[0] Ensuite, nous avons le nombre de périodes de travail nécessaires pour finir la tâche.
+<b>\c[10]Maple:</b>\c[0] A "working phase" represent the amount of work done by a worker during two days.
+<b>\c[10]Maple:</b>\c[0] Une "période de travail" représente la quantité de travail accomplie par un travailleur pendant deux jours.
+<b>\c[10]Maple:</b>\c[0] Here we only need 1 working phase, so it means Franck will be able to complete it by himself during 1 phase!
+<b>\c[10]Maple:</b>\c[0] ici nous n'avons besoin que d'une seule phase, donc ça signifie que Franck pourra le faire par lui-même en une période !
+<b>\c[10]Maple:</b>\c[0] During the weekend and wednesdays, we choose what task our workers will work on.
+<b>\c[10]Maple:</b>\c[0] Pendant les week-end et les mercredis, nous choisissons à quelle tâche les travailleurs seront assignés.
+<b>\c[10]Maple:</b>\c[0] Then they work on this task during the next two days, a "working phase".
+<b>\c[10]Maple:</b>\c[0] Ensuite ils travaillent sur cette tâche pendant les deux prochains jours, une "Période de travail".
+<b>\c[10]Maple:</b>\c[0] A few tasks aren't really constructions and can be done instantly.
+<b>\c[10]Maple:</b>\c[0] Quelques tâches ne sont pas vraiment de constructions et peuvent être finies instantanément.
 <b>\c[10]Maple:</b>\c[0] Other requirements can appear like doing another construction first, meet someone first... You'll see later.
 <b>\c[10]Maple:</b>\c[0] D’autres conditions peuvent apparaître comme faire une autre tâche d’abord, rencontrer quelqu’un d’abord… Tu verras.
 <b>\c[10]Maple:</b>\c[0] Now if you press the right arrow, you will get to the rewards screen.
@@ -490,20 +488,38 @@ Quelques minutes plus tard…
 <b>\c[10]Maple:</b>\c[0] Dans notre cas il y a pas grand chose car cela permet seulement de recontruire ta maison par la suite.
 <b>\c[10]Maple:</b>\c[0] But it is often really interesting to see what will you gain from ordering a task to be done.
 <b>\c[10]Maple:</b>\c[0] Mais c’est souvent très intéressant de voir ce que tu gagnes à faire une tâche.
-<b>\c[10]Maple:</b>\c[0] Anyway, when you press confirm a message will appear.
-<b>\c[10]Maple:</b>\c[0] Dans tous les cas, en confirmant, un message va apparaître.
-\wm<b>\c[10]Maple:</b>\c[0] If one of the requirements are not met, the message will tell you that and close.
-\wm<b>\c[10]Maple:</b>\c[0] Si une des conditions n’est pas remplie, un message vous le dira et fermera.
-\wm<b>\c[10]Maple:</b>\c[0] But if you have everything, you will be asked if you want to start this task.
-\wm<b>\c[10]Maple:</b>\c[0] Mais si tu as tout ce qu’il faut, on te demandera si tu veux commencer cette tâche.
-\wm<b>\c[10]Maple:</b>\c[0] Let's validate the task.
-\wm<b>\c[10]Maple:</b>\c[0] Validons la tâche.
-\wm<b>\c[10]Maple:</b>\c[0] A message tell us that the construction has begun.
-\wm<b>\c[10]Maple:</b>\c[0] Un message te confirme que la tâche a débuté.
-\wm<b>\c[10]Maple:</b>\c[0] And then we go back to the tree node, with our task node now orange because we started that task.
-\wm<b>\c[10]Maple:</b>\c[0] Puis nous retournons à l’écran principal, notre carré maintenant orange car nous avons commencé cette tâche.
-\wm<b>\c[10]Maple:</b>\c[0] Now we just have to wait until next planning day!
-\wm<b>\c[10]Maple:</b>\c[0] Plus qu’à attendre le prochain jour de planification !
+<b>\c[10]Maple:</b>\c[0] Anyway, when you press confirm, several possibilities can occur.
+<b>\c[10]Maple:</b>\c[0] En tout cas, si tu appuies sur confirmer, il y a plusieurs possibilités.
+<b>\c[10]Maple:</b>\c[0] If one of the requirements are not met, the message will tell you that and close.
+<b>\c[10]Maple:</b>\c[0] Si l'un des préreuis n'est pas satisfait, un message te le dit et ferme la fenêtre.
+<b>\c[10]Maple:</b>\c[0] But if you have everything, you will be asked if you want to invest on this task.
+<b>\c[10]Maple:</b>\c[0] Mais si tu as tout, on te demandera si tu veux investir dans cette tâche.
+<b>\c[10]Maple:</b>\c[0] Except, like here, if it's a free task.
+<b>\c[10]Maple:</b>\c[0] Sauf, comme ici, si c'est une tâche gratuite.
+\wm<b>\c[10]Maple:</b>\c[0] If it's a free task, if you just invested on it or did invest on it before, you will get the worker screens.
+\wm<b>\c[10]Maple:</b>\c[0] Si c'est une tâche gratuite, ou si tu viens d'investir ou as déjà investi avant, tu auras l'écran des travailleurs.
+\wm<b>\c[10]Maple:</b>\c[0] In this screen, you can add or remove workers from this task.
+\wm<b>\c[10]Maple:</b>\c[0] Sur cet écran, tu peux ajouter ou retirer des travailleurs de cette tâche.
+\wm<b>\c[10]Maple:</b>\c[0] Here we only have Franck so it's pretty simple but if we get more workers, you'll have more possibilities.
+\wm<b>\c[10]Maple:</b>\c[0] Pour l'instant on a que Franck donc c'est assez simple mais si on a plus de travailleurs, tu auras plus de possibilités.
+\wm<b>\c[10]Maple:</b>\c[0] For example, if you have multiple workers, you can assign them to different tasks.
+\wm<b>\c[10]Maple:</b>\c[0] Par exemple, si tru as plusieurs travailleurs, tu peux les assigner à différentes tâches.
+\wm<b>\c[10]Maple:</b>\c[0] At the end of the two next days, each worker on the task will add 1 progression point.
+\wm<b>\c[10]Maple:</b>\c[0] A la fin des deux prochains jours, chaque travailleur sur la tâche ajoutera 1 point de progression.
+\wm<b>\c[10]Maple:</b>\c[0] Here we will add a worker so that Franck works on this for the next 2 days.
+\wm<b>\c[10]Maple:</b>\c[0] Ici nous allons ajouter un travailleur comme ça Franck travaillera dessus les deux prochains jours.
+\wm<b>\c[10]Maple:</b>\c[0] We see "Progression: 0/1" so with 1 point, the task will be completed.
+\wm<b>\c[10]Maple:</b>\c[0] On voit "Progression : 0/1" donc avec 1 point, la tâche sera terminée.
+\wm<b>\c[10]Maple:</b>\c[0] So we know it will be completed after the next working phase!
+\wm<b>\c[10]Maple:</b>\c[0] Donc nous savons que la tâche sera terminée après la prochaine période de travail !
+\wm<b>\c[10]Maple:</b>\c[0] Let's select "Quit" to confirm.
+\wm<b>\c[10]Maple:</b>\c[0] Choisissons "Quitter" pour confirmer.
+\wm<b>\c[10]Maple:</b>\c[0] We are back to the tree node, with our task node now orange.
+\wm<b>\c[10]Maple:</b>\c[0] Nous voici de retour à l'arbre de construction, avec notre tâche maintenant en orange.
+\wm<b>\c[10]Maple:</b>\c[0] Every free task becomes orange when we see its details because, technically, investment is done...
+\wm<b>\c[10]Maple:</b>\c[0] Chaque tâche gratuite devient orange quand on regarde ses détails car, techniquement, l'investissement a été fait...
+\wm<b>\c[10]Maple:</b>\c[0] Now we just have to wait until wednesday!
+\wm<b>\c[10]Maple:</b>\c[0] maintenant on doit juste attendre mercredi !
 <b>\c[10]Maple:</b>\c[0] When we have more fame you will have a lot more tasks available.
 <b>\c[10]Maple:</b>\c[0] Quand on aura plus de Fame, on aura plus de tâches disponibles.
 <b>\c[10]Maple:</b>\c[0] I trust you to develop and rebuild the Town right!
@@ -551,9 +567,9 @@ Si vous changez d’avis, sortez de l’Arène puis entrez de nouveau.
 You already gave a gift to Marley this week!
 Vous avez déjà donné un cadeau à Marley cette semaine !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Good evening!
-<b>\c[3]Marley:</b>\c[0] Heya boss! Good evening!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonsoir !
 <b>\c[3]Marley:</b>\c[0] See ya!
-<b>\c[3]Marley:</b>\c[0] See ya!
+<b>\c[3]Marley:</b>\c[0] A plus !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Prêt pour le travail !
 <b>\c[3]Marley:</b>\c[0] Ready when you are, of course!

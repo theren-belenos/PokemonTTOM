@@ -44,5 +44,9 @@ Il n’y a que des déchets là-dedans.
 <b>Homme:</b> Je sais pas trop… Mais il y a déjà une Arène Insecte à \tn !
 <b>Kid:</b> Eeeeeh? I wanna see it!
 <b>Enfant:</b> Heiiiiiiiiin ? Je veux la voir !
+You spend time with Kathleen and her little brother.
+Vous passez du temps avec Kathleen et son petit frère.
+They're really cute together!
+Ils sont vraiment mignons tous les deux !
 <b>Kid</b> I wanna be like Kathleen when I grow up!!
 <b>Enfant:</b> Je veux être comme Kathleen quand je serai plus grand !

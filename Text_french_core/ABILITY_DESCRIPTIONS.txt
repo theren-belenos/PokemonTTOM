@@ -161,7 +161,7 @@ Augmente la Vit. si l’objet tenu est utilisé ou perdu.
 Weakens the power of Fire-type moves.
 Augmente la Vit. si l’objet tenu est utilisé ou perdu.
 The Pokémon is prone to wild stat changes.
-Le Pokémon est sujet à des variations de stats.
+Les variations de stats sont deux fois plus importantes pour le Pokémon.
 Reduces HP if it is hot. Water restores HP.
 Perd des PV à la chaleur. L’eau les restaure.
 Adjusts power according to a foe's defenses.

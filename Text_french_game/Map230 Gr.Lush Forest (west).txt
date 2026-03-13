@@ -42,6 +42,10 @@ Vous donnez une Baie Chérim au scientique.
 <b>Johnson:</b> STATITIIIIIIIIIIIIIKS !
 <b>Man:</b> What? How can I go further?
 <b>Man:</b> Hein ? Comment aller plus loin ?
+You spend time in the forest catching bugs with Kathleen.
+Vous passez du temps à capturer des insectes en forêt avec Kathleen.
+It's really cool!
+C'était vraiment cool !
 Yes
 Oui
 No

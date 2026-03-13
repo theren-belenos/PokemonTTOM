@@ -18,6 +18,14 @@ End of the week!
 Fin de la semaine !
 If you change your mind, go out of the Gym and enter again.
 Si vous changez d’avis, sortez de l’Arène et re-entrez.
+You spend time training with Melly at the Gym.
+You spend time training with Melly at the Gym.
+She is really cool!
+She is really cool!
+You spend time hanging with Marley at the Gym.
+You spend time hanging with Marley at the Gym.
+He is really cool!
+He is really cool!
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
@@ -32,6 +40,8 @@ Vous avez déjà offert un cadeau à Marley cette semaine !
 <b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Impatient de suivre cette formation !
+Welcome to the \gt Gym!
+Welcome to the \gt Gym!
 <b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
 <b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
 <b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!

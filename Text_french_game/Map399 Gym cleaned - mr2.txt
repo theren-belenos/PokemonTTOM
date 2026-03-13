@@ -2,8 +2,18 @@
 # translate every second line of this file.
 #-------------------------------
 [Map399]
+You spend time training with Melly at the Gym.
+You spend time training with Melly at the Gym.
+She is really cool!
+She is really cool!
+You spend time hanging with Marley at the Gym.
+You spend time hanging with Marley at the Gym.
+He is really cool!
+He is really cool!
 <b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
+Welcome to the \gt Gym!
+Welcome to the \gt Gym!
 Marley is in training these days. Do you want to start your work day?
 Marley est en formation en ce moment. Voulez-vous commencer la journée ?
 Change your party?

@@ -122,6 +122,8 @@ Scientist &f;
 Scientifique &f;
 Scientist &m;
 Scientifique &m;
+Street Thug
+Street Thug
 Ace Trainer &f;
 Dresseuse d'élite &f;
 Ace Trainer &m;

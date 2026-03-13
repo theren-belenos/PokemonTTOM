@@ -2,6 +2,14 @@
 # translate every second line of this file.
 #-------------------------------
 [Map048]
+You spend time helping the nurses in the Pokémon Center.
+Vous passez du temps à aider les infirmières dans le Centre Pokémon.
+You learn a lot!
+Voous apprenez plein de choses !
+You spend time with the Blisseys of the Pokémon Center.
+Vous passez du temps avec les Leuphorie du Centre Pokémon.
+They're so soft and cute!
+Ils sont si doux et mignons !
 <b>Jeremy:</b> Oy \pn can you help me?
 <b>Jeremy:</b> Oy \pn peux-tu m’aider ?
 <b>Jeremy:</b> I lost my notebook somewhere in the Green Lush Forest.

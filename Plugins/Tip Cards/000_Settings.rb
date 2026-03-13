@@ -1807,7 +1807,7 @@ module Settings
 			
 			
 			:TOWNDEV8 => {
-                :Title => _INTL("Gym Welcoming - Consolation"),
+                :Title => _INTL("Gym Welcoming - Lvl.1"),
                 :Text => _INTL("Send Marley in training to improve the odds of the challengers coming back after defeat."),
                 :Image => "towndev8",
 				:ImagePosition => :Top,
@@ -1825,7 +1825,7 @@ module Settings
 			
 			:TOWNDEV9 => {
                 :Title => _INTL("Gym Interiors - Lvl. 2"),
-                :Text => _INTL("Improve interiors of your Gym. Repairs and clears everything."),
+                :Text => _INTL("<i>Prerequisites: Gym Interiors 1.</i>\nImprove interiors of your Gym. Repairs and clears everything, giving more fame."),
                 :Image => "towndev9",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1835,14 +1835,14 @@ module Settings
 			},
 			:TOWNDEV9REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Gain passive fame every week.\nPassive fame : +3 per week."),
+                :Text => _INTL("Gain passive fame every week.\nPassive fame : +2 per week."),
                 :Background => "bg2",
 			},
 			
 			
             :TOWNDEV10 => {
                 :Title => _INTL("Pokémon Lab - Lvl. 2"),
-                :Text => _INTL("Upgrades the Lab with a new scientist and research funds."),
+                :Text => _INTL("<i>Prerequisites: Pokémon Lab 1.</i>\nUpgrades the Lab with a new scientist and research funds."),
                 :Image => "towndev10",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1853,14 +1853,14 @@ module Settings
 			},
 			:TOWNDEV10REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Two rewards:\n- New scientist; complete his quest to obtain an improved version of the Pokégear with a new tool : the Town Status Center (WIP for now).\n- Passive town income +500 per week"),
+                :Text => _INTL("Two rewards:\n- New scientist; complete his quest to obtain an improved version of the Pokégear with a new tool : the Town Status Center (WIP for now).\n- Passive town income +$500 per week"),
                 :Background => "bg2",
 			},
 			
 			
 			:TOWNDEV11 => {
                 :Title => _INTL("Your House"),
-                :Text => _INTL("Build your House."),
+                :Text => _INTL("<i>Prerequisites: Clearing - Your house.</i>\nBuild your House."),
                 :Image => "towndev11",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1876,8 +1876,8 @@ module Settings
 			
 			
 			:TOWNDEV12 => {
-                :Title => _INTL("Clearing - House n°1"),
-                :Text => _INTL("Clears the wreckage on the house n°1."),
+                :Title => _INTL("Clearing - House 1"),
+                :Text => _INTL("<i>Prerequisites: Clearing - Your house.</i>\nClears the wreckage on the house n°1."),
                 :Image => "towndev12",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1910,7 +1910,7 @@ module Settings
 			
 			
 			:TOWNDEV14 => {
-                :Title => _INTL("Clearing - Major Spot n°1"),
+                :Title => _INTL("Clearing - Academy"),
                 :Text => _INTL("Clears the wreckage on the major spot n°1."),
                 :Image => "towndev14",
 				:ImagePosition => :Top,
@@ -1932,7 +1932,7 @@ module Settings
 			
 			:TOWNDEV15 => {
                 :Title => _INTL("Dept.Store - Floor 2 opening"),
-                :Text => _INTL("Opens the second floor of the Dept. Store (Exploration items & Berries)."),
+                :Text => _INTL("<i>Prerequisites: Dept. Store 1-1.</i>\nOpens the second floor of the Dept. Store (Exploration items & Berries)."),
                 :Image => "towndev15",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1950,7 +1950,7 @@ module Settings
 			
 			:TOWNDEV16 => {
                 :Title => _INTL("Dept.Store - Floor 1 Lvl. 2"),
-                :Text => _INTL("Upgrades the first floor of the Department Store (Medicines & Balls)."),
+                :Text => _INTL("<i>Prerequisites: Dept. Store 1-1.</i>\nUpgrades the first floor of the Department Store (Medicines & Balls)."),
                 :Image => "towndev16",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1968,7 +1968,7 @@ module Settings
 			
 			:TOWNDEV17 => {
                 :Title => _INTL("Gym Team - Second trainer"),
-                :Text => _INTL("Allows you to have another trainer on your Gym."),
+                :Text => _INTL("<i>Prerequisites: Gym Team First trainer</i>\nAllows you to have another trainer on your Gym."),
                 :Image => "towndev17",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1986,7 +1986,7 @@ module Settings
 			
 			:TOWNDEV18 => {
                 :Title => _INTL("Leader room - Lvl.2"),
-                :Text => _INTL("Upgrades the visuals of your Leader room."),
+                :Text => _INTL("<i>Prerequisites: Leader Room 1.</i>\nUpgrades the visuals of your Leader room."),
                 :Image => "towndev18",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -1996,27 +1996,23 @@ module Settings
 			},
 			:TOWNDEV18REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Improve the money earned from the challengers (and the money lost when losing!) by 20%."),
+                :Text => _INTL("Improve the money earned from the challengers (and the money lost when losing!) by 20%.\nPassive fame +2 per week."),
                 :Background => "bg2",
 			},
 			
 			
 			:TOWNDEV19 => {
-                :Title => _INTL("Pokémon Center - Mezzanine"),
-                :Text => _INTL("Give access to the PokéCenter's mezzanine - The help center."),
+                :Title => _INTL("Pokémon Lab - Lvl.3"),
+                :Text => _INTL("<i>Prerequisites: Pokémon Lab 2.</i>\nUnlocks fossil revival machine and give passive money."),
                 :Image => "towndev19",
 				:ImagePosition => :Top,
                 :Background => "bg2",
-				:Funds => 1500,
-				:Workers => 1,
 				:BuildingIndex => 19
 			},
 			:TOWNDEV19REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("PokéCenter Mezzanine :\n- Help board (various quests)\n- Prof board (achievement system)"),
-                :Background => "bg2",
+                :Text => _INTL("Unlocks a machine that can revive fossils found in the desert or in glowing rocks.\nPassive town income +$1000 per week"),
 			},
-			
 			
 			:TOWNDEV20 => {
                 :Title => _INTL("Negociations - Double battle"),
@@ -2038,7 +2034,7 @@ module Settings
 			
 			:TOWNDEV21 => {
                 :Title => _INTL("House n°1"),
-                :Text => _INTL("Build the first house : Melly's house."),
+                :Text => _INTL("<i>Prerequisites: Clearing House 1.</i>\nBuild the first house : Melly's house."),
                 :Image => "towndev21",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -2055,7 +2051,7 @@ module Settings
 			
 			:TOWNDEV22 => {
                 :Title => _INTL("Clearing - Block 1"),
-                :Text => _INTL("Clears the wreckage on the Block 1."),
+                :Text => _INTL("<i>Prerequisites: Clearing House 1.</i>\nClears the wreckage on the Block 1."),
                 :Image => "towndev22",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -2072,7 +2068,7 @@ module Settings
 			
 			:TOWNDEV23 => {
                 :Title => _INTL("Town Exteriors - Lvl.2"),
-                :Text => _INTL("Upgrades the exteriors of your Town, improving tourism."),
+                :Text => _INTL("<i>Prerequisites: Clearing Town Exteriors.</i>\nUpgrades the exteriors of your Town, improving tourism."),
                 :Image => "towndev23",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -2082,13 +2078,13 @@ module Settings
 			},
 			:TOWNDEV23REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards:\n- Prettier exteriors\n- Passive Town income +1000 per week\n- A new Park with new NPCs and a quest"),
+                :Text => _INTL("Various rewards:\n- Prettier exteriors\n- Passive Town income +$1000 per week\n- A new Park with new NPCs and a quest"),
                 :Background => "bg2",
 			},
 			
 			:TOWNDEV24 => {
                 :Title => _INTL("Bicycle Seller"),
-                :Text => _INTL("The Day Care Man now sells bikes"),
+                :Text => _INTL("<i>Prerequisites: Clearing Town Exteriors.</i>\nThe Day Care Man now sells bikes"),
                 :Image => "towndev24",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -2106,7 +2102,7 @@ module Settings
 			
 			:TOWNDEV25 => {
                 :Title => _INTL("Trainer's Academy"),
-                :Text => _INTL("Build the Trainers Academy, giving you a lot of fame and tourism."),
+                :Text => _INTL("<i>Prerequisites: Clearing Academy.</i>\nBuild the Trainers Academy, giving you a lot of fame and tourism."),
                 :Image => "towndev25",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -2116,13 +2112,13 @@ module Settings
 			},
 			:TOWNDEV25REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Various rewards:\n- A lot of PNJs, quests, items...\n- Passive town income + 1500\n- Passive fame +5 per week"),
+                :Text => _INTL("Various rewards:\n- A lot of PNJs, quests, items...\n- Passive town income + $1500\n- Passive fame +3 per week"),
                 :Background => "bg2",
 			},
 			
 			
 			:TOWNDEV26 => {
-                :Title => _INTL("Clearing - Major spot 2"),
+                :Title => _INTL("Clearing - Safari Park"),
                 :Text => _INTL("Clears the wreckage on the major spot 2."),
                 :Image => "towndev26",
 				:ImagePosition => :Top,
@@ -2137,10 +2133,9 @@ module Settings
                 :Background => "bg2",
 			},
 			
-			
 			:TOWNDEV27 => {
-                :Title => _INTL("Clearing - Major spot 3"),
-                :Text => _INTL("Clears the wreckage on the major spot 3."),
+                :Title => _INTL("Selfcare Market - Lvl 1"),
+                :Text => _INTL("Opens the Selfcare exterior market"),
                 :Image => "towndev27",
 				:ImagePosition => :Top,
                 :Background => "bg2",
@@ -2150,16 +2145,16 @@ module Settings
 			},
 			:TOWNDEV27REWARDS => {
                 :Title => _INTL("Rewards"),
-                :Text => _INTL("Allows you to build the Beauty Market afterwards."),
+                :Text => _INTL("Passive town income +$500 per week.\nThree different PNJs become available:\n- A masseuse to improve Pokémon happiness.\n- A Pokéfan that can judge Pokémon happiness.\n- A stylist that can improve Pokémon beauty."),
                 :Background => "bg2",
 			},
+			
 			
 			
 			#---------------------------------------------------------------------------------------
 			#	Fame 10
 			#---------------------------------------------------------------------------------------
-			
-        }
+		}	
 
         TIP_CARDS_GROUPS = {
             

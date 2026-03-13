@@ -14,10 +14,10 @@ Il n'y a que des déchets là-dedans.
 <b>Togepi:</b> Togepiii!
 <b>Poké Maniac:</b> You are all delusional. My Togepi is the cutest of them all!
 <b>Pokémaniac:</b> Vous êtes tous dans le déni. Mon Togepi est le plus mignon de tous !
-<b>Poké Maniac:</b> My Pichu is the cutest!
-<b>Pokémaniac:</b> Mon Pichu est le plus mignon !
 <b>Cherubi:</b> Cheeerubi!
 <b>Ceribou:</b> Ceeeeribou!
+<b>Poké Maniac:</b> My Pichu is the cutest!
+<b>Pokémaniac:</b> Mon Pichu est le plus mignon !
 <b>Poké Maniac:</b> Sigh... They all have really cute Pokémon, and I don't...
 <b>Pokémaniac:</b> Erf... Ils ont tous des Pokémon vraiment mignons, et pas moi...
 <b>Poké Maniac:</b> Say, I heard there are some Cherubi on Route 11… Do you think you could give me one?

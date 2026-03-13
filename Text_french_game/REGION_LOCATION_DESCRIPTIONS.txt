@@ -62,5 +62,3 @@ Block 1
 Immeuble 1
 Major Spot n°2
 Spot majeur n°2
-Major Spot n°3
-Spot majeur n°3

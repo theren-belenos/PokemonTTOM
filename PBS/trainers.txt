@@ -607,7 +607,35 @@ Pokemon = GLACEON,24
 Pokemon = CETITAN,25
 	Moves = ICESHARD,TAKEDOWN,FLAIL,ICEFANG
 	
+
+#------------------ Underground ------------------------------
+[STREETTHUG,Boris]
+LoseText = Leave me alone!
+Pokemon = MIGHTYENA, 22
+Pokemon = THROH, 22
+Pokemon = SALANDIT, 22
+
+[STREETTHUG,Scar]
+LoseText = Hmpf, okay, you can stay.
+Pokemon = VIGOROTH, 25
+Pokemon = SAWK, 25
+
+[SCIENTISTFEMALE,Nicole]
+LoseText = Okay but be quiet please!
+Pokemon = FLAMIGO, 35
+Pokemon = KILOWATTREL, 35
+Pokemon = TOUCANNON, 35
+
+#------------------ Mines ------------------------------------
+[ENGINEER,Blaise]
+LoseText = I'm really working here, I swear!
+Pokemon = FALINKS, 24
+Pokemon = SLUGMA, 24
+Pokemon = SHUCKLE, 24
+Pokemon = BELLIBOLT, 24
+
 [WORKERMALE,Lando]
+LoseText = So blazing!
 Pokemon = THROH, 23
 Pokemon = SAWK, 23
 
@@ -658,6 +686,8 @@ LoseText = Entertainment complete!
 Pokemon = YAMPER,25
 Pokemon = EXEGGUTOR,26	
 Pokemon = SLURPUFF,26	
+
+
 
 #-------------------------------------------------------------
 #
