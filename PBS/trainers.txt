@@ -77,8 +77,8 @@ Pokemon = APPLIN,7
 
 [SCHOOLBOY,Jason]
 LoseText = Nooooo!
-Pokemon = PURRLOIN,30
-Pokemon = GLAMEOW,30
+Pokemon = VOLBEAT,30
+Pokemon = ILLUMISE,30
 
 [PRESCHOOLERGIRL,Mimi]
 LoseText = Friend is super strong!

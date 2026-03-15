@@ -64,10 +64,12 @@ You have nothing to tell Maple about any quest.
 Vous n'avez rien à dire à Maple concernant des quêtes.
 <b>\c[10]Maple:</b>\c[0] Hello \pn, do you mind help me again?
 <b>\c[10]Maple:</b>\c[0] Bonjour \pn, tu veux bien nous aider à nouveau ?
-<b>\c[10]Maple:</b>\c[0] We need a fossil to test a new machine.
-<b>\c[10]Maple:</b>\c[0] We need a fossil to test a new machine.
-<b>\c[10]Maple:</b>\c[0] If we succeed, you'll be able to improve the Lab to lvl 2 and revive fossils !
-<b>\c[10]Maple:</b>\c[0] If we succeed, you'll be able to improve the Lab to lvl 2 and revive fossils !
+<b>\c[10]Maple:</b>\c[0] For that, we need the Lab at Lvl. 3. It's about fossils!
+<b>\c[10]Maple:</b>\c[0] Pour ça, nous avons besoin du Labo au niveau 3. C'est pour les fossiles !
+<b>\c[10]Maple:</b>\c[0] We need a fossil to test the new machine.
+<b>\c[10]Maple:</b>\c[0] On a besoin d'un fossile pour tester la nouvelle machine.
+<b>\c[10]Maple:</b>\c[0] If we succeed, you'll be able to use the machine anytime you want!
+<b>\c[10]Maple:</b>\c[0] Si on réussit, tu pourras utiliser la machine quand tu veux !
 <b>\c[10]Maple:</b>\c[0] Can you give us one?
 <b>\c[10]Maple:</b>\c[0] Peux-tu nous en donner un ?
 <b>\c[10]Maple:</b>\c[0] Can you give us a fossil?
@@ -77,9 +79,9 @@ Vous n'avez rien à dire à Maple concernant des quêtes.
 <b>\c[10]Maple:</b>\c[0] What a magnificent one! Thank you so much!
 <b>\c[10]Maple:</b>\c[0] Quel beau spécimen ! Merci beaucoup !
 A few moments later...
-A few moments later...
-<b>\c[10]Maple:</b>\c[0] Okay, it works perfectly! Thank you \pn, you can now purchase the Lab improvement!
-<b>\c[10]Maple:</b>\c[0] Okay, it works perfectly!  Thank you \pn, you can now purchase the Lab improvement!
+Quelques instants plus tard...
+<b>\c[10]Maple:</b>\c[0] Okay, it works perfectly! Thank you \pn, you can now frrely use the machine!
+<b>\c[10]Maple:</b>\c[0] Okay, ça marche parfaitement ! Merci \pn, tu peux maintenant utiliser la machine librement !
 <b>\c[10]Maple:</b>\c[0] Hello \pn, I might need help again.
 <b>\c[10]Maple:</b>\c[0] Bonjour \pn, je pourrais avoir encore besoin d’aide.
 <b>\c[10]Maple:</b>\c[0] I'm running low of starters to give to new \gt trainers.
@@ -466,11 +468,12 @@ The region was populated mainly by small settlements of hunters coming from the 
 La région était peuplée principalement de petits campements de chasseurs venant des Îles Faraway ou de Tlingit.
 Inhabitants of Tlingit, mainly people coming from Paldea, never really wanted to colonize all Nekanta, but they gave it its name.
 Les habitants de Tlingit, venant principalement de Paldea, n’ont jamais vraiment voulu coloniser tout Nekanta, mais lui ont donné son nom.
-Il faut noter que le nom de la plupart des villes de Nekanta viennent des appellations de Tlingit, comme une sorte de tradition qui perdure encore aujourd’hui !Interestingly, the name of most of Nekanta’s cities come from them too, a sort of a tradition that still exists today !
+Interestingly, the name of most of Nekanta’s cities come from them too, a sort of a tradition that still exists today !
+Interestingly, the name of most of Nekanta’s cities come from them too, a sort of a tradition that still exists today !
 Tlingitis, as they call themselves, stayed on a small part of the land, saying it was more than enough for them.
 Les Tlingitis, comme ils se nomment, sont restés dans une petite partie des terres, déclarant que c’était largement suffisant pour eux.
 Nekanta’s northern islands, including Nunavut, were mostly deserted save for a few hunters from the faraway islands,
-Les îles du nord de Nekanta, en particulier Nunavut, étaient principalement désertes à part quelques chasseurs venus des îles Faraway, 
+Les îles du nord de Nekanta, en particulier Nunavut, étaient principalement désertes à part quelques chasseurs venus des îles Faraway,
 but they never really wanted to settle there.
 mais ils n’ont jamais eu l’intention de s’y installer.
 At the time, a lot of Pokémon already roamed the place, coming from The Continent via Tlingit,
@@ -482,7 +485,7 @@ La région était très calme, mais ça allait changer rapidement.
 Title: Nekanta History, Vol. 2: Nekanta’s creation. Read?
 Titre: Histoire de Nekanta, Vol. 2 : Création de Nekanta. Lire ?
 Around seventy years ago, a young Pokémon Professor named Ginkgo
-Il y a environ 70 ans, un jeune Professeur Pokémon nommé Ginkgo 
+Il y a environ 70 ans, un jeune Professeur Pokémon nommé Ginkgo
 and his friend Maximilien, a real estate tycoon, decided to create the country of Nekanta.
 et son ami Maximilien, un magnat de l’immobilier, ont décidé de créer le pays de Nekanta.
 Ginkgo saw in these wild regions a great place to study Pokémon,
@@ -512,7 +515,7 @@ Arènes…\nIl y a environ 40 ans, Ginkgo pris 3 jeunes personnes sous son aile 
 Their names were Aristarque, Zanstra and Maple.
 Leurs noms étaient Aristarque, Zanstra et Maple.
 Under Ginkgo’s guidance, Maple learnt everything he needed to become a proper Pokemon Professor himself.
-Sous la supervision de Ginkgo, Maple apprit tout ce dont il avait besoin pour devenir lui-même un authentique Prof Pokémon. 
+Sous la supervision de Ginkgo, Maple apprit tout ce dont il avait besoin pour devenir lui-même un authentique Prof Pokémon.
 Meanwhile, Aristarque and Zanstra trained themselves, pushed by an amical rivalry.
 Pendant ce temps, Aristarque et Zanstra s’entraînèrent, poussés par une rivalité amicale.
 Twenty years later, everything was ready : cities were flourishing, a lot of good trainers were there,
@@ -520,7 +523,7 @@ Twenty years later, everything was ready : cities were flourishing, a lot of goo
 Aristarque and Zanstra were ready to be the most important trainers of the region : the Champion and the final Gym Leader.
 Aristarque et Zanstra étaient prêts à devenir les deux plus importants dresseurs de la région : le Maître, et le Leader de la dernière Arène.
 Ginkgo once said that his disciples exceeded even his wildest expectations,
-Ginkgo a déclaré que ses disciples avaient dépassé ses espérances les plus folles, 
+Ginkgo a déclaré que ses disciples avaient dépassé ses espérances les plus folles,
 and that he only feared an overheated rivalry between Aristarque and Zanstra.
 et que la seule chose qu’il craignait était une rivalité trop enflammée entre Aristarque et Zanstra.
 Luckily, he worried for nothing as the two of them always stayed in good terms.
@@ -550,7 +553,7 @@ et commença rapidement à travailler sur le bâtiment de la Ligue Pokémon lui-
 A few months later, the Nekanta League was recognized by the Inter-League Organization, and became official.
 Quelques mois plus tard, la Ligue de Nekanta fut reconnue par l’Organisation Inter-League, et devint officielle.
 Quickly after, Ginkgo suddenly announced that he could leave Nekanta in the hands of his 3 disciples, and Kristopher.
-Peu de temps après, Ginkgo annonça soudainement qu’il laissait Nekanta entre les mains de ses 3 disciples, et de Kristopher 
+Peu de temps après, Ginkgo annonça soudainement qu’il laissait Nekanta entre les mains de ses 3 disciples, et de Kristopher
 Kristopher’s father Maximilien had sadly passed away a few years before, due to a severe disease.
 Maximilien, le père de Kristopher, nous avait quitté quelques années auparavant des suites d'une grave maladie.
 Ginkgo then left without further information, leaving everyone a bit dumbfounded.
@@ -576,7 +579,7 @@ Pendant ce temps, les autres Champions d’Arènes s’attiraient également le 
 The Cataclysm.
 Le Cataclysme.
 A devastating earthquake that nearly completely wiped out \tn.
-Un séisme dévastateur qui a failli complètement rayer \tn de la carte. 
+Un séisme dévastateur qui a failli complètement rayer \tn de la carte.
 Even qualified scientists have a hard time explaining how such a powerful earthquake can even exist.
 Même d’éminents experts peinent à comprendre comment un tel séisme a pu survenir.
 But it did. Because of it, we lost most of \tn, including… Zanstra.
@@ -604,7 +607,7 @@ Combinant son amour pour les Ligues et les combats Pokémon,
 with his entrepreneurial skills from being the son of M. Stone, Devon Corp CEO, Steven had the idea of an Inter-League Organisation.
 avec ses qualités organisationnelles héritées de son père le PDG de Devon SARL, Pierre eut l'idée d'une Organisation Inter-Ligue.
 The goal of this organisation is to assemble Champions from different regions,
-Le but de l’organisation était de rassembler les Maîtres des différentes régions, 
+Le but de l’organisation était de rassembler les Maîtres des différentes régions,
 who could discuss improvements for the future of Pokémon battles, or even resolve inter-regional conflicts.
 wqui pourraient alors discuter d’améliorations pour le futur des combats Pokémon, ou même pour résoudre des conflits inter-régions.
 Quickly enough, all of the current known League Champions agreed to be part of the Organisation, with Steven Stone being on the lead.
@@ -718,7 +721,7 @@ Ainsi, Ludicolo va plus vite sous la pluie grâce à Glissade, tandis que Feuill
 We can also mention Castform, a Pokémon whose form (and type) changes completely depending on the weather.
 On peut aussi mentionner Morphéo, un Pokémon dont la forme (et le type) changent radicalement selon la météo.
 In addition to these 4 main climates, there are other “minor” climates rarely seen, like strong winds, fog,
-En plus de ces 4 climats principaux, il existe des climats mineurs, rarement croisés, comme brume, 
+En plus de ces 4 climats principaux, il existe des climats mineurs, rarement croisés, comme brume,
 shadowy aura…\nAll of the climates are summoned for 5 turns, or 8 turns if the Pokémon have the corresponding item like Damp Rock for the rain.
 aura sombre…\nTous les climats sont invoqués pour une durée de 5 tours, ou 8 si le Pokémon tient l’objet correspondant (comme Roche Humide pour la pluie).
 Be aware, though, that a Pokémon using Calm Sky or with the ability Cloud Nine will negate the effect of the climate.
@@ -965,40 +968,40 @@ Regarder le reportage ?
 <b>Reporter:</b> Certains affirment qu’ils essayent de voler les Pokémon des autres dresseurs, prétendant les “libérer” !
 <b>Reporter:</b> They call themselves “Team Absolution” and wear whitish clothes with a Yin & Yang symbol on it.
 <b>Reporter:</b> Ils se font appeler “Team Absolution” et portent des habits plutôt blancs avec un symbole de Yin & Yang dessus.
-<b>Reporter:</b> We urge our spectators to be really careful! If you spot one of them, go away and call the Police! 
+<b>Reporter:</b> We urge our spectators to be really careful! If you spot one of them, go away and call the Police!
 <b>Reporter:</b> Nous encourageons nos téléspectateurs à faire preuve d’une grande prudence si vous les croisez : partez et prévenez la police !
 <b>TV:</b> Nekanta News: A \gt Leader appears!
 <b>TV:</b> Nekanta News : Un Leader \gt apparaît !
-<b>Reporter:</b> This is the end for the provisionary \gt Gym in the Pokémon League. 
+<b>Reporter:</b> This is the end for the provisionary \gt Gym in the Pokémon League.
 <b>Reporter:</b> C’en est fini de l’Arène \gt temporaire au sein de la Ligue Pokémon.
-<b>Reporter:</b> \pn, a new \gt Leader from \tn, came and fought with Tom, the temporary \gt Leader. 
+<b>Reporter:</b> \pn, a new \gt Leader from \tn, came and fought with Tom, the temporary \gt Leader.
 <b>Reporter:</b> \pn, un nouveau Leader \gt venu de \tn, a combattu Tom, le Leader \gt par Intérim.
-<b>Reporter:</b> \pn is the one chosen by Maple to succeed Zanstra, the former over-popular \gt Leader that disappeared during the Cataclysm. 
+<b>Reporter:</b> \pn is the one chosen by Maple to succeed Zanstra, the former over-popular \gt Leader that disappeared during the Cataclysm.
 <b>Reporter:</b> \pn est la personne choisie par Maple pour succéder à Zanstra, l’ancienne ultra-populaire Leader \gt qui a disparu durant le Cataclysme.
 <b>Reporter:</b> Maple considers \pn, and the city of \tn, are ready, and thinks that the \gt Gym can open again!
 <b>Reporter:</b> Maple considère que \pn, et la ville de \tn, sont prêts, et que la véritable Arène \gt peut ouvrir à nouveau.
-<b>Reporter:</b> Thus, \pn beat Tom in a classic match and then in a rankup battle with fair rules, 
+<b>Reporter:</b> Thus, \pn beat Tom in a classic match and then in a rankup battle with fair rules,
 <b>Reporter:</b> Ainsi, \pn a battu Tom lors d’un match classique puis lors d’un combat de rang avec règles équitables,
 winning the challenge set by Aristarque himself, thus becoming the new \gt Leader!
 réussissant ainsi le défi lancé par Aristarque, et devenant ainsi le Leader \gt !
 <b>Reporter:</b> Tom told us “I’m glad this is over! I have many other things to do in the League. Back to usual work!”.
 <b>Reporter:</b> Tom nous a déclaré “Je suis content que ce soit fini ! J’ai plein d’autres choses à faire au sein de la Ligue. Retour au travail habituel pour moi !”
-<b>Reporter:</b> Our popular Champion Aristarque told us afterwards : 
-<b>Reporter:</b> Notre populaire Maître Aristarque nous a déclaré :
-“The new Leader is really promising! I think their goal at \tn is to bring their Gym back to rank 12. Good luck to them!”
-“Le nouveau Leader est vraiment prometteur ! Je pense que son objectif est de ramener son Arène au rang 12. Je lui souhaite bonne chance !”
-<b>Reporter:</b> This concludes our report. Everyone, let’s bid good luck to \pn, the new \gt Leader!
-<b>Reporter:</b> Ceci conclut ce reportage. Tout le monde, souhaitons bonne chance à \pn, notre nouveau Leader \gt !
+<b>Reporter:</b> Our popular Champion Aristarque told us afterwards:
+<b>Reporter:</b> Our popular Champion Aristarque told us afterwards:
+“The new Leader is really promising! I think their goal at \tn is to bring their Gym back to rank 12. Good luck to them!
+“The new Leader is really promising! I think their goal at \tn is to bring their Gym back to rank 12. Good luck to them!
+”\n<b>Reporter:</b> This concludes our report. Everyone, let’s bid good luck to \pn, the new \gt Leader!
+”\n<b>Reporter:</b> This concludes our report.  Everyone, let’s bid good luck to \pn, the new \gt Leader!
 <b>TV:</b> Nekanta News: Another earthquake?!
 <b>TV:</b> Nekanta News : Un autre séisme ?!
-<<b>Reporter:</b> Bad news for northwest Nekanta: another earthquake hit the region, this time near Sombake.
-<b>Reporter:</b> Mauvaise nouvelle pour le Nord-ouest de Nekanta : un autre séisme a frappé la région, cette fois près de Sombake.
+<b>Reporter:</b> Bad news for northwest Nekanta: another earthquake hit the region, this time near Sombake.
+<b>Reporter:</b> Bad news for northwest Nekanta: another earthquake hit the region, this time near Sombake.
 <b>Reporter:</b> Fortunately, it was a lot weaker than the one which destroyed \tn. But no doubt it scared the inhabitants!
 <b>Reporter:</b> Heureusement, il était bien plus faible que celui ayant détruit \tn. Mais aucun doute que les habitants ont été effrayés !
-<b>Reporter:</b> Following the incident, our new \gt Leader teamed with Samy, friend of Greymoose’s Leader, to explore a tunnel created by the event.
-<b>Reporter:</b> A la suite de l’incident, notre nouveau Leader \gt a fait équipe avec Samy, un ami du Leader de l’Arène de Greymoose, pour explorer un tunnel révélé par le séisme.
-<b>Reporter:</b> There, they stumbled upon members of vile Team Absolution! Remember, we talked about them some time ago!
-<b>Reporter:</b> A l’intérieur, ils sont tombés sur des membres de la vile Team Absolution ! Rappelez-vous, nous vous en avions parlé il y a quelque temps !
+<b>Reporter:</b> Following the incident, our new \gt Leader teamed with Samy, friend of Greymoose Leader,
+<b>Reporter:</b> Following the incident, our new \gt Leader teamed with Samy, friend of Greymoose Leader,
+to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumbled upon members of vile Team Absolution! Remember, we talked about them some time ago!
+to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumbled upon members of vile Team Absolution! Remember, we talked about them some time ago!
 <b>Reporter:</b> They managed to defeat them all, including a Team Admin. Hooray for them!
 <b>Reporter:</b> Ils ont réussi à tous les battre, y compris un Admin de la Team. Bravo à eux !
 <b>Reporter:</b> There is a rumor saying that Team Absolution may be the ones creating these earthquakes… Stay tuned, and back to the studios!
@@ -1013,8 +1016,8 @@ réussissant ainsi le défi lancé par Aristarque, et devenant ainsi le Leader \
 <b>Reporter:</b> Écoutons directement notre Maître.
 <b>Aristarque:</b> Our dear Tom, whom you may know by being the former \gt Leader, investigated a potential stronghold of Team Absolution.
 <b>Aristarque:</b> Notre cher Tom, que vous connaissez peut-être comme l'ancien Leader \gt par intérim, menait l’enquête sur ce qui pouvait être une base de la Team Absolution.
-<b>Aristarque:</b> He was with 3 of his friends, including our new \gt Leader. But it turns out it was actually their headquarters !
-<b>Aristarque:</b> Il était avec 3 de ses amis, dont notre nouveau Leader \gt. Mais il s’avère que c’était en réalité leur QG !
+<b>Aristarque:</b> He was with 3 of his friends, including our new \gt Leader. But it turns out it was actually their headquarters!
+<b>Aristarque:</b> He was with 3 of his friends, including our new \gt Leader. But it turns out it was actually their headquarters!
 <b>Aristarque:</b> It was a kind of a trap because me and the Elite 4 were lured out to a false alarm in Moonyang.
 <b>Aristarque:</b> C’était une sorte de piège car le Conseil 4 et moi-même avons été envoyés sur une fausse alerte à Moonyang.
 <b>Aristarque:</b> Tom and his friends were then cornered by the powerful Leader of the Team!

@@ -4,6 +4,14 @@
 [Map022]
 <b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
+You spend time training with Melly at the Gym.
+Vous passez du temps à vous entraîner avec Melly dans l'Arène.
+She is really cool!
+Elle est vraiment cool !
+You spend time hanging with Marley at the Gym.
+Vous passez du temps à traîner avec Marley dans l'Arène.
+He is really cool!
+Il est vraiment cool !
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe enregistrée ?
 End of the first half of the week!
@@ -16,20 +24,10 @@ End of the week!
 Fin de la semaine !
 Change your party?
 Changer votre équipe ?
-You spend time training with Melly at the Gym.
-Vous passez du temps à vous entraîner avec Melly dans l'Arène.
-She is really cool!
-Elle est vraiment cool !
-You spend time hanging with Marley at the Gym.
-Vous passez du temps à traîner avec Marley dans l'Arène.
-He is really cool!
-Il est vraiment cool !
 <b>\c[10]Maple:</b>\c[0] You didn't find <b>\c[5]Melly </b>\c[0]yet?
 <b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly </b>\c[0] ?
 <b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
 <b>\c[10]Maple:</b>\c[0] Sois prudent !
-Welcome to the \gt Gym!
-Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
 <b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
 <b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
@@ -105,7 +103,7 @@ Une Éleveuse Pokémon apparaît !
 <b>Josie:</b> One badge for me!
 <b>Josie:</b> Un badge pour moi !
 <b>\c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
-<b>c[10]Maple:</b>\c[0] Ok euh, je pensais pas vraiment que tu allais perdre aujourd’hui… Imaginons que tu as gagné ok ?
+<b>\c[10]Maple:</b>\c[0] Ok euh, je pensais pas vraiment que tu allais perdre aujourd’hui… Imaginons que tu as gagné ok ?
 <b>\c[10]Maple:</b>\c[0] Did you see? This challenger was 2-stars, so she was clearly better than the 1-star little kid!
 <b>\c[10]Maple:</b>\c[0] Tu as vu ? Ce challenger était 2 étoiles, donc elle était clairement meilleure que le petit garçon 1 étoile !
 <b>\c[10]Maple:</b>\c[0] As I said earlier, with our fame level, 2 trainers is the max. So we're sure that our day is over!
@@ -114,8 +112,8 @@ Une Éleveuse Pokémon apparaît !
 <b>\c[10]Maple:</b>\c[0] Quand la journée est terminée, le Récap du jour apparaît !
 <b>\c[10]Maple:</b>\c[0] As you saw, you get 25% of the money earned, the rest goes to the town.
 <b>\c[10]Maple:</b>\c[0] Comme tu le vois, tu récupères 25% de l’argent gagné, le reste va à la ville.
-<b>\c[10]Maple:</b>\c[0] Futhermore, you saw that we need 3 more fame points to get to Fame Level 1.
-<b>\c[10]Maple:</b>\c[0] De plus, tu as vu qu’on a encore besoin de 3 points pour atteindre le niveau 1 de Fame.
+<b>\c[10]Maple:</b>\c[0] Futhermore, you saw that we need 4 more fame points to get to Fame Level 1.
+<b>\c[10]Maple:</b>\c[0] De plus, tu vois qu'il te manque encore 4 points de fame pour atteindre le Niveau de Fame 1.
 <b>\c[10]Maple:</b>\c[0] Let's hope we earn more during the rest of the week!
 <b>\c[10]Maple:</b>\c[0] Espérons qu’on puisse en gagner davantage durant le reste de la semaine !
 <b>\c[10]Maple:</b>\c[0] Once the work day is over, you will have 3 options:
@@ -184,8 +182,8 @@ The day ends...
 La journée se termine…
 <b>\c[10]Maple:</b>\c[0] Hmm no other challengers today it seems...
 <b>\c[10]Maple:</b>\c[0] Hmm pas d’autres challengers aujourd’hui apparemment…
-<b>\c[10]Maple:</b>\c[0] Only 1 more fame to get to the Level 1 huh?
-<b>\c[10]Maple:</b>\c[0] Seulement 1 de Fame en plus pour atteindre le niveau 1 hein ?
+<b>\c[10]Maple:</b>\c[0] Only 2 more fame to get to the Level 1 huh?
+<b>\c[10]Maple:</b>\c[0] Plus que 2 de Fame pour atteindre le Niveau 1 hum ?
 <b>\c[10]Maple:</b>\c[0] You can't wait I'm sure, but tomorrow is Wednesday, it's a free day for you!
 <b>\c[10]Maple:</b>\c[0] Je sais que t’es impatient mais demain c’est Mercredi, tu as la journée libre !
 <b>\c[10]Maple:</b>\c[0] Wednesday is a lot like weekends:
@@ -248,8 +246,8 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] Donc tu ne perds pas de Fame en cas de défaite.
 <b>\c[10]Maple:</b>\c[0] Well, we will get noone else today.
 <b>\c[10]Maple:</b>\c[0] Bon, on aura personne d’autre aujourd’hui.
-<b>\c[10]Maple:</b>\c[0] Still 1 more fame needed before levelling up huh?
-<b>\c[10]Maple:</b>\c[0] Toujours 1 point de Fame pour le niveau 1 hein ?
+<b>\c[10]Maple:</b>\c[0] Still 2 more fame needed before levelling up huh?
+<b>\c[10]Maple:</b>\c[0] Toujours 2 de fame requis pour monter de niveau n'est-ce pas ?
 <b>\c[10]Maple:</b>\c[0] Tomorrow is Friday, last day of the week. It would be cool to level up before the week-end!
 <b>\c[10]Maple:</b>\c[0] Demain c’est Vendredi, dernier jour de la semaine. Ce serait cool d’atteindre le niveau 1 avant le week-end !
 <b>\c[10]Maple:</b>\c[0] Well, this time take the option of your choice and let's meet up here tomorrow morning!
@@ -328,6 +326,8 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec les gens que tu apprécies, à passer du temps avec eux ou même leur donner des cadeaux.
 <b>\c[10]Maple:</b>\c[0] Good luck and above all: have fun!
 <b>\c[10]Maple:</b>\c[0] Bonne chance et surtout : amuse-toi !
+Welcome to the \gt Gym!
+Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] \pn you remember Marley right?
 <b>\c[10]Maple:</b>\c[0] \pn tu te rappelles de Marley n’est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] Hello \pn!
@@ -435,7 +435,7 @@ Vous êtes sûr ?
 \wm<b>\c[10]Maple:</b>\c[0] The color surrounding the node represent the state of this construction.
 \wm<b>\c[10]Maple:</b>\c[0] La couleur autour du carré montre l’état de cette tâche.
 \wm <b>\c[10]Maple:</b>\c[0] Green: Task finished. Orange: Investesment done. Red: Not invested on the task yet.
-\wm <b>\c[10]Maple:</b>\c[0] Vert : Tâche terminée.  Orange : Investissement fait. Rouge : Investissement pas encore fait.
+\wm<b>\c[10]Maple:</b>\c[0] Vert : Tâche terminée.  Orange : Investissement fait. Rouge : Investissement pas encore fait.
 \wm<b>\c[10]Maple:</b>\c[0] Most of the available nodes are already green, because we didn't slack off! We worked hard recently!
 \wm<b>\c[10]Maple:</b>\c[0] La plupart des carrés sont déjà entourés de vert, car nous avons déjà bien travaillé !
 \wm<b>\c[10]Maple:</b>\c[0] Franck told me a few minutes that he is almost done. Let's wait a bit...
@@ -477,7 +477,7 @@ Quelques minutes plus tard…
 <b>\c[10]Maple:</b>\c[0] Then they work on this task during the next two days, a "working phase".
 <b>\c[10]Maple:</b>\c[0] Ensuite ils travaillent sur cette tâche pendant les deux prochains jours, une "Période de travail".
 <b>\c[10]Maple:</b>\c[0] A few tasks aren't really constructions and can be done instantly.
-<b>\c[10]Maple:</b>\c[0] Quelques tâches ne sont pas vraiment de constructions et peuvent être finies instantanément.
+<b>\c[10]Maple:</b>\c[0] Quelques tâches ne sont pas vraiment des constructions et peuvent être finies instantanément.
 <b>\c[10]Maple:</b>\c[0] Other requirements can appear like doing another construction first, meet someone first... You'll see later.
 <b>\c[10]Maple:</b>\c[0] D’autres conditions peuvent apparaître comme faire une autre tâche d’abord, rencontrer quelqu’un d’abord… Tu verras.
 <b>\c[10]Maple:</b>\c[0] Now if you press the right arrow, you will get to the rewards screen.
@@ -503,7 +503,7 @@ Quelques minutes plus tard…
 \wm<b>\c[10]Maple:</b>\c[0] Here we only have Franck so it's pretty simple but if we get more workers, you'll have more possibilities.
 \wm<b>\c[10]Maple:</b>\c[0] Pour l'instant on a que Franck donc c'est assez simple mais si on a plus de travailleurs, tu auras plus de possibilités.
 \wm<b>\c[10]Maple:</b>\c[0] For example, if you have multiple workers, you can assign them to different tasks.
-\wm<b>\c[10]Maple:</b>\c[0] Par exemple, si tru as plusieurs travailleurs, tu peux les assigner à différentes tâches.
+\wm<b>\c[10]Maple:</b>\c[0] Par exemple, si tu as plusieurs travailleurs, tu peux les assigner à différentes tâches.
 \wm<b>\c[10]Maple:</b>\c[0] At the end of the two next days, each worker on the task will add 1 progression point.
 \wm<b>\c[10]Maple:</b>\c[0] A la fin des deux prochains jours, chaque travailleur sur la tâche ajoutera 1 point de progression.
 \wm<b>\c[10]Maple:</b>\c[0] Here we will add a worker so that Franck works on this for the next 2 days.
@@ -519,13 +519,13 @@ Quelques minutes plus tard…
 \wm<b>\c[10]Maple:</b>\c[0] Every free task becomes orange when we see its details because, technically, investment is done...
 \wm<b>\c[10]Maple:</b>\c[0] Chaque tâche gratuite devient orange quand on regarde ses détails car, techniquement, l'investissement a été fait...
 \wm<b>\c[10]Maple:</b>\c[0] Now we just have to wait until wednesday!
-\wm<b>\c[10]Maple:</b>\c[0] maintenant on doit juste attendre mercredi !
+\wm<b>\c[10]Maple:</b>\c[0] Maintenant on doit juste attendre mercredi !
 <b>\c[10]Maple:</b>\c[0] When we have more fame you will have a lot more tasks available.
 <b>\c[10]Maple:</b>\c[0] Quand on aura plus de Fame, on aura plus de tâches disponibles.
 <b>\c[10]Maple:</b>\c[0] I trust you to develop and rebuild the Town right!
 <b>\c[10]Maple:</b>\c[0] Je te fais confiance pour bien reconstruire la ville !
 <b>\c[10]Maple:</b>\c[0] ...this concludes this presentation. Any questions?
-<b>\c[10]Maple:</b>\c[0] ...voilà qui conclut cette présentation. des questions ?
+<b>\c[10]Maple:</b>\c[0] ...voilà qui conclut cette présentation. Des questions ?
 <b>\c[3]Marley:</b>\c[0] I'm glad you're the one in charge boss, I kinda dozed off during the explanation!
 <b>\c[3]Marley:</b>\c[0] Jsuis content que ce soit toi le boss, boss, j’ai un peu décroché pendant la présentation !
 <b>\c[9]Melly:</b>\c[0] W-well huh... thi-this looks great! ... I think...

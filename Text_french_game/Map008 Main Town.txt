@@ -118,8 +118,6 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Touriste:</b> J’ai soif! Allons au café!
 <b>Tourist</b> My! What a cute little park!
 <b>Touriste:</b> Oh ! Quel joli petit parc !
-Beauty Market lvl 1
-Beauty Market lvl 1
 \tn's Department Store
 Centre Commercial de \tn
 <b>Amanda:</b> Hello \pn how are you ?
@@ -150,6 +148,10 @@ Vous n'avez pas assez de Poké Poupées !
 <b>Ernest:</b> Pas intéressé ? Je suis là si tu changes d'avis !
 <b>Ernest:</b> Hello young \pn, how are you? Thanks again for the Poké Dolls!
 <b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ? Merci encore pour les Poké Poupées !
+The sign is really damaged... You can't read anything.
+Le panneau est vraiment endommagé... C'est complètement illisible.
+Trainer's Academy
+Académie de dresseurs
 <b>Lady:</b> Hello you pretty thing!
 <b>Dame:</b> Bonjour mignonne petite chose~
 <b>Lady:</b> You're already pretty but for a small price, I can make you Pokémon prettier too!
@@ -168,10 +170,6 @@ Vous attendez quelques minutes...
 <b>Dame:</b> C'est fait ! Vous êtes trop magnifiques tous les deux !!!
 \c[3] WIP: Pokemon beauty
 \c[3] WIP: Pokemon beauty
-The sign is really damaged... You can't read anything.
-Le panneau est vraiment endommagé... C'est complètement illisible.
-Trainer's Academy
-Académie de dresseurs
 <b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
 <b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
 <b>Beauty:</b> Hello dear~

@@ -65,9 +65,9 @@ Pour pas que vous vous retrouviez dans un combat de trop haut niveau, vous pouve
 <b>Martha:</b> Would you take it with you? You will keep it safe I know!
 <b>Martha:</b> Tu veux bien le prendre avec toi ? Tu le protégeras, j’en suis sûr !
 <b>Marta:</b> And besides, I think he would be happier with you and your others Pokémons!
-<b>Marta:</b> Et en plus, il sera plus heureux avec toi et tes autres Pokémon !
+<b>Martha:</b> Et en plus, il sera plus heureux avec toi et tes autres Pokémon !
 <b>Marta:</b> It already likes you! Take it with you please!
-<b>Marta:</b> Il t’adore déjà ! Prends-le avec toi s’il te plaît !
+<b>Martha:</b> Il t’adore déjà ! Prends-le avec toi s’il te plaît !
 <b>Martha:</b> Take care of Chantilly!
 <b>Martha:</b> Prends soin de Chantilly!
 <b>Gregory:</b> I love speleology!

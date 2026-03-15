@@ -36,6 +36,10 @@ Vous donnez le sac à Henry.
 <b>Henry:</b> J’ai quelque chose pour les braves de ton espèce…
 <b>Henry:</b> Well its time for me to go back home! See you later young \pn.
 <b>Henry:</b> Bien, il est temps pour moi de rentrer dans ma demeure. A la revoyure, jeune \pn.
+<b>Delibird:</b> Deliiiii!
+<b>Cadoizo:</b> Doizoooo!
+<b>Vulpix:</b> Vuuuuul!
+<b>Goupix:</b> Piiiiiiiix!
 <b>Elder:</b> Hello little one. I heard there are some wilds Vulpix on this Route.
 <b>Mamie:</b> Bonjour à toi. J’ai entendu dire qu’il y avait des Goupix sauvages sur cette Route.
 <b>Elder:</b> If you happen to have one, would you exchange it for my sweet Delibird?
@@ -56,10 +60,6 @@ Mamie
 <b>Mamie:</b>Veux-tu échanger un Goupix contre mon gentil Cadoizo ?
 <b>Elder:</b> Hello little one. Don't mind me, I'm just enjoying the fresh air.
 <b>Mamie:</b> Bonjour à toi. Ne fais pas attention à moi, je profite juste de l’air frais.
-<b>Delibird:</b> Deliiiii!
-<b>Cadoizo:</b> Doizoooo!
-<b>Vulpix:</b> Vuuuuul!
-<b>Goupix:</b> Piiiiiiiix!
 <b>Aron:</b> Do you see my cool cap?
 <b>Aron:</b> Tu veux voir ma casquette trop cool ??
 <b>Aron:</b> I bet you want a cool cap too!

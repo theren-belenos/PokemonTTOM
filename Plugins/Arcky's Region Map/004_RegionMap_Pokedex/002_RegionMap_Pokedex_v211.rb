@@ -17,7 +17,7 @@ if Essentials::VERSION.include?("21")
       @viewportMap.z = 99999
       arcky_pbStartScene(*args)
       @sprites["areamap"] = IconSprite.new(0, 0, @viewportMap)
-      @sprites["areamap"].setBitmap("Graphics/UI/Town Map/Regions/#{@mapdata.filename}")
+      @sprites["areamap"].setBitmap(_INTL("Graphics/UI/Town Map/Regions/#{@mapdata.filename}"))
       ARMSettings::RegionMapExtras.each do |hidden|
         next if hidden[0] != @region || hidden[1] <= 0 || !$game_switches[hidden[1]]
         pbDrawImagePositions(

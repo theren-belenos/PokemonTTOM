@@ -123,7 +123,7 @@ Scientifique &f;
 Scientist &m;
 Scientifique &m;
 Street Thug
-Street Thug
+Terreur
 Ace Trainer &f;
 Dresseuse d'élite &f;
 Ace Trainer &m;

@@ -2012,6 +2012,7 @@ module Settings
 			:TOWNDEV19REWARDS => {
                 :Title => _INTL("Rewards"),
                 :Text => _INTL("Unlocks a machine that can revive fossils found in the desert or in glowing rocks.\nPassive town income +$1000 per week"),
+				:Background => "bg2",
 			},
 			
 			:TOWNDEV20 => {

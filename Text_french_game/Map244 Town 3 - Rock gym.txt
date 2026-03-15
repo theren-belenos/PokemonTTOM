@@ -33,7 +33,7 @@
 <b>Worker:</b> We found too many of these, honestly... Do you want some?
 <b>Travailleur:</b> On a trouvé beaucoup trop de ces trucs, honnêtement... Tu en veux un peu ?
 <b>Worker:</b> Good day!
-<b>Worker:</b> Bonne journée !
+<b>Travailleur:</b> Bonne journée !
 You can't leave the Town with the Skitty! Bring it back to its owner!
 Vous ne pouvez pas quitter la ville avec le Skitty! Ramenez-le à son propriétaire!
 <b>Skitty:</b> Skiiiiii!

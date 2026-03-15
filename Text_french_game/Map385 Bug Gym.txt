@@ -36,12 +36,12 @@ Vous obtenez le Badge Ruche ! \f[HIVEBADGE]
 <b>Kathleen:</b> Hey \pn, ça va ?
 You already gave a gift to Kathleen this week!
 Vous avez déjà offert un cadeau à Kathleen cette semaine !
+Joltik flew away!
+Statititk s’est enfui !
 You spend time helping Kathleen in her Gym.
 Vous passez du temps à aider Kathleen dans son Arène.
 You learn a lot!
 Vous apprenez plein de choses !
-Joltik flew away!
-Statititk s’est enfui !
 You hit all the Joltiks in 6 hits or less! Both the bonus bridges, left and right, are open!
 Vous avez touché tous les Statitiks en 6 tirs ou moins ! Les deux ponts bonus, gauche et droite, sont ouverts !
 This time you didn't manage to hit all Joltiks in 6 shots or less. Don't worry, the bonus bridges remain open.

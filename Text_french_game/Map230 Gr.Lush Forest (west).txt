@@ -23,25 +23,25 @@ Voulez-vous donner une Baie Chérim au scientifique ?
 You give the scientist a custap berry.
 Vous donnez une Baie Chérim au scientique.
 <b>Scientist:</b> Why thank you! This will be very useful for me!
-<b>Scientist:</b> Eh bien, merci ! Ce sera extrêmement utile pour moi !
+<b>Scientifique:</b> Eh bien, merci ! Ce sera extrêmement utile pour moi !
 <b>Scientist:</b> Here, let me give you this useful TM as a thanks!
-<b>Scientist:</b> Laisse moi te donner cette CT, bien utile, pour te remercier !
+<b>Scientifique:</b> Laisse moi te donner cette CT, bien utile, pour te remercier !
 <b>Scientist:</b> See you around!
-<b>Scientist:</b> A la revoyure !
+<b>Scientifique:</b> A la revoyure !
 <b>Scientist:</b> Did you find some custap berries?
-<b>Scientist:</b> Tu as trouvé des Baies Chérim ?
+<b>Scientifique:</b> Tu as trouvé des Baies Chérim ?
 <b>Scientist:</b> Not yet? Don't you give up!
-<b>Scientist:</b> Pas encore ? N’abandonne pas !
+<b>Scientifique:</b> Pas encore ? N’abandonne pas !
 <b>Scientist:</b> Did you find some rare berries?
-<b>Scientist:</b> Tu as trouvé des baies rares ?
+<b>Scientifique:</b> Tu as trouvé des baies rares ?
 <b>Man:</b> Hey! H...how did you get there? You were next to me!
-<b>Man:</b> Hey ! C…comment t’es arrivé là ? Tu étais à côté de moi !
+<b>Homme:</b> Hey ! C…comment t’es arrivé là ? Tu étais à côté de moi !
 <b>Johnson:</b> I LOVE JOLTIKS!!!!!!!
 <b>Johnson:</b> J’ADORE LES STATITIKS !!!!!!
 <b>Johnson:</b> JOLTIIIIIIIIIIIIIKS!
 <b>Johnson:</b> STATITIIIIIIIIIIIIIKS !
 <b>Man:</b> What? How can I go further?
-<b>Man:</b> Hein ? Comment aller plus loin ?
+<b>Homme:</b> Hein ? Comment aller plus loin ?
 You spend time in the forest catching bugs with Kathleen.
 Vous passez du temps à capturer des insectes en forêt avec Kathleen.
 It's really cool!

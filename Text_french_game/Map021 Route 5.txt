@@ -9,7 +9,7 @@
 <b>Desert Nurse:</b> Hello, you must take care with the desert.
 <b>Infirmière du désert:</b> Bonjour, tu devrais faire attention avec le désert.
 <b>Desert Nurse :</b> If you want, you can rest up inside the tent.
-<b>Desert Nurse:</b> Si tu veux, tu peux te reposer dans la tente.
+<b>Infirmière du désert:</b> Si tu veux, tu peux te reposer dans la tente.
 Your Pokémons were healed!
 Vos Pokémon ont été soignés !
 <b>Desert Nurse:</b> See you around!

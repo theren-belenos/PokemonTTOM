@@ -24,6 +24,7 @@ class PokemonRegionMap_Scene
   
   def getTownDevIconPositions
     limit = getFameLimit
+	puts @mapInfo
     @mapInfo.each do |key, value|
       selFlySpots = Hash.new { |hash, key| hash[key] = [] }
       value[:positions].each do |pos|
@@ -180,17 +181,15 @@ class PokemonRegionMap_Scene
 				messageMap(_INTL("Prerequisites not satisfied."))
 				pbPlayCancelSE
 			else
-				puts "test2"
 				if $town.funds < (data[2]*1000)
-					messageMap(_INTL("Cost: $") + (data[2]*1000).to_s + _INTL(". Funds available: $") + $town.funds.to_s + _INTL(".\nNot enough funds to invest on this task"))
+					messageMap(_INTL("Cost: $") + (data[2]*1000).to_s + ". " + _INTL("Funds available: $") + $town.funds.to_i.to_s + ".\n" + _INTL("Not enough funds to invest on this task"))
 					pbPlayCancelSE
 				else
-					puts "test3"
-					if confirmMessageMap(_INTL("Cost: $") + (data[2]*1000).to_s + _INTL(". Funds available: $") + $town.funds.to_s + _INTL(".\nDo you want to invest on this task ?"))
+					if confirmMessageMap(_INTL("Cost: $") + (data[2]*1000).to_s + ". " + _INTL("Funds available: $") + $town.funds.to_i.to_s + ".\n" + _INTL("Do you want to invest on this task ?"))
 						pbPlayDecisionSE
 						$town.funds -= (data[2]*1000)
 						$town.buildings[index] = 1
-						messageMap("Investment complete !")
+						messageMap(_INTL("Investment complete !"))
 						if data[1] == 0
 							pbPlayLevelUpSE
 							$town.build(infos[2])
@@ -204,7 +203,7 @@ class PokemonRegionMap_Scene
 			end
 		else
 			if data[1] < $town.buildings[index]
-				pbMessage("Task already done.")
+				messageMap(_INTL("Task already done."))
 			end	
 		end
 		
@@ -221,30 +220,33 @@ class PokemonRegionMap_Scene
 						end
 					end
 				end
-				message = _INTL("Progression: ") + ($town.buildings[index]-1).to_s + " / " + data[1].to_s + _INTL("\nWorkers: ") + onthistask.to_s + _INTL(" on this task ; ") + unassigned.to_s + _INTL(" free") 
+				message = _INTL("Progression:") + " " + ($town.buildings[index]-1).to_s + " / " + data[1].to_s + "\n" + _INTL("Workers:") + " " + onthistask.to_s + " " + _INTL("on this task ;") + " " + unassigned.to_s + " " + _INTL("free") 
 				missing = 1 + data[1] - $town.buildings[index]
-				case pbChangeWorkers(message, onthistask, unassigned, missing)
-				when 0 # Add a worker on this task
-					$town.workers.length.times do |i|
-						if $town.workers[i] == -1
-							$town.workers[i] = index
-							break
-						end
-					end
-				when 1 # Remove a worker from this task
-					$town.workers.length.times do |i|
-						if $town.workers[i] == index
-							$town.workers[i] = -1
-							break
-						end
-					end
-				else 
+				if $town.weekday != 0 && $town.weekday != 8
+					messageMap(message)
 					break
+				else
+					case pbChangeWorkers(message, onthistask, unassigned, missing)
+					when 0 # Add a worker on this task
+						$town.workers.length.times do |i|
+							if $town.workers[i] == -1
+								$town.workers[i] = index
+								break
+							end
+						end
+					when 1 # Remove a worker from this task
+						$town.workers.length.times do |i|
+							if $town.workers[i] == index
+								$town.workers[i] = -1
+								break
+							end
+						end
+					else 
+						break
+					end
 				end
 			end
 		end
-		
-		
     end
   end
 

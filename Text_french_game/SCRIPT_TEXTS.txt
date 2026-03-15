@@ -5357,7 +5357,7 @@ Pas encore acheté
 Cost: <b>
 Coût : <b>
 Construction duration:
-Durée de construction : 
+Durée de construction :
 Finished !
 Terminé !
 Construction progress :
@@ -5371,13 +5371,13 @@ Voulez-vous investir dans cette tâche ?
 As an instant build, the task is completed !
 La construction étant instantannée, elle est terminée !
 Workers currently on this task:
-Travailleurs sur cette tâche : 
+Travailleurs sur cette tâche :
 Currently unassigned workers:
-Travailleurs libres : 
+Travailleurs libres :
 Work required:
 Travail requis :
 Progress:
-Progression : 
+Progression :
 Prerequisites not built yet.
 Prérequis pas encore construits.
 None (Instant build)
@@ -5389,11 +5389,11 @@ période de travail
 Prerequisites not satisfied.
 Prérequis non satisfaits.
 Progression:
-Progression : 
+Progression :
 . Workers:
 . Travailleurs :
 on this task ;
-sur cette tâche ; 
+sur cette tâche ;
 free
 libres
 (Free task)
@@ -5405,7 +5405,7 @@ libres
 Free task
 Gratuit
 Investment was
-A coûté 
+A coûté
 Invested $
 A investi $
 Cost: $
@@ -5447,7 +5447,7 @@ Labo Pokémon - Niv.3
 <i>Prerequisites: Pokémon Lab 2.</i><<n>>Unlocks fossil revival machine and give passive money.
 <i>Prérequis: Labo Pokémon 2.</i><<n>>Débloque la possibilité de ressuciter les fossiles et donne des fonds passifs.
 Unlocks a machine that can revive fossils found in the desert or in glowing rocks.<<n>>Passive town income +$1000 per week
-Débloque une machine qui peut ressuciter les fossiles trouvés das le désert ou dans les Rochers Luisants.<<n>>Revenus passifs +$1000 par semaine
+Débloque une machine qui peut ressuciter les fossiles trouvés dans le désert ou dans les Rochers Luisants.<<n>>Revenus passifs +$1000 par semaine
 <i>Prerequisites: Clearing House 1.</i><<n>>Build the first house : Melly's house.
 <i>Prérequis : Déblayage maison 1.</i><<n>>Construit la première maison : la maison de Melly.
 <i>Prerequisites: Clearing House 1.</i><<n>>Clears the wreckage on the Block 1.
@@ -5473,8 +5473,210 @@ Fonds passifs +$500 par semaine.<<n>>Trois PNJs deviennent disponibles:<<n>>- Un
 Graphics/UI/Town Map/Regions/
 Graphics/UI/Town Map/RegionsVF/
 Workers:
-Travailleurs : 
+Travailleurs :
 <i>Prerequisites: Gym Interiors 1.</i><<n>>Improve interiors of your Gym. Repairs and clears everything, giving more fame.
 <i>Prérequis : Intérieurs de l'Arène 1.</i><<n>>Améliore l'intérieuir de l'Arène. Répare et nettoie tout, donnant plus de fame.
 Gym Welcoming - Lvl.1
 Accueil dans l’arène - Lvl.1
+Graphics/UI/Town Map/Regions/#{@mapdata.filename}
+Graphics/UI/Town Map/RegionsVF/#{@mapdata.filename}
+Graphics/UI/Town Map/
+Graphics/UI/Town Map/
+#{FOLDER}Regions/
+#{FOLDER}Regions/
+Funds available: $
+Fonds disponibles : $
+Cost:
+Coût :
+Some workers aren't assigned to a task!
+Certains travailleurs ne sont assignés à aucune tâche !
+Open the Town Reconstruction?
+Ouvrir l'écran de reconstruction de la ville ?
+Task already done.
+Tâche déjà terminée.
+Finished!
+Terminé !
+Buildings progression:
+Progression des constructions :
+Gym Trainer 1
+Dresseur d'Arène 1
+Gym Interiors 1
+Intérieurs de l'Arène 1
+Leader Room 1
+Salle du leader 1
+Gym Exteriors 1
+Extérieurs de l'Arène 1
+Pokémon Center 1
+Centre Pokémon 1
+Pokémon Lab 1
+Labo Pokémon 1
+Dept. Store 1-1
+Centre Commercial 1-1
+Welcoming 1
+Accueil 1
+Gym Interiors 2
+Intérieurs de l'Arène 2
+Pokémon Lab 2
+Labo Pokémon 2
+Clearing - Town Exteriors
+Déblayage - Extérieurs de la Ville
+Dept. Store 2-1
+Centre Commercial 2-1
+Dept. Store 1-2
+Centre Commercial 1-2
+Gym Trainer 2
+Dresseur d'Arène 2
+Leader Room 2
+Salle du Leader 2
+Pokémon Lab 3
+Labo Pokémon 3
+Double Team
+Equipe Double
+House 1
+Maison 1
+Town Exteriors 2
+Extérieurs de la Ville 2
+Selfcare Market 1
+Marché Bien-être 1
+Dept. Store 3-1
+Centre Commercial 3-1
+Dept. Store 2-2
+Centre Commercial 2-2
+Dept. Store 1-3
+Centre Commercial 1-3
+Welcoming 2
+Accueil 2
+Gym Exteriors 2
+Extérieurs de l'Arène 2
+Pokémon Center 2
+Centre Pokémon 2
+Pokémon Lab 4
+Labo Pokémon 4
+Block 1
+Immeuble 1
+Clearing - House 2
+Déblayage - Maison 2
+Safari Park 1
+Parc Safari 1
+Clearing - Selfcare market 2
+Déblayage - Marché Bien-être 2
+Clearing - Casino
+Déblayage - Casino
+Clearing - Harbor
+Déblayage - Port
+Dept. Store 4-1
+Centre Commercial 4-1
+Dept. Store 3-2
+Centre Commercial 3-2
+Dept. Store 2-3
+Centre Commercial 2-3
+Dept. Store 1-4
+Centre Commercial 1-4
+Gym Trainer 3
+Dresseur d'Arène 3
+Leader Room 3
+Salle du Leader 3
+House 2
+Maison 2
+Clearing - Block 2
+Déblayage - Immeuble 2
+Town Exteriors 3
+Extérieurs de la ville 3
+Safari Park 2
+Parc Safari 2
+Selfcare Market 2
+Marché Bien-être 2
+Casino 1
+Casino 1
+Harbor
+Port
+Clearing - Battle Café
+Déblayage - Café Combat
+Dept. Store 5-1
+Centre Commercial 5-1
+Dept. Store 4-2
+Centre Commercial 4-2
+Dept. Store 3-3
+Centre Commercial 3-3
+Dept. Store 2-4
+Centre Commercial 2-4
+Dept. Store 1-5
+Centre Commercial 1-5
+Welcoming 3
+Accueil 3
+Gym Interiors 3
+Intérieurs de l'Arène 3
+Pokémon Center 3
+Centre Pokémon 3
+Block 2
+Immeuble 2
+Clearing - House 3
+Déblayage - Maison 3
+Museum
+Musée
+Safari Park 3
+Parc Safari 3
+Clearing - Grand Hotel
+Déblayage - Grand Hôtel
+Casino 2
+Casino 2
+Battle Café
+Café Combat
+Clearing - Battle Restaurant
+Déblayage - Resto Combat
+Dept. Store Rooftop
+Centre Commercial - Toits
+Dept. Store 5-2
+Centre Commercial 5-2
+Dept. Store 4-3
+Centre Commercial 4-3
+Dept. Store 3-4
+Centre Commercial 3-4
+Dept. Store 2-5
+Centre Commercial 2-5
+Dept. Store 1-6
+Centre Commercial 1-6
+Trainer 4
+Dresseur d'Arène 4
+Invitations 1
+Invitations 1
+House 3
+Maison 3
+Clearing - House 4
+Déblayage - Maison 4
+Safari Park 4
+Parc Safari 4
+Grand Hotel
+Grand Hôtel
+Casino 3
+Casino 3
+Clearing - Radio Tower
+Déblayage - Tour Radio
+Battle Restaurant
+Resto Combat
+Dept. Store Basement
+Centre Commercial - Sous-sol
+Dept. Store 5-3
+Centre Commercial 5-3
+Dept. Store 4-4
+Centre Commercial 4-4
+Dept. Store 2-6
+Centre Commercial 2-6
+Dept. Store 1-7
+Centre Commercial 1-7
+Gym Exteriors 3
+Extérieurs de l'Arène 3
+Invitations 2
+Invitations 2
+House 4
+Maison 4
+Town Exteriors 4
+Extérieurs de la Ville 4
+Safari Park 5
+Parc Safari 5
+Lighthouse
+Phare
+Radio Tower
+Tour Radio
+Investment complete !
+Investissement effectué !

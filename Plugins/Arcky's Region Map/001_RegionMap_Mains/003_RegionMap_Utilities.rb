@@ -17,7 +17,7 @@ class PokemonRegionMap_Scene
   end
 
   def getTimeOfDay
-    path = "#{FOLDER}Regions/"
+    path = _INTL("#{FOLDER}Regions/")
     return "#{path}#{@regionFile}" if !ARMSettings::TimeBasedRegionMap
     if PBDayNight.isDay?
       time = "Day"

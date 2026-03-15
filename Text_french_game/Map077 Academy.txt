@@ -9,7 +9,7 @@
 <b>Teacher:</b> It’s really nice to have a beautiful academy back!
 <b>Enseignant:</b> C'est vraiment génial d'avoir récupéré notre belle Académie !
 It's full of important looking foldcases...
-C'est pleind e dossiers qui ont l'air importants...
+C'est plein de dossiers qui ont l'air importants...
 <b>Student:</b> That’s hard!
 <b>Etudiant:</b> C'est dur !
 ...
@@ -201,17 +201,17 @@ Réunion syndicale tous les jeudis matins - venez nombreux !
 <b>Student:</b> Eve Flores. Now stop talking or the teacher will scold me!
 <b>Etudiant:</b> Eve Flores. Maintenant arrête de me parler, je vais finir par me faire disputer !
 This is a drink vending machine. Wanna buy something?\G
-This is a drink vending machine. Wanna buy something?\G
+\GC'est un distributeur de boissons. Acheter quelque chose ?
 \G...Klang! One bottle of Fresh Water fell down!
-\G...Klang! One bottle of Fresh Water fell down!
+\G...Klang ! Une canette d'Eau Fraîche est tombée !
 \GYou have no room left in the Bag.
-\GYou have no room left in the Bag.
+\GVous n'avez plus de place dans le sac.
 \GYou don't have enough money.
-\GYou don't have enough money.
+\GVous n'avez pas assez d'argent.
 \G...Klang! One bottle of Soda Pop fell down!
-\G...Klang! One bottle of Soda Pop fell down!
+\G...Klang ! Une canette de Soda Cool est tombée !
 \G...Klang! One bottle of Lemonade fell down!
-\G...Klang! One bottle of Lemonade fell down!
+\G...Klang ! Une canette de Limonade est tombée !
 You spend time assisting Maple during his lessons at the academy.
 Vous assistez Maple pendant ses cours à l'académie.
 Students are really happy to learn from you!
