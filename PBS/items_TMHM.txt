@@ -1,4 +1,94 @@
 #-------------------------------
+[HM01]
+Name = HM01
+NamePlural = HM01s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = CUT
+Description = The target is cut with a scythe or claw. This can also be used to cut down thin trees.
+#-------------------------------
+[HM02]
+Name = HM02
+NamePlural = HM02s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = FLASH
+Description = The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves. 
+#-------------------------------
+[HM03]
+Name = HM03
+NamePlural = HM03s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = ROCKSMASH
+Description = The user slugs the foe with a shattering punch. It can also smash cracked boulders. 
+#-------------------------------
+[HM04]
+Name = HM04
+NamePlural = HM04s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = FLY
+Description = The user soars and then strikes on the next turn. This can also be used to fly to any familiar town.
+#-------------------------------
+[HM05]
+Name = HM05
+NamePlural = HM05s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = CALMSKY
+Description = Stops the current weather, the winds, and completely clear the sky.
+#-------------------------------
+[HM06]
+Name = HM06
+NamePlural = HM06s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = STRENGTH
+Description = The target is slugged with a punch thrown at maximum power. This can also be used to move heavy boulders.
+#-------------------------------
+[HM07]
+Name = HM07
+NamePlural = HM07s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = SURF
+Description = Attacks everything by swamping the surroundings with a giant wave. This can also be used to cross water.
+#-------------------------------
+[HM08]
+Name = HM08
+NamePlural = HM08s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = ROCKCLIMB
+Description = A powerful attack that may harm its user if failed.
+#-------------------------------
+[HM09]
+Name = HM09
+NamePlural = HM09s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = DIVE
+Description = Diving on the first turn, the user floats up and attacks on the second. It can be used to dive underwater.
+#-------------------------------
+[HM10]
+Name = HM10
+NamePlural = HM10s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = WATERFALL
+Description = The user charges at the target and may make it flinch. It can also be used to climb a waterfall.
+#-------------------------------
 [TM000]
 Name = TM000
 NamePlural = TM000s
@@ -2289,93 +2379,3 @@ FieldUse = TM
 Flags = Fling_50
 Move = CROSSPOISON
 Description = A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit. 
-#-------------------------------
-[HM01]
-Name = HM01
-NamePlural = HM01s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = CUT
-Description = The target is cut with a scythe or claw. This can also be used to cut down thin trees.
-#-------------------------------
-[HM02]
-Name = HM02
-NamePlural = HM02s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = FLASH
-Description = The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves. 
-#-------------------------------
-[HM03]
-Name = HM03
-NamePlural = HM03s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = ROCKSMASH
-Description = The user slugs the foe with a shattering punch. It can also smash cracked boulders. 
-#-------------------------------
-[HM04]
-Name = HM04
-NamePlural = HM04s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = CALMSKY
-Description = Stops the current weather, the winds, and completely clear the sky.
-#-------------------------------
-[HM05]
-Name = HM05
-NamePlural = HM05s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = FLY
-Description = The user soars and then strikes on the next turn. This can also be used to fly to any familiar town.
-#-------------------------------
-[HM06]
-Name = HM06
-NamePlural = HM06s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = STRENGTH
-Description = The target is slugged with a punch thrown at maximum power. This can also be used to move heavy boulders.
-#-------------------------------
-[HM07]
-Name = HM07
-NamePlural = HM07s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = SURF
-Description = Attacks everything by swamping the surroundings with a giant wave. This can also be used to cross water.
-#-------------------------------
-[HM08]
-Name = HM08
-NamePlural = HM08s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = ROCKCLIMB
-Description = A powerful attack that may harm its user if failed.
-#-------------------------------
-[HM09]
-Name = HM09
-NamePlural = HM09s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = DIVE
-Description = Diving on the first turn, the user floats up and attacks on the second. It can be used to dive underwater.
-#-------------------------------
-[HM10]
-Name = HM10
-NamePlural = HM10s
-Pocket = 4
-Price = 0
-FieldUse = HM
-Move = WATERFALL
-Description = The user charges at the target and may make it flinch. It can also be used to climb a waterfall.

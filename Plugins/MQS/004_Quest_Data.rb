@@ -193,6 +193,57 @@ module QuestModule
 		:QuestDescription => _INTL("Complete the city task 17 : 'Gym Team - Second trainer' and find someone who can become the second trainer of your Gym."),
 		:RewardString => ""
 	}
+	
+	# Chapter 4
+	MainQuestCh4 = {
+		:ID => "MQCh4",
+		:Name => _INTL("Chapter 4: Relax and enjoy"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Complete Sub-goals (0/3)"),
+		:Stage2 => _INTL("Complete Sub-goals (1/3)"),
+		:Stage3 => _INTL("Complete Sub-goals (2/3)"),
+		:Stage4 => _INTL("Win the rank up battle"),
+		:Stage5 => _INTL("Report back to Maple"),
+		:Location1 => "/",
+		:Location2 => "/",
+		:Location3 => "/",
+		:Location4 => "Pokémon League",
+		:Location5 => "/",
+		:QuestDescription => _INTL("Progress as a Gym leader by completing sub-goals (quests called Ch.4-A, Ch.4-B and Ch.4-C), and get to rank 4 by winning the rank up battle."),
+		:RewardString => "Rank up"
+	}
+
+	MainQuestCh4A = {
+		:ID => "MQCh4A",
+		:Name => _INTL("Ch.4-A: Get to fame level 10"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Get to fame level 10"),
+		:Location1 => "/",
+		:QuestDescription => _INTL("Gain fame to let your Gym be recognized by getting to fame level 10."),
+		:RewardString => ""
+	}
+
+	MainQuestCh4B = {
+		:ID => "MQCh4B",
+		:Name => _INTL("Ch.4-B: Get Titaga badge"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Get Titaga Gym's badge"),
+		:Location1 => _INTL("Titaga Gym"),
+		:QuestDescription => _INTL("Travel to Titaga via the Route 12, south of Greymoose, to earn a new badge."),
+		:RewardString => ""
+	}
+
+	MainQuestCh4C = {
+		:ID => "MQCh4C",
+		:Name => _INTL("Ch.4-C: Camosack tournament"),
+		:QuestGiver => "Prof Maple",
+		:Stage1 => _INTL("Sign up for the tournament"),
+		:Stage2 => _INTL("Finish the tournament"),
+		:Location1 => "Camosack",
+		:Location2 => "Camosack",
+		:QuestDescription => _INTL("Travel to Camosack via the Route 11, west of Greymoose, and participate in the yearly tournament with Melly."),
+		:RewardString => ""
+	}
   
   ##############################################################################
   #
@@ -470,6 +521,16 @@ module QuestModule
 		:RewardString => "???"
 	}
 	
+	# Bat Pokémon
+	PokemonQuest9 = {
+		:ID => "PQ9",
+		:Name => _INTL("Bat Pokémon on the Sun"),
+		:QuestGiver => _INTL("A Scientist"),
+		:Stage1 => _INTL("Lend a Bat Pokémon"),
+		:Location1 => _INTL("Camosack PokéCenter"),
+		:QuestDescription => _INTL("A scientist inside Camosack PokéCenter wants to study effectfs of the Sun on Bat Pokémon. Lend him a Pokémon from one of these families:  Zubat, Woobat, Noibat or Gligar."),
+		:RewardString => "???"
+	}
 	
 	##############################################################################
 	#
@@ -625,7 +686,7 @@ module QuestModule
 		:QuestGiver => "Melly",
 		:Stage1 => _INTL("Have another training battle with Melly"),
 		:Location1 => _INTL("Your Gym or Melly's house."),
-		:QuestDescription => _INTL("Melly wants to train with you again. Battle her at your Gym. Her Pokémons will be around lvl 35. Note: you HAVE to win the battle to complete the quest."),
+		:QuestDescription => _INTL("Melly wants to train with you again. Battle her at your Gym. Her Pokémons will be around lvl 40. Note: you HAVE to win the battle to complete the quest."),
 		:RewardString => _INTL("Melly relation up.")
 	}
 
@@ -656,11 +717,11 @@ module QuestModule
   
 	SamyQuest1= {
 		:ID => "SamyQ1",
-		:Name => _INTL("Samy first training battle (lvl 30+)"),
+		:Name => _INTL("Samy first training battle (lvl 35+)"),
 		:QuestGiver => "Samy",
 		:Stage1 => _INTL("Have a training battle with Samy"),
 		:Location1 => _INTL("Your Gym or Samy's house."),
-		:QuestDescription => _INTL("Samy wants to train with you. Battle him at your Gym. His Pokémons will be around lvl 30. Note: you HAVE to win the battle to complete the quest"),
+		:QuestDescription => _INTL("Samy wants to train with you. Battle him at your Gym. His Pokémons will be around lvl 35. Note: you HAVE to win the battle to complete the quest"),
 		:RewardString => _INTL("Samy relation up.")
 	}
 	  
@@ -671,7 +732,7 @@ module QuestModule
 		:QuestGiver => "Samy",
 		:Stage1 => _INTL("Give shards to Samy"),
 		:Location1 => _INTL("Your Gym or Samy's house."),
-		:QuestDescription => _INTL("Samy needs shards that you can find by mining glowing rocks. Collect and give to him 5 of each color (blue red green and yellow)."),
+		:QuestDescription => _INTL("Samy needs shards that you can find by mining glowing rocks. Collect and give to him 3 of each primary color (blue red green)."),
 		:RewardString => _INTL("Samy relation up.")
 	}
 
@@ -688,14 +749,15 @@ module QuestModule
 
 
 	SamyQuest4= {
-		:ID => "SamyQ4",
-		:Name => _INTL("More shards"),
-		:QuestGiver => "Samy",
-		:Stage1 => _INTL("Give more shards to Samy"),
-		:Location1 => _INTL("Your Gym or Samy's house."),
-		:QuestDescription => _INTL("Samy needs even more shards that you can find by mining glowing rocks. Collect and give to him 8 of each color (blue red green and yellow."),
-		:RewardString => _INTL("Samy relation up.")
+    	:ID => "SamyQ4",
+    	:Name => _INTL("Underground shiny"),
+    	:QuestGiver => "Samy",
+    	:Stage1 => _INTL("Show an underground shiny"),
+    	:Location1 => _INTL("Your Gym or Samy's flat."),
+    	:QuestDescription => _INTL("Samy and Marley already are good friends. Obviously, Marley told him about shinies. Samy wants to see a shiny caught in a cave."),
+    	:RewardString => _INTL("Samy relation up.")
 	}
+
 
 
 	SamyQuest5= {
@@ -778,6 +840,65 @@ module QuestModule
   
 	# Madame S
 	##############################################################################
+	MadameSQuest1= {
+    	:ID => "MadameSQ1",
+    	:Name => _INTL("S for sip?"),
+    	:QuestGiver => "Madame S",
+    	:Stage1 => _INTL("Give Madame S some berries"),
+    	:Location1 => _INTL("Camosack resort"),
+    	:QuestDescription => _INTL("Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her : (list)"),
+    	:RewardString => _INTL("Madame S relation up.")
+	}
+	
+
+	MadameSQuest2= {
+    	:ID => "MadameSQ2",
+    	:Name => _INTL("S for samba ?"),
+    	:QuestGiver => "Madame S",
+    	:Stage1 => _INTL("Give a Ludicolo"),
+    	:Location1 => _INTL("Camosack resort"),
+    	:QuestDescription => _INTL("Madame S loves to greet customers with funny Ludicolo dancing! She needs more of them tho, give her a Ludicolo."),
+    	:RewardString => _INTL("Madame S relation up.")
+	}
+	 	 
+ 	 
+	MadameSQuest3= {
+    	:ID => "MadameSQ3",
+    	:Name => _INTL("S for sun?"),
+    	:QuestGiver => "Madame S",
+    	:Stage1 => _INTL("Give Madame S a pokémon drawing sun."),
+    	:Location1 => _INTL("Camosack resort"),
+    	:QuestDescription => _INTL("Madame S absolutely needs to keep a good climate on Camosack. She needs more Pokémon able to do that. Give her a Pokémon with Drought or knowing the move Sunny Day."),
+    	:RewardString => _INTL("Madame S relation up.")
+	}
+ 	 
+ 	 
+	MadameSQuest4= {
+    	:ID => "MadameSQ4",
+    	:Name => _INTL("S for saltimbocca?"),
+    	:QuestGiver => "Madame S",
+    	:Stage1 => _INTL("Find performers (0/5)"),
+		:Stage2 => _INTL("Find performers (1/5)"),
+		:Stage3 => _INTL("Find performers (2/5)"),
+		:Stage4 => _INTL("Find performers (3/5)"),
+		:Stage5 => _INTL("Find performers (4/5)"),
+		:Stage6 => _INTL("Report to Madame S"),
+    	:Location1 => _INTL("Camosack resort"),
+    	:QuestDescription => _INTL("Madame S wants some performers to entertain her guests. When travelling across Nekanta, try to find at least 5 people who can perform in a spectacle - clowns, acrobats, singers, dancers…"),
+    	:RewardString => _INTL("Madame S relation up.")
+	}
+ 	 
+ 	 
+   MadameSQuest5= {
+    	:ID => "MadameSQ5",
+    	:Name => _INTL("S for shiny!"),
+    	:QuestGiver => "Madame S",
+    	:Stage1 => _INTL("Show a shiny sun Pokémon to madame S"),
+    	:Location1 => _INTL("Camosack resort"),
+    	:QuestDescription => _INTL("Madame S is fairly impressed by you completing all of her errands. Impress her further by showing her a shiny “sun-related” Pokémon. Criteria : one of these Pokémon Joliflor le truc tournesol etc or one that can draw sun."),
+    	:RewardString => _INTL("Madame S relation up.")
+	}
+
   
 	# Normal Leader
 	##############################################################################

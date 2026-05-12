@@ -378,3 +378,30 @@ Pokemon = SWOOBAT,59
 Pokemon = TREVENANT,59
 Pokemon = ALOMOMOLA,60
 Pokemon = DEDENNE,62
+
+
+
+[SAMY,Samy]
+LoseText = Hahah! Not bad, really not bad!
+Pokemon = PROBOPASS,34
+Pokemon = KILOWATTREL,35
+Pokemon = STEELIX,35
+Pokemon = LYCANROC,37
+
+[SAMY,Samy,1]
+LoseText = Hahah! Not bad, really not bad!
+Pokemon = PROBOPASS,49
+Pokemon = KILOWATTREL,50
+Pokemon = HAWLUCHA,50
+Pokemon = LYCANROC,52
+Pokemon = STEELIX,53
+
+[SAMY,Samy,2]
+LoseText = Hahah! Not bad, really not bad!
+Pokemon = PROBOPASS,69
+Pokemon = KILOWATTREL,70
+Pokemon = STEELIX,70
+Pokemon = EXEGGUTOR,71
+	Form = 1
+Pokemon = LYCANROC,72
+Pokemon = HAWLUCHA,73

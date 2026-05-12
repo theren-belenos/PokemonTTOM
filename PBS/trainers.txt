@@ -663,6 +663,13 @@ Pokemon = GOLDEEN,25
 Pokemon = FINNEON,26	
 Pokemon = PELIPPER,26	
 
+#----- South ------
+[RICHBOY,Leandre]
+LoseText = You're so violent!
+Pokemon = FALINKS,28
+Pokemon = VIGOROTH,28	
+Pokemon = HERACROSS,29	
+
 #-------------------------------------------------------------
 #
 #		Route 12 trainers
@@ -842,6 +849,14 @@ Pokemon = NOCTOWL,25
 Pokemon = DODUO,26
 
 # NB : Leader is defined in trainers_story file
+
+#-------------------------------------------------------------
+#
+#		Route 11 - South
+#
+#-------------------------------------------------------------
+
+
 
 #-------------------------------------------------------------
 #

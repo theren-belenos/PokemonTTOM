@@ -665,9 +665,9 @@ La spécialité de la ville de Vermilava. Soigne toutes les altérations de stat
 Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.
 Une spécialité du Vieux Château. Soigne toutes les altérations de statut d'un Pokémon.
 Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
-Une spécialité de Volucité. Soigne toutes les altérations de statut d'un Pokémon.
+Une spécialité de Volucité. Soigne toutes les altérations de statut d'un Pokémon. Tout le monde ADORE ce cadeau!
 A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
-Une spécialité d'Illumis. Soigne toutes les altérations de statut d'un Pokémon.
+Une spécialité d'Illumis. Soigne toutes les altérations de statut d'un Pokémon. Tout le monde ADORE ce cadeau!
 Shalour City's famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
 La spécialité de Yantreizh. Elle soigne tous les problèmes de statut d'un Pokémon.
 The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon.
@@ -679,7 +679,7 @@ Un médicament qui ranime un Pokémon K.O. et restaure tous ses PV.
 A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
 Une boisson 100 % pur Jus de Baie. Restaure 20 PV d'un Pokémon.
 Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
-Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon.
+Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. Tout le monde ADORE ce cadeau!
 Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.
 Une eau riche en minéraux. Restaure 30 PV d'un Pokémon.
 A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.

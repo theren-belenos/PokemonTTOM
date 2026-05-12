@@ -1,34 +1,5 @@
 ﻿# Regardez la documentation sur le wiki pour savoir comment modifier ce fichier.
 #-------------------------------
-[KATHLEENNL,Normal Leader,1]
-Items = POTION,POTION
-LoseText = ...
-Pokemon = TRANQUILL,38
-    Item = NORMALGEM
-    EV = 20,100,0,100,0,0
-Pokemon = CYCLIZAR,39
-    EV = 20,100,0,100,0,0
-Pokemon = URSARING,39
-    EV = 20,100,100,0,0,0
-Pokemon = DITTO,41
-    AbilityIndex = 2
-    Item = SITRUSBERRY
-#-------------------------------
-[KATHLEEN,Kathleen,1]
-Items = SUPERPOTION
-LoseText = Wowie! So strong!
-Pokemon = BEAUTIFLY,38
-    EV = 20,0,0,100,100,0
-Pokemon = BEEDRILL,39
-    Item = BUGGEM
-    EV = 20,100,0,0,0,100
-Pokemon = DURANT,39
-    Item = METALCOAT
-    EV = 20,100,0,100,0,0
-Pokemon = VESPIQUEN,41
-    Item = SITRUSBERRY
-    EV = 20,0,100,0,0,100
-#-------------------------------
 [RIVAL1,Rival_Battle1_Normal]
 LoseText = What? But...
 Pokemon = RIOLU,5
@@ -637,8 +608,170 @@ Pokemon = GIGALITH,27
 	Item = ROCKGEM
     EV = 10,60,0,60,0,0
 	Moves = HEADBUTT,IRONDEFENSE,ROCKSMASH,ROCKBLAST
-	
-#-------------------------------
-[KYANA,Kyana_Battle1_Fairy]
-LoseText = Oww, my poor Pokémon!
-Pokemon = DEDENNE,7
+
+#-------------------------------------------------------------
+#
+#		Camosack Tournament
+#
+#-------------------------------------------------------------	
+# Round 1 : little girl and her Skitty (lvl 25-30)
+[PRESCHOOLERGIRL,Mina]
+Pokemon = MAGBY,26
+Pokemon = JUMPLUFF,27
+Pokemon = SKITTY,29
+
+# Round 2 : Jeremy (lvl 30-35)
+[POKEMANIAC,Jeremy]
+Pokemon = VAROOM,32
+Pokemon = BELLIBOLT,32
+Pokemon = LURANTIS,33
+
+# Round 3 : Rival (lvl 35-40)
+[RIVAL1,Rival_Camosack_Normal]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = LUCARIO,38
+
+[RIVAL1,Rival_Camosack_Grass]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = NIDOQUEEN,38
+
+[RIVAL1,Rival_Camosack_Fire]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = GABITE,38
+
+[RIVAL1,Rival_Camosack_Water]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = RAICHU,38
+
+[RIVAL1,Rival_Camosack_Electric]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = GABITE,38
+
+[RIVAL1,Rival_Camosack_Fighting]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = GALLADE,38
+
+[RIVAL1,Rival_Camosack_Poison]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = GABITE,38
+
+[RIVAL1,Rival_Camosack_Ground]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = SEALEO,38
+
+[RIVAL1,Rival_Camosack_Flying]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = RAICHU,38
+
+[RIVAL1,Rival_Camosack_Psychic]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = ZOROARK,38
+
+[RIVAL1,Rival_Camosack_Bug]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = CORVIKNIGHT,38
+
+[RIVAL1,Rival_Camosack_Rock]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = LUCARIO,38
+
+[RIVAL1,Rival_Camosack_Ghost]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = ZOROARK,38
+
+[RIVAL1,Rival_Camosack_Ice]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = LUCARIO,38
+
+[RIVAL1,Rival_Camosack_Dragon]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = TINKATON,38
+
+[RIVAL1,Rival_Camosack_Dark]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = LUCARIO,38
+
+[RIVAL1,Rival_Camosack_Steel]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = LUCARIO,38
+
+[RIVAL1,Rival_Camosack_Fairy]
+Pokemon = BRELOOM,36
+Pokemon = ARCANINE,37
+Pokemon = CRAWDAUNT,37
+Pokemon = NIDOQUEEN,38
+
+# Round 1 : Kiana (lvl 45-48)
+[KIANABEFORE,Kiana]
+Pokemon = PERSIAN,43
+	Form = 1
+Pokemon = TROPIUS,44
+Pokemon = SLOWKING,45
+Pokemon = MAROWAK_1,47
+	Form = 1
+	Item = THICKCLUB
+
+# Round duo 1 : thugs (lvl 32-35)
+[PUNKTRAINERMALE,Butch]
+LoseText = I... I can't even...
+Pokemon = SEVIPER,34
+Pokemon = MABOSSTIFF,35
+
+[PUNKTRAINERFEMALE,Carmine]
+LoseText = Not again!
+Pokemon = ARBOK,34
+Pokemon = HERACROSS,35	
+
+
+# Round duo 2 : sbires (lvl 35-40)
+[TEAMGRUNTFEMALE,Ana,1]
+LoseText = Heh, not bad !
+Pokemon = WEEZING,36
+Pokemon = MACHOKE,37
+Pokemon = SEISMITOAD,39
+
+[TEAMGRUNTMALE,Bob,1]
+LoseText = These kiddos are strong !
+Pokemon = LIEPARD,36
+Pokemon = DRIFBLIM,37
+Pokemon = MAGCARGO,39
+
+# Melly's team
+[MELLY,Melly]
+Pokemon = KLEFKI,34
+Pokemon = SWOOBAT,35
+Pokemon = TREVENANT,36

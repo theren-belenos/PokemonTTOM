@@ -53,7 +53,7 @@ GameData::SocialLinkProfile.register({
     :image		    => "Maple",
     :init_location  => _INTL("Pokémon Lab"),
     :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain another random starter"),
-    :favorite_pokemon => :EXEGGUTOR,
+    :favorite_pokemon => :TOGEKISS,
 	:static_status_pool => ["Rewards :<br>  For each ♥ level, gain another random starter"]
 
 })
@@ -76,6 +76,17 @@ GameData::SocialLinkProfile.register({
 	:init_location  => _INTL("Your Town's PokéCenter"),
 	:favorite_pokemon => :BLISSEY,
     :init_status    => _INTL("Rewards :<br>  One more Life Vial utilisation with each ♥ level"),
+	
+
+})
+
+GameData::SocialLinkProfile.register({
+    :id             => :MADAMES,
+    :name		    => "Madame S",
+    :image		    => "MadameS",
+	:init_location  => "Camosack",
+	:favorite_pokemon => :GRIMMSNARL,
+    :init_status    => _INTL("Rewards :<br>  Pokémon happiness and egg hatching speed up with each ♥ level"),
 	
 
 })
@@ -471,6 +482,15 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
+    :id             => :KIANA,
+    :name		    => "Kiana",
+    :image		    => "Kiana",
+    :init_location  => _INTL("???"),
+    :init_status    => _INTL("Rewards: ??? "),
+    :favorite_pokemon => [:MAROWAK,0,1,false]
+})
+
+GameData::SocialLinkProfile.register({
     :id             => :NLBug,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",
@@ -516,7 +536,7 @@ GameData::SocialLinkProfile.register({
     :image		    => "CASSIAN",
     :init_location  => "Greymoose",
     :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random rock starter  "),
-    :favorite_pokemon => :RAMPARDOS
+    :favorite_pokemon => :GIGALITH
     
 })
 

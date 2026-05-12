@@ -2762,21 +2762,21 @@ Description = Old Chateau's hidden specialty. It heals all the status problems o
 Name = Casteliacone
 NamePlural = Casteliacones
 Pocket = 2
-Price = 350
+Price = 10000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
+Description = Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon. Everyone LOVES this gift!
 #-------------------------------
 [LUMIOSEGALETTE]
 Name = Lumiose Galette
 NamePlural = Lumiose Galettes
 Pocket = 2
-Price = 174
+Price = 10000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
+Description = A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon. Everyone LOVES this gift!
 #-------------------------------
 [SHALOURSABLE]
 Name = Shalour Sable
@@ -2836,11 +2836,11 @@ Description = A 100% pure juice made of Berries. It restores the HP of one Poké
 Name = Sweet Heart
 NamePlural = Sweet Hearts
 Pocket = 2
-Price = 3000
+Price = 10000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
+Description = Very sweet chocolate. It restores the HP of one Pokémon by only 20 points. Everyone LOVES this gift!
 #-------------------------------
 [FRESHWATER]
 Name = Fresh Water

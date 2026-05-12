@@ -174,8 +174,6 @@ class PokemonRegionMap_Scene
 				flag = true if not $town.finished?(pre[i])
 			end
 			
-			# Autres conditions
-			flag = true if index == 19 && pbGet(227) < 2
 			
 			if flag 
 				messageMap(_INTL("Prerequisites not satisfied."))

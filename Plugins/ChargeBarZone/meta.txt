@@ -1,0 +1,5 @@
+Name       = Charge Bar Zone Minigame      
+Version    = 1.0                   
+Essentials = 21.1       
+Link       = https://eeveeexpo.com
+Credits    = Jazz Gimo

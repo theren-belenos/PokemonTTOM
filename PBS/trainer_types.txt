@@ -28,10 +28,17 @@ BaseMoney = 48
 IntroBGM = encounter_rival
 BattleBGM = battle_rival
 #-------------------------------
-[KYANA]
+[KIANABEFORE]
+Name = Pokémon trainer
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
+#-------------------------------
+[KIANA]
 Name = Gym trainer
 Gender = Female
-BaseMoney = 32
+BaseMoney = 64
 IntroBGM = encounter_rival
 BattleBGM = battle_rival
 #-------------------------------
@@ -820,13 +827,15 @@ Name = Rival
 Gender = Male
 BaseMoney = 32
 SkillLevel = 0
-IntroBGM = encounter_youngster
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
 #-------------------------------
 [RIVAL2]
 Name = Rival
 Gender = Male
 BaseMoney = 48
-IntroBGM = encounter_youngster
+IntroBGM = encounter_rival
+BattleBGM = battle_rival
 
 
 

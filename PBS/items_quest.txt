@@ -1,4 +1,66 @@
 #-------------------------------
+[VIRTUALTRAINER]
+Name = Virtual Trainer
+NamePlural = Virtual trainers
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A brand new device that allows to fine tune Pokémon's EVs
+#-------------------------------
+[VT_HEALTHMODULE]
+Name = VT Health Module
+NamePlural = VT Health Modules
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A module for the Virtual Trainer - Allows for HP tuning
+#-------------------------------
+[VT_ATTACKMODULE]
+Name = VT Attack Module
+NamePlural = VT Attack Modules
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A module for the Virtual Trainer - Allows for Attack tuning
+#-------------------------------
+[VT_DEFENSEMODULE]
+Name = VT Defense Module
+NamePlural = VT Defense Modules
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A module for the Virtual Trainer - Allows for Defense tuning
+#-------------------------------
+[VT_ATKSPEMODULE]
+Name = VT AtkSpe Module
+NamePlural = VT AtkSpe Modules
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A module for the Virtual Trainer - Allows for AtkSpe tuning
+#-------------------------------
+[VT_DEFSPEMODULE]
+Name = VT DefSpe Module
+NamePlural = VT DefSpe Modules
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A module for the Virtual Trainer - Allows for DefSpe tuning
+#-------------------------------
+[VT_SPEEDMODULE]
+Name = VT Speed Module
+NamePlural = VT Speed Modules
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A module for the Virtual Trainer - Allows for Speed tuning
+
+
+
+
+
+
+#-------------------------------
 [JONSGLASSES]
 Name = Jon's glasses
 NamePlural = Jon's glasses

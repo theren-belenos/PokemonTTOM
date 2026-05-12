@@ -92,10 +92,6 @@ MapPosition = 0,22,15
 Name = Radio Tower
 MapPosition = 0,22,15
 #-------------------------------
-[087]   # Safari reception
-Name = Safari reception
-MapPosition = 0,22,15
-#-------------------------------
 [088]   # Dock hangar
 Name = Dock hangar
 MapPosition = 0,22,15
@@ -110,6 +106,70 @@ MapPosition = 0,22,15
 TrainerBattleBGM = battle_rival
 TrainerVictoryBGM = battle_victory_trainer
 
+#-------------------------------
+[087]   # Safari reception
+Name = Safari reception
+MapPosition = 0,22,15
+#-------------------------------
+[426]   # Safari Zone A1
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+SafariMap = true
+MapPosition = 0,22,16
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[427]   # Safari Zone A2
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+SafariMap = true
+MapPosition = 0,23,16
+BattleBack = beach
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[428]   # Safari Zone B1
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+SafariMap = true
+MapPosition = 0,22,17
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[429]   # Safari Zone B2
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+SafariMap = true
+MapPosition = 0,23,17
+BattleBack = beach
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[430]   # Safari Zone C1
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+SafariMap = true
+MapPosition = 0,22,18
+BattleBack = field
+MapSize = 1,1
+Environment = Grass
+#-------------------------------
+[431]   # Safari Zone C2
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+SafariMap = true
+MapPosition = 0,23,18
+BattleBack = beach
+MapSize = 1,1
+Environment = Grass
 
 #-------------------------------
 [002]   # Route 1 - south
@@ -2445,7 +2505,27 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,11,25
+BattleBack = beach
 MapSize = 1,1
+#-------------------------------
+[422]   # Camosack PC
+Name = Camosack PC
+MapPosition = 0,11,25
+#-------------------------------
+[423]   # Camosack Gift Shop
+Name = Camosack Gift Shop
+MapPosition = 0,11,25
+#-------------------------------
+[424]   # Camosack Villa
+Name = Camosack Villa
+MapPosition = 0,11,25
+#-------------------------------
+[425]   # Camosack Grand Hotel
+Name = Camosack Grand Hotel
+MapPosition = 0,11,25
+
+
+
 #-------------------------------
 [246]   # Town 5 - Grass Gym
 Name = Titaga

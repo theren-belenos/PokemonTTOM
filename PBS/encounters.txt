@@ -1,5 +1,41 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[426] # Safari Zone A1
+Land,15
+    1,CHINGLING,5,20
+	1,MAGBY,5,20
+	1,WOOLOO,5,20
+	1,PARAS,5,20
+	1,DROWZEE,5,20
+	1,SHUCKLE,5,20
+	1,BONSLY,5,20
+	1,SPINARAK,5,20
+	1,EXEGGCUTE,5,20
+	1,HERACROSS,5,20
+#-------------------------------
+[427] # Safari Zone A2
+Land,15
+    1,MANTYKE,5,20
+	1,CARVANHA,5,20
+	1,FLAMIGO,5,20
+	1,ALOMOMOLA,5,20
+	1,PHANPY,5,20
+	1,TYMPOLE,5,20
+OldRod
+	1,TENTACOOL,10,20
+GoodRod
+	60,CLAMPERL,15,20
+	40,VELUZA,15,20
+SuperRod
+	70,LUVDISC,30,35
+	30,CLAUNCHER,30,35
+Water,3
+    60,TENTACRUEL,45,50
+    25,CLAMPERL,45,50
+    15,VELUZA,45,50
+
+
+#-------------------------------
 [002] # Route1 - south
 Land,15
     20,RATTATA,2,4
@@ -669,17 +705,17 @@ SuperRod
 #-------------------------------
 [045]   # Route 11 - south
 Land,15
-    20,RATTATA,3,5
-	20,BIDOOF,3,5
-	20,ODDISH,3,5
-	20,PURRLOIN,3,5
-	10,VULPIX,3,5
-	10,FLITTLE,3,5
+    15,VOLBEAT,23,26
+	20,WOOLOO,23,26
+	15,ILLUMISE,23,26
+	10,TADBULB,23,26
+	20,WEEPINBELL,23,26
+	20,CORSOLA,23,26
 OldRod
-	100,STARYU,20,25
+	100,STARYU,23,26
 GoodRod
-	40,GOLDEEN,20,25
-	60,FEEBAS,20,25
+	40,GOLDEEN,23,26
+	60,FEEBAS,23,26
 SuperRod
 	70,LUVDISC,30,35
 	30,PALOSSAND,30,35

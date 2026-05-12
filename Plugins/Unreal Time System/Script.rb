@@ -94,6 +94,7 @@ module UnrealTime
   # Choose switch number that when true the time won't pass (or -1 to cancel). 
   # Only works if TIME_STOPS=true.
   SWITCH_STOPS = 63
+  SWITCH_STOPS_2 = 167
 
   # Choose variable(s) number(s) that can hold time passage (or -1 to cancel).
   # Look at description for more details.
@@ -267,6 +268,7 @@ if UnrealTime::ENABLED
     
     def addNewFrameCount
       return if UnrealTime::SWITCH_STOPS>0 && $game_switches[UnrealTime::SWITCH_STOPS]
+	  return if UnrealTime::SWITCH_STOPS_2>0 && $game_switches[UnrealTime::SWITCH_STOPS_2]
       self.newSecondCount+=UnrealTime::Bridge.delta
     end
     

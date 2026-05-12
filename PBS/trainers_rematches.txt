@@ -1,21 +1,29 @@
 ﻿# Regardez la documentation sur le wiki pour savoir comment modifier ce fichier.
+
+
+
+#################################
+#
+# 	Normal Leader
+#
+#################################
 #-------------------------------
-[CASSIANNL,Normal Leader,1]
+[KATHLEENNL,Normal Leader,1]
 Items = SUPERPOTION
 LoseText = ...
-Pokemon = UNFEZANT,43
+Pokemon = UNFEZANT,38
     Item = NORMALGEM
     EV = 20,100,0,100,0,0
-Pokemon = CYCLIZAR,44
+Pokemon = CYCLIZAR,39
     EV = 20,100,0,100,0,0
-Pokemon = KANGASKHAN,44
+Pokemon = KANGASKHAN,39
     EV = 20,100,100,0,0,0
-Pokemon = DITTO,46
+Pokemon = DITTO,41
     AbilityIndex = 2
     Item = SITRUSBERRY
 #-------------------------------
 [KATHLEENNL,Normal Leader,2]
-Items = HYPERPOTION
+Items = MEGARING, HYPERPOTION
 LoseText = ...
 Pokemon = UNFEZANT,58
     Item = NORMALGEM
@@ -31,8 +39,22 @@ Pokemon = DITTO,62
     AbilityIndex = 2
     Item = SITRUSBERRY
 #-------------------------------
+[CASSIANNL,Normal Leader,1]
+Items = SUPERPOTION
+LoseText = ...
+Pokemon = UNFEZANT,43
+    Item = NORMALGEM
+    EV = 20,100,0,100,0,0
+Pokemon = CYCLIZAR,44
+    EV = 20,100,0,100,0,0
+Pokemon = KANGASKHAN,44
+    EV = 20,100,100,0,0,0
+Pokemon = DITTO,46
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+#-------------------------------
 [CASSIANNL,Normal Leader,2]
-Items = HYPERPOTION
+Items = MEGARING, HYPERPOTION
 LoseText = ...
 Pokemon = UNFEZANT,63
     Item = NORMALGEM
@@ -47,9 +69,31 @@ Pokemon = PORYGONZ,65
 Pokemon = DITTO,67
     AbilityIndex = 2
     Item = SITRUSBERRY
+	
+	
+#################################
+#
+# 	Gym Leaders
+#
+#################################	
+#-------------------------------
+[KATHLEEN,Kathleen,1]
+Items = SUPERPOTION
+LoseText = Wowie! So strong!
+Pokemon = BEAUTIFLY,38
+    EV = 20,0,0,100,100,0
+Pokemon = BEEDRILL,39
+    Item = BUGGEM
+    EV = 20,100,0,0,0,100
+Pokemon = DURANT,39
+    Item = METALCOAT
+    EV = 20,100,0,100,0,0
+Pokemon = VESPIQUEN,41
+    Item = SITRUSBERRY
+    EV = 20,0,100,0,0,100
 #-------------------------------
 [KATHLEEN,Kathleen,2]
-Items = HYPERPOTION
+Items = MEGARING, HYPERPOTION
 LoseText = Wowie! So strong!
 Pokemon = BEAUTIFLY,58
     EV = 40,0,0,200,200,0
@@ -65,3 +109,42 @@ Pokemon = VOLCARONA,60
 Pokemon = VESPIQUEN,62
     Item = SITRUSBERRY
     EV = 40,0,200,0,0,200
+	
+	
+#-------------------------------
+[CASSIAN,Cassian, 1]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = You rock!
+Pokemon = MINIOR,45
+    Item = SITRUSBERRY
+    EV = 10,0,0,60,60,0
+	IV = 10,10,10,15,10,10
+	Moves = STEALTHROCK,ANCIENTPOWER,SELFDESTRUCT,HIDDENPOWER
+Pokemon = CRADILY,45
+	Item = BIGROOT
+	AbilityIndex = 2
+    EV = 10,0,60,0,0,60
+	Moves = INGRAIN,MEGADRAIN,CONFUSERAY,ANCIENTPOWER
+Pokemon = GIGALITH,47
+	Item = ROCKGEM
+    EV = 10,60,0,60,0,0
+	Moves = HEADBUTT,IRONDEFENSE,ROCKSMASH,ROCKBLAST
+#-------------------------------
+[CASSIAN,Cassian, 2]
+Items = MEGARING, HYPERPOTION
+LoseText = You rock!
+Pokemon = MINIOR,65
+    Item = SITRUSBERRY
+    EV = 10,0,0,60,60,0
+	IV = 10,10,10,15,10,10
+	Moves = STEALTHROCK,ANCIENTPOWER,SELFDESTRUCT,HIDDENPOWER
+Pokemon = LILEEP,65
+	Item = BIGROOT
+	AbilityIndex = 2
+    EV = 10,0,60,0,0,60
+	Moves = INGRAIN,MEGADRAIN,CONFUSERAY,ANCIENTPOWER
+Pokemon = GIGALITH,67
+	Item = ROCKGEM
+    EV = 10,60,0,60,0,0
+	Moves = HEADBUTT,IRONDEFENSE,ROCKSMASH,ROCKBLAST
+	

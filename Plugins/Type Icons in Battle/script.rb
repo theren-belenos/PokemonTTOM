@@ -77,7 +77,8 @@ class Battle::Scene::PokemonDataBox
     @types_sprite.bitmap.clear
     width  = @types_bitmap.width
     height = @types_bitmap.height / GameData::Type.count
-    types  = @battler.pbTypes.clone
+    types  = @battler.pbTypes.clone 
+	return if types == :QMARKS
     if @battler.effects[PBEffects::Illusion]
       illusion_types = @battler.effects[PBEffects::Illusion].types
       base_types = @battler.pokemon.types

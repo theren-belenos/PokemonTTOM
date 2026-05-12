@@ -133,7 +133,7 @@
   #-----------------------------------------------------------------------------
   # The distance (in pixels) to visually push the follower away from the player
   # to prevent overlap.
-  FOLLOWER_DISTANCE_OFFSET = 8
+  FOLLOWER_DISTANCE_OFFSET = 2
 
   # Specific distance offsets for certain Pokemon (e.g. large sprites).
   # Use this to override the default offset above.

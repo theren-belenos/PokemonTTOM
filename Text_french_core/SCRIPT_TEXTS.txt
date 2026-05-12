@@ -2233,7 +2233,7 @@ Graphics/UI/Battle/databox_safari
 Safari Balls
 Safari Balls
 Left: {1}
-Gauche : {1}
+Restantes : {1}
 What will<<n>>{1} throw?
 What will<<n>>{1} throw?
 Ball
