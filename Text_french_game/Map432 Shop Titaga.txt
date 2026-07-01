@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map432]
+There is only trash in there.
+There is only trash in there.
+<b>Lady:</b> Welp, my Pokémon really don’t like this. Wanna have it?
+<b>Lady:</b> Welp, my Pokémon really don’t like this.  Wanna have it?
+<b>Lady:</b> Do your Pokémon like this?
+<b>Lady:</b> Do your Pokémon like this?
+<b>Tourist:</b> How strange! Their shop is pretty much the same as the others, but not really…
+<b>Tourist:</b> How strange! Their shop is pretty much the same as the others, but not really…

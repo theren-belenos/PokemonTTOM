@@ -50,6 +50,12 @@
 <b>Ember:</b> Pff bon okay prends ça. Pas drôle.
 <b>Ember:</b> Humpf *pouts*
 <b>Ember:</b> Pfff *boude*
+You talk to the dancer about Camosack.
+You talk to the dancer about Camosack.
+<b>Ember:</b> Perform at Camosack? Do you think they're worthy of myself??
+<b>Ember:</b> Perform at Camosack? Do you think they're worthy of myself??
+<b>Ember:</b> Okay, I trust you. See you there, then.
+<b>Ember:</b> Okay, I trust you. See you there, then.
 <b>Raiden:</b> You're in front of Raiden. GOD OF THUNDER!!!!!!
 <b>Raiden:</b> Tu es devant Raiden, DIEU DU TONNERRE !!!!!!
 <b>Raiden:</b> ...
@@ -70,3 +76,9 @@
 <b>Raiden:</b> Quoi ? Ah oui, ta récompense.
 <b>Raiden:</b> The Godslayer...
 <b>Raiden:</b> Le Déicide...
+You talk to the juggler about Camosack.
+You talk to the juggler about Camosack.
+<b>Raiden:</b> Perform at Camosack? Do they need the God of Thunder himself??
+<b>Raiden:</b> Perform at Camosack? Do they need the God of Thunder himself??
+<b>Raiden:</b> I might be bored of this place yet... Okay, see you there!
+<b>Raiden:</b> I might be bored of this place yet...  Okay, see you there!

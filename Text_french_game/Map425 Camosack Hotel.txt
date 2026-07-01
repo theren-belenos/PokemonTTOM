@@ -1,0 +1,74 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map425]
+The door is locked.
+The door is locked.
+<b>Receptionist:</b> Hello and welcome to Camosack’s Grand Hotel!
+<b>Receptionist:</b> Hello and welcome to Camosack’s Grand Hotel!
+<b>Receptionist:</b> Sorry, we don’t accept new clients right now. The whole season is booked out!
+<b>Receptionist:</b> Sorry, we don’t accept new clients right now. The whole season is booked out!
+<b>Thug A:</b> Heh. Madame S really knows how to reward a job well done.
+<b>Thug A:</b> Heh. Madame S really knows how to reward a job well done.
+<b>Thug B:</b> Damn right bro. This is paradise!
+<b>Thug B:</b> Damn right bro. This is paradise!
+<b>Thug A:</b> Oh, a kid. How are you buddy?
+<b>Thug A:</b> Oh, a kid. How are you buddy?
+<b>Thug B:</b> I’m in a really good mood! Take this, kiddo!
+<b>Thug B:</b> I’m in a really good mood! Take this, kiddo!
+<b>Thug A:</b> Stay cool!
+<b>Thug A:</b> Stay cool!
+<b>Groom:</b> May I help you with your luggage?
+<b>Groom:</b> May I help you with your luggage?
+There is only trash in there.
+There is only trash in there.
+<b>Rich Lady:</b> May I ask you not to talk with my boy?
+<b>Rich Lady:</b> May I ask you not to talk with my boy?
+<b>Rich Lady:</b> I’m afraid you would have a bad influence on him.
+<b>Rich Lady:</b> I’m afraid you would have a bad influence on him.
+<b>Thug B:</b> Stay cool!
+<b>Thug B:</b> Stay cool!
+<b>Rich Boy:</b> Hmpf, finally a decent place in this joke of a country…
+<b>Rich Boy:</b> Hmpf, finally a decent place in this joke of a country…
+<b>Tourist:</b> A bit expensive, but that'll do!
+<b>Tourist:</b> A bit expensive, but that'll do!
+<b>Rich Man:</b> We’re raising our boy to be on another level than you, you know?
+<b>Rich Man:</b> We’re raising our boy to be on another level than you, you know?
+<b>Rich Man:</b> Don’t take it too personally ; we’re not from the same world…
+<b>Rich Man:</b> Don’t take it too personally ; we’re not from the same world…
+<b>Rich Lady:</b> I came here with my wonderful son! He is the smartest and kindest boy ever!
+<b>Rich Lady:</b> I came here with my wonderful son! He is the smartest and kindest boy ever!
+<b>???:</b> WHAT do you want?? Huh??
+<b>???:</b> WHAT do you want?? Huh??
+<b>Makar:</b> Me, ME?? I’m MAKAR, yea buddy, from ELITE 4!
+<b>Makar:</b> Me, ME?? I’m MAKAR, yea buddy, from ELITE 4!
+<b>Makar:</b> So don’t get cocky, right??
+<b>Makar:</b> So don’t get cocky, right??
+<b>Makar:</b> What I’m doin’ here? What are you, a policeman?? HUH??
+<b>Makar:</b> What I’m doin’ here? What are you, a policeman?? HUH??
+<b>Makar:</b> Only Aristarque gets to give me orders, UNDERSTOOD??
+<b>Makar:</b> Only Aristarque gets to give me orders, UNDERSTOOD??
+<b>Makar:</b> Now GET OUT of here before I get angry, little kid!
+<b>Makar:</b> Now GET OUT of here before I get angry, little kid!
+<b>Rich Boy:</b> Sorry, I know my parents can be quite infuriating… I didn’t ask for it…
+<b>Rich Boy:</b> Sorry, I know my parents can be quite infuriating… I didn’t ask for it…
+<b>Obstagoon:</b> Obstagooooon!
+<b>Obstagoon:</b> Obstagooooon!
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Receptionist:</b> Sorry I can't bring you to all floors. Clients can refuse to be disturbed.
+<b>Receptionist:</b> Sorry I can't bring you to all floors. Clients can refuse to be disturbed.
+<b>Receptionist:</b> You're already on this floor!
+<b>Receptionist:</b> You're already on this floor!
+<b>Receptionist:</b> Understood! Let us go!
+<b>Receptionist:</b> Understood! Let us go!
+<b>Receptionist:</b> Have a good day!
+<b>Receptionist:</b> Have a good day!
+Floor 1
+Floor 1
+Floor 3
+Floor 3
+Floor 4
+Floor 4
+Floor 8
+Floor 8

@@ -16,8 +16,8 @@ Cette Ball contient un Pokémon attrapé par le Professeur.
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Dynavolt, le Pokémon Orage ? \f[ELECTRIKE]
 <b>\c[10]Maple:</b>\c[0] Do you want Budew, the Bud Pokémon?\f[BUDEW]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Rozbouton, le Pokémon Bourgeon ?\f[BUDEW]
-<b>\c[10]Maple:</b>\c[0] Do you want Swablu, the Cotton Bird Pokémon?\f[SWABLU]
-<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Tylton, le Pokémon Oiseaucoton ?\f[SWABLU]
+<b>\c[10]Maple:</b>\c[0] Do you want Starly, the Starling Pokémon?\f[STARLY]
+<b>\c[10]Maple:</b>\c[0] Do you want Starly, the Starling Pokémon?\f[STARLY]
 <b>\c[10]Maple:</b>\c[0] Do you want Beldum, the Iron Ball Pokémon?\f[BELDUM]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Terhal, le Pokémon Boulefer ?\f[BELDUM]
 <b>\c[10]Maple:</b>\c[0] Do you want Grubbin, the Larva Pokémon? \f[GRUBBIN]
@@ -388,8 +388,8 @@ Voulez-vous lire les explications du système de quêtes ?
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Grenousse, le Pokémon Crapobulle ? \f[FROAKIE]
 <b>\c[10]Maple:</b>\c[0] Do you want Mareep, the Wool Pokémon? \f[MAREEP]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Wattouat, le Pokémon Laine? \f[MAREEP]
-<b>\c[10]Maple:</b>\c[0] Do you want Nidoran (male), the Poison Pin Pokémon?\f[NIDORANmA]
-<b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Nidoran&m;, le Pokémon Vénépic ?\f[NIDORANmA]
+<b>\c[10]Maple:</b>\c[0] Do you want Nidoran &m;, the Poison Pin Pokémon?\f[NIDORANmA]
+<b>\c[10]Maple:</b>\c[0] Do you want Nidoran &m;, the Poison Pin Pokémon?\f[NIDORANmA]
 <b>\c[10]Maple:</b>\c[0] Do you want Fletchling, the Tiny Robin Pokémon?\f[FLETCHLING]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Passerouge, le Pokémon Rougegorge ?\f[FLETCHLING]
 <b>\c[10]Maple:</b>\c[0] Do you want Snom, the Worm Pokémon?\f[SNOM]
@@ -592,3 +592,5 @@ Time System
 Cycle de temps
 Nekanta Map
 Carte de Nekanta
+TestTownScreen
+TestTownScreen

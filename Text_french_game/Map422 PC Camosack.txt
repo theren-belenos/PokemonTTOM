@@ -1,0 +1,100 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map422]
+There is only trash in there.
+There is only trash in there.
+<b>Rich Boy:</b> Hmpf. Why are you talking to me?
+<b>Rich Boy:</b> Hmpf. Why are you talking to me?
+<b>Swablu:</b> Aaablu!
+<b>Swablu:</b> Aaablu!
+<b>Ribombee:</b> Ribombeeeee!
+<b>Ribombee:</b> Ribombeeeee!
+<b>Lady:</b> It’s always sunny here at Camosack! If you like the sun, take this!
+<b>Lady:</b> It’s always sunny here at Camosack! If you like the sun, take this!
+<b>Lady:</b> Do you like the sun?
+<b>Lady:</b> Do you like the sun?
+<b>Scientist:</b> Hello, can you help me out?
+<b>Scientist:</b> Hello, can you help me out?
+<b>Scientist:</b> The harsh sun here made me wonder something.
+<b>Scientist:</b> The harsh sun here made me wonder something.
+<b>Scientist:</b> Bats don’t like the sun but Bats Pokémon ?
+<b>Scientist:</b> Bats don’t like the sun but Bats Pokémon ?
+<b>Scientist:</b> I mean, it doesn’t seem to bother them THIS much. It’s kinda strange, no?
+<b>Scientist:</b> I mean, it doesn’t seem to bother them THIS much. It’s kinda strange, no?
+<b>Scientist:</b> Can you bring me a Bat Pokémon? Just for a few hours so I can run a few tests.
+<b>Scientist:</b> Can you bring me a Bat Pokémon?  Just for a few hours so I can run a few tests.
+<b>Scientist:</b> It can be from families of Zubat, Woobat, Noibat or Gligar.
+<b>Scientist:</b> It can be from families of Zubat, Woobat, Noibat or Gligar.
+<b>Scientist:</b> I will give you a nice TM that most of these bats, and most bugs, can learn!
+<b>Scientist:</b> I will give you a nice TM that most of these bats, and most bugs, can learn!
+<b>Scientist:</b> Do you have a bat Pokémon ?
+<b>Scientist:</b> Do you have a bat Pokémon ?
+<b>Scientist:</b> Too bad! Please bring me one!
+<b>Scientist:</b> Too bad! Please bring me one!
+<b>Scientist:</b> Wonderful! Don’t worry, it won’t be long!
+<b>Scientist:</b> Wonderful! Don’t worry, it won’t be long!
+So much time later you almost fell asleep…
+So much time later you almost fell asleep…
+<b>Scientist:</b> Strange… Wild bat Pokémon seem to react differently… How interesting!
+<b>Scientist:</b> Strange… Wild bat Pokémon seem to react differently… How interesting!
+<b>Scientist:</b> Thank you young trainer! As promised, take this!
+<b>Scientist:</b> Thank you young trainer! As promised, take this!
+<b>Scientist:</b> Science must prevail!
+<b>Scientist:</b> Science must prevail!
+<b>Tourist:</b> Even here, the PokéCenter stays the same… It’s kinda reassuring actually.
+<b>Tourist:</b> Even here, the PokéCenter stays the same… It’s kinda reassuring actually.
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
+<b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] Would you like to rest your Pokémon?
+<b>\c[5]Nurse:</b>\c[0] Would you like to rest your Pokémon?
+<b>\c[5]Nurse:</b>\c[0] OK, I'll take your Pokémon for a few seconds.
+<b>\c[5]Nurse:</b>\c[0] OK, I'll take your Pokémon for a few seconds.
+<b>\c[5]Nurse:</b>\c[0] Thank you for waiting.
+<b>\c[5]Nurse:</b>\c[0] Thank you for waiting.
+<b>\c[5]Nurse:</b>\c[0] We've restored your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] We've restored your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] Take care of you sweetie!
+<b>\c[5]Nurse:</b>\c[0] Take care of you sweetie!
+<b>\c[5]Nurse:</b>\c[0] First, you should restore your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] First, you should restore your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] Your Pokémon have been healed to perfect health.
+<b>\c[5]Nurse:</b>\c[0] Your Pokémon have been healed to perfect health.
+<b>\c[5]Nurse:</b>\c[0] Take care sweetie!
+<b>\c[5]Nurse:</b>\c[0] Take care sweetie!
+Relaxation and meeting zone
+Relaxation and meeting zone
+<b>Rotom:</b>Ooootooooom!!
+<b>Rotom:</b>Ooootooooom!!
+<b>Rich Lady:</b> Oh hello dear child. Do you mind finding me one of these cute Ribombee?
+<b>Rich Lady:</b> Oh hello dear child. Do you mind finding me one of these cute Ribombee?
+<b>Rich Lady:</b> I heard there are plenty of them in Titaga, but it’s a bit far from here…
+<b>Rich Lady:</b> I heard there are plenty of them in Titaga, but it’s a bit far from here…
+<b>Rich Lady:</b> This Swablu here is cute but I grew tired of it. I can give it to you in exchange.
+<b>Rich Lady:</b> This Swablu here is cute but I grew tired of it. I can give it to you in exchange.
+<b>Rich Lady:</b> What do you say?
+<b>Rich Lady:</b> What do you say?
+<b>Rich Lady:</b> What a shame! I’m here if you change your mind, my child.
+<b>Rich Lady:</b> What a shame! I’m here if you change your mind, my child.
+<b>Rich Lady:</b> How marvelous! Let us proceed!
+<b>Rich Lady:</b> How marvelous! Let us proceed!
+CottonWings
+CottonWings
+Rich Lady
+Rich Lady
+\pn traded Ribombee for Swablu!
+\pn traded Ribombee for Swablu!
+<b>Rich Lady:</b> CottonWings is a good Pokémon, you do take good care of it, right?
+<b>Rich Lady:</b> CottonWings is a good Pokémon, you do take good care of it, right?
+<b>Rich Lady:</b> See you around!
+<b>Rich Lady:</b> See you around!
+<b>Rich Lady:</b> Do you want to trade a Ribombee for my Swablu?
+<b>Rich Lady:</b> Do you want to trade a Ribombee for my Swablu?
+<b>Rich Lady:</b> Is CottonWings happy with you?
+<b>Rich Lady:</b> Is CottonWings happy with you?
+Yes
+Yes
+No
+No

@@ -128,8 +128,8 @@ Category = Cloudy Nap
 Pokedex = It has such a great control over his cloud it can calmly nap on it while flying faster than a Pidgeotto.
 Generation = 10
 
-[MOLEON]
-Name = Moleon
+[LAGEON]
+Name = Lageon
 Types = GROUND
 BaseStats = 95,130,110,65,60,65
 GenderRatio = FemaleOneEighth

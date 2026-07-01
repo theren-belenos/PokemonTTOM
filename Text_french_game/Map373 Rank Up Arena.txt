@@ -244,6 +244,34 @@ Dev note : Fin du build actuel. Merci d'attendre la prochaine update !
 <b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 2 ! Joli combat également, Leader Normal !
 The Normal Leader doesn't seem to mind you took their spot at the rank 3. They're actually smiling.
 Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 3. Iel est en train de sourire.
+<b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
+<b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
+You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
+You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
+<b>Nikodim:</b> Let's start the show!
+<b>Nikodim:</b> Let's start the show!
+Your Gym is now rank 4!
+Your Gym is now rank 4!
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 4!
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 4!
+<b>Nikodim:</b> Hah! Gotta say, you super coolah!
+<b>Nikodim:</b> Hah! Gotta say, you super coolah!
+<b>Nikodim:</b> Back to rank 3 for me right? Well, to be honest, I might go into retirement soon...
+<b>Nikodim:</b> Back to rank 3 for me right? Well, to be honest, I might go into retirement soon...
+<b>Nikodim:</b> I now it will be a shock to you but I'm starting to get some years on the board! I look younger that I am, I know right?
+<b>Nikodim:</b> I now it will be a shock to you but I'm starting to get some years on the board! I look younger that I am, I know right?
+<b>Nikodim:</b> Anyway, do not hesitate to come spend some quality time in Titaga!
+<b>Nikodim:</b> Anyway, do not hesitate to come spend some quality time in Titaga! 
+<b>Nikodim:</b> See ya, punk friend!
+<b>Nikodim:</b> See ya, punk friend!
+<b>Nikodim:</b> Getting stage fright are ya?
+<b>Nikodim:</b> Getting stage fright are ya?
+<b>Nikodim:</b> Wanna start the show? Then talk to me from the right side of the arena.
+<b>Nikodim:</b> Wanna start the show? Then talk to me from the right side of the arena.
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3!
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3!
+The Normal Leader doesn't seem to mind you took their spot at the rank 4. They're actually smiling.
+The Normal Leader doesn't seem to mind you took their spot at the rank 4. They're actually smiling.
 Yes
 Oui
 No

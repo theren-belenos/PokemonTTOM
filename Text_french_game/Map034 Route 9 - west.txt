@@ -8,6 +8,12 @@
 <b>Mindy:</b> T’es trop fort pour moi !
 <b>Rick:</b> Ooooh yeah! The nature is so cool!
 <b>Rick:</b> Ooooh yeah ! La nature c’est trop cool !
+You talk to the musician about Camosack.
+You talk to the musician about Camosack.
+<b>Rick:</b> Perform at Camosack? Hell yea buddy, I'm down!
+<b>Rick:</b> Perform at Camosack? Hell yea buddy, I'm down!
+<b>Rick:</b> Rock you there!
+<b>Rick:</b> Rock you there!
 <b>Rick:</b> Stay cool, man.
 <b>Rick:</b> Reste cool, mec.
 <b>Wisteria:</b> Do you want to, trainer? Do you want us to explore the mystic arts together?

@@ -24,7 +24,7 @@ class PokemonRegionMap_Scene
   
   def getTownDevIconPositions
     limit = getFameLimit
-	puts @mapInfo
+	#puts @mapInfo
     @mapInfo.each do |key, value|
       selFlySpots = Hash.new { |hash, key| hash[key] = [] }
       value[:positions].each do |pos|
@@ -133,8 +133,13 @@ class PokemonRegionMap_Scene
   def getFlyLocationAndConfirm
     @healspot = pbGetHealingSpot(@mapX, @mapY)
     if @healspot && ($PokemonGlobal.visitedMaps[@healspot[0]] || ($DEBUG && Input.press?(Input::CTRL)))
-      name = pbGetMapNameFromId(@healspot[0])
-      return confirmMessageMap(_INTL("Would you like to use Fly to go to {1}?", name))
+	  if @healspot[0] == 245 && $town.weekday > 0
+		messageMap(_INTL("It's not the weekend. You can't go to Camosack!"))
+		return false
+	  else
+		name = pbGetMapNameFromId(@healspot[0])
+		return confirmMessageMap(_INTL("Would you like to use Fly to go to {1}?", name))
+	  end
     end
   end
   
@@ -156,14 +161,9 @@ class PokemonRegionMap_Scene
 		@sprites["leftArrow"].visible = true
 		@sprites["rightArrow"].visible = true
 		
-		puts "index"
-		puts index
-		puts "state"
-		puts $town.buildings[index]
+		
 		# Construction non achetée
 		if $town.buildings[index] == 0
-		
-			puts "test1"
 		
 			# Vérification prérequis
 			pre = data[3]

@@ -12,10 +12,10 @@ You use the machine to heal your exhausted Pokémons.
 Vous utilisez la machine pour soigner vos Pokémon.
 Be careful!
 Soyez prudents !
-It looks like some complex research papers...
-It looks like some complex research papers...
 It's some important looking folders...
 It's some important looking folders...
+It looks like some complex research papers...
+It looks like some complex research papers...
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie~
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie~
 <b>\c[5]Nurse:</b>\c[0] I'm staying here until the Pokémon Center is repaired.
@@ -24,6 +24,36 @@ It's some important looking folders...
 <b>\c[5]Nurse:</b>\c[0] I can't thank Prof. Maple enough!
 <b>\c[5]Nurse:</b>\c[0] Here, take these to help you while the PokéCenter is closed.
 <b>\c[5]Nurse:</b>\c[0] Here, take these to help you while the PokéCenter is closed.
+You spend time helping Prof Maple in his lab.
+You spend time helping Prof Maple in his lab.
+You learn a lot!
+You learn a lot!
+<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
+<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
+<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
+<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
+<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
+<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
+<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded! Congratulations!
+<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded!  Congratulations!
+<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day! Your debut as a Gym Leader!
+<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day!  Your debut as a Gym Leader!
+<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
+<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
+<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
+<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
+<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
+<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
+<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
+<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
+<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
+<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
+<b>\c[10]Maple:</b>\c[0] Sleep well!
+<b>\c[10]Maple:</b>\c[0] Sleep well!
+<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
+<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
+You already gave a gift to Maple this week!
+Vous avez déjà offert un cadeau à Maple cette semaine !
 Do you want to sleep here? The weekend will be over!
 Voulez-vous dormir ici ? Le week-end sera terminé !
 Do you want to sleep here?
@@ -110,36 +140,6 @@ The day ends...
 <b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
 It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
 It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
-<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
-<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
-<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
-<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
-<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
-<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
-<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded! Congratulations!
-<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded!  Congratulations!
-<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day! Your debut as a Gym Leader!
-<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day!  Your debut as a Gym Leader!
-<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
-<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
-<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
-<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
-<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
-<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
-<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
-<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
-<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
-<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
-<b>\c[10]Maple:</b>\c[0] Sleep well!
-<b>\c[10]Maple:</b>\c[0] Sleep well!
-<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
-<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
-You already gave a gift to Maple this week!
-Vous avez déjà offert un cadeau à Maple cette semaine !
-You spend time helping Prof Maple in his lab.
-You spend time helping Prof Maple in his lab.
-You learn a lot!
-You learn a lot!
 Machine de débug lancée.
 Machine de débug lancée.
 Que voulez-vous faire ?
@@ -150,8 +150,6 @@ Attention : ceci est un utilitaire réinitialisant certaines variables pour évi
 Attention : ceci est un utilitaire réinitialisant certaines variables pour éviter certains crashs.
 A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
 A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
-There is only trash in there.
-Il n'y a que des déchets là-dedans.
 <b>Jon:</b> Hello \v[12]!
 <b>Jon:</b> Bonjour \v[12] !
 <b>Jon:</b> ...
@@ -184,6 +182,10 @@ Vous donnez à Jon ses lunettes.
 <b>Jon:</b> J’attendrai ici !
 <b>Jon:</b> Hello \pn! Keep up the good work!
 <b>Jon:</b> Bonjour \pn ! Continue de bien travailler !
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+This is a big and complex machine. Perhaps you should ask for Maple's help?
+This is a big and complex machine. Perhaps you should ask for Maple's help?
 This machine can revive a Pokémon from its fossil.
 Cette machine peut ressuciter un Pokémon à partir de son fossile.
 Do you want to put a fossil in the machine?
@@ -200,8 +202,6 @@ Terminé !
 <b>Franck:</b> Donc je profite juste du week-end !
 <b>Franck:</b> How are you \pn?
 <b>Franck:</b> Comment vas-tu \pn?
-See a tutorial
-Voir un tutoriel
 <b>Pat:</b> Oh hello! I'm Pat, the new scientist!
 <b>Pat:</b> Oh bonjour ! Je suis Pat, le nouveau scientifique !
 <b>Pat:</b> ...so that's you, our Gym Leader! Greetings! Prof Maple spoke a lot about you.
@@ -254,16 +254,14 @@ Vous avez 5 Tessons Jaunes ! Voulez-vous les donner à Pat ?
 <b>Pat:</b> Non ? Aucun soucis, j’attends ici !
 <b>Pat:</b> Hello \pn, how are you? Is your Pokegear working well?
 <b>Pat:</b> Bonjour \pn, comment vas-tu ? Ton Pokegear marche bien ?
+See a tutorial
+Voir un tutoriel
 But why was it in a trash tho??
 Mais pourquoi c’était dans une poubelle ??
 Yes
 Oui
 No
 Non
-Do not change party
-Ne pas changer d’équipe
-Change party
-Changer d’équipe
 Quest
 Quête
 Give gift
@@ -272,6 +270,10 @@ Spend time
 Passer du temps
 Say goodbye
 Dire au revoir
+Do not change party
+Ne pas changer d’équipe
+Change party
+Changer d’équipe
 Convertir save pré-0.1.5
 Convertir save pré-0.1.5
 Initialiser variables

@@ -90,6 +90,8 @@ Route 18
 Route 18
 Route 19
 Route 19
+Titaga PC
+Titaga PC
 Route 20
 Route 20
 Route 21
@@ -314,3 +316,29 @@ Dark Tunnel
 Tunnel Sombre
 Rock Gym
 Arène Roche
+Camosack PC
+Camosack PC
+Camosack Gift Shop
+Camosack Gift Shop
+Camosack Villa
+Camosack Villa
+Camosack Grand Hotel
+Camosack Grand Hotel
+Safari Zone
+Safari Zone
+Titaga Shop
+Titaga Shop
+Flowery Shop
+Flowery Shop
+Titaga House A
+Titaga House A
+Titaga House B
+Titaga House B
+Titaga House C
+Titaga House C
+Grass Gym
+Grass Gym
+Route 13 - Underground
+Route 13 - Underground
+Soul Shelter
+Soul Shelter

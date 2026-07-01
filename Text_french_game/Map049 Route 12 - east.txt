@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map049]
+<b>Jaxon:</b> It's far too hot here during the day!
+<b>Jaxon:</b> It's far too hot here during the day!
+<b>Jaxon:</b> You nearly burnt me!
+<b>Jaxon:</b> You nearly burnt me!
+<b>Diana:</b> Just inhale this fresh air!
+<b>Diana:</b> Just inhale this fresh air!
+<b>Diana:</b> You took my breath away!
+<b>Diana:</b> You took my breath away!
+<b>Gaby:</b> It's the first time I walk this road!
+<b>Gaby:</b> It's the first time I walk this road!
+<b>Gaby:</b> ...not gonna lie, I'm kinda lost.
+<b>Gaby:</b> ...not gonna lie, I'm kinda lost.
+<b>Lady:</b> Hi uh... do you know how to get to Titaga?
+<b>Lady:</b> Hi uh... do you know how to get to Titaga?
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+Yes
+Yes
+No
+No

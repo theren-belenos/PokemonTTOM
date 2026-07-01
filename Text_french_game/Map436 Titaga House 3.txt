@@ -1,0 +1,34 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map436]
+There is only trash in there.
+There is only trash in there.
+<b>Man:</b> Hello young one, can you hear me out?
+<b>Man:</b> Hello young one, can you hear me out?
+<b>Man:</b> I’m becoming really annoyed by those pesky birds pecking on my berries!
+<b>Man:</b> I’m becoming really annoyed by those pesky birds pecking on my berries!
+<b>Man:</b> I’m looking for a way to repel them. My scarecrow doesn’t seem to be enough.
+<b>Man:</b> I’m looking for a way to repel them. My scarecrow doesn’t seem to be enough.
+<b>Man:</b> A friend told me about a mixture that can repel birds. But I lack some ingredients.
+<b>Man:</b> A friend told me about a mixture that can repel birds. But I lack some ingredients.
+<b>Man:</b> I need 5 Coba Berry, 3 Energy Powder, and a Guard Spec.
+<b>Man:</b> I need 5 Coba Berry, 3 Energy Powder, and a Guard Spec.
+<b>Man:</b> If you bring me all of these products, I will give you something good against flying Pokémon!
+<b>Man:</b> If you bring me all of these products, I will give you something good against flying Pokémon!
+<b>Man:</b> Do you have all the ingredients I seek?
+<b>Man:</b> Do you have all the ingredients I seek?
+Do you want to give 5 Coba Berry, 3 Energy Powder, and a Guard Spec to the man?
+Do you want to give 5 Coba Berry, 3 Energy Powder, and a Guard Spec to the man?
+<b>Man:</b> Wonderful, thanks a lot! I will mix everything right up!
+<b>Man:</b> Wonderful, thanks a lot! I will mix everything right up!
+<b>Man:</b> But first, here is your reward!
+<b>Man:</b> But first, here is your reward!
+<b>Man:</b> Pesky birds, your time is over!
+<b>Man:</b> Pesky birds, your time is over!
+<b>Man:</b> Ha… Please, I really need it!
+<b>Man:</b> Ha… Please, I really need it!
+Yes
+Yes
+No
+No

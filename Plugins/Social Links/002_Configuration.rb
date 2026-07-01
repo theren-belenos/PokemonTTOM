@@ -551,6 +551,16 @@ GameData::SocialLinkProfile.register({
 })
 
 GameData::SocialLinkProfile.register({
+    :id             => :NIKODIM,
+    :name		    => "Nikodim",
+    :image		    => "NIKODIM",
+    :init_location  => "Titaga",
+    :init_status    => _INTL("Rewards :<br>  For each ♥ level, gain a random grass starter  "),
+    :favorite_pokemon => [:NOADKOKO,0,1,false]
+    
+})
+
+GameData::SocialLinkProfile.register({
     :id             => :NLGround,
     :name		    => _INTL("The Normal Leader"),
     :image		    => "KATHLEENNL",

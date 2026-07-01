@@ -50,6 +50,8 @@ Tuber &f;
 Flotteuse &f;
 Backpacker
 Randonneur
+Bellhop
+Bellhop
 Bugmaniac
 Entomomaniac
 Clown
@@ -60,6 +62,8 @@ Furisode Girl
 Fille en Kimono
 Janitor
 Nettoyeur
+Kimono Girl
+Kimono Girl
 Maid
 Gouvernante
 Ninja boy
@@ -116,6 +120,10 @@ Psychic &f;
 Kinésiste &f;
 Psychic &m;
 Kinésiste &m;
+Rising Star &f;
+Rising Star &f;
+Rising Star &m;
+Rising Star &m;
 Roughneck
 Loubard
 Scientist &f;
@@ -123,7 +131,7 @@ Scientifique &f;
 Scientist &m;
 Scientifique &m;
 Street Thug
-Terreur
+Street Thug
 Ace Trainer &f;
 Dresseuse d'élite &f;
 Ace Trainer &m;
@@ -132,6 +140,10 @@ Cool Trainer &f;
 Topdresseuse
 Cool Trainer &m;
 Topdresseur
+Veteran &f;
+Veteran &f;
+Veteran &m;
+Veteran &m;
 Some wild
 Horde sauvage de
 Object

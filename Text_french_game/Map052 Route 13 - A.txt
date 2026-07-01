@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map052]
+<b>Josué:</b> WHY AM I SPINNING??????
+<b>Josué:</b> WHY AM I SPINNING??????
+<b>Josué:</b> PLZ STOOOOOOOP!!!
+<b>Josué:</b> PLZ STOOOOOOOP!!!
+<b>Alijah:</b> Howdy! Not so much plains in here!
+<b>Alijah:</b> Howdy! Not so much plains in here!
+<b>Alijah:</b> I guess mountains can be cool too!
+<b>Alijah:</b> I guess mountains can be cool too!
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+Yes
+Yes
+No
+No

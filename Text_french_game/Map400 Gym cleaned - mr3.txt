@@ -2,8 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map400]
-<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
-<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+You already gave a gift to Samy this week!
+You already gave a gift to Samy this week!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
 Marley is in training these days. Do you want to start your work day?
 Marley est en formation en ce moment. Voulez-vous commencer la journée ?
 Change your party?
@@ -28,6 +32,8 @@ He is really cool!
 Il est vraiment cool !
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
+Welcome to the \gt Gym!
+Bienvenue dans l'arène \gt !
 <b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
@@ -40,14 +46,20 @@ Vous avez déjà offert un cadeau à Marley cette semaine !
 <b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Impatient de suivre cette formation !
-Welcome to the \gt Gym!
-Bienvenue dans l'arène \gt !
 <b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
 <b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
 <b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
 <b>\c[9]Melly:</b>\c[0] Coucou \pn! Je suis prête à combattre !
 You already gave a gift to Melly this week!
 Vous avez déjà offert un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
 Yes
 Oui
 No
@@ -66,16 +78,8 @@ Skip next morning
 Passer la matinée
 Evening time
 Soirée
-Quest
-Quête
 Gym Infos
 Infos Arène
-Give gift
-Donner cadeau
-Spend time
-Passer du temps
-Say goodbye
-Dire au revoir
 Start work day
 Commencer la journée
 Gym infos

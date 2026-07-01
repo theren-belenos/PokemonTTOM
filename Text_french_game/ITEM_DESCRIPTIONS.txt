@@ -2,6 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [ITEM_DESCRIPTIONS]
+Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon. Everyone LOVES this gift!
+Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon. Everyone LOVES this gift!
+A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon. Everyone LOVES this gift!
+A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon. Everyone LOVES this gift!
+Very sweet chocolate. It restores the HP of one Pokémon by only 20 points. Everyone LOVES this gift!
+Very sweet chocolate. It restores the HP of one Pokémon by only 20 points. Everyone LOVES this gift!
 Heals and revive all of your Pokémons a limited number of times. Replenish it by going to a Pokémon Center.
 Soigne et ramine tous vos Pokémon un nombre limité de fois. A recharger en allant dans un Centre Pokémon.
 Allows you to mine Glowing Rocks.
@@ -126,6 +132,14 @@ A rock that fell to earth from space. It allows a certain species of Pokémon to
 Une pierre venue de l'espace, qui permet à un certain Pokémon de changer d'apparence. Elle est légèrement tiède au toucher.
 A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
 A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
+Explosion lumineuse qui fait baisser la Précision de l'ennemi. Illumine les endroits sombres.
+The user slugs the foe with a shattering punch. It can also smash cracked boulders.
+Le lanceur porte un coup de poing à la cible, ce qui peut baisser la Défense de celle-ci.
+Stops the current weather, the winds, and completely clear the sky.
+Annule le climat actuel, les vents, et enlver tout ce qu'il y a dans le ciel.
+A powerful attack that may harm its user if failed.
+Une attaque puissante qui peut blesser son lancer si ratée
 This full-power attack grows more powerful the more the user likes its Trainer.
 This full-power attack grows more powerful the more the user likes its Trainer.
 A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.
@@ -546,14 +560,6 @@ An attack that hits first and makes the target flinch. Fails if the target isn't
 Le lanceur réagit instinctivement au moindre mouvement et donne un coup de Paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé un capacité prioritaire.
 A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit.
 Un coup tranchant qui peut empoisonner la cible. Taux de critiques élevé.
-The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
-Explosion lumineuse qui fait baisser la Précision de l'ennemi. Illumine les endroits sombres.
-The user slugs the foe with a shattering punch. It can also smash cracked boulders.
-Le lanceur porte un coup de poing à la cible, ce qui peut baisser la Défense de celle-ci.
-Stops the current weather, the winds, and completely clear the sky.
-Annule le climat actuel, les vents, et enlver tout ce qu'il y a dans le ciel.
-A powerful attack that may harm its user if failed.
-Une attaque puissante qui peut blesser son lancer si ratée
 One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
 Une variété de Méga-Gemme. Tenue par un Papillusion, elle lui permet de méga-évoluer durant un combat.
 One of a variety of mysterious Mega Stones. Have Kingler hold it, and it will be able to Mega Evolve.
@@ -598,6 +604,34 @@ One of a variety of mysterious Mega Stones. Have Inteleon hold it, and it will b
 Une variété de Méga-Gemme. Tenue par un Lézargus, elle lui permet de méga-évoluer durant un combat.
 One of a variety of mysterious Mega Stones. Have Urshifu hold it, and it will be able to Mega Evolve.
 Une variété de Méga-Gemme. Tenue par un Shifours, elle lui permet de méga-évoluer durant un combat.
+A peculiar stone that makes certain species of Pokémon evolve. It has a link cable pattern.
+A peculiar stone that makes certain species of Pokémon evolve. It has a link cable pattern.
+A brand new device that allows to fine tune Pokémon's EVs
+A brand new device that allows to fine tune Pokémon's EVs
+A module for the Virtual Trainer - Allows for HP tuning
+A module for the Virtual Trainer - Allows for HP tuning
+A module for the Virtual Trainer - Allows for Attack tuning
+A module for the Virtual Trainer - Allows for Attack tuning
+A module for the Virtual Trainer - Allows for Defense tuning
+A module for the Virtual Trainer - Allows for Defense tuning
+A module for the Virtual Trainer - Allows for AtkSpe tuning
+A module for the Virtual Trainer - Allows for AtkSpe tuning
+A module for the Virtual Trainer - Allows for DefSpe tuning
+A module for the Virtual Trainer - Allows for DefSpe tuning
+A module for the Virtual Trainer - Allows for Speed tuning
+A module for the Virtual Trainer - Allows for Speed tuning
+A Coupon to be used in the Safari Reception. Can exchange it for a Pokémon catchable in the Safari Park.
+A Coupon to be used in the Safari Reception. Can exchange it for a Pokémon catchable in the Safari Park.
+A Coupon to be used in the Casino. Can exchange it for a reward obtainable at the Casino.
+A Coupon to be used in the Casino. Can exchange it for a reward obtainable at the Casino.
+A revolutionnary item that can change one Pokémon to its shiny counterpart! One-time usage.
+A revolutionnary item that can change one Pokémon to its shiny counterpart! One-time usage.
+A unique, one-time usage mysterious machine. Gives you a single item of your choice.
+A unique, one-time usage mysterious machine. Gives you a single item of your choice.
+A unique, one-time usage mysterious machine. Gives you a Pokémon of your choice, lvl 25.
+A unique, one-time usage mysterious machine. Gives you a Pokémon of your choice, lvl 25.
+A unique, one-time usage mysterious godlike machine. Gives you the Pokémon of your dreams.
+A unique, one-time usage mysterious godlike machine. Gives you the Pokémon of your dreams.
 A pair of glasses belonging to Jon.
 Une paire de lunettes appartenant à Jon
 A worn out notebook belonging to Jeremy.
@@ -612,3 +646,5 @@ A book borrowed by a student at the library. Find all 3 of them!
 Un livre emprunté par un étudiant à la bibliothèque. Trouvez-les tous les 3 !
 A lunch forgotten by someone. Bring him!
 Un repas oublié par quelqu'un. Amenez-lui!
+Tools given by Cassian useful to fix broken cables.
+Tools given by Cassian useful to fix broken cables.

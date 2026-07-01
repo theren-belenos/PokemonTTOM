@@ -1,3 +1,12 @@
+[LINKSTONE]
+Name = Link Stone
+NamePlural = Link Stones
+Pocket = 1
+Price = 3000
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar stone that makes certain species of Pokémon evolve. It has a link cable pattern.
+
 #-------------------------------
 [VIRTUALTRAINER]
 Name = Virtual Trainer
@@ -55,8 +64,55 @@ Price = 0
 Flags = KeyItem
 Description = A module for the Virtual Trainer - Allows for Speed tuning
 
+#-------------------------------
+[SAFARICOUPON]
+Name = Safari Coupon
+NamePlural = Safari Coupons
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Coupon to be used in the Safari Reception. Can exchange it for a Pokémon catchable in the Safari Park.
+#-------------------------------
+[CASINOCOUPON]
+Name = Casino Coupon
+NamePlural = Casino Coupons
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A Coupon to be used in the Casino. Can exchange it for a reward obtainable at the Casino.
+#-------------------------------
+[SHINYMACHINE]
+Name = Shiny Machine
+NamePlural = Shiny Machine
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A revolutionnary item that can change one Pokémon to its shiny counterpart! One-time usage.
 
-
+#-------------------------------
+[ITEMCHOSER]
+Name = Item Choser
+NamePlural = Item Chosers
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A unique, one-time usage mysterious machine. Gives you a single item of your choice.
+#-------------------------------
+[POKEMONCHOSER]
+Name = Pokémon Choser
+NamePlural = Pokémon Chosers
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A unique, one-time usage mysterious machine. Gives you a Pokémon of your choice, lvl 25.
+#-------------------------------
+[POKEMONSHAPER]
+Name = Pokémon Choser
+NamePlural = Pokémon Chosers
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A unique, one-time usage mysterious godlike machine. Gives you the Pokémon of your dreams.
 
 
 
@@ -116,3 +172,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A lunch forgotten by someone. Bring him!
+#-------------------------------
+[CABLETOOLS]
+Name = Cable Tools
+NamePlural = Cable Tools
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Tools given by Cassian useful to fix broken cables.

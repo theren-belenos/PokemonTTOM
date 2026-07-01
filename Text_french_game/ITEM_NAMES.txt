@@ -120,6 +120,14 @@ Meteorite
 Metéorite
 Briar's Book
 Briar's Book
+HM07
+CS07
+HM08
+CS08
+HM09
+CS09
+HM10
+CS10
 TM000
 TM000
 TM001
@@ -578,14 +586,6 @@ TM229
 CT229
 TM230
 CT230
-HM07
-CS07
-HM08
-CS08
-HM09
-CS09
-HM10
-CS10
 Butterfreeite
 Papillusite
 Machampite
@@ -632,6 +632,32 @@ Intelite
 Lézargusite
 Urshifite
 Shifousite
+Link Stone
+Link Stone
+Virtual Trainer
+Virtual Trainer
+VT Health Module
+VT Health Module
+VT Attack Module
+VT Attack Module
+VT Defense Module
+VT Defense Module
+VT AtkSpe Module
+VT AtkSpe Module
+VT DefSpe Module
+VT DefSpe Module
+VT Speed Module
+VT Speed Module
+Safari Coupon
+Safari Coupon
+Casino Coupon
+Casino Coupon
+Shiny Machine
+Shiny Machine
+Item Choser
+Item Choser
+Pokémon Choser
+Pokémon Choser
 Jon's glasses
 Lunettes de Jon
 Jeremy's Notebook
@@ -646,3 +672,5 @@ Borrowed Book
 Livre Emprunté
 Father's Lunch
 Repas du Papa
+Cable Tools
+Cable Tools

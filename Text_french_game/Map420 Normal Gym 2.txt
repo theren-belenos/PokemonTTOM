@@ -16,6 +16,10 @@ Switch 3 activated
 Interrupteur 3 activé
 Switch 3 de-activated
 Interrupteur 3 désactivé
+You spend time helping the Normal Leader in their Gym.
+You spend time helping the Normal Leader in their Gym.
+You don't understand everything, but you learn a bit anyway!
+You don't understand everything, but you learn a bit anyway!
 <b>Tristan:</b> Oho! Not too confused??
 <b>Tristan:</b> Oho ! Pas trop perdu ??
 <b>Tristan:</b> You seem fine...

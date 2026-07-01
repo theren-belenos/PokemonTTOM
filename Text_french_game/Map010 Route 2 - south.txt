@@ -36,6 +36,8 @@ Vos Pokémon ont été complètement soignés !
 <b>Homme:</b> Attention à la corniche !
 ^ Green lush forest, \tn \n< Sombake \nv Central Town (through the Geodude Pit)
 ^ Forêt Verdoyante, \tn \n< Sombake \nv Ville Centrale (via la Fosse Racaillou)
+<b>Blissey:</b> Blisseeeeeeeey!
+<b>Blissey:</b> Blisseeeeeeeey!
 Yes
 Oui
 No

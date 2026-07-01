@@ -6593,3 +6593,18 @@ BackSprite = 0,7
 FrontSprite = 0,8
 ShadowSize = 2
 ShadowSprite = 0,-21,3
+#-------------------------------
+[LAGEON]
+BackSprite = 0,0
+FrontSprite = 0,5
+ShadowSprite = 0,-14,0
+#-------------------------------
+[CLOUDEON]
+BackSprite = 0,-14
+FrontSprite = 0,-4
+ShadowSprite = 0,8,20
+#-------------------------------
+[WISPEON]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowSprite = 0,0,19

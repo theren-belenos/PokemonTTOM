@@ -17,7 +17,7 @@ module Settings
   # This value is combined with the species animation speed and converted into 1/1,000th of a second.
   # Increase to make all sprites animate slower. Decrease to animate faster.
   #-----------------------------------------------------------------------------
-  ANIMATION_FRAME_DELAY = 90
+  ANIMATION_FRAME_DELAY = 120
   
   #-----------------------------------------------------------------------------
   # Shows battler shadow sprites on the player's side when true.

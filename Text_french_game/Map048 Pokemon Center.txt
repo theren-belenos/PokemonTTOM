@@ -38,30 +38,24 @@ Vous donnez le carnet à Jeremy.
 <b>Jeremy:</b> J’attendrai ici !
 <b>Jeremy:</b> Hey \pn, how are you?
 <b>Jeremy:</b> Hey \pn, comment vas-tu ?
-<b>\c[5]Nurse:</b>\c[0] Hello sweetie, here you are at the help center.
-<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, tu es ici au centre d’entraide.
-<b>\c[5]Nurse:</b>\c[0] If you check the screen just left of me, you will see requests from the town inhabitants.
-<b>\c[5]Infirmière:</b>\c[0] Si tu regardes l’écran juste à ma gauche, tu auras des requêtes des habitants de la ville.
-<b>\c[5]Nurse:</b>\c[0] Complete these for rewards!
-<b>\c[5]Infirmière:</b>\c[0] Réponds à ces requêtes pour avoir des récompenses !
-<b>\c[5]Nurse:</b>\c[0] The screen at the right contains challenges and acheivements proposed by the Prof. Maple.
-<b>\c[5]Infirmière:</b>\c[0] L’écran à ma droite présente des challenges et achèvements proposés par le Prof Maple.
-<b>\c[5]Nurse:</b>\c[0] Complete these and go to the Prof. Maple for yet more rewards!
-<b>\c[5]Infirmière:</b>\c[0] Le Prof te donnera également des récompenses pour ça !
-<b>\c[5]Nurse:</b>\c[0] Hello sweetie, do you need to hear my explanation again?
-<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, veux-tu réécouter mes explications ?
-<b>\c[5]Nurse:</b>\c[0] The screen at the right contains challenges and acheivements proposed by the Prof.
-<b>\c[5]Infirmière:</b>\c[0] L’écran à ma droite présente des challenges et achèvements proposés par le Prof.
-<b>\c[5]Nurse:</b>\c[0] Have a wonderful day~
-<b>\c[5]Infirmière:</b>\c[0] Passe une très belle journée~
-TODO: RequestBoard
-TODO: RequestBoard
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, do you wanna hear my explanations again?
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, do you wanna hear my explanations again?
+<b>\c[5]Nurse:</b>\c[0] You are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] You are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] If you check the screen just left of me, you will see general achievements.
+<b>\c[5]Nurse:</b>\c[0] If you check the screen just left of me, you will see general achievements.
+<b>\c[5]Nurse:</b>\c[0] The screen at the right contains acheivements about completing Pokédex.
+<b>\c[5]Nurse:</b>\c[0] The screen at the right contains acheivements about completing Pokédex.
+<b>\c[5]Nurse:</b>\c[0] You'll get exclusive rewards for reaching 25%, 50% and 100% for each of these achievements! Good luck!
+<b>\c[5]Nurse:</b>\c[0] You'll get exclusive rewards for reaching 25%, 50% and 100% for each of these achievements! Good luck!
+<b>\c[5]Nurse:</b>\c[0] Good day to you!
+<b>\c[5]Nurse:</b>\c[0] Good day to you!
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, here you are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, here you are at the achievements center, created by Maple specially for you!
 <b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go upstairs for now.
 <b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas monter pour l’instant.
 <b>\c[5]Nurse:</b>\c[0] It still need repairs.
 <b>\c[5]Infirmière:</b>\c[0] Il y a encore besoin de réparations.
-TODO: ProfChallenges
-TODO: ProfChallenges
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, bienvenue au Centre Pokémon.
 <b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.

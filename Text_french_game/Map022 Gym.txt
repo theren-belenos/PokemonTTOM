@@ -2,8 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map022]
-<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
-<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+You already gave a gift to Samy this week!
+You already gave a gift to Samy this week!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
 You spend time training with Melly at the Gym.
 Vous passez du temps à vous entraîner avec Melly dans l'Arène.
 She is really cool!
@@ -12,6 +16,8 @@ You spend time hanging with Marley at the Gym.
 Vous passez du temps à traîner avec Marley dans l'Arène.
 He is really cool!
 Il est vraiment cool !
+You spend time training with Samy at the Gym.
+You spend time training with Samy at the Gym.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe enregistrée ?
 End of the first half of the week!
@@ -582,6 +588,14 @@ Vous avez déjà donné un cadeau à Marley cette semaine !
 <b>\c[9]Melly:</b>\c[0] Coucou \pn ! Je suis prête à combattre !
 You already gave a gift to Melly this week!
 Vous avez déjà offert un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
 Do not change party
 Ne pas changer d’équipe
 Change party
@@ -606,16 +620,8 @@ Skip to next morning
 Prochaine matinée
 Evening Time
 Soirée
-Quest
-Quête
 Gym Infos
 Infos Arène
-Give gift
-Donner cadeau
-Spend time
-Passer du temps
-Say goodbye
-Dire au revoir
 Gym infos
 Infos Arène
 Start work day

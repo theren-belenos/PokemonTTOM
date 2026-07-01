@@ -397,10 +397,13 @@ Pokemon = LYCANROC,52
 Pokemon = STEELIX,53
 
 [SAMY,Samy,2]
+Items = MEGARING
 LoseText = Hahah! Not bad, really not bad!
 Pokemon = PROBOPASS,69
+	Moves = ZAPCANNON,STONEEDGE,EARTHPOWER,SANDSTORM
 Pokemon = KILOWATTREL,70
 Pokemon = STEELIX,70
+	Item = STEELIXITE
 Pokemon = EXEGGUTOR,71
 	Form = 1
 Pokemon = LYCANROC,72

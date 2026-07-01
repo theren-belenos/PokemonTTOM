@@ -126,6 +126,12 @@ Quelques instants plus tard...
 <b>\c[10]Maple:</b>\c[0] Viens me parler quand tous les logements seront construits.
 <b>\c[10]Maple:</b>\c[0] Did you built all housing ?
 <b>\c[10]Maple:</b>\c[0] As-tu coonstruit tous les logements ?
+<b>\c[10]Maple:</b>\c[0] That's wonderful \pn!
+<b>\c[10]Maple:</b>\c[0] That's wonderful \pn!
+<b>\c[10]Maple:</b>\c[0] I'm really proud of what we did together.
+<b>\c[10]Maple:</b>\c[0] I'm really proud of what we did together.
+<b>\c[10]Maple:</b>\c[0] And I'm glad you're our leader. Thank you a lot, \pn, I really mean it.
+<b>\c[10]Maple:</b>\c[0] And I'm glad you're our leader. Thank you a lot, \pn, I really mean it.
 <b>\c[10]Maple:</b>\c[0] Not yet? Please \pn don't neglect this!
 <b>\c[10]Maple:</b>\c[0] Pas encore ? S'il te plaît \pn ne néglige pas ce sujet !
 <b>\c[3]Marley:</b>\c[0] Hey boss, have you heard about shiny Pokémons?
@@ -172,6 +178,52 @@ Vous n'avez rien à dire à Marley concernant des quêtes.
 <b>\c[3]Marley:</b>\c[0] Non ? Bon ben j’attends ici !
 <b>\c[3]Marley:</b>\c[0] Heya its so cool! Thank you boss!
 <b>\c[3]Marley:</b>\c[0] Heya c’est si cool l Merci boss !
+<b>\c[3]Marley:</b>\c[0] Hey hey \pn, I know you really made progress with shinies!
+<b>\c[3]Marley:</b>\c[0] Hey hey \pn, I know you really made progress with shinies!
+<b>\c[3]Marley:</b>\c[0] Do you know what would be really cool?
+<b>\c[3]Marley:</b>\c[0] Do you know what would be really cool?
+<b>\c[3]Marley:</b>\c[0] A full team of shinies! 6 shinies!! What do you say?
+<b>\c[3]Marley:</b>\c[0] A full team of shinies! 6 shinies!! What do you say?
+<b>\c[3]Marley:</b>\c[0] Show me a full shiny team \pn, I know you can pull it off!
+<b>\c[3]Marley:</b>\c[0] Show me a full shiny team \pn, I know you can pull it off!
+<b>\c[3]Marley:</b>\c[0] Do you have a full shiny party?
+<b>\c[3]Marley:</b>\c[0] Do you have a full shiny party?
+<b>\c[3]Marley:</b>\c[0] Say boss, you know I like regional forms, right?
+<b>\c[3]Marley:</b>\c[0] Say boss, you know I like regional forms, right?
+<b>\c[3]Marley:</b>\c[0] And you know I really like shinies too, don't I?
+<b>\c[3]Marley:</b>\c[0] And you know I really like shinies too, don't I?
+<b>\c[3]Marley:</b>\c[0] ...can you see where I'm going there?
+<b>\c[3]Marley:</b>\c[0] ...can you see where I'm going there?
+<b>\c[3]Marley:</b>\c[0] Yes! A Pokémon can be both! Shiny AND regional form! Crazy, no?
+<b>\c[3]Marley:</b>\c[0] Yes! A Pokémon can be both!  Shiny AND regional form! Crazy, no?
+<b>\c[3]Marley:</b>\c[0] Please boss, look for a regional shiny! Its really my favorite kind of Pokémon!
+<b>\c[3]Marley:</b>\c[0] Please boss, look for a regional shiny! Its really my favorite kind of Pokémon!
+<b>\c[3]Marley:</b>\c[0] Do you have a shiny regional?
+<b>\c[3]Marley:</b>\c[0] Do you have a shiny regional?
+<b>\c[3]Marley:</b>\c[0] Wowowow ! Sooooooo cooooooool! Thank you very very much boss, truly!!
+<b>\c[3]Marley:</b>\c[0] Wowowow ! Sooooooo cooooooool! Thank you very very much boss, truly!!
+<b>\c[3]Marley:</b>\c[0] Well \pn, I don't have really much more to teach you... Look how you've grown!
+<b>\c[3]Marley:</b>\c[0] Well \pn, I don't have really much more to teach you... Look how you've grown!
+<b>\c[3]Marley:</b>\c[0] Actually, there is a last thing: how about Pokémon that doesn't exist in the wild?
+<b>\c[3]Marley:</b>\c[0] Actually, there is a last thing: how about Pokémon that doesn't exist in the wild?
+<b>\c[3]Marley:</b>\c[0] How can we got'em shiny??
+<b>\c[3]Marley:</b>\c[0] How can we got'em shiny??
+<b>\c[3]Marley:</b>\c[0] Well, shiny chances are true for wild battles, but also for eggs!
+<b>\c[3]Marley:</b>\c[0] Well, shiny chances are true for wild battles, but also for eggs!
+<b>\c[3]Marley:</b>\c[0] So the only way to have shinies for Pokémon that doesn't exist in the wild is by breeding them at the DayCare.
+<b>\c[3]Marley:</b>\c[0] So the only way to have shinies for Pokémon that doesn't exist in the wild is by breeding them at the DayCare.
+<b>\c[3]Marley:</b>\c[0] Why don't you give this a try? And you know what? It's really easy to check if this method was used!
+<b>\c[3]Marley:</b>\c[0] Why don't you give this a try? And you know what? It's really easy to check if this method was used!
+<b>\c[3]Marley:</b>\c[0] Wild Pokémon are level 2, minimum. Only newly hatched Pokémon can be level 1!
+<b>\c[3]Marley:</b>\c[0] Wild Pokémon are level 2, minimum. Only newly hatched Pokémon can be level 1!
+<b>\c[3]Marley:</b>\c[0] So, boss, here is your last challenge: Show me a level 1 shiny!
+<b>\c[3]Marley:</b>\c[0] So, boss, here is your last challenge: Show me a level 1 shiny!
+<b>\c[3]Marley:</b>\c[0] Do you have a level 1 shiny?
+<b>\c[3]Marley:</b>\c[0] Do you have a level 1 shiny?
+<b>\c[3]Marley:</b>\c[0] Well done boss! Congratulations!
+<b>\c[3]Marley:</b>\c[0] Well done boss!  Congratulations!
+<b>\c[3]Marley:</b>\c[0] I have nothing more to teach you, you're le boss of shinies know!!
+<b>\c[3]Marley:</b>\c[0] I have nothing more to teach you, you're le boss of shinies know!!
 <b>\c[9]Melly:</b>\c[0] H-hey \pn, how about we have a friendly battle?
 <b>\c[9]Melly:</b>\c[0] H-hey \pn, ça te dit un combat amical ?
 <b>\c[9]Melly:</b>\c[0] Not necessarly with our Gym Pokémon parties though!
@@ -232,14 +284,86 @@ Vous n'avez rien à dire à Melly concernant des quêtes.
 <b>\c[9]Melly:</b>\c[0] Ne...ne t'inquiète pas, je suis pas triste ! Je suis contente que tu sois si fort, et pourtant, tu ne te débarasse pas de moi !
 <b>\c[9]Melly:</b>\c[0] I...it's really heartwarming actually...
 <b>\c[9]Melly:</b>\c[0] Franchement ça...ça fait chaud au coeur...
-<b>\c[10]Maple:</b>\c[0] You took care of all the barnacles?
-<b>\c[10]Maple:</b>\c[0] Tu t’es occupé de tous les Opermines ?
-You have nothing to tell Maple about any quest (1).
-Vous n'avez rien à dire à Maple concernant des quêtes (1).
-You have nothing to tell Maple about any quest (2).
-Vous n'avez rien à dire à Maple concernant des quêtes (2).
-You have nothing to tell Maple about any quest (3).
-Vous n'avez rien à dire à Maple concernant des quêtes (3).
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha! \pn, how do you say we have a good ol' Pokémon battle together hm?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha! \pn, how do you say we have a good ol' Pokémon battle together hm?
+<b><c3=BDA46A,736440>Samy:</b></c3> I'll have my own personal team tho, not the Gym one!
+<b><c3=BDA46A,736440>Samy:</b></c3> I'll have my own personal team tho, not the Gym one!
+<b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 35. Are you ready for this?
+<b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 35. Are you ready for this?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ready for battle, are ya?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ready for battle, are ya?
+<b><c3=BDA46A,736440>Samy:</b></c3> Bahahahaha! You're so much younger than me, yet so much stronger!
+<b><c3=BDA46A,736440>Samy:</b></c3> Bahahahaha! You're so much younger than me, yet so much stronger!
+<b><c3=BDA46A,736440>Samy:</b></c3> Maybe, like Marley, I should call you boss after all...
+<b><c3=BDA46A,736440>Samy:</b></c3> Maybe, like Marley, I should call you boss after all...
+You have nothing to tell Samy about any quest.
+You have nothing to tell Samy about any quest.
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, now that I'm always here, I can't go collecting shards anymore...
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, now that I'm always here, I can't go collecting shards anymore...
+<b><c3=BDA46A,736440>Samy:</b></c3> I really need 3 more of each "primary colors" shards. Can you give me that?
+<b><c3=BDA46A,736440>Samy:</b></c3> I really need 3 more of each "primary colors" shards. Can you give me that?
+<b><c3=BDA46A,736440>Samy:</b></c3> Do you know what shards are? You can collect them from glowing rocks.
+<b><c3=BDA46A,736440>Samy:</b></c3> Do you know what shards are? You can collect them from glowing rocks.
+<b><c3=BDA46A,736440>Samy:</b></c3> You need a Mining Kit to mine glowing rocks tho!
+<b><c3=BDA46A,736440>Samy:</b></c3> You need a Mining Kit to mine glowing rocks tho! 
+<b><c3=BDA46A,736440>Samy:</b></c3> If you don't have one, you can probably grab one from the Grey Mines at Greymoose!
+<b><c3=BDA46A,736440>Samy:</b></c3> If you don't have one, you can probably grab one from the Grey Mines at Greymoose!
+<b><c3=BDA46A,736440>Samy:</b></c3> Do you have 3 red, blue and green shards?
+<b><c3=BDA46A,736440>Samy:</b></c3> Do you have 3 red, blue and green shards?
+Do you want to give 3 red blue and green shards to Samy?
+Do you want to give 3 red blue and green shards to Samy?
+<b><c3=BDA46A,736440>Samy:</b></c3> You're definitely the best, <i>boss</i> hehe~
+<b><c3=BDA46A,736440>Samy:</b></c3> You're definitely the best, <i>boss</i> hehe~
+<b><c3=BDA46A,736440>Samy:</b></c3> Thank you very much!
+<b><c3=BDA46A,736440>Samy:</b></c3> Thank you very much!
+<b><c3=BDA46A,736440>Samy:</b></c3> Well, I can't blame you, I would not give it either!
+<b><c3=BDA46A,736440>Samy:</b></c3> Well, I can't blame you, I would not give it either!
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha! What about another training session, <i>boss</i>?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha! What about another training session, <i>boss</i>?
+<b><c3=BDA46A,736440>Samy:</b></c3> This time my team is around level 50! Good for you?
+<b><c3=BDA46A,736440>Samy:</b></c3> This time my team is around level 50! Good for you?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ready to rumble?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ready to rumble?
+<b><c3=BDA46A,736440>Samy:</b></c3> Bahaha I don't stand a chance! You're not just our boss, you're the big boss!!
+<b><c3=BDA46A,736440>Samy:</b></c3> Bahaha I don't stand a chance! You're not just our boss, you're the big boss!!
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn! You know that Marley became a good friend already right!
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn! You know that Marley became a good friend already right!
+<b><c3=BDA46A,736440>Samy:</b></c3> He talked to me about the passion of his, the shinies!
+<b><c3=BDA46A,736440>Samy:</b></c3> He talked to me about the passion of his, the shinies!
+<b><c3=BDA46A,736440>Samy:</b></c3> And I wanted to combine this with my passion, the grottos! Aren't I the complete genius??
+<b><c3=BDA46A,736440>Samy:</b></c3> And I wanted to combine this with my passion, the grottos!  Aren't I the complete genius??
+<b><c3=BDA46A,736440>Samy:</b></c3> Can you show me a shiny Pokémon that lives in grottos??
+<b><c3=BDA46A,736440>Samy:</b></c3> Can you show me a shiny Pokémon that lives in grottos??
+<b><c3=BDA46A,736440>Samy:</b></c3> Do you have a shiny Pokémon that lives in grottos??
+<b><c3=BDA46A,736440>Samy:</b></c3> Do you have a shiny Pokémon that lives in grottos??
+<b><c3=BDA46A,736440>Samy:</b></c3> Ooooh now I see! What a pretty thing!
+<b><c3=BDA46A,736440>Samy:</b></c3> Ooooh now I see! What a pretty thing!
+<b><c3=BDA46A,736440>Samy:</b></c3> Well, Marley told me they are really rare so I can understand!
+<b><c3=BDA46A,736440>Samy:</b></c3> Well, Marley told me they are really rare so I can understand!
+<b><c3=BDA46A,736440>Samy:</b></c3> Hey you <i>big boss</i>, it's time for my revenge!
+<b><c3=BDA46A,736440>Samy:</b></c3> Hey you <i>big boss</i>, it's time for my revenge!
+<b><c3=BDA46A,736440>Samy:</b></c3> This time I'll give all I got! So don't you hold back!!
+<b><c3=BDA46A,736440>Samy:</b></c3> This time I'll give all I got! So don't you hold back!!
+<b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 70!
+<b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 70!
+<b><c3=BDA46A,736440>Samy:</b></c3> Ready for the big showdown??
+<b><c3=BDA46A,736440>Samy:</b></c3> Ready for the big showdown??
+<b><c3=BDA46A,736440>Samy:</b></c3> Wah. No way. Even like this?
+<b><c3=BDA46A,736440>Samy:</b></c3> Wah. No way. Even like this?
+<b><c3=BDA46A,736440>Samy:</b></c3> I swear, kid, you're something else...
+<b><c3=BDA46A,736440>Samy:</b></c3> I swear, kid, you're something else... 
+<b><c3=BDA46A,736440>Samy:</b></c3> I'm not even joking when I say I'm glad you're my boss.
+<b><c3=BDA46A,736440>Samy:</b></c3> I'm not even joking when I say I'm glad you're my boss.
+<b><c3=BDA46A,736440>Samy:</b></c3> Honored, even. Thanks for having me, \pn!
+<b><c3=BDA46A,736440>Samy:</b></c3> Honored, even. Thanks for having me, \pn!
+<b>\c[11]Madame S:</b>\c[0] Hello sweetie, can you help me out?
+<b>\c[11]Madame S:</b>\c[0] Hello sweetie, can you help me out?
+You have nothing to tell Madame S about any quest.
+You have nothing to tell Madame S about any quest.
+<b>\c[11]Madame S:</b>\c[0] You didn't meet enough yet? No worries, I can wait! ...for a bit.
+<b>\c[11]Madame S:</b>\c[0] You didn't meet enough yet? No worries, I can wait! ...for a bit.
+You have nothing to tell the Nurses about any quest.
+Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie! Can we ask you something?
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor ! On peut te demander quelque chose ?
 <b>\c[5]Nurse:</b>\c[0] As you are traveling around the region, can you deliver some things for us?
@@ -280,8 +404,6 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Infirmière:</b>\c[0] Non ? S’il te plaît trésor, essaye, pour moi~
 <b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool invention right?
 <b>\c[5]Infirmière:</b>\c[0] Excellent, trésor ! C’est une belle invention n’est-ce pas ?
-You have nothing to tell the Nurses about any quest.
-Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Sweetie, do you know that some Pokémon can heal others?
 <b>\c[5]Infirmière:</b>\c[0] Sweetie, tu savais que certains Pokémon peuvent en soigner d'autres ?
 <b>\c[5]Nurse:</b>\c[0] Some moves, like Pollen Puff or Heal Pulse, can heal allies Pokémon!
@@ -314,6 +436,86 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Infirmière:</b>\c[0] Ooooh c'est vraiment magnifique !!
 <b>\c[5]Nurse:</b>\c[0] Thanks a lot sweetie!
 <b>\c[5]Infirmière:</b>\c[0] Merci énormément trésor !
+<b>\c[11]Madame S:</b>\c[0] I'm lacking some berries to prepare my world-famous cocktails!
+<b>\c[11]Madame S:</b>\c[0] I'm lacking some berries to prepare my world-famous cocktails!
+<b>\c[11]Madame S:</b>\c[0] I would need 3 of the following : Cheri Chesto Pecha Rawst Aspear and Oran Berries.
+<b>\c[11]Madame S:</b>\c[0] I would need 3 of the following : Cheri Chesto Pecha Rawst Aspear and Oran Berries.
+<b>\c[11]Madame S:</b>\c[0] Thank you sweetie!
+<b>\c[11]Madame S:</b>\c[0] Thank you sweetie!
+<b>\c[11]Madame S:</b>\c[0] Do you have the berries, sweetie?
+<b>\c[11]Madame S:</b>\c[0] Do you have the berries, sweetie?
+Do you want to give 3 of the following: Cheri Chesto Pecha Rawst Aspear and Oran Berries ?
+Do you want to give 3 of the following: Cheri Chesto Pecha Rawst Aspear and Oran Berries ?
+<b>\c[11]Madame S:</b>\c[0] Thanks a lot for your help! With this, my dear customers won't be thirsty!
+<b>\c[11]Madame S:</b>\c[0] Thanks a lot for your help! With this, my dear customers won't be thirsty!
+<b>\c[11]Madame S:</b>\c[0] Not yet? Please sweetie, don't forget about me~
+<b>\c[11]Madame S:</b>\c[0] Not yet? Please sweetie, don't forget about me~
+<b>\c[11]Madame S:</b>\c[0] Hello sweetie, I might need your help again...
+<b>\c[11]Madame S:</b>\c[0] Hello sweetie, I might need your help again...
+<b>\c[11]Madame S:</b>\c[0] I want to prepare some animations for the resort, like music and dances!
+<b>\c[11]Madame S:</b>\c[0] I want to prepare some animations for the resort, like music and dances!
+<b>\c[11]Madame S:</b>\c[0] My old friend Nikodim won't stop talking about Ludicolos as dancers, could you give me one?
+<b>\c[11]Madame S:</b>\c[0] My old friend Nikodim won't stop talking about Ludicolos as dancers, could you give me one?
+<b>\c[11]Madame S:</b>\c[0] If they are at least 50% as effective as Nikodim says, it will be unbelievable!
+<b>\c[11]Madame S:</b>\c[0] If they are at least 50% as effective as Nikodim says, it will be unbelievable!
+<b>\c[11]Madame S:</b>\c[0] Do you have a Ludicolo for me?
+<b>\c[11]Madame S:</b>\c[0] Do you have a Ludicolo for me?
+<b>\c[11]Madame S:</b>\c[0] Come back when you have one!
+<b>\c[11]Madame S:</b>\c[0] Come back when you have one!
+<b>\c[11]Madame S:</b>\c[0] How spectacular! Thank you sweetie, maybe Nikodim was right actually!
+<b>\c[11]Madame S:</b>\c[0] How spectacular!  Thank you sweetie, maybe Nikodim was right actually!
+<b>\c[11]Madame S:</b>\c[0] Sweetie, I need your help once again!
+<b>\c[11]Madame S:</b>\c[0] Sweetie, I need your help once again!
+<b>\c[11]Madame S:</b>\c[0] You do know that in Camosack, it's always sunny, right?
+<b>\c[11]Madame S:</b>\c[0] You do know that in Camosack, it's always sunny, right?
+<b>\c[11]Madame S:</b>\c[0] As you're quite the smart one, I'm sure you figured it could be natural, right?
+<b>\c[11]Madame S:</b>\c[0] As you're quite the smart one, I'm sure you figured it could be natural, right?
+<b>\c[11]Madame S:</b>\c[0] I actually have a bunch of Pokémon that knows Sunny Day or have the ability Drought.
+<b>\c[11]Madame S:</b>\c[0] I actually have a bunch of Pokémon that knows Sunny Day or have the ability Drought.
+<b>\c[11]Madame S:</b>\c[0] The thing is, I don't have enough of them! I don't want hem babies to be exploited!
+<b>\c[11]Madame S:</b>\c[0] The thing is, I don't have enough of them! I don't want hem babies to be exploited!
+<b>\c[11]Madame S:</b>\c[0] Can you give me one?
+<b>\c[11]Madame S:</b>\c[0] Can you give me one?
+<b>\c[11]Madame S:</b>\c[0] Do you have a Pokémon knowing Sunny Day or having the Drought ability?
+<b>\c[11]Madame S:</b>\c[0] Do you have a Pokémon knowing Sunny Day or having the Drought ability?
+<b>\c[11]Madame S:</b>\c[0] Thank you sweetie, it will be easier for everyone with more sun drawers!
+<b>\c[11]Madame S:</b>\c[0] Thank you sweetie, it will be easier for everyone with more sun drawers!
+<b>\c[11]Madame S:</b>\c[0] Sweetie, I know I asked a lot from you, but can you hear me out one more time?
+<b>\c[11]Madame S:</b>\c[0] Sweetie, I know I asked a lot from you, but can you hear me out one more time?
+<b>\c[11]Madame S:</b>\c[0] Ludicolos based shows are fun but, well, they can't do more that they... always do, right?
+<b>\c[11]Madame S:</b>\c[0] Ludicolos based shows are fun but, well, they can't do more that they...  always do, right?
+<b>\c[11]Madame S:</b>\c[0] To be honest, I would prefer to have some human performers, at least to go with them.
+<b>\c[11]Madame S:</b>\c[0] To be honest, I would prefer to have some human performers, at least to go with them.
+<b>\c[11]Madame S:</b>\c[0] But I can't really leave the place to recruit people you know?
+<b>\c[11]Madame S:</b>\c[0] But I can't really leave the place to recruit people you know?
+<b>\c[11]Madame S:</b>\c[0] I know you're kinda exploring the country. If you find some performers, can you ask them to come here?
+<b>\c[11]Madame S:</b>\c[0] I know you're kinda exploring the country. If you find some performers, can you ask them to come here?
+<b>\c[11]Madame S:</b>\c[0] In order to have a good show, we would need 5 people. Okay sweetie?
+<b>\c[11]Madame S:</b>\c[0] In order to have a good show, we would need 5 people. Okay sweetie?
+<b>\c[11]Madame S:</b>\c[0] Sweetie! We finally got 5 of them! I can't thank you enough!!
+<b>\c[11]Madame S:</b>\c[0] Sweetie! We finally got 5 of them! I can't thank you enough!!
+<b>\c[11]Madame S:</b>\c[0] Now this place will be like a never-ending party!
+<b>\c[11]Madame S:</b>\c[0] Now this place will be like a never-ending party!
+<b>\c[11]Madame S:</b>\c[0] Sweetie, you really impressed me lately by helping me with such hard tasks.
+<b>\c[11]Madame S:</b>\c[0] Sweetie, you really impressed me lately by helping me with such hard tasks.
+<b>\c[11]Madame S:</b>\c[0] I don't really need anything more for the resort, but I have a little wish.
+<b>\c[11]Madame S:</b>\c[0] I don't really need anything more for the resort, but I have a little wish.
+<b>\c[11]Madame S:</b>\c[0] I want to see - just see, not have ! - a shiny Pokémon drawing the sun.
+<b>\c[11]Madame S:</b>\c[0] I want to see - just see, not have ! - a shiny Pokémon drawing the sun.
+<b>\c[11]Madame S:</b>\c[0] In other words, a shiny Pokémon taht either knows Sunny Day, or have the Drought ability.
+<b>\c[11]Madame S:</b>\c[0] In other words, a shiny Pokémon taht either knows Sunny Day, or have the Drought ability.
+<b>\c[11]Madame S:</b>\c[0] What do you say, sweetie? Up for the task?
+<b>\c[11]Madame S:</b>\c[0] What do you say, sweetie? Up for the task?
+<b>\c[11]Madame S:</b>\c[0] Don't worry, I won't take it from you! I just want to see one!
+<b>\c[11]Madame S:</b>\c[0] Don't worry, I won't take it from you! I just want to see one!
+<b>\c[11]Madame S:</b>\c[0] Do you have a shiny Pokémon knowing Sunny Day or having the Drought ability?
+<b>\c[11]Madame S:</b>\c[0] Do you have a shiny Pokémon knowing Sunny Day or having the Drought ability?
+<b>\c[11]Madame S:</b>\c[0] That's really impressive sweetie! Is there something you can't do??
+<b>\c[11]Madame S:</b>\c[0] That's really impressive sweetie! Is there something you can't do??
+<b>\c[11]Madame S:</b>\c[0] I know some people that would kill for such efficiency...
+<b>\c[11]Madame S:</b>\c[0] I know some people that would kill for such efficiency...
+<b>\c[11]Madame S:</b>\c[0] You had my sympathy, now you have my esteem.
+<b>\c[11]Madame S:</b>\c[0] You had my sympathy, now you have my esteem.
 The Normal Leader shows you a drawing of a Kecleon. They seem to love this Pokémon!
 Le Leader Normal vous montre le dessin d’un Kecleon. Iel a l’air d’adorer ce Pokémon !
 Maybe you should capture one and show it to them...
@@ -330,6 +532,8 @@ The Normal Leader looks to you with a flaming passion! Maybe they want a rematch
 Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une revanche ?
 They show you a piece of paper with a big "40" on it.
 Iel vous montre un papier avec un gros "40" dessus.
+They show you a piece of paper with a big "45" on it.
+They show you a piece of paper with a big "45" on it.
 The Normal Leader takes a combat stance!
 Le Leader Normal prend une position de combat !
 The Normal Leader seems glad to have rematched you!
@@ -348,6 +552,16 @@ The Normal Leader looks to you with a flaming passion! Maybe they want another r
 Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une autre revanche ?
 They show you a piece of paper with a big "60" on it.
 Iel vous montre un papier avec un gros "60" dessus.
+They show you a piece of paper with a big "65" on it.
+They show you a piece of paper with a big "65" on it.
+The Normal Leader show you a drawing of stars surronding a Pokémon!
+The Normal Leader show you a drawing of stars surronding a Pokémon!
+Maybe they are talking about shinies?
+Maybe they are talking about shinies?
+As they are the Normal Leader, maybe they want to see a shiny Normal Pokémon?
+As they are the Normal Leader, maybe they want to see a shiny Normal Pokémon?
+The Normal Leader shows you the drawing of a Pokémon surronded by stars again?
+The Normal Leader shows you the drawing of a Pokémon surronded by stars again?
 <b>Kathleen:</b> Hey \pn, did I ever talked to you about Bug Poékmons early evolutions?
 <b>Kathleen:</b> Hey \pn, je t’ai déjà parlé du fait que les Pokémon insecte évoluent tôt ?
 <b>Kathleen:</b> It's really cool! They can be fully evolved really early!
@@ -398,6 +612,88 @@ Vous n'avez rien à dire à Kathleen concernant des quêtes (1).
 <b>Kathleen:</b> Cette fois j'y vais à fond ! Mes Pokémon seront environ niveau 60 !
 <b>Kathleen:</b> Wowie! You're definitely super ultra mega strong!!!
 <b>Kathleen:</b> Wowie ! T'es définitivement super ultra mega trop fort !!!
+<b>Kathleen:</b> \pn, \pn, do you know what are shinies??
+<b>Kathleen:</b> \pn, \pn, do you know what are shinies??
+<b>Kathleen:</b> Someone called, like, Marley I think? ...told me about them!
+<b>Kathleen:</b> Someone called, like, Marley I think?  ...told me about them!
+<b>Kathleen:</b> Can you show me a shiny bug- type Pokémon? Pretty pleaseeeee~
+<b>Kathleen:</b> Can you show me a shiny bug- type Pokémon? Pretty pleaseeeee~
+<b>Kathleen:</b> Do you have a shiny Bug Pokémon ?
+<b>Kathleen:</b> Do you have a shiny Bug Pokémon ?
+<b>Kathleen:</b> No? But I really want to see one!!
+<b>Kathleen:</b> No? But I really want to see one!!
+<b>Kathleen:</b> Weeeee! That's so cool! So pretty!
+<b>Kathleen:</b> Weeeee! That's so cool! So pretty!
+<b>Kathleen:</b> Its really rare, no?
+<b>Kathleen:</b> Its really rare, no?
+<b>Kathleen:</b> But I really want to go catch my own shiny now!
+<b>Kathleen:</b> But I really want to go catch my own shiny now!
+<b>Kathleen:</b> Thank you very much \pn, you're a really really good friend!!
+<b>Kathleen:</b> Thank you very much \pn, you're a really really good friend!!
+You have nothing to tell Kathlenn about any quest.
+You have nothing to tell Kathlenn about any quest.
+<b>Cassian:</b> Hey \pn, can you help me with something?
+<b>Cassian:</b> Hey \pn, can you help me with something?
+<b>Cassian:</b> The Power Tunnel is, ironically, powered off since the recent earthquake.
+<b>Cassian:</b> The Power Tunnel is, ironically, powered off since the recent earthquake.
+<b>Cassian:</b> This is because the cables were damaged.
+<b>Cassian:</b> This is because the cables were damaged.
+<b>Cassian:</b> Could you go there to repair the cables?
+<b>Cassian:</b> Could you go there to repair the cables?
+<b>Cassian:</b> Thanks a lot! Here, take this item to help you!
+<b>Cassian:</b> Thanks a lot! Here, take this item to help you!
+<b>Cassian:</b> Once all the cables on a floor have been repaired, head to the floor computer and activate it.
+<b>Cassian:</b> Once all the cables on a floor have been repaired, head to the floor computer and activate it.
+<b>Cassian:</b> Please tell me when both floors are powered on. Thanks again!
+<b>Cassian:</b> Please tell me when both floors are powered on. Thanks again!
+<b>Cassian:</b> Hey \pn, how the powering of the tunnel is going?
+<b>Cassian:</b> Hey \pn, how the powering of the tunnel is going?
+<b>Cassian:</b> You powered both floors? Thanks a lot \pn! The Power Tunnel lives up his name now!
+<b>Cassian:</b> You powered both floors? Thanks a lot \pn! The Power Tunnel lives up his name now!
+You have nothing to tell Cassian about any quest.
+You have nothing to tell Cassian about any quest.
+<b>Cassian:</b> Hello \pn, how is your day? Would you be so kind to offer me a rematch?
+<b>Cassian:</b> Hello \pn, how is your day? Would you be so kind to offer me a rematch?
+<b>Cassian:</b> My team will be a bit stronger! My Pokémon are around level 45!
+<b>Cassian:</b> My team will be a bit stronger! My Pokémon are around level 45!
+<b>Cassian:</b> Ready for the rematch?
+<b>Cassian:</b> Ready for the rematch?
+<b>Cassian:</b> Another loss for me eh? You're definitely strong, dear colleague... Congrats!
+<b>Cassian:</b> Another loss for me eh? You're definitely strong, dear colleague... Congrats!
+<b>Cassian:</b> \pn, do you know about Dusk Balls?
+<b>Cassian:</b> \pn, do you know about Dusk Balls?
+<b>Cassian:</b> These Balls are especially effective at night or inside caves.
+<b>Cassian:</b> These Balls are especially effective at night or inside caves.
+<b>Cassian:</b> As most of Rock Pokémon live inside caves, I really like them!
+<b>Cassian:</b> As most of Rock Pokémon live inside caves, I really like them!
+<b>Cassian:</b> Hey, try it yourself! Show me a Rock Pokémon inside a Dusk Ball!
+<b>Cassian:</b> Hey, try it yourself! Show me a Rock Pokémon inside a Dusk Ball!
+<b>Cassian:</b> Do you have a Rock Pokémon inside a Dusk Ball?
+<b>Cassian:</b> Do you have a Rock Pokémon inside a Dusk Ball?
+<b>Cassian:</b> No? You should really try it!
+<b>Cassian:</b> No? You should really try it!
+<b>Cassian:</b> Hey, nice one! Dusk Ball are really useful right?
+<b>Cassian:</b> Hey, nice one! Dusk Ball are really useful right?
+<b>Cassian:</b> \pn, I would like a final rematch! This time, I'll give my very best!
+<b>Cassian:</b> \pn, I would like a final rematch! This time, I'll give my very best!
+<b>Cassian:</b> My team is even stronger! My Pokémon are around level 60!
+<b>Cassian:</b> My team is even stronger! My Pokémon are around level 60!
+<b>Cassian:</b> Ready for the final rematch?
+<b>Cassian:</b> Ready for the final rematch?
+<b>Cassian:</b> Still a loss eh? My, dear colleague, you're something else! I can only bow my head... Congratulations!
+<b>Cassian:</b> Still a loss eh? My, dear colleague, you're something else! I can only bow my head...  Congratulations!
+<b>Cassian:</b> Hey \pn, can I ask you something?
+<b>Cassian:</b> Hey \pn, can I ask you something?
+<b>Cassian:</b> I heard about shinies! Do you know about them?
+<b>Cassian:</b> I heard about shinies! Do you know about them?
+<b>Cassian:</b> I really want to see a shiny rock Pokémon! Do you have one?
+<b>Cassian:</b> I really want to see a shiny rock Pokémon! Do you have one?
+<b>Cassian:</b> Do you have a shiny Rock Pokémon?
+<b>Cassian:</b> Do you have a shiny Rock Pokémon?
+<b>Cassian:</b> No? Unlucky me!
+<b>Cassian:</b> No? Unlucky me!
+<b>Cassian:</b> Oho! Know I see why people love this! It's really exciting!! Thanks a lot, \pn!
+<b>Cassian:</b> Oho! Know I see why people love this! It's really exciting!! Thanks a lot, \pn!
 You can't spend time now: it's not the Weekend or Wednesday!
 Impossible de passer du temps : ce n'est ni le Weekend ni Mercredi !
 Do you want to spend time with Prof Maple? <b>Warning: The weekend or wednesday will be over!</b>
@@ -408,16 +704,18 @@ You spend time at the Casino with Marley. Luckily, he pays for everything!
 Vous passez du temps au Casino avec Marley. Heureusement, il paye tout !
 Do you want to spend time with Melly? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec Melly ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-You spent the rest of the weekend with Prof Maple. You learnt a lot!
-Vous passez le reste du weekend avec le Prof Maple. Vous apprenez plein de choses !
+Do you want to spend time with Samy? <b>Warning: The weekend or wednesday will be over!</b>
+Do you want to spend time with Samy?  <b>Warning: The weekend or wednesday will be over!</b>
+Do you want to spend time with Madame S? <b>Warning: The weekend or wednesday will be over!</b>
+Do you want to spend time with Madame S?  <b>Warning: The weekend or wednesday will be over!</b>
 Do you want to spend time with the nurses? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec les infirmières ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with the Normal Leader? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec le Leader Normal ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with Kathleen? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec Kathleen ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
-<b><c3=BDA46A,736440>Samy:</b></c3> All is right with you pal? Hahah!
-<b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
+Do you want to spend time with Cassian? <b>Warning: The weekend or wednesday will be over!</b>
+Do you want to spend time with Cassian?  <b>Warning: The weekend or wednesday will be over!</b>
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 2!
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 2 !
 <b>\c[10]Maple:</b>\c[0] It's a really good thing we can continue forward.
@@ -438,8 +736,80 @@ Voulez-vous passer du temps avec Kathleen ?  <b>Attention : cela mettra fin au w
 <b>\c[10]Maple:</b>\c[0] Sois prudent pendant tes voyages \pn, et bonne chance !
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 3!
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 3 !
-Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
-Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+<b>\c[10]Maple:</b>\c[0] I also received an e-mail from the League telling me about this Samy guy, hum?
+<b>\c[10]Maple:</b>\c[0] I also received an e-mail from the League telling me about this Samy guy, hum?
+<b>\c[10]Maple:</b>\c[0] I’m glad you found someone! Let’s call the whole squad and talk a bit…
+<b>\c[10]Maple:</b>\c[0] I’m glad you found someone!  Let’s call the whole squad and talk a bit…
+A few minutes later...
+A few minutes later...
+<b>\c[10]Maple:</b>\c[0] So, here are your new quests, \pn.
+<b>\c[10]Maple:</b>\c[0] So, here are your new quests, \pn.
+<b>\c[10]Maple:</b>\c[0] Your next badge is Nikodim’s Grass Gym, at Titaga.
+<b>\c[10]Maple:</b>\c[0] Your next badge is Nikodim’s Grass Gym, at Titaga.
+<b>\c[10]Maple:</b>\c[0] To reach Titaga, go south from Greymoose.
+<b>\c[10]Maple:</b>\c[0] To reach Titaga, go south from Greymoose.
+<b>\c[10]Maple:</b>\c[0] Titaga is also called the Flower Valley, because its located between two mountains.
+<b>\c[10]Maple:</b>\c[0] Titaga is also called the Flower Valley, because its located between two mountains.
+<b>\c[10]Maple:</b>\c[0] It’s a very charming place, truly!
+<b>\c[10]Maple:</b>\c[0] It’s a very charming place, truly!
+<b>\c[10]Maple:</b>\c[0] About our Gym, we need to keep growing. Next objective is fame rank 10.
+<b>\c[10]Maple:</b>\c[0] About our Gym, we need to keep growing. Next objective is fame rank 10.
+<b>\c[10]Maple:</b>\c[0] Now that we have Samy, it can be easier!
+<b>\c[10]Maple:</b>\c[0] Now that we have Samy, it can be easier!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha! I will do my best! I hope Melly will be patient with me!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha! I will do my best! I hope Melly will be patient with me!
+<b>\c[9]Melly:</b>\c[0] O-oh of course! I think you’re a really good person!
+<b>\c[9]Melly:</b>\c[0] O-oh of course! I think you’re a really good person!
+<b><c3=BDA46A,736440>Samy:</b></c3> Thank you little one! Prof, did \pn tell you exactly why I’m here ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Thank you little one! Prof, did \pn tell you exactly why I’m here ?
+<b>\c[10]Maple:</b>\c[0] Hmm no, not really…
+<b>\c[10]Maple:</b>\c[0] Hmm no, not really…
+<b><c3=BDA46A,736440>Samy:</b></c3> Let me explain.
+<b><c3=BDA46A,736440>Samy:</b></c3> Let me explain.
+Samy tells Maple and Melly everything that happened in Greymoose, including the conversation with Tom and Cassian.
+Samy tells Maple and Melly everything that happened in Greymoose, including the conversation with Tom and Cassian.
+<b>\c[10]Maple:</b>\c[0] Hmmm… A most complex situation indeed…
+<b>\c[10]Maple:</b>\c[0] Hmmm… A most complex situation indeed…
+<b>\c[10]Maple:</b>\c[0] I’ve known Aristarque for a really long time, going back when we both learned under our master.
+<b>\c[10]Maple:</b>\c[0] I’ve known Aristarque for a really long time, going back when we both learned under our master.
+<b>\c[10]Maple:</b>\c[0] This man is too carefree, reckless even. So you might really be onto something.
+<b>\c[10]Maple:</b>\c[0] This man is too carefree, reckless even. So you might really be onto something.
+<b><c3=BDA46A,736440>Samy:</b></c3> That’s why I’m gonna search for a cave, a tunnel near the city.
+<b><c3=BDA46A,736440>Samy:</b></c3> That’s why I’m gonna search for a cave, a tunnel near the city.
+<b>\c[10]Maple:</b>\c[0] Okay Samy, thank you for your help!
+<b>\c[10]Maple:</b>\c[0] Okay Samy, thank you for your help!
+<b>\c[10]Maple:</b>\c[0] And for the third quest, Melly has something to ask you…
+<b>\c[10]Maple:</b>\c[0] And for the third quest, Melly has something to ask you…
+<b>\c[9]Melly:</b>\c[0] R-right! \pn, there is this yearly tournament that takes place at Camosack!
+<b>\c[9]Melly:</b>\c[0] R-right! \pn, there is this yearly tournament that takes place at Camosack!
+<b>\c[9]Melly:</b>\c[0] Do you know about Camosack? It’s a beach resort where it’s always sunny!!
+<b>\c[9]Melly:</b>\c[0] Do you know about Camosack? It’s a beach resort where it’s always sunny!!
+<b>\c[9]Melly:</b>\c[0] C-can you go with me? I mean, the tournament has two phases:
+<b>\c[9]Melly:</b>\c[0] C-can you go with me? I mean, the tournament has two phases:
+<b>\c[9]Melly:</b>\c[0] First, the solo tournament, and then a duo tournament.
+<b>\c[9]Melly:</b>\c[0] First, the solo tournament, and then a duo tournament.
+<b>\c[9]Melly:</b>\c[0] I… I don’t wanna team up with a stranger, so come with me please!
+<b>\c[9]Melly:</b>\c[0] I… I don’t wanna team up with a stranger, so come with me please!
+<b>\c[9]Melly:</b>\c[0] Yay!! Here, you’ll need this to get to Camosack!
+<b>\c[9]Melly:</b>\c[0] Yay!! Here, you’ll need this to get to Camosack!
+<b>\c[10]Maple:</b>\c[0] As I said before, I think cohesion is important so…
+<b>\c[10]Maple:</b>\c[0] As I said before, I think cohesion is important so…
+<b>\c[10]Maple:</b>\c[0] Your third quest is actually to take on this tournament with Melly!
+<b>\c[10]Maple:</b>\c[0] Your third quest is actually to take on this tournament with Melly!
+<b>\c[9]Melly:</b>\c[0] Hehe~ But be careful \pn: this tournament can be quite difficult.
+<b>\c[9]Melly:</b>\c[0] Hehe~ But be careful \pn: this tournament can be quite difficult.
+<b>\c[9]Melly:</b>\c[0] Maybe you should go get Titaga’s badge first, train a bit… As you wish!
+<b>\c[9]Melly:</b>\c[0] Maybe you should go get Titaga’s badge first, train a bit… As you wish!
+<b>\c[9]Melly:</b>\c[0] And don't forget that you can only go to Camosack on weekends...
+<b>\c[9]Melly:</b>\c[0] And don't forget that you can only go to Camosack on weekends...
+<b>\c[9]Melly:</b>\c[0] Anyway, let’s just meet at Camosack ok? Sign up for the tournament and we meet up on the beach!
+<b>\c[9]Melly:</b>\c[0] Anyway, let’s just meet at Camosack ok? Sign up for the tournament and we meet up on the beach!
+<b>\c[10]Maple:</b>\c[0] Good luck to you both!
+<b>\c[10]Maple:</b>\c[0] Good luck to you both!
+<b>\c[9]Melly:</b>\c[0] Thank you prof!!
+<b>\c[9]Melly:</b>\c[0] Thank you prof!!
+<b>\c[10]Maple:</b>\c[0] And that’s all for today! \pn, good luck with your quest for rank 4!
+<b>\c[10]Maple:</b>\c[0] And that’s all for today! \pn, good luck with your quest for rank 4!
 What do you want to know?
 Que voulez-vous savoir ?
 You have 3 options:\n- Full animation
@@ -1028,6 +1398,14 @@ to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumb
 <b>Aristarque:</b> Avec Cecily et Callistrate, on les a facilement défaits ! Donc ils sont tous en état d’arrestation désormais !
 <b>Reporter:</b> We can’t thank Aristarque enough! Thanks to him, the vile Team Absolution is finally behind us! Studios, back to you!
 <b>Reporter:</b> Nous ne pourrons jamais assez remercier Aristarque ! Grâce à lui, l’ignoble Team Absolution est enfin de l’histoire ancienne ! A vous les studios !
+<b><c3=BDA46A,736440>Samy:</b></c3> All is right with you pal? Hahah!
+<b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
+<b>Skitty:</b> Skiiiiii!
+<b>Skitty:</b> Skiiiiii!
+<b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready.
+<b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready.
+<b>Elder:</b> I hope we find the well soon!
+<b>Elder:</b> I hope we find the well soon!
 Evaluate Pokédex
 Evaluer Pokédex
 Quit

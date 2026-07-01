@@ -12,8 +12,8 @@ Cette pierre brillante a déjà été minée.
 <b>Terreur:</b> J'ai parfois l'impression que tout le monde a oublié l'existence de cet endroit...
 <b>Delinquent:</b> If you come down here, you're part of the family. Take this!
 <b>Terreur:</b> Si tu descends ici, tu fais partie de la famille. Tiens !
-Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
-Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+<b>Delinquent:</b> You're part of the family now. Take care.
+<b>Delinquent:</b> You're part of the family now.  Take care.
 <b>Scar:</b> Go away! This is my secret hideout!
 <b>Scar:</b> Va-t-en ! C'est ma cachette secrète !
 <b>Scar:</b> Hmpf, okay, you can stay.

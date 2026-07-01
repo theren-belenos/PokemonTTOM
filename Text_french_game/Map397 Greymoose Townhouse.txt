@@ -56,6 +56,12 @@ It looks like a trophy case...
 On dirait une vitrine à trophées...
 <b>Wurmple:</b> Upleeee!
 <b>Chenipotte:</b> ipooootte!
+You talk to the actor about Camosack.
+You talk to the actor about Camosack.
+<b>Actor:</b> Perform at Camosack? Hmm, I never acted at this kind of place...
+<b>Actor:</b> Perform at Camosack? Hmm, I never acted at this kind of place...
+<b>Tiago:</b> Why not! It will be a good training! See you there!
+<b>Tiago:</b> Why not! It will be a good training! See you there!
 <b>Actor:</b> So we can't shoot the ad huh? Figures, I needed a break anyway.
 <b>Acteur:</b> Donc on peut pas tourner la pub hein ? Bah, j'avais besoin d'une pause dans tous les cas.
 <b>Schoolgirl:</b> Beware! My drawing!
@@ -160,6 +166,14 @@ C'est un distributeur de boisson ? Acheter ?\G
 <b>Écolier:</b> J'ai pas fini ! Je veux faire un truc parfait ! Parce-que j'adore les Pokémon !
 <b>Tourist:</b> I'm glad this place exists! I was feeling a little lost in this big city!
 <b>Touriste:</b> Heureusement que cet endroit existe ! Je me sentais un peu perdu dans cette grande ville !
+You spend time chilling with Cassian in his room.
+You spend time chilling with Cassian in his room.
+He is really knowleadgable on town stuff!
+He is really knowleadgable on town stuff!
+You spend time with the Normal Leader in their room.
+You spend time with the Normal Leader in their room.
+It was rather awkward...
+It was rather awkward...
 <b>Man:</b> Hello, I'm the editor-in-chief. What can I do for you?
 <b>Homme:</b> Bonjour, je suis l'éditeur en chef. Que puis-je faire pour toi ?
 <b>Man:</b> We will find a way.
@@ -260,10 +274,8 @@ Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre c
 <b>Écolier:</b> Trop cool hein? Ouais, je sais !
 <b>Tourist:</b> My my! Everybody is so charming in here~
 <b>Touriste:</b> Ohlala ! Tout le monde ici est si charmant~
-\GThis is a drink vending machine. Wanna buy something?
-\GC'est un distributeur de boissons. Acheter quelque chose ?
-<b>Man:</b> This must be our absolute priority.
-<b>Homme:</b> Cela devrait être notre priorité absolue.
+<b>Anchorwoman:</b> The investigation following the recent earthquake is still going...
+<b>Présentatrice:</b> L'enquête sur le récent séisme est toujours en cours...
 <b>Receptionist:</b> Hello! Where do you want to go?
 <b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
 <b>Receptionist:</b> You're already on this floor!
@@ -272,22 +284,18 @@ Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre c
 <b>Réceptioniste:</b> Compris ! C'est parti !
 <b>Receptionist:</b> Have a good day!
 <b>Réceptioniste:</b> Passez une bonne journée !
-<b>Anchorwoman:</b> The investigation following the recent earthquake is still going...
-<b>Présentatrice:</b> L'enquête sur le récent séisme est toujours en cours...
+<b>Man:</b> This must be our absolute priority.
+<b>Homme:</b> Cela devrait être notre priorité absolue.
+\GThis is a drink vending machine. Wanna buy something?
+\GC'est un distributeur de boissons. Acheter quelque chose ?
+<b>Worker:</b> I come here often to drink a lemonade and talk to people.
+<b>Travailleur:</b> Je viens souvent ici pour boire une limonade et discuter avec des gens.
 <b>Schoolboy:</b> See! My drawing!
 <b>Écolier:</b> Regarde ! Mon dessin !
 <b>Schoolboy:</b> I'm proud of it!
 <b>Écolier:</b> J'en suis fier !
-<b>Worker:</b> I come here often to drink a lemonade and talk to people.
-<b>Travailleur:</b> Je viens souvent ici pour boire une limonade et discuter avec des gens.
 <b>Man:</b> I swear, you're too naïve!
 <b>Homme:</b> Je le dis, vous êtes trop naïfs !
-<b>Hiker:</b> I'm about to go hiking!
-<b>Randonneur:</b> Je m'apprête à partir en randonnée !
-<b>Hiker:</b> ... 5 Fresh Water may be too much. Do you want one?
-<b>Randonneur:</b> ... 5 Eaux Fraîches ça fait peut-être beaucoup. T'en veux une ?
-<b>Hiker:</b> Let's go hiking!
-<b>Randonneur:</b> C'est parti !
 <b>Janitor:</b> They asked me to find something here... But it's such a mess!
 <b>Concierge:</b> On m'a demandé de trouver quelque chose ici... Mais c'est vraiment le bazar !
 <b>Janitor:</b> Why do we have so much Poké Toys anyway? Do you want some?
@@ -296,22 +304,28 @@ Le Leader Normal vous fait signe de la main. Vous sentez qu’iel attend votre c
 <b>Concierge:</b> Me remercie pas, je dois nettoyer de toute façon !
 <b>Janitor:</b> Goodbye!
 <b>Concierge:</b> Au revoir !
+<b>Hiker:</b> I'm about to go hiking!
+<b>Randonneur:</b> Je m'apprête à partir en randonnée !
+<b>Hiker:</b> ... 5 Fresh Water may be too much. Do you want one?
+<b>Randonneur:</b> ... 5 Eaux Fraîches ça fait peut-être beaucoup. T'en veux une ?
+<b>Hiker:</b> Let's go hiking!
+<b>Randonneur:</b> C'est parti !
+<b>Policeman:</b> W...well, we have some leads, obviously! I... I just can't reveal them in case he is watching us!
+<b>Policier:</b> E...eh bien, on a quelques pistes, bien sûr ! Je...je peux juste pas les révéler au cas où il nous écoute !
 <b>Lady</b> Hello. I'm the town's secretary-general.
 <b>Dame:</b> Bonjour. Je suis la secrétaire générale de la ville.
 <b>Lady</b> The Leader is technically our mayor but I'm the one really managing the city.
 <b>Dame:</b> Le Leader est techniquement notre maire mais je suis celle qui gère la ville en pratique.
 <b>Lady</b> Can I help you?
 <b>Dame:</b> Puis-je t'aider ?
-<b>Policeman:</b> W...well, we have some leads, obviously! I... I just can't reveal them in case he is watching us!
-<b>Policier:</b> E...eh bien, on a quelques pistes, bien sûr ! Je...je peux juste pas les révéler au cas où il nous écoute !
-<b>Teacher:</b> Sorry I'm uploading test results... this class is improving fast!
-<b>Enseignant:</b> Désolé je rentre des résultats de contrôles... cette classe progresse à vue d'oeil !
 <b>Lady:</b> Hello honey! Do you need some help?
 <b>Dame:</b> Bonjour trésor ! Tu as besoin d'aide ?
-<b>Teacher:</b> ...hmmm... finding interesting activities is hard!
-<b>Enseignant:</b> ...hmmm... pas facile de trouver des activités intéressantes !
+<b>Teacher:</b> Sorry I'm uploading test results... this class is improving fast!
+<b>Enseignant:</b> Désolé je rentre des résultats de contrôles... cette classe progresse à vue d'oeil !
 <b>Journalist:</b> So you're saying you don't know where the suspect went?
 <b>Journaliste:</b> Donc vous nous dites que vous ne savez pas où le suspect s'est enfui?
+<b>Teacher:</b> ...hmmm... finding interesting activities is hard!
+<b>Enseignant:</b> ...hmmm... pas facile de trouver des activités intéressantes !
 Yes
 Oui
 No

@@ -349,6 +349,17 @@ module QuestModule
 		:RewardString => "???"
 	}
 	
+	# Pesky Birds
+	ItemQuest9 = {
+		:ID => "IQ9",
+		:Name => _INTL("Pesky Birds"),
+		:QuestGiver => _INTL("A man"),
+		:Stage1 => _INTL("Bring the ingredients to the man"),
+		:Location1 => _INTL("A house in Titaga"),
+		:QuestDescription => _INTL("A man in Titaga is struggling with birds eating his berries. Bring him 5 Coba Berry, 3 Energy Powder, and a Guard Spec so he can try a recipe to repel flying Pokémon."),
+		:RewardString => "???"
+	}
+	
 	##############################################################################
 	#
 	#		Battle Quests
@@ -423,6 +434,32 @@ module QuestModule
 		:Location3 => "Grey Mines",
 		:QuestDescription => _INTL("A worker wants to take a break from his work. He might give you something to mine Glowing Rocks!"),
 		:RewardString => _INTL("The Mining Kit")
+	}
+	
+	# Flower Troubles
+	BattleQuest6 = {
+		:ID => "BQ6",
+		:Name => _INTL("Flower Troubles"),
+		:QuestGiver => _INTL("A girl"),
+		:Stage1 => _INTL("Retrive the bag (lvl 35+)"),
+		:Stage2 => _INTL("Talk to the grandmother"),
+		:Location1 => "Titaga Flower Shop",
+		:Location2 => "Titaga Flower Shop",
+		:QuestDescription => _INTL("A girl in your town miss a bag from home, after she wen away following a fight. Go to Titaga and retrieve it from her grandmother."),
+		:RewardString => "???"
+	}
+	
+	# In Memoriam
+	BattleQuest7 = {
+		:ID => "BQ7",
+		:Name => _INTL("In Memoriam"),
+		:QuestGiver => _INTL("Elder"),
+		:Stage1 => _INTL("Go to the Soul Shelter"),
+		:Stage2 => _INTL("Reach the well."),
+		:Location1 => _INTL("Soul Shelter"),
+		:Location2 => _INTL("Depths of the Soul Shelter"),
+		:QuestDescription => _INTL("An elder man seeks protection to go to the well in the depths of the Soul Shelter. Go escort him!"),
+		:RewardString => "???"
 	}
 	
 	##############################################################################
@@ -846,14 +883,14 @@ module QuestModule
     	:QuestGiver => "Madame S",
     	:Stage1 => _INTL("Give Madame S some berries"),
     	:Location1 => _INTL("Camosack resort"),
-    	:QuestDescription => _INTL("Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her : (list)"),
+    	:QuestDescription => _INTL("Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her 3 of these berries: Cheri Chesto Pecha Rawst Aspear and Oran"),
     	:RewardString => _INTL("Madame S relation up.")
 	}
 	
 
 	MadameSQuest2= {
     	:ID => "MadameSQ2",
-    	:Name => _INTL("S for samba ?"),
+    	:Name => _INTL("S for samba?"),
     	:QuestGiver => "Madame S",
     	:Stage1 => _INTL("Give a Ludicolo"),
     	:Location1 => _INTL("Camosack resort"),
@@ -1020,20 +1057,23 @@ module QuestModule
 	##############################################################################
 	CassianQuest1= {
 		:ID => "CassianQ1",
-		:Name => _INTL("(x) invasion"),
+		:Name => _INTL("Powering the Tunnel"),
 		:QuestGiver => "Cassian",
-		:Stage1 => _INTL("Capture or defeats (x)"),
-		:Stage2 => _INTL("Report to Cassian"),
-		:Location1 => _INTL("The Grey Mines"),
-		:Location2 => _INTL("Rock Gym"),
-		:QuestDescription => _INTL("The Grey Mines are being invaded with a lot of (x). To keep its population under control and don't endanger miners, Cassian asked you to defeat or capture at least 5 (x)."),
-		:RewardString => _INTL("Cassian relation up.")
+		:Stage1 => _INTL("Power on both floors (0/2)"),
+		:Stage2 => _INTL("Power on both floors (1/2)"),
+		:Stage3 => _INTL("Report to Cassian"),
+		:Location1 => _INTL("Power Tunnel"),
+		:Location2 => _INTL("Power Tunnel"),
+		:Location3 => _INTL("Rock Gym"),
+		:QuestDescription => _INTL("The Power Tunnel doesn't have power anymore, what a shame! Cassian gave you a tool that can repair broken cables in the Tunnel. Repair them and activate the console on both floors."),
+    	:RewardString => _INTL("Cassian relation up.")
+
 	}
 	  
 	  
 	CassianQuest2= {
 		:ID => "CassianQ2",
-		:Name => _INTL("First Rock rematch (lvl 40+)"),
+		:Name => _INTL("First Rock rematch (lvl 45+)"),
 		:QuestGiver => "Cassian",
 		:Stage1 => _INTL("Battle Cassian again."),
 		:Location1 => _INTL("Rock Gym"),
@@ -1043,14 +1083,15 @@ module QuestModule
 	  
 	  
 	CassianQuest3= {
-		:ID => "CassianQ3",
-		:Name => _INTL("Using a dusk ball"),
-		:QuestGiver => "Cassian",
-		:Stage1 => _INTL("Show a rock Pokémon in a dusk ball to Cassian"),
-		:Location1 => _INTL("Rock Gym"),
-		:QuestDescription => _INTL("Cassian explained to you the power of dusk balls to catch Pokémons inside grottos or at night. Show him a rock Pokémon catched with a dusk ball."),
-		:RewardString => _INTL("Cassian relation up.")
+    	:ID => "CassianQ3",
+    	:Name => _INTL("Using a Heavy Ball"),
+    	:QuestGiver => "Cassian",
+    	:Stage1 => _INTL("Show a rock Pokémon in a heavy ball to Cassian"),
+    	:Location1 => _INTL("Rock Gym"),
+    	:QuestDescription => _INTL("Cassian explained to you the power of heavy balls to catch big Rock Pokémons. Try it and show him a rock Pokémon catched with a heavy ball."),
+    	:RewardString => _INTL("Cassian relation up.")
 	}
+
 	  
 	  
 	CassianQuest4= {

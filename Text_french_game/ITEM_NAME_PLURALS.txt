@@ -120,6 +120,14 @@ Meteorites
 Météorites
 Briar's Books
 Briar's Books
+HM07s
+HM07s
+HM08s
+HM08s
+HM09s
+HM09s
+HM10s
+HM10s
 TM000s
 TM000s
 TM001s
@@ -578,14 +586,6 @@ TM229s
 TM229s
 TM230s
 TM230s
-HM07s
-HM07s
-HM08s
-HM08s
-HM09s
-HM09s
-HM10s
-HM10s
 Butterfreeites
 Butterfreeites
 Machampites
@@ -630,6 +630,32 @@ Intelite
 Intelite
 Urshifite
 Urshifite
+Link Stones
+Link Stones
+Virtual trainers
+Virtual trainers
+VT Health Modules
+VT Health Modules
+VT Attack Modules
+VT Attack Modules
+VT Defense Modules
+VT Defense Modules
+VT AtkSpe Modules
+VT AtkSpe Modules
+VT DefSpe Modules
+VT DefSpe Modules
+VT Speed Modules
+VT Speed Modules
+Safari Coupons
+Safari Coupons
+Casino Coupons
+Casino Coupons
+Shiny Machine
+Shiny Machine
+Item Chosers
+Item Chosers
+Pokémon Chosers
+Pokémon Chosers
 Jon's glasses
 Jon's glasses
 Jeremy's Notebooks
@@ -644,3 +670,5 @@ Borrowed Books
 Livres Empruntés
 Father's Lunches
 Repas du Papa
+Cable Tools
+Cable Tools

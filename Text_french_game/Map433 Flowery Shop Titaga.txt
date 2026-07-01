@@ -1,0 +1,46 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map433]
+<b>Rancher:</b> Oh, I can buy gifts for my little Applin here, how nice!
+<b>Rancher:</b> Oh, I can buy gifts for my little Applin here, how nice!
+<b>Cocotte:</b> Hello and welcome to the Flowery Shop! I'm Cocotte, how can I help you?
+<b>Cocotte:</b> Hello and welcome to the Flowery Shop! I'm Cocotte, how can I help you?
+<b>Cocotte:</b> Hmm? My granddaughter left a bag here?
+<b>Cocotte:</b> Hmm? My granddaughter left a bag here?
+<b>Cocotte:</b> At this point I’m not even sure she really is my granddaughter.
+<b>Cocotte:</b> At this point I’m not even sure she really is my granddaughter.
+<b>Cocotte:</b> We lost her mother, and she says she won’t take over the shop. Can you believe it?
+<b>Cocotte:</b> We lost her mother, and she says she won’t take over the shop. Can you believe it?
+<b>Cocotte:</b> Zero consideration for me or for the family. Hah!
+<b>Cocotte:</b> Zero consideration for me or for the family. Hah!
+<b>Cocotte:</b> Now tell me again why should I give you this bag? Hmm?
+<b>Cocotte:</b> Now tell me again why should I give you this bag? Hmm?
+<b>Cocotte:</b> You really need it? Do you? Show me your determination, then!
+<b>Cocotte:</b> You really need it? Do you? Show me your determination, then!
+<b>Cocotte:</b> Hmpf, at least she knows to ask help from powerful people.
+<b>Cocotte:</b> Hmpf, at least she knows to ask help from powerful people.
+<b>Cocotte:</b> I won’t give you this bag, but I can go with you to her new place.
+<b>Cocotte:</b> I won’t give you this bag, but I can go with you to her new place.
+<b>Cocotte:</b> I will give it to her, after a small talk.
+<b>Cocotte:</b> I will give it to her, after a small talk.
+<b>Boy:</b> Can I come too?
+<b>Boy:</b> Can I come too?
+<b>Cocotte:</b> If that’s what you want…
+<b>Cocotte:</b> If that’s what you want…
+<b>Cocotte:</b> I wait for your call here.
+<b>Cocotte:</b> I wait for your call here.
+<b>Cocotte:</b> Do you really need it? Show me your determination, then!
+<b>Cocotte:</b> Do you really need it? Show me your determination, then!
+<b>Cocotte:</b> Ready to go?
+<b>Cocotte:</b> Ready to go?
+<b>Cocotte:</b> Very well. After you.
+<b>Cocotte:</b> Very well. After you.
+<b>Boy:</b> Oh hi my friend! Welcome to the Flowery Shop! Can I help you with something?
+<b>Boy:</b> Oh hi my friend! Welcome to the Flowery Shop! Can I help you with something?
+<b>Boy:</b> Welcome to the Flowery Shop!
+<b>Boy:</b> Welcome to the Flowery Shop! 
+Yes
+Yes
+No
+No

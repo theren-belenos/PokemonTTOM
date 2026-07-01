@@ -4,6 +4,8 @@
 [REGION_LOCATION_NAMES]
 MainTown
 MainTown
+Safari Park
+Parc Safari
 Route 1
 Route 1
 Route 2
@@ -56,6 +58,8 @@ Camosack
 Camosack
 Route 12
 Route 12
+Soul Shelter
+Soul Shelter
 Titaga
 Titaga
 Route 13
@@ -196,8 +200,6 @@ Tinganes
 Tinganes
 Husareyn Cave
 Grotte Husareyn
-Safari Park
-Parc Safari
 Gym Team
 Equipe d'Arène
 Gym Interiors
@@ -232,3 +234,5 @@ Trainer's Academy
 Académie de Dresseurs
 Selfcare Market
 Selfcare Market
+Block n°1
+Block n°1

@@ -42,6 +42,8 @@
 <b>Willy:</b> Tu ne trouveras pas tant de Pokémon Eau que ça sur terre de toute façon !
 <b>Willy:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
 <b>Willy:</b> Je sais que tu n'es pas le Leader Eau, mais les Pokémons Eau sont quand même pas mal non ?
+To catch a Pokémon, take out your rod and then press use button. A jauge will appear. Keep use pressed until the red zone!
+To catch a Pokémon, take out your rod and then press use button. A jauge will appear. Keep use pressed until the red zone!
 <b>Willy:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
 <b>Willy:</b> En tous cas, je te laisse retourner à ton arène, <i>respectable Leader</i>
 Willy's hut

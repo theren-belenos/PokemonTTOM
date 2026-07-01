@@ -5680,3 +5680,575 @@ Radio Tower
 Tour Radio
 Investment complete !
 Investissement effectué !
+Nice! Right on target.
+Nice! Right on target.
+Too low...
+Too low...
+Too high...
+Too high...
+You backed out.
+You backed out.
+Gotcha!
+Gotcha!
+You changed your mind.
+You changed your mind.
+It's a miss!
+It's a miss!
+You don't see any fish in here. Fishing would be useless.
+You don't see any fish in here. Fishing would be useless.
+You change your mind.
+You change your mind.
+Chapter 4: Relax and enjoy
+Chapter 4: Relax and enjoy
+Progress as a Gym leader by completing sub-goals (quests called Ch.4-A, Ch.4-B and Ch.4-C), and get to rank 4 by winning the rank up battle.
+Progress as a Gym leader by completing sub-goals (quests called Ch.4-A, Ch.4-B and Ch.4-C), and get to rank 4 by winning the rank up battle.
+Ch.4-A: Get to fame level 10
+Ch.4-A: Get to fame level 10
+Get to fame level 10
+Get to fame level 10
+Gain fame to let your Gym be recognized by getting to fame level 10.
+Gain fame to let your Gym be recognized by getting to fame level 10.
+Ch.4-B: Get Titaga badge
+Ch.4-B: Get Titaga badge
+Get Titaga Gym's badge
+Get Titaga Gym's badge
+Titaga Gym
+Titaga Gym
+Travel to Titaga via the Route 12, south of Greymoose, to earn a new badge.
+Travel to Titaga via the Route 12, south of Greymoose, to earn a new badge.
+Ch.3-C: Camosack tournament
+Ch.3-C: Camosack tournament
+Sign up for the tournament
+Sign up for the tournament
+Finish the tournament
+Finish the tournament
+Travel to Camosack via the Route 11, west of Greymoose, and participate in the yearly tournament with Melly.
+Travel to Camosack via the Route 11, west of Greymoose, and participate in the yearly tournament with Melly.
+Melly wants to train with you again. Battle her at your Gym. Her Pokémons will be around lvl 40. Note: you HAVE to win the battle to complete the quest.
+Melly wants to train with you again. Battle her at your Gym. Her Pokémons will be around lvl 40. Note: you HAVE to win the battle to complete the quest.
+Samy needs shards that you can find by mining glowing rocks. Collect and give to him 3 of each color (blue red green and yellow).
+Samy needs shards that you can find by mining glowing rocks. Collect and give to him 3 of each color (blue red green and yellow).
+Underground shiny
+Underground shiny
+Show an underground shiny
+Show an underground shiny
+Your Gym or Samy's flat.
+Your Gym or Samy's flat.
+Samy and Marley already are good friends. Obviously, Marley told him about shinies. Samy wants to see a shiny caught in a cave.
+Samy and Marley already are good friends. Obviously, Marley told him about shinies. Samy wants to see a shiny caught in a cave.
+S for sip?
+S for sip?
+Give Madame S some berries
+Give Madame S some berries
+Camosack resort
+Camosack resort
+Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her : (list)
+Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her : (list)
+Madame S relation up.
+Madame S relation up.
+S for samba ?
+S for samba ?
+Give a Ludicolo
+Give a Ludicolo
+Madame S loves to greet customers with funny Ludicolo dancing! She needs more of them tho, give her a Ludicolo.
+Madame S loves to greet customers with funny Ludicolo dancing! She needs more of them tho, give her a Ludicolo.
+S for sun?
+S for sun?
+Give Madame S a pokémon drawing sun.
+Give Madame S a pokémon drawing sun.
+Madame S absolutely needs to keep a good climate on Camosack. She needs more Pokémon able to do that. Give her a Pokémon with (sun ability) or knowing the Zenith move.
+Madame S absolutely needs to keep a good climate on Camosack. She needs more Pokémon able to do that. Give her a Pokémon with (sun ability) or knowing the Zenith move.
+S for saltimbocca?
+S for saltimbocca?
+Find performers (0/5)
+Find performers (0/5)
+Find performers (1/5)
+Find performers (1/5)
+Find performers (2/5)
+Find performers (2/5)
+Find performers (3/5)
+Find performers (3/5)
+Find performers (4/5)
+Find performers (4/5)
+Report to Madame S
+Report to Madame S
+Madame S wants some performers to entertain her guests. When travelling across Nekanta, try to find at least 5 people who can perform in a spectacle - clowns, acrobats, singers, dancers…
+Madame S wants some performers to entertain her guests. When travelling across Nekanta, try to find at least 5 people who can perform in a spectacle - clowns, acrobats, singers, dancers…
+S for shiny!
+S for shiny!
+Show a shiny sun Pokémon to madame S
+Show a shiny sun Pokémon to madame S
+Madame S is fairly impressed by you completing all of her errands. Impress her further by showing her a shiny “sun-related” Pokémon. Criteria : one of these Pokémon Joliflor le truc tournesol etc or one that can draw sun.
+Madame S is fairly impressed by you completing all of her errands. Impress her further by showing her a shiny “sun-related” Pokémon. Criteria : one of these Pokémon Joliflor le truc tournesol etc or one that can draw sun.
+Select a shiny pink or purple Pokémon
+Select a shiny pink or purple Pokémon
+Ch.4-C: Camosack tournament
+Ch.4-C: Camosack tournament
+Bat Pokémon on the Sun
+Bat Pokémon on the Sun
+A Scientist
+A Scientist
+Lend a Bat Pokémon
+Lend a Bat Pokémon
+Camosack PokéCenter
+Camosack PokéCenter
+A scientist inside Camosack PokéCenter wants to study effectfs of the Sun on Bat Pokémon. Lend him a Pokémon from one of these families: Zubat, Woobat, Noibat or Gligar.
+A scientist inside Camosack PokéCenter wants to study effectfs of the Sun on Bat Pokémon. Lend him a Pokémon from one of these families:  Zubat, Woobat, Noibat or Gligar.
+<b>\c[11]Madame S:</b>\c[0] You're always so sweet with me \pn, thank you!
+<b>\c[11]Madame S:</b>\c[0] You're always so sweet with me \pn, thank you!
+<b>\c[11]Madame S:</b>\c[0] Let me explain you how to pour more love to your Pokémon.
+<b>\c[11]Madame S:</b>\c[0] Let me explain you how to pour more love to your Pokémon.
+Madame S tell you about various techniques to get closer to your Pokémon
+Madame S tell you about various techniques to get closer to your Pokémon
+Pokémon relationship and egg hatch speed increased from {1}% to {2}% !
+Pokémon relationship and egg hatch speed increased from {1}% to {2}% !
+<b>\c[11]Madame S:</b>\c[0] Keep spreading love sweetie!
+<b>\c[11]Madame S:</b>\c[0] Keep spreading love sweetie!
+You've reached the current limit of your relationship with Madame S
+You've reached the current limit of your relationship with Madame S
+Complete her current quest to improve it further.
+Complete her current quest to improve it further.
+<b>\c[11]Madame S:</b>\c[0] ...you're lucky I love you, sweetie, 'cause I can't figure out why you would give me this...
+<b>\c[11]Madame S:</b>\c[0] ...you're lucky I love you, sweetie, 'cause I can't figure out why you would give me this...
+<b>\c[11]Madame S:</b>\c[0] Thank you sweetie!
+<b>\c[11]Madame S:</b>\c[0] Thank you sweetie!
+<b>\c[11]Madame S:</b>\c[0] Hey! Thank you sweetie, you know me well!
+<b>\c[11]Madame S:</b>\c[0] Hey! Thank you sweetie, you know me well!
+<b>\c[11]Madame S:</b>\c[0] Wow! You're definitely the sweetest! I hope it's not because you want something from me!
+<b>\c[11]Madame S:</b>\c[0] Wow! You're definitely the sweetest! I hope it's not because you want something from me!
+Your relation with Madame S doesn't change...
+Your relation with Madame S doesn't change...
+Rewards :<br> Pokémon happiness and egg hatching speed up with each ♥ level
+Rewards :<br>  Pokémon happiness and egg hatching speed up with each ♥ level
+Madame S absolutely needs to keep a good climate on Camosack. She needs more Pokémon able to do that. Give her a Pokémon with Drought or knowing the move Sunny Day.
+Madame S absolutely needs to keep a good climate on Camosack. She needs more Pokémon able to do that. Give her a Pokémon with Drought or knowing the move Sunny Day.
+Rewards: ???
+Rewards: ??? 
+Virtual Trainer
+Virtual Trainer
+%
+%
+°F
+°F
+°C
+°C
+Much Lower
+Much Lower
+Lower
+Lower
+Higher
+Higher
+Much Higher
+Much Higher
+Pkmn EVs Distribution Summary
+Pkmn EVs Distribution Summary
+(Currently:
+(Currently: 
+HP:
+<<n>>HP: 
+ATK:
+<<n>>ATK: 
+DEF:
+ DEF: 
+SPATK:
+<<n>>SPATK: 
+SPDEF:
+ SPDEF: 
+SPEED:
+ SPEED: 
+{1}'s EVs
+{1}'s EVs
+Set to the desired value.
+Set to the desired value.
+EVs (Currently:
+EVs (Currently: 
+Set to the desired value by going left or right.
+Set to the desired value by going left or right.
+Samy first training battle (lvl 35+)
+Samy first training battle (lvl 35+)
+Samy wants to train with you. Battle him at your Gym. His Pokémons will be around lvl 35. Note: you HAVE to win the battle to complete the quest
+Samy wants to train with you. Battle him at your Gym. His Pokémons will be around lvl 35. Note: you HAVE to win the battle to complete the quest
+Samy needs shards that you can find by mining glowing rocks. Collect and give to him 3 of each primary color (blue red green).
+Samy needs shards that you can find by mining glowing rocks. Collect and give to him 3 of each primary color (blue red green).
+Flower Troubles
+Flower Troubles
+A girl
+A girl
+Retrive the bag (lvl 32+)
+Retrive the bag (lvl 32+)
+Talk to the grandmother
+Talk to the grandmother
+A girl in your town miss a bag from home, after she wen away following a fight. Go to Titaga and retrieve it from her grandmother.
+A girl in your town miss a bag from home, after she wen away following a fight. Go to Titaga and retrieve it from her grandmother.
+<b>Cassian:</b>\pn you're a good kid, but... why would you give me that?
+<b>Cassian:</b>\pn you're a good kid, but... why would you give me that?
+<b>Cassian:</b> Thank you dear colleague!
+<b>Cassian:</b> Thank you dear colleague!
+<b>Cassian:</b> Wow! Thanks a lot \pn, I really like that!
+<b>Cassian:</b> Wow! Thanks a lot \pn, I really like that!
+<b>Cassian:</b> What?? My, \pn, I don't know what to say... You shouldn't have, it's too much! Thanks a lot!!
+<b>Cassian:</b> What?? My, \pn, I don't know what to say... You shouldn't have, it's too much! Thanks a lot!!
+Powering the Tunnel
+Powering the Tunnel
+Power on both floors (0/2)
+Power on both floors (0/2)
+Power on both floors (1/2)
+Power on both floors (1/2)
+Power Tunnel
+Power Tunnel
+The Power Tunnel doesn't have power anymore, what a shame! Cassian gave you a tool that can repair broken cables in the Tunnel. Repair them and activate the console on both floors.
+The Power Tunnel doesn't have power anymore, what a shame! Cassian gave you a tool that can repair broken cables in the Tunnel. Repair them and activate the console on both floors.
+First Rock rematch (lvl 45+)
+First Rock rematch (lvl 45+)
+Using a Heavy Ball
+Using a Heavy Ball
+Show a rock Pokémon in a heavy ball to Cassian
+Show a rock Pokémon in a heavy ball to Cassian
+Cassian explained to you the power of heavy balls to catch big Rock Pokémons. Try it and show him a rock Pokémon catched with a heavy ball.
+Cassian explained to you the power of heavy balls to catch big Rock Pokémons. Try it and show him a rock Pokémon catched with a heavy ball.
+Town General Infos
+Town General Infos
+Workers Status
+Workers Status
+City tasks - Tier 0
+City tasks - Tier 0
+City tasks - Tier 1
+City tasks - Tier 1
+City tasks - Tier 5
+City tasks - Tier 5
+City tasks - Tier 10
+City tasks - Tier 10
+City tasks - Tier 20
+City tasks - Tier 20
+City tasks - Tier 30
+City tasks - Tier 30
+City tasks - Tier 50
+City tasks - Tier 50
+City tasks - Tier 70
+City tasks - Tier 70
+<ac><b>Current Gym Rank:
+<ac><b>Current Gym Rank:
+Current funds:
+Current funds:
+; bonus per week:
+; bonus per week:
+Current fame:
+Current fame:
+Total number of workers:
+Total number of workers:
+(more infos next page)
+(more infos next page)
+<ac><b>Workers:</ac></b>
+<ac><b>Workers:</ac></b>
+Worker 1: Franck ;
+Worker 1: Franck ;
+Worker 2: Melly's Father ;
+Worker 2: Melly's Father ;
+<ac><b>Fame 0 city tasks:</ac></b>
+<ac><b>Fame 0 city tasks:</ac></b>
+Not bought (
+Not bought (
+; bonus per week: +
+; bonus per week: +
+Fame Level:
+Fame Level:
+Progression on this level:
+Progression on this level:
+Total fame points:
+Total fame points:
+more infos next page
+more infos next page
+<ac><b>Gym Rank:
+<ac><b>Gym Rank:
+$ bonus per week)
+$ bonus per week)
+bonus per week)
+ bonus per week)
+Worker 1: Franck</ac>
+Worker 1: Franck</ac>
+Working on:
+Working on:
+Currently available
+Currently available
+Worker 2: Melly's Father</ac>
+Worker 2: Melly's Father</ac>
+Gym Rank
+Gym Rank
+Worker 1: Franck
+Worker 1: Franck
+Worker 2: Melly's Father
+Worker 2: Melly's Father
+City tasks - Tier 5 1/2
+City tasks - Tier 5 1/2
+City tasks - Tier 5 2/2
+City tasks - Tier 5 2/2
+City tasks - Tier 10 1/2
+City tasks - Tier 10 1/2
+City tasks - Tier 10 2/2
+City tasks - Tier 10 2/2
+City tasks - Tier 20 1/2
+City tasks - Tier 20 1/2
+City tasks - Tier 20 2/2
+City tasks - Tier 20 2/2
+City tasks - Tier 30 1/2
+City tasks - Tier 30 1/2
+City tasks - Tier 30 2/2
+City tasks - Tier 30 2/2
+City tasks - Tier 50 1/2
+City tasks - Tier 50 1/2
+City tasks - Tier 50 2/2
+City tasks - Tier 50 2/2
+City tasks - Tier 70 1/2
+City tasks - Tier 70 1/2
+City tasks - Tier 70 2/2
+City tasks - Tier 70 2/2
+Your Gym or his Flat
+Your Gym or his Flat
+Dept.Store - Floor 3 opening
+Dept.Store - Floor 3 opening
+<i>Prerequisites: Dept. Store 2-1.</i><<n>>Opens the third floor of the Dept. Store (Battle items & Stones).
+<i>Prerequisites: Dept. Store 2-1.</i><<n>>Opens the third floor of the Dept. Store (Battle items & Stones).
+Unlocks these items:<<n>>- Battle items: X Attack, X Defense, X Sp. Atk, X Sp. Def, X Speed, X Accuracy<<n>>- Stones: Fire Stone, Water Stone, Leaf Stone, Thunder Stone, Ice Stone.
+Unlocks these items:<<n>>- Battle items: X Attack, X Defense, X Sp. Atk, X Sp. Def, X Speed, X Accuracy<<n>>- Stones: Fire Stone, Water Stone, Leaf Stone, Thunder Stone, Ice Stone.
+Dept.Store - Floor 2 Lvl. 2
+Dept.Store - Floor 2 Lvl. 2
+<i>Prerequisites: Dept. Store 2-1.</i><<n>>Upgrades the second floor of the Department Store (Exploration items & Berries).
+<i>Prerequisites: Dept. Store 2-1.</i><<n>>Upgrades the second floor of the Department Store (Exploration items & Berries).
+Unlocks these items:<<n>>- Exploration Items: Honey<<n>>- Berries: Grepa, Hondew, Kelpsy, Pomeg, Qualot, Tamato
+Unlocks these items:<<n>>- Exploration Items: Honey<<n>>- Berries: Grepa, Hondew, Kelpsy, Pomeg, Qualot, Tamato
+Dept.Store - Floor 1 Lvl. 3
+Dept.Store - Floor 1 Lvl. 3
+<i>Prerequisites: Dept. Store 1-2.</i><<n>>Upgrades the first floor of the Department Store (Medicines & Balls).
+<i>Prerequisites: Dept. Store 1-2.</i><<n>>Upgrades the first floor of the Department Store (Medicines & Balls).
+Unlocks these items:<<n>>- Medicines: Ice Heal, Revive<<n>>- Balls: Dusk ball, Filet Ball, Dive Ball, Lure Ball
+Unlocks these items:<<n>>- Medicines: Ice Heal, Revive<<n>>- Balls: Dusk ball, Filet Ball, Dive Ball, Lure Ball
+Gym Welcoming - Lvl.2
+Gym Welcoming - Lvl.2
+<i>Prerequisites: Gym Welcoming - Lvl.1.</i><<n>>Send Marley in training to improve the odds of the challengers coming back after defeat.
+<i>Prerequisites: Gym Welcoming - Lvl.1.</i><<n>>Send Marley in training to improve the odds of the challengers coming back after defeat.
+Change the odds of challengers coming back:<<n>>- Come back once: 70% chances<<n>>- Come back twice: 20% -> 35%<<n>>- Come back 3 times and more: 0%<<n>><i>Marley will be unavailable for the next couple of days</i>
+Change the odds of challengers coming back:<<n>>- Come back once: 70% chances<<n>>- Come back twice: 20% -> 35%<<n>>- Come back 3 times and more: 0%<<n>><i>Marley will be unavailable for the next couple of days</i>
+Gym Exteriors - Lvl. 2
+Gym Exteriors - Lvl. 2
+<i>Prerequisites: Gym Exteriors - Lvl.1.</i><<n>>Improve your Gym exteriors, improving fame.
+<i>Prerequisites: Gym Exteriors - Lvl.1.</i><<n>>Improve your Gym exteriors, improving fame.
+Change the appearance of your Gym. Passive town fame +3 per week.
+Change the appearance of your Gym. Passive town fame +3 per week.
+<i>Prerequisites: Pokémon Center - Floor 1.</i><<n>>Opening of the Pokémon Center Mezzanine, give access to the Achievement System and improves tourism.
+<i>Prerequisites: Pokémon Center - Floor 1.</i><<n>>Opening of the Pokémon Center Mezzanine, give access to the Achievement System and improves tourism.
+Passive town income +$1000 per week.<<n>>Unlocks the Achievement System, split into General Achievements and Pokedex Progression. Earn exclusive rewards when reaching 25%, 50% and 100% of each achievement.
+Passive town income +$1000 per week.<<n>>Unlocks the Achievement System, split into General Achievements and Pokedex Progression. Earn exclusive rewards when reaching 25%, 50% and 100% of each achievement.
+Pokémon Lab - Lvl.4
+Pokémon Lab - Lvl.4
+<i>Prerequisites: Pokémon Lab 3.</i><<n>>Unlocks the urbanist and greatly improves tourism.
+<i>Prerequisites: Pokémon Lab 3.</i><<n>>Unlocks the urbanist and greatly improves tourism.
+Passive town income +$2000 per week.<<n>>Replace the bed upstairs with the urbanist office. Allows you to customize the appearance of your town's buildings.
+Passive town income +$2000 per week.<<n>>Replace the bed upstairs with the urbanist office. Allows you to customize the appearance of your town's buildings.
+Block n°1
+Block n°1
+<i>Prerequisites: Clearing Block 1.</i><<n>>Build the first block, giving a flat to Samy.
+<i>Prerequisites: Clearing Block 1.</i><<n>>Build the first block, giving a flat to Samy.
+- Samy will be glad!<<n>>- Visit the block to find some items, and a new quest.
+- Samy will be glad!<<n>>- Visit the block to find some items, and a new quest.
+<i>Prerequisites: Clearing Block 1.</i><<n>>Clears the wreckage on the House 2.
+<i>Prerequisites: Clearing Block 1.</i><<n>>Clears the wreckage on the House 2.
+Allows you to build the House 2 afterwards.
+Allows you to build the House 2 afterwards.
+Safari Park - Lvl.1
+Safari Park - Lvl.1
+<i>Prerequisites: Clearing Safari Park.</i><<n>>Opens the Safari Park, with exclusive Pokémon.
+<i>Prerequisites: Clearing Safari Park.</i><<n>>Opens the Safari Park, with exclusive Pokémon.
+Available Pokémon:<<n>>Chingling, Magby, Paras, Drowzee, Shuckle, Bonsly, Spinarak, Exeggcute, Heracross, Mantyke, Carvanha, Flamigo, Alomomola, Phanpy, Tympole. OldRod: Tentacool ; GoodRod: Clamperl, Veluza ; SuperRod: Luvdisc, Clauncher ; Surf: Tentacruel, Clamperl, Veluza
+Available Pokémon:<<n>> Chingling, Magby, Paras, Drowzee, Shuckle, Bonsly, Spinarak, Exeggcute, Heracross, Mantyke, Carvanha, Flamigo, Alomomola, Phanpy, Tympole. OldRod: Tentacool ; GoodRod: Clamperl, Veluza ; SuperRod: Luvdisc, Clauncher ; Surf: Tentacruel, Clamperl, Veluza
+Clearing - Clothes Shop
+Clearing - Clothes Shop
+Clears the wreckage on the Clothes Shop.
+Clears the wreckage on the Clothes Shop.
+Allows you to build the Clothes Shop afterwards.
+Allows you to build the Clothes Shop afterwards.
+Clears the wreckage on the Casino.
+Clears the wreckage on the Casino.
+Allows you to build the Casino afterwards.
+Allows you to build the Casino afterwards.
+Clears the wreckage on the Harbor.
+Clears the wreckage on the Harbor.
+Allows you to build the Harbor afterwards.
+Allows you to build the Harbor afterwards.
+Achievement Reached!<<n>>{1} Level {2}
+Achievement Reached!<<n>>{1} Level {2}
+So you want {1}?<<n>>It'll be ${2}. All right?
+So you want {1}?<<n>>It'll be ${2}. All right?
+Achievement Reached!<<n>>{1} Level {2}.
+Achievement Reached!<<n>>{1} Level {2}.
+You've unlocked a new roof color for your house and another building at the urbanist!
+You've unlocked a new roof color for your house and another building at the urbanist!
+You've unlocked a new outfit at the Clothes Shop!
+You've unlocked a new outfit at the Clothes Shop!
+Your relationship with Maple is maxed out! I can't go higher!
+Your relationship with Maple is maxed out! I can't go higher!
+Your relationship with Marley is maxed out! I can't go higher!
+Your relationship with Marley is maxed out! I can't go higher!
+Your relationship with Melly is maxed out! I can't go higher!
+Your relationship with Melly is maxed out! I can't go higher!
+Your relationship with Samy is maxed out! I can't go higher!
+Your relationship with Samy is maxed out! I can't go higher!
+Your relationship with Kiana is maxed out! I can't go higher!
+Your relationship with Kiana is maxed out! I can't go higher!
+Your relationship with \<<r>>n is maxed out! I can't go higher!
+Your relationship with \<<r>>n is maxed out! I can't go higher!
+Your relationship with the Nurses is maxed out! I can't go higher!
+Your relationship with the Nurses is maxed out! I can't go higher!
+Your relationship with Madame S is maxed out! I can't go higher!
+Your relationship with Madame S is maxed out! I can't go higher!
+Your relationship with Tom is maxed out! I can't go higher!
+Your relationship with Tom is maxed out! I can't go higher!
+Your relationship with the Normal Leader is maxed out! I can't go higher!
+Your relationship with the Normal Leader is maxed out! I can't go higher!
+Your relationship with Kathleen is maxed out! I can't go higher!
+Your relationship with Kathleen is maxed out! I can't go higher!
+Your relationship with Cassian is maxed out! I can't go higher!
+Your relationship with Cassian is maxed out! I can't go higher!
+Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her 3 of these berries: Cheri Chesto Pecha Rawst Aspear and Oran
+Madame S is running low on some berries and soon won’t be able to serve all her cocktails. Help her by giving her 3 of these berries: Cheri Chesto Pecha Rawst Aspear and Oran
+S for samba?
+S for samba?
+Select a shiny Pokémon living in caves
+Select a shiny Pokémon living in caves
+<fs=12>{1}/{2}</fs>
+<fs=12>{1}/{2}</fs>
+What's better than a good old basic gym battle?
+What's better than a good old basic gym battle?
+Is this normal ?
+Is this normal ?
+I'm stronger now! One of my pokemon just evolved!
+I'm stronger now! One of my pokemon just evolved!
+I WON CAUSE I'M COOL !!!
+I WON CAUSE I'M COOL !!!
+Yes, i'm cool. I know it.
+Yes, i'm cool. I know it.
+The coolest won !
+The coolest won !
+I still love Rats!
+I still love Rats!
+A Ratical victory! Héhé, Ratical, do you get it?
+A Ratical victory! Héhé, Ratical, do you get it?
+My personnal coach tell me Torkoal is really strong allongside a Ivysaur!
+My personnal coach tell me Torkoal is really strong allongside a Ivysaur!
+As expected once again!
+As expected once again!
+My big bro teachs me a very cool strat and i'm pretty sure i understood everything!
+My big bro teachs me a very cool strat and i'm pretty sure i understood everything!
+IT WORKS!!!
+IT WORKS!!!
+I told my dad i wanted a cute pokemon but i insisted i need a pokemon to protect me...
+I told my dad i wanted a cute pokemon but i insisted i need a pokemon to protect me...
+But i still like him!
+But i still like him!
+I LOST MY SON JEREMY. DO YOU SEE HIM???
+I LOST MY SON JEREMY. DO YOU SEE HIM???
+JEREMY WHERE ARE YOU???
+JEREMY WHERE ARE YOU???
+The way of the pillow has no end!
+The way of the pillow has no end!
+A good night's sleep will help you forget this defeat.
+A good night's sleep will help you forget this defeat.
+I promise that ALL our products are healthy!
+I promise that ALL our products are healthy!
+Fries with that?
+Fries with that?
+I want to picture the union between the ground and the sky!
+I want to picture the union between the ground and the sky!
+This battle has greatly inspired me. Thank you!
+This battle has greatly inspired me. Thank you!
+I'm from Pastoria, close to the Great Marsh. Let me introduce local Pokémon!
+I'm from Pastoria, close to the Great Marsh. Let me introduce local Pokémon!
+You should visit us!
+You should visit us!
+I'm a caretaker at first but a fighter noneless!
+I'm a caretaker at first but a fighter noneless!
+And a even better fighter!
+And a even better fighter!
+Do not fear love sweet child!
+Do not fear love sweet child!
+Just ask her out!
+Just ask her out!
+Let me teach you some élégance!
+Let me teach you some élégance!
+Did you take notes? You should...
+Did you take notes? You should...
+My Favorite Pokémon? I don't have one.
+My Favorite Pokémon? I don't have one.
+I SWEAR I DON'T!
+I SWEAR I DON'T!
+I got a very smart strategy!
+I got a very smart strategy!
+Hahahaha! It works!!!
+Hahahaha! It works!!!
+I'm... FAST!!!
+I'm... FAST!!!
+I speedrun winning!
+I speedrun winning!
+Fear me!
+Fear me!
+Another victory for the dark side!
+Another victory for the dark side!
+A good trainer use Pokémon in battle and in everyday life!
+A good trainer use Pokémon in battle and in everyday life!
+Not bad right?
+Not bad right?
+It's not the weekend. You can't go to Camosack!
+It's not the weekend. You can't go to Camosack!
+Ready to hatch!
+Ready to hatch!
+1 step remaining
+1 step remaining
+{1} steps remaining
+{1} steps remaining
+This Egg is ready to hatch!
+This Egg is ready to hatch!
+This Egg needs just 1 more step to hatch!
+This Egg needs just 1 more step to hatch!
+This Egg is very close to hatching! Only {1} steps remain.
+This Egg is very close to hatching! Only {1} steps remain.
+This Egg is getting close to hatching. {1} steps remain.
+This Egg is getting close to hatching. {1} steps remain.
+This Egg still needs {1} steps to hatch.
+This Egg still needs {1} steps to hatch.
+Egg steps overlay hidden.
+Egg steps overlay hidden.
+Egg steps overlay shown.
+Egg steps overlay shown.
+Slot {1}: {2} steps ({3}%)
+Slot {1}: {2} steps ({3}%)
+No eggs in party.
+No eggs in party.
+Pesky Birds
+Pesky Birds
+A man
+A man
+Bring the ingredients to the man
+Bring the ingredients to the man
+A house in Titaga
+A house in Titaga
+A man in Titaga is struggling with birds eating his berries. Bring him 5 Coba Berry, 3 Energy Powder, and a Guard Spec so he can try a recipe to repel flying Pokémon.
+A man in Titaga is struggling with birds eating his berries. Bring him 5 Coba Berry, 3 Energy Powder, and a Guard Spec so he can try a recipe to repel flying Pokémon.
+Retrive the bag (lvl 35+)
+Retrive the bag (lvl 35+)
+In Memoriam
+In Memoriam
+Elder
+Elder
+Go to the Soul Shelter
+Go to the Soul Shelter
+Reach the well.
+Reach the well.
+Soul Shelter
+Soul Shelter
+Depths of the Soul Shelter
+Depths of the Soul Shelter
+An elder man seeks protection to go to the well in the depths of the Soul Shelter. Go escort him!
+An elder man seeks protection to go to the well in the depths of the Soul Shelter. Go escort him!
+Damn! That's a good groove!
+Damn! That's a good groove!
+Wowow! My rank 4 is really in danger there!
+Wowow! My rank 4 is really in danger there!

@@ -1,0 +1,391 @@
+﻿# Regardez la documentation sur le wiki pour savoir comment modifier ce fichier.
+#-------------------------------
+[YOUNGSTER,Norman,3]
+LoseText = Please, be normal dude!
+Items = POTION
+Pokemon = RATICATE,20
+    Name = John
+    Gender = Male
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+Pokemon = JIGGLYPUFF,18
+    Name = Britney
+    Gender = Female
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+Pokemon = KANGASKHAN,17
+    Name = Bob
+    Gender = Male
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36			
+#-------------------------------
+[YOUNGSTER,Jason,3]
+LoseText: Still not enough !
+Pokemon = VULPIX,19
+    Form = 0
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL
+Pokemon = GLOOM,21
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL
+Pokemon = FLITTLE,17
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL			
+#-------------------------------
+[IDOL,Morgane,3]
+LoseText = Not cool enough...
+Items = POTION
+Pokemon = FLOETTE, 21
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+Pokemon = KIRLIA, 22
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36			
+#-------------------------------
+[SCHOOLGIRL,Vanessa,3]
+LoseText: Oh no! my precisous rats!!!
+Pokemon = RATTATA,20
+    Form = 1
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL
+Pokemon = RATTATA,17
+    Form = 0
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL
+Pokemon = DEDENNE,18
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL
+Pokemon = PIKACHU,18
+     IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL
+Pokemon = WATCHOG,20
+     IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+    Ball = POKEBALL				
+#-------------------------------
+[RICHBOY,Philibert,3]
+LoseText = It feel like i forgot something...
+Items = FULLRESTORE
+Pokemon = TORKOAL, 19
+    AbilityIndex = 0
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36 
+Pokemon = IVYSAUR, 22
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36		
+#-------------------------------
+[PRESCHOOLERGIRL,Lilou,3]
+LoseText = I should have taked notes...
+Pokemon =  TAILLOW, 1
+    MOVES = ENDEAVOR, QUICKATTACK 
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36 
+Pokemon = ARON,18
+    MOVES= ENDEAVOR, TOXIC, PROTECT
+    ITEM = SHELLBELL
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36
+Pokemon = RATTATA, 19
+    MOVES = TAKEDOWN, BITE, FOCUSENERGY, ENDEAVOR
+    ITEM= FOCUSSASH
+    IV = 13,13,13,13,13,13 
+    EV = 36,36,36,36,36,36			
+#-------------------------------
+[POKEKID,Jeremy,3]
+LoseText = But i still like him!
+Items = POTION
+Pokemon = PINSIR,22
+    Name = PINPIN
+    Moves = BUGBITE, STORMTHROW, VISEGRIP, BRUTALSWING
+    AbilityIndex = 2
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = ULTRABALL			
+#-------------------------------
+[POKEFANMALE,Dan,3]
+LoseText = JEREMY WHERE ARE YOU ???
+Items = POTION
+Pokemon = SHUCKLE, 18
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = ULTRABALL
+Pokemon = CHANSEY, 19
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = ULTRABALL
+Pokemon = SABLEYE, 20
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    Ball = ULTRABALL				
+#-------------------------------
+[PUNKTRAINERFEMALE,Lysa,3]
+LoseText = He looks like sleeping...
+Items = SUPERPOTION
+Pokemon = SNORLAX,25
+    Name = The Naper
+    Gender = Male
+    Moves = REST,YAWN,COVET,BULLDOZE
+    AbilityIndex = 1
+    Item = CHESTOBERRY
+    IV = 15,15,15,15,15,15 
+    EV = 40,40,40,40,40,40
+    Ball = DREAMBALL				
+#-------------------------------
+[BELLHOP,George,3]
+LoseText = The boss laywer said it's healthy...
+Items = POTION
+Pokemon = ARBOK,20
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = GOLBAT,22
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = CLODSIRE,21
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = BEEDRILL,23
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35			
+#-------------------------------
+[PAINTER,Jake,3]
+LoseText = This battle has greatly inspired me. Thank you!
+Pokemon = STARAVIA,19
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = SILICOBRA,21
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35 
+Pokemon = GLISCOR,23
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    ITEM = ORANBERRY			
+#-------------------------------
+[LASS,Noémie,3]
+LoseText = Wow! Nekanta's Pokemon are impressive to!
+Pokemon = QUAGSIRE,21
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = TROPIUS,21
+    AbilityIndex = 0
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35 
+Pokemon = KANGASKHAN,22
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    ITEM = ORANBERRY
+Pokemon = CROAGUNK,22
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    ITEM = ORANBERRY				
+#-------------------------------
+[POKEMONBREEDERMALE,John,3]
+LoseText = Okay, maybe a better caretaker than a fighter...
+Pokemon = CHANSEY,20
+    MOVES = CHARM, METRONOME, PRESENT, SEISMICTOSS
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35 
+    ITEM = LEFTOVER
+Pokemon = SYLVEON,24
+    MOVES = TACKLE, WISH, CHARM, FAIRYWIND
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = DOLLIV,23
+    MOVES = MEGADRAIN, GRASSYTERRAIN, TACKLE, ENDEAVOR
+    ABILITYINDEX = 1
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+    ITEM = ORANBERRY				
+#-------------------------------
+[KIMONOGIRL,Sakura,3]
+LoseText = What about this young trainer in your gym?
+Pokemon = MILTANK,23
+    MOVES = ATTRACT, STOMP, ROLLOUT, DEFENSECURL
+    GENDER = Male
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35 
+Pokemon = CLEFAIRY,23
+    ABILITYINDEX = 0
+    GENDER = Female
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = LOPUNNY,24
+    ABILITYINDEX = 0
+    GENDER = Male
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = CINCCINO,25
+    ABILITYINDEX = 0
+    GENDER = Female
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35			
+#-------------------------------
+[GENTLEMAN,Hubert,3]
+LoseText = Your élégance has no limit! 
+Pokemon = KIRLIA,22
+    NAME = Grace
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35 
+Pokemon = LYCANROC,23
+    NAME = Dignité
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = MIENFOO,24
+    NAME = Combativité
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35
+Pokemon = HONCHKROW,24
+    NAME = Respectabilité 
+    IV = 12,12,12,12,12,12 
+    EV = 35,35,35,35,35,35			
+#-------------------------------
+[DANCER,Louisa,3]
+LoseText = That's a coincidence...
+Items = SUPERPOTION
+Pokemon = UMBREON, 23
+    Shiny = yes
+    AbilityIndex = 0
+    Moves = WISH,BITE,CONFUSERAY,QUICKATTACK
+    Item = ORANBERRY
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = PREMIERBALL
+Pokemon = JOLTEON, 24
+    AbilityIndex = 0
+    Moves = ROAR,SWIFT,THUNDERWAVE,ELECTROWEB
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = PREMIERBALL
+Pokemon = VAPOREON, 25
+    AbilityIndex = 0
+    Moves = SWIFT,WATERPULSE,HAZE,ICYWIND
+    Item = ORANBERRY
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = PREMIERBALL
+Pokemon = ESPEON, 26
+    AbilityIndex = 1
+    Moves = PSYCHICTERRAIN,PSYBEAM,MAGICALLEAF,COPYCAT
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = PREMIERBALL			
+#-------------------------------
+[DELINQUENT,Barry,3]
+LoseText = Oh... Damn...
+Pokemon = GRAVELER,25
+    Name = BOOM
+    Moves = SELFDESTRUCT
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35
+Pokemon = SOLROCK,24
+    Name =  BADABOOM
+    Moves = SELFDESTRUCT
+    ITEM = FOCUSSASH
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35
+Pokemon = VOLTORB,24
+    Name = KABOOM
+    Moves = SELFDESTRUCT
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35
+Pokemon = GRAVELER,25
+    Name = RE-BOOM
+    Moves = SELFDESTRUCT
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35				
+#-------------------------------
+[JOGGER,MacKing,3]
+LoseText = My girlfriend always tell me it's not that cool...
+Pokemon = NINJASK,24
+    Moves = AERIALACE,FURYCUTTER,DOUBLETEAM,METALCLAW
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35
+    BALL = QUICKBALL
+Pokemon = BARRASKEWDA,25
+    Moves = BITE,AQUAJET,DIVE,ICEFANG
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35
+    BALL = QUICKBALL
+Pokemon = AERODACTYL,26
+    Moves = AERIALACE,ROOST,ROCKSLIDE,ROCKSMASH
+    Nature = HASTY
+    IV = 12,12,12,12,12,18
+    EV = 35,35,35,35,35,35
+    BALL = QUICKBALL				
+#-------------------------------
+[BIKER,Timéo,3]
+LoseText = Why do you mean it's a lame strat???
+Items = SUPERPOTION
+Pokemon = SNEASEL,24
+    Name = DARKNESS
+    Moves = BITE,TRIPLEAXEL,ICESHARD,FAKEOUT
+    Item = KINGSROCK
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = DUSKBALL
+Pokemon = TOGEKISS,25
+    Name = SADISM
+    Moves = AIRSLASH
+    AbilityIndex = 0
+    Item = KINGSROCK
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = DUSKBALL
+Pokemon = CINCCINO,25
+    Name = NIGHTMARE
+    Moves = TAILSLAP,BULLETSEED,ROCKBLAST,SING
+    AbilityIndex = 2
+    Item = KINGSROCK
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = DUSKBALL			
+#-------------------------------
+[BUTLER,Phil,3]
+LoseText = Great match kid!
+Items = SUPERPOTION
+Pokemon = TINKATUFF,24
+    Name = Handyman
+    AbilityIndex = 0
+    Moves = ROCKSMASH,REFLECT,METALCLAW,BRUTALSWING
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = PREMIERBALL
+Pokemon = MAUSHOLD,26
+    Name = Cleaner
+    AbilityIndex = 2
+    Moves = BULLETSEED,ENCORE,SUPERFANG,TIDYUP
+    Item = ORANBERRY
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = POKEBALL
+Pokemon = SCYTHER,25
+    Name = Gardener
+    AbilityIndex = 1
+    Moves = AERIALACE,FURYCUTTER,SWORDSDANCE,QUICKATTACK
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = GREATBALL
+Pokemon = BOLTUND,25
+    Name = Watchdog
+    AbilityIndex = 0
+    Moves = NUZZLE,BITE,FIREFANG,THUNDERFANG
+    Item = MAGNET
+    IV = 14,14,14,14,14,14
+    EV = 37,37,37,37,37,37
+    Ball = QUICKBALL			

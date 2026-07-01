@@ -2,26 +2,48 @@
 # translate every second line of this file.
 #-------------------------------
 [Map008]
-<b>Dept.Store employee:</b> Hello \pn! Sorry you can't enter right now.
-<b>Vendeuse:</b> Bonjour \pn ! Désolé tu ne peux pas entrer maintenant.
-<b>Dept.Store employee:</b> The earthquake didn't destroy the building but made a mess inside. Our stocks are gone.
-<b>Vendeuse:</b> Le séisme n’a pas détruit le bâtiment mais a détruit tous nos stocks.
-<b>Dept.Store employee:</b> You'll have to ask for reparations from the Town Development Project!
-<b>Vendeuse:</b> Tu vas devoir demander des réparations depuis le Projet de Reconstruction de Ville !
-<b>Dept.Store employee:</b> How are you \pn? I can't wait for our reopening!
-<b>Vendeuse:</b> Comment vas-tu \pn ? J’ai vraiment hâte de notre réouverture !
-<b>Student:</b> Can't wait to learn everything about Pokémon battles!!
-<b>Etudiante:</b> J'ai hâte de tout apprendre sur les combats Pokémon !!
-<b>\c[9]Melly:</b>\c[0] The weekend is nice! H...how do you spend it \pn?
-<b>\c[9]Melly:</b>\c[0] Le weekend c'est cool ! Qu...qu'est-ce que tu fais de beau, toi, \pn?
-You already gave a gift to Melly this week!
-Vous avez déjà donné un cadeau à Melly cette semaine !
+<b>Student:</b> Hiiii! I love to chill outside!
+<b>Etudiant:</b> Saluuuut ! J'adore me relaxer au soleil !
+<b>Student:</b> Isn’t flowers beautiful???
+<b>Etudiant:</b> Les fleurs sont trop belles, non ?
+<b>Student:</b> Yes right? Here, take this!
+<b>Etudiant:</b> Si hein, on est d'accord ? Tiens, prends ça !
+<b>Student:</b> See ya!
+<b>Etudiant:</b> A plus !
+...
+...
+<b>Student:</b> I’m Marie! Hi!
+<b>Etudiant:</b> Moi c'est Marie ! Salut !
+<b>Student:</b> Eeh? My full name is Marie Nelson, why?
+<b>Etudiant:</b> Euuh ? Mon nom complet est Marie Nelson, pourquoi ?
+<b>Student:</b> What? I don’t think so…
+<b>Etudiant:</b> Quoi ? Je crois pas...
+<b>Student:</b> Are you sure?
+<b>Etudiant:</b> T'es sûr ?
+<b>Student:</b> But? No I don’t!
+<b>Etudiant:</b> Mais ? Mais non !
+<b>Student:</b> Are you out of your mind?
+<b>Etudiant:</b> T'as perdu la tête ?
+<b>Student:</b> I don’t have it !
+<b>Etudiant:</b> Je ne l'ai pas !
+^ Route 1\n< Route 2
+^ Route 1\n< Route 2
+<b>Student:</b> Ha! Take this!
+<b>Student:</b> Ha ! Prends ça !
+<b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
+<b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au limieu d'un combat là...
+<b>Student:</b> I’m not done yet!
+<b>Etudiant:</b> J'ai pas encore perdu !
+<b>Student:</b> Oh hi, my name is Justine, sorry I’m busy!
+<b>Etudiant:</b> Oh salut, mon nom est Justine, désolée je suis occupée !
+<b>Student:</b> Justine Cruz now let me be please!
+<b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
 You should search for <b>\c[9]Melly</b>\c[0] at the Route 1 first.
 Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
+Do you want to see explanations on the ingame time system ? (day/night cycle, weekdays...)
+Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/nuit, jours de la semaine…)
 <b>Student:</b> Haha! Let’s go guys!
 <b>Etudiant:</b> Haha ! Aller les gens !
-...
-...
 <b>Student:</b> I’m Mark Morton now let’s me watch the match.
 <b>Etudiant:</b> Je suis Mark Morton, maintenant laisse moi regarder ce match.
 <b>Student:</b> Hmm? Yeah maybe but can you just leave me alone?
@@ -44,24 +66,116 @@ Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
 <b>Etudiant:</b> Je viendrai te voir combattre dans l'Arène !
 <b>Student:</b> Hello Leader how are you?
 <b>Etudiant:</b> Salut Leader, comment vas-tu ?
-<b>Franck:</b> Hey \pn! The Pokémon Center is nearly finished!
-<b>Franck:</b> Hey \pn ! Le Centre Pokémon est presque terminé !
-<b>Tourist:</b> Wow!! This academy is really beautiful!
-<b>Touriste:</b> Wow !! Cette académie est si jolie !
+\c[5]Lady: Hello and welcome to the beauty Market!
+\c[5]Lady: Hello and welcome to the beauty Market!
+\c[5]Lady: Here you can find various shops to help you and your Pokémons become more relaxed and beautiful!
+\c[5]Lady: Here you can find various shops to help you and your Pokémons become more relaxed and beautiful!
+\c[5]Lady: I myself sell clothes that you can try inside. Do you want to see my stocks?
+\c[5]Lady: I myself sell clothes that you can try inside.  Do you want to see my stocks?
+\c[3]WIP : clothes store
+\c[3]WIP : clothes store
+\c[5]Lady: Okay but do come see next time!
+\c[5]Lady: Okay but do come see next time!
+\c[5]Lady: Hello! Do you want to buy clothes?
+\c[5]Lady: Hello! Do you want to buy clothes?
+\c[5]Lady: I have better clothes now! Do you want to see it?
+\c[5]Lady: I have better clothes now! Do you want to see it?
+\c[3]WIP : clothes store lvl2
+\c[3]WIP : clothes store lvl2
 <b>Tourist:</b> Oh, this town is really charming!
 <b>Touriste:</b> Oh, cette ville est vraiment charmante !
-<b>Lady:</b> Humpf! This is far from being fancy in here…
-<b>Dame:</b> Humpf! C’est loin d’être chic ici…
-<b>Lady:</b> I must admit, this town gets fancier by the day…
-<b>Dame:</b> Je dois admettre, cet endroit devient de plus en plus chic…
+<b>Pascal:</b> One Two One Two... Hey \pn, do you stay fit??
+<b>Pascal:</b> One Two One Two... Hey \pn, do you stay fit??
+<b>Tourist</b> My! What a cute little park!
+<b>Touriste:</b> Oh ! Quel joli petit parc !
+<b>Beauty:</b> Hello dear~
+<b>Canon:</b> Bonjour toi~
+<b>Beauty:</b> I can take care of one of your Pokémon for a super small tiny price~
+<b>Canon:</b> Je peux m'occuper d'un de tes Pokémon pour un tout petit riquiqui prix~
+<b>Beauty:</b> This will make them more relaxed and happy! Do you want to try?
+<b>Canon:</b> Cela les rendra plus détendus et heureux ! Tu veux essayer ?
+<b>Beauty:</b> What a shame~~ Come back soon darling !
+<b>Canon:</b> Quel dommage~~ Reviens quand tu veux trésor!
+<b>Beauty:</b> Okay~~ Come here darling~
+<b>Canon:</b> Okay~~ Viens ici mon trésor~
+You wait a few minutes...
+Vous attendez quelques minutes...
+<b>Beauty:</b> This little thing seems really relaxed! I'm sure its happier now!
+<b>Canon:</b> Cette petite chose a l'air vraiment détendue ! Je suis sûr que son bonheur s'est amélioré !
+<b>Beauty:</b> Hello dear~ Do you want me to take care of a Pokémon ?
+<b>Canon:</b> Bonjour toi~ Tu veux que je m'occupe d'un Pokémon ?
+<b>Amanda:</b> Hello \pn how are you ?
+<b>Amanda:</b> Bonjour \pn comment ça va ?
+<b>Amanda:</b> I can't believe how much you've grown already !
+<b>Amanda:</b> J'arrive pas à croire à quel point tu as grandi !
+<b>Ernest:</b> Hello young \pn, how are you?
+<b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ?
+<b>Ernest:</b> It’s amazing to have this park again! The grandchildren love it!
+<b>Ernest:</b> C'est incroyable de pouvoir à nouveau profiter de ce parc ! Les petits l'adorent !
+<b>Ernest:</b> Say, my dear \pn, can I ask you something?
+<b>Ernest:</b> Dis moi, cher Leader, puis-je te demander quelque chose ?
+<b>Ernest:</b> I want to give my grandchildren a gift. Do you have Poké Dolls ?
+<b>Ernest:</b> J'aimerais offrir un cadeau à mes petits-enfants. Est-ce que tu as des Poké Poupées ?
+<b>Ernest:</b> I would need 2 obviously. I will trade it for 5 Ultra Balls! Interested?
+<b>Ernest:</b> Il m'en faudrait 2 évidemment. Je te les échangerais contre 5 Hyper Balls ! Intéressé ?
+Do you want to give Ernest two Poké Dolls?
+Voulez-vous donner 2 Poké Poupées à Ernest ?
+You give two Poké Dolls to Ernest.
+Vous donnez 2 Poké Poupées à Ernest.
+<b>Ernest:</b> Thanks a lot! The kids will be so happy!
+<b>Ernest:</b> Merci Beaucoup ! Les enfants seront vraiment contents !
+<b>Ernest:</b> See you around \pn, dear Leader!
+<b>Ernest:</b> On se voit plus tard, \pn, cher Leader !
+You don't have enough Poké Dolls !
+Vous n'avez pas assez de Poké Poupées !
+<b>Ernest:</b> Not interested? I’m here if you change your mind!
+<b>Ernest:</b> Pas intéressé ? Je suis là si tu changes d'avis !
+<b>Ernest:</b> Hello young \pn, how are you? Thanks again for the Poké Dolls!
+<b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ? Merci encore pour les Poké Poupées !
+Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
+Girl: Bonjour!!! Je veux voir des Pokémon !!! Je veux voir des Pokémon <b>Heureux</b> !!!
+Girl: DO YOU HAVE A <b>HAPPY</b> POKÉMON???
+Girl: TU AS DES POKÉMON <b>HEREUX</b> ???
+<b>Girl:</b> WHYYYYYYYYYYYY???????????
+<b>Girl:</b> POURQUOI ???????????????????
+<b>Girl:</b> OH. MY. GAWDDDDDDDDD!!!!!!!!! It's so happy!!!! It loves you really really a lot!!!
+<b>Girl:</b> OH. MON. DIEU!!!!!!!!! Il est si heureux !!!! Il t'aime vraiment vraiment beaucoup !!!
+<b>Girl:</b> Thank you for showing me your incredible bond!!! I'M HONORED!!!!! TAKE THIS!!!!!!!!!!!!
+<b>Girl:</b> Merci de m'avoir montré votre incroyable lien !!! JE SUIS HONORÉÉ !!!!! PRENDS ÇA !!!!!!!!!!!!
+<b>Girl:</b> Heyyy!!! It really likes you!! You're close to being really inseparables!
+<b>Girl:</b> Heyyy !!! Il t'apprécies vraiment !! Vous êtes presque inséparables !
+<b>Girl:</b> Hey! It's friendly towards you! It's like, kinda happy, but it could be better!
+<b>Girl:</b> Hey ! Il t'apprécies ! Il est, genre, plutôt heureux, mais ça pourrait être mieux !
+<b>Girl:</b> Eh, it's kinda cute but not really used to you...
+<b>Girl:</b> Eh, il est plutôt mignon mais il est pas trop habitué à toi...
+<b>Girl:</b> Eeeeeh... You should be nicer to it, it doesn't really like you...
+<b>Girl:</b> Eeeeeh... Tu devrais être plus gentil avec lui, il ne t'aime pas trop...
+<b>Girl:</b> Eeeeeeeh? It... it doesn't like you at all. What... What are you doing to it??? You meanie!!!
+<b>Girl:</b> Eeeeeeeh? Il... Il ne t'aime pas du tout. Qu...Qu'estce que tu lui fais ??? T'es trop méchant !!!
+Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</b> POKÉMON???
+Girl: EST-CE QUE TU AS <u>UN AUTRE</u> POKÉMON <b>HEUREUX</b> ???
+<b>Girl:</b> You're really an incredible trainer!!!! CONGRATS!!!!!!
+<b>Girl:</b> T'es vraiment un incroyable dresseur !!!! FÉLICITATIONS !!!!!!
+<b>Tourist:</b> So this is the \gt Gym huh ?
+<b>Touriste:</b> Donc voici l'arène \gt hein ?
+<b>Tourist:</b> I wonder what the Leader is like...
+<b>Touriste:</b> Je me demande à quoi ressemble le Champion...
+<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
+<b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
+<b>Woman:</b> Oh ! The Day-Care is reachable again !
+<b>Femme:</b> Oh ! La Pension est de nouveau accessible !
+<b>Woman:</b> Should I take some of my Pokémon there ?
+<b>Femme:</b> Est-ce que je devrais y laisser des Pokémons ?
+<b>Rose:</b> \pn you’re it! Hehehe!
+<b>Rose:</b> \pn c'est toi le loup ! Hihihihi !
 <b>\c[10]Maple:</b>\c[0] Follow me \pn.
 <b>\c[10]Maple:</b>\c[0] Suis-moi \pn.
 <b>\c[10]Maple:</b>\c[0] Hello Franck!
 <b>\c[10]Maple:</b>\c[0] Bonjour Franck !
 <b>Franck:</b> Oh hello prof! And hello \pn!
 <b>Franck:</b> Oh bonjour Prof ! Et bonjour \pn !
-<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our - for now - one and only builder.
-<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre - pour l'instant - seul et unique travailleur.
+<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
+<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
 <b>\c[10]Maple:</b>\c[0] He is currently re-building the Pokémon Center.
 <b>\c[10]Maple:</b>\c[0] Il est en train de reconstruire le Centre Pokémon.
 <b>Franck:</b> And I will be finished soon!
@@ -92,66 +206,42 @@ Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
 <b>\c[10]Maple:</b>\c[0] Comme je le disais plus tôt, l’Arène fut endommagée. On a fait ce qu’on a pu.
 <b>\c[10]Maple:</b>\c[0] Let us go inside.
 <b>\c[10]Maple:</b>\c[0] Allons à l’intérieur.
-Do you want to see explanations on the ingame time system ? (day/night cycle, weekdays...)
-Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/nuit, jours de la semaine…)
-\c[5]Lady: Hello and welcome to the beauty Market!
-\c[5]Lady: Hello and welcome to the beauty Market!
-\c[5]Lady: Here you can find various shops to help you and your Pokémons become more relaxed and beautiful!
-\c[5]Lady: Here you can find various shops to help you and your Pokémons become more relaxed and beautiful!
-\c[5]Lady: I myself sell clothes that you can try inside. Do you want to see my stocks?
-\c[5]Lady: I myself sell clothes that you can try inside.  Do you want to see my stocks?
-\c[3]WIP : clothes store
-\c[3]WIP : clothes store
-\c[5]Lady: Okay but do come see next time!
-\c[5]Lady: Okay but do come see next time!
-\c[5]Lady: Hello! Do you want to buy clothes?
-\c[5]Lady: Hello! Do you want to buy clothes?
-\c[5]Lady: I have better clothes now! Do you want to see it?
-\c[5]Lady: I have better clothes now! Do you want to see it?
-\c[3]WIP : clothes store lvl2
-\c[3]WIP : clothes store lvl2
-<b>Klefki:</b> Klikliklikli!
-<b>Trousselin:</b> Tlitlitlitli!
+<b>Roger:</b> Hey \pn how are you?
+<b>Roger:</b> Hey \pn comment tu vas ?
+<b>Roger:</b> Better with your house built again I bet!
+<b>Roger:</b> Mieux depuis que ta maison a été reconstruite je parie !
+<b>Dept.Store employee:</b> Hello \pn! Sorry you can't enter right now.
+<b>Vendeuse:</b> Bonjour \pn ! Désolé tu ne peux pas entrer maintenant.
+<b>Dept.Store employee:</b> The earthquake didn't destroy the building but made a mess inside. Our stocks are gone.
+<b>Vendeuse:</b> Le séisme n’a pas détruit le bâtiment mais a détruit tous nos stocks.
+<b>Dept.Store employee:</b> You'll have to ask for reparations from the Town Development Project!
+<b>Vendeuse:</b> Tu vas devoir demander des réparations depuis le Projet de Reconstruction de Ville !
+<b>Dept.Store employee:</b> How are you \pn? I can't wait for our reopening!
+<b>Vendeuse:</b> Comment vas-tu \pn ? J’ai vraiment hâte de notre réouverture !
+<b>Man:</b> Is there good trainers around here ?
+<b>Homme:</b> Il y a des bons dresseurs dans le coin ?
+<b>Franck:</b> Hey \pn! The Pokémon Center is nearly finished!
+<b>Franck:</b> Hey \pn ! Le Centre Pokémon est presque terminé !
+<b>Student:</b> Can't wait to learn everything about Pokémon battles!!
+<b>Etudiante:</b> J'ai hâte de tout apprendre sur les combats Pokémon !!
+<b>\c[9]Melly:</b>\c[0] The weekend is nice! H...how do you spend it \pn?
+<b>\c[9]Melly:</b>\c[0] Le weekend c'est cool ! Qu...qu'est-ce que tu fais de beau, toi, \pn?
+You already gave a gift to Melly this week!
+Vous avez déjà donné un cadeau à Melly cette semaine !
+<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our - for now - one and only builder.
+<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre - pour l'instant - seul et unique travailleur.
+<b>Tourist:</b> Wow!! This academy is really beautiful!
+<b>Touriste:</b> Wow !! Cette académie est si jolie !
+<b>Lady:</b> Humpf! This is far from being fancy in here…
+<b>Dame:</b> Humpf! C’est loin d’être chic ici…
+<b>Lady:</b> I must admit, this town gets fancier by the day…
+<b>Dame:</b> Je dois admettre, cet endroit devient de plus en plus chic…
 <b>Tourist:</b> I’m thirsty! Can’t we drink something in this city??
 <b>Touriste:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!
 <b>Touriste:</b> J’ai soif! Allons au café!
-<b>Tourist</b> My! What a cute little park!
-<b>Touriste:</b> Oh ! Quel joli petit parc !
-\tn's Department Store
-Centre Commercial de \tn
-<b>Amanda:</b> Hello \pn how are you ?
-<b>Amanda:</b> Bonjour \pn comment ça va ?
-<b>Amanda:</b> I can't believe how much you've grown already !
-<b>Amanda:</b> J'arrive pas à croire à quel point tu as grandi !
-<b>Ernest:</b> Hello young \pn, how are you?
-<b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ?
-<b>Ernest:</b> It’s amazing to have this park again! The grandchildren love it!
-<b>Ernest:</b> C'est incroyable de pouvoir à nouveau profiter de ce parc ! Les petits l'adorent !
-<b>Ernest:</b> Say, my dear \pn, can I ask you something?
-<b>Ernest:</b> Dis moi, cher Leader, puis-je te demander quelque chose ?
-<b>Ernest:</b> I want to give my grandchildren a gift. Do you have Poké Dolls ?
-<b>Ernest:</b> J'aimerais offrir un cadeau à mes petits-enfants. Est-ce que tu as des Poké Poupées ?
-<b>Ernest:</b> I would need 2 obviously. I will trade it for 5 Ultra Balls! Interested?
-<b>Ernest:</b> Il m'en faudrait 2 évidemment. Je te les échangerais contre 5 Hyper Balls ! Intéressé ?
-Do you want to give Ernest two Poké Dolls?
-Voulez-vous donner 2 Poké Poupées à Ernest ?
-You give two Poké Dolls to Ernest.
-Vous donnez 2 Poké Poupées à Ernest.
-<b>Ernest:</b> Thanks a lot! The kids will be so happy!
-<b>Ernest:</b> Merci Beaucoup ! Les enfants seront vraiment contents !
-<b>Ernest:</b> See you around \pn, dear Leader!
-<b>Ernest:</b> On se voit plus tard, \pn, cher Leader !
-You don't have enough Poké Dolls !
-Vous n'avez pas assez de Poké Poupées !
-<b>Ernest:</b> Not interested? I’m here if you change your mind!
-<b>Ernest:</b> Pas intéressé ? Je suis là si tu changes d'avis !
-<b>Ernest:</b> Hello young \pn, how are you? Thanks again for the Poké Dolls!
-<b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ? Merci encore pour les Poké Poupées !
-The sign is really damaged... You can't read anything.
-Le panneau est vraiment endommagé... C'est complètement illisible.
-Trainer's Academy
-Académie de dresseurs
+<b>Klefki:</b> Klikliklikli!
+<b>Trousselin:</b> Tlitlitlitli!
 <b>Lady:</b> Hello you pretty thing!
 <b>Dame:</b> Bonjour mignonne petite chose~
 <b>Lady:</b> You're already pretty but for a small price, I can make you Pokémon prettier too!
@@ -164,106 +254,38 @@ Académie de dresseurs
 <b>Dame:</b> Non ? Tu es sûr ? Vous seriez si beaux tous les deux !!
 <b>Lady:</b> Okay, let us begin!
 <b>Dame:</b> Okay, c'est parti !!
-You wait a few minutes...
-Vous attendez quelques minutes...
 <b>Lady:</b> It's done! You're soooo pretty together!!!
 <b>Dame:</b> C'est fait ! Vous êtes trop magnifiques tous les deux !!!
-\c[3] WIP: Pokemon beauty
-\c[3] WIP: Pokemon beauty
-<b>Sacha:</b> Hehehe! Oh hi \pn do you want to play with us?
-<b>Sacha:</b> Hehehe! Oh salut \pn tu veux jouer avec nous ?
-<b>Beauty:</b> Hello dear~
-<b>Canon:</b> Bonjour toi~
-<b>Beauty:</b> I can take care of one of your Pokémon for a super small tiny price~
-<b>Canon:</b> Je peux m'occuper d'un de tes Pokémon pour un tout petit riquiqui prix~
-<b>Beauty:</b> This will make them more relaxed and happy! Do you want to try?
-<b>Canon:</b> Cela les rendra plus détendus et heureux ! Tu veux essayer ?
-<b>Beauty:</b> What a shame~~ Come back soon darling !
-<b>Canon:</b> Quel dommage~~ Reviens quand tu veux trésor!
-<b>Beauty:</b> Okay~~ Come here darling~
-<b>Canon:</b> Okay~~ Viens ici mon trésor~
-<b>Beauty:</b> This little thing seems really relaxed! I'm sure its happier now!
-<b>Canon:</b> Cette petite chose a l'air vraiment détendue ! Je suis sûr que son bonheur s'est amélioré !
-<b>Beauty:</b> Hello dear~ Do you want me to take care of a Pokémon ?
-<b>Canon:</b> Bonjour toi~ Tu veux que je m'occupe d'un Pokémon ?
-<b>Tourist:</b> So this is the \gt Gym huh ?
-<b>Touriste:</b> Donc voici l'arène \gt hein ?
-<b>Tourist:</b> I wonder what the Leader is like...
-<b>Touriste:</b> Je me demande à quoi ressemble le Champion...
+\tn's Department Store
+Centre Commercial de \tn
+The sign is really damaged... You can't read anything.
+Le panneau est vraiment endommagé... C'est complètement illisible.
+Trainer's Academy
+Académie de dresseurs
 <b>Gardener:</b> Taking care of all the flowers and bushes is hard work!
 <b>Jardinier:</b> S'occuper de toutes les fleurs et des buissons n'est pas un travail facile !
-<b>Rose:</b> \pn you’re it! Hehehe!
-<b>Rose:</b> \pn c'est toi le loup ! Hihihihi !
-<b>Woman:</b> Oh ! The Day-Care is reachable again !
-<b>Femme:</b> Oh ! La Pension est de nouveau accessible !
-<b>Woman:</b> Should I take some of my Pokémon there ?
-<b>Femme:</b> Est-ce que je devrais y laisser des Pokémons ?
-Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: Bonjour!!! Je veux voir des Pokémon !!! Je veux voir des Pokémon <b>Heureux</b> !!!
-Girl: DO YOU HAVE A <b>HAPPY</b> POKÉMON???
-Girl: TU AS DES POKÉMON <b>HEREUX</b> ???
-<b>Girl:</b> WHYYYYYYYYYYYY???????????
-<b>Girl:</b> POURQUOI ???????????????????
-<b>Girl:</b> OH. MY. GAWDDDDDDDDD!!!!!!!!! It's so happy!!!! It loves you really really a lot!!!
-<b>Girl:</b> OH. MON. DIEU!!!!!!!!! Il est si heureux !!!! Il t'aime vraiment vraiment beaucoup !!!
-<b>Girl:</b> Thank you for showing me your incredible bond!!! I'M HONORED!!!!! TAKE THIS!!!!!!!!!!!!
-<b>Girl:</b> Merci de m'avoir montré votre incroyable lien !!! JE SUIS HONORÉÉ !!!!! PRENDS ÇA !!!!!!!!!!!!
-<b>Girl:</b> Heyyy!!! It really likes you!! You're close to being really inseparables!
-<b>Girl:</b> Heyyy !!! Il t'apprécies vraiment !! Vous êtes presque inséparables !
-<b>Girl:</b> Hey! It's friendly towards you! It's like, kinda happy, but it could be better!
-<b>Girl:</b> Hey ! Il t'apprécies ! Il est, genre, plutôt heureux, mais ça pourrait être mieux !
-<b>Girl:</b> Eh, it's kinda cute but not really used to you...
-<b>Girl:</b> Eh, il est plutôt mignon mais il est pas trop habitué à toi...
-<b>Girl:</b> Eeeeeh... You should be nicer to it, it doesn't really like you...
-<b>Girl:</b> Eeeeeh... Tu devrais être plus gentil avec lui, il ne t'aime pas trop...
-<b>Girl:</b> Eeeeeeeh? It... it doesn't like you at all. What... What are you doing to it??? You meanie!!!
-<b>Girl:</b> Eeeeeeeh? Il... Il ne t'aime pas du tout. Qu...Qu'estce que tu lui fais ??? T'es trop méchant !!!
-Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</b> POKÉMON???
-Girl: EST-CE QUE TU AS <u>UN AUTRE</u> POKÉMON <b>HEUREUX</b> ???
-<b>Girl:</b> You're really an incredible trainer!!!! CONGRATS!!!!!!
-<b>Girl:</b> T'es vraiment un incroyable dresseur !!!! FÉLICITATIONS !!!!!!
-<b>Student:</b> Hiiii! I love to chill outside!
-<b>Etudiant:</b> Saluuuut ! J'adore me relaxer au soleil !
-<b>Student:</b> Isn’t flowers beautiful???
-<b>Etudiant:</b> Les fleurs sont trop belles, non ?
-<b>Student:</b> Yes right? Here, take this!
-<b>Etudiant:</b> Si hein, on est d'accord ? Tiens, prends ça !
-<b>Student:</b> See ya!
-<b>Etudiant:</b> A plus !
-<b>Student:</b> I’m Marie! Hi!
-<b>Etudiant:</b> Moi c'est Marie ! Salut !
-<b>Student:</b> Eeh? My full name is Marie Nelson, why?
-<b>Etudiant:</b> Euuh ? Mon nom complet est Marie Nelson, pourquoi ?
-<b>Student:</b> What? I don’t think so…
-<b>Etudiant:</b> Quoi ? Je crois pas...
-<b>Student:</b> Are you sure?
-<b>Etudiant:</b> T'es sûr ?
-<b>Student:</b> But? No I don’t!
-<b>Etudiant:</b> Mais ? Mais non !
-<b>Student:</b> Are you out of your mind?
-<b>Etudiant:</b> T'as perdu la tête ?
-<b>Student:</b> I don’t have it !
-<b>Etudiant:</b> Je ne l'ai pas !
-<b>Roger:</b> Hey \pn how are you?
-<b>Roger:</b> Hey \pn comment tu vas ?
-<b>Roger:</b> Better with your house built again I bet!
-<b>Roger:</b> Mieux depuis que ta maison a été reconstruite je parie !
-<b>Student:</b> Ha! Take this!
-<b>Student:</b> Ha ! Prends ça !
-<b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
-<b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au limieu d'un combat là...
-<b>\c[10]Maple:</b>\c[0] You see \pn, Franck is our (for now) one and only builder.
-<b>\c[10]Maple:</b>\c[0] Tu vois \pn, Franck est notre (pour le moment) seul travailleur.
-<b>Man:</b> Is there good trainers around here ?
-<b>Homme:</b> Il y a des bons dresseurs dans le coin ?
-<b>Student:</b> I’m not done yet!
-<b>Etudiant:</b> J'ai pas encore perdu !
-<b>Student:</b> Oh hi, my name is Justine, sorry I’m busy!
-<b>Etudiant:</b> Oh salut, mon nom est Justine, désolée je suis occupée !
-<b>Student:</b> Justine Cruz now let me be please!
-<b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
-^ Route 1\n< Route 2
-^ Route 1\n< Route 2
+What's your name?
+Comment tu t'appelles ?
+Bye
+Au revoir
+And your surname?
+Et ton nom de famille ?
+You have a book
+Tu as un livre
+I'm sure!
+J'en suis sûr !
+You're lying!
+Tu mens !
+Give it!
+Donne-le!
+Yes
+Oui
+No
+Non
+I need it back!
+J'en ai besoin !
+Yes ($5000)
+Oui ($5000)
 Quest
 Quête
 Give gift
@@ -272,27 +294,5 @@ Spend time
 Passer du temps
 Say goodbye
 Dire au revoir
-What's your name?
-Comment tu t'appelles ?
-Bye
-Au revoir
-You have a book
-Tu as un livre
-I need it back!
-J'en ai besoin !
-Give it!
-Donne-le!
-Yes
-Oui
-No
-Non
 Yes ($20000)
 Oui ($20000)
-Yes ($5000)
-Oui ($5000)
-And your surname?
-Et ton nom de famille ?
-I'm sure!
-J'en suis sûr !
-You're lying!
-Tu mens !

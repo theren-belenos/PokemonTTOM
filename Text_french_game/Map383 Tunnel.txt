@@ -12,12 +12,6 @@
 <b>Elora:</b> C'est pas vrai...
 <b><c3=BDA46A,736440>Samy:</b></c3> Now what was this cute fella doing?
 <b><c3=BDA46A,736440>Samy:</b></c3> Ben ça alors ! Qu'est-ce qu'il fait là ce ptit pote ?
-<b>Denis:</b> Who are you people??
-<b>Denis:</b> Vous êtes qui vous ??
-<b>Carl:</b> Hey! What are you doing here?
-<b>Carl:</b> Hey ! Qu’est-ce que vous faites là ?
-<b>Denis:</b> Argh!
-<b>Denis:</b> Argh !
 <b>???:</b> And who would you might be?
 <b>???:</b> Et t’es qui toi ?
 <b>???:</b> You wanna battle the Normal Leader? They "told" you to find someone named <b><c3=BDA46A,736440>Samy</b></c3>?
@@ -50,6 +44,16 @@ Votre équipe a été complètement soignée !
 <b><c3=BDA46A,736440>Samy:</b></c3> Tu vas mieux ? On y retourne !
 <b><c3=BDA46A,736440>Samy:</b></c3> Hey lad, we aren't finished here! Let's explore this tunnel more!
 <b><c3=BDA46A,736440>Samy:</b></c3> Hé mon gars, on a pas fini là ! Explorons le tunnel ensemble !
+<b>Denis:</b> Who are you people??
+<b>Denis:</b> Vous êtes qui vous ??
+<b>Carl:</b> Hey! What are you doing here?
+<b>Carl:</b> Hey ! Qu’est-ce que vous faites là ?
+<b>Denis:</b> Argh!
+<b>Denis:</b> Argh !
+You spend time exploring caves with Samy.
+You spend time exploring caves with Samy.
+You learn a lot!
+You learn a lot!
 <b>Gladys:</b> Shit! We have to gain some time!
 <b>Gladys:</b> Non ! On doit gagner un peu de temps !
 <b>Hugo:</b> Copy that! Let's clear them off!

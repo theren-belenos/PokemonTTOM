@@ -33,10 +33,10 @@ Order = 4
 [FORESTBADGE]
 Name = Forest Badge
 Type = GRASS
-LeaderName = Tom
-LeaderSprite = TOM
-Location = Central Town
-AcePokemon = EEVEE
+LeaderName = Nikodim
+LeaderSprite = NIKODIM
+Location = Titaga
+AcePokemon = EXEGGUTOR,1
 Region = Nekanta
 Order = 6
 #-------------------------------

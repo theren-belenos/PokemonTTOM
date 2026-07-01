@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map143]
+The sandstorm is becoming stronger! You can't go on like this!
+The sandstorm is becoming stronger! You can't go on like this!
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+<b>Explorer:</b> The sandstorm is becoming stronger! Do you have anything against it?
+<b>Explorer:</b> The sandstorm is becoming stronger! Do you have anything against it?
+Yes
+Yes
+No
+No

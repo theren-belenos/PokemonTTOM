@@ -2,6 +2,14 @@
 # translate every second line of this file.
 #-------------------------------
 [Map398]
+The cable is damaged here. Repair?
+The cable is damaged here. Repair?
+You use the tool Cassian gave you.
+You use the tool Cassian gave you.
+The cable is repaired!
+The cable is repaired!
+The cable is damaged here.
+The cable is damaged here.
 This stone is glowing!
 Cette pierre brille de mille feux !
 Do you want to use the Mining Kit?
@@ -20,6 +28,14 @@ Cette pierre brillante a déjà été minée.
 <b>Germain:</b> J'ai l'air plus perdu que toi...
 <b>Man:</b> What is this machinery?
 <b>Homme:</b> C'est quoi cette machine ?
+\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]ALL CABLES REPAIRED
+\c[3]ALL CABLES REPAIRED
+\c[3]SWITCHING LIGHTS ON...
+\c[3]SWITCHING LIGHTS ON...
+\c[3]LIGHTS ARE ON
+\c[3]LIGHTS ARE ON
 Yes
 Oui
 No

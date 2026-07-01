@@ -2,18 +2,20 @@
 # translate every second line of this file.
 #-------------------------------
 [Map050]
-When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.
-When pushing a boulder down a hole, make sure it doesn't appear in the same place as the player does when they drop down.
-\bHello! I'm the Ruin Maniac!
-\bHello! I'm the Ruin Maniac!
-\bDo you want to dig for buried treasure?
-\bDo you want to dig for buried treasure?
-\bGrand! Let's dig into this wall.
-\bGrand! Let's dig into this wall.
-\bNo? Alright then.
-\bNo? Alright then.
-\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.
-\bWhen using this mining minigame, it is recommended that you limit how often the player can play it, to prevent them gaining lots of items for free.
+<b>Orion:</b> My bag is too heavy! I need a break!
+<b>Orion:</b> My bag is too heavy! I need a break!
+<b>Orion:</b> You too, give me a break!
+<b>Orion:</b> You too, give me a break!
+<b>Robin:</b> Hahaha! Now that's a training!
+<b>Robin:</b> Hahaha! Now that's a training!
+<b>Robin:</b> Pff! Better be a good biker than a good trainer!
+<b>Robin:</b> Pff! Better be a good biker than a good trainer!
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
 Yes
 Yes
 No

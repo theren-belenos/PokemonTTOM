@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map435]
+<b>Girl:</b> Hello, I'm the Leader's daughter.
+<b>Girl:</b> Hello, I'm the Leader's daughter.
+<b>Girl:</b> My dad is a really sweet man, even if he tries so hard to be "cool"... Bear with him!
+<b>Girl:</b> My dad is a really sweet man, even if he tries so hard to be "cool"... Bear with him!
+<b>Girl:</b> Hello, how are you?
+<b>Girl:</b> Hello, how are you?
+<b>Girl:</b> I really want to go to \tn, I heard they have a Grass Gym!
+<b>Girl:</b> I really want to go to \tn, I heard they have a Grass Gym!
+<b>Girl:</b> Why isn't the Grass Gym here??? I'm so sad!
+<b>Girl:</b> Why isn't the Grass Gym here??? I'm so sad!
+There is only trash in there.
+There is only trash in there.
+<b>Lady:</b> Hello! How are you?
+<b>Lady:</b> Hello! How are you?
+<b>Lady:</b> Another one coming here to battle my little daffodil, hm?
+<b>Lady:</b> Another one coming here to battle my little daffodil, hm?
+<b>Lady:</b> Sorry, sorry, didn’t introduce myself. I’m Maggie and Nikodim is my husband.
+<b>Lady:</b> Sorry, sorry, didn’t introduce myself. I’m Maggie and Nikodim is my husband.
+<b>Maggie:</b> Nikodim, my sweet beet, is the Gym Leader, and a really cool musician!
+<b>Maggie:</b> Nikodim, my sweet beet, is the Gym Leader, and a really cool musician!
+<b>Maggie:</b> Well, we don’t age backwards so, he might lack a bit of energy.
+<b>Maggie:</b> Well, we don’t age backwards so, he might lack a bit of energy.
+<b>Maggie:</b> Be sweet with him okay? Do not sadden my pretty sunflower!
+<b>Maggie:</b> Be sweet with him okay? Do not sadden my pretty sunflower!
+<b>Maggie:</b> Be sweet with my husband okay? Do not sadden my pretty sunflower!
+<b>Maggie:</b> Be sweet with my husband okay?  Do not sadden my pretty sunflower!
+<b>Lady:</b> I'm living here with my daughter. Hope you have a good day!
+<b>Lady:</b> I'm living here with my daughter. Hope you have a good day!

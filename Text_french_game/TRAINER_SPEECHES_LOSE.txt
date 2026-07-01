@@ -86,6 +86,8 @@ You must really love Pokémons!
 Tu dois vraiment adorer les Pokémon !
 Ah! We didn't have enough Pokémons!
 Ah ! On avait pas assez de Pokémon !
+Hah! That's the kind of workout I'm talking about!
+Hah ! C'est le genre de sport qui me plaît !
 It doesn't make me a stronger trainer tho!
 C'est pas ça qui fait de moi un meilleur dresseur par contre !
 You don't seem afraid of the rain either!
@@ -130,10 +132,10 @@ The mystic arts smile upon yourself...
 Les arts mystiques te sourient...
 My high focus wasn't enough to defeat you!
 Ma grande concentration n'était pas suffisante pour te battre !
-What??? We lost???
-Quoi ??? On a perdu ???
-Who are you?
-Qui es-tu ?
+I... I can't even...
+I... I can't even...
+Not again!
+Not again!
 AND YOUR NAME IS...
 AND YOUR NAME IS...
 Heh! Good workout!
@@ -180,6 +182,8 @@ You seem to master both!
 T'as l'air de maîtriser les deux !
 You don't seem to need training!
 T'as pas l'air d'avoir besoin d'entraînement !
+You're so violent!
+You're so violent!
 Sorry! Didn't mean to pry!
 Désolé ! Je voulais pas être indiscret !
 What a weird bug!
@@ -218,8 +222,48 @@ Even your team puzzles me!
 Même ton équipe est trop complexe pour moi !
 Your mind seems intact!
 Ta tête semble intacte !
-Hah! That's the kind of workout I'm talking about!
-Hah ! C'est le genre de sport qui me plaît !
+You nearly burnt me!
+You nearly burnt me!
+You took my breath away!
+You took my breath away!
+...not gonna lie, I'm kinda lost.
+...not gonna lie, I'm kinda lost.
+Pff! Better be a good biker than a good trainer!
+Pff! Better be a good biker than a good trainer!
+I think I'm the group's useless one...
+I think I'm the group's useless one...
+That won't help us!
+That won't help us!
+You too, give me a break!
+You too, give me a break!
+So pretty, right?
+So pretty, right?
+You're not a ghost but you're still scary!
+You're not a ghost but you're still scary!
+Good day to you fellow human!
+Good day to you fellow human!
+Huh. Well, okay. You're interesting.
+Huh. Well, okay. You're interesting.
+Rythm kept!
+Rythm kept!
+I guess mountains can be cool too!
+I guess mountains can be cool too!
+PLZ STOOOOOOOP!!!
+PLZ STOOOOOOOP!!!
+Soooooo not lost! Hehe!
+Soooooo not lost! Hehe!
+What? My training is not enough?
+What? My training is not enough?
+This fight was easily the other half! Pfiou!
+This fight was easily the other half! Pfiou!
+Is myself the actual shame???
+Is myself the actual shame???
+Either way, this is a beating!
+Either way, this is a beating!
+Did you guess mine?
+Did you guess mine?
+Are you really leaving... ? What a shame...
+Are you really leaving... ? What a shame...
 I want to talk to your manager !
 Je veux parler à votre manager !
 See Camille? Even Mama can loose.
@@ -282,8 +326,46 @@ Until next time...
 Ce n’est que partie remise…
 Rip Bozo...
 Rip Bozo...
+Please, be normal dude!
+Please, be normal dude!
+Not cool enough...
+Not cool enough...
+It feel like i forgot something...
+It feel like i forgot something...
+I should have taked notes...
+I should have taked notes...
+But i still like him!
+But i still like him!
+JEREMY WHERE ARE YOU ???
+JEREMY WHERE ARE YOU ???
+He looks like sleeping...
+He looks like sleeping...
+The boss laywer said it's healthy...
+The boss laywer said it's healthy...
+This battle has greatly inspired me. Thank you!
+This battle has greatly inspired me. Thank you!
+Wow! Nekanta's Pokemon are impressive to!
+Wow! Nekanta's Pokemon are impressive to!
+Okay, maybe a better caretaker than a fighter...
+Okay, maybe a better caretaker than a fighter...
+What about this young trainer in your gym?
+What about this young trainer in your gym?
+Your élégance has no limit!
+Your élégance has no limit!
+That's a coincidence...
+That's a coincidence...
+Oh... Damn...
+Oh... Damn...
+My girlfriend always tell me it's not that cool...
+My girlfriend always tell me it's not that cool...
+Why do you mean it's a lame strat???
+Why do you mean it's a lame strat???
+Great match kid!
+Great match kid!
 Wowie! So strong!
 Wowie ! Si fort !
+You rock!
+T'assures !
 What? But...
 Quoi ? Mais...
 Oww, my poor Pokémon!
@@ -300,7 +382,11 @@ What??
 Quoi ??
 Tch!
 Tch !
-You rock!
-T'assures !
+Heh, not bad !
+Heh, not bad !
+These kiddos are strong !
+These kiddos are strong !
+That was so punk!
+That was so punk!
 Oww, so strong!
 Oww, si fort !

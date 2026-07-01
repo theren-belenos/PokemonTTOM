@@ -2,6 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map399]
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+You already gave a gift to Samy this week!
+You already gave a gift to Samy this week!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
 You spend time training with Melly at the Gym.
 Vous passez du temps à vous entraîner avec Melly dans l'Arène.
 She is really cool!
@@ -10,8 +16,6 @@ You spend time hanging with Marley at the Gym.
 Vous passez du temps à traîner avec Marley dans l'Arène.
 He is really cool!
 Il est vraiment cool !
-<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
-<b><c3=BDA46A,736440>Samy:</b></c3> Salut \pn, comment ça va ?
 Welcome to the \gt Gym!
 Bienvenue dans l'Arène \gt !
 Marley is in training these days. Do you want to start your work day?
@@ -54,6 +58,14 @@ Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
 <b>\c[9]Melly:</b>\c[0] Coucou \pn! Je suis prête à combattre !
 You already gave a gift to Melly this week!
 Vous avez déjà offert un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
 Yes
 Oui
 No
@@ -72,16 +84,8 @@ Skip next morning
 Passer la matinée
 Evening time
 Soirée
-Quest
-Quête
 Gym Infos
 Infos Arène
-Give gift
-Donner cadeau
-Spend time
-Passer du temps
-Say goodbye
-Dire au revoir
 Gym infos
 Infos Arène
 Start work day

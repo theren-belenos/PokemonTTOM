@@ -2,18 +2,16 @@
 # translate every second line of this file.
 #-------------------------------
 [Map376]
-<b>Ribombee:</b> Ribombeeeee!
-<b>Rubombelle:</b> Bombeeeeeeeelle!
 <b>Cyclizar:</b> Clizaaaar!
 <b>Motorizard:</b> Rizaaaar!
+<b>Ribombee:</b> Ribombeeeee!
+<b>Rubombelle:</b> Bombeeeeeeeelle!
 <b>Lady:</b> I came here to have a change of pace from Moonyang, the capital.
 <b>Dame:</b> Je suis venu pour changer un peu de Moonyang, la capitale.
 <b>Lady:</b> It's peaceful, but there are too many mosquitoes!
 <b>Dame:</b> C’est très paisible, mais il y a trop de moustiques !
 <b>Lady:</b> Do you have tips or something against mosquitoes??
 <b>Dame:</b> Tu as des conseils ou quelque chose contre les moustiques ?
-There is only trash in there.
-Il n’y a que des déchets là-dedans.
 <b>Girl:</b> Hiiii! Hey, did you ever encountered a Pachirisu?
 <b>Girl:</b> Saluuuuut! Hé, t’as déjà croisé un Pachirisu ?
 <b>Girl:</b> I heard there are some on Route 9 and I reaaaaaaaaaally want one!
@@ -36,6 +34,10 @@ Fille
 <b>Girl:</b> Veux-tu m’échanger un Pachirisu contre mon Togedemaru ?
 <b>Girl:</b> Heyyy! How is my little Maru?
 <b>Girl:</b> Heyyy ! Comment va mon petit Maru ?
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Joltik:</b> Oltiiik!
+<b>Statitik:</b> Titiiik!
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, bienvenue au Centre Pokémon.
 <b>\c[5]Nurse:</b>\c[0] What? You got a package for us?
@@ -60,12 +62,10 @@ Fille
 <b>\c[5]Infirmière:</b>\c[0] Tes pokémon sont en pleine forme.
 <b>\c[5]Nurse:</b>\c[0] Take care sweetie!
 <b>\c[5]Infirmière:</b>\c[0] Sois prudent trésor !
-<b>Joltik:</b> Oltiiik!
-<b>Statitik:</b> Titiiik!
-Relaxation and meeting zone
-Zone de rencontre et de détente
 <b>Lady:</b> Hi! Are you enjoying our city?
 <b>Dame:</b> Salut ! Tu profites de notre ville ?
+Relaxation and meeting zone
+Zone de rencontre et de détente
 <b>Togedemaru:</b> Squeak!
 <b>Togedemaru:</b> Squeak !
 <b>Pachirisu:</b> Chirisuuu!

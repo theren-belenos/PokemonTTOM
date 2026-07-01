@@ -4,6 +4,12 @@
 [Map031]
 <b>Tiago:</b> Oho! Let's laugh together!
 <b>Tiago:</b> Oho ! Rigolons ensemble !
+You talk to the clown about Camosack.
+You talk to the clown about Camosack.
+<b>Tiago:</b> Perform at Camosack? Hohohoho, do they need to laugh?? I can do that!
+<b>Tiago:</b> Perform at Camosack? Hohohoho, do they need to laugh?? I can do that!
+<b>Tiago:</b> See you there!
+<b>Tiago:</b> See you there!
 <b>Tiago:</b> Keep on laughing!
 <b>Tiago:</b> Continuons de rigoler !
 <b>Alice:</b> How about a friendly battle, trainer?

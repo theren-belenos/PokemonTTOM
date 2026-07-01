@@ -2,6 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map405]
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
 <b>\c[2]Tom:</b>\c[0] Maybe we should ask for reinforcements?
 <b>\c[2]Tom:</b>\c[0] On devrait peut-être demander des renforts ?
 <b><c3=BDA46A,736440>Samy:</b></c3> You’re right! They heard that for sure!
@@ -50,12 +56,8 @@ La personne s’incline et paraît heureuse de vous rencontrer.
 <b>\c[2]Tom:</b>\c[0] On peut pas se permettre d'attendre trop longtemps ! Dépêche-toi !
 <b>\c[2]Tom:</b>\c[0] Ready to go \pn ?
 <b>\c[2]Tom:</b>\c[0] Prêt à y aller \pn ?
-This stone is glowing!
-Cette pierre brille de mille feux !
-Do you want to use the Mining Kit?
-Voulez-vous utiliser le Kit de Minage ?
-This glowing rock was already mined.
-Cette pierre brillante a déjà été minée.
+MainQuest = 32
+MainQuest = 32
 <b>???:</b> ...oops
 <b>???:</b> ...oups
 <b>???:</b> ...well, I think we found the entrance...

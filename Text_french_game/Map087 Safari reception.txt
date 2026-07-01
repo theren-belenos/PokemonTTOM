@@ -1,0 +1,86 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map087]
+A1 Zone ; Land.\nAvailable Pokémons:
+A1 Zone ; Land.\nAvailable Pokémons:
+CHINGLING MAGBY WOOLOO PARAS DROWZEE SHUCKLE BONSLY SPINARAK EXEGGCUTE HERACROSS
+CHINGLING MAGBY WOOLOO PARAS DROWZEE SHUCKLE BONSLY SPINARAK EXEGGCUTE HERACROSS
+<b>Safari Attendant:</b> Hello and welcome to the Safari Zone! Do you need explanations?
+<b>Safari Attendant:</b> Hello and welcome to the Safari Zone! Do you need explanations?
+<b>Safari Attendant:</b> The Safari Zone allows you to catch exclusive Pokémon!
+<b>Safari Attendant:</b> The Safari Zone allows you to catch exclusive Pokémon!
+<b>Safari Attendant:</b> You can check out the model behind you to know which species can be found.
+<b>Safari Attendant:</b> You can check out the model behind you to know which species can be found.
+<b>Safari Attendant:</b> Inside the Safari, it's not usual battles: you need to bait the wild Pokémon and catch it.
+<b>Safari Attendant:</b> Inside the Safari, it's not usual battles: you need to bait the wild Pokémon and catch it.
+<b>Safari Attendant:</b> Throwing bait decrease the probability it flees, but make it harder to catch.
+<b>Safari Attendant:</b> Throwing bait decrease the probability it flees, but make it harder to catch.
+<b>Safari Attendant:</b> Throwing a stone basically does the opposite.
+<b>Safari Attendant:</b> Throwing a stone basically does the opposite.
+<b>Safari Attendant:</b> Actually, here at Nekanta, it's really easier to catch "Safari Pokémon" compared to other regions. You should do fine!
+<b>Safari Attendant:</b> Actually, here at Nekanta, it's really easier to catch "Safari Pokémon" compared to other regions. You should do fine!
+<b>Safari Attendant:</b> When entering the Safari Zone, you select a number of Balls and steps.
+<b>Safari Attendant:</b> When entering the Safari Zone, you select a number of Balls and steps.
+<b>Safari Attendant:</b> Entry fee depends on these values! Choose accordingly!
+<b>Safari Attendant:</b> Entry fee depends on these values! Choose accordingly!
+<b>Safari Attendant:</b> Good luck with your Safari!
+<b>Safari Attendant:</b> Good luck with your Safari!
+<b>Safari Attendant:</b> Have a good day!
+<b>Safari Attendant:</b> Have a good day!
+A2 Zone ; Coast;\nAvailable Pokémons:
+A2 Zone ; Coast;\nAvailable Pokémons:
+MANTYKE CARVANHA FLAMIGO ALOMOMOLA PHANPY TYMPOLE TENTACOOL CLAMPERL VELUZA LUVDISC CLAUNCHER
+MANTYKE CARVANHA FLAMIGO ALOMOMOLA PHANPY TYMPOLE TENTACOOL CLAMPERL VELUZA LUVDISC CLAUNCHER
+B1 Zone ; Under Construction.
+B1 Zone ; Under Construction.
+C1 Zone ; Under Construction.
+C1 Zone ; Under Construction.
+<b>Safari Attendant:</b> Welcome to the Safari Zone!
+<b>Safari Attendant:</b> Welcome to the Safari Zone!
+<b>Safari Attendant:</b> You can play the Safari Game here.
+<b>Safari Attendant:</b> You can play the Safari Game here.
+<b>Safari Attendant:</b> You can roam the wide- open Safari Zone and catch whatever you like.
+<b>Safari Attendant:</b> You can roam the wide- open Safari Zone and catch whatever you like.
+<b>Safari Attendant:</b> \GPrices are the following: $500 for entry, $100 for each Safari Ball, and $100 for each 200 steps.
+<b>Safari Attendant:</b> \GPrices are the following: $500 for entry, $100 for each Safari Ball, and $100 for each 200 steps.
+<b>Safari Attendant:</b> \GDo you want to enter?
+<b>Safari Attendant:</b> \GDo you want to enter?
+\G<b>Safari Attendant:</b>Sorry, your PC boxes are full.
+\G<b>Safari Attendant:</b>Sorry, your PC boxes are full.
+<b>Safari Attendant:</b> \GVery well, how many Safari Balls do you want?
+<b>Safari Attendant:</b> \GVery well, how many Safari Balls do you want?
+<b>Safari Attendant:</b> \GYou wanna stay for how many steps?
+<b>Safari Attendant:</b> \GYou wanna stay for how many steps?
+<b>Safari Attendant:</b> \GAll right, the total rpice will be \v[4]. Good for you?
+<b>Safari Attendant:</b> \GAll right, the total rpice will be \v[4]. Good for you?
+<b>Safari Attendant:</b> \GOops. You don't have enough money!
+<b>Safari Attendant:</b> \GOops. You don't have enough money!
+<b>Safari Attendant:</b> \GPlease come again!
+<b>Safari Attendant:</b> \GPlease come again!
+<b>Safari Attendant:</b> \GHere are your \v[2] Safari Balls!
+<b>Safari Attendant:</b> \GHere are your \v[2] Safari Balls!
+\GYou received \v[2] Safari Balls from the attendant. \me[Item get]\wtnp[40]
+\GYou received \v[2] Safari Balls from the attendant. \me[Item get]\wtnp[40]
+<b>Safari Attendant:</b> \GWe'll call you on the PA when you run out of time or Safari Balls.
+<b>Safari Attendant:</b> \GWe'll call you on the PA when you run out of time or Safari Balls.
+<b>Safari Attendant:</b> \GWell, I'll wish you the best of luck!
+<b>Safari Attendant:</b> \GWell, I'll wish you the best of luck!
+<b>Safari Attendant:</b> \GOkay.\nPlease come again!
+<b>Safari Attendant:</b> \GOkay.\nPlease come again!
+<b>Safari Attendant:</b> Are you going to leave the Safari Zone early?
+<b>Safari Attendant:</b> Are you going to leave the Safari Zone early?
+<b>Safari Attendant:</b> Please return any Safari Balls you may have left.
+<b>Safari Attendant:</b> Please return any Safari Balls you may have left.
+\bGood luck!
+\bGood luck!
+<b>Safari Attendant:</b> Did you catch your fair share? Come again!
+<b>Safari Attendant:</b> Did you catch your fair share? Come again!
+B2 Zone ; Under Construction.
+B2 Zone ; Under Construction.
+C2 Zone ; Under Construction.
+C2 Zone ; Under Construction.
+Yes
+Yes
+No
+No

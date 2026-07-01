@@ -14,9 +14,17 @@ Pokemon = SPHEAL,2
 #-----------------------------------------------
 [POKEMANIAC,Mark]
 LoseText = Whaaaaat? But... but who are you?
-Pokemon = VELUZA,24
-Pokemon = KILOWATTREL,25
-Pokemon = THIEVUL,27
+Pokemon = VELUZA,33
+Pokemon = KILOWATTREL,34
+Pokemon = THIEVUL,36
+
+
+
+#-------------------------------------------------------------
+#
+#		Intro
+#
+#-------------------------------------------------------------
 
 #-----------------------------------------------
 #
@@ -60,6 +68,14 @@ Pokemon = SEEL,13
 Pokemon = TRAPINCH,13
 Pokemon = PIDOVE,13
 Pokemon = VENONAT,13
+
+
+#-------------------------------------------------------------
+#
+#		Chapitre 1
+#
+#-------------------------------------------------------------
+
 
 #-----------------------------------------------
 #
@@ -232,6 +248,14 @@ Pokemon = DWEBBLE,11
 Pokemon = GEODUDE,11
 
 
+
+#-------------------------------------------------------------
+#
+#		Chapitre 2
+#
+#-------------------------------------------------------------
+
+
 #-----------------------------------------------
 #
 #		Green Lush Forest (west) trainers
@@ -302,7 +326,19 @@ Pokemon = HOPPIP,14
 Pokemon = DODUO,14
 Pokemon = SHROOMISH,15
 
-
+#-------------------------------------------------------------
+#
+#		Tlingit gates interiors
+#
+#-------------------------------------------------------------
+[BLACKBELT,Ben]
+LoseText = Hah! That's the kind of workout I'm talking about!
+Items = SUPERPOTION
+Pokemon = TIMBURR,20
+Pokemon = HERACROSS,21
+Pokemon = BRELOOM,23
+	Item = SITRUSBERRY
+	
 #-----------------------------------------------
 #
 #		Route 8 trainers
@@ -419,6 +455,16 @@ Pokemon = NOCTOWL,20
 Pokemon = DODUO,21
 
 # NB : Leader is defined in trainers_story file
+
+
+
+
+#-------------------------------------------------------------
+#
+#		Chapitre 3
+#
+#-------------------------------------------------------------
+
 
 
 #-------------------------------------------------------------
@@ -850,13 +896,193 @@ Pokemon = DODUO,26
 
 # NB : Leader is defined in trainers_story file
 
+
+
+#-------------------------------------------------------------
+#
+#		Chapitre 4
+#
+#-------------------------------------------------------------
+
 #-------------------------------------------------------------
 #
 #		Route 11 - South
 #
 #-------------------------------------------------------------
+[RICHBOY,Leandre]
+LoseText = You're so violent!
+Pokemon = FALINKS,28
+Pokemon = VIGOROTH,28	
+Pokemon = HERACROSS,29	
 
 
+#-------------------------------------------------------------
+#
+#		Route 12 - South
+#
+#-------------------------------------------------------------
+[HIKER,Zayn]
+LoseText = You nearly burnt me!
+Pokemon = SLUGMA,26
+Pokemon = MAGBY,26
+Pokemon = TORKOAL,27
+	AbilityIndex = 1
+
+[BACKPACKERFEMALE,Diana]
+LoseText = You took my breath away!
+Pokemon = DRILBUR,27
+Pokemon = DONPHAN,27
+
+[CRUSHGIRL,Gaby]
+LoseText = ...not gonna lie, I'm kinda lost.
+Pokemon = GURDURR,26
+Pokemon = FLAMIGO,26
+Pokemon = FALINKS,27
+
+[BIKER,Robin]
+LoseText = Pff! Better be a good biker than a good trainer!
+Pokemon = VAROOM,32
+
+[YOUNGSTER,Julien]
+LoseText = I think I'm the group's useless one...
+Pokemon = PLUSLE,27
+Pokemon = ILLUMISE,27
+
+[LASS,Maeva]
+LoseText = That won't help us!
+Pokemon = MINUN,27
+Pokemon = VOLBEAT,27
+
+[BACKPACKERMALE,Orion]
+LoseText = You too, give me a break!
+Pokemon = PALPITOAD,27
+Pokemon = SPOINK,27
+Pokemon = MINIOR,28
+
+[AROMALADY,Madelynn]
+LoseText = So pretty, right?
+Pokemon = COTTONEE,26
+Pokemon = FOMANTIS,26
+Pokemon = CHERRIM,26
+Pokemon = LEAFEON,27
+
+#-------------------------------------------------------------
+#
+#		Soul's Den
+#
+#-------------------------------------------------------------
+[TOURISTMALE,Angelo]
+LoseText = You're not a ghost but you're still scary!
+Pokemon = CLAMPERL,28
+Pokemon = CHIMECHO,29
+
+[HEXMANIAC,Kapough]
+LoseText = Good day to you fellow human!
+Pokemon = YAMASK,26
+Pokemon = BRAMBLEGHAST,27
+Pokemon = WISPEON,28
+
+#-------------------------------------------------------------
+#
+#		Titaga
+#
+#-------------------------------------------------------------
+[VETERANFEMALE,Cocotte]
+LoseText = Huh. Well, okay. You're interesting.
+Pokemon = RIBOMBEE,34
+Pokemon = LURANTIS,34
+Pokemon = ALTARIA,35
+Pokemon = SYLVEON,37
+
+# Gym - Grass
+[BEAUTY,Flore]
+LoseText = Rythm kept!
+Pokemon = BELLOSSOM,29
+Pokemon = BELLOSSOM,29
+
+
+[JUGGLER,Tobie]
+LoseText = Your mind seems intact!
+Pokemon = VICTREEBEL,28
+Pokemon = LURANTIS,28
+Pokemon = LUDICOLO,29
+Pokemon = LUDICOLO,29
+
+# NB : Leader is defined in trainers_story file
+
+# Gym - Normal
+[POKEFANMALE,Tristan,3]
+LoseText = I'm the one confused, by your strength!
+Pokemon = AMBIPOM,30
+Pokemon = BIBAREL,32
+
+[POKEFANFEMALE,Laurine,3]
+LoseText = Switches everywhere!
+Pokemon = STARAVIA,29
+Pokemon = NOCTOWL,30
+Pokemon = DODRIO,31
+
+# NB : Leader is defined in trainers_story file
+
+#-------------------------------------------------------------
+#
+#		Route 13 - West (A to E)
+#
+#-------------------------------------------------------------
+[COWGIRL,Alijah]
+LoseText = I guess mountains can be cool too!
+Pokemon = DUBWOOL,27
+Pokemon = DONPHAN,27
+Pokemon = GREEDENT,28
+
+[HIKER,Josué]
+LoseText = PLZ STOOOOOOOP!!!
+Pokemon = SUNFLORA,29
+Pokemon = TOUCANNON,29
+
+[TOURISTFEMALE,Molly]
+LoseText = Soooooo not lost! Hehe!
+Pokemon = SUDOWOODO,28
+Pokemon = PALPITOAD,28
+Pokemon = BELLIBOLT,28
+
+[RISINGSTARFEMALE,Kiara]
+LoseText = What? My training is not enough?
+Pokemon = MAGMAR,27
+Pokemon = HERACROSS,27
+Pokemon = VICTREEBEL,28
+Pokemon = TENTACRUEL,30
+
+[JOGGER,Kai]
+LoseText = This fight was easily the other half! Pfiou!
+Pokemon = FLAMIGO,29
+Pokemon = LOUDRED,29
+
+[CLOWN,Warren]
+LoseText = Is myself the actual shame??? 
+Pokemon = CHIMECHO,25
+Pokemon = SMEARGLE,25
+	Moves = FAKEOUT,SPORE,UTURN,EARTHQUAKE 
+Pokemon = GRUMPIG,32
+
+[LASS,Adalyn]
+LoseText = Either way, this is a beating!
+Pokemon = RIBOMBEE,26
+Pokemon = VELUZA,26
+Pokemon = KILOWATTREL,27
+Pokemon = ALOMOMOLA,27
+
+[COLLECTOR,Tate]
+LoseText = Did you guess mine?
+Pokemon = HUNTAIL,28
+Pokemon = GOREBYSS,28
+
+[HEXMANIAC,Cali]
+LoseText = Are you really leaving... ? What a shame...
+Pokemon = HYPNO,29
+Pokemon = SPIRITOMB,29
+Pokemon = BRAMBLEGHAST,29
+Pokemon = SHARPEDO,29
 
 #-------------------------------------------------------------
 #
@@ -864,15 +1090,3 @@ Pokemon = DODUO,26
 #
 #-------------------------------------------------------------
 
-#-------------------------------------------------------------
-#
-#		Tlingit gates interiors
-#
-#-------------------------------------------------------------
-[BLACKBELT,Ben]
-LoseText = Hah! That's the kind of workout I'm talking about!
-Items = SUPERPOTION
-Pokemon = TIMBURR,20
-Pokemon = HERACROSS,21
-Pokemon = BRELOOM,23
-	Item = SITRUSBERRY

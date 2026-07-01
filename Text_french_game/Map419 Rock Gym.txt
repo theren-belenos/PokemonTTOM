@@ -44,6 +44,10 @@ The Pokémon doesn't understand the reset machine!
 Le Pokémon ne comprend pas la machine de réinitialisation !
 You're already controlling an Aerodactyl!
 Vous controllez déjà un Ptéra !
+You spend time studying Cassian's Gym.
+You spend time studying Cassian's Gym.
+You learn a lot!
+You learn a lot!
 Leaving the puzzle area will reset it. Continue?
 Partir de la zone du puzzle le réinitialisera. Poursuivre ?
 Graveler doesn't want to leave the area!

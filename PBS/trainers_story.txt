@@ -245,7 +245,7 @@ Items = POTION
 LoseText = Congratulations!
 Pokemon = GEODUDE,13
     EV = 10,32,32,0,0,0
-Pokemon = MOLEON,15
+Pokemon = LAGEON,15
     Moves = SANDTOMB,QUICKATTACK,PROTECT,SWIFT
     Item = ORANBERRY
     Nature = SERIOUS
@@ -575,16 +575,16 @@ Pokemon = VESPIQUEN,22
 	
 #-------------------------------------------------------------
 #
-#		Sombake Gym
+#		Greymoose Gym
 #
 #-------------------------------------------------------------	
 #-------------------------------
 [CASSIANNL,Normal Leader]
 Items = SUPERPOTION,SUPERPOTION
 LoseText = ...
-Pokemon = MILTANK,25
+Pokemon = UNFEZANT,25
     Item = NORMALGEM
-    EV = 10,0,60,0,0,60
+    EV = 10,60,0,60,0,0
 Pokemon = CYCLIZAR,25
     EV = 10,60,0,60,0,0
 Pokemon = DITTO,27
@@ -597,7 +597,6 @@ LoseText = You rock!
 Pokemon = MINIOR,25
     Item = SITRUSBERRY
     EV = 10,0,0,60,60,0
-	IV = 10,10,10,15,10,10
 	Moves = STEALTHROCK,ANCIENTPOWER,SELFDESTRUCT,HIDDENPOWER
 Pokemon = LILEEP,25
 	Item = BIGROOT
@@ -775,3 +774,48 @@ Pokemon = MAGCARGO,39
 Pokemon = KLEFKI,34
 Pokemon = SWOOBAT,35
 Pokemon = TREVENANT,36
+
+#-------------------------------------------------------------
+#
+#		Titaga Gym
+#
+#-------------------------------------------------------------	
+#-------------------------------
+[NIKODIMNL,Normal Leader]
+Items = SUPERPOTION,SUPERPOTION,FULLHEAL
+LoseText = ...
+Pokemon = UNFEZANT,30
+    Item = NORMALGEM
+    EV = 10,70,0,70,0,0
+Pokemon = CYCLIZAR,30
+	Item = QUICKCLAW
+    EV = 10,70,0,70,0,0
+Pokemon = KANGASKHAN,30
+    EV = 10,70,70,0,0,0
+Pokemon = DITTO,32
+    AbilityIndex = 2
+    Item = SITRUSBERRY
+#-------------------------------
+[NIKODIM,Nikodim]
+Items = SUPERPOTION,SUPERPOTION,FULLHEAL
+LoseText = That was so punk!
+Pokemon = RILLABOOM,30
+	AbilityIndex = 2
+    Item = TERRAINEXTENDER
+    EV = 70,70,10,0,0,0
+	Moves = SLAM,KNOCKOFF,DRUMBEATING,FAKEOUT
+Pokemon = LUDICOLO,30
+	Item = GRASSYSEED
+	AbilityIndex = 2
+    EV = 10,0,0,70,70,0
+	Moves = LEECHSEED,CHILLINGWATER,BUBBLEBEAM,MEGADRAIN
+Pokemon = BELLOSSOM,30
+	Item = GRASSYSEED
+	AbilityIndex = 2
+    EV = 10,0,0,0,70,70
+	Moves = TEETERDANCE,SYNTHESIS,PETALDANCE,GRASSYTERRAIN
+Pokemon = EXEGGUTOR,32
+	Form = 1
+	Item = SITRUSBERRY
+    EV = 10,0,0,0,70,70
+	Moves = GIGADRAIN,EXTRASENSORY,UPROAR,SYNTHESIS

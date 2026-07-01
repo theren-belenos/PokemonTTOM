@@ -146,6 +146,20 @@ Gender = Male
 BaseMoney = 64
 BattleBGM = battle_gymleader
 VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[NIKODIMNL]
+Name = The
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
+#-------------------------------
+[NIKODIM]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = battle_gymleader
+VictoryBGM = battle_victory_gymleader
 
 
 
@@ -313,6 +327,12 @@ Gender = Female
 BaseMoney = 32
 IntroBGM = encounter_hiker
 #-------------------------------
+[BELLHOP]
+Name = Bellhop
+Gender = Male
+BaseMoney = 32
+IntroBGM = encounter_youngster
+#-------------------------------
 [BUGMANIAC]
 Name = Bugmaniac
 Gender = Male
@@ -360,6 +380,12 @@ Name = Janitor
 Gender = Male
 BaseMoney = 32
 IntroBGM = encounter_gentleman
+#-------------------------------
+[KIMONOGIRL]
+Name = Kimono Girl
+Gender = Female
+BaseMoney = 32
+IntroBGM = encounter_lass
 #-------------------------------
 [LASS]
 Name = Lass
@@ -513,6 +539,12 @@ Gender = Male
 BaseMoney = 48
 IntroBGM = encounter_youngster
 #-------------------------------
+[DANCER]
+Name = Delinquant
+Gender = Female
+BaseMoney = 48
+IntroBGM = encounter_lass
+#-------------------------------
 [DELINQUENT]
 Name = Delinquant
 Gender = Female
@@ -663,6 +695,18 @@ Gender = Male
 BaseMoney = 64
 IntroBGM = encounter_youngster
 #-------------------------------
+[RISINGSTARFEMALE]
+Name = Rising Star &f;
+Gender = Female
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
+[RISINGSTARMALE]
+Name = Rising Star &m;
+Gender = Male
+BaseMoney = 64
+IntroBGM = encounter_youngster
+#-------------------------------
 [ROUGHNECK]
 Name = Roughneck
 Gender = Male
@@ -730,7 +774,18 @@ Gender = Male
 BaseMoney = 150
 SkillLevel = 80
 IntroBGM = encounter_youngster
-
+#-------------------------------
+[VETERANFEMALE]
+Name = Veteran &f;
+Gender = Female
+BaseMoney = 80
+IntroBGM = encounter_gentleman
+#-------------------------------
+[VETERANMALE]
+Name = Veteran &m;
+Gender = Male
+BaseMoney = 80
+IntroBGM = encounter_gentleman
 
 
 #---------------------------------------------------
@@ -743,7 +798,7 @@ IntroBGM = encounter_youngster
 Name = Professor
 Gender = Male
 BaseMoney = 90
-IntroBGM = encounter_youngster
+IntroBGM = encounter_gentleman
 
 
 

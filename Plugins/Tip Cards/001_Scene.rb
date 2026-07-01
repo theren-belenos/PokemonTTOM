@@ -413,7 +413,7 @@ class TipCard_Scene
 					bottomtext = "<ac><c3=B8A8E0,7240E8>" + _INTL("Melly victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[1].to_s
 					bottomtext << "</b></c3></ac>"
-					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 265, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 				if info[:TrainersInfos] == 2
 					title = _INTL("Relation with Samy:")
@@ -438,7 +438,7 @@ class TipCard_Scene
 					bottomtext = "<ac><c3=BDA46A,736440>" + _INTL("Samy victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[2].to_s
 					bottomtext << "</b></c3></ac>"
-					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 265, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 				if info[:TrainersInfos] == 3
 					title = _INTL("Relation with Kiana:")
@@ -463,7 +463,7 @@ class TipCard_Scene
 					bottomtext = _INTL("<ac><c3=A8E0E0,48D8D8>Kiana victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[3].to_s
 					bottomtext << "</b></c3></ac>"
-					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 265, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 				if info[:TrainersInfos] == 4
 					name = pbGet(12)
@@ -495,9 +495,172 @@ class TipCard_Scene
 					bottomtext << " " + _INTL("victories at the Gym:") + " <b>"
 					bottomtext << $town.victoriesCount[4].to_s
 					bottomtext << "</b></c3></ac>"
-					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 280, @sprites["background"].width - 48, bottomtext, base, shadow)
+					drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 265, @sprites["background"].width - 48, bottomtext, base, shadow)
 				end
 			end
+			if info[:TownStatus]
+				if info[:TownStatus] == 1
+					startFame = $town.fame
+					startLevelFame = $town.calculateFameLvl
+					startFloorFame = $town.calculateFloorFame(startLevelFame)
+					fameNeeded = $town.calculateFameForUp(startLevelFame)
+					fameAtThisLevel = startFame - startFloorFame
+					text = ""
+					text << "<ac><b>" + _INTL("Gym Rank") + " " + $town.rank.to_s + "</b> ; " + _INTL("Fame Level") + " " + startLevelFame.to_s + "</ac></b>" 
+					text << "<ac>------------------------------</ac>"
+					text << "<al>" + _INTL("Progression on this level:") + " " + fameAtThisLevel.to_s + " / " + fameNeeded.to_s + "</al>"
+					text << "<al>" + _INTL("Total fame points:") + " " + $town.fame.to_s + " (+ " + $town.passiveFame.to_s + _INTL(" bonus per week)") + "</al>"
+					text << "<ac>------------------------------</ac>"
+					text << "<al>" + _INTL("Funds:") + " " + $town.funds.to_s + " (+" + $town.passiveFunds.to_s + _INTL("$ bonus per week)") + "</al>"
+					text << "<ac>------------------------------</ac>"
+					text << "<al>" + _INTL("Total number of workers:") + " " + $town.totalworkers.to_s + "</al>"
+				end
+				if info[:TownStatus] == 2
+					text = ""
+					text << "<al><b>" + _INTL("Worker 1: Franck") + "</b></al>"
+					if $town.workers[0] > 0
+						text << "<al>        -> " + _INTL("Working on:") + " " + $town.getBuildingData($town.workers[0])[0] + "</al>"
+					else
+						text << "<al>        -> " + _INTL("Currently available") + "</al>"
+					end
+					if $town.totalworkers > 1
+						text << "<ac>" + _INTL("Worker 2: Melly's Father") + "</b></ac>"
+						if $town.workers[1] > 0
+							text << "<al>        -> " + _INTL("Working on:") + " " + $town.getBuildingData($town.workers[1])[0] + "</al>"
+						else
+							text << "<al>        -> " + _INTL("Currently available") + "</al>"
+						end
+					end
+					# Ajouter ici les futurs workers	
+				end
+				if info[:TownStatus] == 3
+					text = ""
+					for index in (0..6)
+						data = $town.getBuildingData(index)
+						if $town.buildings[index] == 0 && data[2] == 0
+							$town.buildings[index] = 1
+						end
+						state = $town.buildings[index]
+						text << "<al>" + data[0] + ": "
+						# Not brought yet
+						if state == 0
+							text << _INTL("Not bought (") + (data[2]*1000).to_s + "$)</al>"
+						# Finished
+						elsif state > data[1]
+							text << _INTL("Finished !")+ "</al>"
+						# Not built
+						else
+							text << _INTL("Progress:") + " " + (state-1).to_s + " / " + data[1].to_s + "</al>"
+						end
+					end
+				end
+				if info[:TownStatus] == 4
+					text = ""
+					for index in (7..14)
+						data = $town.getBuildingData(index)
+						if $town.buildings[index] == 0 && data[2] == 0
+							$town.buildings[index] = 1
+						end
+						state = $town.buildings[index]
+						text << "<al>" + data[0] + ": "
+						# Not brought yet
+						if state == 0
+							text << _INTL("Not bought (") + (data[2]*1000).to_s + "$)</al>"
+						# Finished
+						elsif state > data[1]
+							text << _INTL("Finished !")+ "</al>"
+						# Not built
+						else
+							text << _INTL("Progress:") + " " + (state-1).to_s + " / " + data[1].to_s + "</al>"
+						end
+					end
+				end
+				if info[:TownStatus] == 5
+					text = ""
+					for index in (15..22)
+						data = $town.getBuildingData(index)
+						if $town.buildings[index] == 0 && data[2] == 0
+							$town.buildings[index] = 1
+						end
+						state = $town.buildings[index]
+						text << "<al>" + data[0] + ": "
+						# Not brought yet
+						if state == 0
+							text << _INTL("Not bought (") + (data[2]*1000).to_s + "$)</al>"
+						# Finished
+						elsif state > data[1]
+							text << _INTL("Finished !")+ "</al>"
+						# Not built
+						else
+							text << _INTL("Progress:") + " " + (state-1).to_s + " / " + data[1].to_s + "</al>"
+						end
+					end
+				end
+				if info[:TownStatus] == 6
+					text = ""
+					for index in (23..27)
+						data = $town.getBuildingData(index)
+						if $town.buildings[index] == 0 && data[2] == 0
+							$town.buildings[index] = 1
+						end
+						state = $town.buildings[index]
+						text << "<al>" + data[0] + ": "
+						# Not brought yet
+						if state == 0
+							text << _INTL("Not bought (") + (data[2]*1000).to_s + "$)</al>"
+						# Finished
+						elsif state > data[1]
+							text << _INTL("Finished !")+ "</al>"
+						# Not built
+						else
+							text << _INTL("Progress:") + " " + (state-1).to_s + " / " + data[1].to_s + "</al>"
+						end
+					end
+				end
+				if info[:TownStatus] == 7
+					text = ""
+					for index in (28..35)
+						data = $town.getBuildingData(index)
+						if $town.buildings[index] == 0 && data[2] == 0
+							$town.buildings[index] = 1
+						end
+						state = $town.buildings[index]
+						text << "<al>" + data[0] + ": "
+						# Not brought yet
+						if state == 0
+							text << _INTL("Not bought (") + (data[2]*1000).to_s + "$)</al>"
+						# Finished
+						elsif state > data[1]
+							text << _INTL("Finished !")+ "</al>"
+						# Not built
+						else
+							text << _INTL("Progress:") + " " + (state-1).to_s + " / " + data[1].to_s + "</al>"
+						end
+					end
+				end
+				if info[:TownStatus] == 8
+					text = ""
+					for index in (36..40)
+						data = $town.getBuildingData(index)
+						if $town.buildings[index] == 0 && data[2] == 0
+							$town.buildings[index] = 1
+						end
+						state = $town.buildings[index]
+						text << "<al>" + data[0] + ": "
+						# Not brought yet
+						if state == 0
+							text << _INTL("Not bought (") + (data[2]*1000).to_s + "$)</al>"
+						# Finished
+						elsif state > data[1]
+							text << _INTL("Finished !")+ "</al>"
+						# Not built
+						else
+							text << _INTL("Progress:") + " " + (state-1).to_s + " / " + data[1].to_s + "</al>"
+						end
+					end
+				end
+			end	
+			#drawFormattedTextEx(overlay, @sprites["background"].x + 10 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + top_text_x_adj) + 5, text, base, shadow)
 			if info[:Recap]
 				if info[:Recap] == 1
 					victories = $town.dayTrainers[1] + $town.dayTrainers[2] + $town.dayTrainers[3] + $town.dayTrainers[4] + $town.dayTrainers[5] + $town.dayTrainers[6] + $town.dayTrainers[7]
@@ -800,7 +963,7 @@ class TipCard_Scene
 					text << " </b>more</al>"
 				end
 			end
-			drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, text, base, shadow)
+			drawFormattedTextEx(overlay, @sprites["background"].x + text_x_adj, @sprites["background"].y + text_y_adj, @sprites["background"].width - 16 - text_x_adj + text_width_adj, "<fs=24>" + text + "</fs>", base, shadow, 26)
         else
             Console.echo_warn tip.to_s + " is not defined."
             drawFormattedTextEx(overlay, @sprites["background"].x, @sprites["background"].y + 18, @sprites["background"].width, _INTL("<ac>Tip not defined.</ac>"), base, shadow)
@@ -808,7 +971,11 @@ class TipCard_Scene
         if @pages > 1
             @sprites["arrow_left"].visible = (@index > 0)
             @sprites["arrow_right"].visible = (@index < @pages - 1)
-            pbDrawTextPositions(overlay, [[_INTL("{1}/{2}",@index+1, @pages), Graphics.width/2, @sprites["background"].y + @sprites["background"].bitmap.height - 26, 2, base, shadow]])
+			text = (@index+1).to_s + "/" + @pages.to_s
+			puts text
+			#drawFormattedTextEx(overlay, @sprites["background"].x + 24, @sprites["background"].y + 175, @sprites["background"].width - 48, bottomtext, base, shadow)
+			drawFormattedTextEx(overlay, Graphics.width/2, @sprites["background"].y + 295, @sprites["background"].y + @sprites["background"].bitmap.height - 26, text, base, shadow)
+            #pbDrawTextPositions(overlay, [[_INTL("<fs=12>{1}/{2}</fs>",@index+1, @pages), Graphics.width/2, @sprites["background"].y + @sprites["background"].bitmap.height - 26, 2, base, shadow]])
         end
     end
 end

@@ -28,11 +28,19 @@ MapPosition = 0,22,15
 BattleBack = gym
 Flags = OwnGym
 #-------------------------------
-[033]   # Department Store 1F
-Name = Department Store
+[399]   # Gym
+Name = Your Gym
 MapPosition = 0,22,15
+BattleBack = gym
+Flags = OwnGym
 #-------------------------------
-[093]   # Department Store 2F
+[400]   # Gym
+Name = Your Gym
+MapPosition = 0,22,15
+BattleBack = gym
+Flags = OwnGym
+#-------------------------------
+[033]   # Department Store 1F
 Name = Department Store
 MapPosition = 0,22,15
 #-------------------------------
@@ -692,11 +700,20 @@ Name = Route 12
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,25
+MapPosition = 0,15,26
 MapSize = 1,1
 Environment = Grass
 BattleBack = field
-
+#-------------------------------
+[439]   # Route 12 - Soul Shelter
+Name = Soul Shelter
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,26
+MapSize = 1,1
+BattleBack = cave
+Environment = Cave
 
 
 
@@ -770,7 +787,16 @@ MapPosition = 0,24,27
 MapSize = 1,1
 Environment = Grass
 BattleBack = rocky
-
+#-------------------------------
+[438]   # Route 13 - Underground
+Name = Route 13 - Underground
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 0,19,27
+MapSize = 4,1
+BattleBack = cave
+Environment = Cave
 
 
 
@@ -2534,6 +2560,44 @@ ShowArea = true
 Bicycle = true
 MapPosition = 0,16,26
 MapSize = 1,1
+#-------------------------------
+[093]   # PC Titaga
+Name = Titaga PC
+MapPosition = 0,16,26
+#-------------------------------
+[432]   # Shop Titaga
+Name = Titaga Shop
+MapPosition = 0,16,26
+#-------------------------------
+[433]   # Flowery Shop Titaga
+Name = Flowery Shop
+MapPosition = 0,16,26
+#-------------------------------
+[434]   # Titaga House A
+Name = Titaga House A
+MapPosition = 0,16,26
+#-------------------------------
+[435]   # Titaga House B
+Name = Titaga House B
+MapPosition = 0,16,26
+#-------------------------------
+[436]   # Titaga House C
+Name = Titaga House C
+MapPosition = 0,16,26
+#-------------------------------
+[437]   # Grass Gym Titaga
+Name = Grass Gym
+ShowArea = true
+MapPosition = 0,16,26
+#-------------------------------
+[440]   # Normal Gym Titaga
+Name = Normal Gym
+ShowArea = true
+MapPosition = 0,16,26
+
+
+
+
 #-------------------------------
 [247]   # Town 6 - Ground Gym
 Name = Wascana

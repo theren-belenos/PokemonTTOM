@@ -1,0 +1,48 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map439]
+<b>Elder:</b> I can talk to spirits you know… Here, they’re actually rather appeased.
+<b>Elder:</b> I can talk to spirits you know… Here, they’re actually rather appeased.
+<b>Elder:</b> It’s you! Thanks for coming!
+<b>Elder:</b> It’s you! Thanks for coming!
+<b>Elder:</b> The well is in the deepest parts of the Cave. I hope we won’t get lost.
+<b>Elder:</b> The well is in the deepest parts of the Cave. I hope we won’t get lost.
+<b>Elder:</b> Can I give you the artefact right now? It’s a bit heavy for my old bones…
+<b>Elder:</b> Can I give you the artefact right now?  It’s a bit heavy for my old bones…
+<b>Elder:</b> Let us go!
+<b>Elder:</b> Let us go!
+<b>Elder:</b> There it is! Throw the artefact inside!
+<b>Elder:</b> There it is! Throw the artefact inside!
+You throw the Odd Keystone into the well.
+You throw the Odd Keystone into the well.
+Suddenly, a form emerges!
+Suddenly, a form emerges!
+<b>Elder:</b> Oh my! Look at this… A bit creepy isn’t it? Glad you’re here!
+<b>Elder:</b> Oh my! Look at this… A bit creepy isn’t it? Glad you’re here!
+<b>Elder:</b> It seems there are more of them coming from the well.
+<b>Elder:</b> It seems there are more of them coming from the well.
+<b>Elder:</b> If you need more of these strange Pokémon, interacting with the well should do the trick.
+<b>Elder:</b> If you need more of these strange Pokémon, interacting with the well should do the trick.
+<b>Elder:</b> Anyway, looks like my daughter was right about this artefact.
+<b>Elder:</b> Anyway, looks like my daughter was right about this artefact.
+<b>Elder:</b> I hope this gesture will appease her spirit…
+<b>Elder:</b> I hope this gesture will appease her spirit…
+<b>Elder:</b> Now, can I ask you to bring me back to the entrance?
+<b>Elder:</b> Now, can I ask you to bring me back to the entrance?
+A form emerges from the well!
+A form emerges from the well!
+<b>Angelo:</b> Aaaaah! A ghost!
+<b>Angelo:</b> Aaaaah! A ghost!
+<b>Angelo:</b> You're not a ghost but you're still scary!
+<b>Angelo:</b> You're not a ghost but you're still scary!
+You can't go out, you have to escort the Elder man to the well!
+You can't go out, you have to escort the Elder man to the well!
+<b>Elder:</b> Thanks a lot for your help young one. Please accept this token of gratitude.
+<b>Elder:</b> Thanks a lot for your help young one.  Please accept this token of gratitude.
+<b>Elder:</b> See you around!
+<b>Elder:</b> See you around!
+<b>Kapough:</b> Hi! I'm a real human!
+<b>Kapough:</b> Hi! I'm a real human!
+<b>Kapough:</b> Good day to you fellow human!
+<b>Kapough:</b> Good day to you fellow human!

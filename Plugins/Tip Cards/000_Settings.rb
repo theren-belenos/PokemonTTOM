@@ -109,11 +109,117 @@ module Settings
 				:GymInfos => 2
 			},
 			
-			:TOWNSTATUSCENTER => {
-				:Title => _INTL("Town Status Center"),
+			:TOWNSTATUSCENTER1 => {
+				:Title => _INTL("Town General Infos"),
                 :Text => _INTL("WIP"),
                 :Background => "bg2",
 				:TownStatus => 1
+			},
+			
+			:TOWNSTATUSCENTER2 => {
+				:Title => _INTL("Workers Status"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 2
+			},
+			
+			:TOWNSTATUSCENTER3 => {
+				:Title => _INTL("City tasks - Tier 0"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 3
+			},
+			
+			:TOWNSTATUSCENTER4 => {
+				:Title => _INTL("City tasks - Tier 1"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 4
+			},
+			
+			:TOWNSTATUSCENTER5 => {
+				:Title => _INTL("City tasks - Tier 5 1/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 5
+			},
+			
+			:TOWNSTATUSCENTER6 => {
+				:Title => _INTL("City tasks - Tier 5 2/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 6
+			},
+			
+			:TOWNSTATUSCENTER7 => {
+				:Title => _INTL("City tasks - Tier 10 1/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 7
+			},
+			
+			:TOWNSTATUSCENTER8 => {
+				:Title => _INTL("City tasks - Tier 10 2/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 8
+			},
+			
+			:TOWNSTATUSCENTER9 => {
+				:Title => _INTL("City tasks - Tier 20 1/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 9
+			},
+			
+			:TOWNSTATUSCENTER10 => {
+				:Title => _INTL("City tasks - Tier 20 2/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 10
+			},
+			
+			:TOWNSTATUSCENTER11 => {
+				:Title => _INTL("City tasks - Tier 30 1/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 11
+			},
+			
+			:TOWNSTATUSCENTER12 => {
+				:Title => _INTL("City tasks - Tier 30 2/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 12
+			},
+			
+			
+			:TOWNSTATUSCENTER13 => {
+				:Title => _INTL("City tasks - Tier 50 1/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 13
+			},
+			
+			:TOWNSTATUSCENTER14 => {
+				:Title => _INTL("City tasks - Tier 50 2/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 14
+			},
+			
+			:TOWNSTATUSCENTER15 => {
+				:Title => _INTL("City tasks - Tier 70 1/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 15
+			},
+			
+			:TOWNSTATUSCENTER16 => {
+				:Title => _INTL("City tasks - Tier 70 2/2"),
+                :Text => _INTL("WIP"),
+                :Background => "bg2",
+				:TownStatus => 16
 			},
 			
 			:MELLYINFOS => {
@@ -128,7 +234,7 @@ module Settings
 			:SAMYINFOS => {
 				:Title => _INTL("Samy"),
                 :Text => _INTL("WIP"),
-                :Image => "MELLY",
+                :Image => "SAMY",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:TrainersInfos => 2
@@ -137,7 +243,7 @@ module Settings
 			:KIANAINFOS => {
 				:Title => _INTL("Kiana"),
                 :Text => _INTL("WIP"),
-                :Image => "MELLY",
+                :Image => "KIANA",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:TrainersInfos => 3
@@ -146,7 +252,7 @@ module Settings
 			:RIVALINFOS => {
 				:Title => _INTL("Rival"),
                 :Text => _INTL("WIP"),
-                :Image => "MELLY",
+                :Image => "RIVAL1",
 				:ImagePosition => :Left,
                 :Background => "bg2",
 				:TrainersInfos => 4
@@ -710,7 +816,7 @@ module Settings
 				:Stars => 2
 			},
 			
-			:PKMNBREEDERMALE => {
+			:POKEMONBREEDERMALE => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Pokemon Breeder &m;"),
                 :Image => "POKEMONBREEDERMALE",
@@ -719,7 +825,7 @@ module Settings
 				:Stars => 2
 			},
 			
-			:PKMNBREEDERFEMALE => {
+			:POKEMONBREEDERFEMALE => {
                 :Title => _INTL("Challenger"),
                 :Text => _INTL("Pokemon Breeder &f;"),
                 :Image => "POKEMONBREEDERFEMALE",
@@ -1936,9 +2042,8 @@ module Settings
                 :Image => "towndev15",
 				:ImagePosition => :Top,
                 :Background => "bg2",
-				:Funds => 1500,
-				:Workers => 0,
-				:Instant => 1,
+				:Funds => 2000,
+				:Workers => 2,
 				:BuildingIndex => 15
 			},
 			:TOWNDEV15REWARDS => {
@@ -1954,7 +2059,7 @@ module Settings
                 :Image => "towndev16",
 				:ImagePosition => :Top,
                 :Background => "bg2",
-				:Funds => 2500,
+				:Funds => 2000,
 				:Workers => 0,
 				:Instant => 1,
 				:BuildingIndex => 16
@@ -2140,7 +2245,7 @@ module Settings
                 :Image => "towndev27",
 				:ImagePosition => :Top,
                 :Background => "bg2",
-				:Funds => 0,
+				:Funds => 1000,
 				:Workers => 1,
 				:BuildingIndex => 27
 			},
@@ -2155,7 +2260,218 @@ module Settings
 			#---------------------------------------------------------------------------------------
 			#	Fame 10
 			#---------------------------------------------------------------------------------------
+			:TOWNDEV28 => {
+                :Title => _INTL("Dept.Store - Floor 3 opening"),
+                :Text => _INTL("<i>Prerequisites: Dept. Store 2-1.</i>\nOpens the third floor of the Dept. Store (Battle items & Stones)."),
+                :Image => "towndev28",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 4000,
+				:Workers => 2,
+				:BuildingIndex => 28
+			},
+			:TOWNDEV28REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Unlocks these items:\n- Battle items: X Attack, X Defense, X Sp. Atk, X Sp. Def, X Speed, X Accuracy\n- Stones: Fire Stone, Water Stone, Leaf Stone, Thunder Stone, Ice Stone."),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV29 => {
+                :Title => _INTL("Dept.Store - Floor 2 Lvl. 2"),
+                :Text => _INTL("<i>Prerequisites: Dept. Store 2-1.</i>\nUpgrades the second floor of the Department Store (Exploration items & Berries)."),
+                :Image => "towndev29",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 4000,
+				:Workers => 0,
+				:Instant => 1,
+				:BuildingIndex => 29
+			},
+			:TOWNDEV29REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Unlocks these items:\n- Exploration Items: Honey\n- Berries: Grepa, Hondew, Kelpsy, Pomeg, Qualot, Tamato"),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV30 => {
+                :Title => _INTL("Dept.Store - Floor 1 Lvl. 3"),
+                :Text => _INTL("<i>Prerequisites: Dept. Store 1-2.</i>\nUpgrades the first floor of the Department Store (Medicines & Balls)."),
+                :Image => "towndev30",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 4000,
+				:Workers => 0,
+				:Instant => 1,
+				:BuildingIndex => 30
+			},
+			:TOWNDEV30REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Unlocks these items:\n- Medicines: Ice Heal, Revive\n- Balls: Dusk ball, Filet Ball, Dive Ball, Lure Ball"),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV31 => {
+                :Title => _INTL("Gym Welcoming - Lvl.2"),
+                :Text => _INTL("<i>Prerequisites: Gym Welcoming - Lvl.1.</i>\nSend Marley in training to improve the odds of the challengers coming back after defeat."),
+                :Image => "towndev31",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 5000,
+				:Workers => 0,
+				:BuildingIndex => 31
+			},
+			:TOWNDEV31REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Change the odds of challengers coming back:\n- Come back once: 70% chances\n- Come back twice: 20% -> 35%\n- Come back 3 times and more: 0%\n<i>Marley will be unavailable for the next couple of days</i>"),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV32 => {
+                :Title => _INTL("Gym Exteriors - Lvl. 2"),
+                :Text => _INTL("<i>Prerequisites: Gym Exteriors - Lvl.1.</i>\nImprove your Gym exteriors, improving fame."),
+                :Image => "towndev32",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 5000,
+				:Workers => 2,
+				:BuildingIndex => 32
+			},
+			:TOWNDEV32REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Change the appearance of your Gym. Passive town fame +3 per week."),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV33 => {
+                :Title => _INTL("Pokémon Center - Mezzanine"),
+                :Text => _INTL("<i>Prerequisites: Pokémon Center - Floor 1.</i>\nOpening of the Pokémon Center Mezzanine, give access to the Achievement System and improves tourism."),
+                :Image => "towndev33",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 3000,
+				:Workers => 1,
+				:BuildingIndex => 33
+			},
+			:TOWNDEV33REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Passive town income +$1000 per week.\nUnlocks the Achievement System, split into General Achievements and Pokedex Progression. Earn exclusive rewards when reaching 25%, 50% and 100% of each achievement."),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV34 => {
+                :Title => _INTL("Pokémon Lab - Lvl.4"),
+                :Text => _INTL("<i>Prerequisites: Pokémon Lab 3.</i>\nUnlocks the urbanist and greatly improves tourism."),
+                :Image => "towndev34",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 2000,
+				:Workers => 1,
+				:BuildingIndex => 34
+			},
+			:TOWNDEV34REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Passive town income +$2000 per week.\nReplace the bed upstairs with the urbanist office. Allows you to customize the appearance of your town's buildings."),
+				:Background => "bg2",
+			},
+			
+			:TOWNDEV35 => {
+                :Title => _INTL("Block n°1"),
+                :Text => _INTL("<i>Prerequisites: Clearing Block 1.</i>\nBuild the first block, giving a flat to Samy."),
+                :Image => "towndev35",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 8000,
+				:Workers => 2,
+				:BuildingIndex => 35
+			},
+			:TOWNDEV35REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("- Samy will be glad!\n- Visit the block to find some items, and a new quest."),
+                :Background => "bg2",
+			},
+			
+			
+			:TOWNDEV36 => {
+                :Title => _INTL("Clearing - House 2"),
+                :Text => _INTL("<i>Prerequisites: Clearing Block 1.</i>\nClears the wreckage on the House 2."),
+                :Image => "towndev36",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 0,
+				:Workers => 1,
+				:BuildingIndex => 36
+			},
+			:TOWNDEV36REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Allows you to build the House 2 afterwards."),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV37 => {
+                :Title => _INTL("Safari Park - Lvl.1"),
+                :Text => _INTL("<i>Prerequisites: Clearing Safari Park.</i>\nOpens the Safari Park, with exclusive Pokémon."),
+                :Image => "towndev37",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 10000,
+				:Workers => 3,
+				:BuildingIndex => 37
+			},
+			:TOWNDEV37REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Available Pokémon:\n Chingling, Magby, Paras, Drowzee, Shuckle, Bonsly, Spinarak, Exeggcute, Heracross, Mantyke, Carvanha, Flamigo, Alomomola, Phanpy, Tympole. OldRod: Tentacool ; GoodRod: Clamperl, Veluza ; SuperRod: Luvdisc, Clauncher ; Surf: Tentacruel, Clamperl, Veluza"),
+                :Background => "bg2",
+			},
+			
+			:TOWNDEV38 => {
+                :Title => _INTL("Clearing - Clothes Shop"),
+                :Text => _INTL("Clears the wreckage on the Clothes Shop."),
+                :Image => "towndev38",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 0,
+				:Workers => 1,
+				:BuildingIndex => 38
+			},
+			:TOWNDEV38REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Allows you to build the Clothes Shop afterwards."),
+                :Background => "bg2",
+			},
+				
+			:TOWNDEV39 => {
+                :Title => _INTL("Clearing - Casino"),
+                :Text => _INTL("Clears the wreckage on the Casino."),
+                :Image => "towndev39",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 0,
+				:Workers => 2,
+				:BuildingIndex => 39
+			},
+			:TOWNDEV39REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Allows you to build the Casino afterwards."),
+                :Background => "bg2"
+			},
+				
+			:TOWNDEV40 => {
+                :Title => _INTL("Clearing - Harbor"),
+                :Text => _INTL("Clears the wreckage on the Harbor."),
+                :Image => "towndev40",
+				:ImagePosition => :Top,
+                :Background => "bg2",
+				:Funds => 0,
+				:Workers => 2,
+				:BuildingIndex => 40
+			},
+			:TOWNDEV40REWARDS => {
+                :Title => _INTL("Rewards"),
+                :Text => _INTL("Allows you to build the Harbor afterwards."),
+                :Background => "bg2",
+			},
 		}	
+		
 
         TIP_CARDS_GROUPS = {
             
