@@ -5469,7 +5469,7 @@ Marché Bien-être - Lvl 1
 Opens the Selfcare exterior market
 Oure le Marché extérieur de Bien-être.
 Passive town income +$500 per week.<<n>>Three different PNJs become available:<<n>>- A masseuse to improve Pokémon happiness.<<n>>- A Pokéfan that can judge Pokémon happiness.<<n>>- A stylist that can improve Pokémon beauty.
-Fonds passifs +$500 par semaine.<<n>>Trois PNJs deviennent disponibles:<<n>>- Une masseuse qui améliore le bonheur des Pokémon. <<n>>- Une Pökéfan qui juge le bonheur des Pokémon.<<n>>- Une stylite qui améliore la beauté des Pokémon.
+Fonds passifs +$500 par semaine.<<n>>Trois PNJs deviennent disponibles:<<n>>- Une masseuse qui améliore le bonheur des Pokémon. <<n>>- Une Pokéfan qui juge le bonheur des Pokémon.<<n>>- Une styliste qui améliore la beauté des Pokémon.
 Graphics/UI/Town Map/Regions/
 Graphics/UI/Town Map/RegionsVF/
 Workers:
