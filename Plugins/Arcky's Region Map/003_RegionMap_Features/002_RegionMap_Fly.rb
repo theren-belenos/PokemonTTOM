@@ -34,6 +34,14 @@ class PokemonRegionMap_Scene
         selFlySpots[key] << [flySpot, pos[:x], pos[:y]]
       end
       selFlySpots.each do |index, spot|
+	    puts "index[0]"
+		puts index[0]
+		puts "index[1]"
+		puts index[1]
+		puts "index[2]"
+		puts index[2]
+		puts "spot"
+		puts spot
 		if $town.getBuildingData(index[0])[2] == 0 || $town.buildings[index[0]] > 0
 			if $town.buildings[index[0]] > $town.getBuildingData(index[0])[1]
 				name = "TownDevBuilt"

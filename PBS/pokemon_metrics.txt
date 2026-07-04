@@ -4604,7 +4604,7 @@ ShadowSprite = 0,-23,5
 BackSprite = 0,5
 FrontSprite = 0,8
 ShadowSize = 2
-ShadowSprite = 0,-24,7
+ShadowSprite = 0,-25,7
 #-------------------------------
 [FLETCHINDER]
 BackSprite = 0,-16

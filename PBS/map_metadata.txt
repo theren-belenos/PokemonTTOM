@@ -113,6 +113,12 @@ Name = Pokémon Lab
 MapPosition = 0,22,15
 TrainerBattleBGM = battle_rival
 TrainerVictoryBGM = battle_victory_trainer
+#-------------------------------
+[421]   # Pokémon Lab
+Name = Pokémon Lab
+MapPosition = 0,22,15
+TrainerBattleBGM = battle_rival
+TrainerVictoryBGM = battle_victory_trainer
 
 #-------------------------------
 [087]   # Safari reception
