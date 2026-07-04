@@ -1,0 +1,404 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map245]
+<b>Man:</b> ZZZZzzzzz…
+<b>Homme:</b> ZZZZzzzzz…
+<b>Butch:</b> What? Hey you’re the one from Route 9!
+<b>Butch:</b> Quoi ? Hé j’me rappelle de toi, sur la Route 9 !
+<b>Butch:</b> What?
+<b>Butch:</b> Quoi ?
+<b>Cassidy:</b> We’re not doing anything illegal here! We will compete fair and square!
+<b>Cassidy:</b> On fait rien d’illégal ici ! On participe dans les règles !
+<b>Butch:</b> Leave us alone!
+<b>Butch:</b> Fiche nous la paix !
+<b>Butch:</b> On double battles, we will take on anybody! Even you!
+<b>Butch:</b> Maintenant qu’on est en duo, on peut battre n’importe qui ! Même vous !
+<b>Cassidy:</b> Hey, that’s the girl that eliminated me! I will have my revenge!
+<b>Cassidy:</b> Hey, c’est la fille qui m’a éliminé ! J’aurai ma revanche !
+<b>Butch:</b> We meet now, right? You kids are done for!
+<b>Butch:</b> On se rencontre maintenant hein ! Vous êtes foutus !
+<b>Tourist &m:</b> My! Even their battle arenas are so picturesque!
+<b>Touriste &m:</b> Ohlala ! Même leurs arènes de combat sont si pittoresques !
+<b>Tourist &f:</b> Really! They have so little, but give so much!
+<b>Touriste &f:</b> Vraiment ! Ils ont si peu, mais donnent tant !
+<b>Mother:</b> Hey, you’re the one that helped us when we lost Kitty! How are you?
+<b>Maman:</b> Hé, c’est toi qui nous a aidé quand on avait perdu Kitty! Comment vas-tu ?
+<b>Mother:</b> Good luck in the tournament!
+<b>Maman:</b> Bonne chance dans le tournoi !
+<b>Little girl:</b> What’s your number? 9? Eeeeh, you’re my first enemy!
+<b>Petite fille:</b> C’est quoi ton numéro ? 9 ? Eeeeeh, t’es mon premier ennemi !
+<b>Mother:</b> D…don’t say “enemy” sweetie, it’s a bit… too much!
+<b>Maman:</b> N…Ne dis pas “ennemi”, chérie, c’est un peu… trop !
+<b>Tourist:</b> Finally there! Can’t wait to take a nap!
+<b>Touriste:</b> Enfin arrivé ! J'ai hâte de faire une sieste !
+<b>\v[12]:</b> Try not to lose before our battle, loser!
+<b>\v[12]:</b> Essaye de ne pas perdre avant notre combat, loser !
+<b>\v[12]:</b> Didn’t lose yet? Heh!
+<b>\v[12]:</b> T’as pas encore perdu ? Heh !
+<b>\v[12]:</b> Next one is us, right? Sorry for your impending defeat hahaha!
+<b>\v[12]:</b> Prochain round c’est nous, c’est ça ? Désolé par avance pour ta défaite hahaha !
+<b>Woman:</b> This place is perfect for relaxing! Way more calm than public beaches at East Nekanta!
+<b>Dame:</b> Cet endroit est parfait pour se détendre ! Bien plus calme que les plages publiques de l'Est Nekanta !
+<b>Butch:</b> What? How come we didn’t even get past the first round?
+<b>Butch:</b> Quoi ? Comment c’est possible qu’on passe même pas le premier round ?
+<b>Cassidy:</b> I stumbled upon a pink haired monster! I swear she was scary!
+<b>Cassidy:</b> Je suis tombée sur un monstre aux cheveux roses ! J’te jure qu’elle faisait peur !
+<b>Butch:</b> …don’t make this even harder now.
+<b>Butch:</b> …n’aggrave pas notre cas.
+<b>Grunt Ana:</b> What. This girl crushed me hard, like, man…
+<b>Sbire Ana:</b> Hein. Cette fille m’a absolument écrasée. Genre, mec…
+<b>Grunt Bob:</b> Nooo! I was so close!
+<b>Sbire Bob:</b> Noooon ! C’était si serré !
+<b>\c[9]Melly:</b>\c[0] \pn you got him good! Congratulations!
+<b>\c[9]Melly:</b>\c[0] \pn tu l’as bien eu ! Félicitations !
+<b>\c[9]Melly:</b>\c[0] I think he left already. I don’t know if he will battle in the duo tournament?
+<b>\c[9]Melly:</b>\c[0] Je crois qu’il est déjà parti. Je sais pas s’il participera au tournoi duo ?
+<b>\c[9]Melly:</b>\c[0] Me? I lost. And it wasn’t even close.
+<b>\c[9]Melly:</b>\c[0] Moi ? J’ai perdu. Et c’était même pas un peu serré.
+<b>\c[9]Melly:</b>\c[0] To be honest, I don’t think even you can beat her…
+<b>\c[9]Melly:</b>\c[0] Honnêtement, même toi je pense pas que tu pourras la battre…
+<b>Youngster:</b> Eeeeh? Everyone here seems so strong!
+<b>Gamin:</b> Heiiin ? Tout le monde a l’air si fort ici !
+<b>Crush Girl:</b> I’m ready! I will crush everyone!
+<b>Fille Baston:</b> Je suis prête ! J’écraserai tout le monde !
+<b>Crush Girl:</b> One down! Three more to go!
+<b>Fille Baston:</b> Un de moins ! Plus que 3 !
+<b>Psychic:</b> Now we’re invincible!
+<b>Kinésiste:</b> Maintenant on est invincibles !
+<b>Crush Girl:</b> Brains and Brawl, baby! Let’s rock!
+<b>Fille Baston:</b> Le cerveau et le crâne ! C’est parti !
+<b>Psychic:</b> …do you mean brains and brawn?
+<b>Kinésiste:</b> …tu veux dire le cerveau et les muscles ?
+<b>Crush Girl:</b> What? What’s that supposed to mean?
+<b>Fille Baston:</b> Hein ? C’est censé vouloir dire quoi ?
+<b>Psychic:</b> …
+<b>Kinésiste:</b> …
+<b>Artist:</b> The natural light is really good here! I should paint something!
+<b>Artiste:</b> La lumière est vraiment bonne ici ! Je devrais peindre quelque chose !
+<b>Preschooler Boy:</b> My mama says we have to protect ourselves from the sun!
+<b>Petit garçon:</b> Ma maman dit qu'il faut se protéger du soleil !
+<b>Preschooler Girl:</b> Eeeeh ? But sun is kind, he won’t attack us!
+<b>Petite Fille:</b> Heiiiin ? Mais soleil est gentil, il va pas nous attaquer !
+<b>Grunt Ana:</b> Hey, aren’t you the kid from the Geodude Pit?
+<b>Sbire Ana:</b> Hey, t’es pas l’enfant qu’on a vu dans la Fosse Racaillou ?
+<b>Grunt Bob:</b> I think you’re right! Hello pal!
+<b>Sbire Bob:</b> Je crois que t’as raison ! Salut poto !
+<b>Grunt Ana:</b> Actually, because you defeated us, we failed our mission…
+<b>Sbire Ana:</b> En fait, comme tu nous as battus, notre mission était un échec…
+<b>Grunt Ana:</b> We decided the best thing to do was to escape from the Team.
+<b>Sbire Ana:</b> On a décidé que la meilleure chose à faire était de quitter la Team.
+<b>Grunt Bob:</b> So we didn’t get arrested with the others haha! We kinda owe you one!
+<b>Sbire Bob:</b> Et du coup on s’est pas fait arrêtés haha ! On a presque une dette envers toi !
+<b>Grunt Ana:</b> Yea so we don't hold a grudge against you or anything! Let’s battle properly!
+<b>Sbire Ana:</b> Ouais donc on t’en veut pas ou quoi ! Battons-nous à la loyale !
+<b>Grunt Bob:</b> We still wear our uniforms… I hope it won’t turn against us.
+<b>Sbire Bob:</b> On porte toujours nos uniformes… J’espère que ça ne se retournera pas contre nous.
+<b>Grunt Ana:</b> Heh. The first one was so easy.
+<b>Sbire Ana:</b> Heh. Le premier était vraiment gratuit.
+<b>Grunt Bob:</b> Piece of cake!
+<b>Sbire Bob:</b> Une promenade de santé !
+<b>Grunt Bob:</b> Hey hey, pal! Maybe we will battle during the final!
+<b>Sbire Bob:</b> Hey hey, poto ! On se rencontrera peut-être en finale !
+<b>\c[9]Melly:</b>\c[0] P-pal? A-are you a friend of his?
+<b>\c[9]Melly:</b>\c[0] P-poto ? C-c’est un de tes amis ?
+<b>\c[9]Melly:</b>\c[0] What’s with your outfit anyway?
+<b>\c[9]Melly:</b>\c[0] C’est quoi le délire avec tes habits d’ailleurs ?
+<b>Grunt Bob:</b> Erm… That’s nothing. Hey, you defeated me during the solo tournament!
+<b>Sbire Bob:</b> Erm… C’est rien. Hey, tu m’as battu lors du tournoi solo !
+<b>Grunt Ana:</b> Really now, Bob? She must be stronger than she looks!
+<b>Sbire Ana:</b> Vraiment, Bob ? Elle doit être plus forte qu’elle en a l’air !
+<b>\c[9]Melly:</b>\c[0] Y-yes! And I beat you once again! With \pn, we’re invincible!
+<b>\c[9]Melly:</b>\c[0] O-ouais ! Et je vous battrai de nouveau ! Avec \pn, on est invincibles !
+<b>Grunt Ana:</b> Oho! Okay, I like this! Good luck then!
+<b>Sbire Ana:</b> Oho ! Okay, j’aime bien ! Bonne chance alors !
+<b>Grunt Bob:</b> Just you and us, huh? Let’s have a nice battle, kiddos!
+<b>Sbire Bob:</b> Plus que nous, hein ? Allez les gosses, c’est parti pour un joli combat !
+<b>Grunt Ana:</b> I won’t be defeated by either of you anymore! Mark my words!
+<b>Sbire Ana:</b> Aucun de vous deux ne pourra me battre, plus jamais !
+<b>Psychic:</b> Hey, seems like an interesting tournament now…
+<b>Kinésiste:</b> Hey, ça c’est un tournoi intéressant…
+<b>Tourist:</b> What a nice place! I can forget all my problems here…
+<b>Touriste:</b> Quel bel endroit ! Je peux oublier tous mes problèmes ici...
+Camosack Grand Hotel
+Grand Hotel de Camosack
+<b>Jeremy:</b> Oh hi \pn how are you? Good luck during the tournament!
+<b>Jeremy:</b> Oh salut \pn comment vas-tu ? Bonne chance pour le tournoi !
+<b>Jeremy:</b> Hey \pn, it seems I will battle you during the next match. Good luck my friend!
+<b>Jeremy:</b> Hey \pn, apparemment on s’affronte au prochain round. Bonne chance mon ami !
+<b>Tourist:</b> Honey, did you put some solar lotion?
+<b>Touriste:</b> Chéri, tu as mis de la crème solaire ?
+<b>Grimmsnarl:</b> Riiiimsnar!
+<b>Angoliath:</b> Gooooliath !
+It looks like a drawing board. But there is nothing on it.
+On dirait un panneau d'affichage. Mais il n'y a rien dessus.
+You look at the tournament bracket.
+Vous consultez l'arbre du tournoi.
+<b>\c[4]???:</b>\c[0] What do you want? Go away!
+<b>\c[4]???:</b>\c[0] Qu’est-ce que tu veux ? Va-t-en !
+<b>\c[4]???:</b>\c[0] Can’t you just stop looking at me?
+<b>\c[4]???:</b>\c[0] Tu veux pas arrêter de me regarder ?
+<b>\c[4]???:</b>\c[0] Hmpf, you still here? Maybe you can offer a decent challenge?
+<b>\c[4]???:</b>\c[0] Hmpf, toujours là ? Peut-être que toi, tu peux offrir un challenge décent ?
+<b>\c[4]???:</b>\c[0] So, you’re my opponent for the final? Hmm, okay.
+<b>\c[4]???:</b>\c[0] Donc t’es mon adversaire pour la finale ? Hmm, okay.
+<b>\c[4]Kiana:</b>\c[0] I’m Kiana. I came from the Faraway Islands for my studies.
+<b>\c[4]Kiana:</b>\c[0] Je suis Kiana. Je suis venu des Îles Faraway pour mes études.
+<b>\c[4]Kiana:</b>\c[0] Yes, I’m young. So what? Do you think it makes me weaker than you?
+<b>\c[4]Kiana:</b>\c[0] Oui, je suis jeune. Et alors ? Tu crois que ça me rend moins forte que toi ?
+<b>\c[4]Kiana:</b>\c[0] Bring it on! Our battle shall be spectacular!
+<b>\c[4]Kiana:</b>\c[0] Ramène-toi ! Notre combat sera des plus spectaculaires !
+<b>Elder:</b> I don’t care, I will stay here for the rest of my life!
+<b>Papy:</b> Je m'en fiche, je resterai ici pour le reste de mes jours !
+<b>Tourist :</b> My! Even their battle arenas are so picturesque!
+<b>Tourist :</b> My! Even their battle arenas are so picturesque!
+<b>Tourist :</b> Really! They have so little, but give so much!
+<b>Tourist :</b> Really! They have so little, but give so much!
+You relax at Camosack beach with Madame S so much that you almost fall asleep.
+Vous vous détendez à la plage avec Madame S au point que vous vous endormez presque.
+Good thing you put on sunscreen!
+Heureusement que vous avez mis de la crème solaire !
+<b>\c[11]???:</b>\c[0] Oh hello you pretty little thing, how are you? You can call me Madame S !
+<b>???</b> Oh bonjour joli coeur, comment vas-tu ? Tu peux m’appeler Madame S !
+<b>\c[11]Madame S:</b>\c[0] You want to run in my humble tournament ?
+<b>\c[11]Madame S:</b>\c[0] Tu veux participer à mon humble tournoi ?
+Warning: When the tournament begins, you won’t be able to go out of the city until its end.
+Attention : Une fois le tournoi commencé, vous ne pourrez pas quitter Camosack avant la fin.
+Continue?
+Continuer ?
+<b>\c[11]Madame S:</b>\c[0] All right, first is the Solo tournament, and then the duos.
+<b>\c[11]Madame S:</b>\c[0] Très bien, tout d’abord il y a le tournoi solo, et ensuite le duo.
+<b>\c[11]Madame S:</b>\c[0] Let me check this… hum… you will have the number 9!
+<b>\c[11]Madame S:</b>\c[0] Laisse moi vérifier… hum… tu auras le numéro 9 !
+<b>\c[11]Madame S:</b>\c[0] Good luck, honey~ I’ll cheer for you!
+<b>\c[11]Madame S:</b>\c[0] Bonne chance mon chéri~ je t’encouragerai !
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, here you are! You finished the sign-up?
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, te voici ! T’as fini de t’inscrire ?
+<b>\c[9]Melly:</b>\c[0] You’re number 9? I have the number 1! I was the first to sign, I’m so impatient!
+<b>\c[9]Melly:</b>\c[0] T’es numéro 9 ? J’ai le numéro 1 ! J’étais la première à m’inscrire, j’avais trop hâte !
+<b>\c[9]Melly:</b>\c[0] Let’s check the tournament bracket!
+<b>\c[9]Melly:</b>\c[0] Allons voir l’arbre du tournoi !
+You check the sign. It shows you the tournament bracket.
+Vous regardez le panneau. Il montre l’arbre du tournoi.
+<b>\c[9]Melly:</b>\c[0] Hey, we’re on the opposite sides of the bracket! Let’s do our best and meet at the final, okay?
+<b>\c[9]Melly:</b>\c[0] Hey, on est sur des côtés opposés de l’arbre ! Faisons de notre mieux et retrouvons-nous en finale, ok ?
+<b>\v[12]:</b> Ha, you two in the grand finals? Do you want everyone to die from laughter??
+<b>\v[12]:</b> Ha, vous deux en finale ? Vous voulez que tout le monde meure de rire ??
+<b>\c[9]Melly:</b>\c[0] \v[12]? Are you in the tournament too?
+<b>\c[9]Melly:</b>\c[0] \v[12] ? T’es aussi dans le tournoi ?
+<b>\v[12]:</b> Yea, of course. I’m number 16. So it means I’ll get to crush \pn even before the final!
+<b>\v[12]:</b> Evidemment. J’ai le numéro 16. Donc je pourrai balayer \pn avant même la finale ! Héhéhé~
+<b>\c[9]Melly:</b>\c[0] As if! He will beat you fair and square, just like every single time before!
+<b>\c[9]Melly:</b>\c[0] Tu parles ! Il te battra sans problèmes, comme à chaque fois !
+<b>\v[12]:</b> Pfff, we will see! Sorry in advance, I will crush your hopes in this competition!
+<b>\v[12]:</b> Pfff, on verra ! Désolé par avance, j’anéantirai vos espoirs dans cette compétition !
+<b>\v[12]:</b> Try not to lose before our battle, loser! Cya!
+<b>\v[12]:</b> Essaye de ne pas perdre avant notre combat, loser ! A+ !
+<b>\c[9]Melly:</b>\c[0] No but really, what’s his problem?
+<b>\c[9]Melly:</b>\c[0] Non mais vraiment ! C’est quoi son problème ?!
+<b>\c[9]Melly:</b>\c[0] Well, we just have to beat everyone else! Let’s go!
+<b>\c[9]Melly:</b>\c[0] Bon, on doit juste battre tout le monde ! C’est parti !
+<b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready. Good luck!
+<b>\c[9]Melly:</b>\c[0] Je crois qu’on peut parler à Madame S quand on est prêts. Bonne chance !
+<b>\c[11]Madame S:</b>\c[0] You don’t have to be afraid sweetie!
+<b>\c[11]Madame S:</b>\c[0] Tu n’as pas à avoir peur trésor !
+<b>\c[11]Madame S:</b>\c[0] Do you want to join?
+<b>\c[11]Madame S:</b>\c[0] Veux-tu t’inscrire ?
+<b>\c[11]Madame S:</b>\c[0] Are you ready for the first solo round sweetie?
+<b>\c[11]Madame S:</b>\c[0] Es-tu prêt pour le premier round solo mon chéri ?
+You wait for your turn...
+Vous attendez votre tour...
+<b>Little girl:</b> Good luck ennemy!
+<b>Petite Fille:</b> Bonne chance ennemi !
+<b>Little girl:</b> Wooooh! You’re big strong!!!
+<b>Petite Fille:</b> Wooooh ! T'es maxi fort !!!
+It was just a bad dream, right?
+C'était juste un mauvais rêve, non ?
+<b>\c[11]Madame S:</b>\c[0] Don’t take too long!
+<b>\c[11]Madame S:</b>\c[0] Ne prends pas trop de temps !
+<b>\c[11]Madame S:</b>\c[0] Are you ready for the second solo round sweetie?
+<b>\c[11]Madame S:</b>\c[0] Es-tu prêt pour le deuxième round solo mon chéri ?
+<b>Jeremy:</b> Good luck my friend!
+<b>Jeremy:</b> Bonne chance mon ami !
+<b>Jeremy:</b> I got absolutely destroyed, huh? Not so surprising, Leader!
+<b>Jeremy:</b> J’me suis vraiment fait détruire, hein ? Pas vraiment surprenant, Leader !
+<b>\c[11]Madame S:</b>\c[0] Are you ready for the solo semifinals sweetie?
+<b>\c[11]Madame S:</b>\c[0] Es-tu prêt pour la demi-finale solo mon chéri ?
+<b>\v[12]:</b> Please don't cry when you loose!
+<b>\v[12]:</b> S'il te plait ne te mets pas à pleurer quand tu auras perdu !
+<b>\v[12]:</b> Tch! I lost again?
+<b>\v[12]:</b> Tch! J’ai encore perdu ?
+<b>\v[12]:</b> Damn, okay, I must admit you’re not THIS bad.
+<b>\v[12]:</b> Bon, ok. J’admet que t’es ptet pas SI mauvais.
+<b>\v[12]:</b> I’m out of this. Bye.
+<b>\v[12]:</b> Dans tous les cas moi j’me casse. Bye.
+<b>\c[11]Madame S:</b>\c[0] Are you ready for the solo final sweetie?
+<b>\c[11]Madame S:</b>\c[0] Es-tu prêt pour la finale solo mon chéri ?
+<b>\c[4]Kiana:</b>\c[0] No! How did I lose against someone here!
+<b>\c[4]Kiana:</b>\c[0] Non ! Comment ai-je pu perdre contre quelqu'un ici !
+<b>\c[4]Kiana:</b>\c[0] Hmpf, I may have underestimated you.
+<b>\c[4]Kiana:</b>\c[0] Hmpf, je t’ai peut-être sous-estimé.
+<b>\c[4]Kiana:</b>\c[0] You’re actually the first interesting trainer I met in this country. Not so bad.
+<b>\c[4]Kiana:</b>\c[0] Tu dois être le premier dresseur intéressant que je rencontre dans ce pays. Pas si mal.
+<b>\c[4]Kiana:</b>\c[0] We shall meet again, right? But don’t get cocky, you’re only “fine”, right?
+<b>\c[4]Kiana:</b>\c[0] On devrait se recroiser, ok ? Mais prends pas la grosse tête, t’es juste “pas mal”, ok ?
+<b>\c[4]Kiana:</b>\c[0] Eh! Obviously, it’s a win for me.
+<b>\c[4]Kiana:</b>\c[0] Eh ! Evidemment, c’est une victoire pour moi.
+<b>\c[4]Kiana:</b>\c[0] But, I must concede, you’re quite good. I may have underestimated you.
+<b>\c[4]Kiana:</b>\c[0] Mais, je dois admettre, t’es plutôt bon. Je t’ai peut-être sous-estimé.
+<b>\c[4]Kiana:</b>\c[0] Well, I’m on my way. The duo tournament has no interest for me, if there is only 1 good trainer here.
+<b>\c[4]Kiana:</b>\c[0] Aller, moi j’y vais. Le tournoi duo n’a aucun intérêt pour moi puisqu’il n’y a qu’un seul bon dresseur ici.
+<b>\c[4]Kiana:</b>\c[0] See you later.
+<b>\c[4]Kiana:</b>\c[0] A bientôt.
+<b>\c[9]Melly:</b>\c[0] Congratulations \pn!
+<b>\c[9]Melly:</b>\c[0] Félicitations \pn !
+<b>\c[9]Melly:</b>\c[0] I can’t believe you won, it was one of the most intense battles I ever saw!!
+<b>\c[9]Melly:</b>\c[0] J’en reviens pas que t’aies gagné, c’était un des combats les plus intenses que j’ai jamais vus !!
+<b>\c[9]Melly:</b>\c[0] So close \pn, so close!
+<b>\c[9]Melly:</b>\c[0] Pas loin \pn, pas loin !
+<b>\c[9]Melly:</b>\c[0] Don’t bother with the defeat, it was one of the most intense battles I ever saw!!
+<b>\c[9]Melly:</b>\c[0] Sois pas triste d’avoir perdu, c’était un des combats les plus intenses que j’ai jamais vus !!
+<b>\c[9]Melly:</b>\c[0] Next is the double tournament! Still OK with us teaming up right? Yay!!
+<b>\c[9]Melly:</b>\c[0] C’est le tournoi duo juste après ! Toujours OK qu’on se mette ensemble hein ? Ouais !!
+<b>\c[9]Melly:</b>\c[0] But I heard neither \v[12] nor this Kiana girl will be competing…
+<b>\c[9]Melly:</b>\c[0] Mais on m’a dit que ni \v[12] ni cette Kiana ne participeront…
+<b>\c[9]Melly:</b>\c[0] Don’t we lack a team then? Let’s ask Madame S!
+<b>\c[9]Melly:</b>\c[0] Est-ce qu’il ne manque pas une équipe du coup ? Allons demander à Madame S !
+<b>Madame S:</b> Hmm, it’s a bother you’re right…
+<b>Madame S:</b> Hmm tu as raison, c’est embêtant…
+<b>Madame S:</b> You two cuties are teaming up? Well, as you were both in the final four…
+<b>Madame S:</b> Vous formez une équipe mes mignons ? Eh bien, puisque vous étiez tous deux dans le carré final…
+<b>Madame S:</b> Let’s say you are first seed, and you get a bye for the first round!
+<b>Madame S:</b> Disons que vous êtes la première tête de série, et que vous passez le premier round !
+<b>\c[9]Melly:</b>\c[0] Oh, okay! Thank you Madame S!
+<b>\c[9]Melly:</b>\c[0] Oh, okay ! Merci Madame S !
+<b>Madame S:</b> You got it sweetie! Good luck!
+<b>Madame S:</b> Je t’en prie ma chérie ! Bonne chance !
+You wait with Melly as the first round is played…
+Vous attendez avec Melly que le premier round soit joué…
+<b>\c[11]Madame S:</b>\c[0] Are you ready for the duo semifinals sweeties?
+<b>\c[11]Madame S:</b>\c[0] Es-tu prêt pour la demi-finale duo mon chéri ?
+<b>Butch:</b> Ready to get humbled, kids??
+<b>Butch:</b> Prêt à être remis à votre place, les gosses ??
+<b>Cassidy:</b> This time you're done for!
+<b>Cassidy:</b> Cette fois vous êtes foutus !
+<b>Butch:</b> We never stood a chance, right?
+<b>Butch:</b> On a jamais eu la moindre chance, si ?
+<b>Cassidy:</b> Damn… Being crushed by kids all day long is hard for the spirit…
+<b>Cassidy:</b> Aïe… Se faire écraser par des mioches toute la journée, c’est pas bon pour le moral…
+<b>\c[11]Madame S:</b>\c[0] Are you ready for the duo finals sweeties?
+<b>\c[11]Madame S:</b>\c[0] Es-tu prêt pour la finale duo mon chéri ?
+<b>Grunt Bob:</b> Let's play our A-game!
+<b>Sbire Bob:</b> Sortons le grand jeu !
+<b>Grunt Ana:</b> Bring it on!
+<b>Sibre Ana:</b> Ramenez-vous !
+<b>Grunt Ana:</b> Damn. We were completely outclassed!
+<b>Sbire Ana:</b> Erf. On a été complètement surclassés !
+<b>\c[9]Melly:</b>\c[0] Hehehe~
+<b>\c[9]Melly:</b>\c[0] Hehehe~
+<b>Grunt Ana:</b> Hmm? What will we do now that Team Absolution is not around anymore?
+<b>Sbire Ana:</b> Hmm ? Qu’est-ce qu’on va faire maintenant que la Team Absolution n’est plus ?
+<b>Grunt Bob:</b> We don’t really know. We still want to help Pokémon be free, but…
+<b>Sbire Bob:</b> On sait pas trop. On veut toujours travailler à la liberté des Pokémon, mais…
+<b>Grunt Ana:</b> Now that we’re out, we wonder if their methods weren’t a bit… extreme…
+<b>Sbire Ana:</b> Maintenant qu’on est sortis, on se demande si leurs méthodes n’étaient pas un peu… extrêmes…
+<b>\c[9]Melly:</b>\c[0] What?? You were with these awful people stealing Pokémon! How dare you?!
+<b>\c[9]Melly:</b>\c[0] Quoi ?? Vous étiez avec ces horribles personnes qui volaient des Pokémon ? Comment osez-vous !
+<b>Grunt Ana:</b> Relax, tiger. We didn’t mean any harm for the Pokémon, I swear to you.
+<b>Sbire Ana:</b> Calme-toi, terreur. On ne voulait aucun mal aux Pokémon, je te le jure.
+<b>\c[9]Melly:</b>\c[0] Don’t you think these poor Pokémon were sad to be separated from their trainer? Huh?
+<b>\c[9]Melly:</b>\c[0] Vous ne croyez pas que ces Pokémon étaient tristes d’être séparés de leur dresseur ? Hein ?
+<b>Grunt Ana:</b> I’m sure you’re a kind trainer, cutie, I really do.
+<b>Sbire Ana:</b> Je suis sûre que tu es une gentille dresseuse, ma belle, vraiment.
+<b>Grunt Ana:</b> …but are all trainers?
+<b>Sbire Ana:</b> Mais est-ce que tous les dresseurs sont comme toi ?
+<b>\c[9]Melly:</b>\c[0] …
+<b>\c[9]Melly:</b>\c[0] …
+<b>Grunt Bob:</b> Well, well, let’s not fight okay? All of this is in the past now. Let’s stay cool!
+<b>Sbire Bob:</b> Aller, aller, on va pas se disputer, si ? Tout ceci est du passé. Restons cool !
+<b>Grunt Ana:</b> Agreed. You kids stay safe, and maybe we will meet again. See ya!
+<b>Sbire Ana:</b> Je suis d’accord. Les enfants, soyez prudents, et on se recroisera peut-être. A plus !
+<b>Madame S:</b> So this is the end of the tournament! Thank you all for coming!
+<b>Madame S:</b> Donc voici la fin du tournoi ! Merci à tous d’être venus !
+<b>Madame S:</b> First of all, every concurrent get this gift!
+<b>Madame S:</b> Tout d’abord, tous les participants reçoivent ce cadeau !
+<b>Madame S:</b> Be aware, dears, that you need Titaga’s Badge to use it on the field!
+<b>Madame S:</b> Sachez, mes chers, que vous avez besoin du badge de Titaga pour l’utiliser hors-combat !
+<b>Madame S:</b> Then, for the MVT of the tournament… It’s number 9, \pn!
+<b>Madame S:</b> Ensuite, pour le MVT du tournoi… C’est le numéro 9, \pn!
+<b>Madame S:</b> Congratulations sweetie, let me give you the bonus gift!
+<b>Madame S:</b> Félicitations trésor, laisse moi te donner ce fabuleux cadeau !
+<b>Madame S:</b> I will explain what it does after the ceremony, all right sweetie?
+<b>Madame S:</b> Je t’expliquerai ce que c’est après la cérémonie, ok trésor ?
+<b>Madame S:</b> It’s the end of this year's tournament! See you all next time!
+<b>Madame S:</b> C’est la fin du tournoi de cette année ! A la prochaine, tout le monde !
+<b>Madame S:</b> Congratulations again \pn! How can you two cuties be so strong?
+<b>Madame S:</b> Encore bravo \pn ! Comment deux petits amours comme vous peuvent être aussi forts ?
+<b>\c[9]Melly:</b>\c[0] W-well, you are actually talking to the \gt Leader! And I’m one of the \gt Gym trainers!
+<b>\c[9]Melly:</b>\c[0] E-eh bien, vous êtes en réalité devant le Leader \gt ! Et je suis une dresseuse de son arène !
+<b>Madame S:</b> Oh my! That’s incredible actually! It explains everything!
+<b>Madame S:</b> Ohlala ! C’est incroyable ! Et ça explique tout !
+<b>Madame S:</b> The virtual trainer will surely be useful for you then. Let me explain.
+<b>Madame S:</b> L’entraîneur virtuel te sera sans doute utile alors. Laisse-moi t’expliquer.
+<b>Madame S:</b> This revolutionary device lets you change EVs of your Pokémon.
+<b>Madame S:</b> Cet appareil révolutionnaire te permet de changer les EVs de tes Pokémon.
+<b>Madame S:</b> If you don’t know what are EVs… Maybe try to find a book explaining it?
+<b>Madame S:</b> Si tu ne sais pas ce que sont les EVs… Essaye peut-être de trouver un livre qui en parle?
+<b>Madame S:</b> You just have to know that it’s bonus points for Pokémon stats…
+<b>Madame S:</b> Tu as juste à savoir que ce sont des points bonus pour les stats de tes Pokémon…
+<b>Madame S:</b> …but the total amount a Pokémon can earn is limited. That’s why this device is useful!
+<b>Madame S:</b> …mais le total qu’un Pokémon peut obtenir est limité. D’où l’utilité de cet appareil !
+<b>Madame S:</b> To change EVs of a particular stat, you need the stat’s training module.
+<b>Madame S:</b> Pour changer les Evs d’une stat, tu as besoin du module correspondant à cette stat.
+<b>Madame S:</b> So, for you to start, I give you this:
+<b>Madame S:</b> Ainsi, pour que tu puisses débuter, je te donne ceci :
+<b>Madame S:</b> With this, you can add or remove EVs from a Pokémon HP stat.
+<b>Madame S:</b> Avec ça, tu peux ajouter ou retirer des EVs de la stat PV d’un Pokémon.
+<b>Madame S:</b> Well, as you can’t go over the current total EVs, you can only reduce it for now…
+<b>Madame S:</b> Bon, puisque tu ne peux pas excéder le total actuel d’EV, pour l’instant tu ne pourras que le réduire…
+<b>Madame S:</b> It can actually be useful already if a Pokémon has hit the EV limit and you want EV on other stats.
+<b>Madame S:</b> Mais ça peut être utile en soi, si un Pokémon a atteint la limite d’EV et que tu veux des EV sur d’autres stats.
+<b>Madame S:</b> You should seek the other modules! But be warned, they are really rare!
+<b>Madame S:</b> Tu devrais chercher les autres modules ! Mais je te préviens, ils sont très rares !
+<b>Madame S:</b> I only got this one from Moonyang’s Leader, who created the device.
+<b>Madame S:</b> J’ai juste eu celui-ci de la part du Leader de Moonyang, qui a créé cet appareil.
+<b>Madame S:</b> He gave it to me so I could have a nice prize for the tournament.
+<b>Madame S:</b> Il me l’a donné pour que j’aie un joli premier prix pour mon tournoi.
+<b>Madame S:</b> He owed me one… ufufufufu!
+<b>Madame S:</b> Il me devait une petite faveur… ufufufufu !
+<b>Madame S:</b> To use the Virtual Trainer, simply go to your team party screen and select the Pokémon you want to train.
+<b>Madame S:</b> Pour utiliser l'Entraîneur Virtuel, va tout simplement sur l'écran de ton équipe et choisi le Pokémon que tu veux entraîner.
+<b>Madame S:</b> A new option, "Virtual Trainer", will be shown.
+<b>Madame S:</b> Une nouvelle option, "Entraînement Virtuel", s'affichera.
+<b>Madame S:</b> Anyway, you will always be welcomed here… Let’s stay in touch, okay?
+<b>Madame S:</b> Dans tous les cas, tu seras toujours le bienvenu ici… Restons en contact, ok ?
+<b>Madame S:</b> See you soon, sweethearts!
+<b>Madame S:</b> On se voit bientôt, mes chéris !
+<b>\c[9]Melly:</b>\c[0] T-thank you very much for coming here with me \pn! We had so much fun!
+<b>\c[9]Melly:</b>\c[0] M-merci beaucoup d’être venu ici avec moi \pn ! On s’est bien amusés !
+<b>\c[9]Melly:</b>\c[0] I will go back to \tn now, see you soon!
+<b>\c[9]Melly:</b>\c[0] Je retourne à \tn moi, à bientôt !
+<b>\c[11]Madame S:</b>\c[0] How are you sweetie?
+<b>\c[11]Madame S:</b>\c[0] Comment ça va mon chéri ?
+You already gave a gift to Madame S this week!
+Vous avez déjà offert un cadeau à Madame S cette semaine !
+<b>\c[9]Melly:</b>\c[0] Hey, my first battle was kinda hard actually!
+<b>\c[9]Melly:</b>\c[0] Hey, mon premier combat était en réalité plutôt dur !
+<b>\c[9]Melly:</b>\c[0] This woman wore cool clothes but was a bit scary…
+<b>\c[9]Melly:</b>\c[0] Cette femme avait des habits stylés mais faisait un peu peur…
+<b>\c[9]Melly:</b>\c[0] The second battle was even harder! I nearly lost!
+<b>\c[9]Melly:</b>\c[0] Le deuxième combat était encore plus dur ! J’ai failli perdre !
+<b>\c[9]Melly:</b>\c[0] It was against a man in a strange uniform…
+<b>\c[9]Melly:</b>\c[0] C’était contre un homme dans un uniforme bizarre…
+Yes
+Oui
+No
+Non
+Quest
+Quête
+Give gift
+Offrir cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir

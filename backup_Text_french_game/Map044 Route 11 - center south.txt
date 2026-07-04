@@ -1,0 +1,20 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map044]
+Outil de débug : donne le pass Camosack (si c'est encore là dites-le à Theren, et dites non)
+Outil de débug : donne le pass Camosack (si c'est encore là dites-le à Theren, et dites non)
+Obtenir le pass ?
+Obtenir le pass ?
+<b>Artist:</b> Haaaaaaa... I might fall asleep...
+<b>Artiste:</b> Haaaaaaa... Je vais finir par m'endormir...
+<b>Zachary:</b> I'm training for a triathlon!
+<b>Zachary:</b> Je m'entraîne pour un triathlon !
+<b>Zachary:</b> Did you ever run a triathlon?
+<b>Zachary:</b> T'as déjà fait un triathlon ?
+<b>Artist:</b> We often come here to relax and breathe!
+<b>Artist:</b> We often come here to relax and breathe!
+Yes
+Yes
+No
+No

@@ -1,0 +1,52 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map381]
+<b><c3=BDA46A,736440>Samy:</b></c3> ...and then this guy pulls out a Garbodor level 40!
+<b><c3=BDA46A,736440>Samy:</b></c3> ...et là ce gars nous sort un Miasmax niveau 40 !
+<b><c3=BDA46A,736440>Samy:</b></c3> Good thing it was his one and only Pokémon!
+<b><c3=BDA46A,736440>Samy:</b></c3> Heureusement que c’était son seul Pokémon !
+<b><c3=BDA46A,736440>Samy:</b></c3> ...but anyway, after this, the policemen took care of the rest.
+<b><c3=BDA46A,736440>Samy:</b></c3> ...mais en tout cas, après tout ça, les policiers se sont occupés du reste.
+<b>Kathleen:</b> Wowie, a lot happened! Anyway, thanks a lot to you Samy!!
+<b>Kathleen:</b> Wowie, il s’est passé plein de trucs ! En tous cas, merci beaucoup Samy !!
+<b><c3=BDA46A,736440>Samy:</b></c3> Happy to help! And it was fun to meet \pn! Let's talk again sometimes, right?
+<b><c3=BDA46A,736440>Samy:</b></c3> Heureux d’avoir aidé ! Et c’était sympa de rencontrer \pn ! Restons en contact, hein ?
+<b><c3=BDA46A,736440>Samy:</b></c3> I'm on my way then, see you again young ones!
+<b><c3=BDA46A,736440>Samy:</b></c3> J’y vais moi, au plaisir de vous revoir les jeunes !
+<b>Kathleen:</b> I want to thank you too, trainer!
+<b>Kathleen:</b> Je veux aussi te remercier, dresseuse !
+<b>Kathleen:</b> From what I understood of Samy's story, he would have had a rough time without you.
+<b>Kathleen:</b> De ce que j’ai compris de l’histoire de Samy, il aurait eu beaucoup de mal sans toi.
+<b>Kathleen:</b> If I remember right, you wanted to challenge my Gym right? I will go there and prepare for you! Good luck!
+<b>Kathleen:</b> Si j’me rappelle bien, tu voulais défier mon Arène non ? Ben j’y retourne et je me prépare pour toi ! Bonne chance !
+The Normal Leader shows you both a paper with a surprised face on it.
+Le Leader Normal vous montre à tous les deux un papier avec un visage surpris dessus.
+<b><c3=BDA46A,736440>Samy:</b></c3> Hah! Still not so talkative huh? But I guess we're clear here?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha ! Toujours aussi peu bavard hein ? Mais j’imagine qu’on en a fini ?
+The Normal Leader shows a paper with a smiling face on it, and seems really glad.
+Le Leader Normal vous montre un papier avec un visage souriant dessus, et semble vraiment content.
+The Normal leader seems really happy with you also.
+Le Leader Normal semble très reconnaissant envers vous.
+Then they facial expression changes and they show you a paper with blades on it.
+Puis son expression faciale change et vous montre un papier avec des épées dessus.
+Surely they want to tell you that you can go to their Gym? A little puzzled, you watch as they go out.
+Peut-être qu’iel veut que vous alliez dans leur Arène ? Un peu confus, vous le regardez partir.
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Man:</b> As you might have already guess, our town is home to the Bug Gym.
+<b>Homme:</b> Comme tu l’as peut-être déjà deviné, notre ville accueille l’Arène Insecte.
+<b>Man:</b> The Bug Leader is actually my daughter, Kathleen! I couldn't be more proud of her!
+<b>Homme:</b> Le Leader Insecte n’est autre que ma fille, Kathleen ! Je suis si fier d’elle !
+<b>Kid:</b> Daaaaad! Why our Gym isn't the Bug Gym? Everyone loves bugs here!
+<b>Enfant:</b> Papaaaaaa! Pourquoi notre Arène n’est pas l’Arène Insecte ? Tout le monde adore les insectes ici !
+<b>Man:</b> I don't really know... But there is already a Bug Gym in \tn!
+<b>Homme:</b> Je sais pas trop… Mais il y a déjà une Arène Insecte à \tn !
+<b>Kid:</b> Eeeeeh? I wanna see it!
+<b>Enfant:</b> Heiiiiiiiiin ? Je veux la voir !
+You spend time with Kathleen and her little brother.
+Vous passez du temps avec Kathleen et son petit frère.
+They're really cute together!
+Ils sont vraiment mignons tous les deux !
+<b>Kid</b> I wanna be like Kathleen when I grow up!!
+<b>Enfant:</b> Je veux être comme Kathleen quand je serai plus grand !

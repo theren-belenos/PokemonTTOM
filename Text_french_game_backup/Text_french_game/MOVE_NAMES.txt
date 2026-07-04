@@ -1,0 +1,190 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MOVE_NAMES]
+Calm Sky
+Beau Fixe
+Dire Claw
+Griffes Funestes
+Springtide Storm
+Typhon Passionné
+Raging Fury
+Grand Courroux
+Wave Crash
+Aquatacle
+Chloroblast
+Herblast
+Mountain Gale
+Bise Glaciaire
+Headlong Rush
+Assaut Frontal
+Barb Barrage
+Multitoxik
+Esper Wing
+Ailes Psycho
+Bitter Malice
+Coeur de Rancoeur
+Triple Arrows
+Triple Flèche
+Bleakwind Storm
+Typhon Hivernal
+Wildbolt Storm
+Typhon Fulgurant
+Sandsear Storm
+Typhon Pyrosable
+Lunar Blessing
+Prière Lunaire
+Psyshield Bash
+Sprint Bouclier
+Power Shift
+Echange Force
+Stone Axe
+Hache de Pierre
+Mystical Power
+Force Mystique
+Victory Dance
+Danse Victoire
+Shelter
+Mur Fumigène
+Infernal Parade
+Cortège Funèbre
+Ceaseless Edge
+Vagues à Lames
+Take Heart
+Extravaillance
+Aqua Cutter
+Tranch'Aqua
+Aqua Step
+Danse Aquatique
+Armor Cannon
+Cannon Blindé
+Axe Kick
+Talon Marteau
+Bitter Blade
+Lame en Peine
+Blazing Torque
+Crash Brûlant
+Chilling Water
+Douche Froide
+Chilly Reception
+Neigeux de Mots
+Collision Course
+Nitro Crash
+Combat Torque
+Crash Musclé
+Comeuppance
+Vindicte
+Doodle
+Décalcage
+Double Shock
+Double Décharge
+Electro Drift
+Turbo Volt
+Fillet Away
+Décharnement
+Flower Trick
+Magie Florale
+Gigaton Hammer
+Marteau Mastoc
+Glaive Rush
+Charge Glaive
+Hyper Drill
+Hyperceuse
+Ice Spinner
+Cryo Pirouette
+Jet Punch
+Poing Sonique
+Kowtow Cleave
+Génusection
+Last Respects
+Hommage Posthume
+Lumina Crash
+Lumino-Impact
+Magical Torque
+Crash Magique
+Make It Rain
+Ruée d'Or
+Mortal Spin
+Toupie Eclat
+Noxious Torque
+Crash Toxique
+Order Up
+Plat du Jour
+Population Bomb
+Prolifération
+Pounce
+Bond
+Rage Fist
+Poing de Colère
+Raging Bull
+Taurogne
+Revival Blessing
+Second Soufle
+Ruination
+Cataclysme
+Salt Cure
+Salaison
+Shed Tail
+Queulonage
+Silk Trap
+Piège de Fil
+Snowscape
+Chute de Neige
+Spicy Extract
+Habanerage
+Spin Out
+Dérapage
+Tidy Up
+Grand Nettoyage
+Torch Song
+Chant Flamboyant
+Trailblaze
+Désherbaffe
+Triple Dive
+Triple Plongeon
+Twin Beam
+Double Laser
+Wicked Torque
+Crash Obscur
+Hydro Steam
+Hydrovapeur
+Psyblade
+Lame Psychique
+Blood Moon
+Lune Rouge
+Matcha Gotcha
+Mortier Matcha
+Syrup Bomb
+Bombe au Sirop
+Ivy Cudgel
+Massue Liane
+Electro Shot
+Fulgurayon
+Tera Starstorm
+Pluie Térastrale
+Fickle Beam
+Laser Hasard
+Burning Bulwark
+Rempart Brûlant
+Thunderclap
+Vif Éclair
+Mighty Cleave
+Lame Puissante
+Tachyon Cutter
+Lame Tachyonique
+Hard Press
+Pression Extrême
+Dragon Cheer
+Cri Draconique
+Alluring Voice
+Voix Envoûtante
+Temper Flare
+Indignition
+Supercell Slam
+Volt Assaut
+Psychic Noise
+Dissonance Psy
+Upper Hand
+Prio-Parade
+Malignant Chain
+Chaîne Malsaine

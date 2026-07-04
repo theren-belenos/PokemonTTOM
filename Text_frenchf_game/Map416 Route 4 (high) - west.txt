@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map416]
+<b>Phil:</b> I'm training to take on sharp corners!
+<b>Phil:</b> Je m'entraîne à prendre des virages serrés !
+<b>Phil:</b> So sharp!
+<b>Phil:</b> Si serré !
+<b>Marianne:</b> They call me the Cycling Road Queen. Do you have what it takes?
+<b>Marianne:</b> On m'appelle la Reine de la Piste Cyclable. Tu penses être à la hauteur ?
+<b>Marianne:</b> The Queen was dethroned!
+<b>Marianne:</b> Je suis une Reine déchue !
+<b>Cyclist:</b> Welcome to our beautiful Cycling road!
+<b>Cycliste:</b> Bienvenue dans notre belle Piste Cyclable !
+<b>Cyclist:</b> Be careful: most of the trainers here will battle you!
+<b>Cycliste:</b> Sois prudente : la plupart des cyclistes ici vont vouloir te combattre !

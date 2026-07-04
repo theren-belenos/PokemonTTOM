@@ -1,0 +1,40 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map394]
+<b>Poké Maniac:</b> Are you kidding? My Spheal is obviously cuter!
+<b>Pokémaniac:</b> Vous plaisantez ? Mon Obalie est clairement plus mignon !
+<b>Pichu:</b> Piiiiii!
+<b>Pichu:</b> Piiiiii!
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Spheal:</b> Sphea!
+<b>Obalie:</b> Aliii!
+<b>Togepi:</b> Togepiii!
+<b>Togepi:</b> Togepiii!
+<b>Poké Maniac:</b> You are all delusional. My Togepi is the cutest of them all!
+<b>Pokémaniac:</b> Vous êtes tous dans le déni. Mon Togepi est le plus mignon de tous !
+<b>Cherubi:</b> Cheeerubi!
+<b>Ceribou:</b> Ceeeeribou!
+<b>Poké Maniac:</b> My Pichu is the cutest!
+<b>Pokémaniac:</b> Mon Pichu est le plus mignon !
+<b>Poké Maniac:</b> Sigh... They all have really cute Pokémon, and I don't...
+<b>Pokémaniac:</b> Erf... Ils ont tous des Pokémon vraiment mignons, et pas moi...
+<b>Poké Maniac:</b> Say, I heard there are some Cherubi on Route 11… Do you think you could give me one?
+<b>Pokémaniac:</b> Dis, j'ai entendu dire qu'il y avait des Ceribou sur la Route 11… Tu crois que tu pourrais m'en donner un ?
+<b>Poké Maniac:</b> I will give you a nice item that makes your Pokémon more friendly!
+<b>Pokémaniac:</b> Je te donnerai un super objet qui rend les Pokémon plus amicaux !
+<b>Poké Maniac:</b> Do you have one already?
+<b>Pokémaniac:</b> T'en as déjà trouvé un ?
+<b>Poké Maniac:</b> No? Please! I really want one!
+<b>Pokémaniac:</b> Non ? S'il te plaît ! J'en veux vraiment un !
+<b>Poké Maniac:</b> OH MY GAWWWWWD!!! So cuteeeee!!!
+<b>Pokémaniac:</b> OH. MON. DIEUUUUUUUU !!! SI mignoooooooooon !!!
+<b>Poké Maniac:</b> Thanks a lot my friend! You're the best!
+<b>Pokémaniac:</b> Merci beaucoup mon ami ! T'es le meilleur !
+<b>Poké Maniac:</b> As promised, take this!
+<b>Pokémaniac:</b> Comme promis, prends ceci !
+<b>Poké Maniac:</b> Now I also have a cute Pokémon! No... I have the cutest!
+<b>Pokémaniac:</b> Maintenant j'ai aussi un Pokémon mignon ! Non... j'ai le plus mignon !
+<b>Poké Maniac:</b> Did you find a Cherubi ?
+<b>Pokémaniac:</b> Tu as trouvé un Ceribou ?

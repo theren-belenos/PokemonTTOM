@@ -1,0 +1,86 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map406]
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Lando:</b> Oh hello, how are you?
+<b>Lando:</b> Oh bonjour, comment ça va ?
+<b>Lando:</b> A lot of glowing rocks here isn't it?
+<b>Lando:</b> Beaucoup de Rochers Luisants ici n'est-ce pas ?
+<b>Lando:</b> How to mine them? Well you need a Mining kit for that, obviously.
+<b>Lando:</b> Comment les miner ? Eh bien tu as besoin d'un Kit de Minage pour ça, évidemment.
+<b>Lando:</b> Do I have one for you? Well, I might...
+<b>Lando:</b> Est-ce que j'en ai un pour toi ? Hmm, peut-être...
+<b>Lando:</b> Actually I don't feel like working anymore, I need a break!
+<b>Lando:</b> En vrai j'ai plus envie de travailler, j'ai besoin d'une pause !
+<b>Lando:</b> So what do you say we have a little battle here?
+<b>Lando:</b> Et si on faisait un petit combat amical ?
+<b>Lando:</b> If you win, I might give you a Mining Kit!
+<b>Lando:</b> Si tu gagnes, je te donnerai peut-être un Kit de Minage !
+<b>Lando:</b> Good! Brace yourself!
+<b>Lando:</b> Bien ! Prépare-toi !
+<b>Lando:</b> Hah! Good fight, you're strong.
+<b>Lando:</b> Ha ! Joli combat, tu es forte.
+<b>Lando:</b> Thank you for distracting me from work...
+<b>Lando:</b> Merci de m'avoir changé les idées...
+<b>Lando:</b> The mining kit? Well, I say I MIGHT give you one...
+<b>Lando:</b> Le Kit de Minage ? Alors j'ai dis que PEUT-ÊTRE je t'en donnerais un...
+<b>Lando:</b> What? Hey don't get angry now!
+<b>Lando:</b> Quoi ? Hé t'énerve pas !
+<b>Lando:</b> Hmmm, okay, if you bring me something to drink like a lemonade it could put me in a good mood...
+<b>Lando:</b> Hmmm, okay, si tu m'apportes quelque chose à boire comme une limonade ça pourrait me mettre de bonne humeur...
+Give a lemonade?
+Donner une limonade ?
+Choose an item
+Choisir un objet
+<b>Lando:</b> Ah, I don't think I can give something so precious without being in a good mood...
+<b>Lando:</b> Ah, je pense pas pouvoir donner quelque chose d'aussi précieux sans être de bonne humeur...
+You give a Lemonade!
+Vous donnez une limonade !
+<b>Lando:</b> Oooh, now we're talking!
+<b>Lando:</b> Oooh, là on est pas mal !
+<b>Lando:</b> Okay I'm in a good mood now, so I can see myself giving you this kit... Or rather trading it.
+<b>Lando:</b> Ok maintenant je suis de bonne humeur, donc je peux envisager de te donner ce Kit de Minage... ou plutôt de l'échanger.
+<b>Lando:</b> What? I never said I would give it to you for free!
+<b>Lando:</b> Quoi ? J'ai jamais dit que j'allais te le donner gratuitement !
+<b>Lando:</b> You see, there is only Kecleon here, and I already have all the Pokémon in the Power Tunnel.
+<b>Lando:</b> Tu vois, il n'y a que des Kecleons ici, et j'ai déjà tous les Pokémon du Tunnel Energie.
+<b>Lando:</b> I want something new, something I never saw.
+<b>Lando:</b> Je veux quelque chose de nouveau, quelque chose que je n'ai jamais vu.
+<b>Lando:</b> If you bring me a Bergmite, I swear to you I will trade it for this Mining Kit.
+<b>Lando:</b> Si tu m'apportes un Grelaçon, je te promets que je te l'échange contre ce Kit de Minage.
+<b>Lando:</b> Do you have a Bergmite already?
+<b>Lando:</b> Est-ce que tu as un Grelaçon ?
+<b>Lando:</b> I swear to you I will trade this Mining Kit for a Bergmite.
+<b>Lando:</b> Je te l'échangerai contre ce Kit de Minage, promis.
+<b>Lando:</b> ...
+<b>Lando:</b> ...
+<b>Lando:</b> You actually brought me one...
+<b>Lando:</b> T'en as vraiment apporté un...
+<b>Lando:</b> ...sorry, at first I just wanted to have some fun with you because you seemed so gullible.
+<b>Lando:</b> ...désolé, au début je voulais juste m'amuser un peu à tes dépends car t'as l'air si naïve.
+<b>Lando:</b> I didn't actually think you would bring me all these things. You seems like a good kid and now I feel bad.
+<b>Lando:</b> Je pensais pas que t'allais vraiment m'apporter tout ça. T'as l'air d'être une bonne personne et maintenant j'me sens mal.
+<b>Lando:</b> Keep your Bergmite. I will give you the Mining Kit, and another something as a bonus.
+<b>Lando:</b> Garde ton Grelaçon. Je vais te donner ce Kit de Minage, avec un petit bonus en plus.
+You got one of each IV feather!
+Vous obtenez une plume IV de chaque type !
+<b>Lando:</b> Thank you very much! Thanks to you I forgot a bit about work. I'm feeling really better!
+<b>Lando:</b> Merci beaucoup ! Grâce à toi j'ai un peu déconnecté du boulot. Je me sens vraiment mieux !
+<b>Lando:</b> See you again!
+<b>Lando:</b> A plus !
+<b>Lando:</b> Why? Are you afraid?
+<b>Lando:</b> Pourquoi ? Effrayée ?
+<b>Worker:</b> So? Fancy a little battle?
+<b>Lando:</b> Alors ? Tentée par un petit combat ?
+<b>Lando:</b> If you bring me something to drink like a lemonade it could put me in a good mood...
+<b>Lando:</b> Si tu m'apportes quelque chose à boire comme une limonade ça pourrait me mettre de bonne humeur...
+Yes
+Oui
+No
+Non

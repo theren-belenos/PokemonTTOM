@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map372]
+There is only trash in here...
+Il n'y a que des déchets là-dedans...
+<b>Tourist:</b> Nooo! I don't have a bicycle! I wanted to see the Cycling Road...
+<b>Tourist:</b> Nooon ! J'ai pas de vélo ! Je voulais voir la Piste Cyclable...
+<b>Man:</b> Be safe and have a nice trip!
+<b>Homme:</b> Sois prudent et bon voyage !
+<b>Man:</b> W... why are you coming behind me? Creepy!
+<b>Homme:</b> P... pourquoi tu viens derrière moi ? T'es flippant !
+<b>Cyclist:</b> Are you ready?
+<b>Cycliste:</b> T'es prête ?
+<b>Cyclist:</b> Yeah! Bring it on!
+<b>Cycliste:</b> Ouais ! C'est parti !
+<b>Man:</b> Hello! You're in front of the Cycling road, west entry. Do you have a bike ?
+<b>Homme:</b> Bonjour ! Tu es devant la Piste Cyclable, entrée ouest. Tu as un vélo ?
+<b>Man:</b> Okay then be safe and when you pass the door you must be on your bicycle. No walking!
+<b>Homme:</b> Ok alors sois prudent et lorsque tu passes la porte tu dois être sur ton vélo. Pas de marche !
+<b>Man:</b> No? Then I must respectfully ask you to step back.
+<b>Homme:</b> Non ? Alors je te demande respectueusement de faire demi-tour.

@@ -1,0 +1,6 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map411]
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !

@@ -22,30 +22,30 @@
 <b>Policier:</b> C’est encore vous ! Avez-vous le second badge ?
 <b>Policeman:</b> You still don't have it? You know I can't let you through... sorry...
 <b>Policier:</b> Vous ne l’avez toujours pas ? Alors vous savez que je ne peux pas vous laisser passer… Désolé…
-The cable is damaged here. Repair?
-The cable is damaged here. Repair?
-You use the tool Cassian gave you.
-You use the tool Cassian gave you.
-The cable is repaired!
-The cable is repaired!
 This stone is glowing!
 Cette pierre brille de mille feux !
 Do you want to use the Mining Kit?
 Voulez-vous utiliser le Kit de Minage ?
 This glowing rock was already mined.
 Cette pierre brillante a déjà été minée.
+The cable is damaged here. Repair?
+Le câble est endommagé ici. Le réparer ?
+You use the tool Cassian gave you.
+Vous utilisez l'outil donné par Cassian.
+The cable is repaired!
+Le câble est réparé !
 <b>Manuel:</b> Even in the dark, you can't escape me!
 <b>Manuel:</b> Même dans le noir, tu ne peux pas m'échapper !
 <b>Manuel:</b> I won't escape you!
 <b>Manuel:</b> Je ne t'échapperai pas !
 \c[3]CAN'T SWITCH LIGHTS ON
-\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]IMPOSSIBLE D'ALLUMER LES LUMIÈRES
 \c[3]ALL CABLES REPAIRED
-\c[3]ALL CABLES REPAIRED
+\c[3]TOUS LES CÂBLES RÉPARÉS
 \c[3]SWITCHING LIGHTS ON...
-\c[3]SWITCHING LIGHTS ON...
+\c[3]ALLUMAGE DES LUMIÈRES...
 \c[3]LIGHTS ARE ON
-\c[3]LIGHTS ARE ON
+\c[3]LUMIÈRES ALLUMÉES
 <b>Policeman:</b> Stay safe during your trip citizen!
 <b>Policier:</b> Restez prudent durant votre voyage, citoyen !
 <b>Blanche:</b> Well... this can be inspiring, but also a bit creepy...
@@ -53,7 +53,7 @@ Cette pierre brillante a déjà été minée.
 <b>Blanche:</b> You're creepier!
 <b>Blanche:</b> Tu fais encore plus peur !
 The cable is damaged here.
-The cable is damaged here.
+Le câble est endommagé ici.
 Yes
 Oui
 No

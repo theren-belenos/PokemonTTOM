@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map438]
+<b>Guy:</b> Pfiouh! Don't mind me, I'm just taking a break!
+<b>Guy:</b> Pfiouh! Don't mind me, I'm just taking a break!
+<b>Adalyn:</b> Is this a cave? Or a road?
+<b>Adalyn:</b> Is this a cave? Or a road?
+<b>Adalyn:</b> Either way, this is a beating!
+<b>Adalyn:</b> Either way, this is a beating!
+<b>Tate:</b> What is your favorite Pokémon??
+<b>Tate:</b> What is your favorite Pokémon??
+<b>Tate:</b> Did you guess mine?
+<b>Tate:</b> Did you guess mine?
+<b>Cali:</b> Don't leave yet... Stay with us...
+<b>Cali:</b> Don't leave yet... Stay with us...
+<b>Cali:</b> Are you really leaving... ? What a shame...
+<b>Cali:</b> Are you really leaving... ? What a shame...

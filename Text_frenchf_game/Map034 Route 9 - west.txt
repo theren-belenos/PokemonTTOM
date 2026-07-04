@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map034]
+<b>Mindy:</b> Hello!!! Are you here to pratice with me???
+<b>Mindy:</b> Bonjour !!! Tu es là pour t’entraîner avec moi ???
+<b>Mindy:</b> You're too strong for me!
+<b>Mindy:</b> T’es trop forte pour moi !
+<b>Rick:</b> Ooooh yeah! The nature is so cool!
+<b>Rick:</b> Ooooh yeah ! La nature c’est trop cool !
+You talk to the musician about Camosack.
+Vous parlez au musicien de Camosack.
+<b>Rick:</b> Perform at Camosack? Hell yea buddy, I'm down!
+<b>Rick:</b> Jouer à Camosack ? Hell yea meuf, j'suis chaud !
+<b>Rick:</b> Rock you there!
+<b>Rick:</b> On se voit là-bas !
+<b>Rick:</b> Stay cool, man.
+<b>Rick:</b> Reste cool, meuf.
+<b>Wisteria:</b> Do you want to, trainer? Do you want us to explore the mystic arts together?
+<b>Wisteria:</b> Le veux-tu, dresseuse ? Veux-tu que nous explorions les arts mystiques ensemble ?
+<b>Wisteria:</b> You might be good enough to explore even the dark arts...
+<b>Wisteria:</b> Tu pourrais même être assez fort pour explorer les arts obscurs…

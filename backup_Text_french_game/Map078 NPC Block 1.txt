@@ -1,0 +1,156 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map078]
+There is only trash in there.
+There is only trash in there.
+<b>Little Girl:</b> I just moved here with granny!
+<b>Little Girl:</b> I just moved here with granny!
+<b>Little Girl:</b> Are you kind?
+<b>Little Girl:</b> Are you kind?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? Welcome to my humble abode!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? Welcome to my humble abode!
+You already gave a gift to Samy this week!
+You already gave a gift to Samy this week!
+<b>Huguette:</b> Oh! Aren’t you the young \pn?
+<b>Huguette:</b> Oh! Aren’t you the young \pn?
+<b>Faustin:</b> I think you’re right, darling.
+<b>Faustin:</b> I think you’re right, darling.
+<b>Huguette:</b> Look how you’re all grown up! We even heard you’re the new Leader!
+<b>Huguette:</b> Look how you’re all grown up! We even heard you’re the new Leader!
+<b>Faustin:</b> In other words, it’s thanks to you that this building was rebuilt, right?
+<b>Faustin:</b> In other words, it’s thanks to you that this building was rebuilt, right?
+<b>Huguette:</b> Indeed, indeed! Faustin, darling, we have to give our young Leader a thank-you gift!
+<b>Huguette:</b> Indeed, indeed! Faustin, darling, we have to give our young Leader a thank-you gift!
+<b>Faustin:</b> Say no more, I have something right here.
+<b>Faustin:</b> Say no more, I have something right here.
+<b>Huguette:</b> Do have a nice day, young Leader!
+<b>Huguette:</b> Do have a nice day, young Leader!
+<b>Faustin:</b> See you.
+<b>Faustin:</b> See you.
+<b>Janitor:</b> Hello there, welcome to this block. I'm the janitor, may I help you?
+<b>Janitor:</b> Hello there, welcome to this block. I'm the janitor, may I help you?
+You spend time chilling with Samy in his room.
+You spend time chilling with Samy in his room.
+He is really knowleadgable on town stuff!
+He is really knowleadgable on town stuff!
+<b>Cocotte:</b> …you won’t say anything?
+<b>Cocotte:</b> …you won’t say anything?
+<b>Girl:</b> What should I say? I’m not interested in your shop. Period.
+<b>Girl:</b> What should I say? I’m not interested in your shop. Period.
+<b>Cocotte:</b> Do you know how old I am? Do you wish our shop just… disappears?
+<b>Cocotte:</b> Do you know how old I am? Do you wish our shop just… disappears?
+<b>Girl:</b> For the love of God, Gran! Why do you only want ME to take over the shop??
+<b>Girl:</b> For the love of God, Gran! Why do you only want ME to take over the shop??
+<b>Cocotte:</b> Are… are you serious? Do I have to remind you what happened to your mother?
+<b>Cocotte:</b> Are… are you serious? Do I have to remind you what happened to your mother?
+<b>Girl:</b> Of course not! But what about my little brother?
+<b>Girl:</b> Of course not! But what about my little brother?
+<b>Cocotte:</b> He is a BOY honey!! Do you want him to sell flowers??
+<b>Cocotte:</b> He is a BOY honey!! Do you want him to sell flowers??
+<b>Boy:</b> B…but…
+<b>Boy:</b> B…but…
+<b>Girl:</b> He is always at your shop! Can’t you see he loves this?
+<b>Girl:</b> He is always at your shop! Can’t you see he loves this?
+<b>Boy:</b> E-eh… but… boys are not mean to…
+<b>Boy:</b> E-eh… but… boys are not mean to…
+<b>Girl:</b> Give me a break, boy!
+<b>Girl:</b> Give me a break, boy! 
+<b>Girl:</b> You always loved flowers and plants, who cares if you’re a boy or not?
+<b>Girl:</b> You always loved flowers and plants, who cares if you’re a boy or not?
+<b>Boy:</b> A-are you… I… Do you really mean it??
+<b>Boy:</b> A-are you… I… Do you really mean it??
+<b>Boy:</b> Granny, I want to take care of the shop and sell flowers!! Please!!
+<b>Boy:</b> Granny, I want to take care of the shop and sell flowers!! Please!!
+<b>Cocotte:</b> *sob* oh my sweet boy, I’m so sorry! I know I’m a bit… old fashioned at times.
+<b>Cocotte:</b> *sob* oh my sweet boy, I’m so sorry!  I know I’m a bit… old fashioned at times.
+<b>Cocotte:</b> The thought didn’t even occur to me. But this way it’s perfect!
+<b>Cocotte:</b> The thought didn’t even occur to me.  But this way it’s perfect!
+<b>Cocotte:</b> Here is your bag, honey. I’m sorry for what I said to you back then.
+<b>Cocotte:</b> Here is your bag, honey. I’m sorry for what I said to you back then.
+<b>Girl:</b> …yea, ok. Erm. Sorry too I guess.
+<b>Girl:</b> …yea, ok. Erm. Sorry too I guess.
+<b>Cocotte:</b> You can live here, you’re a grown up. But please come back sometimes to have dinner!
+<b>Cocotte:</b> You can live here, you’re a grown up. But please come back sometimes to have dinner!
+<b>Boy:</b> Yes big sis’, come see us!
+<b>Boy:</b> Yes big sis’, come see us!
+<b>Girl:</b> o-ok then. I…I’ll call you.
+<b>Girl:</b> o-ok then. I…I’ll call you.
+<b>Cocotte:</b> Let us go, my sweet boy. Good bye to both of you!
+<b>Cocotte:</b> Let us go, my sweet boy. Good bye to both of you!
+<b>Girl:</b> *sob* damn, I never imagined this would end up this way. I guess its fine now.
+<b>Girl:</b> *sob* damn, I never imagined this would end up this way. I guess its fine now.
+<b>Girl:</b> Thank you very much for your help. My family owes you big time.
+<b>Girl:</b> Thank you very much for your help. My family owes you big time.
+<b>Girl:</b> If my little bro runs the shop, I think more items will be available in the shop.
+<b>Girl:</b> If my little bro runs the shop, I think more items will be available in the shop.
+<b>Girl:</b> You should check it out!
+<b>Girl:</b> You should check it out!
+<b>Girl:</b> Myself, I don’t have much to give, but here.
+<b>Girl:</b> Myself, I don’t have much to give, but here.
+<b>Girl:</b> If you need anything, tell me. Anytime.
+<b>Girl:</b> If you need anything, tell me. Anytime.
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Receptionist:</b> You're already on this floor!
+<b>Receptionist:</b> You're already on this floor!
+<b>Receptionist:</b> Understood! Let us go!
+<b>Receptionist:</b> Understood! Let us go!
+<b>Receptionist:</b> Have a good day!
+<b>Receptionist:</b> Have a good day!
+This is a drink vending machine. Wanna buy something?\G
+This is a drink vending machine. Wanna buy something?\G
+\G...Klang! One bottle of Fresh Water fell down!
+\G...Klang! One bottle of Fresh Water fell down!
+\GYou have no room left in the Bag.
+\GYou have no room left in the Bag.
+\GYou don't have enough money.
+\GYou don't have enough money.
+\G...Klang! One bottle of Soda Pop fell down!
+\G...Klang! One bottle of Soda Pop fell down!
+\G...Klang! One bottle of Lemonade fell down!
+\G...Klang! One bottle of Lemonade fell down!
+<b>Man:</b> I moved here because they say the town is growing quickly.
+<b>Man:</b> I moved here because they say the town is growing quickly.
+<b>Man:</b> I may find work here, I hope so!
+<b>Man:</b> I may find work here, I hope so!
+<b>Girl:</b> Hello, how are you?
+<b>Girl:</b> Hello, how are you?
+<b>Girl:</b> Me? Could be better. Just moved out here from Titaga after a fight with my grandmother.
+<b>Girl:</b> Me? Could be better. Just moved out here from Titaga after a fight with my grandmother.
+<b>Girl:</b> She owns the Flower Shop there.
+<b>Girl:</b> She owns the Flower Shop there.
+<b>Girl:</b> The thing is, I left in a hurry and forgot an important bag with personal things inside.
+<b>Girl:</b> The thing is, I left in a hurry and forgot an important bag with personal things inside.
+<b>Girl:</b> I don’t really want to go back there, I don’t want another quarrel.
+<b>Girl:</b> I don’t really want to go back there, I don’t want another quarrel.
+<b>Girl:</b> Could you help me? I will really be in your debt.
+<b>Girl:</b> Could you help me? I will really be in your debt.
+<b>Girl:</b> Hmm? Why did we fight? You’re not really concerned, are you?
+<b>Girl:</b> Hmm? Why did we fight? You’re not really concerned, are you?
+<b>Girl:</b> Please, give me my bag!
+<b>Girl:</b> Please, give me my bag!
+Quest
+Quest
+Give gift
+Give gift
+Spend time
+Spend time
+Say goodbye
+Say goodbye
+Floor 1
+Floor 1
+Floor 2
+Floor 2
+Floor 3
+Floor 3
+Floor 4
+Floor 4
+Fresh Water (200$)
+Fresh Water (200$)
+Soda Pop (350$)
+Soda Pop (350$)
+Lemonade (500$)
+Lemonade (500$)
+Go away
+Go away

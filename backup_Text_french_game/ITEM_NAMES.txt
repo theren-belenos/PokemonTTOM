@@ -1,0 +1,676 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_NAMES]
+Nekanta Map
+Carte de Nekanta
+Life Vial
+Fiole de Vie
+Mining Kit
+Kit de Minage
+Camosack Pass
+Pass Camosack
+Black Augurite
+Obsidienne
+Peat Block
+Bloc de Tourbe
+Linking Cord
+Fil de Liaison
+Adamant Crystal
+Globe Adamant
+Lustrous Globe
+Globe Perlé
+Legend Plate
+Plaque Légende
+Blank Plate
+Plaque Renouveau
+Hopo Berry
+Baie Bouhlon
+Griseous Core
+Globe Platiné
+Feather Ball
+Feather Ball
+Wing Ball
+Wing Ball
+Jet Ball
+Jet Ball
+Leaden Ball
+Leaden Ball
+Gigaton Ball
+Gigaton Ball
+Origin Ball
+Origin Ball
+Strange Ball
+Strange Ball
+Auspicious Armor
+Armure de la Fortune
+Malicious Armor
+Armure de la Rancune
+Scroll of Darkness
+Rouleau des Ténèbres
+Scroll of Waters
+Rouleau de l'Eau
+Leader's Crest
+Emblème du Général
+Booster Energy
+Énergie Booster
+Ability Shield
+Garde-Talent
+Clear Amulet
+Talisman Sain
+Mirror Herb
+Feuille Copieuse
+Punching Glove
+Gant de Boxe
+Covert Cloak
+Cape Obscure
+Loaded Dice
+Dé Pipé
+Gimmighoul Coin
+Pièce de Mordudor
+Tiny Bamboo Shoot
+Petit Bambou
+Big Bamboo Shoot
+Gros Bambou
+Rotom Phone
+Motismart
+Scarlet Book
+Scarlet Book
+Violet Book
+Violet Book
+Health Mochi
+Health Mochi
+Muscle Mochi
+Muscle Mochi
+Resist Mochi
+Resist Mochi
+Genius Mochi
+Genius Mochi
+Clever Mochi
+Clever Mochi
+Swift Mochi
+Swift Mochi
+Fresh-Start Mochi
+Fresh-Start Mochi
+Fairy Feather
+Plume Enchantée
+Syrupy Apple
+Pomme Nectar
+Unremarkable Teacup
+Bol Médiocre
+Masterpiece Teacup
+Bol Exceptionnel
+Wellspring Mask
+Masque du Puit
+Hearthflame Mask
+Masque du Fourneau
+Cornerstone Mask
+Masque de la Pierre
+Teal Mask
+Masque Turquoise
+Metal Alloy
+Métal Composite
+Indigo Disk
+Disque Indigo
+Mythical Pecha Berry
+Mythical Pecha Berry
+Synchro Machine
+Synchro Machine
+Meteorite
+Metéorite
+Briar's Book
+Briar's Book
+HM07
+CS07
+HM08
+CS08
+HM09
+CS09
+HM10
+CS10
+TM000
+TM000
+TM001
+CT001
+TM002
+CT002
+TM003
+CT003
+TM004
+CT004
+TM005
+CT005
+TM006
+CT006
+TM007
+CT007
+TM008
+CT008
+TM009
+CT009
+TM010
+CT010
+TM011
+CT011
+TM012
+CT012
+TM013
+CT013
+TM014
+CT014
+TM015
+CT015
+TM016
+CT016
+TM017
+CT017
+TM018
+CT018
+TM019
+CT019
+TM020
+CT020
+TM021
+CT021
+TM022
+CT022
+TM023
+CT023
+TM024
+CT024
+TM025
+CT025
+TM026
+CT026
+TM027
+CT027
+TM028
+CT028
+TM029
+CT029
+TM030
+CT030
+TM031
+CT031
+TM032
+CT032
+TM033
+CT033
+TM034
+CT034
+TM035
+CT035
+TM036
+CT036
+TM037
+CT037
+TM038
+CT038
+TM039
+CT039
+TM040
+CT040
+TM041
+CT041
+TM042
+CT042
+TM043
+CT043
+TM044
+CT044
+TM045
+CT045
+TM046
+CT046
+TM047
+CT047
+TM048
+CT048
+TM049
+CT049
+TM050
+CT050
+TM051
+CT051
+TM052
+CT052
+TM053
+CT053
+TM054
+CT054
+TM055
+CT055
+TM056
+CT056
+TM057
+CT057
+TM058
+CT058
+TM059
+CT059
+TM060
+CT060
+TM061
+CT061
+TM062
+CT062
+TM063
+CT063
+TM064
+CT064
+TM065
+CT065
+TM066
+CT066
+TM067
+CT067
+TM068
+CT068
+TM069
+CT069
+TM070
+CT070
+TM071
+CT071
+TM072
+CT072
+TM073
+CT073
+TM074
+CT074
+TM075
+CT075
+TM076
+CT076
+TM077
+CT077
+TM078
+CT078
+TM079
+CT079
+TM080
+CT080
+TM081
+CT081
+TM082
+CT082
+TM083
+CT083
+TM084
+CT084
+TM085
+CT085
+TM086
+CT086
+TM087
+CT087
+TM088
+CT088
+TM089
+CT089
+TM090
+CT090
+TM091
+CT091
+TM092
+CT092
+TM093
+CT093
+TM094
+CT094
+TM095
+CT095
+TM096
+CT096
+TM097
+CT097
+TM098
+CT098
+TM099
+CT099
+TM101
+CT101
+TM102
+CT102
+TM103
+CT103
+TM104
+CT104
+TM105
+CT105
+TM106
+CT106
+TM107
+CT107
+TM108
+CT108
+TM109
+CT109
+TM110
+CT110
+TM111
+CT111
+TM112
+CT112
+TM113
+CT113
+TM114
+CT114
+TM115
+CT115
+TM116
+CT116
+TM117
+CT117
+TM118
+CT118
+TM119
+CT119
+TM120
+CT120
+TM121
+CT121
+TM122
+CT122
+TM123
+CT123
+TM124
+CT124
+TM125
+CT125
+TM126
+CT126
+TM127
+CT127
+TM128
+CT128
+TM129
+CT129
+TM130
+CT130
+TM131
+CT131
+TM132
+CT132
+TM133
+CT133
+TM134
+CT134
+TM135
+CT135
+TM136
+CT136
+TM137
+CT137
+TM138
+CT138
+TM139
+CT139
+TM140
+CT140
+TM141
+CT141
+TM142
+CT142
+TM143
+CT143
+TM144
+CT144
+TM145
+CT145
+TM146
+CT146
+TM147
+CT147
+TM148
+CT148
+TM149
+CT149
+TM150
+CT150
+TM151
+CT151
+TM152
+CT152
+TM153
+CT153
+TM154
+CT154
+TM155
+CT155
+TM156
+CT156
+TM157
+CT157
+TM158
+CT158
+TM159
+CT159
+TM160
+CT160
+TM161
+CT161
+TM162
+CT162
+TM163
+CT163
+TM164
+CT164
+TM165
+CT165
+TM166
+CT166
+TM167
+CT167
+TM168
+CT168
+TM169
+CT169
+TM170
+CT170
+TM172
+CT172
+TM173
+CT173
+TM174
+CT174
+TM175
+CT175
+TM176
+CT176
+TM177
+CT177
+TM178
+CT178
+TM179
+CT179
+TM180
+CT180
+TM181
+CT181
+TM182
+CT182
+TM183
+CT183
+TM184
+CT184
+TM185
+CT185
+TM186
+CT186
+TM187
+CT187
+TM188
+CT188
+TM189
+CT189
+TM190
+CT190
+TM191
+CT191
+TM192
+CT192
+TM193
+CT193
+TM194
+CT194
+TM195
+CT195
+TM196
+CT196
+TM197
+CT197
+TM198
+CT198
+TM199
+CT199
+TM200
+CT200
+TM201
+CT201
+TM202
+CT202
+TM203
+CT203
+TM204
+CT204
+TM205
+CT205
+TM206
+CT206
+TM207
+CT207
+TM208
+CT208
+TM209
+CT209
+TM210
+CT210
+TM211
+CT211
+TM212
+CT212
+TM213
+CT213
+TM214
+CT214
+TM215
+CT215
+TM216
+CT216
+TM217
+CT217
+TM218
+CT218
+TM219
+CT219
+TM220
+CT220
+TM221
+CT221
+TM222
+CT222
+TM223
+CT223
+TM224
+CT224
+TM225
+CT225
+TM226
+CT226
+TM227
+CT227
+TM228
+CT228
+TM229
+CT229
+TM230
+CT230
+Butterfreeite
+Papillusite
+Machampite
+Mackognite
+Kinglerite
+Krabbossite
+Laprasite
+Lokhlassite
+Snorlax
+Ronflexite
+Garbodorite
+Miasmaxite
+Melmetalite
+Melmetalite
+Corviknightite
+Corvaillusite
+Orbeetlite
+Astronellite
+Dreadnawite
+Torgamordite
+Coalossalite
+Monthracitite
+Tartite
+Tartite
+Sandacondite
+Dunacondite
+Toxtricitite
+Salarsenite
+Centiskorchite
+Scolocendrite
+Hatterenite
+Hatterenite
+Grimmsnarlite
+Sorcilencite
+Alcremite
+Charmillite
+Copperajite
+Pachyradjite
+Rillaboomite
+Gorythimite
+Cinderacite
+Pyrobutite
+Intelite
+Lézargusite
+Urshifite
+Shifousite
+Link Stone
+Link Stone
+Virtual Trainer
+Virtual Trainer
+VT Health Module
+VT Health Module
+VT Attack Module
+VT Attack Module
+VT Defense Module
+VT Defense Module
+VT AtkSpe Module
+VT AtkSpe Module
+VT DefSpe Module
+VT DefSpe Module
+VT Speed Module
+VT Speed Module
+Safari Coupon
+Safari Coupon
+Casino Coupon
+Casino Coupon
+Shiny Machine
+Shiny Machine
+Item Choser
+Item Choser
+Pokémon Choser
+Pokémon Choser
+Jon's glasses
+Lunettes de Jon
+Jeremy's Notebook
+Carnet de Jérémy
+Henry's Bag
+Sac d'Henry
+Scarf
+Foulard
+Medical Package
+Colis Médical
+Borrowed Book
+Livre Emprunté
+Father's Lunch
+Repas du Papa
+Cable Tools
+Cable Tools

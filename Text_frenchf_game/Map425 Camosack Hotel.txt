@@ -1,0 +1,74 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map425]
+The door is locked.
+La porte est fermée.
+<b>Receptionist:</b> Hello and welcome to Camosack’s Grand Hotel!
+<b>Réceptionniste:</b> Bonjour et bienvenue au Grand Hôtel de Camosack !
+<b>Receptionist:</b> Sorry, we don’t accept new clients right now. The whole season is booked out!
+<b>Réceptionniste:</b> Désolé, nous n’acceptons pas d’autres clients pour le moment. C’est complet pour la saison !
+<b>Thug A:</b> Heh. Madame S really knows how to reward a job well done.
+<b>Voyou A:</b> Héhé. Madame S sait vraiment comment récompenser un travail bien fait.
+<b>Thug B:</b> Damn right bro. This is paradise!
+<b>Voyou B:</b> C’est clair mec. C’est le paradis !
+<b>Thug A:</b> Oh, a kid. How are you buddy?
+<b>Voyou A:</b> Oh, une gosse. Ça va ma pote ?
+<b>Thug B:</b> I’m in a really good mood! Take this, kiddo!
+<b>Voyou B:</b> Jsuis vraiment de bonne humeur! Tiens, c’est pour toi!
+<b>Thug A:</b> Stay cool!
+<b>Voyou A:</b> Reste cool!
+<b>Groom:</b> May I help you with your luggage?
+<b>Groom:</b> Puis-je vous aider avec vos bagages ?
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Rich Lady:</b> May I ask you not to talk with my boy?
+<b>Bourgeoise:</b> Puis-je te demander de ne pas parler à mon garçon ?
+<b>Rich Lady:</b> I’m afraid you would have a bad influence on him.
+<b>Bourgeoise:</b> J’ai peur que tu aies une mauvaise influence sur lui.
+<b>Thug B:</b> Stay cool!
+<b>Voyou B:</b> Reste cool!
+<b>Rich Boy:</b> Hmpf, finally a decent place in this joke of a country…
+<b>Richard:</b> Hmpf, enfin un endroit acceptable dans ce pays ridicule…
+<b>Tourist:</b> A bit expensive, but that'll do!
+<b>Tourist:</b> Un poil cher, mais ça le fait !
+<b>Rich Man:</b> We’re raising our boy to be on another level than you, you know?
+<b>Bourgeois:</b> On élève notre garçon pour qu’il soit à un autre niveau que toi, tu comprends ?
+<b>Rich Man:</b> Don’t take it too personally ; we’re not from the same world…
+<b>Bourgeois:</b> Le prends pas personnellement ; on est juste pas du même monde…
+<b>Rich Lady:</b> I came here with my wonderful son! He is the smartest and kindest boy ever!
+<b>Bourgeoise:</b> Je suis venu avec mon merveilleux garçon! Il est le plus intelligent et le plus gentil de tous !
+<b>???:</b> WHAT do you want?? Huh??
+<b>???:</b> Tu veux QUOI toi ?? Hein ??
+<b>Makar:</b> Me, ME?? I’m MAKAR, yea buddy, from ELITE 4!
+<b>Makar:</b> Moi, MOI ?? J'suis MAKAR, et ouais meuf, du CONSEIL 4 !
+<b>Makar:</b> So don’t get cocky, right??
+<b>Makar:</b> Alors fais pas la maline, compris ??
+<b>Makar:</b> What I’m doin’ here? What are you, a policeman?? HUH??
+<b>Makar:</b> Ce que je fais là ? Pourquoi, t’es de la police ?? HEIN ??
+<b>Makar:</b> Only Aristarque gets to give me orders, UNDERSTOOD??
+<b>Makar:</b> Ya que Aristarque qui peut me donner des ordres, COMPRIS ??
+<b>Makar:</b> Now GET OUT of here before I get angry, little kid!
+<b>Makar:</b> Maintenant BARRE-TOI, avant que je m’énerve, la mioche !
+<b>Rich Boy:</b> Sorry, I know my parents can be quite infuriating… I didn’t ask for it…
+<b>Richard:</b> Désolé, je sais que mes parents peuvent être bien énervants… J’y peux rien…
+<b>Obstagoon:</b> Obstagooooon!
+<b>Ixon:</b> Ixoooooon !
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
+<b>Receptionist:</b> Sorry I can't bring you to all floors. Clients can refuse to be disturbed.
+<b>Réceptioniste:</b> Désolé, je ne peux pas vous amener à tous les étages. Les clients peuvent demander à ne pas être dérangés.
+<b>Receptionist:</b> You're already on this floor!
+<b>Réceptioniste:</b> Vous êtes déjà à cet étage !
+<b>Receptionist:</b> Understood! Let us go!
+<b>Réceptioniste:</b> Compris ! C'est parti !
+<b>Receptionist:</b> Have a good day!
+<b>Réceptioniste:</b> Passez une bonne journée !
+Floor 1
+Étage 1
+Floor 3
+Étage 3
+Floor 4
+Étage 4
+Floor 8
+Étage 8

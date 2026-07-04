@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map402]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Lady:</b> I miss the Department Center at \tn...
+<b>Dame:</b> Le Centre Commercial de \tn me manque...
+<b>Man:</b> Oh, I can see that you like rocks! Take this!
+<b>Homme:</b> Oh, je peux voir que tu aimes les roches ! Tiens !
+<b>Man:</b> How do I know you like rocks?
+<b>Homme:</b> Comment je sais que tu aimes les roches ?
+<b>Man:</b> ...
+<b>Homme:</b> ...
+<b>Man:</b> I just know!
+<b>Homme:</b> Je le sais, c'est tout !

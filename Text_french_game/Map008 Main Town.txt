@@ -31,7 +31,7 @@
 <b>Student:</b> Ha! Take this!
 <b>Student:</b> Ha ! Prends ça !
 <b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
-<b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au limieu d'un combat là...
+<b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au milieu d'un combat là...
 <b>Student:</b> I’m not done yet!
 <b>Etudiant:</b> J'ai pas encore perdu !
 <b>Student:</b> Oh hi, my name is Justine, sorry I’m busy!
@@ -49,7 +49,7 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Student:</b> Hmm? Yeah maybe but can you just leave me alone?
 <b>Etudiant:</b> Hmm ? Ouais peut-être mais tu peux me laisser tranquille ?
 <b>Student:</b> I don’t care what you need, go away!
-<b>Etudiant:</b> je m'en fous de ce que tu veux, va-t'en !
+<b>Etudiant:</b> Je m'en fous de ce que tu veux, va-t'en !
 <b>Student:</b> Holy! You’re so annoying! I will crush you right here!
 <b>Etudiant:</b> Mon Dieu ! T'es tellement énervant ! Je vais t'écraser ici et maintenant !
 <b>Student:</b> Damn, you’re good. Who are you?
@@ -85,7 +85,7 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Tourist:</b> Oh, this town is really charming!
 <b>Touriste:</b> Oh, cette ville est vraiment charmante !
 <b>Pascal:</b> One Two One Two... Hey \pn, do you stay fit??
-<b>Pascal:</b> One Two One Two... Hey \pn, do you stay fit??
+<b>Pascal:</b> Une Deux Une Deux... Hey \pn, tu gardes la forme ??
 <b>Tourist</b> My! What a cute little park!
 <b>Touriste:</b> Oh ! Quel joli petit parc !
 <b>Beauty:</b> Hello dear~
@@ -95,9 +95,9 @@ Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/
 <b>Beauty:</b> This will make them more relaxed and happy! Do you want to try?
 <b>Canon:</b> Cela les rendra plus détendus et heureux ! Tu veux essayer ?
 <b>Beauty:</b> What a shame~~ Come back soon darling !
-<b>Canon:</b> Quel dommage~~ Reviens quand tu veux trésor!
+<b>Canon:</b> Quel dommage~~ Reviens quand tu veux mon beau !
 <b>Beauty:</b> Okay~~ Come here darling~
-<b>Canon:</b> Okay~~ Viens ici mon trésor~
+<b>Canon:</b> Okay~~ Viens ici mon petit~
 You wait a few minutes...
 Vous attendez quelques minutes...
 <b>Beauty:</b> This little thing seems really relaxed! I'm sure its happier now!
@@ -133,29 +133,29 @@ Vous n'avez pas assez de Poké Poupées !
 <b>Ernest:</b> Hello young \pn, how are you? Thanks again for the Poké Dolls!
 <b>Ernest:</b> Bonjour jeune \pn, comment vas-tu ? Merci encore pour les Poké Poupées !
 Girl: Hello!!! I wanna see Pokémons!!! I wanna see <b>Happy</b> Pokémons!!!
-Girl: Bonjour!!! Je veux voir des Pokémon !!! Je veux voir des Pokémon <b>Heureux</b> !!!
+<b>Fille:</b>: Bonjour!!! Je veux voir des Pokémon !!! Je veux voir des Pokémon <b>Heureux</b> !!!
 Girl: DO YOU HAVE A <b>HAPPY</b> POKÉMON???
-Girl: TU AS DES POKÉMON <b>HEREUX</b> ???
+<b>Fille:</b>: TU AS DES POKÉMON <b>HEUREUX</b> ???
 <b>Girl:</b> WHYYYYYYYYYYYY???????????
-<b>Girl:</b> POURQUOI ???????????????????
+<b>Fille:</b> POURQUOI ???????????????????
 <b>Girl:</b> OH. MY. GAWDDDDDDDDD!!!!!!!!! It's so happy!!!! It loves you really really a lot!!!
-<b>Girl:</b> OH. MON. DIEU!!!!!!!!! Il est si heureux !!!! Il t'aime vraiment vraiment beaucoup !!!
+<b>Fille:</b> OH. MON. DIEU !!!!!!!!! Il est si heureux !!!! Il t'aime vraiment vraiment beaucoup !!!
 <b>Girl:</b> Thank you for showing me your incredible bond!!! I'M HONORED!!!!! TAKE THIS!!!!!!!!!!!!
-<b>Girl:</b> Merci de m'avoir montré votre incroyable lien !!! JE SUIS HONORÉÉ !!!!! PRENDS ÇA !!!!!!!!!!!!
+<b>Fille:</b> Merci de m'avoir montré votre incroyable lien !!! JE SUIS HONORÉE !!!!! PRENDS ÇA !!!!!!!!!!!!
 <b>Girl:</b> Heyyy!!! It really likes you!! You're close to being really inseparables!
-<b>Girl:</b> Heyyy !!! Il t'apprécies vraiment !! Vous êtes presque inséparables !
+<b>Fille:</b> Heyyy !!! Il t'apprécies vraiment !! Vous êtes presque inséparables !
 <b>Girl:</b> Hey! It's friendly towards you! It's like, kinda happy, but it could be better!
-<b>Girl:</b> Hey ! Il t'apprécies ! Il est, genre, plutôt heureux, mais ça pourrait être mieux !
+<b>Fille:</b> Hey ! Il t'apprécies ! Il est, genre, plutôt heureux, mais ça pourrait être mieux !
 <b>Girl:</b> Eh, it's kinda cute but not really used to you...
-<b>Girl:</b> Eh, il est plutôt mignon mais il est pas trop habitué à toi...
+<b>Fille:</b> Eh, il est plutôt mignon mais il est pas trop habitué à toi...
 <b>Girl:</b> Eeeeeh... You should be nicer to it, it doesn't really like you...
-<b>Girl:</b> Eeeeeh... Tu devrais être plus gentil avec lui, il ne t'aime pas trop...
+<b>Fille:</b> Eeeeeh... Tu devrais être plus gentil avec lui, il ne t'aime pas trop...
 <b>Girl:</b> Eeeeeeeh? It... it doesn't like you at all. What... What are you doing to it??? You meanie!!!
-<b>Girl:</b> Eeeeeeeh? Il... Il ne t'aime pas du tout. Qu...Qu'estce que tu lui fais ??? T'es trop méchant !!!
+<b>Fille:</b> Eeeeeeeh? Il... Il ne t'aime pas du tout. Qu...Qu'estce que tu lui fais ??? T'es trop méchant !!!
 Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</b> POKÉMON???
-Girl: EST-CE QUE TU AS <u>UN AUTRE</u> POKÉMON <b>HEUREUX</b> ???
+<b>Fille:</b>: EST-CE QUE TU AS <u>UN AUTRE</u> POKÉMON <b>HEUREUX</b> ???
 <b>Girl:</b> You're really an incredible trainer!!!! CONGRATS!!!!!!
-<b>Girl:</b> T'es vraiment un incroyable dresseur !!!! FÉLICITATIONS !!!!!!
+<b>Fille:</b> T'es vraiment un incroyable dresseur !!!! FÉLICITATIONS !!!!!!
 <b>Tourist:</b> So this is the \gt Gym huh ?
 <b>Touriste:</b> Donc voici l'arène \gt hein ?
 <b>Tourist:</b> I wonder what the Leader is like...

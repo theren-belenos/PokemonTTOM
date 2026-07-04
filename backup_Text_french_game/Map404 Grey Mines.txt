@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map404]
+<b>Worker:</b> Hum? Sorry I'm a bit busy here.
+<b>Travailleur:</b> Oui ? Désolé je suis un peu occupé là.
+<b>Worker:</b> I really need to make this thing work again.
+<b>Travailleur:</b> Je dois vraiment refaire fonctionner ce machin.
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Worker:</b> How come there is so much Kecleons here?
+<b>Travailleur:</b> Pourquoi il y a autant de Kecleons ici ?
+<b>Worker:</b> Do you want this? I found it but I don't need it.
+<b>Travailleur:</b> Tu veux ça ? Je l'ai trouvée mais j'en ai pas vraiment besoin.
+<b>Worker:</b> I found it but I don't need it.
+<b>Travailleur:</b> Je l'ai trouvée mais j'en ai pas vraiment besoin.
+You spend time searching for evolutionary stones with Cassian.
+You spend time searching for evolutionary stones with Cassian.
+He really loves those!
+He really loves those!
+<b>Blaise:</b> What? Yes, I'm the boss. What do you mean I'm not working??? Huh... em, take this!
+<b>Blaise:</b> What? Yes, I'm the boss. What do you mean I'm not working??? Huh... em, take this!
+<b>Blaise:</b> I'm really working here, I swear!
+<b>Blaise:</b> I'm really working here, I swear!
+Yes
+Oui
+No
+Non

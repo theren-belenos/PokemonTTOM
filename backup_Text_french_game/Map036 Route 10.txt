@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map036]
+<b>Abel:</b> I will extinguish you!
+<b>Abel:</b> Je vais t'éteindre !
+<b>Abel:</b> Your fire is too intense!
+<b>Abel:</b> Ton feu est trop intense !
+<b>Rebecca:</b> Rollerblading in the dirt is pretty hard!
+<b>Rebecca:</b> Faire du roller dans la terre c'est vraiment dur !
+<b>Rebecca:</b> Did you even rollerbladed?
+<b>Rebecca:</b> T'as déjà fait du roller ?
+<b>Man:</b> I kinda want to go in there... But I'm afraid of the dark...
+<b>Homme:</b> J'ai un peu envie d'aller là-dedans... Mais j'ai peur du noir...

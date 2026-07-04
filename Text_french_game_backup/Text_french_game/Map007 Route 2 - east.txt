@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map007]
+<b>Bob:</b> I looooooooove cats! So cuuuuuuuute!
+<b>Bob:</b> J’adooooooooore les chats ! Si mignooooooooons !
+<b>Bob:</b> Do you have cuuuuuuute cats?
+<b>Bob:</b> Est-ce que tu as des chats trop mignoooooooons ?
+<b>Bernard:</b> Oho! Saw you!
+<b>Bernard:</b> Oho ! Je t’ai vu !
+<b>Bernard:</b> See you again!
+<b>Bernard:</b> A plus !

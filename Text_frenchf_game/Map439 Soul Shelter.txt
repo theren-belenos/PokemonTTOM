@@ -1,0 +1,48 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map439]
+<b>Elder:</b> I can talk to spirits you know… Here, they’re actually rather appeased.
+<b>Mamie:</b> Je peux parler aux esprits tu sais... Ici, ils ont l'air plutôt apaisés.
+<b>Elder:</b> It’s you! Thanks for coming!
+<b>Papy:</b> C’est toi ! Merci d’être venue !
+<b>Elder:</b> The well is in the deepest parts of the Cave. I hope we won’t get lost.
+<b>Papy:</b> Le puit est dans la partie la plus profonde de la grotte. j’espère qu'on ne va pas se perdre.
+<b>Elder:</b> Can I give you the artefact right now? It’s a bit heavy for my old bones…
+<b>Papy:</b> Puis-je te donner l’artefact dès maintenant ? C’est un peu lourd pour mes vieux os…
+<b>Elder:</b> Let us go!
+<b>Papy:</b> Allons-y !
+<b>Elder:</b> There it is! Throw the artefact inside!
+<b>Papy:</b> Le voici ! Jette l’artéfact dedans !
+You throw the Odd Keystone into the well.
+Vous lancez la Clé de Voûte dans le puits.
+Suddenly, a form emerges!
+Soudainement, une forme émerge !
+<b>Elder:</b> Oh my! Look at this… A bit creepy isn’t it? Glad you’re here!
+<b>Papy:</b> Oh là ! Regarde ça… Un peu inquiétant non ? Content que tu sois là !
+<b>Elder:</b> It seems there are more of them coming from the well.
+<b>Papy:</b> J’ai l’impression qu’il y en a davantage sortant du puit.
+<b>Elder:</b> If you need more of these strange Pokémon, interacting with the well should do the trick.
+<b>Papy:</b> Si t’as besoin de plus de ces Pokémon étranges, interagir avec le puit devrait fonctionner.
+<b>Elder:</b> Anyway, looks like my daughter was right about this artefact.
+<b>Papy:</b> En tout cas, on dirait bien que ma fille avait raison à propos de cet artefact.
+<b>Elder:</b> I hope this gesture will appease her spirit…
+<b>Papy:</b> J’espère que ce geste pourra apaiser son esprit…
+<b>Elder:</b> Now, can I ask you to bring me back to the entrance?
+<b>Papy:</b> Bon, puis-je te demander de me raccompagner à l’entrée ?
+A form emerges from the well!
+Une forme émerge du puit !
+<b>Angelo:</b> Aaaaah! A ghost!
+<b>Angelo:</b> Aaaaah ! Un fantôme !
+<b>Angelo:</b> You're not a ghost but you're still scary!
+<b>Angelo:</b> T'es pas un fantôme mais tu fais quand même peur !
+You can't go out, you have to escort the Elder man to the well!
+Vous ne pouvez pas sortir, tu devez escorter le papy jusqu'au puit !
+<b>Elder:</b> Thanks a lot for your help young one. Please accept this token of gratitude.
+<b>Papy:</b> Merci beaucoup pour ton aide jeune fille. Accepte ce petit cadeau de remerciements.
+<b>Elder:</b> See you around!
+<b>Papy:</b> A plus tard !
+<b>Kapough:</b> Hi! I'm a real human!
+<b>Kapough:</b> Salut ! Je suis un vrai humain !
+<b>Kapough:</b> Good day to you fellow human!
+<b>Kapough:</b> Bonne journée à toi collègue humain !

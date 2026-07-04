@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map403]
+<b>Lady:</b> This is so beautiful!
+<b>Dame:</b> C'est si joli !
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Saleswoman:</b> Hello dear customer! If you have any questions, ask me right away!
+<b>Vendeuse:</b> Bonjour cher client ! Si vous avez la moindre question, n'hésitez pas !
+<b>Man:</b> Heh, they have a nice range of products in here!
+<b>Homme:</b> Oh, ils ont une belle variété de produits ici !

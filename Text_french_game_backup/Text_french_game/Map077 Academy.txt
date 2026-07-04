@@ -1,0 +1,268 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map077]
+<b>Teacher:</b> Hi! Don’t mind me, I’m just grading a few papers.
+<b>Enseignant:</b> Salut ! Fais pas attention à moi, je corrige juste quelques copies.
+<b>Teacher:</b> Have a pleasant day!
+<b>Enseignant:</b> Passe une bonne journée !
+<b>Teacher:</b> It’s really nice to have a beautiful academy back!
+<b>Enseignant:</b> C'est vraiment génial d'avoir récupéré notre belle Académie !
+It's full of important looking foldcases...
+C'est plein de dossiers qui ont l'air importants...
+<b>Student:</b> That’s hard!
+<b>Etudiant:</b> C'est dur !
+...
+...
+<b>Student:</b> Hi! I’m Justine, why?
+<b>Etudiant:</b> Salut ! Je suis Justine, pourquoi ?
+<b>Student:</b> Justine Lertimen… Can I help you?
+<b>Etudiant:</b> Justine Lertimen… Je peux t'aider ?
+<b>Student:</b> Oh! You’re right! I completely forgot!
+<b>Etudiant:</b> Oh ! Tu as raison ! J'avais complètement oublié !
+<b>Student:</b> It must be on my desk.
+<b>Etudiant:</b> Il doit être dans mon bureau.
+<b>Student:</b> But I can’t go fetch it now! It’s the middle of the class!
+<b>Etudiant:</b> Mais je peux pas aller le chercher maintenant ! On est en plein milieu du cours !
+<b>Student:</b> You can go yourself if you want. My room is the red one!
+<b>Etudiant:</b> Tu peux y aller toi-même si tu veux. Ma chambre c'est la rouge !
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Technician:</b> Now where are these damn boxes?
+<b>Technicien:</b> Bon on sont passées ces fichues boîtes ?
+<b>Teacher:</b> Oh hello, are you a trainer? I need something!
+<b>Enseignante:</b> Oh bonjour, es-tu un dresseur? J'ai besoin de quelque chose!
+<b>Teacher:</b> For one of my classes I need a Falinks, do you have one?
+<b>Enseignante:</b> Pour un de mes cours il me faudrait un Hexadron ! Tu en as un ?
+<b>Teacher:</b> I would need to borrow one for a few hours. Don’t worry, I will give it back to you!
+<b>Enseignante:</b> J'aurais besoin de l'emprunter pour quelques heures. Ne t'inquiète pas, je te le rends après !
+<b>Teacher:</b> Do you have a Falinks I can borrow?
+<b>Enseignante:</b> Est-ce que tu as un Hexadron que je pourrais emprunter ?
+<b>Teacher:</b> No? Please I really need one!
+<b>Enseignante:</b> Non ? S'il te plaît il m'en faut vraiment un !
+<b>Teacher:</b> Wonderful! I take it for a few hours, just wait for me!
+<b>Enseignante:</b> Magnifique ! Je te le prends pour quelques heures, attends moi ici !
+You wait a few minutes...
+Vous attendez quelques temps...
+<b>Teacher:</b> The students were really delighted! Thanks a lot!
+<b>Enseignante:</b> Les étudiants étaient vraiment ravis ! Merci beaucoup !
+<b>Teacher:</b> Here, take this TM for your help!
+<b>Enseignante:</b> Tiens, prends cette CT pour ton aide !
+<b>Teacher:</b> See ya!
+<b>Enseignante:</b> A plus !
+<b>Teacher:</b> Oh it’s you again! How are you?
+<b>Enseignante:</b> Oh c'est encore toi ! Comment ça va ?
+It's full of report cards, meeting reports, administrative documents...
+C'est plein de bulletins, rapports de réunions, documents administratifs...
+<b>Student:</b> Pfff…
+<b>Etudiant:</b> Pfff…
+<b>Student:</b> I’m Sophia. And I’m bored.
+<b>Etudiant:</b> Je suis Sophia. Et je m'ennuie.
+<b>Student:</b> Sophia Rey but I might rename to Sophia Deadinside in a few moments
+<b>Etudiant:</b> Sophia Rey mais je vais peut-être me renommer en Sophia Chevezmoi dans pas longtemps.
+<b>Student:</b> What? I don’t think so…
+<b>Etudiant:</b> Quoi ? Je ne crois pas...
+<b>Student:</b> Are you sure?
+<b>Etudiant:</b> T'es sûr ?
+<b>Student:</b> But? No I don’t!
+<b>Etudiant:</b> Mais ? Mais non !
+<b>Student:</b> Are you out of your mind?
+<b>Etudiant:</b> T'as perdu la tête ?
+<b>Student:</b> I don’t have it !
+<b>Etudiant:</b> Je ne l'ai pas !
+Principal Office
+Bureau du Proviseur
+<b>Teacher:</b> Hello! Are you our Gym Leader?
+<b>Enseignant:</b> Bonjour ! Es-tu notre Champion d'Arène ?
+<b>Teacher:</b> So I must thank you for the reconstruction of this academy!
+<b>Enseignant:</b> Je dois donc te remercier pour la reconstruction de l'académie !
+<b>Teacher:</b> Take this as a thanks!
+<b>Enseignant:</b> Accepte ça en remerciement !
+<b>Teacher:</b> Have a good day!
+<b>Enseignant:</b> Passes une bonne journée !
+<b>Librarian:</b> Oh hello there, sorry but I’m really busy nowadays.
+<b>Bibliothécaire:</b> Oh bien le bonjour, désolée mais je suis vraiment occupée en ce moment.
+<b>Librarian:</b> Unless… You want to help me?
+<b>Bibliothécaire:</b> A moins que… Tu veuilles m’aider ?
+<b>Librarian:</b> Why thank you! Let me explain.
+<b>Bibliothécaire:</b> Oh mais merci ! Laisse moi t'expliquer.
+<b>Librarian:</b> 3 students didn’t return books they borrowed. They’re long past due date.
+<b>Bibliothécaire:</b> 3 étudiants n’ont pas rendu des livres empruntés. La date limite est largement dépassée.
+<b>Librarian:</b> Could you go find them and ask for the book?
+<b>Bibliothécaire:</b> Peux-tu aller les voir et leur demander le livre ?
+<b>Librarian:</b> Their names are Alex Nodier, Justine Lertimen and Mark Morton.
+<b>Bibliothécaire:</b> Leurs noms sont Alex Nodier, Justine Lertimen et Mark Morton.
+<b>Librarian:</b> Thanks a lot!
+<b>Bibliothécaire:</b> Merci beaucoup !
+<b>Librarian:</b> Oh… Good day then.
+<b>Bibliothécaire:</b> Oh… Bonne journée alors.
+<b>Librarian:</b> Changed your mind? I could still use a hand!
+<b>Bibliothécaire:</b> Tu as changé d’avis ? J’ai toujours besoin d’un coup de main !
+<b>Librarian:</b> Did you get all 3 books? Not yet?
+<b>Bibliothécaire:</b> Tu as les 3 livres ? Pas encore ?
+<b>Librarian:</b> If you forgot, their names are Alex Nodier, Justine Lertimen and Mark Morton.
+<b>Bibliothécaire:</b> Si tu as oublié, leurs noms sont Alex Nodier, Justine Lertimen et Mark Morton.
+<b>Librarian:</b> You got them all? Wonderful!
+<b>Bibliothécaire:</b> Tu les as tous ? Formidable !
+You give the 3 books to the librarian.
+Vous donnez les 3 livres à la bibliothécaire.
+<b>Librarian:</b> I seriously owe you one! Here, I have this for you!
+<b>Bibliothécaire:</b> Sérieusement, je t’en dois une ! Tiens, j’ai ça pour toi !
+<b>Librarian:</b> With this, even little Pokémon can be stronger!
+<b>Bibliothécaire:</b> Avec ça, même les petits Pokémon peuvent être puissants !
+<b>Librarian:</b> See you again!
+<b>Bibliothécaire:</b> Au revoir !
+<b>Librarian:</b> Oh hi! Thanks again for your help back then!
+<b>Bibliothécaire:</b> Oh salut ! Merci encore pour ton aide de la dernière fois !
+<b>Student:</b> Hi! Isn’t my room pretty?
+<b>Etudiant:</b> Salut ! T'as vu comme ma chambre est jolie ?
+<b>Student:</b> I’m Lori Young! Nice to meet you!
+<b>Etudiant:</b> Je suis Lori Young ! Enchantée !
+<b>Principal Lewis:</b> Hello \pn, how are you?
+<b>Proviseur Lewis:</b> Bonjour \pn, comment vas-tu?
+<b>Principal Lewis:</b> Our academy is doing fairly well. Thank you for your help.
+<b>Proviseur Lewis:</b> Notre académie se porte bien. Merci pour ton aide.
+<b>Principal Lewis:</b> Let’s hope it will give some recognition to our city!
+<b>Proviseur Lewis:</b> Espérons que cela fasse rayonner notre ville !
+<b>Principal Lewis:</b> Let’s hope this academy will give some recognition to our city!
+<b>Proviseur Lewis:</b> Espérons que cette académie fasse rayonner notre ville !
+<b>Other student:</b> I can’t wait for the finals to be done…
+<b>Autre étudiant:</b> J'ai vraiment hâte que les partiels se finissent...
+<b>Student:</b> What? Studying is fun !
+<b>Etudiant:</b> Quoi ? Etudier c'est marrant !
+<b>Student:</b> My name is Jasmine.
+<b>Etudiant:</b> Je m'appelle Jasmine.
+<b>Other student:</b> I'm Dorothea!
+<b>Autre étudiant:</b> Je suis Dorothéa !
+<b>Student:</b> I’m Jasmine Demir, why?
+<b>Etudiant:</b> Je suis Jasmine Demir. Pourquoi ?
+<b>Other student:</b> Erm.. It’s Trens for me…
+<b>Autre étudiant:</b> Euh.. Moi c'est Trens...
+<b>Student:</b> Hello mate. How are you?
+<b>Etudiant:</b> Salut poto. Comment vas-tu ?
+<b>Student:</b> I have too much of these. You seem like a good person, just take a few!
+<b>Etudiant:</b> J'ai trop de ces trucs. Tu as l'air d'une bonne personne, prends-en quelques-uns !
+<b>Student:</b> See you!
+<b>Etudiant:</b> A plus !
+<b>Student:</b> Hmm? Oh right, I didn't introduce myself.
+<b>Etudiant:</b> Hmm ? C'est vrai, je ne me suis pas présenté.
+<b>Student:</b> I’m Tyrone Lynch. I’m the dormitory representative. Can I help you?
+<b>Etudiant:</b> Je suis Tyrone Lynch. Je suis le délégué du dortoir. Je peux t'aider ?
+<b>Student:</b> I can’t wait for the finals to be done…
+<b>Student:</b> J'ai vraiment hâte que les partiels se finissent...
+<b>Other student:</b> What? Studying is fun !
+<b>Autre étudiant:</b> Quoi ? Etudier c'est marrant !
+<b>Student:</b> My name? I’m Dorothea! And my friend here is Jasmine!
+<b>Etudiant:</b> Mon nom ? Je suis Dorothéa ! Et mon amie ici est Jasmine !
+<b>Other student:</b> Hey!
+<b>Autre étudiant:</b> Hey !
+<b>Student:</b> Erm.. It’s Trens for me…
+<b>Etudiant:</b> Euh.. Moi c'est Trens...
+<b>Other student:</b> I’m Jasmine Demir, why?
+<b>Autre étudiant:</b> Je suis Jasmine Demir. Pourquoi ?
+<b>Student:</b> Hello little fella. How’s going?
+<b>Etudiant:</b> Salut ! Comment ça va ?
+<b>Student:</b> I’m Alex. If you need something, hit me up!
+<b>Etudiant:</b> Je suis Alex. Si t'as besoin d'un truc, balance !
+<b>Student:</b> Huh? It’s Nodier, why?
+<b>Etudiant:</b> Hum ? C'est Nodier, pourquoi ?
+<b>Student:</b> There is another Alex in this academy! That must be him!
+<b>Etudiant:</b> Il y a un autre Alex dans l'académie ! C'est sûrement lui !
+<b>Student:</b> I promise you, It’s not me!
+<b>Etudiant:</b> Je te promets, c'est pas moi !
+<b>Student:</b> Fine, FINE! You won.
+<b>Etudiant:</b> D'accord, D'ACCORD ! T'as gagné.
+<b>Student:</b> I hoped the librarian just forgot…
+<b>Etudiant:</b> J'espérais que la bibliothécaire oublie...
+<b>Student:</b> Pffff... Here, take it.
+<b>Etudiant:</b> Pffff... Tiens, prends-le.
+<b>Student:</b> What? Leave me alone!
+<b>Etudiant:</b> Quoi ? Laisse moi tranquille !
+<b>Student:</b> I’m Alex. Can you go away now?
+<b>Etudiant:</b> Je suis Alex. Tu peux partir maintenant ?
+<b>Student:</b> What is this, a damn interrogation?
+<b>Etudiant:</b> Tu me fais quoi là, un interrogatoire ?
+<b>Student:</b> I’m Alex Rivière. Satisfied?
+<b>Etudiant:</b> Je suis Alex Rivière. Content ?
+<b>Teacher:</b> ...in this case, the two Defense of the target are swapped.
+<b>Enseignante:</b> ...dans ce cas, les deux défenses de la cible sont échangées.
+<b>Teacher:</b> Thus, using Psyshock here… is not a good idea!
+<b>Enseignante:</b> Ainsi, utiliser Choc Psy ici... N'est pas une bonne idée !
+<b>Student:</b> Hmm I didn't know that…
+<b>Etudiant:</b> Hmm je savais pas ça...
+<b>Student:</b> I’m Stephen Gonzalez. Sshhhh, I’m trying to listen…
+<b>Etudiant:</b> Je suis Stephen Gonzalez. Chuuut, j'essaye d'écouter...
+Union meeting every thursday morning - Please come in a great number!
+Réunion syndicale tous les jeudis matins - venez nombreux !
+<b>Student:</b> Okay…
+<b>Etudiant:</b> Okay…
+<b>Student:</b> My name is Eve. Why?
+<b>Etudiant:</b> Je m'appelle Eve. Pourquoi ?
+<b>Student:</b> Eve Flores. Now stop talking or the teacher will scold me!
+<b>Etudiant:</b> Eve Flores. Maintenant arrête de me parler, je vais finir par me faire disputer !
+This is a drink vending machine. Wanna buy something?\G
+\GC'est un distributeur de boissons. Acheter quelque chose ?
+\G...Klang! One bottle of Fresh Water fell down!
+\G...Klang ! Une canette d'Eau Fraîche est tombée !
+\GYou have no room left in the Bag.
+\GVous n'avez plus de place dans le sac.
+\GYou don't have enough money.
+\GVous n'avez pas assez d'argent.
+\G...Klang! One bottle of Soda Pop fell down!
+\G...Klang ! Une canette de Soda Cool est tombée !
+\G...Klang! One bottle of Lemonade fell down!
+\G...Klang ! Une canette de Limonade est tombée !
+You spend time assisting Maple during his lessons at the academy.
+Vous assistez Maple pendant ses cours à l'académie.
+Students are really happy to learn from you!
+Les étudiants sont vraiment ravis d'apprendre de vous !
+There is a book in here, from the library.
+Il y a un livre là-dedans, venant de la bibliothèque.
+It's one of the missing borrowed books!
+C'est un des livres empruntés manquants !
+<b>Jeremy:</b> Hey \pn! With the academy open anew, I try to broaden my knowledge!
+<b>Jeremy:</b> Hey \pn ! Avec l'académie de nouveau ouverte, j'essaye d'élargir mes connaissances !
+<b>Jeremy:</b> Are… are you alright? I’m Jeremy, you do know that already!
+<b>Jeremy:</b> Est-ce...est-ce que tu vas bien ? Je m'appelle Jérémy, mais tu le savais déjà !
+<b>Jeremy:</b> Jeremy Davis… Do you want me to call for help?
+<b>Jeremy:</b> Jeremy Davis… Tu veux que je demande de l'aide ?
+<b>Jeremy:</b> What? I don’t think so…
+<b>Jeremy:</b> Quoi ? Je ne crois pas...
+<b>Jeremy:</b> Are you sure?
+<b>Jeremy:</b> T'es sûr ?
+<b>Jeremy:</b> But? No I don’t!
+<b>Jeremy:</b> Mais ? Mais non !
+<b>Jeremy:</b> Are you out of your mind?
+<b>Jeremy:</b> T'as perdu la tête ?
+<b>Jeremy:</b> I don’t have it !
+<b>Jeremy:</b> Je ne l'ai pas !
+What's your name?
+Comment tu t'appelles ?
+Bye
+Au revoir
+And your surname?
+Et ton nom de famille ?
+You have a book
+Tu as un livre
+I'm sure!
+J'en suis sûr !
+You're lying!
+Tu mens !
+Give it!
+Donne-le
+Yes
+Oui
+No
+Non
+No, it's really you!
+Non, c'est vraiment toi !
+You're lying again!
+Tu mens à nouveau !
+Fresh Water (200$)
+Eau Fraîche (200$)
+Soda Pop (350$)
+Soda Cool (350$)
+Lemonade (500$)
+Limonade (500$)
+Go away
+Partir

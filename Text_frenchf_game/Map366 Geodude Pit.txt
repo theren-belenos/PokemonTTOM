@@ -1,0 +1,92 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map366]
+<b>Guy voice:</b> Why on earth do we have to kidnap a Milcery anyway??? *sob*
+<b>Voix masculine:</b> Pour quelle foutue raison on doit capturer un Crémy même ?? *snif*
+<b>Girl voice:</b> It doesn't exist in the wild in Nekanta.
+<b>Voix féminine:</b> Ils n’existent pas dans la nature en Nekanta.
+<b>Guy voice:</b> So? What are we doing, like, completing the Pokédex?
+<b>Voix masculine:</b> Et alors ? Quoi genre, on complète le Pokédex ?
+<b>Girl voice:</b> I heard Toan need one for his researchs.
+<b>Voix féminine:</b> Je crois que Toan en a besoin pour ses recherches.
+<b>Girl voice:</b> It's strange evolutions are likely tied to human influence.
+<b>Voix féminine:</b> Ses évolutions étranges sont sans doute liées à l’influence humaine.
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Philippe:</b> The exit is the other way around you know...
+<b>Philippe:</b> La sortie est de l’autre côté, tu sais…
+<b>Philippe:</b> Exit on the right, exit on the right!
+<b>Philippe:</b> Sortie sur la droite, sortie sur la droite !
+The rock suddenly jumps you!
+Le rocher vous saute dessus !
+<b>Guy voice:</b> Yea but why do we c...
+<b>Voix masculine:</b> Oui mais on s’en f…
+<b>Girl:</b> A kid? What do you want?
+<b>Femme:</b> Une enfant ? Qu’est-ce que tu veux ?
+<b>Guy:</b> You want to "save" this Milcery? Ha! Isn't it ironic?
+<b>Homme:</b> Tu veux “sauver” ce Crémy ? Ha ! N’est-ce pas ironique ?
+<b>Girl:</b> Us Team Absolution are the one trying to save Pokémons from human exploitation!
+<b>Femme:</b> C’est nous, la Team Absolution, qui essayons de sauver les Pokémon de l’influence humaine !
+<b>Guy:</b> You're too young to understand, don't annoy us!
+<b>Homme:</b> T’es trop jeune pour comprendre, nous ennuie pas !
+<b>Girl:</b> Go to your mom, kid!
+<b>Femme:</b> Retourne chez ta mère, enfant !
+The grunts used an Escape Rope and flew away!
+Les sbires ont utilisé une Corde Sortie et se sont enfuis !
+Milcery happily jumped on your shoulder!
+Crémy saute joyeusement sur votre épaule !
+<b>Martha:</b> Hello! You look like a trainer, help me please!
+<b>Martha:</b> Bonjour ! Tu as l’air d’une dresseuse, aide-moi s’il te plaît !
+<b>Martha:</b> Two despicable and strangely dressed persons stole my cute Pokémon!
+<b>Martha:</b> Deux personnes ignobles et bizarrement habillées m’ont volé mon Pokémon tout mignon !
+<b>Martha:</b> Luckily one of them seems to have fall down the bottom of the pit... So they're still here.
+<b>Martha:</b> Heureusement l’un d’entre eux semble être tombé en bas de la fosse… Donc ils sont encore là.
+<b>Martha:</b> Please take it back from them!
+<b>Martha:</b> S’il te plaît, reprends-leur !
+You got your first red quest! These are \c[2]<b>battle quest</b>\c[0].
+Vous avez obtenu votre première quête rouge ! Ce sont des \c[2]<b>quêtes de combat</b>\c[0].
+They require you to win a battle in order to complete the quest.
+Vous aurez besoin de remporter un combat pour compléter ces quêtes.
+To make sure you don't run into something out of your reach, you can see the recommended level on your quest log
+Pour pas que vous vous retrouviez dans un combat de trop haut niveau, vous pouvez voir le niveau recommandé dans la liste des quêtes.
+<b>Martha:</b> You got it!!
+<b>Martha:</b> Tu l’as récupéré !
+<b>Martha:</b> Well thank you very much, but...
+<b>Martha:</b> Eh bien merci beaucoup mais…
+<b>Martha:</b> I realise that I can't protect my cute Chantilly... I don't want it to suffer!
+<b>Martha:</b> Je réalise que je ne peux pas protéger mon mignon petit Chantilly... Je veux pas qu'il souffre !
+<b>Martha:</b> I'm really sad to even say this but...
+<b>Martha:</b> Je suis triste rien qu’à demander ça mais…
+<b>Martha:</b> Would you take it with you? You will keep it safe I know!
+<b>Martha:</b> Tu veux bien le prendre avec toi ? Tu le protégeras, j’en suis sûr !
+<b>Marta:</b> And besides, I think he would be happier with you and your others Pokémons!
+<b>Martha:</b> Et en plus, il sera plus heureux avec toi et tes autres Pokémon !
+<b>Marta:</b> It already likes you! Take it with you please!
+<b>Martha:</b> Il t’adore déjà ! Prends-le avec toi s’il te plaît !
+<b>Martha:</b> Take care of Chantilly!
+<b>Martha:</b> Prends soin de Chantilly!
+<b>Gregory:</b> I love speleology!
+<b>Gregory:</b> J’adore la spéléologie !
+<b>Patrice:</b> I love hiking!
+<b>Patrice:</b> J’adore la randonnée !
+<b>Martha:</b> Did you find my Pokémon? No? Please, take it back from them!
+<b>Martha:</b> Est-ce que tu as trouvé mon Pokémon ? Non ? S'il te plaît, reprend-leur !
+<b>Martha:</b> Did you find my Pokémon? Yes! You got it!!
+<b>Martha:</b> Est-ce que tu as trouvé mon Pokémon ? Oui ! Tu l'as récupéré !
+<b>Girl voice:</b> Are you for real??
+<b>Voix féminine:</b> Mais t’es sérieux ??
+<b>Girl voice:</b> We got the target, mission is complete, and you manage to fall down to the bottom of the pit???
+<b>Voix féminine:</b> On a sécurisé la cible, la mission est complétée, et tu réussis à tomber au fond de la fosse ???
+<b>Guy voice:</b> I-I think I broke an ankle... *sob*
+<b>Voix masculine:</b> Je-je crois que je me suis cassé la cheville… *snif*
+<b>Girl voice:</b> What did I do on my previous life to deserve this...
+<b>Voix féminine:</b> Qu’est-ce que j’ai fait dans mes vies antérieures pour mériter ça…
+Yes
+Yes
+No
+No

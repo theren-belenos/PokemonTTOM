@@ -1,0 +1,286 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map373]
+<b>Zamazenta:</b> Zaaaaaaaa!
+<b>Zamazenta:</b> Zaaaaaaaa!
+<b>Employee:</b> Sorry, only authorized personnel past this point.
+<b>Employé:</b> Désolé, personnel autorisé uniquement.
+<b>\c[7]Aristarque:</b>\c[0] Are you ready for your first rank up battle?
+<b>\c[7]Aristarque:</b>\c[0] Es-tu prêt pour ton premier Combat de Rang ?
+<b>\c[2]Tom:</b>\c[0] Hello \pn how are you? I'm here to monitor your rank up battle. Good luck!
+<b>\c[2]Tom:</b>\c[0] Salut \pn comment vas-tu ? Je suis là pour arbitrer ton Combat de Rang. Bonne chance !
+<b>\c[2]Tom:</b>\c[0] Hello, I'm Tom, Nekanta League employee and stand-in \gt Leader.
+<b>\c[2]Tom:</b>\c[0] Bonjour, je suis Tom, employé de la Ligue de Nekanta et Leader \gt par intérim.
+<b>\c[2]Tom:</b>\c[0] Welcome to the temporary \gt Gym.
+<b>\c[2]Tom:</b>\c[0] Bienvenue dans l’Arène \gt temporaire.
+<b>\c[2]Tom:</b>\c[0] Sorry we didn't really transformed this room to a proper \gt Gym.
+<b>\c[2]Tom:</b>\c[0] Nous sommes désolés de ne pas avoir pu transformer cette salle en vraie Arène \gt.
+<b>\c[2]Tom:</b>\c[0] We actually have other uses for this room.
+<b>\c[2]Tom:</b>\c[0] Cette salle a d’autres utilités au sein de la Ligue.
+<b>\c[2]Tom:</b>\c[0] Do you want to battle me and earn the Rainbow badge?
+<b>\c[2]Tom:</b>\c[0] Veux-tu me défier pour tenter de gagner le Badge Arc-en-Ciel ?
+<b>\c[2]Tom:</b>\c[0] Okay then please take place.
+<b>\c[2]Tom:</b>\c[0] Ok alors prends place.
+<b>\c[2]Tom:</b>\c[0] Are you ready? Let's go then!
+<b>\c[2]Tom:</b>\c[0] Prêt ? Alors c’est parti !
+You got the Rainbow badge! \f[RAINBOWBADGE]
+Vous obtenez le Badge Arc-en-Ciel ! \f[RAINBOWBADGE]
+<b>\c[2]Tom:</b>\c[0] Congratulations on your win!
+<b>\c[2]Tom:</b>\c[0] Félicitations pour ta victoire !
+<b>\c[2]Tom:</b>\c[0] With this badge, you can level up your Pokémons up to the Level 25.
+<b>\c[2]Tom:</b>\c[0] Avec ce badge, tes Pokémons pourront atteindre le niveau 25.
+<b>\c[2]Tom:</b>\c[0] You can also use the HM Cut outside of battle.
+<b>\c[2]Tom:</b>\c[0] Tu pourras également utiliser la CS Coupe en dehors des combats.
+<b>\c[2]Tom:</b>\c[0] But you'll first have to find it!
+<b>\c[2]Tom:</b>\c[0] A condition que tu l'aie trouvée !
+<b>\c[2]Tom:</b>\c[0] I will also give you this.
+<b>\c[2]Tom:</b>\c[0] Je vais aussi te donner ceci.
+<b>\c[2]Tom:</b>\c[0] This move allows your pokémon to protect himself against enemy attacks.
+<b>\c[2]Tom:</b>\c[0] Cette capacité permet à ton Pokémon de se protéger des attaques ennemies.
+<b>\c[2]Tom:</b>\c[0] It can give you an edge by gaining infos on opponents moves and general strategy.
+<b>\c[2]Tom:</b>\c[0] Cela peut te permettre d’obtenir des informations sur les capacités, la stratégie de l’adversaire.
+<b>\c[2]Tom:</b>\c[0] It's very useful!
+<b>\c[2]Tom:</b>\c[0] C’est très utile !
+<b>\c[2]Tom:</b>\c[0] Well then, see you ar... huh?
+<b>\c[2]Tom:</b>\c[0] Bon ben à bie… hein ?
+<b>\c[2]Tom:</b>\c[0] You're not here only for this?
+<b>\c[2]Tom:</b>\c[0] Tu n’es pas là que pour ça ?
+<b>\c[2]Tom:</b>\c[0] Y-you want to become the \gt Leader??
+<b>\c[2]Tom:</b>\c[0] T-tu veux devenir le Leader \gt ??
+<b>\c[7]???:</b>\c[0] Ohoho, so that's you...
+<b>\c[7]???:</b>\c[0] Ohoho, donc c’est toi…
+<b>\c[7]Aristarque:</b>\c[0] Allow me to introduce myself: I'm Aristarque, the Nekanta League Champion. And there is my beloved Zamazenta.
+<b>\c[7]Aristarque:</b>\c[0] Permets moi de me présenter : je suis Aristarque, le Maître de la Ligue de Nekanta. Et voici mon Zamazenta adoré.
+<b>\c[7]Aristarque:</b>\c[0] I recently received a letter from the Professor Maple explaining me everything.
+<b>\c[7]Aristarque:</b>\c[0] J’ai récemment reçu une lettre de la part du Professeur Maple m’expliquant la situation.
+<b>\c[7]Aristarque:</b>\c[0] So you wanna reopen the \tn Gym huh?
+<b>\c[7]Aristarque:</b>\c[0] Donc tu veux réouvrir l’Arène \gt hein ?
+<b>\c[7]Aristarque:</b>\c[0] Surely you didn't think a mere victory against a Stand-in Gym Leader would suffice right?
+<b>\c[7]Aristarque:</b>\c[0] Tu n’espérais tout de même pas qu’une simple victoire contre un Leader par Intérim allait suffire ?
+<b>\c[7]Aristarque:</b>\c[0] Let me explain you the concept of rank up battles.
+<b>\c[7]Aristarque:</b>\c[0] Laisse moi t’expliquer ce que sont les Combats de Rang.
+<b>\c[7]Aristarque:</b>\c[0] If you really become a Gym Leader, I figure you'll want to bring back your Gym to the rank 12.
+<b>\c[7]Aristarque:</b>\c[0] Si tu devient vraiment Champion d’Arène, j’imagine que tu voudras ramener ton Arène au rang 12.
+<b>\c[7]Aristarque:</b>\c[0] But how should we know which Gym is rank 1, rank 2... ?
+<b>\c[7]Aristarque:</b>\c[0] Mais comment déterminer quelle Arène est rang 1, rang 2… ?
+<b>\c[7]Aristarque:</b>\c[0] Following certain conditions, you can challenge a fellow Gym Leader to a rank up battle.
+<b>\c[7]Aristarque:</b>\c[0] Suivant certaines conditions, tu peux provoquer un Combat de Rang contre un de tes collègues Champions d’Arène.
+<b>\c[7]Aristarque:</b>\c[0] Do you remember Tom's team just now?
+<b>\c[7]Aristarque:</b>\c[0] Te rappelles-tu de l’équipe de Tom, à l’instant ?
+<b>\c[7]Aristarque:</b>\c[0] He had two Pokémons: a level 13, and his "ace", level 15. Both \gt type, obviously.
+<b>\c[7]Aristarque:</b>\c[0] Il avait deux Pokémons : un de niveau 13, et son “ace” niveau 15. Tous deux type \gt, évidemment.
+<b>\c[7]Aristarque:</b>\c[0] So, as a potential \gt Leader...
+<b>\c[7]Aristarque:</b>\c[0] Ainsi, en tant que potentiel Leader \gt...
+<b>\c[7]Aristarque:</b>\c[0] ...you have to battle him using only two Pokémons:
+<b>\c[7]Aristarque:</b>\c[0] ...tu dois le combattre en utilisant que deux Pokémon :
+<b>\c[7]Aristarque:</b>\c[0] One \gt type level 13, and your ace level 15.
+<b>\c[7]Aristarque:</b>\c[0] Un type \gt niveau 13, et ton ace niveau 15.
+<b>\c[7]Aristarque:</b>\c[0] You ace should be \gt type too but it's tolerated to have a non-\gt type if it evolves later into a \gt type.
+<b>\c[7]Aristarque:</b>\c[0] Ton ace devrait aussi être type \gt mais il est toléré d’utiliser un non-\gt s’il évolue plus tard en un type \gt.
+<b>\c[7]Aristarque:</b>\c[0] Don't worry if your Pokémons are higher levelled than these numbers ;
+<b>\c[7]Aristarque:</b>\c[0] Ne t’inquiète pas si tes Pokémons ont un niveau plus élevé que ça ;
+<b>\c[7]Aristarque:</b>\c[0] they will be levelled down to the right level for this fight only.
+<b>\c[7]Aristarque:</b>\c[0] leurs niveaux seront abaissés au niveau nécessaire, seulement pour ce combat.
+<b>\c[7]Aristarque:</b>\c[0] For your information, it will be the same when you'll fight as the \gt Leader in your Gym.
+<b>\c[7]Aristarque:</b>\c[0] Pour information, ce sera la même chose lorsque tu combattras en tant que Leader \gt dans ton Arène.
+<b>\c[7]Aristarque:</b>\c[0] When you're ready, talk to Tom again. This time, you will need to select two Pokémons as I explained.
+<b>\c[7]Aristarque:</b>\c[0] Quand tu seras prêt, parle à Tom de nouveau. Cette fois, tu devras choisir deux Pokémon adéquats.
+<b>\c[7]Aristarque:</b>\c[0] If you manage to win against Tom with these fair rules, then I will make you the official \gt Leader!
+<b>\c[7]Aristarque:</b>\c[0] Si tu réussis à battre Tom avec ces règles équitables, je ferai de toi le Leader \gt officiel !
+<b>\c[2]Tom:</b>\c[0] Okay, come again if you change your mind.
+<b>\c[2]Tom:</b>\c[0] Ok, reviens si tu changes d’avis.
+<b>\c[2]Tom:</b>\c[0] If you want to battle me, please speak to me from the right side of the arena.
+<b>\c[2]Tom:</b>\c[0] Si tu veux combattre, parle-moi depuis le côté droit du terrain.
+<b>\c[2]Tom:</b>\c[0] Are you ready for the rank up battle?
+<b>\c[2]Tom:</b>\c[0] Es-tu prêt pour le Combat de Rang ?
+You won the rank up battle!
+Vous avez gagné le Combat de Rang !
+Your Gym is now rank 1!
+Votre Arène est maintenant rang 1 !
+<b>\c[7]Aristarque:</b>\c[0] Hahaha! Marvelous, marvelous indeed!
+<b>\c[7]Aristarque:</b>\c[0] Hahaha ! Fabuleux, vraiment fabuleux !
+<b>\c[7]Aristarque:</b>\c[0] I may have underestimated you, young trainer.
+<b>\c[7]Aristarque:</b>\c[0] J’ai peut-être sous-estimé tes talents, jeune dresseur.
+<b>\c[7]Aristarque:</b>\c[0] I can already tell you'll be an incredible Gym Leader.
+<b>\c[7]Aristarque:</b>\c[0] Je peux déjà voir que tu feras un incroyable Champion d’Arène.
+<b>\c[7]Aristarque:</b>\c[0] Well, I will do all the procedure and starting this next Monday, you will officially be the \gt Leader!
+<b>\c[7]Aristarque:</b>\c[0] Bon, je vais lancer la procédure et à partir de ce Lundi, tu seras officiellement le Leader \gt !
+<b>\c[7]Aristarque:</b>\c[0] And Tom here can go rest himself!
+<b>\c[7]Aristarque:</b>\c[0] Et notre bon Tom va pouvoir se reposer !
+<b>\c[2]Tom:</b>\c[0] Well huh, I-It's okay....
+<b>\c[2]Tom:</b>\c[0] Eh bien euh… ç-ça va…
+<b>\c[7]Aristarque:</b>\c[0] I hope it is! Hahaha
+<b>\c[7]Aristarque:</b>\c[0] J’espère bien ! Hahaha
+<b>\c[7]Aristarque:</b>\c[0] And off I go, working all of this! See you, younglings!
+<b>\c[7]Aristarque:</b>\c[0] Aller, je m’en vais régler tout ça ! A plus, les jeunes !
+<b>\c[2]Tom:</b>\c[0] To be honest with you, I'm kinda happy this is over...
+<b>\c[2]Tom:</b>\c[0] Pour être honnête avec toi, je suis content que ce soit terminé…
+<b>\c[2]Tom:</b>\c[0] No offense but I don't really like \gt Pokémons...
+<b>\c[2]Tom:</b>\c[0] Pas pour te vexer mais j’aime pas tant que ça les Pokémon \gt…
+<b>\c[2]Tom:</b>\c[0] I vastly prefer Fire Pokémons, but it is already the Champion's favourite type...
+<b>\c[2]Tom:</b>\c[0] Je préfère largement les Pokémon Feu, mais c’est déjà le type préféré du Maître…
+<b>\c[2]Tom:</b>\c[0] At least I was able to use an eeveelution!
+<b>\c[2]Tom:</b>\c[0] Au moins j’ai pu utiliser une évolition !
+<b>\c[2]Tom:</b>\c[0] Eevee is my favorite Pokémon! Did you know it has multiple evolutions?
+<b>\c[2]Tom:</b>\c[0] Evoli est mon Pokémon préféré ! Tu sais qu’il a de multiples évolutions ?
+<b>\c[2]Tom:</b>\c[0] These evolutions are what we call eeveelutions!
+<b>\c[2]Tom:</b>\c[0] Ces évolutions sont ce qu’on appelle des évolitions !
+<b>\c[2]Tom:</b>\c[0] And here in Nekanta, it exist an eeveelution for every Pokémon type!
+<b>\c[2]Tom:</b>\c[0] Et ici en Nekanta, il existe une évolition pour chaque type !
+<b>\c[2]Tom:</b>\c[0] Eeevees here evolve in a peculiar way: They can sense the type power emaning from certain places.
+<b>\c[2]Tom:</b>\c[0] Les Evolis d’ici évoluent d’une façon particulière. Ils peuvent ressentir le pouvoir émis par certains endroits.
+<b>\c[2]Tom:</b>\c[0] In other words, if you want to have a \gt eeveelution, you have to level up an eevee in the <b>\gt room</b>.
+<b>\c[2]Tom:</b>\c[0] En d’autres termes, si tu veux une évolition \gt, tu dois faire gagner un niveau à un Evoli dans la <b>Salle \gt</b>.
+<b>\c[2]Tom:</b>\c[0] What is the \gt room? It's the room where the \gt Leader battles.
+<b>\c[2]Tom:</b>\c[0] Qu'est ce que c’est que cette Salle \gt ? C’est la salle dans laquelle le Leader \gt combat.
+<b>\c[2]Tom:</b>\c[0] So for a short time, it was litteraly here!
+<b>\c[2]Tom:</b>\c[0] Du coup pendant un petit moment, c’était littéralement ici !
+<b>\c[2]Tom:</b>\c[0] But now that you'll become the \gt Leader, the \gt room will actually be your Gym.
+<b>\c[2]Tom:</b>\c[0] Mais maintenant que tu vas devenir le Leader \gt, la Salle \gt va être ton Arène.
+<b>\c[2]Tom:</b>\c[0] So if you want a \gt eevee, level it up in your Gym, if you want a Water eevee; level it up in the Water Gym, etc...
+<b>\c[2]Tom:</b>\c[0] Donc si tu veux un évoli \gt, monte le de niveau dans ton Arène ; un évoli Eau, monte le de niveau dans l’Arène Eau, etc…
+<b>\c[2]Tom:</b>\c[0] So if you want a \gt eevee, level it up in your Gym, if you want a Grass eevee; level it up in the Grass Gym, etc...
+<b>\c[2]Tom:</b>\c[0] Donc si tu veux un évoli \gt, monte le de niveau dans ton Arène ; un évoli Plante, monte le de niveau dans l’Arène Plante, etc…
+<b>\c[2]Tom:</b>\c[0] Well, you would have to find an eevee first!
+<b>\c[2]Tom:</b>\c[0] Pour ça il faudrait déjà que tu trouves un Evoli !
+<b>\c[2]Tom:</b>\c[0] They don't exist in the wild, and I certainly won't give you one!
+<b>\c[2]Tom:</b>\c[0] Ils n’existent pas à l’état sauvage, et je ne vais certainement pas t’en donner un !
+<b>\c[2]Tom:</b>\c[0] ...well then, I must return to work.
+<b>\c[2]Tom:</b>\c[0] ...bon aller, je dois retourner travailler.
+<b>\c[2]Tom:</b>\c[0] You seems really cool, I hope we can talk again sometimes !
+<b>\c[2]Tom:</b>\c[0] T’as l’air super sympa, j’espère qu’on pourra se reparler de temps en temps !
+<b>\c[2]Tom:</b>\c[0] I vastly prefer Steel Pokémons, but it is already the Champion's favourite type...
+<b>\c[2]Tom:</b>\c[0] Je préfère largement les Pokémon Acier, mais c’est déjà le type préféré du Maître…
+<b>\c[2]Tom:</b>\c[0] See ya!
+<b>\c[2]Tom:</b>\c[0] A plus !
+<b>\c[2]Tom:</b>\c[0] You aren't ready? I will wait here.
+<b>\c[2]Tom:</b>\c[0] Tu n’es pas prêt ? J’attendrai ici.
+<b>\c[2]Tom:</b>\c[0] Okay, I will wait here.
+<b>\c[2]Tom:</b>\c[0] Ok, j’attendrai ici.
+<b>\c[2]Tom:</b>\c[0] If you want to start the rank up battle, please speak to me from the right side of the arena.
+<b>\c[2]Tom:</b>\c[0] Si tu veux commencer le Combat de Rang, parle moi depuis le côté droit du terrain.
+<b>Kathleen:</b> Hellooo \pn! How are you??
+<b>Kathleen:</b> Saluuuut \pn ! Comment va ??
+<b>Kathleen:</b> I didn't know you were the \gt Leader! Wowie, that's so great!
+<b>Kathleen:</b> Je savais pas du tout que tu étais le Leader \gt ! Wowie, c’est trop cool !
+<b>Kathleen:</b> You want to climb up the ranks and get to my rank 2? Okay, but I won't go down without a fight!
+<b>Kathleen:</b> Tu veux monter de rang et prendre mon rang 2 ? Ok, mais je vais pas me laisser faire !
+<b>Kathleen:</b> Are you ready?
+<b>Kathleen:</b> T’es prêt ?
+You new Gym Team must have 3 Pokémons. They will be levelled down (if necessary) to level 20, 22 for you ace.
+Votre nouvelle équipe d’Arène doit avoir 3 Pokémons. Ils seront abaissés (si besoin) au niveau 20, 22 pour votre ace.
+<b>Kathleen:</b> Bring it on!
+<b>Kathleen:</b> Ramène toi !
+Your Gym is now rank 2!
+Votre Arène est maintenant rang 2 !
+<b>\c[2]Tom:</b>\c[0] Haha, congratulations \pn! Your Gym is now rank 2!
+<b>\c[2]Tom:</b>\c[0] Haha, félicitations \pn ! Ton Arène est maintenant rang 2 !
+<b>\c[2]Tom:</b>\c[0] I will report that to the administration. See you!
+<b>\c[2]Tom:</b>\c[0] Je vais faire mon rapport à l’administration. A plus !
+<b>Kathleen:</b> Well played \pn!
+<b>Kathleen:</b> Bien joué \pn !
+<b>Kathleen:</b> What? No I don't mind this much to go back to rank 1.
+<b>Kathleen:</b> Quoi ? Non ça ne me dérange pas tant que ça de retourner rang 1.
+<b>Kathleen:</b> Actually, it was my favorite spot because I can teach young trainers about Bug Pokémons evolving early.
+<b>Kathleen:</b> En fait c’est ma position préférée car je peux parler aux jeunes dresseurs des Pokémon insectes qui évoluent tôt.
+<b>Kathleen:</b> I will miss being able to have Vespiqueen in my Gym fights tho... But it's okay!
+<b>Kathleen:</b> Je ne pourrai plus utiliser Apireine dans les combats d’Arène par contre… Mais c’est ok !
+<b>Kathleen:</b> Well good luck for your rank climb! Next is the Normal Gym in Grey Moose right? Piece of cake for you!
+<b>Kathleen:</b> Eh bien bonne chance pour la montée de rang ! Après c’est l’Arène Normal à Greymoose non ? Un jeu d’enfant pour toi !
+<b>Kathleen:</b> Well good luck for your rank climb! Next is Cassian's Rock Gym, right? Piece of cake for you!
+<b>Kathleen:</b> Eh bien bonne chance pour la montée de rang ! Après c’est l’Arène Roche de Cassian non ? Un jeu d’enfant pour toi !
+<b>Kathleen:</b> Let's hang out sometimes, right?
+<b>Kathleen:</b> Si on se revoyait de temps en temps ?
+<b>Kathleen:</b> See ya!
+<b>Kathleen:</b> A plus !
+<b>Kathleen:</b> Okay, take your time.
+<b>Kathleen:</b> Okay, prends ton temps.
+<b>Kathleen:</b> If you want to battle, talk to me from the right side of the arena.
+<b>Kathleen:</b> Si tu veux combattre, parle moi depuis le côté droit du terrain.
+The Normal leader seems happy to see you.
+Le Leader Normal a l’air content de vous voir.
+The normal Leader looks to you with determination in their eyes! The fight begins!
+Le Leader Normal vous regarde avec de la détermination dans ses étranges yeux ! Le combat commence !
+The Normal Leader doesn't seem to mind you took their spot at the rank 2. They're actually smiling.
+Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 2. Iel est en train de sourire.
+Even if they do not speak and have a strange way of looking at you, they might become a good friend!
+Même si iel ne parle pas et vous regarde bizarrement, iel pourrait devenir quelqu'un de proche !
+Waving at you, they leave the room. You wave back.
+Vous faisant signe de la main, iel quitte la pièce. Vous lui faites un signe en retour.
+The Normal Leader looks at you, looking puzzled.
+Le Leader Normal vous regarde, l’air confus.
+The Normal leader doesn't seem happy you speak to them from here.
+Le Leader Normal n’a pas l’air content que vous lui parliez depuis là.
+You should speak to them from the right side of the arena.
+Vous devriez lui parler depuis le côté droit du terrain.
+<b>Cassian:</b> So this is it for the rank 3 huh? I will give my best, are you ready?
+<b>Cassian:</b> Alors c'est maintenant pour le rang 3 hein ? Je vais donner tout ce que j'ai, t'es prêt ?
+You new Gym Team must have 3 Pokémons. They will be levelled down (if necessary) to level 25, 27 for you ace.
+Votre nouvelle équipe d’Arène doit avoir 3 Pokémons. Ils seront abaissés (si besoin) au niveau 25, 27 pour votre ace.
+<b>Cassian:</b> I will rock you!
+<b>Cassian:</b> Je vais t'écraser !
+Your Gym is now rank 3!
+Votre Arène est maintenant rang 3 !
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3! Cassian, nice fight my friend!
+<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 3 ! Cassian, beau combat mon ami !
+<b>Cassian:</b> Heh. Couldn't do anything...
+<b>Cassian:</b> Heh. J'ai rien pu faire...
+<b>Cassian:</b> So it's back to rank 2 for me huh?
+<b>Cassian:</b> Donc retour au rang 2 pour moi hein ?
+<b>Cassian:</b> Maybe I will have more time to take care of my city (and do... surveillance).
+<b>Cassian:</b> J'aurai peut-être plus de temps pour m'occuper de ma ville (et pour... surveiller).
+<b>Cassian:</b> Have a nice day \pn, we will see each other again for sure!
+<b>Cassian:</b> Passe une bonne journée \pn, on se reverra vite pour sûr !
+<b>Cassian:</b> See you!
+<b>Cassian:</b> A plus !
+Dev note: End of current build. Please wait for the next update!
+Dev note : Fin du build actuel. Merci d'attendre la prochaine update !
+<b>Cassian:</b> No pressure, I wait here.
+<b>Cassian:</b> Aucune pression, j'attends ici.
+<b>Cassian:</b> If you want to battle, talk to me from the right side of the arena.
+<b>Cassian:</b> Si tu veux combattre, parle moi depuis le côté droit du terrain.
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3! Nice fight too, Normal Leader!!
+<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 2 ! Joli combat également, Leader Normal !
+The Normal Leader doesn't seem to mind you took their spot at the rank 3. They're actually smiling.
+Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 3. Iel est en train de sourire.
+<b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
+<b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
+You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
+You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
+<b>Nikodim:</b> Let's start the show!
+<b>Nikodim:</b> Let's start the show!
+Your Gym is now rank 4!
+Your Gym is now rank 4!
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 4!
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 4!
+<b>Nikodim:</b> Hah! Gotta say, you super coolah!
+<b>Nikodim:</b> Hah! Gotta say, you super coolah!
+<b>Nikodim:</b> Back to rank 3 for me right? Well, to be honest, I might go into retirement soon...
+<b>Nikodim:</b> Back to rank 3 for me right? Well, to be honest, I might go into retirement soon...
+<b>Nikodim:</b> I now it will be a shock to you but I'm starting to get some years on the board! I look younger that I am, I know right?
+<b>Nikodim:</b> I now it will be a shock to you but I'm starting to get some years on the board! I look younger that I am, I know right?
+<b>Nikodim:</b> Anyway, do not hesitate to come spend some quality time in Titaga!
+<b>Nikodim:</b> Anyway, do not hesitate to come spend some quality time in Titaga! 
+<b>Nikodim:</b> See ya, punk friend!
+<b>Nikodim:</b> See ya, punk friend!
+<b>Nikodim:</b> Getting stage fright are ya?
+<b>Nikodim:</b> Getting stage fright are ya?
+<b>Nikodim:</b> Wanna start the show? Then talk to me from the right side of the arena.
+<b>Nikodim:</b> Wanna start the show? Then talk to me from the right side of the arena.
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3!
+<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3!
+The Normal Leader doesn't seem to mind you took their spot at the rank 4. They're actually smiling.
+The Normal Leader doesn't seem to mind you took their spot at the rank 4. They're actually smiling.
+Yes
+Oui
+No
+Non
+I'm ready!
+Je suis prêt !
+Not yet.
+Pas encore.
+Tell them you're ready!
+Dire que vous êtes prêt !
+Tell them you're not ready.
+Dire que vous n'êtes pas prêt !

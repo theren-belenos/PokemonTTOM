@@ -1,0 +1,204 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map001]
+In this game you will play as a Gym master.
+Ce jeu vous fait incarner un Champion d’Arène.
+What will be the type of your Gym?
+Quel sera le type de votre Arène ?
+So you want to run the Normal Gym?
+Donc vous voulez diriger l’Arène Normale ?
+Okay! You will play the <b>Normal Version</b> of this game. Have fun!
+Ok ! Vous jouerez à la <b>Version Normale</b> de ce jeu. Amusez-vous bien !
+So you want to run the Grass Gym?
+Donc vous voulez diriger l’Arène Plante ?
+Okay! You will play the \c[3]<b>Grass Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la <b>Version Plante</b> de ce jeu. Amusez-vous bien !
+So you want to run the Fire Gym?
+Donc vous voulez diriger l’Arène Feu ?
+Okay! You will play the \c[2]<b>Fire Version</b>\c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[2]<b>Version Feu</b>\c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Water Gym?
+Donc vous voulez diriger l’Arène Eau ?
+Okay! You will play the \c[1]<b>Water Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[1]<b>Version Eau</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Electric Gym?
+Donc vous voulez diriger l’Arène Électrique ?
+Okay! You will play the \c[6]<b>Electric Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[6]<b>Version Électrique</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Fighting Gym?
+Donc vous voulez diriger l’Arène Combat ?
+Okay! You will play the <c3=7E2E1F,352315><b>Fighting Version</b></c> of this game. Have fun!
+Ok ! Vous jouerez à la <c3=7E2E1F,352315><b>Version Combat</b></c> de ce jeu. Amusez-vous bien !
+So you want to run the Poison Gym?
+Donc vous voulez diriger l’Arène Poison ?
+Okay! You will play the \c[9]<b>Poison Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[9]<b>Version Poison</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Ground Gym?
+Donc vous voulez diriger l’Arène Sol ?
+Okay! You will play the \c[10]<b>Ground Version</b>\c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[10]<b>Version Sol</b>\c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Flying Gym?
+Donc vous voulez diriger l’Arène Vol ?
+Okay! You will play the \c[8]<b>Flying Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[8]<b>Version Vol</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Psychic Gym?
+Donc vous voulez diriger l’Arène Psy ?
+Okay! You will play the \c[5]<b>Psychic Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[5]<b>Version Psy</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Bug Gym?
+Donc vous voulez diriger l’Arène Insecte ?
+Okay! You will play the <c3=98ff98,1b621b><b>Bug Version</b></c3> of this game. Have fun!
+Ok ! Vous jouerez à la <c3=98ff98,1b621b><b>Version Insecte</b></c3> de ce jeu. Amusez-vous bien !
+So you want to run the Rock Gym?
+Donc vous voulez diriger l’Arène Roche ?
+Okay! You will play the \c[7]<b>Rock Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la  \c[7]<b>Version Roche</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Ghost Gym?
+Donc vous voulez diriger l’Arène Spectre ?
+Okay! You will play the \c[7]<b>Ghost Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[7]<b>Version Spectre</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Ice Gym?
+Donc vous voulez diriger l’Arène Glace ?
+Okay! You will play the \c[4]<b>Ice Version</b>\c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[4]<b>Version Glace</b>\c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Dragon Gym?
+Donc vous voulez diriger l’Arène Dragon ?
+Okay! You will play the \c[9]<b>Dragon Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[9]<b>Version Dragon</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Dark Gym?
+Donc vous voulez diriger l’Arène Ténèbres ?
+Okay! You will play the \c[11]<b>Dark Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[11]<b>Version Ténèbres</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Steel Gym?
+Donc vous voulez diriger l’Arène Acier ?
+Okay! You will play the \c[7]<b>Steel Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[7]<b>Version Acier</b> \c[0] de ce jeu. Amusez-vous bien !
+So you want to run the Fairy Gym?
+Donc vous voulez diriger l’Arène Fée ?
+Okay! You will play the \c[5]<b>Fairy Version</b> \c[0] of this game. Have fun!
+Ok ! Vous jouerez à la \c[5]<b>Version Fée</b> \c[0] de ce jeu. Amusez-vous bien !
+Nekanta.
+Nekanta.
+A beautiful, vast country.
+Un beau, vaste pays.
+Cities, plains, forests, mountains...
+Des villes, des plaines, des forêts, des montagnes…
+And above all, a place filled with Pokémons, trainers, and battlers.
+Et surtout, un endroit rempli de Pokémon, de dresseurs, de combattants.
+12 gyms accross the country.
+12 Arènes à travers le pays.
+12 badges to collect in order to defy the Pokemon League.
+12 badges à récupérer pour défier la Ligue Pokémon.
+... Well... Until recently.
+... Enfin… Jusque récemment.
+An abrupt, violent earthquake completely destroyed the 12th Gym's town.
+Un séisme aussi soudain que violent a complètement ravagé la ville de la 12ème Arène.
+Wait...
+Attends...
+What was the name of this town again?
+Quel était le nom de cette ville déjà ?
+Ah yes how could I forgot! The beautiful city of \tn.
+Ah oui comment ai-je pu oublier ! La belle ville de \tn.
+Former home to the 12th Gym.
+Ancien lieu abritant la 12ème arène.
+The last Gym, the hardest and most prestigious of them all:
+La dernière Arène, la plus dure et plus prestigieuse de toutes :
+The \GT Gym.
+L’arène \GT.
+Most of the people went missing or worse, including the Gym Leader.
+La plupart des habitants sont portés disparus, voire pire, y compris l’ancien Champion.
+But the Gym itself wasn't destroyed.
+Mais l’Arène en elle-même n’a pas été détruite.
+Just...kinda damaged. Not as pretty as it was.
+Juste… un peu endommagée. Pas aussi belle qu’avant.
+Another building survived the cataclysm : My lab!
+Un autre bâtiment a survécu à la catastrophe : Mon Labo !
+<b>\c[10]Maple:</b>\c[0] Oh my! Sorry! I didn't even introduce myself!
+<b>\c[10]Maple:</b>\c[0] Oh mais ! Pardon ! Je ne me suis même pas présenté !
+<b>\c[10]Maple:</b>\c[0] I'm Professor Maple, the Pokémon Professor of this region.
+<b>\c[10]Maple:</b>\c[0] Je suis le Professeur Maple, le Professeur Pokémon de la région.
+<b>\c[10]Maple:</b>\c[0] I worked hard to keep the city on track.
+<b>\c[10]Maple:</b>\c[0] J’ai travaillé dur pour que la ville continue de fonctionner.
+<b>\c[10]Maple:</b>\c[0] The Gym can finally reopen now.
+<b>\c[10]Maple:</b>\c[0] L’Arène peut enfin réouvrir.
+<b>\c[10]Maple:</b>\c[0] But as we lost our Gym Leader, and also because we were closed for a certain time...
+<b>\c[10]Maple:</b>\c[0] Mais comme nous avons perdu notre Champion d’Arène, et aussi comme nous avons longtemps été fermés…
+<b>\c[10]Maple:</b>\c[0] The Pokemon League put us out of the official badge system.
+<b>\c[10]Maple:</b>\c[0] La Ligue Pokémon nous a retiré du système de badges officiel.
+<b>\c[10]Maple:</b>\c[0] So the first thing to do is to convince the Pokemon League.
+<b>\c[10]Maple:</b>\c[0] La première chose à faire est donc de convaincre la Ligue Pokémon.
+<b>\c[10]Maple:</b>\c[0] Convince them that our Gym can reopen and provide a good challenge.
+<b>\c[10]Maple:</b>\c[0] Les convaincre que notre Arène peut réouvrir et fournir un bon challenge.
+<b>\c[10]Maple:</b>\c[0] But for that we need a Gym Leader.
+<b>\c[10]Maple:</b>\c[0] Mais pour ça nous avons besoin d’un Champion d’Arène.
+<b>\c[10]Maple:</b>\c[0] Not a lot of people survived the cataclysm.
+<b>\c[10]Maple:</b>\c[0] La catastrophe ne nous a pas laissé grand monde.
+<b>\c[10]Maple:</b>\c[0] At first I thought about my grandson. I know you're good friends.
+<b>\c[10]Maple:</b>\c[0] Au début j’ai pensé à mon petit-fils. Je sais que vous êtes bons amis.
+<b>\c[10]Maple:</b>\c[0] His name is...
+<b>\c[10]Maple:</b>\c[0] Son nom est…
+<b>\c[10]Maple:</b>\c[0] ... Yes, \v[12]. You two still get along right?
+<b>\c[10]Maple:</b>\c[0] ... Oui, \v[12]. Vous vous entendez toujours bien n’est-ce pas ?
+<b>\c[10]Maple:</b>\c[0] But I think he actually prefers to travel around the region.
+<b>\c[10]Maple:</b>\c[0] Mais je pense qu’il préfère voyager à travers le pays.
+<b>\c[10]Maple:</b>\c[0] (and I don't know if he would be serious and calm enough for this job...)
+<b>\c[10]Maple:</b>\c[0] (et je ne sais pas s’il serait assez sérieux et calme pour ce job…)
+<b>\c[10]Maple:</b>\c[0] So here you are! You will be our Gym leader!
+<b>\c[10]Maple:</b>\c[0] Donc te voici ! Tu seras notre Champion d’Arène !
+<b>\c[10]Maple:</b>\c[0] But tell me more about you!
+<b>\c[10]Maple:</b>\c[0] Mais dis m’en plus sur toi !
+<b>\c[10]Maple:</b>\c[0] Now what did you say your name was?
+<b>\c[10]Maple:</b>\c[0] Et tu as dit que tu t’appelais comment ?
+<b>\c[10]Maple:</b>\c[0] So you're \PN?
+<b>\c[10]Maple:</b>\c[0] Donc tu es \PN ?
+<b>\c[10]Maple:</b>\c[0] What is your name?
+<b>\c[10]Maple:</b>\c[0] Comment tu t’appelles ?
+<b>\c[10]Maple:</b>\c[0] \PN, are you ready?
+<b>\c[10]Maple:</b>\c[0] \PN, es-tu prêt ?
+<b>\c[10]Maple:</b>\c[0] I'll give you your first Pokemon.
+<b>\c[10]Maple:</b>\c[0] Je vais te donner ton premier Pokémon.
+<b>\c[10]Maple:</b>\c[0] Then, we'll work together to rebuild this city...
+<b>\c[10]Maple:</b>\c[0] Ensuite, nous travaillerons ensemble pour rebâtir cette ville…
+<b>\c[10]Maple:</b>\c[0] ...and bring back our glorious past!
+<b>\c[10]Maple:</b>\c[0] ...et retrouver notre glorieux passé !
+Normal
+Normal
+Grass
+Plante
+Fire
+Feu
+Water
+Eau
+Yes
+Oui
+No
+Non
+Electric
+Electrik
+Fighting
+Combat
+Poison
+Poison
+Ground
+Sol
+Flying
+Vol
+Psychic
+Psy
+Bug
+Insecte
+Rock
+Roche
+Ghost
+Spectre
+Ice
+Glace
+Dragon
+Dragon
+Dark
+Ténèbres
+Steel
+Acier
+Fairy
+Fée

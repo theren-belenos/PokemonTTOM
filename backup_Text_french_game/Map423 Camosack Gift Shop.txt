@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map423]
+<b>Idol:</b> I love this shop! They have a lot of nice gifts!
+<b>Idol:</b> I love this shop! They have a lot of nice gifts!
+There is only trash in there.
+There is only trash in there.
+Welcome to the Sweet Shop!
+Welcome to the Sweet Shop!
+Welcome to the Gift Shop!
+Welcome to the Gift Shop!
+<b>Man:</b> Heh, they have a nice range of products in here!
+<b>Man:</b> Heh, they have a nice range of products in here!

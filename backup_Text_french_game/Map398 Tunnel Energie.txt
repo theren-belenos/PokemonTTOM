@@ -1,0 +1,42 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map398]
+The cable is damaged here. Repair?
+The cable is damaged here. Repair?
+You use the tool Cassian gave you.
+You use the tool Cassian gave you.
+The cable is repaired!
+The cable is repaired!
+The cable is damaged here.
+The cable is damaged here.
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Fernand:</b> Tell me frankly: the address I'm looking for can't be here, right?
+<b>Fernand:</b> Dis le moi franchement : l'adresse que je cherche ne peut pas être ici, si ?
+<b>Fernand:</b> You're saying I got scammed?
+<b>Fernand:</b> Tu dis qu'on m'a fait une farce ??
+<b>Tourist:</b> How strange is this place!
+<b>Touriste:</b> Quel endroit étrange !
+<b>Germain:</b> You! Are you lost?
+<b>Germain:</b> Toi ! Es-tu perdu ?
+<b>Germain:</b> I may be more lost than you are...
+<b>Germain:</b> J'ai l'air plus perdu que toi...
+<b>Man:</b> What is this machinery?
+<b>Homme:</b> C'est quoi cette machine ?
+\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]ALL CABLES REPAIRED
+\c[3]ALL CABLES REPAIRED
+\c[3]SWITCHING LIGHTS ON...
+\c[3]SWITCHING LIGHTS ON...
+\c[3]LIGHTS ARE ON
+\c[3]LIGHTS ARE ON
+Yes
+Oui
+No
+Non

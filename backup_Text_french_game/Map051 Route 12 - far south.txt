@@ -1,0 +1,30 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map051]
+<b>Madelynn:</b> Hey, we can see Titaga from up there!
+<b>Madelynn:</b> Hey, we can see Titaga from up there!
+<b>Madelynn:</b> So pretty, right?
+<b>Madelynn:</b> So pretty, right?
+<b>Maeva:</b> We're studying for a presentation!
+<b>Maeva:</b> We're studying for a presentation!
+<b>Maeva:</b> That won't be useful!
+<b>Maeva:</b> That won't be useful!
+<b>Elder:</b> Hello young one. Head west for the Soul Shelter and East for Titaga!
+<b>Elder:</b> Hello young one. Head west for the Soul Shelter and East for Titaga!
+<b>Youngster:</b> I think I'm the group's useless one...
+<b>Youngster:</b> I think I'm the group's useless one...
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+^ To Greymoose\n-> Titaga\n<- Soul Shelter
+^ To Greymoose\n-> Titaga\n<- Soul Shelter
+<b>Lady:</b> Fascinating how these berries can grow on such dry soil!
+<b>Lady:</b> Fascinating how these berries can grow on such dry soil!
+Yes
+Yes
+No
+No

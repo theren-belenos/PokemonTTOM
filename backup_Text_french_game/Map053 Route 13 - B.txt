@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map053]
+<b>Lady:</b> Oh hello there! Be careful, Route 13 can be a bit confusing!
+<b>Lady:</b> Oh hello there! Be careful, Route 13 can be a bit confusing!
+<b>Lady:</b> You might have to go through some cave to progress...
+<b>Lady:</b> You might have to go through some cave to progress...
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+Yes
+Yes
+No
+No

@@ -1,0 +1,30 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map380]
+You spend time with the Normal Leader in their room.
+Vous passez du temps avec le Leader Normal dans sa maison.
+It was rather awkward...
+C'était un peu bizarre...
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Girl:</b> Hey hey, you! Guess what we learnt at school yesterday?
+<b>Fille:</b> Hey hey, toi ! Devine ce qu’on a appris à l’école hier ?
+<b>Girl:</b> The double type Bug/Poison is very common! There are no less than 12 Bug/Poison Pokémons!
+<b>Girl:</b> Le double type Insecte/Poison est très courant ! Il y a pas moins de 12 Pokémon Insecte/Poison !
+<b>Girl:</b> Hey, if you show me a Bug/Poison Pokémon, I will give you a nice Poison TM!
+<b>Girl:</b> Hey, si tu me montres un Pokémon Insecte/Poison, je te donnerai une super CT Poison !
+<b>Girl:</b> Do you have a Bug/Poison Pokémon?
+<b>Girl:</b> Est-ce que tu as un Pokémon Insecte/Poison ?
+<b>Girl:</b> Hehe, nice one! Be careful not to get poisoned!
+<b>Girl:</b> Héhé, joli ! Attention à ne pas te faire empoisonner !
+<b>Girl:</b> Here, take this as promised!
+<b>Girl:</b> Tiens, comme promis !
+<b>Girl:</b> You don't have any??
+<b>Girl:</b> T’en as pas ??
+<b>Girl:</b> Be careful with poison Pokémons!
+<b>Girl:</b> Sois prudent avec les Pokémon poison !
+Yes
+Oui
+No
+Non

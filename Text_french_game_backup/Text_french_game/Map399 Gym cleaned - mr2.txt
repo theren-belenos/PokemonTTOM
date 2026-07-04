@@ -1,0 +1,96 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map399]
+You spend time training with Melly at the Gym.
+Vous passez du temps à vous entraîner avec Melly dans l'Arène.
+She is really cool!
+Elle est vraiment cool !
+You spend time hanging with Marley at the Gym.
+Vous passez du temps à traîner avec Marley dans l'Arène.
+He is really cool!
+Il est vraiment cool !
+You spend time training with Samy at the Gym.
+You spend time training with Samy at the Gym.
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, comment tu vas ? J'espère que vous allez construire le nouvel immeuble bientôt, que je puisse avoir un appart !
+You already gave a gift to Samy this week!
+Vous avez déjà donné un cadeau à Samy cette semaine !
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, comment tu vas ? C'est l'heure de jouer, hein ?
+Welcome to the \gt Gym!
+Bienvenue dans l'Arène \gt !
+Marley is in training these days. Do you want to start your work day?
+Marley est en formation en ce moment. Voulez-vous commencer la journée ?
+Change your party?
+Changer votre équipe ?
+End of the first half of the week!
+Fin de la première moitié de la semaine !
+What do you want to do?
+Que voulez-vous faire ?
+Are you really sure you want to skip Wednesday?
+Voulez-vous vraiment passer le mercredi ?
+End of the week!
+Fin de la semaine !
+If you change your mind, go out of the Gym and enter again.
+Si vous changez d’avis, sortez de l’Arène et re-entrez.
+<b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
+<b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
+<b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
+<b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonne chance pour ta première semaine !
+You already gave a gift to Marley this week!
+Vous avez déjà offert un cadeau à Marley cette semaine !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Good evening!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonsoir !
+<b>\c[3]Marley:</b>\c[0] See ya!
+<b>\c[3]Marley:</b>\c[0] A plus !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Prêt pour le travail !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+<b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
+<b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Impatient de suivre cette formation !
+<b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
+<b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
+<b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
+<b>\c[9]Melly:</b>\c[0] Coucou \pn! Je suis prête à combattre !
+You already gave a gift to Melly this week!
+Vous avez déjà offert un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+Yes
+Oui
+No
+Non
+Do not change party
+Ne pas changer d’équipe
+Change party
+Changer d’équipe
+Wednesday time!
+C’est mercredi !
+Skip Wednesday
+Passer le mercredi
+Skip to next workday
+Prochain jour de travail
+Skip next morning
+Prochaine matinée
+Evening time
+Soirée
+Gym Infos
+Infos Arène
+Gym infos
+Infos Arène
+Start work day
+Commencer la journée
+Don't start work day
+Ne pas commencer la journée

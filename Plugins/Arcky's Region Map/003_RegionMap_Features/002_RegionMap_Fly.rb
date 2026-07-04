@@ -180,12 +180,12 @@ class PokemonRegionMap_Scene
 				pbPlayCancelSE
 			else
 				if $town.funds < (data[2]*1000)
-					messageMap(_INTL("Cost: $") + (data[2]*1000).to_s + ". " + _INTL("Funds available: $") + $town.funds.to_i.to_s + ".\n" + _INTL("Not enough funds to invest on this task"))
+					messageMap(_INTL("Cost: $") + (data[2]*1000).floor().to_s + ". " + _INTL("Funds available: $") + $town.funds.floor().to_s + ".\n" + _INTL("Not enough funds to invest on this task"))
 					pbPlayCancelSE
 				else
-					if confirmMessageMap(_INTL("Cost: $") + (data[2]*1000).to_s + ". " + _INTL("Funds available: $") + $town.funds.to_i.to_s + ".\n" + _INTL("Do you want to invest on this task ?"))
+					if confirmMessageMap(_INTL("Cost: $") + (data[2]*1000).floor().to_s + ". " + _INTL("Funds available: $") + $town.funds.to_i.to_s + ".\n" + _INTL("Do you want to invest on this task ?"))
 						pbPlayDecisionSE
-						$town.funds -= (data[2]*1000)
+						$town.funds -= (data[2]*1000).floor()
 						$town.buildings[index] = 1
 						messageMap(_INTL("Investment complete !"))
 						if data[1] == 0

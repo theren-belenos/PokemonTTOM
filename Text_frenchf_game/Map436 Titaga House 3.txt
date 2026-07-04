@@ -1,0 +1,34 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map436]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Man:</b> Hello young one, can you hear me out?
+<b>Homme:</b> Salut petite, tu peux m’aider ?
+<b>Man:</b> I’m becoming really annoyed by those pesky birds pecking on my berries!
+<b>Homme:</b> Je commence à être vraiment agacé par ces fichus oiseaux qui picorent mes baies !
+<b>Man:</b> I’m looking for a way to repel them. My scarecrow doesn’t seem to be enough.
+<b>Homme:</b> Je cherche un moyen de les repousser. Mon épouvantail n’a pas l’air de suffire.
+<b>Man:</b> A friend told me about a mixture that can repel birds. But I lack some ingredients.
+<b>Homme:</b> Un ami m’a parlé d’une mixture qui repousse les oiseaux. Mais il me manque des ingrédients.
+<b>Man:</b> I need 5 Coba Berry, 3 Energy Powder, and a Guard Spec.
+<b>Homme:</b> J’ai besoin de 5 Baies Cobaba, 3 Poudrénergies, et un Garde-Stats.
+<b>Man:</b> If you bring me all of these products, I will give you something good against flying Pokémon!
+<b>Homme:</b> Si tu m’apportes tous ces produits, je te donnerai quelque chose de fort contre les Pokémon Vol!
+<b>Man:</b> Do you have all the ingredients I seek?
+<b>Homme:</b> Est-ce que tu as tous les ingrédients que je cherche ?
+Do you want to give 5 Coba Berry, 3 Energy Powder, and a Guard Spec to the man?
+Voulez-vous donner 5 Baies Cobaba, 3 Poudrénergies, et un Garde-Stats à cet homme ?
+<b>Man:</b> Wonderful, thanks a lot! I will mix everything right up!
+<b>Homme:</b> Formidable, merci beaucoup ! Je vais préparer cette mixture de ce pas !
+<b>Man:</b> But first, here is your reward!
+<b>Homme:</b> Mais d’abord, voici ta récompense !
+<b>Man:</b> Pesky birds, your time is over!
+<b>Homme:</b> Fichus oiseaux, votre règne de terreur est terminé !
+<b>Man:</b> Ha… Please, I really need it!
+<b>Homme:</b> Ha… S'il te plaît, j'en ai vraiment besoin !
+Yes
+Oui
+No
+Non

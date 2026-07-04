@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map055]
+<b>Kai:</b> Coming here is half the training!
+<b>Kai:</b> Coming here is half the training!
+<b>Kai:</b> This fight was easily the other half! Pfiou!
+<b>Kai:</b> This fight was easily the other half! Pfiou!
+<b>Kiara:</b> Take a look at my training!
+<b>Kiara:</b> Take a look at my training!
+<b>Kiara:</b> What? My training is not enough?
+<b>Kiara:</b> What? My training is not enough?
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+Yes
+Yes
+No
+No

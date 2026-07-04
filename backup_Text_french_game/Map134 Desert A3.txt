@@ -1,0 +1,6 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map134]
+The sandstorm is becoming stronger! You can't go on like this!
+La tempête de sable devient de plus en plus forte ! Vous ne pouvez pas continuer comme ça !

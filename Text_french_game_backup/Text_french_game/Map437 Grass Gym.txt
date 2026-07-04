@@ -1,0 +1,166 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map437]
+<b>Flore:</b> Hello! Are you ready for my rythm minigame ?
+<b>Flore:</b> Bonjour ! Prêt pour mon minijeu de danse ?
+<b>Flore:</b> Nice! Make us dance right!
+<b>Flore:</b> Super ! Fais nous bien danser !
+minijeu n°1. réussi?
+minijeu n°1. réussi?
+<b>Flore:</b> Hehe~ That was fun! Talk to me again when you want to battle me!
+<b>Flore:</b> Hehe~ C'était marrant ! Parle-moi de nouveau quand tu voudras m'affronter !
+<b>Flore:</b> Eeeeeh? Seems you missed the beat no??
+<b>Flore:</b> Eeeeeh ? T'as un peu perdu le ryhtme non ?
+<b>Flore:</b> Waiting here!
+<b>Flore:</b> J'attends ici !
+<b>Flore:</b> Ready for the battle?
+<b>Flore:</b> Paré au combat ?
+<b>Flore:</b> Can you also keep the beat during battle ?
+<b>Flore:</b> Peux-tu également tenir le rythme pendant un combat ?
+<b>Flore:</b> Hehe~ Nice! You can continue!
+<b>Flore:</b> Hehe~ Pas mal ! Tu peux continuer !
+You talk to the dancer about Camosack.
+You talk to the dancer about Camosack.
+<b>Flore:</b> Perform at Camosack you say? Sorry, but I have a good job here! I'm staying there, good luck for your search!
+<b>Flore:</b> Danser à Camsoack tu dis ? Désolé, mais j'ai un bon job ici ! Je reste là, bonne chance dans tes recherches !
+<b>Nikodim:</b> Oho! What do we have here hmmm... A challenger is coming to me, Nikodim, the Punk King?? Haha!
+<b>Nikodim:</b> Oho ! Qu'avons nous là hmmm... Un challenger vient me défier moi, Nikodim, le King du Punk ?? Haha !
+<b>Nikodim:</b> Do you think your rythm can satisfy us? Really? Ha, do you know for how long I'm doing punk???
+<b>Nikodim:</b> Tu crois que ton rythme peut nous satisfaire ? Vraiment ? Tu sais depuis combien de temps je fais du punk ??
+<b>Nikodim:</b> Okay, okay, I like your energy. But easy breezy, monster! Keep this for the beat!
+<b>Nikodim:</b> Okay, okay, j'aime la confiance. Mais mollo l'asticot ! Garde ton énergie pour la danse !
+<b>Nikodim:</b> Ready to show off and be cool?
+<b>Nikodim:</b> Prêt pour la fiesta ?
+<b>Nikodim:</b> Give it all!
+<b>Nikodim:</b> Donne tout !
+minijeu n°3. réussi?
+minijeu n°3. réussi?
+<b>Nikodim:</b> Okay, okay, not bad!
+<b>Nikodim:</b> Okay, okay, c'était chouettos.
+<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards!
+<b>Nikodim:</b> Mais si tu fais un meilleur score, tu pourrais avoir les récompenses bonus !
+<b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame to get better rewards!
+<b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour les récompenses !
+<b>Nikodim:</b> Ohoho! Okay okay, I might need to catch a breath... Damn, aging isn't a breeze...
+<b>Nikodim:</b> Ohoho! Okay okay, c'était cool Raoul ! Je suis essoufflé, mince, on rajeunit pas...
+<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better!
+<b>Nikodim:</b> T'as gagné la première récompense ! Mais tu peux faire encore mieux !
+<b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame again to get the second reward!
+<b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour la 2e récompense !
+<b>Nikodim:</b> Wowow! Spare us you crazy beatmaker! Damn, aging isn't a breeze, I really need a break...
+<b>Nikodim:</b> Wowow ! C'était chanmax ! Mince, c'est pas beau de vieillir, j'ai vraiment besoin d'une pause...
+<b>Nikodim:</b> You've earned both bonus rewards! Congratulations!
+<b>Nikodim:</b> T'as gagné les deux récompenses bonus ! Félicitations !
+<b>Nikodim:</b> Talk to me anytime to try to get my badge!
+<b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge !
+<b>Nikodim:</b> Well, I thought you were cooler... Feel free to try again...
+<b>Nikodim:</b> Eh bien, je pensais que t'étais plus cool... Là ça sentait un peu le sapin...
+<b>Nikodim:</b> Hey! Not cool!
+<b>Nikodim:</b> Hey ! Pas cool !
+<b>Nikodim:</b> Okay cool thing, what do you want to do? Wanna get my badge?
+<b>Nikodim:</b> Okay le coolkid, qu'est-ce que tu veux faire ? Tu veux avoir mon badge ?
+<b>Nikodim:</b> It's punk time!
+<b>Nikodim:</b> C'est parti mon kiki !
+You got the Forest Badge! \f[FORESTBADGE]
+Vous obtenez le Badge Forêt ! \f[FORESTBADGE]
+<b>Nikodim:</b> Holy you! Haha! Okay, you're unstoppable!
+<b>Nikodim:</b> Sacré toi ! Haha ! Ok, t'es inarrêtable !
+<b>Nikodim:</b> So, with my badge, you can train your Pokémon up to the level 40.
+<b>Nikodim:</b> Du coup, avec mon badge, tu peux amener tes Pokémon jusqu'au niveau 40.
+<b>Nikodim:</b> You can also use the Fly HM outside the battles. Did you find it already?
+<b>Nikodim:</b> Tu peux aussi utiliser la CS Vol en dehors des combats. Tu l'as déjà trouvée ?
+<b>Nikodim:</b> It can really be a gamechanger, especially to visit your friends!
+<b>Nikodim:</b> Franchement ça change pas mal de choses, surtout pour visiter tes potes !
+<b>Nikodim:</b> And let me give you something cool.
+<b>Nikodim:</b> Et laisse moi te donner un truc cool.
+<b>Nikodim:</b> Magical Leaf never misses, like me never skipping a beat!
+<b>Nikodim:</b> Feuillemagik ne rate jamais, comme moi qui rate jamais le rythme !
+<b>Nikodim:</b> Well, see you around, and stay cool!
+<b>Nikodim:</b> Aller on se voit plus tard, reste frais !
+<b>Nikodim:</b> Okay cool thing, are you ready? Wanna get my badge?
+<b>Nikodim:</b> Okay coolkid, t'es prêt ? Tu veux mon badge ?
+<b>Nikodim:</b> Hey, still cool?
+<b>Nikodim:</b> Hey, t'as la pêche ?
+You already gave a gift to Nikodim this week!
+Vous avez déjà offert un cadeau à Nikodim cette semaine !
+<b>Ludicolo:</b> Ludicolo!
+<b>Ludicolo:</b> Ludicolo!
+<b>Alolan Exeggutor:</b> Exeggutor!!
+<b>Noadkoko d'Alola:</b> Noadkoko !!
+<b>Bellossom:</b> Bellossoooooom!
+<b>Joliflor:</b> Jolifloooor !
+<b>Victreebel:</b> Victreeebeeeeel!
+<b>Empiflor:</b> Empiflooooooor !
+<b>Tobie:</b> Hi there! Ready for my rythm minigame ?
+<b>Tobie:</b> Hey salut ! Prêt pour mon jeu de rythme ?
+<b>Tobie:</b> Okay! Can you do it?
+<b>Tobie:</b> Okay ! Peux-tu y arriver ?
+minijeu n°2. réussi?
+minijeu n°2. réussi?
+<b>Tobie:</b> Eh, not bad! Talk to me again when you want to battle me!
+<b>Tobie:</b> Eh, pas mal ! Parle-moi de nouveau quand tu voudras me combattre !
+<b>Tobie:</b> My, my, there is room for progress... Sorry, but maybe try again?
+<b>Tobie:</b> Eh bien, ya de la place pour le progrès... Désolé, peut-être essaye encore ?
+<b>Tobie:</b> Ready when you are!
+<b>Tobie:</b> Quand tu veux !
+<b>Tobie:</b> Ready for the battle?
+<b>Tobie:</b> Prêt pour le combat ?
+<b>Tobie:</b> Keep your spirits up!
+<b>Tobie:</b> Garde la forme !
+<b>Tobie:</b> Okay, okay! You can go to the Leader, good luck!
+<b>Tobie:</b> Okay, okay ! Tu peux aller voir le Leader, bonne chance !
+<b>Tobie:</b> Perform at Camosack you say? Sorry, but I have a good job here! I'm staying there, good luck for your search!
+<b>Tobie:</b> Danser à Camsoack tu dis ? Désolé, mais j'ai un bon job ici ! Je reste là, bonne chance dans tes recherches !
+<b>Rillaboom:</b> Rillabooooooom!
+<b>Gorythmic:</b> Gorythmiiiiiiiic !
+<b>Harvey?:</b> Hello challenger and welcome to the Grass Gym!
+<b>Harvey?:</b> Bonjour challenger et bienvenue dans l'Arène Plante !
+<b>Marley?:</b> ...what? No my name is not Harvey, why would that be? I'm Wesley!
+<b>Marley?:</b> ...quoi ? Non je ne m'appelle pas Harvey, pourquoi ? Je suis Wesley !
+<b>Wesley:</b> Anyway, to defeat this Gym you will like having Fire, Insect, Flying or Fire types!
+<b>Wesley:</b> Bref, pour battre cette Arène tu apprécieras les types Feu, Insecte, Vol ou Glace !
+<b>Wesley:</b> In order to reach and battle the Leader, you need to complete a rythm minigame with every trainer here!
+<b>Wesley:</b> Pour atteindre et battre le Leader, tu devras résussir un minijeu de rythme avec chacun des dresseurs ici !
+<b>Wesley:</b> You see, everyone loves music and danse here. So give them the rythm so they can dance!
+<b>Wesley:</b> Tu vois, tout le monde adore la musique et la danse ici. Donc donne leur le rythme, qu'ils puissent danser !
+<b>Wesley:</b> During these minigames, some bars will appear one after another, with red zones on it.
+<b>Wesley:</b> Pendant ces minijeux, des barres apparaîtront l'une après l'autre, avec des zones rouges dessus.
+<b>Wesley:</b> You need to press the action button each time the cursor is on a rezd zone! One time per red zone only!
+<b>Wesley:</b> Tu dois appuyer sur le bouton d'action à chaque fois que le curseur est sur une zone rouge ! Une fois par zone seulement !
+<b>Wesley:</b> Don't worry: these zones are not placed randomly. They are timed on the downbeat of the music.
+<b>Wesley:</b> Ne t'inquiète pas : ces zones ne sont pas placées au hasard. Elles correspondent aux temps forts de la musique.
+<b>Wesley:</b> The more you progress in the Gym, the faster will be the music beat! Good luck!
+<b>Wesley:</b> Plus tu progresses dans l'Arène, plus le rythme sera rapide ! Bonne chance !
+Outil de début. Si encore présent en 0.2, prévenir Théren. Tester un minijeu ?
+Outil de débug. Si encore présent en 0.2, prévenir Théren. Tester un minijeu ?
+<b>Lurantis:</b> Lurantis!
+<b>Floramantis:</b> Floramantis !
+Yes
+Oui
+No
+Non
+Yes bonus 1
+Oui bonus 1
+Yes bonus 2
+Oui bonus 2
+Retry minigame
+Réessayer minijeu
+Battle him!
+L'affronter !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+1
+1
+2
+2
+3
+3
+Annuler
+Annuler

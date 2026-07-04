@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map412]
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+Yes
+Oui
+No
+Non

@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map047]
+<b>Brady:</b> Citizen! I'm bored! Let's entertain each other!
+<b>Brady:</b> Citoyenne ! Je m'ennuie ! Amusons-nous !
+<b>Brady:</b> Still entertained?
+<b>Brady:</b> Toujours amusée ?
+<b>Rancher:</b> Hmm, this path is too rocaillous... I can't go on.
+<b>Rancher:</b> Hmm, ce chemin est trop rocailleux... Je peux pas continuer.

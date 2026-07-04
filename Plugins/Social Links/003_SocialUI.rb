@@ -168,6 +168,8 @@ class Window_Social_Menu < Window_DrawableCommand
         pbDrawImagePositions(self.contents, [[sprintf("Graphics/UI/Social Links/Profile Pictures/#{image}"), rect.x, rect.y + 6]])
         pbDrawImagePositions(self.contents, [[sprintf("Graphics/UI/Social Links/bond"), rect.x + rect.width - 36 - x_adj, rect.y + 22, img_x, 0, 25, 25]])
 		pbDrawImagePositions(self.contents, [[sprintf("Graphics/UI/Social Links/gift.png"), rect.x + rect.width - 36, rect.y + 6]]) if $town.weeklyGifts.include?(@links[index][1].name)
+		puts @links[index][1].name
+		pbDrawImagePositions(self.contents, [[sprintf("Graphics/UI/Social Links/gift.png"), rect.x + rect.width - 36, rect.y + 6]]) if $town.weeklyGifts.include?("Maple") && @links[index][1].name == "Professor Maple"
     end
 
     def drawCursor(index, rect)

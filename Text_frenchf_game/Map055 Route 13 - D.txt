@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map055]
+<b>Kai:</b> Coming here is half the training!
+<b>Kai:</b> Arriver jusqu'ici c'est la moitié de l'entraînement !
+<b>Kai:</b> This fight was easily the other half! Pfiou!
+<b>Kai:</b> Ce combat est clairement l'autre moitié ! Pfiou !
+<b>Kiara:</b> Take a look at my training!
+<b>Kiara:</b> Regarde les résultats de mon entraînement !
+<b>Kiara:</b> What? My training is not enough?
+<b>Kiara:</b> Quoi ? Mon entraînement ne suffit pas ?
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+Yes
+Oui
+No
+Non

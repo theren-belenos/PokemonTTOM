@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map424]
+There is only trash in there.
+There is only trash in there.
+<b>Bodyguard:</b> Hey, you! Be careful of what you’re doing here!
+<b>Bodyguard:</b> Hey, you! Be careful of what you’re doing here!
+Madame S invited you to drink tea at her villa.
+Madame S invited you to drink tea at her villa.
+She's really friendly!
+She's really friendly!
+<b>Bodyguard:</b> Watch your steps, kiddo!
+<b>Bodyguard:</b> Watch your steps, kiddo!
+<b>Maid:</b> Oh hello, don’t mind me, I’m just cleaning up.
+<b>Maid:</b> Oh hello, don’t mind me, I’m just cleaning up.
+<b>Butler:</b> Hello dear visiter, sorry Madame S isn’t here at the time.
+<b>Butler:</b> Hello dear visiter, sorry Madame S isn’t here at the time.
+<b>Butler:</b> Can I offer you a cup of tea?
+<b>Butler:</b> Can I offer you a cup of tea?
+You drink a cup of tea offered by the butler. The bodyguards watch you closely…
+You drink a cup of tea offered by the butler. The bodyguards watch you closely…
+<b>Butler:</b> You can keep the cup if you want! See you!
+<b>Butler:</b> You can keep the cup if you want!  See you!
+Yes
+Yes
+No
+No

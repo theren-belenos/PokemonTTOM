@@ -1,0 +1,400 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[POKEDEX_ENTRIES]
+An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Type energy emaning from Gyms can make it evolve.
+Évoli a une structure génétique instable qui se transforme en fonction de l'environnement dans lequel il vit. Ce Pokémon peut évoluer grâce aux énergies de type des arènes.
+The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing
+Ses boules noires émettent une inquiétante lueur lorsqu'il érige des barrières invisibles. Les poils de barbe qu'il perd servent à confectionner des vêtements d'hiver bien chauds.
+A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee.
+Ce Pokémon rustre et violent élimine ses proies en faisant furieusement tournoyer ses grandes et lourdes haches de pierre.
+It is believed that the swampy terrain of its ancient home region that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.
+On pense que ce sont les étendues marécageuses de Hisui qui ont doté ce Pokémon d'un corps robuste et d'une aptitude à manipuler la tourbe.
+Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout other aquatic environments is Basculegion’s equal.
+Son corps est enveloppé des âmes de ses congénères qui ont perdu la vie sur le périlleux chemin menant à la rivière où ils sont nés.
+Because of Sneasler’s virulent poison and daunting physical prowess, no other species could hope to best it on frozen highlands. Preferring solitude, this species does not form packs.
+Ce Pokémon n'a guère d'ennemis sur les hauteurs froidies, car ses aptitudes physiques sont sans égales et son poison est mortel. Il préfère la solitude à la vie en groupe.
+Its lancelike spikes and savage temperament have earned it the nickname "sea fiend." It slurps up poison to nourish itself.
+Ses épines semblables à des lances et sa nature violente lui valent le sobriquet « d'ogre des océans ». Il se repaît du poison qu'il aspire.
+When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.
+Son arrivée par les mers annonce la fin des hivers rigoureux. On raconte que c'est l'amour que ce Pokémon ressent qui fait bourgeonner de nouvelles vies dans la région de Hisui.
+The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
+Il dégage une odeur sucrée qui fascine les êtres alentour. Celle-ci est plus forte lorsqu'il est exposé au soleil.
+Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.
+Il manie avec habileté la liane dissimulée sous ses longs poils et frappe ses adversaires avec le bourgeon dur situé à son extrémité.
+This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.
+Il se sert de la réverbération de la lumière sur la fourrure de sa cape pour camoufler sa tige, ce qui donne l'illusion que sa fleur flotte dans les airs.
+It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.
+Il s'allonge sur des pierres chaudes et produit de l'énergie de type Feu grâce à la chaleur absorbée par ses écailles rectangulaires.
+The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head.
+Ses cordes vocales et la valve de sa poche à flammes sont étroitement liées, ce qui lui permet de pousser des cris gutturaux en crachant du feu.
+The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul.
+Quand il chante, son oiseau de feu change de forme. Cet oiseau serait né lorsqu'une âme a pris possession de sa boule de feu.
+This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.
+Originaire d'une contrée lointaine, il est venu s'installer dans la région il y a longtemps. Ses ailes sécrètent un gel qui repousse l'eau et les saletés.
+These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.
+Ils courent dans les hauts-fonds pour renforcer les muscles de leurs pattes et rivalisent entre eux pour voir qui a le coup de pied le plus élégant.
+A single kick from a Quaquaval can send a truck rolling. This Pokémon uses its powerful legs to perform striking dances from far-off lands.
+Il peut propulser un camion dans les airs d'un simple coup de pied. Ses puissantes pattes lui permettent aussi d'exécuter des danses insolites.
+It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging.
+Il possède un sens de l'odorat développé qu'il utilise uniquement pour chercher de la nourriture, ce qu'il fait à longueur de journée.
+It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body.
+Leur corps entier exhale un doux parfum envoûtant qui séduit les Pokémon femelles.
+The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy.
+La boule de fil qui entoure son corps est assez élastique pour repousser les faux d'Insécateur, son ennemi juré.
+It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.
+Ce Pokémon s'accroche aux branches ou aux plafonds grâce à son fil et se déplace en silence. Il élimine ses proies sans qu'elles le remarquent.
+It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs.
+Sa troisième paire de pattes est repliée. Il possède assez de force pour sauter à plus de dix mètres lorsqu'il est en difficulté.
+When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.
+Quand les choses deviennent sérieuses, il passe en mode assaut et se tient sur son autre paire de pattes. Il neutralise ses ennemis en un clin d'œil.
+It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.
+Les poches sur ses joues sont peu développées. Elles ne produisent de l'électricité que lorsqu'il les frotte avec ses coussinets.
+When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.
+Quand on attaque son groupe, ce Pokémon est le premier à riposter. Il défait ses adversaires avec un art martial qui repose sur l'électricité.
+This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.
+D'ordinaire, ce Pokémon est plutôt calme, mais lorsqu'il se bat, il élimine ses adversaires avec des mouvements rapides comme l'éclair.
+Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.
+Ces Pokémon travaillent en équipe. À l'aide de leur incisive, ils extraient les matériaux nécessaires pour construire leur nid, puis ils les emportent.
+They build huge nests with many rooms that are used for different purposes, such as eating and sleeping.
+Ils construisent des nids gigantesques divisés en espaces distincts qui répondent à différents besoins, comme dormir ou s'alimenter.
+This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.
+Ce Pokémon est moite et lisse au toucher. Il fait fermenter ce qui se trouve à proximité grâce à la levure que contient son souffle.
+The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.
+Il est très apprécié depuis longtemps dans les villages agricoles, car le délicieux parfum qu'il dégage aide à faire croître le blé.
+It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.
+Le fruit qui surmonte sa tête sécrète une huile qui le protège de ses adversaires. Ce liquide a un goût si désagréable qu'il fait grimacer.
+Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.
+Ce Pokémon partage volontiers son huile fraîche et délicieuse. Il vit en harmonie avec les êtres humains depuis les temps anciens.
+This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.
+Calme et bienveillant, il partage son huile délicieuse et riche en nutriments avec les Pokémon affaiblis.
+These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.
+Ces Pokémon préfèrent vivre en ville. Ils forment des groupes selon la couleur de leur plumage et se livrent à des luttes de territoire.
+It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.
+Ce Pokémon est né dans des couches souterraines de sel gemme. Connu pour partager son précieux sel, il était très apprécié autrefois.
+This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.
+Il projette du sel pour en recouvrir ses proies. Celles-ci subissent alors un processus de salaison et se déshydratent.
+Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.
+Le sel dont il saupoudre les Pokémon blessés en frottant le bout de ses doigts guérit aussitôt toutes les blessures, même les plus graves.
+Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.
+Ce Pokémon est un charbon de bois consumé qui a pris vie. Il est animé par un désir de combattre qui le pousse à défier des adversaires puissants.
+Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.
+Il a évolué grâce à l'armure d'une illustre âme guerrière. Ce Pokémon est extrêmement loyal.
+The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.
+Les flammes de ses épées sont animées par la rancœur d'une âme guerrière qui a péri avant de pouvoir accomplir son but.
+Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
+Ce Pokémon produit de l'électricité en agitant sa queue. Lorsqu'il perçoit un danger, sa tête clignote pour avertir ses congénères.
+When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.
+Lorsque ce Pokémon allonge et contracte son corps élastique, son nombril-dynamo produit une quantité d'électricité colossale.
+When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.
+Les os de ses ailes produisent de l'électricité grâce au vent. Pour chasser, ce Pokémon plonge dans la mer et électrocute ses proies.
+Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.
+Lorsqu'il gonfle son sac gulaire, l'intensité du courant électrique qu'il produit augmente. Il peut parcourir 700 km par jour en planant.
+It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.
+Il affiche toujours un air renfrogné pour qu'on le prenne au sérieux, mais même les enfants en pleurs éclatent de rire lorsqu'ils voient sa tête.
+This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.
+Ce Pokémon emmagasine de l'énergie dans ses grandes bajoues. Il la libère ensuite d'un coup pour balayer ses adversaires au loin.
+Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.
+Ce Pokémon est d'un naturel doux, mais lorsqu'il se met en colère, il mord à l'aide de ses incisives acérées et imprégnées de venin paralysant.
+The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.
+Sa salive toxique change de couleur selon son alimentation. Il en enduit ses doigts pour dessiner des motifs sur les arbres de la forêt.
+A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.
+Ce Pokémon est né lorsque, portée par le vent, une âme incapable de trouver le repos s'est retrouvée empêtrée dans des herbes sèches.
+It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.
+Il déplie ses branches pour gober ses proies. Une fois qu'il a absorbé la quantité d'énergie vitale qu'il souhaitait, il les recrache.
+Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.
+Il vit dans les forêts humides. La partie ondulée qui entoure son abdomen peut se détacher. Elle est croquante et délicieuse.
+These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.
+Ces Pokémon vivent en colonies au fin fond des bois. Ils détestent au plus haut point que des personnes inconnues s'approchent d'eux.
+Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.
+Il se poste la tête en bas sur une falaise, dans l'attente d'une proie, mais il ne peut pas rester longtemps ainsi, car le sang lui monte à la tête.
+The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.
+Plus ce Pokémon s'expose au soleil, plus son corps produit une substance piquante, ce qui apporte un peu de piment à ses capacités.
+The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.
+Sa tête rouge convertit la substance piquante produite par son corps en énergie de type Feu et crache des flammes brûlantes.
+This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.
+Il confectionne une boule de boue en mélangeant de la terre, du sable et de l'énergie de type Psy. À ses yeux, elle importe plus que sa propre vie.
+The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.
+Le corps qui porte la sphère bouge à peine. On se demande donc si c'est bien lui qui contrôle les actions de ce Pokémon.
+Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.
+Il lévite à un centimètre du sol grâce à l'énergie psychique qui émane des volants de son abdomen.
+It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.
+Ce Pokémon immobilise ses adversaires grâce à l'énergie psychique qui émane de ses grands yeux. Il est beaucoup plus violent qu'il n'en a l'air.
+It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.
+Il se défend en brandissant un marteau qu'il a créé lui-même, mais les Pokémon qui se nourrissent de métaux ont tendance à le lui voler.
+This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.
+Ce Pokémon attaque des cohortes de Scalpion et de Scalproie pour rassembler le métal nécessaire à la confection d'un grand marteau robuste.
+This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.
+Ce Pokémon très intelligent et hardi jette des rochers dans les airs puis les frappe avec son marteau en visant les Corvaillus qui volent.
+This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.
+Il détecte l'odeur de Délestin à plus de vingt mètres, ce qui lui donne le temps de s'enfouir dans le sable.
+It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.
+Ce Pokémon est beaucoup plus violent qu'il n'y paraît. Il enroule son long corps autour de ses proies pour les attirer dans son nid.
+It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.
+Il aime mettre des objets dans le tablier formé de plumes qui orne son poitrail, avant de les larguer depuis une altitude élevée.
+It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.
+Il aime utiliser l'anneau d'eau de sa queue quand il joue avec ses congénères et se sert d'ultrasons pour comprendre les émotions des autres.
+This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.
+Il change de forme dès qu'il entend les cris de détresse de ses congénères, mais il ne laissera jamais personne assister à sa transformation.
+It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.
+On raconte qu'il est né lorsqu'un mystérieux Pokémon Poison a pris possession d'un moteur laissé à l'abandon dans une casse.
+It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.
+Il produit de l'énergie en faisant exploser dans ses huit cylindres un mélange gazeux qui contient une substance toxique et des minéraux.
+Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.
+Des fresques vieilles de 10 000 ans laissent penser que ce Pokémon transporte des êtres humains sur son dos depuis les temps anciens.
+When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.
+Lorsqu'on l'attaque, ce Pokémon se sert de ses poils comme de poings pour rouer de coups ses adversaires.
+It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.
+Il absorbe les nutriments qui se trouvent dans les parois des grottes. Les pétales qui recouvrent son corps sont constitués de poison cristallisé.
+When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.
+Lorsqu'il détecte un danger, il ouvre ses pétales cristallins et son corps conique tire un rayon laser.
+It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.
+On pense qu'il est la réincarnation d'un Pokémon chien errant qui a perdu la vie sans jamais avoir eu d'interaction avec les êtres humains.
+Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.
+Il passe la majeure partie de son temps à dormir dans des cimetières. C'est le Pokémon chien le plus loyal au monde.
+This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.
+On pense qu'il fait un nœud à la base de son cou afin d'empêcher l'énergie qu'il accumule dans son ventre de s'échapper par son bec.
+This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.
+Ce Pokémon a quitté le milieu marin il y a fort longtemps pour s'installer sur la terre ferme. Il appartiendrait à une espèce proche des Wailmer.
+This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.
+Ce Pokémon arpente les étendues de neige et de glace. Ses muscles puissants et son épaisse couche de graisse protègent son corps.
+When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.
+Pour aiguiser son esprit et renforcer ses pouvoirs psychiques, il se défait de sa chair en trop. Celle-ci a un goût léger, mais exquis.
+This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.
+Comme il n'est pas très doué pour attraper ses proies, ce Pokémon vorace fait équipe avec Nigirigon pour chasser.
+This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.
+Ce petit Pokémon Dragon vit dans la gueule d'Oyacata, à l'abri de ses adversaires.
+When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.
+Quand sa colère a franchi un seuil critique, il a acquis une puissance qui l'a émancipé des limites de son corps.
+When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.
+Quand on l'attaque, il riposte en faisant sortir de grosses épines de son tronc, une dangereuse technique qui montre qu'il est prêt à tout risquer.
+Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.
+Grâce à la synchronisation des ondes cérébrales de sa tête et de sa queue, ses pouvoirs psychiques sont dix fois plus puissants que ceux de Girafarig.
+This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.
+Il se sert de sa queue pour creuser son terrier dans les profondeurs rocheuses de la terre. Celui-ci peut faire jusqu'à 10 km de long.
+Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.
+Seul un Scalproie qui s'est hissé au plus haut rang d'une grande armée peut évoluer en Scalpereur.
+Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book.
+Ce Pokémon a été aperçu à plusieurs reprises ces dernières années. Son nom s'inspire d'une créature évoquée dans un certain livre.
+There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.
+Ce Pokémon n'avait été aperçu qu'une seule fois jusqu'ici. Il ressemble à une créature mystérieuse évoquée dans un vieux récit d'exploration.
+It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.
+Il est possible que ce Pokémon soit la créature évoquée sous le nom de « Fongus-Furie » dans un certain livre.
+This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.
+Ce Pokémon a des caractéristiques semblables à celles d'une créature évoquée dans un certain livre sous le nom de « Flotte-Mèche ».
+This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.
+Ce Pokémon mystérieux présente des similitudes avec Rampe-Ailes, une créature évoquée dans un livre ancien.
+No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal.
+Ses attributs correspondent à ceux d'une créature évoquée dans un récit d'exploration. On manque de données sur lui, car nul n'en a jamais attrapé.
+This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.
+Il ressemble beaucoup à une arme sophistiquée qui serait d'origine extraterrestre, selon une revue consacrée aux phénomènes paranormaux.
+Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization.
+Sa forme est similaire à celle d'un robot créé par une civilisation antique, d'après un article d'une revue consacrée aux phénomènes paranormaux.
+It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.
+Il ressemble à l'athlète transformé en cyborg dont l'histoire avait été révélée en exclusivité dans une revue sur les phénomènes paranormaux.
+It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.
+Il ressemble à un Pokémon qui serait l'enfant d'un Trioxhydre amoureux d'un robot, selon une revue consacrée aux phénomènes paranormaux.
+This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.
+Il ressemble à une entité étrange décrite dans une revue sur les phénomènes paranormaux. D'après celle-ci, ce serait un ovni qui épie la race humaine.
+It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.
+Son apparence partage des similarités avec celle qu'auront les Tyranocif dans un milliard d'années, selon une revue douteuse.
+Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.
+Sa crête dorsale absorbe la chaleur et la convertit en énergie de type Glace. Plus la chaleur est intense, plus il emmagasine de l'énergie.
+Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.
+Il gèle l'air alentour pour protéger son visage avec un masque de glace et doter sa crête dorsale de lames gelées.
+This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.
+L'air qu'il crache est tellement froid qu'il peut geler instantanément du magma en fusion.
+This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.
+Ce Pokémon erre en portant une vieille pièce sur son dos. Il aspire la vitalité des personnes qui tentent de la ramasser.
+Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.
+Son corps serait composé de 1 000 pièces. Sociable, il peut se lier d'amitié très rapidement avec n'importe qui.
+The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.
+La rancœur d'un être humain puni pour avoir noté les méfaits d'un roi sur des tablettes en bois s'est mêlée à des feuilles mortes et a pris vie.
+This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.
+Ce Pokémon peut contrôler 100 tonnes de neige tombée. Il s'amuse en sautant joyeusement dans les avalanches qu'il provoque.
+The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.
+La peur déversée dans un réceptacle utilisé lors de rites anciens s'est mêlée à de la terre et à des pierres et a pris vie.
+It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.
+Ce Pokémon manipule des flammes à 3 000°C. Il nage tranquillement dans une mer de magma qu'il a créée en faisant fondre de la roche et du gravier.
+It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.
+Il pourrait s'agir de la créature nommée « Rugit-Lune », qui apparaît dans un récit d'exploration très mystérieux.
+It has some similarities to a mad scientist’s invention covered in a paranormal magazine.
+Il ressemble un peu à l'invention d'un cerveau dément mentionnée dans une revue consacrée aux phénomènes paranormaux.
+This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.
+Il s'agirait d'« Ailes-Royales », une créature qui, d'après un vieux récit d'exploration, aurait fendu la terre par la force de ses poings.
+Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.
+On manque d'informations à son sujet. Il ressemble à Motorizard, mais en bien plus fort et cruel.
+This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.
+Cette créature violente entourée de mystère tire son nom d'un monstre aquatique évoqué dans un vieux récit d'exploration.
+According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders.
+D'après de rares témoins, il aurait coupé en lamelles des arbres et des rochers immenses à l'aide de ses épées lumineuses.
+The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
+À l'intérieur de la pomme vivent « Ver-dehors » et « Ver-dedans ». La tête du premier et la queue du second sortent du fruit.
+Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.
+Ce Pokémon serait l'incarnation, sous la forme d'un pot de matcha, des regrets d'une personne décédée avant d'avoir maîtrisé l'art du thé.
+It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.
+Il se fait passer pour un bol de thé afin d'aspirer la force vitale de quiconque ferait l'erreur de le boire, mais en général, personne n'est dupe.
+After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.
+Les toxines de la chaîne empoisonnée autour de son cou ont stimulé tous ses muscles et son corps est devenu massif.
+The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.
+Les toxines de sa chaîne sont capables de révéler un potentiel latent. En stimulant son cerveau, elles lui ont conféré des pouvoirs psychiques.
+Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.
+Il doit son apparence et sa voix majestueuses à la stimulation provoquée par les toxines qui s'échappent de la chaîne autour de son corps.
+This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.
+Son type change selon le masque qu'il porte. Son agilité et ses coups de pied habiles lui permettent de malmener ses adversaires.
+It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.
+Ce Pokémon creuse dans les montagnes à la recherche de nourriture. Il est si robuste qu'être piégé dans un effondrement le laisse indifférent.
+Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.
+Sept « Verochi » vivent dans une pomme composée de nectar. Celui qui se trouve au centre est le chef du groupe.
+There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.
+Cette créature n'a été que rarement aperçue, mais elle apparaît dans une courte vidéo où on la voit enrager et faire jaillir des piliers de feu.
+It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.
+On raconte que la foudre qui s'échappe de sa fourrure peut brûler tout ce qui l'entoure, mais on en sait peu sur lui.
+It was named after a mysterious object recorded in an old book. Its body seems to be metallic.
+Son corps serait composé de métal. Ce Pokémon doit son nom à une entité mystérieuse mentionnée dans un livre ancien.
+There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it.
+Outre le fait que ses lames lumineuses pourraient trancher tout ce qui l'entoure, il n'existe aucune autre information sur cette entité inconnue.
+Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.
+Il se protège en transformant de l'énergie en cristal solide. Ce Pokémon est à l'origine du phénomène de Téracristallisation.
+It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt's control, chained to its will.
+Il fait manger à sa cible un mochi empoisonné qui éveille les désirs et révèle le potentiel. Il la contrôle ensuite grâce à ses chaînes.
+Steeleon is so proud of his steel coat it can take care of it for more than 3 hours a day, until it shines like a mirror.
+Ce pokemon est si fier de son pellage d'acier qu'il passe plus de trois heures par jour à l'entretenir jusqu'à ce qu'il brille comme un miroir.
+It uses its tail to correct its posture. Thus, it can stand up to fight and propel itself through dozens of meters.
+Il se sert de sa queue pour corriger sa posture. Ainsi, il peut rester debout pour frapper et se projeter vers l'avant sur des dizaines de mètres.
+Joining the strange energy its eyes produce and its formidable sting, it can compete with our forests' biggest predators.
+En alliant l'énergie étrange qu'émettent ses yeux et son dard redoutable, il peut rivaliser avec les plus grand prédateur de nos forêts.
+The slippery, poisonned liquid permanently flowing from the top of its body gives it a calm expression. However, its terribly impatient.
+Le liquide glissant et empoisonné qui coule en permanence du haut de son corps lui donne un air calme. Il est pourtant terriblement impatient.
+It has such a great control over his cloud it can calmly nap on it while flying faster than a Pidgeotto.
+Il contrôle si bien son nuage qu'il peut tranquillement faire la sieste dessus tout en volant plus vite qu'un roucarnage.
+When it's not napping, this carefree Pokémon would eat anything it come accross if its trainer doesn't watch him, event dirt.
+Quand il ne fait pas la sieste, ce pokemon insoucient est capable de manger tout ce qui traine si son dresseur ne le surveille pas, même de la terre.
+When it spins around, the rock-solid scales of this Pokémon produce impressive impacts.
+Quand il roule sur lui même, les écailles dur comme la roche de ce pokemon créé des impacts impressionant.
+When focused, it can understand wisps' emotions with its third eye and help them to find peace.
+Quand il se concentre, il peut comprendre les émotions de feu-follets avec son troisème oeil et les aider à trouver la paix.
+The pearl at the base of its neck greatly improves its Chi power. It cares so much for it that only its trainer can brush the pearl.
+Le Perle en bas de son cou augmente considérablement la puissance du Chi. Il y tient tellement que seul son dresseur peut l'effleurer.
+If its trainer is in danger, it won't ever back down. It is a symbol of loyalty and recklessness.
+Si son dresseur est en danger, il ne recullera jamais. Il est symbole de fidélité et de témérité.
+They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.
+Ils patrouillent sur leur territoire en duo. Je pense que les roches magmatiques qui constituent en partie leur toison sont liées à l'activité volcanique.
+Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.
+Il inflige des morsures grâce à ses canines enveloppées de flammes ardentes. Malgré sa grande taille, il est très agile : il semble danser autour de ses ennemis déconcertés.
+An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.
+Ce Pokémon mystérieux ressemble étrangement à une Poké Ball. Lorsqu'il est agité, il relâche le courant électrique emmagasiné dans son abdomen et laisse échapper des éclats de rire.
+The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.
+Son enveloppe corporelle est étrangement semblable à celle des Noigrumes. S'il est irrité, il relâche un courant électrique dont l'intensité atteint vingt fois celle de la foudre.
+This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.
+Le Tauros de la Race Combative se caractérise par son tempérament agressif et par ses muscles aussi puissants que développés.
+People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.
+Le Tauros de la Race Flamboyante doit son nom au fait qu'il expire de l'air brûlant par les naseaux. Il possède trois queues tressées.It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.
+It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.
+Le Tauros de la Race Aquatique expulse de l'eau par les cornes pour nager. Il se caractérise par sa graisse abondante, qui lui permet de flotter.
+Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.
+On dit qu'il purifie les âmes perdues à l'aide de ses flammes avant de les envoyer dans l'au-delà. Je pense que sa forme est influencée par la montagne sacrée située au cœur de Hisui.
+After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.
+Depuis qu'une dispute territoriale l'a contraint à vivre sur la terre ferme, il protège son corps en le recouvrant d'un fluide toxique.
+Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.
+Les pêcheurs exècrent les Qwilfish, car leurs épines expulsent des toxines. Les spécimens d'autres régions se présentent sous une forme dissemblable.
+Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.
+La forme de ses griffes puissantes lui procure un avantage pour escalader les précipices escarpés. Le poison qui flue de leur extrémité agit sur les nerfs des proies capturées par Farfuret.
+Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form.
+La lumière lui a donné cette forme semblable à celle du créateur de toutes choses. La force qu'il déploie est telle que je ne peux m'empêcher de penser qu'il est sous sa forme véritable.
+It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia's strategy for gaining Arceus's powers.
+Cette forme qui sillonne les cieux me fait penser au créateur de toutes choses. Je pense qu'épouser cette apparence prodigue à Palkia les pouvoirs du créateur.
+Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.
+Cette fine lame au tempérament impitoyable est une évolution rare qui ne se produit qu'à Hisui. Ses attaques sont aussi ravageuses que les vagues déferlantes.
+They suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.
+Je spécule que ce Pokémon doit ses jambes musclées à son habitat dans les montagnes couvertes de neige épaisse. La fleur sur sa couronne exhale un parfum stimulant tout être alentour.
+Though it differs from other Basculin in several respects, including demeanor—this one is gentle—people have categorized it as a regional form given the vast array of shared qualities.
+Bien qu'il diffère des autres Bargantua par bien des aspects, notamment son tempérament pacifique, les nombreux traits qu'ils partagent me font penser que celui-ci est une forme régionale.
+A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.
+Zorua serait une âme disparue, ressuscitée à Hisui. Sa rancœur émane sous forme d'énergie au-dessus de sa tête, puis adopte l'apparence de ses ennemis, et finit par se dissiper.
+With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.
+Sa crinière blanche échevelée lui donne l'allure d'un dieu de la mort. Le ressentiment qu'il éprouve le déchire physiquement, mais lui donne une énergie telle qu'elle peut occire tout ennemi.
+Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface.
+De taille imposante, ce preux volatile chasse en lançant de terribles cris de guerre. Il propage des ondes de choc dans les lacs, puis se saisit des proies remontées à la surface.
+A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water.
+Ce Pokémon est de nature plutôt mélancolique. Je spécule que le fer contenu dans les eaux de Hisui a agi sur son mucus épidermique et a changé sa peau en carapace de métal.
+Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.
+Il peut moduler la rigidité de sa carapace de métal à volonté. Il abhorre la solitude et enrage si un être qu'il affectionne profondément l'abandonne.
+The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow.
+L'armure de glace qui enveloppe sa mâchoire inférieure peut briser des rocs plus durs que l'acier. Il se meut vélocement en fendant la neige épaisse des chemins de montagne.
+The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment.
+Les plumes d'Archéduc le protègent de la froideur glaciale de Hisui grâce à l'air logé dans leur tige. Voici une preuve que l'environnement agit sur l'évolution des Pokémon.
+A different guise from its feminine humanoid form. From the clouds, it descends upon those who treat any form of life with disrespect and metes out wrathful, ruthless punishment.
+Ce Pokémon quitte son apparence de femme et revêt cette forme avant de se révéler entre les nuages pour châtier ceux qui négligent les êtres vivants. Sa colère est implacable.
+This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it.
+Ce Pokémon méticuleux aime la propreté. Il est enveloppé d'un parfum floral qui rassérène les Pokémon alentour.
+This species’ differing colors and patterns are apparently the result of Tatsugiri changing itself to suit the preferences of the prey it lures in.
+Les différents motifs et couleurs de cette espèce seraient une adaptation aux préférences des proies qu'elle souhaite attirer.
+Bird Pokémon are its main prey. This Pokémon knows it’s weak, so it hunts with a partner.
+Il se nourrit principalement de Pokémon oiseaux. Conscient de sa faiblesse, il chasse accompagné d'un partenaire.
+Blue-feathered Squawkabilly view their green- feathered counterparts as rivals, since the latter make up the largest, most powerful groups.
+Les Tapatoès aux plumes bleues considèrent les spécimens aux plumes vertes comme leurs rivaux, car ces derniers sont plus nombreux et puissants.
+The yellow Squawkabilly are especially fierce. They've even been known to drive other bird Pokémon out of town.
+Les Tapatoès de couleur jaune sont extrêmement agressifs. Ils vont même jusqu'à chasser les autres Pokémon oiseaux des villes.
+Though these Squawkabilly are the fewest in number, they have no trouble living in towns since they blend in with the white buildings.
+Les spécimens de cette couleur sont moins nombreux, mais comme ils se fondent dans le décor urbain, ils peuvent facilement vivre en ville.
+This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.
+Ce Pokémon est né d'une pièce de monnaie imprégnée de passion. Il semble errer à la recherche de son coffre d'origine.
+It sprinkles some of its powdery body onto food and drains the life-force from those who so much as lick it.
+Il incorpore à la nourriture un peu de la poudre qui compose son corps, puis aspire l'énergie vitale de tout être qui l'ingère.
+It lives inside a superb teacup that was crafted by a potter of great renown. Collectors positively adore this Pokémon.
+Il vit dans un splendide bol de thé confectionné par un céramiste de renom. Les collectionneurs et collectionneuses sont fascinés par ce Pokémon.
+This form excels in both attack and defense. It ceaselessly unleashes moves like a spring gushes water.
+Sous cette forme, il excelle en attaque comme en défense, et peut enchaîner les capacités avec la même fluidité qu'une source d'eau jaillissante.
+This form is the most aggressive, bombarding enemies with the intensity of flames blazing within a hearth.
+Sous cette forme spécialisée en attaque, il assaille ses adversaires avec autant d'ardeur que les flammes brûlantes d'un fourneau.
+This form has excellent defenses, absorbing impacts solidly like the cornerstones that support houses.
+Sous cette forme spécialisée en défense, il encaisse les coups et reste inébranlable, telles les fondations d'une maison.
+The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move’s energy and transfers it to Terapagos.
+Sa carapace Téracristal lui permet d'absorber l'énergie des capacités qu'il subit et de se l'approprier.
+In this form, Terapagos resembles the world as the ancients saw it, and its Terastal energy is abnormally amplified.
+Sous cette forme, son énergie Téracristal est décuplée et son apparence évoque le monde tel que les êtres humains le concevaient autrefois.
+Crystallized Mega energy makes up this Pokémon's blindingly bright and highly toxic scales.
+La puissance de la Méga Energie se cristallise et forme une nuée d'écailles toxiques émettant une lumière aveuglante.
+One of these Pokémon once used its immeasurable strength to lift a large ship that was in trouble. It then carried the ship to port.
+Sa puissance démultipliée lui a un jour permis de soulever un paquebot en détresse pour le ramener jusqu'au port.
+The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
+Il expulse de l'eau extrêmement alcaline sur ses adversaires, ce qui dissout leur corps instantanément.
+It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming.
+S'il croise un iceberg, il crée un grand anneau avec des cristaux de glace pour le détruire et continuer sa croisière paisiblement.
+Mega energy has affected stray seeds and even pebbles that got stuck to Snorlax, making them grow to a huge size.
+La Méga Energie a fait pousser les graines et les restes tombés sur son ventre, et a même fait grossir les cailloux pris dans son pelage.
+It sprays toxic gas from its mouth and fingers. If the gas engulfs you, the toxins will seep in all the way down to your bones.
+Quiconque entre en contact avec le gaz toxique qui jaillit de sa bouche et de ses doigts sera empoisonné jusqu'aux os.
+It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot.
+Il peut tirer un rayon électrique capable de faire disparaître un ennemi d'un seul coup depuis le centre de son abdomen.
+The eight feathers on its back are called blade birds, and they can launch off its body to attack foes independently.
+Les huit plumes de son dos, aussi appelées "oiseaux-lames" se sont séparées de son corps et attaquent ses ennemis de manière autonome.
+If it were to utilize every last bit of its power, it could control the minds of every living being in its vicinity.
+En concentrant son pouvoir, il peut manipuler l'esprit de tous les êtres qui l'entourent.
+In the Galar region, there's a tale about this Pokémon chewing up a mountain and using the rubble to stop a flood.
+Les légendes de Galar racontent qu'il avait jadis réussi à endiguer des inondations en détruisant des montagnes rocheuses avec sa mâchoire.
+Its body is a colossal stove. With Mega energy stoking the fire, this Pokémon's flame burns hotter than 3,600 degrees Fahrenheit.
+Son corps est devenu un immense fourneau. Grâce à la Méga Energie, la température de ses flammes atteint 2 000°C.
+If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pokémon faint.
+Lorsqu'il allonge le cou, un parfum de nectar extrêmement sucré se répand, et les Pokémon qui le hument tombent tous dans les pommes.
+Sand swirls around its body with such speed and power that it could pulverize a skyscraper.
+Le sable qui gravite à grande vitesse autour de lui tourne si violemment qu'il peut réduire un gratte-ciel en poussière.
+Its excessive electric energy is its weapon. This Pokémon can build up more electricity than any thundercloud.
+Sa surcharge électrique est son arme. La quantité d'énergie qu'il peut emmagasiner dépasse même celle d'un nuage de foudre.
+The heat that comes off a Mega Centiskorch may destabilize air currents. Sometimes it can even cause storms
+Sous sa forme Méga, la chaleur émise par Scolocendre perturbe parfois les courants aériens au point de déclencher des tempêtes.
+This Pokémon can read the emotions of creatures over 30 miles away. The minute it senses hostility, it goes on the attack.
+Il est capable de capter les émotions d'êtres vivants situés à une distance de 50 km. S'il ressent de l'animosité, il passe à l'attaque.
+By transforming its leg hair, this Pokémon delivers power-packed drill kicks that can bore huge holes in the ground.
+Il modifie la forme des poils de ses jambes et donne des coups de pied vrillés qui laissent des trous béants dans les plaines de Galar.
+Cream pours endlessly from this Pokémon's body. The cream stiffens when compressed by an impact. A harder impact results in harder cream.
+Plus on le frappe fort, plus son corps, qui dégouline toujours de crème, se raffermit.
+So much power is packed within its trunk that if it were to unleash that power, the resulting blast could level mountains and change the landscape.
+Lorsqu'il propulse l'énergie qu'il a accumulée dans sa trompe, les montagnes s'envolent, défigurant à jamais le paysage.
+Infused with Cinderace's fighting spirit, the gigantic Pyro Ball never misses its targets and completely roasts opponents.
+Incapables d'échapper aux ballons de feu animés par sa combativité ardente, tous les adversaires de Pyrobut finissent consumés.
+It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
+Pour ce tireur d'élite au talent exceptionnel, toucher une Baie qui roule au sol à 15 km de distance est un véritable jeu d'enfant.
+People call it the embodiment of rage. It's said that this Pokémon's terrifying expression and shout will rid the world of malevolence.
+Il est surnommé « l'avatar de la colère ». On raconte qu'il chasse les esprits maléfiques du monde avec son apparence et son cri terrifiants.

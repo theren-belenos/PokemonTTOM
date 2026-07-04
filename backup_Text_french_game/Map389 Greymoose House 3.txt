@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map389]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Worker:</b> Nothing better than a good lemonade after work!
+<b>Travailleur:</b> Rien de mieux qu'une bonne limonade après le travail !
+<b>Worker:</b> Here, help yourself!
+<b>Travailleur:</b> Tiens, sers-toi !
+<b>Worker:</b> Stay hydrated!
+<b>Worker:</b> N'oublie pas de t'hydrater !
+<b>Little Girl:</b> When dad takes a lemonade, I can take one too! Hehehe
+<b>Enfant:</b> Quand papa prend une limonade, j'ai le droit d'en prendre une aussi ! Héhé

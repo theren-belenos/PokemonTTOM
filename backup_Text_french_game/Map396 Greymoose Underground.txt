@@ -1,0 +1,36 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map396]
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Delinquent:</b> I sometimes feel like everybody has forgotten this place even exists...
+<b>Terreur:</b> J'ai parfois l'impression que tout le monde a oublié l'existence de cet endroit...
+<b>Delinquent:</b> If you come down here, you're part of the family. Take this!
+<b>Terreur:</b> Si tu descends ici, tu fais partie de la famille. Tiens !
+<b>Delinquent:</b> You're part of the family now. Take care.
+<b>Delinquent:</b> You're part of the family now.  Take care.
+<b>Scar:</b> Go away! This is my secret hideout!
+<b>Scar:</b> Va-t-en ! C'est ma cachette secrète !
+<b>Scar:</b> Hmpf, okay, you can stay.
+<b>Scar:</b> Hmpf, ok, tu peux rester.
+<b>Nicole:</b> Hey! Don't disturb me!
+<b>Nicole:</b> Hey ! Ne me dérange pas !
+<b>Nicole:</b> Okay but be quiet please!
+<b>Nicole:</b> Ok mais reste silencieux s'il te plaît !
+<b>Jogger:</b> Nobody comes here... Perfect for jogging!
+<b>Joggeur:</b> Personne vient ici... Parfait pour le jogging !
+<b>Boris:</b> Hmpf, what do you want?
+<b>Boris:</b> Hmpf, qu'est-ce que tu veux ?
+<b>Boris:</b> A fight, huh? huh? Come on!
+<b>Boris:</b> La baston, hein ? Hein ? Ramène-toi !
+<b>Boris:</b> Leave me alone!
+<b>Boris:</b> Fous moi la paix !
+Yes
+Oui
+No
+Non

@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map032]
+You went to eat with Melly and her dad, and spent some time with them.
+Vous allez manger avec Melly et son père, et passez du temps avec eux.
+What a lovely family they are!
+Ils forment vraiment une famille toute mignonne !
+<b>Hervé:</b> Oh hello \pn how are you?
+<b>Hervé:</b> Oh bonjour \pn comment vas-tu ?
+<b>Hervé:</b> I’m so glad I can work and live here again, with my sweet Melly!
+<b>Hervé:</b> Je suis tellement content de travailler et vivre ici de nouveau, avec ma chère Melly !
+<b>Hervé:</b> It was hard to live far from my daughter for this long.
+<b>Hervé:</b> C'était vraiment dur de vivre loin de ma fille pendant si longtemps.
+<b>Hervé:</b> You’re welcome here everytime you want! Come have dinner sometimes!
+<b>Hervé:</b> Tu es le bienvenue ici quand tu veux ! Viens manger à l'occasion !

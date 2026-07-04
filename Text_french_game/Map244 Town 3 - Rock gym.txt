@@ -47,7 +47,7 @@ Le Skitty s'est enfui quelque part !
 <b>Little Girl:</b> Mamaaaa! Where is Kitty????
 <b>Petite Fille:</b> Mamaaaan ! Où est Kitty ????
 You're not rank 2... It's useless to take on this Gym for now!
-You're not rank 2... It's useless to take on this Gym for now!
+Vous n'êtes pas rang 2... Il est inutile de faire cette Arène pour le moment !
 <b>Thug:</b> Psst! You want da good shit?
 <b>Voyou :</b> Psst ! Tu veux de la bonne came ?
 <b>Thug:</b> That's good shit!
@@ -71,7 +71,7 @@ You're not rank 2... It's useless to take on this Gym for now!
 <b>Woman:</b> Oh, I see it behind you!
 <b>Femme:</b> Oh, je le vois derrière toi !
 <b>Little Girl:</b> Kittyyyyyyyyyyyyyyy! Hehehehehehehe !
-<b>Petite Fille:</b> Kittyyyyyyyyyyyyyyy!  Hehehehehehehe !
+<b>Petite Fille:</b> Kittyyyyyyyyyyyyyyy! Hehehehehehehe !
 <b>Woman:</b> What a relief! I can't thank you enough!
 <b>Femme:</b> Quel soulagement ! Je pourrai jamais assez te remercier !
 <b>Woman:</b> Take these, you deserved it!
@@ -124,11 +124,11 @@ Skitty accepte de vous suivre !
 <b>Cradopaud:</b> Khikhikhikhikhi!!!!
 <b>Tourist:</b> Wow, is this the Gym?
 <b>Touriste:</b> Wow, alors voici l'Arène ?
-<b>Tourist:</b> This building is huge! What's that for?
-<b>Touriste:</b> Ce bâtiment est énorme ! A quoi il sert ?
 <b>Machop:</b> Machoooop!!!
 <b>Machoc:</b> Machooooc!!!
-<b>Tourist:</b> What a nice place!
-<b>Touriste:</b> Quel endroit charmant !
+<b>Tourist:</b> This building is huge! What's that for?
+<b>Touriste:</b> Ce bâtiment est énorme ! A quoi il sert ?
 <b>Lotad:</b> Lotad!!!
 <b>Nenupiot:</b> Nupiot !!!
+<b>Tourist:</b> What a nice place!
+<b>Touriste:</b> Quel endroit charmant !

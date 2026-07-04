@@ -194,7 +194,7 @@ Pokemon = LITTEN,9
     Ball = POKEBALL
 #-------------------------------
 [YOUNGSTER,Jason,1]
-LoseText = ...
+LoseText = Our gym leader is so strong! That's so cool!
 Pokemon = VULPIX,8
     Form = 0
     IV = 10,10,10,10,10,10
@@ -206,7 +206,7 @@ Pokemon = ODDISH,9
     Ball = POKEBALL
 #-------------------------------
 [CAMPERBOY,Billy,1]
-LoseText = ...
+LoseText = What do you mean "Not this kind of badge"???
 Pokemon = PHANPY,8
     Form = 0
     IV = 10,10,10,10,10,10

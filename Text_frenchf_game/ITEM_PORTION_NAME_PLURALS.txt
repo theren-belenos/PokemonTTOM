@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_PORTION_NAME_PLURALS]
+sets of Auspicious Armor
+sets d'Armure de la Fortune
+sets of Malicious Armor
+sets d'Armure de la racune
+capsules of Booster Energy
+capsules d'Energie Booster
+hunks of Metal Alloy
+morceaux de Métal Composite

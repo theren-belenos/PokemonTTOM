@@ -1,0 +1,84 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map384]
+\w[]
+\w[]
+Switch 1 activated
+Interrupteur 1 activé
+Switch 1 de-activated
+Interrupteur 1 désactivé
+Switch 2 activated
+Interrupteur 2 activé
+Switch 2 de-activated
+Interrupteur 2 désactivé
+Switch 3 activated
+Interrupteur 3 activé
+Switch 3 de-activated
+Interrupteur 3 désactivé
+You spend time helping the Normal Leader in their Gym.
+Vous passez du temps à aider le Leader Normal dans son Arène.
+You don't understand everything, but you learn a bit anyway!
+Vous ne comprenez pas tout, mais apprenez un peu quand même !
+<b>Tristan:</b> Oho! Not too confused??
+<b>Tristan:</b> Oho ! Pas trop perdu ??
+<b>Tristan:</b> You seem fine...
+<b>Tristan:</b> T’as l’air d’aller bien…
+<b>Laurine:</b> Don't give up! You're nearly there!
+<b>Laurine:</b> N’abandonne pas ! Tu y es presque !
+<b>Laurine:</b> You need to find switch n°3!
+<b>Laurine:</b> Tu dois trouver l’interrupteur n°3 !
+The Normal leader looks at you with their strange eyes.
+Le Leader Normal vous regarde avec ses yeux bizarres
+The Normal Leader nods and you both take place for the battle.
+Le Leader Normal hoche la tête et vous prenez tous deux place pour le combat.
+The Normal Leader smiles to you and gets ready. You fell that they're telling you good luck!
+Le Leader Normal vous sourit et se prépare. Vous sentez qu’iel vous souhaite bonne chance !
+You got the Hive badge! \f[HIVEBADGE]
+Vous obtenez le Badge Ruche ! \f[HIVEBADGE]
+The normal Leader show you a "30" on a piece of paper.
+Le Leader Normal vous montre un “30” sur un morceau de papier.
+Then they show you a kind of luminous thing like a sun.
+Ensuite iel vous montre une chose lumineuse un peu comme un soleil.
+Suddenly they give you something!
+Soudainement iel vous donne quelque chose !
+You wonder why they didn't give you a Normal type TM... Maybe they wanted to be kind with you, the Bug Leader?
+Vous vous demandez pourquoi iel vous a pas donné une CT de type Normal… Iel voulait peut-être vous faire plaisir, vous le Leader Insecte ?
+The Normal Leader smiles and wave to you, might be saying goodbye. You say goodbye too.
+Le Leader Normal sourit et vous fait signe de la main, peut-être pour dire au revoir. Vous lui dites également au revoir.
+The Normal leader doesn't seem happy you speak to them from here.
+Le Leader Normal n’a pas l’air content que vous lui parliez depuis là.
+You should speak to them from the left side of the arena.
+Vous devriez lui parler depuis le côté gauche de l’arène.
+The Normal Leader seems happy to see you.
+Vous voir a l’air de mettre le Leader Normal de bonne humeur.
+You already gave a gift to the Normal Leader this week!
+Vous avez déjà offert un cadeau au Leader Normal cette semaine !
+<b>Marley?:</b> Hello challenger and welcome to the Normal Gym!
+<b>Marley?:</b> Bonjour challenger et bienvenue dans l’Arène Normal !
+<b>Marley?:</b> ...what? No my name is not Marley, why would that be? I'm Harvey!
+<b>Marley?:</b> ...quoi ? Non je ne m’appelle pas Marley, pourquoi je m’appellerais comme ça ? Je suis Harvey !
+<b>Harvey:</b> Anyway, to defeat this Gym you will like having Fighting type! It's the only weakness of Normal type!
+<b>Harvey:</b> Bref, pour battre cette Arène tu apprécieras les Pokémon Combat ! C’est la seule faiblesse du type Normal !
+<b>Harvey:</b> Having Rock, Steel or even Ghost Pokémons could also appear useful, defensively speaking.
+<b>Harvey:</b> Des Pokémon Roche, Acier ou même Spectre pourraient aussi être utiles, défensivement parlant.
+<b>Harvey:</b> To reach the Leader, you'll need to navigate a maze of treadmills, and activate switchs!
+<b>Harvey:</b> Pour atteindre le Leader, tu devras naviguer dans un labyrinthe de tapis roulants, et tu devras activer des interrupteurs !
+<b>Harvey:</b> If you are stuck, remember that you can also turn off switchs that you previously turned on...
+<b>Harvey:</b> Si tu es bloqué, n’oublie pas que tu peux aussi désactiver un interrupteur précédemment activé…
+<b>Harvey:</b> Good luck!
+<b>Harvey:</b> Bonne chance !
+<b>Harvey</b> If you are stuck, remember that you can also turn off switchs that you previously turned on...
+<b>Harvey:</b> Si tu es bloqué, n’oublie pas que tu peux aussi désactiver un interrupteur précédemment activé….
+Say you're ready to battle!
+Dire que vous êtes prêt à combattre !
+Say you're not ready yet.
+Dire que vous n’êtes pas prêt.
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir

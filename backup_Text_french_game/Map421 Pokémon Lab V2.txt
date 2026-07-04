@@ -1,0 +1,296 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map421]
+This machine can restore your tired Pokémon to full health.
+Cette machine peut soigner vos Pokémon.
+Would you like to rest your Pokémon?
+Voulez-vous les soigner ?
+Your Pokémons were completely healed !
+Vos Pokémon ont été complètement soignés !
+You use the machine to heal your exhausted Pokémons.
+Vous utilisez la machine pour soigner vos Pokémon.
+Be careful!
+Soyez prudents !
+It's some important looking folders...
+It's some important looking folders...
+It looks like some complex research papers...
+It looks like some complex research papers...
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie~
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie~
+<b>\c[5]Nurse:</b>\c[0] I'm staying here until the Pokémon Center is repaired.
+<b>\c[5]Nurse:</b>\c[0] I'm staying here until the Pokémon Center is repaired.
+<b>\c[5]Nurse:</b>\c[0] I can't thank Prof. Maple enough!
+<b>\c[5]Nurse:</b>\c[0] I can't thank Prof. Maple enough!
+<b>\c[5]Nurse:</b>\c[0] Here, take these to help you while the PokéCenter is closed.
+<b>\c[5]Nurse:</b>\c[0] Here, take these to help you while the PokéCenter is closed.
+You spend time helping Prof Maple in his lab.
+You spend time helping Prof Maple in his lab.
+You learn a lot!
+You learn a lot!
+<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
+<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
+<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
+<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
+<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
+<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
+<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded! Congratulations!
+<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded!  Congratulations!
+<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day! Your debut as a Gym Leader!
+<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day!  Your debut as a Gym Leader!
+<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
+<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
+<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
+<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
+<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
+<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
+<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
+<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
+<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
+<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
+<b>\c[10]Maple:</b>\c[0] Sleep well!
+<b>\c[10]Maple:</b>\c[0] Sleep well!
+<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
+<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
+You already gave a gift to Maple this week!
+Vous avez déjà offert un cadeau à Maple cette semaine !
+Do you want to sleep here? The weekend will be over!
+Voulez-vous dormir ici ? Le week-end sera terminé !
+Do you want to sleep here?
+Voulez-vous dormir ici ?
+Skip next morning?
+Passer la matinée ?
+<b>\c[10]Maple:</b>\c[0] Do you want to change your party?
+<b>\c[10]Maple:</b>\c[0] Do you want to change your party?
+<b>\c[10]Maple:</b>\c[0] Don't worry \pn, I made sure we got a challenger today.
+<b>\c[10]Maple:</b>\c[0] Don't worry \pn, I made sure we got a challenger today.
+<b>\c[10]Maple:</b>\c[0] I think that will be cool!
+<b>\c[10]Maple:</b>\c[0] I think that will be cool!
+A few moments later...
+A few moments later...
+\v[12] appeared!
+\v[12] appeared!
+...\| ...\| ...
+...\| ...\| ...
+Melly lost!
+Melly lost!
+<b>\r\v[12]:</b>\c[0]: So you really think you can already be a proper Gym Leader huh?
+<b>\r\v[12]:</b>\c[0]: So you really think you can already be a proper Gym Leader huh?
+<b>\r\v[12]:</b>\c[0]: Ha! Don't make me laugh!
+<b>\r\v[12]:</b>\c[0]: Ha! Don't make me laugh!
+<b>\r\v[12]:</b>\c[0]: I will remind you why you're nothing more that an mere impostor!
+<b>\r\v[12]:</b>\c[0]: I will remind you why you're nothing more that an mere impostor!
+Battle Start!
+Battle Start!
+<b>\r\v[12]:</b>\c[0]: Tsk! It's just beginner's luck! Get lucky while you can, loser!
+<b>\r\v[12]:</b>\c[0]: Tsk! It's just beginner's luck! Get lucky while you can, loser!
+<b>\r\v[12]:</b>\c[0]: Hahahaha what a loser! Cya!
+<b>\r\v[12]:</b>\c[0]: Hahahaha what a loser! Cya!
+<b>c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
+<b>c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
+<b>\c[10]Maple:</b>\c[0] Well, this will be enough for levelling up our fame!
+<b>\c[10]Maple:</b>\c[0] Well, this will be enough for levelling up our fame!
+<b>\c[10]Maple:</b>\c[0] Let's wait the end of the day.
+<b>\c[10]Maple:</b>\c[0] Let's wait the end of the day.
+The day ends...
+The day ends...
+<b>\c[10]Maple:</b>\c[0] Congratulations! Thanks to your work, we're finally at fame level 1!
+<b>\c[10]Maple:</b>\c[0] Congratulations! Thanks to your work, we're finally at fame level 1!
+<b>\c[10]Maple:</b>\c[0] As friday work is over, it's now the weekend.
+<b>\c[10]Maple:</b>\c[0] As friday work is over, it's now the weekend.
+<b>\c[10]Maple:</b>\c[0] You just unlocked a whole lot of city tasks to do, check it out!
+<b>\c[10]Maple:</b>\c[0] You just unlocked a whole lot of city tasks to do, check it out!
+<b>\c[10]Maple:</b>\c[0] Well, I think it's time for me to let you be on your own.
+<b>\c[10]Maple:</b>\c[0] Well, I think it's time for me to let you be on your own.
+<b>\c[10]Maple:</b>\c[0] I spoke a lot to you and "held your hand", I hope you didn't find it annoying.
+<b>\c[10]Maple:</b>\c[0] I spoke a lot to you and "held your hand", I hope you didn't find it annoying.
+<b>\c[10]Maple:</b>\c[0] I just wanted to make sure everything was clear for you.
+<b>\c[10]Maple:</b>\c[0] I just wanted to make sure everything was clear for you.
+<b>\c[10]Maple:</b>\c[0] From now on, do what you want to do.
+<b>\c[10]Maple:</b>\c[0] From now on, do what you want to do.
+<b>\c[10]Maple:</b>\c[0] Don't forget to plan tasks for the week during the weekend.
+<b>\c[10]Maple:</b>\c[0] Don't forget to plan tasks for the week during the weekend.
+<b>\c[10]Maple:</b>\c[0] Do not hesitate to speak to the ones in your Social Links during the weekend, spend time with them or even give them gifts.
+<b>\c[10]Maple:</b>\c[0] Do not hesitate to speak to the ones in your Social Links during the weekend, spend time with them or even give them gifts.
+<b>\c[10]Maple:</b>\c[0] The last thing I want to tell you:
+<b>\c[10]Maple:</b>\c[0] The last thing I want to tell you:
+<b>\c[10]Maple:</b>\c[0] Our goal is to bring back the Gym to its former glory.
+<b>\c[10]Maple:</b>\c[0] Our goal is to bring back the Gym to its former glory.
+<b>\c[10]Maple:</b>\c[0] In other terms, to get it back to rank 12!
+<b>\c[10]Maple:</b>\c[0] In other terms, to get it back to rank 12!
+<b>\c[10]Maple:</b>\c[0] If you don't rank up, your fame level will soon be limited anyway.
+<b>\c[10]Maple:</b>\c[0] If you don't rank up, your fame level will soon be limited anyway.
+<b>\c[10]Maple:</b>\c[0] In order to ask for a rank up battle, you have to :
+<b>\c[10]Maple:</b>\c[0] In order to ask for a rank up battle, you have to :
+<b>\c[10]Maple:</b>\c[0] 1) Get the badge of the fellow Gym Leader you will battle.
+<b>\c[10]Maple:</b>\c[0] 1) Get the badge of the fellow Gym Leader you will battle.
+<b>\c[10]Maple:</b>\c[0] 2) Get to a certain fame level.
+<b>\c[10]Maple:</b>\c[0] 2) Get to a certain fame level.
+<b>\c[10]Maple:</b>\c[0] 3) A third objective is often given to you.
+<b>\c[10]Maple:</b>\c[0] 3) A third objective is often given to you.
+<b>\c[10]Maple:</b>\c[0] I will give you your Main rank up quests, don't worry. Let me be the man who speak to the League.
+<b>\c[10]Maple:</b>\c[0] I will give you your Main rank up quests, don't worry. Let me be the man who speak to the League.
+<b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.
+<b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.
+<b>\c[10]Maple:</b>\c[0] As a last gift, let me give you this:
+<b>\c[10]Maple:</b>\c[0] As a last gift, let me give you this:
+<b>\c[10]Maple:</b>\c[0] With this, you can cut little trees, allowing you access to various places.
+<b>\c[10]Maple:</b>\c[0] With this, you can cut little trees, allowing you access to various places.
+<b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
+<b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
+It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
+It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
+Machine de débug lancée.
+Machine de débug lancée.
+Que voulez-vous faire ?
+Que voulez-vous faire ?
+La save est déjà convertie, aucune action nécessaire.
+La save est déjà convertie, aucune action nécessaire.
+Attention : ceci est un utilitaire réinitialisant certaines variables pour éviter certains crashs.
+Attention : ceci est un utilitaire réinitialisant certaines variables pour éviter certains crashs.
+A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
+A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
+<b>Jon:</b> Hello \v[12]!
+<b>Jon:</b> Bonjour \v[12] !
+<b>Jon:</b> ...
+<b>Jon:</b> ...
+<b>Jon:</b> ...what? You're not \v[12]?
+<b>Jon:</b> ...quoi ? Tu n’es pas \v[12] ?
+<b>Jon:</b> Gosh sorry \pn, I lost my glasses while investigating this earthquake.
+<b>Jon:</b> Ohlala désolé \pn, j’ai perdu mes lunettes en enquêtant sur le séisme.
+<b>Jon:</b> I have these spare glasses but it's not exactly the good correction so it's really hard for me to see right...
+<b>Jon:</b> J’ai cette paire de rechange mais c’est pas tout à fait la bonne correction donc j’y vois pas vraiment clair…
+<b>Jon:</b> If you see my glasses, can you bring it back to me? I will offer you something useful!
+<b>Jon:</b> Si tu vois mes lunettes, tu peux me les ramener ? Je t’offrirai quelque chose d’utile !
+<b>Jon:</b> What? You found my glasses already?
+<b>Jon:</b> Hein ? T’as déjà trouvé mes lunettes ?
+You give the glasses to Jon.
+Vous donnez à Jon ses lunettes.
+<b>Jon:</b> Thank you very much \pn! Thanks to you I see clearly again!
+<b>Jon:</b> Merci beaucoup \pn ! Grâce à toi je vois clair à nouveau !
+<b>Jon:</b> Back to work for me! Oh and before I forget, here is your reward!
+<b>Jon:</b> Retour au travail pour moi ! Oh et avant que j’oublie, voici ta récompense !
+<b>Jon:</b> With this you surely can complete the Pokedex easier no?
+<b>Jon:</b> Avec ça tu vas pouvoir compléter le Pokédex plus facilement non ?
+<b>Jon:</b> Anyway, thank you again and see you around!
+<b>Jon:</b> En tout cas, merci encore et à la revoyure !
+<b>Jon:</b> Hello emmm... Oh! It's you \pn sorry. Did you find my glasses?
+<b>Jon:</b> Bonjour euuhhh... Oh ! C’est toi \pn pardon. Tu as trouvé mes lunettes ?
+<b>Jon:</b> Thank you again and see you around!
+<b>Jon:</b> Merci encore et à la revoyure !
+<b>Jon:</b> I will wait here!
+<b>Jon:</b> J’attendrai ici !
+<b>Jon:</b> Hello \pn! Keep up the good work!
+<b>Jon:</b> Bonjour \pn ! Continue de bien travailler !
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+This is a big and complex machine. Perhaps you should ask for Maple's help?
+This is a big and complex machine. Perhaps you should ask for Maple's help?
+This machine can revive a Pokémon from its fossil.
+Cette machine peut ressuciter un Pokémon à partir de son fossile.
+Do you want to put a fossil in the machine?
+Voulez-vous mettre un fossile dans la machine ?
+The machine is processing the fossil...
+La machine est en plein traitement du fossile...
+Finished!
+Terminé !
+<b>Franck:</b> Hello \pn!
+<b>Franck:</b> Bonjour \pn!
+<b>Franck:</b> Prof. Maple gave me a bed here so I can rest.
+<b>Franck:</b> Le Prof Maple m’a donné un lit ici pour que je puisse me reposer.
+<b>Franck:</b> So I'm just enjoying the weekend!
+<b>Franck:</b> Donc je profite juste du week-end !
+<b>Franck:</b> How are you \pn?
+<b>Franck:</b> Comment vas-tu \pn?
+<b>Pat:</b> Oh hello! I'm Pat, the new scientist!
+<b>Pat:</b> Oh bonjour ! Je suis Pat, le nouveau scientifique !
+<b>Pat:</b> ...so that's you, our Gym Leader! Greetings! Prof Maple spoke a lot about you.
+<b>Pat:</b> …donc c’est toi notre Champion d’Arène ? Enchanté ! Le Prof Maple m’a beaucoup parlé de toi.
+<b>Pat:</b> I joined the team to be the IT specialist. Maple and Jon clearly needed a hand on this subject...
+<b>Pat:</b> J’ai rejoint l’équipe pour être l’expert informatique. Maple et Jon avaient clairement besoin d’un coup de main sur ce sujet…
+<b>Pat:</b> Speaking of this, can you help me?
+<b>Pat:</b> En parlant de ça, tu peux m’aider ?
+<b>Pat:</b> Did you came accross some shards while mining glowing rocks?
+<b>Pat:</b> Tu es déjà tombé sur des Tessons en minant des rochers luisants ?
+<b>Pat:</b> We discovered that these shards emitted a faint amount of energy, depending on their colors.
+<b>Pat:</b> On a découvert que ces Tessons émettaient une petite quantité d'énergie, dépendant de leur couleur.
+<b>Pat:</b> It means yellow shards can actually produce some electricity!
+<b>Pat:</b> Cela signifie que les Tessons Jaunes peuvent produire de l’électricité !
+<b>Pat:</b> I'm currently working on an improved version of your Pokegear, requested by Maple.
+<b>Pat:</b> Je suis en train de travailler sur une version améliorée du Pokegear, sur demande de Maple.
+<b>Pat:</b> It would allows you to consult the Town State App, showing you various infos on the town.
+<b>Pat:</b> Cela te permettrait de consulter l’Appli “Etat de la Ville”, te montrant diverses infos sur la ville.
+<b>Pat:</b> Like your funds, workers, fame, what do you gain every week...
+<b>Pat:</b> Comme les fonds, les ouvriers, la Fame, les gains hebdomadaires…
+<b>Pat:</b> But for this I need more yellow shards! Can you give me 5 of them?
+<b>Pat:</b> Mais pour cela j’ai besoin de plus de Tessons Jaunes ! Peux-tu m’en donner 5 ?
+You already have 5 yellow shards! Do you want to give it to Pat?
+Vous avez déjà 5 Tessons jaunes ! Voulez-vous les donner à Pat ?
+<b>Pat:</b> What? You already have 5 yellow shards? Lucky me!
+<b>Pat:</b> Quoi ? Tu as déjà 5 Tessons Jaunes ? J’en ai de la chance !
+You give the shards to Pat.
+Vous donnez les Tessons à Pat.
+<b>Pat:</b> Okay well, let me just install everything...
+<b>Pat:</b> Ok alors laisse moi juste tout installer…
+A few minutes later...
+Quelques minutes plus tard…
+<b>Pat:</b> It's done! It works really well, check it out!
+<b>Pat:</b> C’est fait ! Et ça marche vraiment bien, regarde !
+Pokegear updated!
+Pokegear amélioré !
+<b>Pat:</b> Well thank you for your help! These shards will be very useful to me!
+<b>Pat:</b> Eh bien merci pour ton aide ! Ces Tessons me seront très utiles !
+<b>Pat:</b> ...what? No I didn't need all 5 for your Pokegear haha, only one! But thank you for your help!
+<b>Pat:</b> ...quoi ? Non j’avais pas besoin des 5 pour ton Pokegear haha, seulement un ! Mais merci pour ton aide !
+<b>Pat:</b> Thanks a lot for your help!
+<b>Pat:</b> Merci beaucoup pour ton aide !
+<b>Pat:</b> Hello \pn, how are you? Found enough yellow shards yet?
+<b>Pat:</b> Bonjour \pn, comment vas-tu ? Tu as trouvé assez de Tessons Jaunes ?
+You have 5 yellow shards! Do you want to give it to Pat?
+Vous avez 5 Tessons Jaunes ! Voulez-vous les donner à Pat ?
+<b>Pat:</b> You have 5 yellow shards? Okay good, give me!
+<b>Pat:</b> Tu as 5 Tessons Jaunes ? Ok super, donne !
+<b>Pat:</b> No? No problem, I will wait here!
+<b>Pat:</b> Non ? Aucun soucis, j’attends ici !
+<b>Pat:</b> Hello \pn, how are you? Is your Pokegear working well?
+<b>Pat:</b> Bonjour \pn, comment vas-tu ? Ton Pokegear marche bien ?
+See a tutorial
+Voir un tutoriel
+But why was it in a trash tho??
+Mais pourquoi c’était dans une poubelle ??
+Yes
+Oui
+No
+Non
+Quest
+Quête
+Give gift
+Offrir cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+Do not change party
+Ne pas changer d’équipe
+Change party
+Changer d’équipe
+Convertir save pré-0.1.5
+Convertir save pré-0.1.5
+Initialiser variables
+Initialiser variables
+Au revoir
+Au revoir
+Oups alors non
+Oups alors non
+Je sais ce que je fais
+Je sais ce que je fais
+Social Links
+Liens Sociaux
+Resume & Pokedex
+Résumé et Pokédex
+Quests
+Quêtes
+Time System
+Cycle de temps
+Nekanta Map
+Carte de Nekanta

@@ -1,0 +1,66 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map224]
+There is only trash in there...
+Il n’y a que des déchets là-dedans…
+<b>Man:</b> Just taking a break before going again!
+<b>Homme:</b> Je prends juste une pauve avant d’y retourner !
+<b>Man:</b> It's important to stay hydrated! Take this!
+<b>Homme:</b> C’est important de rester hydraté ! Prends ça !
+<b>Man:</b> Just stay hydrated!
+<b>Homme:</b> Reste bien hydraté !
+<b>Ben:</b> Sigh... I wanted to go train in Tlingit but I don't have a pass...
+<b>Ben:</b> Pfff… Je voulais m'entraîner en Tlingit mais je n’ai pas de pass…
+<b>Ben:</b> Aren't you a trainer? Maybe we can train together!
+<b>Ben:</b> Es-tu un dresseur ? Peut-être pouvons nous nous entraîner ensemble !
+<b>Ben:</b> Come talk to me when you want to battle. But you better be ready!
+<b>Ben:</b> Viens me parler quand tu voudras combattre. Mais sois bien prêt !
+You got your first red quest! These are \c[2]<b>battle quest</b>\c[0].
+Vous avez obtenu votre première quête rouge ! Ce sont des \c[2]<b>quêtes de combat</b>\c[0].
+They require you to win a battle in order to complete the quest.
+Vous devez gagner un combat pour valider la quête.
+To make sure you don't run into something out of your reach, you can see the recommended level on your quest log.
+Pour être sûr de ne pas foncer dans quelque chose hors de votre portée, vous piouvez voir le niveau conseillé dans la liste des quêtes.
+<b>Ben:</b> Are you sure you're ready to face me?
+<b>Ben:</b> Es-tu sûr de vouloir m’affronter ?
+<b>Ben:</b> Don't hold back!
+<b>Ben:</b> Ne retiens pas tes coups !
+<b>Ben:</b> Heh! You're pretty strong!
+<b>Ben:</b> Heh ! T’es plutôt fort !
+<b>Ben:</b> Thank you for sparring with me. I will try to obtain this pass later.
+<b>Ben:</b> Merci pour le combat d’entraînement. Je vais essayer d’obtenir ce pass.
+<b>Ben:</b> Here, have this powerful TM as a thanks!
+<b>Ben:</b> Tins, prends cette puissante CT comme remerciement !
+<b>Ben:</b> See ya!
+<b>Ben:</b> A plus !
+<b>Ben:</b> Heh! Bette safe than sorry right?
+<b>Ben:</b> Heh ! Mieux vaut prévenir que guérir hein ?
+<b>Ben:</b> How are you?
+<b>Ben:</b> Comment vas-tu ?
+<b>Policeman:</b> Welcome to Tlingit, our beautiful country!
+<b>Policeman:</b> Bienvenue en Tlingit, notre beau pays !
+<b>Policeman:</b> Hey! Don't prank me!
+<b>Policeman:</b> Hey ! Pas de farces !
+<b>Policeman:</b> Have a great day citizen!
+<b>Policeman:</b> Passez une bonne journée, citoyen !
+<b>Policeman:</b> Please don't come behind the counter dear citizen!
+<b>Policeman:</b> Merci de ne pas venir derrière le comptoir cher citoyen !
+<b>Kid:</b> Daaaaaad! I'm bored!
+<b>Enfant:</b> Papaaaaaa ! Je m’ennuie !
+<b>Policeman:</b> Hello! By continuing this way you'll reach the independant country of Tlingit.
+<b>Policeman:</b> Bonjour ! En continuant par là vous atteindrez le pays indépendant de Tlingit.
+<b>Policeman:</b> A Tlingit pass is required to enter. May I see yours?
+<b>Policeman:</b> Un pass Tlingit est requis pour entrer. Puis-je voir le vôtre ?
+You show your Tlingit pass to the policeman.
+Vous montrez votre pass Tlingit au policier.
+<b>Policeman:</b> Excellent! Stay safe during your trip!
+<b>Policeman:</b> Excellent ! Soyez prudent durant votre voyage !
+<b>Policeman:</b> No? Then sorry citizen but I can't let you proceed.
+<b>Policeman:</b> Non ? Alors désolé citoyen mais je ne peux pas vous laisser passer.
+<b>Man:</b> Hold on kid, I'm sure my boarding pass is somewhere...
+<b>Homme:</b> Attends fils, je suis sur que mon pass Tlingit est quelque part…
+Yes
+Oui
+No
+Non

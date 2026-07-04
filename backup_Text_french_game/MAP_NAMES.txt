@@ -1,0 +1,344 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MAP_NAMES]
+Intro
+Intro
+Route 1
+Route 1
+Route 2
+Route 2
+Pokémon Lab
+Labo Pokémon
+TN
+TN
+Route 3
+Route 3
+Route 4 (east)
+Route 4 (est)
+Route 4 (west)
+Route 4 (ouest)
+Route 5
+Route 5
+Your Gym
+Votre arène
+Route 6
+Route 6
+Dena Town
+Dena Town
+Route 7
+Route 7
+Route 8
+Route 8
+Melly's house
+Maison de Melly
+Department Store
+Centre Commercial
+Route 9
+Route 9
+Route 10
+Route 10
+Route 11
+Route 11
+Casino
+Casino
+Your house
+Votre maison
+Route 12
+Route 12
+Pokémon center
+Centre Pokémon
+Route 13
+Route 13
+Greymoose Dojo
+Greymoose Dojo
+Route 14
+Route 14
+Route 15
+Route 15
+Route 16
+Route 16
+Route 17
+Route 17
+Pokémon Academy
+Académie de Dresseurs
+Block 1
+Immeuble 1
+Cafe
+Cafe
+Restaurant
+Restaurant
+NPC House 2
+Maison PNJ 2
+NPC House 3
+Maison PNJ 3
+NPC Block 2
+Immeuble 2
+Hotel
+Hôtel
+NPC House 4
+Maison PNJ 4
+Radio Tower
+Tour Radio
+Safari reception
+Accueil du Safari
+Dock hangar
+Hangar du port
+Lighthouse
+Phare
+Route 18
+Route 18
+Route 19
+Route 19
+Titaga PC
+Titaga PC
+Route 20
+Route 20
+Route 21
+Route 21
+Route 22
+Route 22
+Route 23
+Route 23
+Route 24
+Route 24
+Route 25
+Route 25
+Route 26
+Route 26
+Route 27
+Route 27
+Route 28
+Route 28
+Assiniboia Desert
+Désert d'Assiniboia
+Sea Route A
+Chenal A
+Sea Route B
+Chenal B
+Sea Route C
+Chenal C
+Sea Route D
+Chenal D
+Sea Route E
+Chenal E
+Sea Route F
+Chenal F
+Channel F - far south center
+Chenal F - centre extreme sud
+Sea Route G
+Chenal G
+Sea Route H
+Chenal H
+Channel H - south east
+Chenal - sud est
+Sea Route I
+Chenal I
+Forest 1 - overworld
+Forêt 1 - overworld
+Gr.Lush Forest (east)
+Forêt Verdoyante (est)
+Tlingit Gates
+Portes de Tlingit
+Forest 2 - overworld
+Forêt 2 - overworld
+Forest 3 - overworld
+Forêt 3 - overworld
+Forest 4 - overworld
+Forêt 4 - overworld
+Gr.Lush Forest (west)
+Forêt Verdoyante (ouest)
+Cave 2 - overworld
+Grotte 2 - overworld
+Cave 3 - overworld
+Grotte 3 - overworld
+Cave 4 - overworld
+Grotte 4 - overworld
+Cave 5 - overworld
+Grotte 5 - overworld
+Cave 6 - overworld
+Grotte 6 - overworld
+Dragon altar
+Autel des Dragons
+Central Town
+Ville Centrale
+Sombake
+Sombake
+Greymoose
+Greymoose
+Camosack
+Camosack
+Titaga
+Titaga
+Wascana
+Wascana
+Winnipy
+Winnipy
+Adawe
+Adawe
+Nashwak
+Nashwak
+Moonyang
+Moonyang
+Ediacaran
+Ediacaran
+Underwater observation settlement
+Centre d'observation des fonds marins
+Iqaluit
+Iqaluit
+Dragon's Peak
+Pic du Dragons
+???
+???
+Mystery Path - north west
+Chemin Mystère - nord ouest
+Tlingit Route 1
+Tlingit Route 1
+Alutiiq Town
+Alutiiq
+Tlingit Route 2
+Tlingit Route 2
+Tlingit Route 3
+Tlingit Route 3
+Far Islands Jetty
+Embarcadère des Îles Lointaines
+Far Islands Sea Route
+Îles Lointaines Chenal
+Far Islands Route 1
+Îles Lointaines Route 1
+Far Islands Route 2
+Îles Lointaines Route 2
+Tinganes
+Tinganes
+Nunaat departure jetty
+Embarcadère vers Nunaat
+Nunaat arrival jetty
+Embarcadère de Nunaat
+Nunaat Route 1
+Nunaat Route 1
+Kangerlua
+Kangerlua
+Nunaat cave
+Nunaat Grotte
+Nunaat Route 2
+Nunaat Route 2
+Nunaat forest
+Nunaat Forêt
+Nunaat Sea Route
+Nunaat Chenal
+Gardari Route 1
+Gardari Route 1
+Vik
+Vik
+Gardari Route 2
+Gardari Route 2
+Gardari Sea Route
+Gardari Chenal
+Fisherman's hut
+Hutte du Pêcheur
+Geodude Pit
+Fosse Racaillou
+Central Town PC
+Ville Centrale - CP
+Central Town Mart
+Ville Centrale - Magasin
+Central Town House
+Ville Centrale - Maison
+Pokémon League
+League Pokémon
+Cycling road entry - east
+Piste Cyclable - entrée est
+Rank Up Arena
+Arène de Rang
+Day-Care
+Day-Care
+Power Tunnel
+Tunnel Energie
+Sombake PC
+Sombake - CP
+Sombake Mart
+Sombake - Magasin
+Sombake House A
+Sombake - Maison A
+Sombake House B
+Sombake - Maison B
+Sombake House C
+Sombake - Maison C
+Sombake House D
+Sombake - Maison D
+Firefly Cave
+Grotte aux Lucioles
+Unknown tunnel
+Tunnel Inconnu
+Normal Gym
+Arène Normale
+Bug Gym
+Arène Insecte
+Greymoose House A
+Greymoose - Maison A
+Greymoose House B
+Greymoose - Maison B
+Greymoose House C
+Greymoose - Maison C
+Greymoose House D
+Greymoose - Maison D
+Greymoose House E
+Greymoose - Maison E
+Greymoose House F
+Greymoose - Maison F
+Greymoose Bighouse A
+Greymoose - Grande Maison A
+Greymoose Bighouse B
+Greymoose - Grande Maison B
+Greymoose Bighouse C
+Greymoose - Grande Maison C
+Greymoose Underground
+Greymoose - Souterrains
+Greymoose Townhouse
+Greymoose - Centre communautaire
+Greymoose PC
+Greymoose - CP
+Greymoose Shop
+Greymoose - Boutique
+Greymoose Berry Shop
+Greymoose - Boutique de Baies
+Grey Mines
+Mines Grises
+Grey Mines Tunnel
+Mines Grises - Tunnel
+Grey Mines Depths
+Mines Grises - Profondeurs
+Absolution Base
+Base Absolution
+Wetland Cave
+Grotte Détrempée
+Dark Tunnel
+Tunnel Sombre
+Rock Gym
+Arène Roche
+Camosack PC
+Camosack PC
+Camosack Gift Shop
+Camosack Gift Shop
+Camosack Villa
+Camosack Villa
+Camosack Grand Hotel
+Camosack Grand Hotel
+Safari Zone
+Safari Zone
+Titaga Shop
+Titaga Shop
+Flowery Shop
+Flowery Shop
+Titaga House A
+Titaga House A
+Titaga House B
+Titaga House B
+Titaga House C
+Titaga House C
+Grass Gym
+Grass Gym
+Route 13 - Underground
+Route 13 - Underground
+Soul Shelter
+Soul Shelter

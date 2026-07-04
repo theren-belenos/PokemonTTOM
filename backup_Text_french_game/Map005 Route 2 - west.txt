@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map005]
+<b>Victor:</b> Heading to Green Lush Forest? I heard there are cool bugs there!
+<b>Victor:</b> Tu vas vers la Forêt Verdoyante ? Il paraît qu’il a des insectes cools là-bas !
+<b>Victor:</b> Good luck catching the bugs!
+<b>Victor:</b> Bonne chance pour capturer ces insectes !
+<b>Natalie:</b> Aren't those flowers beautiful?
+<b>Natalie:</b> Elles sont pas belles ces fleurs ?

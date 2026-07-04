@@ -1,0 +1,130 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map048]
+You spend time helping the nurses in the Pokémon Center.
+Vous passez du temps à aider les infirmières dans le Centre Pokémon.
+You learn a lot!
+Voous apprenez plein de choses !
+You spend time with the Blisseys of the Pokémon Center.
+Vous passez du temps avec les Leuphorie du Centre Pokémon.
+They're so soft and cute!
+Ils sont si doux et mignons !
+<b>Jeremy:</b> Oy \pn can you help me?
+<b>Jeremy:</b> Oy \pn peux-tu m’aider ?
+<b>Jeremy:</b> I lost my notebook somewhere in the Green Lush Forest.
+<b>Jeremy:</b> J’ai perdu mon carnet quelque part dans la Forêt Verdoyante.
+<b>Jeremy:</b> Can you help me find it?
+<b>Jeremy:</b> Tu peux essayer de le retrouver ?
+<b>Jeremy:</b> Thank you \pn! I will reward you of course!
+<b>Jeremy:</b> Merci \pn ! Je te récompenserai bien sûr !
+<b>Jeremy:</b> Oh... Well, I heard you are busy nowadays, it's ok...
+<b>Jeremy:</b> Oh… Eh bien, j’ai entendu dire que tu était occupé en ce moment, pas de soucis…
+<b>Jeremy:</b> Did you change your mind?
+<b>Jeremy:</b> T’as changé d’avis ?
+<b>Jeremy:</b> Can you find my lost notebook in the Green Lush Forest ?
+<b>Jeremy:</b> Est-ce que tu peux retrouver mon carnet dans la Forêt Verdoyante ?
+<b>Jeremy:</b> Did you find my notebook yet?
+<b>Jeremy:</b> T’as déjà trouvé mon carnet ?
+You give the notebook to Jeremy.
+Vous donnez le carnet à Jeremy.
+<b>Jeremy:</b> Thank you very much \pn! This notebook is very important for me!
+<b>Jeremy:</b> Merci beaucoup \pn ! Ce carnet est très important pour moi !
+<b>Jeremy:</b> Here is your reward!
+<b>Jeremy:</b> Voici ta récompense !
+<b>Jeremy:</b> Thank you again and see you around!
+<b>Jeremy:</b> Merci encore et à bientôt !
+<b>Jeremy:</b> I will wait here!
+<b>Jeremy:</b> J’attendrai ici !
+<b>Jeremy:</b> Hey \pn, how are you?
+<b>Jeremy:</b> Hey \pn, comment vas-tu ?
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, do you wanna hear my explanations again?
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, do you wanna hear my explanations again?
+<b>\c[5]Nurse:</b>\c[0] You are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] You are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] If you check the screen just left of me, you will see general achievements.
+<b>\c[5]Nurse:</b>\c[0] If you check the screen just left of me, you will see general achievements.
+<b>\c[5]Nurse:</b>\c[0] The screen at the right contains acheivements about completing Pokédex.
+<b>\c[5]Nurse:</b>\c[0] The screen at the right contains acheivements about completing Pokédex.
+<b>\c[5]Nurse:</b>\c[0] You'll get exclusive rewards for reaching 25%, 50% and 100% for each of these achievements! Good luck!
+<b>\c[5]Nurse:</b>\c[0] You'll get exclusive rewards for reaching 25%, 50% and 100% for each of these achievements! Good luck!
+<b>\c[5]Nurse:</b>\c[0] Good day to you!
+<b>\c[5]Nurse:</b>\c[0] Good day to you!
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, here you are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, here you are at the achievements center, created by Maple specially for you!
+<b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go upstairs for now.
+<b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas monter pour l’instant.
+<b>\c[5]Nurse:</b>\c[0] It still need repairs.
+<b>\c[5]Infirmière:</b>\c[0] Il y a encore besoin de réparations.
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
+<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, bienvenue au Centre Pokémon.
+<b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
+<b>\c[5]Infirmière:</b>\c[0] Nous pouvons soigner tes Pokémon.
+<b>\c[5]Nurse:</b>\c[0] Would you like to rest your Pokémon?
+<b>\c[5]Infirmière:</b>\c[0] Veux-tu les soigner ?
+<b>\c[5]Nurse:</b>\c[0] OK, I'll take your Pokémon for a few seconds.
+<b>\c[5]Infirmière:</b>\c[0] OK, je vais prendre tes Pokémons quelques instants.
+<b>\c[5]Nurse:</b>\c[0] Thank you for waiting.
+<b>\c[5]Infirmière:</b>\c[0] Merci d’avoir patienté.
+<b>\c[5]Nurse:</b>\c[0] We've restored your Pokémon to full health.
+<b>\c[5]Infirmière:</b>\c[0] Tes Pokémon sont en pleine forme.
+<b>\c[5]Nurse:</b>\c[0] Take care of you sweetie!
+<b>\c[5]Infirmière:</b>\c[0] Prends soin de toi trésor !
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, how are you?
+<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, comment vas-tu ?
+You already gave a gift to the nurses this week!
+Vous avez déjà offert un cadeaux aux infirmières cette semaine !
+<b>\c[5]Nurse:</b>\c[0] First, you should restore your Pokémon to full health.
+<b>\c[5]Infirmière:</b>\c[0] Tout d’abord, soignons tes Pokémon
+<b>\c[5]Nurse:</b>\c[0] Your Pokémon have been healed to perfect health.
+<b>\c[5]Infirmière:</b>\c[0] Tes Pokémon sont en pleine forme.
+<b>\c[5]Nurse:</b>\c[0] Take care sweetie!
+<b>\c[5]Infirmière:</b>\c[0] Sois prudent trésor !
+<b>\c[5]Nurse:</b>\c[0] Oh! Come here sweetie~
+<b>\c[5]Infirmière:</b>\c[0] Oh ! Viens voir mon trésor~
+<b>\c[5]Nurse:</b>\c[0] Us nurses want to help you on your mission!
+<b>\c[5]Infirmière:</b>\c[0] Nous les infirmières voulons t’aider dans ta mission !
+<b>\c[5]Nurse:</b>\c[0] We have a very special gift for you~
+<b>\c[5]Infirmière:</b>\c[0] Nous avons un cadeau très spécial pour toi~
+<b>\c[5]Nurse:</b>\c[0] The Life Vial can heal and revive all of your Pokémons even when you're out in the wild!
+<b>\c[5]Infirmière:</b>\c[0] La Fiole de Vie peut soigner complètement tous tes Pokémon lorsque tu es en voyage !
+<b>\c[5]Nurse:</b>\c[0] Isn't it marvelous?
+<b>\c[5]Infirmière:</b>\c[0] N’est-ce pas fabuleux ?
+<b>\c[5]Nurse:</b>\c[0] To use it, go to your bag's key items pocket.
+<b>\c[5]Infirmière:</b>\c[0] Pour l’utiliser, va dans la poche d’objets clés de ton sac.
+<b>\c[5]Nurse:</b>\c[0] You can also register it like a rod or a bicycle to use it with the quick menu.
+<b>\c[5]Infirmière:</b>\c[0] Tu peux aussi l’enregistrer pour l’utiliser dans le menu rapide, comme pour une canne ou un vélo.
+<b>\c[5]Nurse:</b>\c[0] You can access the quick menu with the SPECIAL button (default : D)
+<b>\c[5]Infirmière:</b>\c[0] Tu peux accéder au menu rapide avec le bouton SPECIAL (par défaut : D)
+<b>\c[5]Nurse:</b>\c[0] You can only use it once for now, but maybe if we get to know you better, we could try to improve it..
+<b>\c[5]Infirmière:</b>\c[0] Tu ne peux l’utiliser qu’une seule fois pour le moment, mais si on apprend à mieux se connaître, on pourrait essayer de l’améliorer…
+<b>\c[5]Nurse:</b>\c[0] To replenish it, just go heal your Pokémons in any Pokémon Center!
+<b>\c[5]Infirmière:</b>\c[0] Pour la remplir, va juste soigner tes Pokémon dans n’importe quel Centre Pokémon !
+<b>\c[5]Nurse:</b>\c[0] We hope you enjoy your gift, see you soon~
+<b>\c[5]Infirmière:</b>\c[0] On espère que tu apprécieras ton cadeau, à bientôt~
+<b>Jason:</b> Hello \pn! Will you play with me sometime?
+<b>Jason:</b> Salut \pn ! Tu viendras jouer avec moi ?
+<b>Skitty:</b> Skiiiiii!
+<b>Skitty:</b> Skiiiiii!
+<b>Daniel:</b> Hello \pn, have a bright day!
+<b>Daniel:</b> Bonjour \pn, passe une bonne journée !
+<b>Happiny:</b> Pibilipibili !!!
+<b>Ptiravi:</b> Pibilipibili !!!
+Happiny seems really happy to hang out on top of the counter!
+Ptiravi a l’air très content de se balader sur le comptoir !
+<b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go to the upper part for now.
+<b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas aller à l’étage pour le moment.
+Yes
+Oui
+No
+Non
+Heal team
+Soigner Pokémon
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir

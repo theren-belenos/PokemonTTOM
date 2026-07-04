@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map242]
+<b>Kid:</b> Daddy!!! This thing is so very huge!!
+<b>Enfant:</b> Papa !!! Ce truc est super trop gigantesque !!
+<b>Man:</b> It's the most important building of the country for the trainers : the Pokémon League!
+<b>Homme:</b> C'est le bâtiment le plus important du pays pour les dresseurs : La Ligue Pokémon !
+<b>Tourist:</b> So that's the infamous Central Town huh ?
+<b>Touriste:</b> Donc voici la fameuse Ville Centrale hum ?
+<b>Tourist:</b> ...Isn't it a bit small ?
+<b>Touriste:</b> ...c'est pas un peu petit ?

@@ -1,0 +1,26 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map009]
+<b>Kid:</b> Hehe! Look at me granny!
+<b>Enfant:</b> Hihi ! Regarde moi mamie !
+<b>Neil:</b> Don't scare the fishes!
+<b>Neil:</b> N'effraie pas les poissons !
+<b>Neil:</b> Shhhhhhhh!
+<b>Neil:</b> Chuuuuuuut !
+<b>Kid:</b> I think gramps fell asleep as usual!
+<b>Enfant:</b> Je crois que papy s’est encore endormi !
+You spend time listening to music with Marley in a park.
+Vous passez du temps avec Marley à écouter de la musique.
+He has great taste!
+Il a vraiment bon goût !
+<b>Kid:</b> I think there is something over there...
+<b>Enfant:</b> Je crois qu’il y a quelque chose là bas...
+<b>Elder:</b> Do not wander too far, kids!
+<b>Mamie:</b> N’allez pas trop loin les enfants !
+<b>Lana:</b> Biking is good for your lungs!
+<b>Lana:</b> Le vélo, c'est bon pour les poumons !
+<b>Lana:</b> You should go cycling too!
+<b>Lana:</b> Tu devrais faire du vélo toi aussi !
+<b>Elder:</b> ZZZZzzzzz.....
+<b>Papy:</b> ZZZZzzzzz.....

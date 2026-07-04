@@ -1,0 +1,44 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map045]
+<b>Guard:</b> Hello, oh you have something for me?
+<b>Garde:</b> Bonjour, oh tu as quelque chose pour moi ?
+You give the Father's Lunch.
+Vous donnez le Repas du Papa.
+<b>Guard:</b> So that's you! Thanks a lot, I won't starve now haha!
+<b>Garde:</b> Alors c'est toi ! Merci beaucoup, finalement je ne mourrai pas de faim haha !
+<b>Guard:</b> Sorry for the inconvenience. Let me give you this as a thanks.
+<b>Garde:</b> Désolé pour le dérangement. Laisse moi te donner ça pour te remercier.
+<b>Guard:</b> I like to fish sometimes when there is no one around... Don't tell my boss!
+<b>Garde:</b> J'aime bien pêcher de temps en temps quand personne n'est dans le coin... Le dis pas à mon chef !
+<b>Guard:</b> Thanks again and see you around!
+<b>Garde:</b> Merci encore et à bientôt !
+<b>Guard:</b> Hello, behind me is Camosack, the Resort Center.
+<b>Garde:</b> Bonjour, derrière moi est l'entrée de Camosack, la station balnéaire.
+<b>Guard:</b> It's a private property ; you need an invitation or a pass. And keep in mind its only open on weekends.
+<b>Guard:</b> C'est une propriété privée ; tu as besoin d'une invitation ou d'un pass. Et n'oublie pas que ce n'est ouvert que le weekend.
+<b>Guard:</b> Do you have a pass ?
+<b>Garde:</b> Est-ce que tu as un pass ?
+<b>Guard:</b> Perfect! Have fun!
+<b>Garde:</b> Parfait ! Amuse-toi bien !
+<b>Guard:</b> No? Well sorry I can't let you in. Come back with a pass!
+<b>Garde:</b> Non ? Eh bien désolé mais je peux pas te laisser passer. Reviens avec un pass !
+<b>Guard:</b> Did you managed to get a pass?
+<b>Garde:</b> T'as réussi à avoir un pass ?
+<b>Guard:</b> Have fun in the Resort!
+<b>Garde:</b> Amuse toi bien dans la Station !
+<b>Bug Maniac:</b> I was searching for bugs in the flowers, but…
+<b>Entomomaniac:</b> Je cherchais des insectes dans les fleurs, mais...
+<b>Bug Maniac:</b> …flowers are actually so pretty…
+<b>Entomomaniac:</b> …les fleurs sont si belles en vrai…
+<b>Bug Maniac:</b> …maybe I should become a Flower Maniac…
+<b>Entomomaniac:</b> …je devrais peut-être devenir un Floromaniac…
+<b>Guard:</b> Sorry, you can't go to Camosack now ; come back during the weekend!
+<b>Garde:</b> Désolé, tu ne peux pas aller à Camosack maintenant : reviens pendant le weekend !
+The tournament is still ongoing! You can't leave Camosack!
+Le tournoi n'est pas fini ! Tu ne peux pas quitter Camosack !
+<b>Rich Boy:</b> This place is for the elite! Go away, you poor!
+<b>Richard:</b> Cet endroit est destinée à l'élite ! Va-t-en, espèce de pauvre !
+<b>Rich Boy:</b> You're so violent!
+<b>Richard:</b> Je condamne les violences !

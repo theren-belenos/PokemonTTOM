@@ -1,0 +1,650 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_DESCRIPTIONS]
+Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon. Everyone LOVES this gift!
+Une spécialité de Volucité. Soigne toutes les altérations de statut d'un Pokémon. Tout le monde ADORE ce cadeau !
+A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon. Everyone LOVES this gift!
+Une spécialité d'Illumis. Soigne toutes les altérations de statut d'un Pokémon. Tout le monde ADORE ce cadeau !
+Very sweet chocolate. It restores the HP of one Pokémon by only 20 points. Everyone LOVES this gift!
+Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. Tout le monde ADORE ce cadeau !
+Heals and revive all of your Pokémons a limited number of times. Replenish it by going to a Pokémon Center.
+Soigne et ramine tous vos Pokémon un nombre limité de fois. A recharger en allant dans un Centre Pokémon.
+Allows you to mine Glowing Rocks.
+Vous permet de miner des Rochers Luisants
+Gain you access to Camosack, the Resort Center.
+Vous donne accès à Camosack, la Station Balnéaire.
+A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+Lorsqu'on brise cette pierre noire semblable à du verre, on obtient des éclats très coupants. Elle est appréciée d'un certain Pokémon.
+A block of muddy material that is for fuel. It’s loved by a certain Pokémon.
+Un Bloc de Tourbe similaire à de la boue qu'on peut utiliser comme combustible une fois séché. Il est apprécié d'un certain Pokémon.
+A string exuding a mysterious energy of connection. It’s loved by certain Pokémon.
+Un fil qui semble abriter une étrange énergie capable de nouer des liens entre les êtres. Il est apprécié de certains Pokémon.
+When held by Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
+Ce grand cristal brillant débordant de puissance permet à Dialga de changer de forme quand celui-ci le tient.
+When held by Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
+Cette grande sphère brillante débordant de puissance permet à Palkia de changer de forme quand celui-ci la tient.
+A stone tablet to be held by a certain Pokémon. It the holder the power of every type there is.
+Une tablette en pierre imprégnée d'une puissance suprême. Lorsqu'elle est utilisée sur un certain Pokémon, celui-ci obtient les pouvoirs de n'importe quel type.
+An item to be held by a Pokémon. It is a stone tablet that boosts the power of Normal-type moves.
+Une tablette en pierre imprégnée d'une puissance suprême. Lorsqu'elle est utilisée sur un certain Pokémon, celui-ci obtient les pouvoirs de n'importe quel type.
+A Berry that can be fed to a Pokémon to restore its PP.
+Cette Baie permet de restaurer les PP du Pokémon qui la mange. Si c'est un Pokémon sauvage qui la mange, celui-ci réagira moins vivement à ce qui l'entoure.
+When held by Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
+Ce grand cristal brillant débordant de puissance permet à Giratina de changer de forme quand celui-ci le tient.
+A mysterious ball that can be thrown at wild Pokémon in order to catch them.
+A mysterious ball that can be thrown at wild Pokémon in order to catch them.
+A mysterious ball that provides a higher success catch rate than a standard Poké Ball.
+A mysterious ball that provides a higher success catch rate than a standard Poké Ball.
+A mysterious ball that provides an even higher success catch rate than a Great Ball does.
+A mysterious ball that provides an even higher success catch rate than a Great Ball does.
+A ball that flies fast and true ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+A ball that flies fast and true ideal for catching nimble Pokémon or Pokémon that fly high in the air.
+An improvement on the original Feather Ball design. It has a higher success rate than the Feather Ball.
+An improvement on the original Feather Ball design. It has a higher success rate than the Feather Ball.
+The ultimate iteration of the Feather Ball. It has an even higher success rate than the Wing Ball does.
+The ultimate iteration of the Feather Ball. It has an even higher success rate than the Wing Ball does.
+A ball that is too heavy to throw, but it is highly effective to an unsuspecting Pokémon.
+A ball that is too heavy to throw, but it is highly effective to an unsuspecting Pokémon.
+An improvement on the original Heavy Ball design. It has a higher success rate than the Heavy Ball.
+An improvement on the original Heavy Ball design. It has a higher success rate than the Heavy Ball.
+The ultimate iteration of the Heavy Ball. It has an even higher success rate than the Leaden Ball does.
+The ultimate iteration of the Heavy Ball. It has an even higher success rate than the Leaden Ball does.
+An irreplicable Poké Ball that was once used to catch the frenzied Pokémon at the Temple of Sinnoh.
+An irreplicable Poké Ball that was once used to catch the frenzied Pokémon at the Temple of Sinnoh.
+A strange looking Poke Ball that arrived from the past Sinnoh.
+A strange looking Poke Ball that arrived from the past Sinnoh.
+A peculiar set of armor that can make a certain Pokémon evolve. Auspicious wishes live within it.
+Une armure mystérieuse pouvant faire évoluer un certain Pokémon. Des vœux de bonne fortune y sont enfermés.
+A peculiar set of armor that can make a certain Pokémon evolve. Malicious will lurks within it.
+Une armure mystérieuse pouvant faire évoluer un certain Pokémon. Une grande rancune y est enfermée.
+A scroll that evolves certain Pokémon. Written on it are the true secrets of the path of darkness.
+Un rouleau mystérieux pouvant faire évoluer un certain Pokémon. Tous les secrets de la voie des Ténèbres y sont inscrits.
+A scroll that evolves certain Pokémon. Written on it are the true secrets of the path of water.
+Un rouleau mystérieux pouvant faire évoluer un certain Pokémon. Tous les secrets de la voie de l'Eau y sont inscrits.
+A shard of what appears to be an old blade of some sort. It is held only by a head of certain Pokémon group.
+Un fragment de ce qui semble être une épée usée par le temps. Seuls les Scalproie commandant un bataillon de Scalpion en possèdent une.
+An item to be held by Pokémon with certain Abilities. It boosts the strength of the Pokémon.
+Objet à tenir. Une capsule contenant un concentré d'énergie qui renforce le Pokémon qui la porte, si celui-ci possède le talent approprié.
+An item to be held by a Pokémon. This shield protects the holder from having its Ability changed by others.
+Objet à tenir. Un bouclier à l'aspect unique et mignon. Il empêche l'adversaire de changer le talent du porteur.
+An item to be held by a Pokémon. It protects the holder from having its stats lowered.
+Objet à tenir. Un talisman translucide et brillant qui empêche les stats du Pokémon de baisser à cause du talent ou d'une capacité de l'adversaire.
+An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases once.
+Objet à tenir. Lorsqu'un adversaire bénéficie d'une augmentation de stats, permet une fois seulement au porteur d'en bénéficier également.
+An item to be held by a Pokémon. It boosts the holder's punching moves and prevents direct contact.
+Objet à tenir. Ce gant protecteur augmente la puissance des capacités coups de poing du porteur et lui évite d'entrer en contact direct avec sa cible.
+An item to be held by a Pokémon. It conceals the holder, protecting it from move's additional effects.
+Objet à tenir. Une cape à capuchon qui dissimule le porteur aux yeux de ses adversaires et le protège des effets additionnels des capacités.
+An item to be held by a Pokémon. It ensures the holder's multistrike moves hit more times.
+Objet à tenir. Ce dé ne tire que des bons numéros et permet d'asséner de nombreux coups lorsqu'une capacité pouvant frapper plusieurs fois est utilisée.
+An item that accidentally dropped by a Pokémon. It seems that Gimmighoul treasure and hoard these.
+Un objet laissé par un Pokémon. Mordudor les collectionne avec énormément de soin.
+A small and rare bamboo shoot. It's quite popular with a certain class of gourmands.
+Une petite pousse de bambou assez rare. Elle est plutôt populaire auprès de certains gourmets.
+A large and rare bamboo shoot. It's extremely popular with a certain class of gourmands.
+Une grosse pousse de bambou assez rare. Elle est très populaire auprès de certains gourmets.
+The latest model of smartphone. A Rotom lives within it, and it can be used to run all sorts of handy apps.
+Un Smartphone de dernière génération dans lequel un Pokémon du nom de Motisma a élu domicile. Contient toutes sortes d'applications bien pratiques.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Sada" written on it.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Sada" written on it.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Turo" written on it.
+A record of the Heath's expedition on the Great Crater of Paldea. It has the name "Turo" written on it.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's HP stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's HP stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Attack stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Attack stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Defense stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Defense stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Atk stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Atk stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Def stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Sp. Def stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Speed stat.
+A mochi cake with Berries kneaded into its dough. It increases base points for a Pokémon's Speed stat.
+A mochi cake with Berries kneaded into its dough. It causes a Pokémon to lose all its base points.
+A mochi cake with Berries kneaded into its dough. It causes a Pokémon to lose all its base points.
+An item to be held by a Pokémon. It boosts the power of the holder's Fairy-type moves.
+Objet à tenir. Cette plume augmente la puissance des capacités de type Fée. Elle brille d'une pâle lueur lorsqu'on l'expose à la lumière.
+A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
+Une pomme mystérieuse pleine de nectar qui permet de faire évoluer une certaine espèce de Pokémon.
+A peculiar cracked teacup that can make a certain species of Pokémon evolve. It makes delicious tea.
+Un bol à thé mystérieux qui permet de faire évoluer une certaine espèce de Pokémon. Il est abîmé, mais on y fait du bon thé.
+A peculiar chipped teacup that can make a certain species of Pokémon evolve. It makes delicious tea.
+Un bol à thé mystérieux qui permet de faire évoluer une certaine espèce de Pokémon. Il est ébréché, mais on y fait du bon thé.
+A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Water type during battle.
+Un masque en bois orné de cristaux. Si Ogerpon le tient, il prend le type Eau lors des combats.
+A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Fire type during battle.
+Un masque en bois orné de cristaux. Si Ogerpon le tient, il prend le type Feu lors des combats.
+A carved wooden mask to be held by Ogerpon. It allows Ogerpon to wield the Rock type during battle.
+Un masque en bois orné de cristaux. Si Ogerpon le tient, il prend le type Roche lors des combats.
+A teal mask patterned after the face of an ogre. Dropped by Ogerpon after visiting the Festival of Masks.
+Un masque turquoise à l'effigie du Monstre, qu'un être mystérieux a laissé tomber dans un escalier pendant la Fête des Visages, et que vous avez ramassé.
+A peculiar metal that can make certain species of Pokémon evolve. It is composed of many layers.
+Un morceau de métal étrange qui permet de faire évoluer une certaine espèce de Pokémon. Il est composé de plusieurs couches.
+A mysterious disk with an indigo shine to it, given by the Top Champion. It seems to be tied to Area Zero.
+Un disque mystérieux aux beaux reflets indigo que la Maîtresse en Chef vous a confié. Il semble avoir un lien avec la Zone Zéro.
+A Pecha Berry of the highest quality. It's one of every a few years berry that carefully tended by an expert.
+A Pecha Berry of the highest quality. It's one of every a few years berry that carefully tended by an expert.
+A device that synchronizes your mind and feelings with your Pokémon's as one. It's still a prototype—hence.
+A device that synchronizes your mind and feelings with your Pokémon's as one. It's still a prototype—hence.
+A rock that fell to earth from space. It allows a certain species of Pokémon to change forms.
+Une pierre venue de l'espace, qui permet à un certain Pokémon de changer d'apparence. Elle est légèrement tiède au toucher.
+A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.
+Explosion lumineuse qui fait baisser la Précision de l'ennemi. Illumine les endroits sombres.
+The user slugs the foe with a shattering punch. It can also smash cracked boulders.
+Le lanceur porte un coup de poing à la cible, ce qui peut baisser la Défense de celle-ci.
+Stops the current weather, the winds, and completely clear the sky.
+Annule le climat actuel, les vents, et enlver tout ce qu'il y a dans le ciel.
+A powerful attack that may harm its user if failed.
+Une attaque puissante qui peut blesser son lancer si ratée
+This full-power attack grows more powerful the more the user likes its Trainer.
+This full-power attack grows more powerful the more the user likes its Trainer.
+A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.
+Une charge violente qui blesse aussi légèrement le lanceur.
+The user charmingly gazes at the foe, making it less wary. The target's Attack is harshly lowered.
+Le lanceur fait les yeux doux pour berner l'ennemi et beaucoup réduire son Attaque.
+The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.
+Le lanceur fait semblant de pleurer pour troubler l'ennemi et beaucoup baisser sa Défense Spéciale.
+The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+Le lanceur se relaxe et allège on corps pour beaucoup augmenter sa Vitesse.
+The user hurls mud in the target's face to inflict damage and lower its accuracy.
+Le lanceur envoie de la boue au visage de l'ennemi pour infliger des dégâts et baisser sa Précision.
+The user frightens the target with a scary face to harshly reduce its Speed stat.
+Une grimace qui effraie l’ennemi et réduit beaucoup sa Vitesse.
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+Le lanceur esquive toutes les attaques. Le risque d'échec augmente lorsque la capacité est utilisée plusieurs fois de suite.
+The user bites with flame-cloaked fangs. It may also make the target flinch or leave it burned.
+Le lanceur utilise une morsure enflammée. Peut aussi brûler ou apeurer l'ennemi.
+The user bites with electrified fangs. It may also make the target flinch or leave it with paralysis.
+Le lanceur utilise une morsure électrifiée. Peut aussi paralyser ou apeurer l'ennemi.
+The user bites with cold-infused fangs. It may also make the target flinch or leave it frozen.
+Le lanceur utilise une morsure glaciale. Peut aussi geler ou apeurer l'ennemi.
+The user attacks the target with a pulsing blast of water. It may also confuse the target.
+Le lanceur envoie un puissant jet d'eau sur l'ennemi. Peut le rendre confus.
+A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
+Un puissant coup de pied bas qui fauche l'ennemi. Il est plus efficace contre les ennemis lourds.
+The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat.
+Projette un liquide acide qui fait fondre l'ennemi. Sa Défense Spéciale diminue beaucoup.
+The user nimbly strikes the foe. This attack does more damage if the user is not holding an item.
+Attaque agile. Si le lanceur ne tient pas d'objet, l'attaque inflige d'avantage de dégâts.
+While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.
+Le lanceur se débat de toutes ses forces, et baisse l'Attaque Spéciale de l'ennemi.
+The target is attacked with a peculiar ray. It may also cause confusion.
+Un étrange rayon frappe l'ennemi. Peut aussi le rendre confus.
+The target is exposed to a sinister ray that triggers confusion.
+Un rayon sinistre qui plonge l'ennemi dans un état de confusion.
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.
+Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet.
+Letting out a charming cry, the user does emotional damage to foes. This attack never misses.
+Laisse s'échapper une voix enchanteresse qui inflige des dégâts psychiques à l'ennemi. Touche à coup sûr.
+The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.
+Le lanceur surgit des hautes herbes pour attaquer la cible. Les mouvements agiles du lanceur augmentent sa Vitesse.
+The user attacks by pouncing on the target. This also lowers the target's Speed stat.
+Le lanceur attaque en bondissant sur la cible, ce qui baisse la Vitesse de celle-ci.
+The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat.
+Le lanceur attaque la cible en l’arrosant d’une eau si froide qu’elle détériore son esprit combatif. Baisse l’Attaque de la cible.
+The user fires a concentrated bundle of electricity. It may also raise the user's Sp. Atk stat.
+Le lanceur tire un rayon chargé d'électricité. Peut aussi augmenter son Attaque Spéciale.
+The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+Un tourbillon de flammes emprisonne l’ennemi pendant quatre à cinq tours.
+An attack move that doubles its power if the user is poisoned, burned, or has paralysis.
+Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé.
+The user hits the target with its tail. It may also poison the target. Critical hits land more easily.
+Attaque à taux de critiques élevé. Peut aussi empoisonner l'ennemi.
+The user confounds the foe with speed, then slashes. The attack lands without fail.
+Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais.
+The user strikes everything around it by stomping on the ground. It reduces hit Pokémon's Speed.
+Le lanceur piétine le sol et inflige des dégâts à tous les Pokémon autour de lui. Baisse aussi leur vitesse.
+This relentless attack does massive damage to a target affected by status problems.
+Attaque acharnée qui cause davantage de dégâts à l'ennemi s'il a un problème de statut.
+The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.
+Le lanceur hurle sur l'ennemi. Baisse l'Attaque Spéciale de l'ennemi.
+The target is raked with steel claws. It may also raise the user's Attack stat.
+Attaque avec des griffes d'acier. Peut aussi augmenter l'Attaque du lanceur.
+Star-shaped rays are shot at the opposing team. This attack never misses.
+La lanceur envoie des rayons d'étoiles. Touche toujours l'ennemi.
+The user scatters curious leaves that chase the target. This attack will not miss.
+Le lanceur disperse d'étranges feuilles qui poursuivent l'ennemi. N'échoue jamais.
+The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.
+Une bourrasque de vent froid blesse l'ennemi. Réduit aussi sa Vitesse.
+The user attacks by hurling a blob of mud at the target. It also reduces the target's Speed.
+Le lanceur attaque en projetant de la boue sur l'ennemi. Réduit aussi la Vitesse de la cible.
+Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement.
+Des rochers frappent l'ennemi. Réduit aussi la vitesse en l'empêchant de se déplacer.
+The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage dealt.
+Aspire la force vitale de l'ennemi par un baiser. Rend au lanceur un nombre de PV supérieur ou égal à 75% des dégâts infligés.
+The user cloaks itself in flame and attacks. Building up more power, it raises the user's Speed stat.
+Le lanceur s'entoure de flammes pour attaquer l'ennemi. Il se concentre et sa Vitesse augmente.
+The user attacks the target's legs swiftly, reducing the target's Speed stat.
+Un coup rapide qui vise les pieds de l'ennemi et diminue sa Vitesse.
+The user launches razor-like wind to slash the opposing team. Critical hits land more easily.
+Le lanceur appelle des vents tranchants qui lacèrent l'ennemi. Taux de critiques élevé.
+The user attacks with stored power. The more the user's stats are raised, the greater the damage.
+Le lanceur attaque l'ennemi avec une force accumulée. Plus les stats du lanceur ont été augmentées, plus le coup est efficace.
+The user makes the foe see a frightening mirage. It inflicts damage matching the user's level.
+Le lanceur invoque un mirage. Inflige des dégâts équivalents au niveau du lanceur.
+The user flings its held item at the target to attack. Its power and effects depend on the item.
+Le lanceur envoie l'objet qu'il tient sur l'ennemi. La puissance et les effets dépendent de l'objet.
+The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.
+Un coup puissant qui blesse la cible et l'envoie au loin. Lors d'un combat contre un Pokémon sauvage seul, met fin au combat.
+The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned.
+Le lanceur inocule un poison spécial à l'ennemi. L'effet est doublé si l'ennemi est déjà empoisonné.
+An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.
+Une attaque deux fois plus puissante si le lanceur a été blessé par l'ennemi durant le tour.
+The user intensifies the sun for five turns, powering up Fire-type moves.
+Fait briller le Soleil pendant cinq tours, augmentant la puissance ds capacités de type Feu.
+The user summons a heavy rain that falls for five turns, powering up Water-type moves.
+Invoque de fortes pluies qui durent cinq tours et augmentent la puissance des capacités de type Eau.
+Summons a five-turn sandstorm to hurt all combatants except the Rock, Ground, and Steel types.
+Une tempête de sable qui blesse tous les Pokémon pendant cinq tours, sauf ceux de types Roche, Sol et Acier.
+The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types.
+Le lanceur invoque une tempête de neige qui dure cinq tours, ce qui augmente la Défense des Pokémon de type Glace.
+The user stabs the target with a sharp horn. This attack never misses.
+L'utilisateur frappe la cible avec une corne aiguisée. L'attaque ne manque jamais.
+The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques.
+The user burrows, then attacks on the second turn. It can also be used to exit dungeons.
+Le lanceur creuse au premier tour et frappe au second.
+The user forcefully shoots seeds at the target. Two to five seeds are shot in rapid succession.
+Le lanceur mitraille l’ennemi avec une rafale de graines. De deux à cinq rafales sont lancées à la suite.
+The user attacks with a swift chop. It can also break any barrier such as Light Screen and Reflect.
+Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection.
+The user focuses its willpower to its head and attacks the foe. It may also make the target flinch.
+Le lanceur concentre sa volonté et donne un coup de tête. Peut aussi apeurer l'ennemi.
+The user turns the foe's power against it. It does more damage the higher the target's Attack stat.
+Le lanceur utilise la force de l'ennemi. Plus l'Attaque de l'ennemi est élevée, plus le lanceur inflige de dégâts.
+The user bites the target using psychic capabilities. This can also destroy Light Screen and Reflect.
+Le lanceur mord la cible avec ses pouvoirs psychiques. Brise aussi les barrières comme Mur Lumière et Protection.
+The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats.
+Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense.
+The user attacks with a blade of air that slices even the sky. It may also make the target flinch.
+Le lanceur attaque avec une lame d'air qui fend tout. Peut apeurer l'ennemi.
+The user drops onto the target with its full body weight. It may leave the target with paralysis.
+Le lanceur se laisse tomber sur l'ennemi de tout son poids. Peut aussi le paralyser.
+The target is punched with a fiery fist. It may leave the target with a burn.
+Un coup de poing enflammé vient frapper l'ennemi. Peut le brûler.
+The target is punched with an electrified fist. It may also leave the target with paralysis.
+Un coup de poing électrique vient frapper l'ennemi. Peut le paralyser.
+The target is punched with an icy fist. It may also leave the target frozen.
+Un coup de poing glacé vient frapper l'ennemi. Peut le geler.
+The user slams a barrage of hard-shelled seeds down on the target from above.
+Le lanceur fait pleuvoir un déluge de graines explosives sur l'ennemi.
+The user hurls an electric orb at the foe. It does more damage the faster the user is.
+Le lanceur envoie une boule d'électricité. Si sa Vitesse est plus grande que celle de l'ennemi, les dégâts augmentent d'autant.
+A wondrous wall of light is put up to suppress damage from physical attacks for five turns.
+Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques physiques durant cinq tours.
+A wondrous wall of light is put up to suppress damage from special attacks for five turns.
+Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques spéciales durant cinq tours.
+The user hurls hard rocks at the target. Two to five rocks are launched in quick succession.
+Le lanceur projette un rocher sur l’ennemi de deux à cinq fois d’affilée.
+The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.
+Le lanceur frappe l'ennemi deux fois d'affilée avec les parties les plus robustes de son corps.
+The user slashes the target with huge, sharp claws.
+Le lanceur lacère l'ennemi de ses grandes griffes aiguisées.
+The user waggles a finger and stimulates its brain into randomly using nearly any move.
+Le lanceur agite un doigt et stimule son cerveau pour utiliser presque n'importe quelle capacité au hasard.
+The user snares the target with grass and trips it. The heavier the target, the greater the damage.
+L'ennemi est piégé dans l'herbe qui le fait trébucher. Plus il est lourd, plus il reçoit de dégâts.
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+Un faible choc électrique frappe l'ennemi. Si l'attaque le touche, celui-ci est paralysé.
+The target is stabbed with a tentacle or arm seeped with poison. It may also poison the target.
+Attaque l'ennemi avec un tentacule ou un bras plein de poison. Peut aussi l'empoisonner.
+The user attacks driven by frustration. Power increases if the user's previous move failed.
+Le lanceur attaque en utilisant sa frustration. S'il a utilisé une capacité qui a échoué au tour précédent, la puissance de Trépignement est doublée.
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+Le lanceur dort pendant deux tours. Il regagne tous ses PV et n'a plus de problèmes de statut.
+Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch.
+Envoie de gros rochers sur l'ennemi pour infliger des dégâts. Peut l'apeurer.
+A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.
+Danse frénétique qui exalte l'esprit combatif. Augmente beaucoup l'Attaque du lanceur.
+The user attacks by slamming its body into the target. Power increases the higher the user's Defense is.
+Le lanceur utilise son corps pour attaquer sa cible. Plus la Défense du lanceur est élevée, plus les dégâts infligés sont importants.
+The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.
+Le lanceur disperse des piquants sur le sol pour blasser tout ennemi qui entre au combat.
+The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.
+Lance des pics autour de l'ennemi. Ils empoisonnent les ennemis qui entrent au combat.
+If the foe knows any move also known by the user, the foe is prevented from using it.
+Si l'ennemi et le lanceur ont des capacités en commun, l'ennemi ne pourra pas les utiliser.
+The user gathers all its light energy and releases it at once. It may also lower the target's Sp. Def stat.
+Le lanceur concentre son énergie lumineuse et la fait exploser. Peut aussi baisser la Défense Spéciale de l'ennemi.
+The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.
+Le lanceur dégage une horrible aura chargée d'idées noires. Peut aussi apeurer l'ennemi.
+The user drains the target's blood. The user's HP is restored by half the damage taken by the target.
+Une attaque qui aspire la moitié des dégâts infligés.
+The user's body generates an eerie impulse. Harshly lowers the target's Sp. Atk stat.
+Le corps du lanceur produit des ondes anormales qui enveloppent l'ennemi et diminuent beaucoup son Attaque Spéciale.
+The user throws a punch from the shadows. This attack never misses.
+Le lanceur se fond dans les ombres pour porter un coup de poing. N'échoue jamais.
+The foe slams the target with its steel-hard head. It may also make the target flinch.
+Le lanceur heurte l'ennemi avec sa tête dure comme de l'acier. Peut aussi l'apeurer.
+The user attacks with a ray of light that sparkles as if it were made of gemstones.
+Le lanceur attaque avec un rayon de lumière qui scintille comme s'il était composé de gemmes.
+The user shoots filthy garbage at the target to attack. It may also poison the target.
+Le lanceur envoie des détritus sur l'ennemi. Peut aussi l'empoisonner.
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+Le lanceur fait une copie de lui-même en sacrifiant quelques PV. La copie sert de leurre.
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+L'épiderme du lanceur devient dur comme du fer, ce qui augmente considérablement sa Défense.
+The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.
+Le lanceur taillade l'ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux.
+The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+Le lanceur tourne sur lui-même comme une perceuse et se jette sur l'ennemi. Taux de critique élevé.
+The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+Lance une sinistre flamme violette à l'ennemi pour lui infliger une brûlure.
+The user crunches up the target with sharp fangs. It may also lower the target's Defense stat.
+Le lanceur mord l'ennemi de ses crocs pointus. Peut aussi baisser la Défense.
+The user catches the target off guard and swaps its held item with its own.
+Le lanceur prend la cible au dépourvu et l'oblige à échanger son objet contre le sien.
+The user slams into the target using a full-force blast of water. May lower the target's Defense.
+Le lanceur utilise la force de l'eau pour attaquer. Peut aussi baisser la Défense de la cible.
+The user looses a blast of aura power from deep within its body. This move is certain to hit.
+Le lanceur dégage une aura et projette de l'énergie. N'échoue jamais.
+The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns.
+Génère une rafale de vent qui augmente la Vitesse des Pokémon de l'équipe pendant 4 tours.
+The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale.
+The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.
+Lance des pierres flottantes autour de l'ennemi, qui blessent tout adversaire entrant en combat.
+The user lets loose a horribly echoing shout with the power to inflict damage.
+Le lanceur pousse un cri dont l'écho terrifiant a le pouvoir d'infliger des dégâts à l'ennemi.
+The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn.
+Le lanceur provoque une vague de chaleur. Peut aussi brûler l'ennemi.
+The user draws power from nature and fires it at the target. It may also lower the target's Sp. Def.
+Utilise les pouvoirs de la nature pour attaquer l'ennemi. Peut aussi baisser sa Défense Spéciale.
+The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat.
+Une puissante force télékinésique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale.
+The user slams into the foe with its heavy body. The heavier the user, the greater the damage.
+Le lanceur se jette sur l'ennemi de tout son poids. S'il est plus lourd que l'ennemi, l'effet augmente en conséquence.
+The user compels the target to keep using only the move it last used for three turns.
+Oblige l'ennemi à répéter durant trois tours la dernière capacité utilisée.
+The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat.
+Le lanceur attaque la cible avec une telle force que celle-ci peut s'en retrouver profondément troublée et voir son Attaque Spéciale baisser.
+The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain.
+Le lanceur enveloppe ses jambes d’une fine couche de glace et heurte la cible en tournant sur lui-même. Ses rotations détruisent le champ actif sur le terrain.
+The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+L'ennemi reçoit un torrent de flammes. Peut aussi le brûler.
+A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+Une grosse décharge élecrique tombe sur l'ennemi. Peut aussi le paralyser.
+The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+Attaque l'ennemi avec un câlin. Peut diminuer son Attaque.
+The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+Le lanceur fait le vide dans son esprit pour oublier ses soucis. Augmente beaucoup sa Défense Spéciale.
+The user assists an ally by boosting the power of its attack.
+Une capacité qui augmente la puissance d'attaque d'un allié.
+Fires an exploding pollen puff at enemies, or a HP-restoring one at allies.
+Utlisé sur l'ennemi, envoie une boule explosive qui fait des dégâts ; sur un allié donne un bon pollen qui fait récupérer des PV.
+The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle.
+Le lanceur déploie une toile visqueuse autour de la cible qui ralentit la Vitesse de tout adversaire entrant au combat.
+The user makes the ground under the foe erupt with power. It may also lower the target's Sp. Def.
+Des éruptions volcaniques ont lieu sous l'ennemi. Peut aussi baisser sa Défense Spéciale.
+An all-out attack that becomes more powerful the less HP the user has.
+Le lanceur ne retient plus ses coups. Plus ses PV sont bas et plus cette attaque est puissante.
+The target is struck with an icy-cold beam of energy. It may also freeze the target solid.
+Un rayon de Glace frappe l'ennemi. Peut aussi le geler.
+The user electrifies the ground for five turns. Pokémon on the ground no longer fall asleep.
+Pendant 5 tours, le terrain se charge d'électricité. Les Pokémon ne peuvent être endormis et la puissance des capacités de type Électrik augmente.
+The user turns the ground to grass for five turns. Grounded Pokémon restore a little HP every turn.
+Pendant 5 tours, les Pokémon récupèrent quelques PV à chaque tour et la puissance des capacités Plante augmente.
+Protects grounded Pokémon from priority moves and powers up Psychic-type moves for five turns.
+Pendant 5 tours, les Pokémon ne peuvent plus subir d'attaque prioritaires et la puissance des capacités Psy augmente.
+The user covers the ground with mist for five turns. Grounded Pokémon can't gain status conditions.
+Pendant 5 tours, les Pokémon au sol ne peuvent pas subir d'altération de statut et la puissance des capacités Dragon est divisée par deux.
+The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.
+Stimule l'esprit par de mauvaises pensées. Augmente beaucoup l'Attaque Spéciale du lanceur.
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+Un déluge de flammes ardentes submerge l'ennemi. Peut aussi le brûler.
+The target is blasted by a huge volume of water launched under great pressure.
+Un puissant jet d'eau est dirigé sur l'ennemi.
+A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+Une violente tempête de neige est déclenchée sur l'ennemi. Peut aussi le geler.
+A column of fire hits opposing Pokémon. When used with its Grass equivalent, it makes a sea of fire.
+Une masse de feu s'abat sur l'ennemi. En l'utilisant avec Aire d'Herbe, l'effet augmente et une mer de feu apparaît.
+A column of water strikes the target. When combined with its fire equivalent, it makes a rainbow.
+Une masse d'eau s'abat sur l'ennemi. En l'utilisant avec Aire de Feu, l'effet augmente et un arc-en-ciel apparaît.
+A column of grass hits the foes. When used with its water equivalent, it creates a vast swamp.
+Une masse végétale s'abat sur l'ennemi. En l'utilisant avec Aire d'Eau, l'effet augmente et un marécage apparaît.
+The user shrouds itself in electricity and smashes into its foe. It also damages the user a little.
+Une charge électrique violente qui blesse aussi légèrement le lanceur.
+Unsanitary sludge is hurled at the target. It may also poison the target.
+Le lanceur envoie des détritus sur l'ennemi. Peut aussi l'empoisonner.
+The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.
+Fait surgir des pierres aiguisées sous l'ennemi. Taux de critiques élevé.
+The user vanishes somewhere, then strikes on the next turn. Hits through protections.
+Le lanceur disparaît au premier tour et frappe au second. Cette attaque passe outre toutes les protections.
+The user charges at the target using every bit of its power. The user must rest on the next turn.
+Le lanceur charge l'ennemi de toute sa puissance et doit ensuite se reposer au tour suivant.
+The target is razed by a fiery explosion. The user must rest on the next turn, however.
+Une explosion ardente souffle l'adversaire. Le lanceur doit se reposer au tour suivant.
+The target is hit with a watery blast. The user must rest on the next turn, however.
+Le lanceur projette un missile d’eau sur la cible, mais il doit se reposer au tour suivant.
+The user slams the target with an enormous tree. The user can't move on the next turn.
+Un violent coup de racines s’abat sur la cible. Le lanceur doit se reposer au tour suivant.
+The user rampages and attacks for two to three turns. It then becomes confused, however.
+Le lanceur laisse éclater sa rage et attaque pendant deux à trois tours avant de céder à la confusion.
+The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+Attaque l'ennemi à pleine puissance. Le contrecoup baisse énormément l'Attaque Spéciale du lanceur.
+The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
+Le lanceur rassemble ses forces et laisse éclater son pouvoir. Peut aussi baisser la Défense Spéciale de l'ennemi.
+A storm of sharp is whipped up. The attack's recoil harshly reduces the user's Sp. Atk stat.
+Invoque une tempête de feuilles acérées. Le contrecoup réduit beaucoup l'Attaque Spéciale du lanceur.
+The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.
+Le lanceur déclenche une tempête de vents violents qui s'abat sur l'ennemi. Peut aussi le rendre confus.
+The user vibrates its wings to generate a damaging sound wave. It may also lower the target's Sp. Def stat.
+Le lanceur fait vibrer son corps pour lancer une attaque sonique. Peut aussi baisser la Défense Spéciale de la cible.
+The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
+Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant.
+The user tucks in its wings and charges from a low altitude. The user also takes serious damage.
+Le lanceur repli ses ailes et charge en rase-mottes. Blesse gravement le lanceur.
+The user cloaks itself in fire and charges at the foe. The user also takes damage and may burn the target.
+Le lanceur s'embrase avant de charger l'ennemi. Le choc blesse aussi gravement le lanceur. Peut brûler l'ennemi.
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser.
+The user fights the foe up close without guarding itself. It also cuts the user's Defense and Sp. Def.
+Le lanceur combat au corps à corps sans se protéger. Baisse aussi sa Défense et sa Défense Spéciale.
+A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.
+Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant.
+Comets are summoned down from the sky. The attack's recoil harshly reduces the user's Sp. Atk stat.
+Le lanceur invoque des comètes. Le contrecoup réduit beaucoup son Attaque Spéciale.
+The user fires a beam of steel that it collected from its entire body. This also damages the user.
+Le lanceur concentre du métal issu de tout son corps en un rayon qu'il projette violemment sur sa cible. Il subit aussi des dégâts.
+The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.
+Effraie le Pokémon ennemi et le remplace par un autre. Lors d'un combat contre un Pokémon sauvage seul, met fin au combat
+The user boosts the power of the Electric move it uses next. It also raises the user's Sp. Def stat.
+Le lanceur se charge en électricité, ce qui augmente la puissance de la prochaine capacité Électrik qu'il utilisera. Sa Défense Spéciale augmente également.
+The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+Crée un brouillard qui annule les changements de stats de tous les Pokémon au combat.
+The user traps the target inside a harshly raging sandstorm for four to five turns.
+Le lanceur emprisonne la cible dans une tempête de sable terrifiante qui dure de quatre à cinq tours.
+The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+Le lanceur exprime son ressentiment en retirant 4PP à la dernière capacité utilisée par la cible.
+Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.
+Pendant cinq tours, les Pokémon Vol ou qui ont Lévitation deviennent sensibles aux capacités Sol, et les capacités volantes deviennent inutilisables.
+The user throws a stone or projectile to attack. A flying Pokémon will fall to the ground when hit.
+Le lanceur jette un projectile sur la cible. Si cette dernière vole, elle tombe au sol.
+The user tackles the target with a high-speed spin. The slower the user, the greater the damage.
+Le lanceur effectue une rotation rapide et frappe la cible. Plus la Vitesse du lanceur est basse par rapport à celle de la cible, plus il inflige de dégâts.
+The user slaps down the target's held item, preventing that item from being used in the battle.
+Fait plus de dégâts aux cibles qui tiennent un objet. De plus, fait tomber cet objet et empêche la cible de l'utiliser jusqu'à la fin du combat.
+The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+Le lanceur pique la cible. Si celle-ci tient une baie, le lanceur la dévore et obtient son effet.
+The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half.
+Une vilaine morsure d'incisives qui réduit de moitié les PV de la cible.
+The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
+Le lanceur agite son poing pour projeter une onde de vide. Frappe en priorité.
+The user makes a lunge at the target, attacking with full force. This lowers the target's Attack stat.
+Le lanceur se jette sur la cible de toutes ses forces pour lui infliger des dégâts et baisser son Attaque.
+The user fiercely attacks the target using its entire body.
+Le lanceur attaque violemment en utilisant tout son poids.
+The user launches sharp icicles at the target. It strikes two to five times in a row.
+Le lanceur jette des pics de glace sur la cible, de deux à cinq fois de suite.
+The user shoots boiling hot water at its target. It may also leave the target with a burn.
+Le lanceur projette un jet d'eau bouillante sur la cible, ce qui peut aussi le brûler.
+The user slams the foe with its flaming body. The heavier the user is, the greater the damage.
+Le lanceur projette son corps enflammé contre la cible. Plus il est lourd par rapport à la cible, plus la puissance de cette capacité augmente.
+The user gathers light energy into a blade, attacking the target on the next turn.
+Le lanceur absorbe une grande quantité de lumière au premier tour et attaque au second tour en libérant cette énergie sous forme d'une lame.
+The user attacks in an uproar for three turns. Over that time, no one can fall asleep.
+Le lanceur attaque en rugissant durant trois tours. Pendant ce temps, aucun Pokemon ne peut s'endormir.
+The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
+Le lanceur se concentre avant d'attaquer. Échoue s'il est touché avant d'avoir frappé.
+This move's type and power change depending on the weather at the time the move is used.
+Une capacité dont la puissance et le type varient en fonction du temps qu'il fait.
+Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.
+Le lanceur attaque la cible en glissant sur le terrain. Frappe toujours en priorité si un champ herbu est actif.
+The user attacks with energy from jealousy. This burns all foes that had their stats boosted this turn.
+Le lanceur attaque sa cible avec toute sa jalousie. Cette capacité brûle tout Pokémon dont les stats ont augmenté pendant ce tour.
+The user slams the target with its wings. The target is hit twice in a row.
+Le lanceur frappe la cible avec ses ailes deux fois d'affilée.
+Attacks the target by controlling its item. The move fails if the target doesn't have an item.
+Le lanceur manipule l'objet tenu par la cible pour l'attaquer. Cette capacité échoue si celle-ci ne tient rien.
+The user lashes out to vent its frustration. Power is doubled if its stats dropped this turn.
+Le lanceur frappe la cible avec toute sa rancune. Si les stats du lanceur ont diminué pendant ce tour, la puissance de cette attaque est doublée.
+Attacks by shooting scales two to five times in a row. Boosts the user's Speed but lowers its Defense.
+Le lanceur projette des écailles sur la cible de deux à cinq fois d'affilée. Augmente la Vitesse, mais diminue la Défense.
+The user attacks everything around and faints upon using this move. Power increases on Misty Terrain.
+Le lanceur frappe tous les Pokémon autour de lui en explosant, ce qui le met Ka.O. La puissance de cette attaque augmente si un champ brumeux est actif.
+The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+Le lanceur ajoute ses PV à ceux de sa cible et les répartit équitablement.
+A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
+Une charge dangereuse et imprudente. Blesse aussi gravement le lanceur.
+An attack move that cuts down the target's HP to equal the user's HP.
+Une attaque qui réduit les PV de la cible au niveau des PV du lanceur.
+The user stirs up a violent petal blizzard and attacks everything around it.
+Déclenche une violente tempête de fleurs qui inflige des dégâts à tous les Pokémon alentour.
+Traps foes in a violent swirling whirlpool for four to five turns.
+Le lanceur piège la cible dans une trombe d’eau pendant quatre à cinq tours.
+The user attacks by shooting muddy water at the opposing team. It may also lower the target's accuracy.
+Le lanceur attaque en projetant de l’eau boueuse. Peut aussi réduire la Précision de la cible.
+The user drops onto the target with its electrified body. If it misses, the user is hurt instead.
+Le lanceur se charge en électricité et fond sur la cible. S'il échoue, le lanceur se blesse.
+The user captures and attacks foes by using an electric net, which lowers their Speed stat.
+Le lanceur attaque la cible en l’attrapant dans un filet électrique. Baisse aussi la Vitesse de la cible.
+A consecutive three-kick attack that becomes more powerful with each successful hit.
+Une série d’un à trois coups de pied distincts dont la puissance augmente à chaque fois que la capacité touche sa cible.
+The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.
+Le lanceur coache ses alliés, augmentant ainsi leur Attaque et leur Défense.
+It swamps the area around the user with a giant sludge wave. It may also poison those hit.
+Une vague de détritus attaque tous les Pokémon autour du lanceur. Peut aussi empoisonner.
+The user throws scorching sand at the target to attack. This may also burn the target.
+Le lanceur projette du sable chauffé à blanc sur la cible, ce qui peut aussi la brûler.
+The user covers the target's body with a mass of down that harshly lowers its Attack stat.
+Une montagne de plumes ensevelit la cible et réduit beaucoup son Attaque.
+Two turns after this move is used, a hunk of psychic energy attacks the target.
+De l’énergie psychique vient frapper la cible deux tours après l’utilisation de cette capacité.
+The user attacks the target with psychic power. Powers up and hits all foes on Psychic Terrain.
+Le lanceur attaque la cible avec ses pouvoirs psychiques. Si un champ psychique est actif, la puissance de cette capacité augmente et elle touche tous les ennemis.
+The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
+Le lanceur rampe derrière la cible pour l’attaquer, ce qui baisse l’Attaque Spéciale de celle-ci.
+Gathers space power and boosts its Sp. Atk stat on the first turn, attacks on the next turn.
+Le lanceur concentre l’énergie cosmique au premier tour, ce qui augmente son Attaque Spéciale, et frappe au second.
+The user attacks the target's throat. The target cannot use sound-based moves for two turns.
+Inflige une douleur tellement violente à la cible qu’elle ne peut plus émettre de sons pendant deux tours.
+The user swings its tough tail wildly and attacks all foes. This also lowers their Attack stats.
+Le lanceur balaie violemment le camp adverse avec son immense queue. Baisse l’Attaque de la cible.
+A horrible sound like scraping metal harshly reduces the target's Sp. Def stat.
+Un cri horrible tel un crissement métallique qui réduit beaucoup la Défense Spéciale de la cible.
+A move that works differently for the Ghost type than for all the other types.
+Une capacité à l’effet différent selon que le lanceur est un Pokémon Spectre ou non.
+The target is crushed with great force. The attack is more powerful the more HP the target has left.
+Le lanceur écrase la cible avec ses bras ou ses pinces. Plus il reste de PV à la cible, plus la puissance de la capacité augmente.
+The user raises its allies’ critical hit ratio with a draconic cry. This rouses Dragon types more.
+Le lanceur galvanise ses alliés, avec un encouragement draconique qui augmente leur taux de critique. L'effet est plus puissant si les alliés ont le type Dragon.
+Attacks using an angelic voice. This confuses the target if its stats have been raised this turn.
+Le lanceur attaque la cible avec sa voix angélique. Cette capacité rend la cible confuse si ses stats ont augmenté durant ce tour.
+Attacks the target with unpleasant sound waves. Prevents the target from healing for two turns.
+Le lanceur attaque avec des ondes sonores dissonantes. Cela empêche la cible de récupérer des PV à l'aide de capacités, talents ou objets tenus durant deux tours.
+An attack that hits first and makes the target flinch. Fails if the target isn't using a high priority move.
+Le lanceur réagit instinctivement au moindre mouvement et donne un coup de Paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé un capacité prioritaire.
+A slashing attack with a poisonous blade that may also poison the target. This move has a heightened chance of landing a critical hit.
+Un coup tranchant qui peut empoisonner la cible. Taux de critiques élevé.
+One of a variety of mysterious Mega Stones. Have Butterfree hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Papillusion, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Kingler hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Krabboss, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Lapras hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Lokhlass, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Snorlax hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Ronflex, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Garbodor hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Miasmax, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Melmetal hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Melmetal, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Corviknight hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Corvaillus, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Orbeetle hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Astronelle, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Dreadnaw hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Torgamord, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Coalossal hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Monthracite, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Flapple, Appletun or Hydrapple hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Pomdrapi, un Dratatin ou un Pomdorochi, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Sandaconda hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Dunaconda, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Toxtricity hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Salarsen, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Centiskorch hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Scolocendre, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Hatterene hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Sorcilence, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Grimmsnarl hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Angoliath, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Alcremie hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Charmilly, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Copperajites hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Pachyradjah, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Rillaboom hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Gorythmic, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Cinderace hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Pyrobut, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Inteleon hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Lézargus, elle lui permet de méga-évoluer durant un combat.
+One of a variety of mysterious Mega Stones. Have Urshifu hold it, and it will be able to Mega Evolve.
+Une variété de Méga-Gemme. Tenue par un Shifours, elle lui permet de méga-évoluer durant un combat.
+A peculiar stone that makes certain species of Pokémon evolve. It has a link cable pattern.
+Une pierre très particulière permettant de faire évoluer certaines espèces de Pokémon. Elle arbore un motif de câble.
+A brand new device that allows to fine tune Pokémon's EVs
+Un tout nouvel appareil permettant de régler des EVs d'un Pokémon
+A module for the Virtual Trainer - Allows for HP tuning
+Un module pour l'Entraîneur Virtuel - Permet de régler les HP
+A module for the Virtual Trainer - Allows for Attack tuning
+Un module pour l'Entraîneur Virtuel - Permet de régler l'Attaque
+A module for the Virtual Trainer - Allows for Defense tuning
+Un module pour l'Entraîneur Virtuel - Permet de régler la Défense
+A module for the Virtual Trainer - Allows for AtkSpe tuning
+Un module pour l'Entraîneur Virtuel - Permet de régler l'Attaque Spéciale
+A module for the Virtual Trainer - Allows for DefSpe tuning
+Un module pour l'Entraîneur Virtuel - Permet de régler la Défense Spéciale
+A module for the Virtual Trainer - Allows for Speed tuning
+Un module pour l'Entraîneur Virtuel - Permet de régler la Vitesse
+A Coupon to be used in the Safari Reception. Can exchange it for a Pokémon catchable in the Safari Park.
+Un Coupon à utiliser à la réception du Safari. Peut s'échanger contre un Pokémon capturable dans le Parc Safari.
+A Coupon to be used in the Casino. Can exchange it for a reward obtainable at the Casino.
+Un Coupon à utiliser au Casino. Peut s'échanger contre une récompense obtenable au Casino.
+A revolutionnary item that can change one Pokémon to its shiny counterpart! One-time usage.
+Un objet révolutionnaire pouvant changer un Pokémon en sa version shiny ! Usage unique.
+A unique, one-time usage mysterious machine. Gives you a single item of your choice.
+Une machine mystérieuse, unique, utilisable une fois. Vous donne l'objet de votre choix.
+A unique, one-time usage mysterious machine. Gives you a Pokémon of your choice, lvl 25.
+Une machine mystérieuse, unique, utilisable une fois. Vous donne le Pokémon de votre choix, niveau 25.
+A unique, one-time usage mysterious godlike machine. Gives you the Pokémon of your dreams.
+AUne machine mystérieuse, unique, divine. Vous donne le Pokémon de vos rêves.
+A pair of glasses belonging to Jon.
+Une paire de lunettes appartenant à Jon
+A worn out notebook belonging to Jeremy.
+Un carnet abîmé appartnant à Jeremy.
+A clean looking suitcase belonging to Henry.
+Une jolie malette appartenant à Henry.
+A scarf. You don't know it's owner. It's partially covered by sand.
+Un foulard. Vous ne savez pas à qui il appartient. Il est partiellement couvert de sable.
+A package the nurses of your town gave to you. You have to deliver it to other Pokémon Centers in Nekanta north-west
+Un colis que les infirmières de votre ville vous ont donné. A livrer aux autres Centres Pokémon du nord ouest Nekanta
+A book borrowed by a student at the library. Find all 3 of them!
+Un livre emprunté par un étudiant à la bibliothèque. Trouvez-les tous les 3 !
+A lunch forgotten by someone. Bring him!
+Un repas oublié par quelqu'un. Amenez-lui!
+Tools given by Cassian useful to fix broken cables.
+Outils donné par Cassian permettant de réparer les câbles endommagés.

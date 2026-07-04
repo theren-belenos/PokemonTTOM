@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map019]
+<b>Cameraman:</b> Hey! Don't stand in front of the camera, are you dumb?
+<b>Caméraman:</b> Hey ! Ne reste pas plantée devant la caméra, t'es bête ou quoi ?
+<b>Cameraman:</b> Hmm? I'm just taking a few shots of the Cycling Road for a television report.
+<b>Caméraman:</b> Hmm ? Je prends juste quelques plans de la Piste Cyclable pour un reportage.

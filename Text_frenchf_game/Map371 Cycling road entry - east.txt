@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map371]
+There is only trash in there...
+Il n’y a que des déchets là-dedans…
+<b>Man:</b> Just taking a break before going again!
+<b>Homme:</b> Je fais juste une petite pause avant d’y retourner !
+<b>Man:</b> It's important to stay hydrated! Take this!
+<b>Homme:</b> C’est important de bien s’hydrater ! Tiens, prends ça !
+<b>Man:</b> Just stay hydrated!
+<b>Homme:</b> Pense bien à t’hydrater !
+There is only trash in here...
+Il n'y a que des déchets là-dedans...
+<b>Man:</b> Be safe and have a nice trip!
+<b>Homme:</b> Sois prudente et bon voyage !
+<b>Man:</b> C...Can you not invade my working place?
+<b>Homme:</b> Tu… tu pourrais éviter d’envahir mon espace de travail ?
+<b>Kid:</b> Daaaaad! I want a bicycle!!!!!
+<b>Enfant:</b> Papaaaaaa ! Je veux un vélo !!!!!
+<b>Man:</b> Hello! You're in front of the Cycling road, east entry. Do you have a bike ?
+<b>Homme:</b> Bonjour ! Tu es devant la Piste Cyclable, entrée est. Tu as un vélo ?
+<b>Man:</b> Okay then be safe and when you pass the door you must be on your bicycle. No walking!
+<b>Homme:</b> Ok alors sois prudente et lorsque tu passes la porte tu dois être sur ton vélo. Pas de marche !
+<b>Man:</b> No? Then I must respectfully ask you to step back.
+<b>Homme:</b> Non ? Alors je te demande respectueusement de faire demi-tour.
+<b>Man:</b> You're still too young for this!
+<b>Homme:</b> T’es encore trop jeune pour ça !

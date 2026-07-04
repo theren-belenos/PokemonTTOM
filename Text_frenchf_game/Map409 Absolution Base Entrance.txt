@@ -1,0 +1,82 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map409]
+<b>\c[2]Tom:</b>\c[0] Damn ! Another earthquake ? No, it wasn't this serious...
+<b>\c[2]Tom:</b>\c[0] Mince ! Un autre séisme ? Non, c'était plus léger...
+<b>\c[2]Tom:</b>\c[0] It came from downstairs tho! Do you think Samy and the Normal Leader are in danger???
+<b>\c[2]Tom:</b>\c[0] Mais ça venait d'en bas ! Tu crois que Samy et le Leader Normal sont en danger ???
+<b>\c[2]Tom:</b>\c[0] It came from downstairs tho! Do you think Samy and Cassian are in danger???
+<b>\c[2]Tom:</b>\c[0] Mais ça venait d'en bas ! Tu crois que Samy et Cassian sont en danger ???
+<b>\c[2]Tom:</b>\c[0] Well, \pn, you can handle yourself right? I will go back and see if they need help.
+<b>\c[2]Tom:</b>\c[0] Bon, \pn, tu peux te débrouiller seule non ? Je vais faire demi-tour et voir s'ils ont besoin d'aide.
+<b>\c[2]Tom:</b>\c[0] Continue to explore the upper floors by yourself! Don't bother coming downstairs, I'll handle that.
+<b>\c[2]Tom:</b>\c[0] Continue d'explorer les étages supérieurs ! Pas besoin de venir toi aussi en bas, je m'en sortirai !
+<b>Lucile:</b> Go away!
+<b>Lucile:</b> Va-t-en !
+<b>Lucile:</b> Argh!
+<b>Lucile:</b> Argh !
+<b>\c[2]Tom:</b>\c[0] Samy and the Normal Leader are already downstairs, let us go the other way right?
+<b>\c[2]Tom:</b>\c[0] Samy et le Leader Normal sont déjà en bas, allons de l'autre côté ok ?
+<b>\c[2]Tom:</b>\c[0] Samy and Cassian are already downstairs, let us go the other way right?
+<b>\c[2]Tom:</b>\c[0] Samy et Cassian sont déjà en bas, allons de l'autre côté ok ?
+Tom asked you to keep going upstairs. No use going down!
+Tom vous a demandé d'aller vers le haut. inutile de descendre !
+<b>\c[3]Checking...</b>
+<b>\c[3]Verification...</b>
+<b>\c[2]WRONG</b>
+<b>\c[2]FAUX</b>
+<b>\c[10]UNLOCKED</b>
+<b>\c[10]OUVERT</b>
+\c[3]Hidden Vault unlocked...
+\c[3]Coffre caché ouvert...
+<b>Max:</b> Eh? Hey, why do you attack us?
+<b>Max:</b> Eh ? Hey, pourquoi vous nous attaquez ?
+<b>Max:</b> Seriously, why?
+<b>Max:</b> Sérieusement, pourquoi ?
+<b>Igor:</b> Ha! I knew I heard something!
+<b>Igor:</b> Ha ! J'avais bien entendu un truc !
+<b>Igor:</b> I heard but I couldn't do anything!
+<b>Igor:</b> J'ai entendu mais j'ai rien pu faire !
+\c[3]Activating... "O"
+\c[3]Activation... "O"
+\c[3]De-activating... "O"
+\c[3]Désactivation... "O"
+<b>Justine:</b> You were right!
+<b>Justine:</b> T'avais raison !
+<b>Justine:</b> What can we do??
+<b>Justine:</b> Qu'est-ce qu'on peut faire ??
+\c[3]Activating... "R"
+\c[3]Activation... "R"
+\c[3]De-activating... "R"
+\c[3]Désactivation... "R"
+<b>Kaylee:</b> We won't let you pass!
+<b>Kaylee:</b> On vous laissera pas passer !
+<b>Kaylee:</b> What is this power??
+<b>Kaylee:</b> C'est quoi cette puissance !
+\c[3]Activating... "E"
+\c[3]Activation... "E"
+\c[3]De-activating... "E"
+\c[3]Désactivation... "E"
+<b>\c[2]Tom:</b>\c[0] What?
+<b>\c[2]Tom:</b>\c[0] Quoi ?
+<b>\c[2]Tom:</b>\c[0] I think we should split up.
+<b>\c[2]Tom:</b>\c[0] On devrait peut-être faire deux équipes.
+<b>\c[2]Tom:</b>\c[0] Don’t you think?
+<b>\c[2]Tom:</b>\c[0] Tu penses pas ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Right path leads to some stairs going down! Lad, let us go there ya?
+<b><c3=BDA46A,736440>Samy:</b></c3> A droite ça mène à des escaliers descendants! Mon ami, allons voir par là ok?
+<b>Cassian:</b> Hmm, either go left, or go right...What do you think?
+<b>Cassian:</b> Hmm, vers la gauche, ou vers la droite… T’en penses quoi ?
+<b>Cassian:</b> You sure?
+<b>Cassian:</b> T’es sur ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Right path leads to some stairs going down! Cassian, lad, let us go there ya?
+<b><c3=BDA46A,736440>Samy:</b></c3> A droite ça mène à des escaliers descendants! Cassian, mon ami, allons voir par là ok?
+<b>Cassian:</b> Works for me. Good luck you two.
+<b>Cassian:</b> Ok pour moi. Bonne chance, vous deux.
+<b>\c[2]Tom:</b>\c[0] So we go left then? Well, you first.
+<b>\c[2]Tom:</b>\c[0] Donc on part à gauche alors ? Ok, après toi.
+<b>Neil:</b> What? But this room is useless for you!
+<b>Neil:</b> Quoi ? Mais cette pièce ne sert à rien pour vous !
+<b>Neil:</b> I told you it's useless!
+<b>Neil:</b> Je t'ai dit que ça servait à rien !

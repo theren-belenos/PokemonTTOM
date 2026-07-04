@@ -1,0 +1,30 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map051]
+<b>Madelynn:</b> Hey, we can see Titaga from up there!
+<b>Madelynn:</b> Hey, on peut voir Titaga depuis là !
+<b>Madelynn:</b> So pretty, right?
+<b>Madelynn:</b> Super joli, non ?
+<b>Maeva:</b> We're studying for a presentation!
+<b>Maeva:</b> On étudie pour un exposé !
+<b>Maeva:</b> That won't be useful!
+<b>Maeva:</b> C'est pas ça qui va nous aider !
+<b>Elder:</b> Hello young one. Head west for the Soul Shelter and East for Titaga!
+<b>Papy:</b> Bonjour petite. Va à l'ouest pour le Refuge aux Esprits et à l'est pour Titaga !
+<b>Youngster:</b> I think I'm the group's useless one...
+<b>Gamin:</b> Jcrois que je suis celui du groupe qui sert à rien...
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+^ To Greymoose\n-> Titaga\n<- Soul Shelter
+^ Vers Greymoose\n-> Titaga\n<- Refuge aux Esprits
+<b>Lady:</b> Fascinating how these berries can grow on such dry soil!
+<b>Dame:</b> C'est fascinant comment les baies peuvent pousser sur un sol si aride !
+Yes
+Oui
+No
+Non

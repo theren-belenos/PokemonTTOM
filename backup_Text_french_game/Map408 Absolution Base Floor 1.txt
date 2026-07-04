@@ -1,0 +1,62 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map408]
+<b>Shana:</b> How did you get there?
+<b>Shana:</b> Comment t'es arrivé là ?
+<b>Shana:</b> How??
+<b>Shana:</b> Comment ??
+<b>Rita:</b> You're just an outlaw!
+<b>Rita:</b> T'es juste un hors-la-loi !
+<b>Justine:</b> We will make a complaint against you!
+<b>Justine:</b> On va porter plainte contre toi !
+<b>Octavius:</b> Ha! You're by your own, just surrend!
+<b>Octavius:</b> Ha ! T'es tout seul, rends-toi !
+<b>Octavius:</b> Oww... Even alone, you're too strong!
+<b>Octavius:</b> Oww... Même seul, t'es trop puissant !
+\c[3]Activating... "A"
+\c[3]Activation... "A"
+\c[3]De-activating... "A"
+\c[3]Désactivation... "A"
+\c[3]Hidden Vault unlocked...
+\c[3]Coffre caché ouvert...
+<b>Petr:</b> You got no chance!
+<b>Petr:</b> T'as aucune chance !
+<b>Petr:</b> Okay, my bad...
+<b>Petr:</b> Okay, désolé...
+...nope! Can't open it!
+...non ! Impossible de l'ouvrir !
+<b>Ulrich:</b> Are you lost?
+<b>Ulrich:</b> T'es perdu ?
+<b>Ulrich:</b> But... Who are you?
+<b>Ulrich:</b> Mais... Qui es-tu ?
+\c[3]Activating... "P"
+\c[3]Activation... "P"
+\c[3]De-activating... "P"
+\c[3]Désactivation... "P"
+There is only trash in there.
+There is only trash in there.
+\c[3]Activating... "I"
+\c[3]Activation... "I"
+\c[3]De-activating... "I"
+\c[3]Désactivation... "I"
+<b>Grunt:</b> Oww...
+<b>Grunt:</b> Oww...
+<b>Violine:</b> Go back home!
+<b>Violine:</b> Retourne chez toi !
+<b>Violine:</b> Leave OUR home!!
+<b>Violine:</b> Pars de notre chez nous !
+<b>Grunt:</b> Ouch!
+<b>Sbire:</b> Ouch !
+\c[3]Activating... "T"
+\c[3]Activation... "T"
+\c[3]De-activating... "T"
+\c[3]Désactivation... "T"
+<b>Tao:</b> What?
+<b>Tao:</b> Quoi ?
+<b>Tao:</b> But...
+<b>Tao:</b> Mais...
+<b>Quincy:</b> It's a private property!
+<b>Quincy:</b> C'est une propriété privée !
+<b>Quincy:</b> You trespasser!
+<b>Quincy:</b> T'es qu'un cambrioleur !

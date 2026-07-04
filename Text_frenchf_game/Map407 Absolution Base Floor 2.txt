@@ -1,0 +1,136 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map407]
+\c[3]Admin
+\c[3]Admin
+\c[3]Hidden Vault unlocked...
+\c[3]Coffre caché ouvert...
+<b>???:</b> Oh? Another one?
+<b>???:</b> Oh ? Encore une autre ?
+<b>\c[2]Tom:</b>\c[0] \pn? We're a bit in a tight spot here.
+<b>\c[2]Tom:</b>\c[0] \pn ? C'est un peu chaud là…
+<b><c3=BDA46A,736440>Samy:</b></c3> Yea, we fight a lot of them but the Normal Leader and me we're out of gas. Sorry lads...
+<b><c3=BDA46A,736440>Samy:</b></c3> Ouais, on en a affronté un paquet mais le Leader Normal et moi on a plus de jus. Désolé les amis…
+<b><c3=BDA46A,736440>Samy:</b></c3> Yea, we fight a lot of them but Cassian and me we're out of gas. Sorry lads...
+<b><c3=BDA46A,736440>Samy:</b></c3> Ouais, on en a affronté un paquet mais Cassian et moi on a plus de jus. Désolé les amis…
+<b>???:</b> Silence! Elias, I'm busy with this one, so take care of the new guy.
+<b>???:</b> Silence ! Elias, je suis occupé avec celui-là, donc tu te charges de la nouvelle venue.
+<b>Elias:</b> Understood.
+<b>Elias:</b> Compris.
+<b>Elias:</b> Hey you're the other one from before!
+<b>Elias:</b> Hey t'es la meuf de l'autre coup !
+<b>Elias:</b> This time, with a real team, you got no chances!
+<b>Elias:</b> Cette fois, avec une vraie équipe, t'as aucune chance !
+<b>Elias:</b> Welcome to reality, kid!
+<b>Elias:</b> Bienvenue dans la réalité, gamine !
+<b>Elias:</b> Khh! Not again!
+<b>Elias:</b> Khh ! Pas encore !
+<b>???:</b> Oh, Elias, you lost? Disappointing...
+<b>???:</b> Oh, Elias, t'as perdu ? Décevant...
+<b>Elias:</b> Sorry...
+<b>Elias:</b> Désolé...
+<b>???:</b> Don't worry, I took care of the other one. I can easily destroy this vermin.
+<b>???:</b> Ne t'inquiète pas, je me suis occupé de l'autre. Je peux facilement détruire cet insecte.
+<b>\c[2]Tom:</b>\c[0] Damn! Sorry \pn, you got no chance... Didn't think someone here would be so powerful...
+<b>\c[2]Tom:</b>\c[0] C'est pas vrai ! Désolé, \pn, tu n'as aucune chance... Je ne pensais pas qu'il y aurait quelqu'un d'aussi puissant ici...
+<b>???:</b> Sleep tight...
+<b>???:</b> Bonne nuit...
+<b>???:</b> What? How??
+<b>???:</b> Quoi ? Comment ??
+<b>???:</b> Pathetic. You really underestimated us.
+<b>???:</b> Pathetique. Vous nous sous-estimez lourdement.
+<b>???:</b> Team Absolution will thrive!
+<b>???:</b> La Team Absolution est inarrêtable !
+<b>Elias:</b> Heh. I'm kind of disappointed. Too easy.
+<b>Elias:</b> Heh. Je suis presque déçu. Trop facile.
+<b>???:</b> Very well, Elias. They really underestimated us.
+<b>???:</b> Très bien, Elias. Ils nous ont vraiment sous-estimés.
+<b>\c[7]Aristarque:</b>\c[0] Not so fast!
+<b>\c[7]Aristarque:</b>\c[0] Pas si vite !
+<b>\c[7]Aristarque:</b>\c[0] All of you are under arrest! This is the end of Team Absolution!
+<b>\c[7]Aristarque:</b>\c[0] Vous êtes tous en état d'arrestation ! C'est la fin de la Team Absolution !
+<b>???:</b> NO! How could it be? I was told the rest of the League would be occupied!
+<b>???:</b> NON ! Comment est-ce possible ? On m'avait pourtant assuré que le reste de la Ligue serait occupé !
+<b>\c[7]Aristarque:</b>\c[0] Ha! You wanted to take hostages, right? How dare you!
+<b>\c[7]Aristarque:</b>\c[0] Ha ! Vous vouliez prendre des otages, c'est ça ? Comment osez-vous !
+<b>\c[7]Aristarque:</b>\c[0] Someone gave us a false clue, trying to lure us far away.
+<b>\c[7]Aristarque:</b>\c[0] Quelqu'un nous a donné une fausse information pour nous éloigner.
+<b>\c[7]Aristarque:</b>\c[0] But I had a bad feeling. I remembered Tom's operation here.
+<b>\c[7]Aristarque:</b>\c[0] Mais j'ai eu un mauvais pressentiment. Je me suis souvenu de l'opération de Tom ici.
+<b>\c[7]Aristarque:</b>\c[0] So I sent Makar and Margaret alone to check the clue, and came here with Cecily and Callistrate.
+<b>\c[7]Aristarque:</b>\c[0] Donc j'ai envoyé Makar et Margaret pour vérifier cette fausse info, et suis venu ici avec Cecily et Callistrate.
+<b>\c[10]Cecily:</b>\c[0] So, strange guy, what are you gonna do?
+<b>\c[10]Cecily:</b>\c[0] Alors, mec chelou, tu vas faire quoi ?
+<b>\c[7]Callistrate:</b>\c[0] Take on the Champion and two members of the Elite 4 by yourself?
+<b>\c[9]Callistrate:</b>\c[0] Affronter le Maître et deux membres du Conseil 4 tout seul ?
+<b>???:</b> Curse you!
+<b>???:</b> Soyez maudits !
+<b>???:</b> ...
+<b>???:</b> ...
+<b>???:</b> We surrender. This may be the end of Team Absolution for now. But our memories will prevail!
+<b>???:</b> On se rend. C'est peut-être la fin de la Team Absolution, pour l'instant. Mais nos idées nous survivront !
+<b>\c[10]Cecily:</b>\c[0] Yeah, yeah, we got it. Stay quiet and follow us.
+<b>\c[10]Cecily:</b>\c[0] Ouais ouais on a compris. Tais-toi et suis-nous.
+All members of Team Absolution are escorted out of the room (with some kicks from Cecily)
+Tous les membres de la Team Absolution sont escortés hors de la pièce (avec quelques coups de pied de Cecily).
+<b>\c[7]Aristarque:</b>\c[0] Thanks to all of you. You won enough time for us to arrive.
+<b>\c[7]Aristarque:</b>\c[0] Merci à tous. Vous avez gagné assez de temps pour qu'on puisse arriver.
+<b>\c[7]Aristarque:</b>\c[0] And congrats to you, Tom. I didn't think this was their actual headquarters. You proved me wrong.
+<b>\c[7]Aristarque:</b>\c[0] Et bravo à toi, Tom. Je ne pensais pas que ce serait vraiment leur QG. Tu m'as donné tort.
+<b>\c[2]Tom:</b>\c[0] ...
+<b>\c[2]Tom:</b>\c[0] ...
+<b>\c[7]Aristarque:</b>\c[0] We're positive that they're responsible for the recent earthquakes. They were using explosives.
+<b>\c[7]Aristarque:</b>\c[0] On est à peu près sûrs qu'ils sont responsables des récents séismes. Ils utilisaient des explosifs.
+<b>\c[7]Aristarque:</b>\c[0] \pn, isn't it wonderful? Your town is finally avenged!
+<b>\c[7]Aristarque:</b>\c[0] \pn, n'est-ce pas merveilleux ? Ta ville est finalement vengée !
+<b>\c[7]Aristarque:</b>\c[0] You should throw a celebration! Haha!
+<b>\c[7]Aristarque:</b>\c[0] Tu devrais organiser une fête ! Haha !
+<b>\c[7]Aristarque:</b>\c[0] Off I go! Later, younglings!
+<b>\c[7]Aristarque:</b>\c[0] Aller, j'y vais ! A plus, les jeunes !
+<b>\c[2]Tom:</b>\c[0] Hmmm... Before we all go back to our lives, can we talk a bit?
+<b>\c[2]Tom:</b>\c[0] Hmmm... Avant qu'on retourne tous à nos activités respectives, on peut parler un peu ?
+<b><c3=BDA46A,736440>Samy:</b></c3> You’re right lad. Speaking here is not the best.
+<b><c3=BDA46A,736440>Samy:</b></c3> T’as raison. Parler ici c’est pas l’idéal.
+<b><c3=BDA46A,736440>Samy:</b></c3> Let’s go to your office, right?
+<b><c3=BDA46A,736440>Samy:</b></c3> Allons dans ton bureau, non ?
+<b><c3=BDA46A,736440>Samy:</b></c3> It’s on the second floor of the Townhouse. Is that okay?
+<b><c3=BDA46A,736440>Samy:</b></c3> C’est à l’étage 2 du Centre Communautaire. C’est OK ?
+<b>Cassian:</b> It's not the best to talk here... Let's meet in my office in a few moments.
+<b>Cassian:</b> C'est pas idéal de parler ici... RDV dans mon bureau dans quelques temps.
+<b>Cassian:</b> It's on the second floor of the Townhouse. See you soon!
+<b>Cassian:</b> C'est à l'étage 2 du Centre Communautaire. Ok pour vous ?
+<b>\c[2]Tom:</b>\c[0] Works for me.
+<b>\c[2]Tom:</b>\c[0] Ok pour moi.
+<b><c3=BDA46A,736440>Samy:</b></c3> Alrighty then. See you there!
+<b><c3=BDA46A,736440>Samy:</b></c3> Alors d'accord. On se voit là-bas !
+<b><c3=BDA46A,736440>Samy:</b></c3> Oh, \pn, during our exploration we went into some sort of stockage space, in the basement.
+<b><c3=BDA46A,736440>Samy:</b></c3> Oh, \pn, pendant notre exploration on est tombé sur une sorte d'espace de stockage, au sous-sol.
+<b><c3=BDA46A,736440>Samy:</b></c3> We didn't pick anything because we were in a hurry but, if you want some free items, you can give it a go!
+<b><c3=BDA46A,736440>Samy:</b></c3> On a rien pris car on était pressé mais, si tu veux quelques objets gratuits, tu devrais y faire un tour !
+<b><c3=BDA46A,736440>Samy:</b></c3> What? Erm, yes, I MIGHT have touched a dubious button…
+<b><c3=BDA46A,736440>Samy:</b></c3> Quoi ? Oui c’est POSSIBLE que j’aie touché un bouton un peu suspect...
+<b><c3=BDA46A,736440>Samy:</b></c3> Yeah, yeah, I know, It’s when this mini earthquake happened.
+<b><c3=BDA46A,736440>Samy:</b></c3> Oui, oui, je sais, c’est au moment où ce mini séisme s’est déclenché.
+<b><c3=BDA46A,736440>Samy:</b></c3> I already said I was sorry!
+<b><c3=BDA46A,736440>Samy:</b></c3> J’ai déjà dit que j’étais désolé !
+The Normal Leader shows a drawing resembling Tom.
+Le Leader Normal montre un dessin ressemblant à Tom.
+<b><c3=BDA46A,736440>Samy:</b></c3> I know it’s why Tom came to see us! But \pn didn’t need any help right?
+<b><c3=BDA46A,736440>Samy:</b></c3> Je sais bien que c’est pour ça que Tom est venu nous voir ! Mais \pn n’avait pas besoin d’aide, si ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ok, ok, je serai plus prudent… Bref, allons au Centre Communautaire ok ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ok, ok, je serai plus prudent… Bref, allons au Centre Communautaire ok ?
+<b>Cassian:</b> We didn't pick anything huh? I kinda remember a certain someone pushing a big button causing a mini earthquake...
+<b>Cassian:</b> On a rien pris hein ? Je me souviens d’une certaine personne qui a appuyé sur un gros bouton, causant un mini séisme…
+<b><c3=BDA46A,736440>Samy:</b></c3> eeeeh... Oupsie ?
+<b><c3=BDA46A,736440>Samy:</b></c3> eeeeuh... Oupsie ?
+<b>Cassian:</b> Dont "Oupsie" me! Because of this Tom was worried about us and came down, leaving \pn alone!
+<b>Cassian:</b> Me fais pas le coup du “Oupsie” ! Du coup Tom s’est inquiété et est venu, en laissant \pn seul !
+<b><c3=BDA46A,736440>Samy:</b></c3> Okay, okay... my bad. But \pn didn't need help huh?
+<b><c3=BDA46A,736440>Samy:</b></c3> Okay, okay... ma faute. Mais \pn n’avait pas vraiment besoin d’aide si ?
+<b>Cassian:</b> Humpf, you should still be more careful... Anyway, I wait for you two in the Townhouse.
+<b>Cassian:</b> Humpf, tu devrais quand même être plus prudent… Bref, je vous attends tous les deux au Centre Communautaire.
+<b><c3=BDA46A,736440>Samy:</b></c3> Yea yea, I'm going off too. See you soon.
+<b><c3=BDA46A,736440>Samy:</b></c3> Ouais ouais, j’y vais aussi. A très vite.
+\c[3]Passphrase
+\c[3]Mot de passe

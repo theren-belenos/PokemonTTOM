@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map054]
+<b>Molly:</b> I love this place! I'm not lost at all! Yay!
+<b>Molly:</b> I love this place! I'm not lost at all! Yay!
+<b>Molly:</b> Soooooo not lost! Hehe!
+<b>Molly:</b> Soooooo not lost! Hehe!
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+Yes
+Yes
+No
+No

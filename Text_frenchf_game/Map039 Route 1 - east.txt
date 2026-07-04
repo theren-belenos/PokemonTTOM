@@ -1,0 +1,60 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map039]
+<b>\c[9]Melly:</b>\c[0] Oh h-hi \pn!
+<b>\c[9]Melly:</b>\c[0] Oh b-bonjour \pn!
+<b>\c[9]Melly:</b>\c[0] How are you?
+<b>\c[9]Melly:</b>\c[0] Comment vas-tu ?
+<b>\c[9]Melly:</b>\c[0] I was training my Pokémon here so I went to say hello to my uncle Willy!
+<b>\c[9]Melly:</b>\c[0] J'entraînais mon Pokémon dans le coin donc je suis allée dire bonjour à mon oncle Willy !
+<b>Willy:</b> Hello \pn, how are you?
+<b>Willy:</b> Salut \pn, comment vas-tu?
+<b>\c[9]Melly:</b>\c[0] Hey, let me show you the cuuuuute Pokémon I got, okay?
+<b>\c[9]Melly:</b>\c[0] Hey, laisse moi te montrer le Pokémon troooooop mignon que j’ai capturé, ok ?
+<b>\c[9]Melly:</b>\c[0] Hehe... You're strong!
+<b>\c[9]Melly:</b>\c[0] Hehe... T’es forte !
+<b>\c[9]Melly:</b>\c[0] What? The prof. want to speak with us?
+<b>\c[9]Melly:</b>\c[0] Quoi ? Le Prof veut nous parler ?
+<b>\c[9]Melly:</b>\c[0] Y-YOU WILL BE THE GYM LEADER???
+<b>\c[9]Melly:</b>\c[0] T-TU VAS ÊTRE LE CHAMPION D'ARÈNE ???
+<b>\c[9]Melly:</b>\c[0] No wayyyyy!!! I'm so glad it's you!!!
+<b>\c[9]Melly:</b>\c[0] Sérieuuuuuuuux !!!! Je suis trop contente que ce soit toi !
+<b>\c[9]Melly:</b>\c[0] I wasn't really enthousiast about being a trainer in \v[12]'s Gym...
+<b>\c[9]Melly:</b>\c[0] J’étais pas vraiment enthousiaste à l’idée d’être dresseuse dans l'Arène de \v[12]...
+<b>\c[9]Melly:</b>\c[0] B-but with you, it's fine! Hehe~
+<b>\c[9]Melly:</b>\c[0] M-mais avec toi, c’est cool ! Hehe~
+<b>\c[9]Melly:</b>\c[0] Well I'm heading to the Gym then, see you there!
+<b>\c[9]Melly:</b>\c[0] Eh ben je vais à l’Arène alors, on se voit là-bas !
+<b>Willy:</b> You can't imagine how much I'm relieved \pn.
+<b>Willy:</b> Tu peux pas imaginer à quel point je suis soulagé \pn.
+<b>Willy:</b> Melly was really worried about all this Gym stuff.
+<b>Willy:</b> Melly était vraiment préoccupée par toute cette histoire d'Arène.
+<b>Willy:</b> So you will be our Gym Leader ha! Maybe I have something that could help you...
+<b>Willy:</b> Donc tu seras notre Championne d'Arène hein ? Peut-être que je peux te donner quelque chose...
+<b>Willy:</b> This rod has seen better days, but its perfect for a beginner!
+<b>Willy:</b> Cette canne a connu des jours meilleurs, mais c'est parfait pour une débutante !
+<b>Willy:</b> Do not hesitate to try to fish in various spots.
+<b>Willy:</b> N'hésites pas à pêcher dès que tu le peux.
+<b>Willy:</b> Especially you, the Water Leader!
+<b>Willy:</b> Surtout toi, le Leader Eau !
+<b>Willy:</b> You won't find a lot of water Pokémons on the ground anyway!
+<b>Willy:</b> Tu ne trouveras pas tant de Pokémon Eau que ça sur terre de toute façon !
+<b>Willy:</b> I know you're not the Water Leader, but water Pokémons are still nice no?
+<b>Willy:</b> Je sais que tu n'es pas le Leader Eau, mais les Pokémons Eau sont quand même pas mal non ?
+To catch a Pokémon, take out your rod and then press use button. A jauge will appear. Keep use pressed until the red zone!
+Pour capturer un Pokémon, prenez votre canne et appuyer sur le bouton d'action. Une jauge apparaîtra. Laissez le bouton appuyé jusqu'à atteindre la zone rouge !
+<b>Willy:</b> Anyway, I let you go back to your Gym, <i>My Leader.</i>
+<b>Willy:</b> En tous cas, je te laisse retourner à ton arène, <i>ma Leader</i>
+Willy's hut
+Cabane de Willy
+You spend time at the beach with Melly.
+Vous passez du temps à la plage avec Melly.
+This is really nice!
+C'est vraiment le top !
+<b>Will:</b> Let's exercise together!
+<b>Will:</b> Entraînons-nous ensemble !
+<b>Will:</b> You gotta stay in shape!
+<b>Will:</b> Il faut garder la forme !
+<b>Willy:</b> I love the breeze of the sea...
+<b>Willy:</b> J'adore la brise marine...

@@ -1,0 +1,630 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map022]
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? I hope you guys build the new block soon so I can have my flat!
+You already gave a gift to Samy this week!
+You already gave a gift to Samy this week!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
+You spend time training with Melly at the Gym.
+Vous passez du temps à vous entraîner avec Melly dans l'Arène.
+She is really cool!
+Elle est vraiment cool !
+You spend time hanging with Marley at the Gym.
+Vous passez du temps à traîner avec Marley dans l'Arène.
+He is really cool!
+Il est vraiment cool !
+You spend time training with Samy at the Gym.
+You spend time training with Samy at the Gym.
+<b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
+<b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe enregistrée ?
+End of the first half of the week!
+Fin de la mi-semaine !
+What do you want to do?
+Que voulez-vous faire ?
+Are you really sure you want to skip Wednesday?
+Êtes-vous vraiment sûr de vouloir passer le Mercredi ?
+End of the week!
+Fin de la semaine !
+Change your party?
+Changer votre équipe ?
+<b>\c[10]Maple:</b>\c[0] You didn't find <b>\c[5]Melly </b>\c[0]yet?
+<b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly </b>\c[0] ?
+<b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
+<b>\c[10]Maple:</b>\c[0] Sois prudent !
+<b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
+<b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
+<b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
+<b>\c[10]Maple:</b>\c[0] Bien, tout d’abord, tu dois choisir ton équipe. Tu peux bien sûr garder celle de ton combat de rang.
+<b>\c[10]Maple:</b>\c[0] Do you want to change your party?
+<b>\c[10]Maple:</b>\c[0] Veux-tu changer ton équipe ?
+<b>\c[10]Maple:</b>\c[0] Very well, let me explain you.
+<b>\c[10]Maple:</b>\c[0] Très bien, laisse moi t’expliquer.
+<b>\c[10]Maple:</b>\c[0] Everyday, a certain amount of trainers will try to get your badge.
+<b>\c[10]Maple:</b>\c[0] Tous les jours, un certain nombre de dresseurs - les “challengers” - vont essayer d’obtenir ton badge.
+<b>\c[10]Maple:</b>\c[0] The amount varies slightly and depends on the Town's Fame.
+<b>\c[10]Maple:</b>\c[0] La quantité fluctue légèrement, et dépend de la Fame de la ville.
+<b>\c[10]Maple:</b>\c[0] We're actually rock bottom there, so we can expect between 0 and 2 trainers.
+<b>\c[10]Maple:</b>\c[0] On est au plus bas en ce moment, donc on peut espérer entre 0 et 2 challengers.
+<b>\c[10]Maple:</b>\c[0] Each trainer type has a number of stars reflecting their strength.
+<b>\c[10]Maple:</b>\c[0] Chaque challenger a un certain nombre d’étoiles reflétant leur force.
+<b>\c[10]Maple:</b>\c[0] As the rank 1 Leader, you'll primarly see 1 star trainers and occasionnaly 2 stars.
+<b>\c[10]Maple:</b>\c[0] En tant que Champion rang 1, tu veras principalement des challengers 1 étoile, parfois 2 étoiles.
+<b>\c[10]Maple:</b>\c[0] So the battles will honestly be quite easy.
+<b>\c[10]Maple:</b>\c[0] Donc les combats seront honnêtement plutôt faciles.
+<b>\c[10]Maple:</b>\c[0] You'll get higher star-ranked players later on, when you climb the ranks!
+<b>\c[10]Maple:</b>\c[0] Tu auras des challengers avec plus d’étoiles plus tard, en montant de rang !
+<b>\c[10]Maple:</b>\c[0] Get into position and let's wait for your first opponent.
+<b>\c[10]Maple:</b>\c[0] Mets toi en position et attendons ton premier challenger.
+A few moments later...
+Un peu après…
+<b>\c[10]Maple:</b>\c[0] Did you hear that? Someone's coming!
+<b>\c[10]Maple:</b>\c[0] Tu as entendu ? Quelqu’un arrive !
+A Preschooler appeared!
+Un Enfant apparaît !
+<b>\wu\c[10]Maple:</b>\c[0] First, the challenger has to battle Melly.
+<b>\wu\c[10]Maple:</b>\c[0] Tout d’abord, le challenger affronte Melly.
+...\| ...\| ...
+...\| ...\| ...
+Melly lost!
+Melly a perdu !
+<b>\wu\c[10]Maple:</b>\c[0] As the first Gym Trainer, Melly don't have a particularly strong team.
+<b>\wu\c[10]Maple:</b>\c[0] En tant que première dresseuse de l’Arène, Melly n’a pas une équipe très forte.
+<b>\wu\c[10]Maple:</b>\c[0] If you get closer to her, she will get a better team.
+<b>\wu\c[10]Maple:</b>\c[0] Si tu te rapproches d’elle, cela pourrait lui donner envie de s’améliorer.
+<b>\wu\c[10]Maple:</b>\c[0] You can ask Marley for statistics including Melly's chances to win.
+<b>\wu\c[10]Maple:</b>\c[0] Tu peux demander à Marley pas mal d’infos, notamment les chances de victoire de Melly.
+<b>\wu\c[10]Maple:</b>\c[0] As Melly is for now your only Gym trainer, the next stop is you!
+<b>\wu\c[10]Maple:</b>\c[0] Comme Melly est pour le moment notre seule dresseuse, le prochain arrêt c’est toi !
+<b>Jimmy:</b> Hello Leader! I want a badge!!
+<b>Jimmy:</b> Salut Champion ! Je veux un badge !!
+Battle Start!
+Début du combat !
+<b>Jimmy:</b> Ehhh! You're too strong!
+<b>Jimmy:</b> Ehhh ! T’es trop fort !
+<b>\c[10]Maple:</b>\c[0] Congratulations on your first win!
+<b>\c[10]Maple:</b>\c[0] Félicitations pour ta première victoire !
+<b>Jimmy:</b> Yay!! I won!!
+<b>Jimmy:</b> Ouais !! J’ai gagné !!
+<b>c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
+<b>c[10]Maple:</b>\c[0] Ok euh, je pensais pas vraiment que tu allais perdre aujourd’hui… Imaginons que tu as gagné ok ?
+<b>\c[10]Maple:</b>\c[0] Don't worry about money and fame, we will review this at the end of the day.
+<b>\c[10]Maple:</b>\c[0] Ne te préoccupe pas de l’argent et la Fame, on verra ça à la fin de la journée.
+<b>\c[10]Maple:</b>\c[0] Let's wait for maybe another challenger?
+<b>\c[10]Maple:</b>\c[0] Attendons peut-être un autre challenger ?
+<b>\c[10]Maple:</b>\c[0] Another challenger is coming!
+<b>\c[10]Maple:</b>\c[0] Un autre challenger arrive !
+A Pokémon Breeder appeared!
+Une Éleveuse Pokémon apparaît !
+<b>\wu\c[10]Maple:</b>\c[0] If you want to speed up things, some skip options are available. Speak to Marley to select it.
+<b>\wu\c[10]Maple:</b>\c[0] Si tu veux accélérer les choses, des options d’animations sont disponibles. Parle à Marley pour les choisir.
+<b>Josie:</b> I'm really glad the Gym is open again! I will get this badge!
+<b>Josie:</b> Je suis vraiment contente que l’Arène soit de nouveau ouverte ! J’aurai ce badge !
+<b>Josie:</b> Well, you're not to be kidding with! I will come back stronger!
+<b>Josie:</b> Eh bien tu plaisantes pas ! Je reviendrai plus forte !
+<b>\c[10]Maple:</b>\c[0] Congratulations!
+<b>\c[10]Maple:</b>\c[0] Félicitations !
+<b>Josie:</b> One badge for me!
+<b>Josie:</b> Un badge pour moi !
+<b>\c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
+<b>\c[10]Maple:</b>\c[0] Ok euh, je pensais pas vraiment que tu allais perdre aujourd’hui… Imaginons que tu as gagné ok ?
+<b>\c[10]Maple:</b>\c[0] Did you see? This challenger was 2-stars, so she was clearly better than the 1-star little kid!
+<b>\c[10]Maple:</b>\c[0] Tu as vu ? Ce challenger était 2 étoiles, donc elle était clairement meilleure que le petit garçon 1 étoile !
+<b>\c[10]Maple:</b>\c[0] As I said earlier, with our fame level, 2 trainers is the max. So we're sure that our day is over!
+<b>\c[10]Maple:</b>\c[0] Comme je le disais plus tôt, 2 challengers c’est le max pour le moment. On est donc sûr que la journée est terminée !
+<b>\c[10]Maple:</b>\c[0] When the day is over, the day recap appears!
+<b>\c[10]Maple:</b>\c[0] Quand la journée est terminée, le Récap du jour apparaît !
+<b>\c[10]Maple:</b>\c[0] As you saw, you get 25% of the money earned, the rest goes to the town.
+<b>\c[10]Maple:</b>\c[0] Comme tu le vois, tu récupères 25% de l’argent gagné, le reste va à la ville.
+<b>\c[10]Maple:</b>\c[0] Futhermore, you saw that we need 4 more fame points to get to Fame Level 1.
+<b>\c[10]Maple:</b>\c[0] De plus, tu vois qu'il te manque encore 4 points de fame pour atteindre le Niveau de Fame 1.
+<b>\c[10]Maple:</b>\c[0] Let's hope we earn more during the rest of the week!
+<b>\c[10]Maple:</b>\c[0] Espérons qu’on puisse en gagner davantage durant le reste de la semaine !
+<b>\c[10]Maple:</b>\c[0] Once the work day is over, you will have 3 options:
+<b>\c[10]Maple:</b>\c[0] Une fois que la journée de travail est terminée, tu as 3 options :
+<b>\c[10]Maple:</b>\c[0] First option, "Skip to next work day". Allows you to quickly start the next work day, skipping evening and morning.
+<b>\c[10]Maple:</b>\c[0] Première option, “Prochain jour de travail”. Te permet de rapidement enchaîner, en passant le soir et le matin.
+<b>\c[10]Maple:</b>\c[0] Second option, "Skip to next morning". Allows you to directly go to sleep and wake up the next morning.
+<b>\c[10]Maple:</b>\c[0] Seconde option, "Prochaine matinée". Te permet d’aller directement dormir en passant la soirée.
+<b>\c[10]Maple:</b>\c[0] You will be transfered to the lab's upstairs, or your house if it's rebuilt already.
+<b>\c[10]Maple:</b>\c[0] Tu seras transféré à l’étage du Labo, ou dans ta maison si elle a été reconstruite.
+<b>\c[10]Maple:</b>\c[0] Then you can spend the morning as you want, and you'll need to speak to Marley to begin the next work day.
+<b>\c[10]Maple:</b>\c[0] Ensuite tu peux faire ce que tu veux de la matinée, et tu devras parler à Marley pour commencer ta journée de travail.
+<b>\c[10]Maple:</b>\c[0] Last option, "Evening time". Let's you just go outside for the evening/night time and do what you want.
+<b>\c[10]Maple:</b>\c[0] Enfin, “Soirée”. Te permet d’aller dehors pour la soirée/nuit et faire ce que tu veux.
+<b>\c[10]Maple:</b>\c[0] In this case, you need to go to sleep afterwards and go back to your gym to start the work day.
+<b>\c[10]Maple:</b>\c[0] Dans ce cas, tu devras aller dormir après puis retourner dans ton Arène pour commencer la journée.
+<b>\c[10]Maple:</b>\c[0] You will also be able to skip the morning when going to sleep, starting the next work day directly.
+<b>\c[10]Maple:</b>\c[0] Tu pourras aussi passer le matin en allant dormir, ce qui commencera la prochaine journée directement.
+<b>\c[10]Maple:</b>\c[0] For this day please select the first option.
+<b>\c[10]Maple:</b>\c[0] Pour aujourd’hui prend la première option s’il te plaît.
+<b>\c[10]Maple:</b>\c[0] ...and we're back here again!
+<b>\c[10]Maple:</b>\c[0] ...et on est de retour ici !
+<b>\c[10]Maple:</b>\c[0] As this is a new day, you have to select your party.
+<b>\c[10]Maple:</b>\c[0] Comme c’est une nouvelle journée, tu dois choisir ton équipe.
+A Youngster appeared!
+Un Gamin apparaît !
+<b>\c[9]Melly won!!</b>\c[0]
+<b>\c[9]Melly a gagné !!</b>\c[0]
+<b>\c[9]Melly:</b>\c[0] Yay!!! My first win!!
+<b>\c[9]Melly:</b>\c[0] Ouais !!! Ma première victoire !!
+<b>\wu\c[10]Maple:</b>\c[0] Melly won her match! Her opponent consequently has to go out to heal his Pokémons.
+<b>\wu\c[10]Maple:</b>\c[0] Melly a remporté son match ! Le challenger doit donc sortir pour soigner ses Pokémon.
+<b>\wu\c[10]Maple:</b>\c[0] It's then time for Marley to step-in!
+<b>\wu\c[10]Maple:</b>\c[0] C’est maintenant que Marley intervient !
+<b>\wu\c[10]Maple:</b>\c[0] Marley is talking to him to convince him to try again.
+<b>\wu\c[10]Maple:</b>\c[0] Marley tente de le persuader de réessayer.
+<b>\wu\c[10]Maple:</b>\c[0] Marley says he manage to get around half of challengers to come back, and even 1 out of 5 to come back twice!
+<b>\wu\c[10]Maple:</b>\c[0] Marley dit qu’il arrive à faire revenir à peu près la moitié des challengers, et même 1 sur 5 reviennent deux fois !
+<b>\wu\c[10]Maple:</b>\c[0] It's really a huge bonus because when the challenger come back, if Melly or yourself manage to beat him again...
+<b>\wu\c[10]Maple:</b>\c[0] C’est vraiment un gros bonus car quand le challenger revient, si Melly ou toi réussissent à le battre de nouveau…
+<b>\wu\c[10]Maple:</b>\c[0] ...you get the rewards, money and fame, a second time!
+<b>\wu\c[10]Maple:</b>\c[0] … tu obtiens les récompenses, argent et Fame, une seconde fois !
+<b>\wu\c[10]Maple:</b>\c[0] And it doesn't count towards the daily min and max trainers!
+<b>\wu\c[10]Maple:</b>\c[0] Et ça ne compte pas dans le nombre de challengers quotidien !
+<b>\wu\c[10]Maple:</b>\c[0] So it is litteraly free rewards.
+<b>\wu\c[10]Maple:</b>\c[0] Donc ce sont vraiment des récompenses gratuites.
+<b>\wu\c[10]Maple:</b>\c[0] It doesn't work for trainers losing to you though.
+<b>\wu\c[10]Maple:</b>\c[0] Par contre, cela ne marche pas pour les challengers perdant contre toi.
+<b>\wu\c[10]Maple:</b>\c[0] When trainers lose to you, they will always go train more and never come back in the same day.
+<b>\wu\c[10]Maple:</b>\c[0] Dans ce cas, ils iront toujours s’entraîner davantage et ne reviendront jamais le même jour.
+<b>\wu\c[10]Maple:</b>\c[0] Let's wait a bit and see if this kid comes back.
+<b>\wu\c[10]Maple:</b>\c[0] Attendons un peu et voyons si ce garçon revient.
+Youngster Jason tries again!
+Jason le Gamin essaye encore !
+<b>\wu\c[10]Maple:</b>\c[0] This time Melly lost, it's your turn!
+<b>\wu\c[10]Maple:</b>\c[0] Cette fois Melly a perdu, c’est à toi !
+<b>Jason:</b> Heh! Now I'm stronger!
+<b>Jason:</b> Heh ! Maintenant je suis plus fort!
+<b>Jason:</b> This might be just too difficult for me... *sob*
+<b>Jason:</b> C’est peut-être trop difficile pour moi… *snif*
+<b>\c[10]Maple:</b>\c[0] Erm... He will be fine...
+<b>\c[10]Maple:</b>\c[0] Erm... Il va bien…
+<b>Jason:</b> Haha! Hardwork always pays off!
+<b>Jason:</b> Haha ! Le dur labeur porte toujours ses fruits !
+The day ends...
+La journée se termine…
+<b>\c[10]Maple:</b>\c[0] Hmm no other challengers today it seems...
+<b>\c[10]Maple:</b>\c[0] Hmm pas d’autres challengers aujourd’hui apparemment…
+<b>\c[10]Maple:</b>\c[0] Only 2 more fame to get to the Level 1 huh?
+<b>\c[10]Maple:</b>\c[0] Plus que 2 de Fame pour atteindre le Niveau 1 hum ?
+<b>\c[10]Maple:</b>\c[0] You can't wait I'm sure, but tomorrow is Wednesday, it's a free day for you!
+<b>\c[10]Maple:</b>\c[0] Je sais que t’es impatient mais demain c’est Mercredi, tu as la journée libre !
+<b>\c[10]Maple:</b>\c[0] Wednesday is a lot like weekends:
+<b>\c[10]Maple:</b>\c[0] Les Mercredis ressemblent beaucoup aux Week-ends
+<b>\c[10]Maple:</b>\c[0] You can program new city tasks, and spend time with people from your social links.
+<b>\c[10]Maple:</b>\c[0] Tu peux programmer des tâches de ville, et passer du temps avec les gens de tes liens sociaux.
+<b>\c[10]Maple:</b>\c[0] When you finish Tuesday's workday, you will automatically skip to the next morning and get to Wednesday.
+<b>\c[10]Maple:</b>\c[0] Quand tu finis la journée de travail du Mardi, tu iras automatiquement à la prochaine matinée donc à Mercredi.
+<b>\c[10]Maple:</b>\c[0] If you really in a hurry tho, you can also skip Wednesdays.
+<b>\c[10]Maple:</b>\c[0] Si tu es vraiment pressé tu peux aussi passer les Mercredis.
+<b>\c[10]Maple:</b>\c[0] I won't encourage it because you can always spend time with others or plan tasks...
+<b>\c[10]Maple:</b>\c[0] Je l’encourage pas car tu peux toujours passer du temps avec d’autres ou prévoir des tâches…
+<b>\c[10]Maple:</b>\c[0] ...but just this time, please select it so you can see what it's like.
+<b>\c[10]Maple:</b>\c[0] …mais juste cette fois, choisis l’option pour voir comment ça se passe.
+<b>\c[10]Maple:</b>\c[0] We don't have any city tasks left to do until we get to fame level 1 anyway.
+<b>\c[10]Maple:</b>\c[0] On a plus aucune tâche de ville à faire avant le niveau 1 de Fame de toute façon.
+<b>\c[10]Maple:</b>\c[0] So please select the second option, and confirm.
+<b>\c[10]Maple:</b>\c[0] Donc s’il te plaît choisis la deuxième option, et confirme.
+Are you sure you want to skip Wednesday?
+Es-tu sûr de vouloir passer le Mercredi ?
+<b>\c[10]Maple:</b>\c[0] For today, I prepared something special... I hope you won't get mad at me.
+<b>\c[10]Maple:</b>\c[0] Pour aujourd’hui, j’ai prévu quelque chose de spécial… J’espère que tu ne m’en voudras pas.
+A Cooltrainer appeared!
+Une Topdresseuse apparaît !
+Melly didn't stand a chance!
+Melly n’avait aucune chance !
+<b>\wu\c[10]Maple:</b>\c[0] Erm... Sorry Melly...
+<b>\wu\c[10]Maple:</b>\c[0] Erm... Désolé Melly...
+<b>Joyce:</b> ...
+<b>Joyce:</b> ...
+<b>Joyce:</b> Erm, prof? I came here because you asked me to but are you sure?
+<b>Joyce:</b> Erm, prof ? Je suis venue car tu me l’a demandé mais t’es sûr ?
+<b>Joyce:</b> I was preparing to take on the eleventh badge... not the very first...
+<b>Joyce:</b> Je me préparais pour le onzième badge… pas le tout premier…
+<b>\c[10]Maple:</b>\c[0] Yes Joyce I'm sure, just let me speak to \pn first.
+<b>\c[10]Maple:</b>\c[0] Oui Joyce je suis sûr, laisse moi juste parler à \pn d’abord.
+<b>\c[10]Maple:</b>\c[0] As a Gym Leader, you might sometimes encounter someone stronger than you. It's absolutely normal!
+<b>\c[10]Maple:</b>\c[0] En tant que Champion d’Arène, tu peux parfois croiser plus fort que toi. C’est complètement normal !
+<b>\c[10]Maple:</b>\c[0] So I wanted us to experiment this together so you won't panic or anything.
+<b>\c[10]Maple:</b>\c[0] Donc je voulais qu’on expérimente ça ensemble pour que tu ne paniques pas ou quoi.
+<b>\c[10]Maple:</b>\c[0] And it will allow me to explain details about fame, money loss...
+<b>\c[10]Maple:</b>\c[0] Et ça me permettra de te parler plus en détails de la Fame, la perte d’argent…
+<b>\c[10]Maple:</b>\c[0] That's why I asked my friend Joyce to come today.
+<b>\c[10]Maple:</b>\c[0] C’est pour ça que j’ai demandé à mon amie Joyce de venir aujourd’hui.
+<b>\c[10]Maple:</b>\c[0] ...good luck...
+<b>\c[10]Maple:</b>\c[0] ...bonne chance...
+<b>Theren (dev):</b> How did you do that?? What?? Erm we will do as if you lost, sorry.
+<b>Theren (dev):</b> T’as fais comment ?? Hein ?? On va faire comme si t’avais perdu, désolé.
+<b>Joyce:</b> Sorry young one! You will be better one day!
+<b>Joyce:</b> Désolée ! Tu seras plus fort un jour !
+<b>\c[10]Maple:</b>\c[0] When a challenger win against you, you will give him some money (and your badge obviously).
+<b>\c[10]Maple:</b>\c[0] Quand un challenger gagne contre toi, tu lui donnes de l’argent (et ton badge, bien entendu).
+<b>\c[10]Maple:</b>\c[0] Don't worry though, the money is taken from the town's funds, not your own money.
+<b>\c[10]Maple:</b>\c[0] Ne t’inquiète pas, l’argent est pris des fonds de la ville, pas de ton propre argent.
+<b>\c[10]Maple:</b>\c[0] And if the funds aren't enough, I will give some of my research funds.
+<b>\c[10]Maple:</b>\c[0] Et si les fonds sont insuffisants, je donnerai de mes propres fonds de recherche.
+<b>\c[10]Maple:</b>\c[0] About fame, don't worry: losing as a Gym Leader is perfectly understandable and usual!
+<b>\c[10]Maple:</b>\c[0] Pour la Fame, pas d’inquiétude : perdre en tant que Champion d’Arène est normal et courant !
+<b>\c[10]Maple:</b>\c[0] So you won't lose fame upon losing to a challenger.
+<b>\c[10]Maple:</b>\c[0] Donc tu ne perds pas de Fame en cas de défaite.
+<b>\c[10]Maple:</b>\c[0] Well, we will get noone else today.
+<b>\c[10]Maple:</b>\c[0] Bon, on aura personne d’autre aujourd’hui.
+<b>\c[10]Maple:</b>\c[0] Still 2 more fame needed before levelling up huh?
+<b>\c[10]Maple:</b>\c[0] Toujours 2 de fame requis pour monter de niveau n'est-ce pas ?
+<b>\c[10]Maple:</b>\c[0] Tomorrow is Friday, last day of the week. It would be cool to level up before the week-end!
+<b>\c[10]Maple:</b>\c[0] Demain c’est Vendredi, dernier jour de la semaine. Ce serait cool d’atteindre le niveau 1 avant le week-end !
+<b>\c[10]Maple:</b>\c[0] Well, this time take the option of your choice and let's meet up here tomorrow morning!
+<b>\c[10]Maple:</b>\c[0] Bon cette fois, choisis l’option de ton choix et on se donne rdv ici demain matin !
+<b>\c[10]Maple:</b>\c[0] Don't worry \pn, I made sure we got a challenger today.
+<b>\c[10]Maple:</b>\c[0] Ne t’inquiète pas \pn, je me suis assuré qu’on ait un challenger aujourd’hui.
+<b>\c[10]Maple:</b>\c[0] I think that will be cool!
+<b>\c[10]Maple:</b>\c[0] Je pense que ça va être cool !
+\v[12] appeared!
+\v[12] apparaît !
+<b>\r\v[12]:</b>\c[0]: So you really think you can already be a proper Gym Leader huh?
+<b>\r\v[12]:</b>\c[0]: Donc tu penses vraiment que tu es déjà un vrai Champion d’Arène hein ?
+<b>\r\v[12]:</b>\c[0]: Ha! Don't make me laugh!
+<b>\r\v[12]:</b>\c[0]: Ha ! Me fais pas rire !
+<b>\r\v[12]:</b>\c[0]: I will remind you why you're nothing more that an mere impostor!
+<b>\r\v[12]:</b>\c[0]: Je vais te rappeler pourquoi tu n’es rien de plus qu’un imposteur !
+<b>\r\v[12]:</b>\c[0]: Tsk! It's just beginner's luck! Get lucky while you can, loser!
+<b>\r\v[12]:</b>\c[0]: Tsk ! C’est juste la chance du débutant. Profite-en bien tant que tu peux, loser !
+<b>\r\v[12]:</b>\c[0]: Hahahaha what a loser! Cya!
+<b>\r\v[12]:</b>\c[0]: Hahahaha quel loser ! A plus !
+<b>\c[10]Maple:</b>\c[0] Well, this will be enough for levelling up our fame!
+<b>\c[10]Maple:</b>\c[0] Bon, ce sera assez pour gagner un niveau de Fame !
+<b>\c[10]Maple:</b>\c[0] Let's wait the end of the day.
+<b>\c[10]Maple:</b>\c[0] Attendons la fin de la journée.
+<b>\c[10]Maple:</b>\c[0] Congratulations! Thanks to your work, we're finally at fame level 1!
+<b>\c[10]Maple:</b>\c[0] Félicitations ! Grâce à ton travail, nous sommes enfin niveau 1 de Fame !
+<b>\c[10]Maple:</b>\c[0] As friday work is over, it's now the weekend.
+<b>\c[10]Maple:</b>\c[0] Comme la journée de travail du vendredi est finie, c’est maintenant le week-end.
+<b>\c[10]Maple:</b>\c[0] You just unlocked a whole lot of city tasks to do, check it out!
+<b>\c[10]Maple:</b>\c[0] Tu as débloqué tout un tas de tâches de ville à faire, va voir !
+<b>\c[10]Maple:</b>\c[0] Well, I think it's time for me to let you be on your own.
+<b>\c[10]Maple:</b>\c[0] Bon, je pense qu’il est temps que je te laisse continuer en autonomie.
+<b>\c[10]Maple:</b>\c[0] I spoke a lot to you and "held your hand", I hope you didn't find it annoying.
+<b>\c[10]Maple:</b>\c[0] Je t’ai beaucoup parlé et “tenu la main”, j’espère que tu n’as pas trouvé ça pénible.
+<b>\c[10]Maple:</b>\c[0] I just wanted to make sure everything was clear for you.
+<b>\c[10]Maple:</b>\c[0] Je voulais juste m’assurer que tout était clair pour toi.
+<b>\c[10]Maple:</b>\c[0] From now on, do what you want to do.
+<b>\c[10]Maple:</b>\c[0] A partir de maintenant, fais ce que tu veux.
+<b>\c[10]Maple:</b>\c[0] Don't forget to plan tasks for the week during the weekend.
+<b>\c[10]Maple:</b>\c[0] Oublies pas de prévoir des tâches de ville le weekend.
+<b>\c[10]Maple:</b>\c[0] Do not hesitate to speak to the ones in your Social Links during the weekend, spend time with them or even give them gifts.
+<b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec tes liens sociaux, passer du temps avec eux ou même leur offrir des cadeaux.
+<b>\c[10]Maple:</b>\c[0] The last thing I want to tell you:
+<b>\c[10]Maple:</b>\c[0] La dernière chose que je voulais te dire :
+<b>\c[10]Maple:</b>\c[0] Our goal is to bring back the Gym to its former glory.
+<b>\c[10]Maple:</b>\c[0] Notre objectif est que notre Arène retrouve son prestige d’antan.
+<b>\c[10]Maple:</b>\c[0] In other terms, to get it back to rank 12!
+<b>\c[10]Maple:</b>\c[0] En d’autres termes, la ramener au rang 12 !
+<b>\c[10]Maple:</b>\c[0] If you don't rank up, your fame level will soon be limited anyway.
+<b>\c[10]Maple:</b>\c[0] Si tu n’augmente pas de rang, ta Fame sera vite limitée de toute façon.
+<b>\c[10]Maple:</b>\c[0] In order to ask for a rank up battle, you have to :
+<b>\c[10]Maple:</b>\c[0] Pour pouvoir demander un Combat de Rang, tu dois :
+<b>\c[10]Maple:</b>\c[0] 1) Get the badge of the fellow Gym Leader you will battle.
+<b>\c[10]Maple:</b>\c[0] 1) Obtenir le badge du collègue Champion d’Arène que tu veux affronter
+<b>\c[10]Maple:</b>\c[0] 2) Get to a certain fame level.
+<b>\c[10]Maple:</b>\c[0] 2) Atteindre un certain niveau de Fame.
+<b>\c[10]Maple:</b>\c[0] 3) A third objective is often given to you.
+<b>\c[10]Maple:</b>\c[0] 3) Un autre objectif t’es souvent donné.
+<b>\c[10]Maple:</b>\c[0] I will give you your Main rank up quests, don't worry. Let me be the man who speak to the League.
+<b>\c[10]Maple:</b>\c[0] Je te donnerai tes Quêtes de Rang principales, t’inquiète pas. Laisse moi être celui qui parle à la Ligue.
+<b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.
+<b>\c[10]Maple:</b>\c[0] Voici ta première Quête de rang, avec ses sous-objectifs.
+<b>\c[10]Maple:</b>\c[0] As a last gift, let me give you this:
+<b>\c[10]Maple:</b>\c[0] Et comme dernier cadeau, je te donne ça :
+<b>\c[10]Maple:</b>\c[0] With this, you can cut little trees, allowing you access to various places.
+<b>\c[10]Maple:</b>\c[0] Avec ça, tu peux couper des petits arbres, te donnant accès à certains endroits.
+<b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
+<b>\c[10]Maple:</b>\c[0] Bon, \pn ! Bonne chance et surtout : amuse-toi !
+<b>\c[10]Maple:</b>\c[0] Not ready?
+<b>\c[10]Maple:</b>\c[0] Pas prêt ?
+<b>\c[10]Maple:</b>\c[0] Speak to me here tomorrow morning!
+<b>\c[10]Maple:</b>\c[0] Parle moi ici demain matin !
+<b>\c[10]Maple:</b>\c[0] Ready for today?
+<b>\c[10]Maple:</b>\c[0] Prêt pour aujourd’hui ?
+<b>\c[10]Maple:</b>\c[0] Do not hesitate to speak to the people you like during the planning days, spend time with them or even give them gifts.
+<b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec les gens que tu apprécies, à passer du temps avec eux ou même leur donner des cadeaux.
+<b>\c[10]Maple:</b>\c[0] Good luck and above all: have fun!
+<b>\c[10]Maple:</b>\c[0] Bonne chance et surtout : amuse-toi !
+Welcome to the \gt Gym!
+Bienvenue dans l'Arène \gt !
+<b>\c[10]Maple:</b>\c[0] \pn you remember Marley right?
+<b>\c[10]Maple:</b>\c[0] \pn tu te rappelles de Marley n’est-ce pas ?
+<b>\c[3]Marley:</b>\c[0] Hello \pn!
+<b>\c[3]Marley:</b>\c[0] Salut \pn!
+<b>\c[10]Maple:</b>\c[0] Marley, I present you your new boss! \pn will be our Gym leader!
+<b>\c[10]Maple:</b>\c[0] Marley, je te présente ton nouveau chef ! \pn sera notre Champion d’Arène !
+<b>\c[3]Marley:</b>\c[0] Oooh nice to meet you, boss!
+<b>\c[3]Marley:</b>\c[0] Oooh heureux de te rencontrer boss !
+<b>\c[10]Maple:</b>\c[0] Marley's task is to welcome the challengers, and cheer them up when they lose.
+<b>\c[10]Maple:</b>\c[0] Le rôle de Marley est d’accueillir les challengers, et les consoler quand ils perdent.
+<b>\c[3]Marley:</b>\c[0] My goal is for new challengers to not feel this down when losing.
+<b>\c[3]Marley:</b>\c[0] Mon objectif est que les nouveau challengers ne soient pas au 36e dessous quand ils perdent.
+<b>\c[3]Marley:</b>\c[0] And then maybe they come back and battle once more!
+<b>\c[3]Marley:</b>\c[0] Comme ça peut-être qu’ils réessayeront !
+<b>\c[10]Maple:</b>\c[0] Marley is very important for your Gym.
+<b>\c[10]Maple:</b>\c[0] Marley est très important pour ton Arène.
+<b>\c[10]Maple:</b>\c[0] ...but I thought <b>\c[9]Melly</b>\c[0] would be here too?
+<b>\c[10]Maple:</b>\c[0] ...mais je pensais que <b>\c[9]Melly</b>\c[0] serait là aussi ?
+<b>\c[3]Marley:</b>\c[0] Well she was here not so long ago.
+<b>\c[3]Marley:</b>\c[0] Eh bien, elle était là il y a pas si longtemps.
+<b>\c[3]Marley:</b>\c[0] If I remember right, she said she went to the fisherman's hut.
+<b>\c[3]Marley:</b>\c[0] Si j’me rappelle bien, elle a dit qu’elle allait vers la Hutte du Pêcheur.
+<b>\c[10]Maple:</b>\c[0] It's down the Route 1. \pn could you go there and find <b>\c[9]Melly</b>\c[0] ?
+<b>\c[10]Maple:</b>\c[0] C’est au bout de la Route 1. \pn peux-tu y aller et trouver <b>\c[9]Melly</b>\c[0] ?
+<b>\c[10]Maple:</b>\c[0] You can access Route 1 by going to the North East exit of the town.
+<b>\c[10]Maple:</b>\c[0] Tu peux accéder à la Route 1 en prenant la sortie au nord est de la ville.
+<b>\c[10]Maple:</b>\c[0] You can obviously roam around the city but with the wreckages, you won't be able to go far to the south.
+<b>\c[10]Maple:</b>\c[0] Tu peux bien sûr te balader dans la ville mais avec les ruines tu pourras pas aller loin au sud.
+<b>\c[10]Maple:</b>\c[0] Come to think about it, I don't want you to get lost so I'm gonna give you this.
+<b>\c[10]Maple:</b>\c[0] Maintenant que j’y réfléchis je n’ai pas envie que tu te perde donc je vais te donner ça.
+<b>\c[10]Maple:</b>\c[0] This map - that I created... - shows really A LOT of informations.
+<b>\c[10]Maple:</b>\c[0] Cette carte - que j'ai créée... - montre BEAUCOUP d'informations
+<b>\c[10]Maple:</b>\c[0] I urge you to consult it frequently.
+<b>\c[10]Maple:</b>\c[0] Je te conseille vraiment de la consulter régulièrement.
+Do you want to see explanations on the Nekanta Map?
+Voulez-vous lire les explications de la Carte de Nekanta ?
+<b>\c[10]Maple:</b>\c[0] I will wait here, don't forget you can go back to the Lab and use the machine to heal your team.
+<b>\c[10]Maple:</b>\c[0] J’attendrai ici, n’oublie pas que tu peux retourner au Labo pour utiliser la machine qui soigne tes Pokémon.
+<b>\c[10]Maple:</b>\c[0] Oh and, because the Dept. Store is closed, I should probably give you these.
+<b>\c[10]Maple:</b>\c[0] Ah et, comme le Centre Commercial est fermé, je devrais peut-être te donner ça.
+<b>\c[10]Maple:</b>\c[0] This isn't much but as long as the Pokémon Center isn't finished, you won't even have access to the Pkmn Storage anyway.
+<b>\c[10]Maple:</b>\c[0] C’est pas beaucoup mais vu que le Centre Pokémon n’est pas réparé tu n’as pas accès au Stockage Pokémon de toute façon.
+<b>\c[10]Maple:</b>\c[0] Do not hesitate to capture any Pokémon you want, even if it is not a \gt type!
+<b>\c[10]Maple:</b>\c[0] N’hésite pas à capturer tous les Pokémon que tu veux, même ceux qui ne sont pas type \gt !
+<b>\c[10]Maple:</b>\c[0] Being the \gt leader is not forcing you to have only \gt types when you go around exploring or doing various tasks...
+<b>\c[10]Maple:</b>\c[0] Être le Leader \gt ne te force pas à avoir uniquement des types \gt quand tu te promènes ou autre…
+<b>\c[10]Maple:</b>\c[0] Only when you battle as a \gt leader, you have to have \gt types!
+<b>\c[10]Maple:</b>\c[0] Tu dois avoir des types \gt uniquement quand tu te bats en tant que Leader \gt !
+<b>\c[10]Maple:</b>\c[0] ...
+<b>\c[10]Maple:</b>\c[0] ...
+<b>\c[10]Maple:</b>\c[0] Well, we wait here for your return. See you soon!
+<b>\c[10]Maple:</b>\c[0] Bon, on attend ton retour ici. A bientôt !
+<b>\c[10]Maple:</b>\c[0] Thank you \pn, we can begin now.
+<b>\c[10]Maple:</b>\c[0] Merci \pn, on peut maintenant commencer.
+Do you want to skip the explanations ? (not advised for a first playthrough)
+Voulez-vous passer les explications (pas conseillé pour une première expérience)
+Are you sure ?
+Vous êtes sûr ?
+(after the explanations...)
+(après les explications...)
+\pn received the Pokegear!
+\pn reçoit le Pokegear!
+<b>\c[10]Maple:</b>\c[0] We have two main things to discuss: the Gym, and the reconstruction of the city.
+<b>\c[10]Maple:</b>\c[0] Nous avons deux sujets à aborder : l’Arène, et la reconstruction de la ville.
+<b>\c[10]Maple:</b>\c[0] Firstly, in order to reopen the Gym, we need the permission from the League.
+<b>\c[10]Maple:</b>\c[0] Tout d’abord, pour réouvrir l’Arène, on a besoin de l’autorisation de la Ligue.
+<b>\c[10]Maple:</b>\c[0] Currently, there is a temporary \gt "Gym" directly inside the League.
+<b>\c[10]Maple:</b>\c[0] En ce moment, il y a une “Arène” \gt temporaire directement dans la Ligue.
+<b>\c[10]Maple:</b>\c[0] So, \pn, you have to get there, beat this "Gym" and try to convince them that we can reopen.
+<b>\c[10]Maple:</b>\c[0] Donc, \pn, tu dois aller là-bas, battre cette “Arène” et tenter de les convaincre qu’on peut réouvrir.
+<b>\c[10]Maple:</b>\c[0] We all trust you for that!
+<b>\c[10]Maple:</b>\c[0] On te fait tous confiance pour ça !
+<b>\c[3]Marley:</b>\c[0] Hell yeah boss, you'll rock it!
+<b>\c[3]Marley:</b>\c[0] Yeah boss, tu vas tout déchirer !
+<b>\c[9]Melly:</b>\c[0] Sure!! A-a piece of cake for you!
+<b>\c[9]Melly:</b>\c[0] C-c’est clair !! Un jeu d’enfant pour toi !
+<b>\c[10]Maple:</b>\c[0] Now to the second topic, let's talk about Town Reconstruction.
+<b>\c[10]Maple:</b>\c[0] Passons au second sujet, parlons de la reconstruction de la ville.
+<b>\c[10]Maple:</b>\c[0] First, you need this.
+<b>\c[10]Maple:</b>\c[0] Tout d’abord, tu as besoin de ça.
+<b>\c[10]Maple:</b>\c[0] Among a few other things, the Pokegear let's you access the Town Development screen.
+<b>\c[10]Maple:</b>\c[0] Entre autres, le Pokegear te donne accès à l’écran du développement de la ville.
+<b>\c[10]Maple:</b>\c[0] Here, let me show you.
+<b>\c[10]Maple:</b>\c[0] Laisse moi te montrer.
+<b>\c[10]Maple:</b>\c[0] We select the first entry in the Pokegear, "Town Development".
+<b>\c[10]Maple:</b>\c[0] On choisit la première entrée “Développement de Ville”
+<b>\c[10]Maple:</b>\c[0] Here you can see the different available constructions.
+<b>\c[10]Maple:</b>\c[0] Ici tu peux voir les différentes tâches disponibles.
+<b>\c[10]Maple:</b>\c[0] You can see that most of it is currently locked.
+<b>\c[10]Maple:</b>\c[0] Tu peux voir que la plupart sont bloquées.
+<b>\c[10]Maple:</b>\c[0] This is because we need to reach certain amounts of fame to be able to continue.
+<b>\c[10]Maple:</b>\c[0] En effet, nous avons besoin d’atteindre certains niveaux de Fame pour continuer.
+<b>\c[10]Maple:</b>\c[0] Fame allow us to negotiate the materials, the construction permits...
+<b>\c[10]Maple:</b>\c[0] La Fame nous permet de négocier les matériaux, les permis de construction…
+<b>\c[10]Maple:</b>\c[0] ...and fame is important for our conversations with the Pokémon League.
+<b>\c[10]Maple:</b>\c[0] ...et la Fame est importante pour nos conversations avec la Ligue Pokémon.
+<b>\c[10]Maple:</b>\c[0] These are the reasons why we need more fame in order to have more constructions availables.
+<b>\c[10]Maple:</b>\c[0] Voilà les raisons expliquant pourquoi nous avons besoin de Fame pour avoir plus de tâches disponibles.
+<b>\c[10]Maple:</b>\c[0] You will be able to up the Town's fame when the Gym open. For now let's check what's available.
+<b>\c[10]Maple:</b>\c[0] Tu pourrais améliorer la Fame de la ville quand l’Arène ouvrira. Pour l’instant regardons ce qui est disponible.
+\wm<b>\c[10]Maple:</b>\c[0] Each node represent a construction or upgrade for the Town.
+\wm<b>\c[10]Maple:</b>\c[0] Chaque carré représente une construction ou une amélioration pour la ville.
+\wm<b>\c[10]Maple:</b>\c[0] The icons give you a hint of what is the node, and if you place your cursor on it, you have infos at the bottom of the screen.
+\wm<b>\c[10]Maple:</b>\c[0] Les icônes indiquent sommairement quelle est cette tâche, et en plaçant le curseur dessus, tu as des infos en bas de l’écran.
+\wm<b>\c[10]Maple:</b>\c[0] The color surrounding the node represent the state of this construction.
+\wm<b>\c[10]Maple:</b>\c[0] La couleur autour du carré montre l’état de cette tâche.
+\wm <b>\c[10]Maple:</b>\c[0] Green: Task finished. Orange: Investesment done. Red: Not invested on the task yet.
+\wm<b>\c[10]Maple:</b>\c[0] Vert : Tâche terminée.  Orange : Investissement fait. Rouge : Investissement pas encore fait.
+\wm<b>\c[10]Maple:</b>\c[0] Most of the available nodes are already green, because we didn't slack off! We worked hard recently!
+\wm<b>\c[10]Maple:</b>\c[0] La plupart des carrés sont déjà entourés de vert, car nous avons déjà bien travaillé !
+\wm<b>\c[10]Maple:</b>\c[0] Franck told me a few minutes that he is almost done. Let's wait a bit...
+\wm<b>\c[10]Maple:</b>\c[0] Franck m’a dit il y a quelques minutes qu’il avait presque terminé. Attendons un peu…
+A few minutes later...
+Quelques minutes plus tard…
+<b>Franck:</b> It's done prof! I validated it on the app thingy! ... I think.
+<b>Franck:</b> C’est fini Prof ! J’ai validé sur l’appli truc chose là ! …Je crois.
+<b>Franck:</b> I told the nurses too, they seem really glad! They told me they want to talk to \pn tho, I don't know why...
+<b>Franck:</b> Je l’ai dit aux infirmières aussi, elles semblent vraiment contentes ! Elles veulent te parler \pn, mais je sais pas pourquoi…
+<b>\c[10]Maple:</b>\c[0] Thank you very much Franck! Now go rest yourself for the Weekend!
+<b>\c[10]Maple:</b>\c[0] Merci beaucoup Franck ! Maintenant va profiter de ton week-end !
+<b>Franck:</b> Will do! See you all soon!
+<b>Franck:</b> C’est le plan ! A plus tout le monde !
+<b>\c[10]Maple:</b>\c[0] Let's continue right? I open the app once more...
+<b>\c[10]Maple:</b>\c[0] Continuons, d’accord ? J’ouvre l’appli une fois encore…
+\wm<b>\c[10]Maple:</b>\c[0] You can see that the PokéCenter node is now green! It means it is finished!
+\wm<b>\c[10]Maple:</b>\c[0] Tu peux voir que le carré du Centre Pokémon est vert ! Cela signifie que c’est terminé !
+\wm<b>\c[10]Maple:</b>\c[0] Now we only have 1 node left: clearing the wreckage on your house.
+\wm<b>\c[10]Maple:</b>\c[0] Il ne nous reste plus qu’une tâche : déblayer les débris sur ta maison.
+\wm<b>\c[10]Maple:</b>\c[0] To start this task, we select the node.
+\wm<b>\c[10]Maple:</b>\c[0] Pour commencer cette tâche, on sélectionne ce carré.
+<b>\c[10]Maple:</b>\c[0] This screen appears, giving us a brief explanation of the task, and also the requirements.
+<b>\c[10]Maple:</b>\c[0] Cet écran apparaît, nous donnant une brève explication de la tâche, et les prérequis.
+<b>\c[10]Maple:</b>\c[0] First, we have the necessarily funds. This is when we have to buy products or materials.
+<b>\c[10]Maple:</b>\c[0] Tout d’abord, les fonds nécessaires. C’est lorsque nous devons acheter des produits ou matériaux.
+<b>\c[10]Maple:</b>\c[0] For this task we don't need any funds because we just have to remove stuff, not build anything.
+<b>\c[10]Maple:</b>\c[0] Pour cette tâche pas besoin de fonds car il s’agit juste d’enlever des trucs, pas de construire quelque chose.
+<b>\c[10]Maple:</b>\c[0] ...and don't worry, the workers are paid, obviously... I take care of it.
+<b>\c[10]Maple:</b>\c[0] ...et pas d'inquiétude, les travailleurs sont payés... J'y veille personnellement.
+<b>\c[10]Maple:</b>\c[0] Second, we have the required amount of working phases required to complete the task.
+<b>\c[10]Maple:</b>\c[0] Ensuite, nous avons le nombre de périodes de travail nécessaires pour finir la tâche.
+<b>\c[10]Maple:</b>\c[0] A "working phase" represent the amount of work done by a worker during two days.
+<b>\c[10]Maple:</b>\c[0] Une "période de travail" représente la quantité de travail accomplie par un travailleur pendant deux jours.
+<b>\c[10]Maple:</b>\c[0] Here we only need 1 working phase, so it means Franck will be able to complete it by himself during 1 phase!
+<b>\c[10]Maple:</b>\c[0] ici nous n'avons besoin que d'une seule phase, donc ça signifie que Franck pourra le faire par lui-même en une période !
+<b>\c[10]Maple:</b>\c[0] During the weekend and wednesdays, we choose what task our workers will work on.
+<b>\c[10]Maple:</b>\c[0] Pendant les week-end et les mercredis, nous choisissons à quelle tâche les travailleurs seront assignés.
+<b>\c[10]Maple:</b>\c[0] Then they work on this task during the next two days, a "working phase".
+<b>\c[10]Maple:</b>\c[0] Ensuite ils travaillent sur cette tâche pendant les deux prochains jours, une "Période de travail".
+<b>\c[10]Maple:</b>\c[0] A few tasks aren't really constructions and can be done instantly.
+<b>\c[10]Maple:</b>\c[0] Quelques tâches ne sont pas vraiment des constructions et peuvent être finies instantanément.
+<b>\c[10]Maple:</b>\c[0] Other requirements can appear like doing another construction first, meet someone first... You'll see later.
+<b>\c[10]Maple:</b>\c[0] D’autres conditions peuvent apparaître comme faire une autre tâche d’abord, rencontrer quelqu’un d’abord… Tu verras.
+<b>\c[10]Maple:</b>\c[0] Now if you press the right arrow, you will get to the rewards screen.
+<b>\c[10]Maple:</b>\c[0] Maintenant, si tu appuies sur la flèche de droite, tu arrives à l’écran de récompenses.
+<b>\c[10]Maple:</b>\c[0] Here you'll see in details the benefits of this task.
+<b>\c[10]Maple:</b>\c[0] Ici tu peux voir en détail les bénéfices de faire cette tâche.
+<b>\c[10]Maple:</b>\c[0] For our current task there isn't much because it will just allow us to rebuild your house later.
+<b>\c[10]Maple:</b>\c[0] Dans notre cas il y a pas grand chose car cela permet seulement de recontruire ta maison par la suite.
+<b>\c[10]Maple:</b>\c[0] But it is often really interesting to see what will you gain from ordering a task to be done.
+<b>\c[10]Maple:</b>\c[0] Mais c’est souvent très intéressant de voir ce que tu gagnes à faire une tâche.
+<b>\c[10]Maple:</b>\c[0] Anyway, when you press confirm, several possibilities can occur.
+<b>\c[10]Maple:</b>\c[0] En tout cas, si tu appuies sur confirmer, il y a plusieurs possibilités.
+<b>\c[10]Maple:</b>\c[0] If one of the requirements are not met, the message will tell you that and close.
+<b>\c[10]Maple:</b>\c[0] Si l'un des préreuis n'est pas satisfait, un message te le dit et ferme la fenêtre.
+<b>\c[10]Maple:</b>\c[0] But if you have everything, you will be asked if you want to invest on this task.
+<b>\c[10]Maple:</b>\c[0] Mais si tu as tout, on te demandera si tu veux investir dans cette tâche.
+<b>\c[10]Maple:</b>\c[0] Except, like here, if it's a free task.
+<b>\c[10]Maple:</b>\c[0] Sauf, comme ici, si c'est une tâche gratuite.
+\wm<b>\c[10]Maple:</b>\c[0] If it's a free task, if you just invested on it or did invest on it before, you will get the worker screens.
+\wm<b>\c[10]Maple:</b>\c[0] Si c'est une tâche gratuite, ou si tu viens d'investir ou as déjà investi avant, tu auras l'écran des travailleurs.
+\wm<b>\c[10]Maple:</b>\c[0] In this screen, you can add or remove workers from this task.
+\wm<b>\c[10]Maple:</b>\c[0] Sur cet écran, tu peux ajouter ou retirer des travailleurs de cette tâche.
+\wm<b>\c[10]Maple:</b>\c[0] Here we only have Franck so it's pretty simple but if we get more workers, you'll have more possibilities.
+\wm<b>\c[10]Maple:</b>\c[0] Pour l'instant on a que Franck donc c'est assez simple mais si on a plus de travailleurs, tu auras plus de possibilités.
+\wm<b>\c[10]Maple:</b>\c[0] For example, if you have multiple workers, you can assign them to different tasks.
+\wm<b>\c[10]Maple:</b>\c[0] Par exemple, si tu as plusieurs travailleurs, tu peux les assigner à différentes tâches.
+\wm<b>\c[10]Maple:</b>\c[0] At the end of the two next days, each worker on the task will add 1 progression point.
+\wm<b>\c[10]Maple:</b>\c[0] A la fin des deux prochains jours, chaque travailleur sur la tâche ajoutera 1 point de progression.
+\wm<b>\c[10]Maple:</b>\c[0] Here we will add a worker so that Franck works on this for the next 2 days.
+\wm<b>\c[10]Maple:</b>\c[0] Ici nous allons ajouter un travailleur comme ça Franck travaillera dessus les deux prochains jours.
+\wm<b>\c[10]Maple:</b>\c[0] We see "Progression: 0/1" so with 1 point, the task will be completed.
+\wm<b>\c[10]Maple:</b>\c[0] On voit "Progression : 0/1" donc avec 1 point, la tâche sera terminée.
+\wm<b>\c[10]Maple:</b>\c[0] So we know it will be completed after the next working phase!
+\wm<b>\c[10]Maple:</b>\c[0] Donc nous savons que la tâche sera terminée après la prochaine période de travail !
+\wm<b>\c[10]Maple:</b>\c[0] Let's select "Quit" to confirm.
+\wm<b>\c[10]Maple:</b>\c[0] Choisissons "Quitter" pour confirmer.
+\wm<b>\c[10]Maple:</b>\c[0] We are back to the tree node, with our task node now orange.
+\wm<b>\c[10]Maple:</b>\c[0] Nous voici de retour à l'arbre de construction, avec notre tâche maintenant en orange.
+\wm<b>\c[10]Maple:</b>\c[0] Every free task becomes orange when we see its details because, technically, investment is done...
+\wm<b>\c[10]Maple:</b>\c[0] Chaque tâche gratuite devient orange quand on regarde ses détails car, techniquement, l'investissement a été fait...
+\wm<b>\c[10]Maple:</b>\c[0] Now we just have to wait until wednesday!
+\wm<b>\c[10]Maple:</b>\c[0] Maintenant on doit juste attendre mercredi !
+<b>\c[10]Maple:</b>\c[0] When we have more fame you will have a lot more tasks available.
+<b>\c[10]Maple:</b>\c[0] Quand on aura plus de Fame, on aura plus de tâches disponibles.
+<b>\c[10]Maple:</b>\c[0] I trust you to develop and rebuild the Town right!
+<b>\c[10]Maple:</b>\c[0] Je te fais confiance pour bien reconstruire la ville !
+<b>\c[10]Maple:</b>\c[0] ...this concludes this presentation. Any questions?
+<b>\c[10]Maple:</b>\c[0] ...voilà qui conclut cette présentation. Des questions ?
+<b>\c[3]Marley:</b>\c[0] I'm glad you're the one in charge boss, I kinda dozed off during the explanation!
+<b>\c[3]Marley:</b>\c[0] Jsuis content que ce soit toi le boss, boss, j’ai un peu décroché pendant la présentation !
+<b>\c[9]Melly:</b>\c[0] W-well huh... thi-this looks great! ... I think...
+<b>\c[9]Melly:</b>\c[0] E-eh bien euh... ça… ça a l’air super ! ...J’imagine...
+<b>\c[10]Maple:</b>\c[0] ...*ahem* well at least it looks like \pn has understood everything.
+<b>\c[10]Maple:</b>\c[0] ...*ahem* bon en tous cas \pn a l’air d’avoir bien compris.
+<b>\c[10]Maple:</b>\c[0] For now we already selected the upcoming days' task.
+<b>\c[10]Maple:</b>\c[0] Pour le moment nous avons déjà sélectionné la tâche à faire.
+<b>\c[10]Maple:</b>\c[0] You can still look the app to familiarize yourself with it but you won't be able to start anything.
+<b>\c[10]Maple:</b>\c[0] Tu peux toujours te balader dans l’appli pour te familiariser avec mais tu pourras rien commencer.
+<b>\c[10]Maple:</b>\c[0] Oh and one last thing!
+<b>\c[10]Maple:</b>\c[0] Oh et une dernière chose !
+<b>\c[10]Maple:</b>\c[0] I expect you two kids to bond together and form a real, solid team.
+<b>\c[10]Maple:</b>\c[0] J’attends de vous deux, jeunes gens, de bien vous entendre et de former une vraie équipe.
+<b>\c[10]Maple:</b>\c[0] Teamwork will get you far!
+<b>\c[10]Maple:</b>\c[0] Le travail d’équipe est primordial !
+<b>\c[9]Melly:</b>\c[0] O-Oh of course prof don't worry! I-I'm happy to team with \pn, we will do our best!
+<b>\c[9]Melly:</b>\c[0] O-Oh bien sûr Prof ! Je suis contente de faire équipe avec \pn, on fera de notre mieux !
+<b>\c[10]Maple:</b>\c[0] I'm glad to hear it! Well then \pn, have a nice trip! And don't forget to go see the nurses at the Pokémon Center!
+<b>\c[10]Maple:</b>\c[0] Ravi de l’entendre ! Eh bien \pn, bon voyage ! Et n’oublie pas d’aller voir les infirmières dans le Centre Pokémon !
+<b>\c[10]Maple:</b>\c[0] We will wait for your return, I will probably be in my lab if you seek me.
+<b>\c[10]Maple:</b>\c[0] On attendra ton retour, je serai probablement dans mon Labo si tu me cherches.
+<b>\c[3]Marley:</b>\c[0] See ya boss! Have a nice one!
+<b>\c[3]Marley:</b>\c[0] A plus boss ! Profite bien !
+<b>\c[9]Melly:</b>\c[0] Good luck \pn! See you soon a-and be safe!
+<b>\c[9]Melly:</b>\c[0] Bonne chance \pn ! Sois prudent et à bientôt !
+Marley is in training these days. Do you want to start your work day?
+Marley est en formation ces jours. Voulez-vous commencer votre journée de travail ?
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+Dev note: Fin du build actuel ! Merci d'attendre la prochaine update majeure !
+If you change your mind, go out of the Gym and enter again.
+Si vous changez d’avis, sortez de l’Arène puis entrez de nouveau.
+<b>\c[9]Melly:</b>\c[0] Good luck at the League \pn! Y-you can do it i'm sure!!
+<b>\c[9]Melly:</b>\c[0] Bonne chance à la Ligue \pn ! Je-je suis sûre que tu peux le faire !
+<b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
+<b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonne chance pour ta première semaine !
+You already gave a gift to Marley this week!
+Vous avez déjà donné un cadeau à Marley cette semaine !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Good evening!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Bonsoir !
+<b>\c[3]Marley:</b>\c[0] See ya!
+<b>\c[3]Marley:</b>\c[0] A plus !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Ready to work!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Prêt pour le travail !
+<b>\c[3]Marley:</b>\c[0] Ready when you are, of course!
+<b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
+<b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
+<b>\c[3]Marley:</b>\c[0] Heya boss ! Hâte d’aller à cette formation !
+<b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
+<b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
+<b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
+<b>\c[9]Melly:</b>\c[0] Coucou \pn ! Je suis prête à combattre !
+You already gave a gift to Melly this week!
+Vous avez déjà offert un cadeau à Melly cette semaine !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+Do not change party
+Ne pas changer d’équipe
+Change party
+Changer d’équipe
+Wednesday time!
+C’est mercredi !
+Skip Wednesday
+Passer le mercredi
+Yes
+Oui
+No
+Non
+Skip to next workday
+Prochain jour de travail
+Skip next morning
+Prochaine matinée
+Evening time
+Soirée
+Skip to next work day
+Prochain jour de travail
+Skip to next morning
+Prochaine matinée
+Evening Time
+Soirée
+Gym Infos
+Infos Arène
+Gym infos
+Infos Arène
+Start work day
+Commencer la journée de travail
+Don't start work day
+Ne pas commencer la journée

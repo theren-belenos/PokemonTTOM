@@ -61,7 +61,7 @@ Vous obtenez le Badge Arc-en-Ciel ! \f[RAINBOWBADGE]
 <b>\c[7]Aristarque:</b>\c[0] Let me explain you the concept of rank up battles.
 <b>\c[7]Aristarque:</b>\c[0] Laisse moi t’expliquer ce que sont les Combats de Rang.
 <b>\c[7]Aristarque:</b>\c[0] If you really become a Gym Leader, I figure you'll want to bring back your Gym to the rank 12.
-<b>\c[7]Aristarque:</b>\c[0] Si tu devient vraiment Champion d’Arène, j’imagine que tu voudras ramener ton Arène au rang 12.
+<b>\c[7]Aristarque:</b>\c[0] Si tu deviens vraiment Champion d’Arène, j’imagine que tu voudras ramener ton Arène au rang 12.
 <b>\c[7]Aristarque:</b>\c[0] But how should we know which Gym is rank 1, rank 2... ?
 <b>\c[7]Aristarque:</b>\c[0] Mais comment déterminer quelle Arène est rang 1, rang 2… ?
 <b>\c[7]Aristarque:</b>\c[0] Following certain conditions, you can challenge a fellow Gym Leader to a rank up battle.
@@ -149,7 +149,7 @@ Votre Arène est maintenant rang 1 !
 <b>\c[2]Tom:</b>\c[0] ...well then, I must return to work.
 <b>\c[2]Tom:</b>\c[0] ...bon aller, je dois retourner travailler.
 <b>\c[2]Tom:</b>\c[0] You seems really cool, I hope we can talk again sometimes !
-<b>\c[2]Tom:</b>\c[0] T’as l’air super sympa, j’espère qu’on pourra se reparler de temps en temps !
+<b>\c[2]Tom:</b>\c[0] T’as l’air vraiment sympa, j’espère qu’on pourra se reparler de temps en temps !
 <b>\c[2]Tom:</b>\c[0] I vastly prefer Steel Pokémons, but it is already the Champion's favourite type...
 <b>\c[2]Tom:</b>\c[0] Je préfère largement les Pokémon Acier, mais c’est déjà le type préféré du Maître…
 <b>\c[2]Tom:</b>\c[0] See ya!
@@ -229,49 +229,49 @@ Votre Arène est maintenant rang 3 !
 <b>Cassian:</b> So it's back to rank 2 for me huh?
 <b>Cassian:</b> Donc retour au rang 2 pour moi hein ?
 <b>Cassian:</b> Maybe I will have more time to take care of my city (and do... surveillance).
-<b>Cassian:</b> J'aurai peut-être plus de temps pour m'occuper de ma ville (et pour... surveiller).
+<b>Cassian:</b> J'aurai peut-être plus de temps pour m'occuper de ma ville - et pour... surveiller.
 <b>Cassian:</b> Have a nice day \pn, we will see each other again for sure!
 <b>Cassian:</b> Passe une bonne journée \pn, on se reverra vite pour sûr !
 <b>Cassian:</b> See you!
 <b>Cassian:</b> A plus !
-Dev note: End of current build. Please wait for the next update!
-Dev note : Fin du build actuel. Merci d'attendre la prochaine update !
 <b>Cassian:</b> No pressure, I wait here.
 <b>Cassian:</b> Aucune pression, j'attends ici.
 <b>Cassian:</b> If you want to battle, talk to me from the right side of the arena.
 <b>Cassian:</b> Si tu veux combattre, parle moi depuis le côté droit du terrain.
 <b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3! Nice fight too, Normal Leader!!
-<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 2 ! Joli combat également, Leader Normal !
+<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 3 ! Joli combat également, Leader Normal !
 The Normal Leader doesn't seem to mind you took their spot at the rank 3. They're actually smiling.
 Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 3. Iel est en train de sourire.
 <b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
-<b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
+<b>Nikodim:</b> Ohoho! Cette fois tu veux mon rang 4 hein ? Mais t'as ce qu'il faut dans tes tripes !
 You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
-You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
+Votre nouvelle équipe d’Arène doit avoir 4 Pokémons. Ils seront abaissés (si besoin) au niveau 30, 32 pour votre ace.
 <b>Nikodim:</b> Let's start the show!
-<b>Nikodim:</b> Let's start the show!
+<b>Nikodim:</b> C'est parti mon kiki !
 Your Gym is now rank 4!
-Your Gym is now rank 4!
+Votre Arène est maintenant rang 4 !
 <b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 4!
-<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 4!
+<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 4 !
 <b>Nikodim:</b> Hah! Gotta say, you super coolah!
-<b>Nikodim:</b> Hah! Gotta say, you super coolah!
+<b>Nikodim:</b> Hah! Je dois dire, t'es cool Raoul !
 <b>Nikodim:</b> Back to rank 3 for me right? Well, to be honest, I might go into retirement soon...
-<b>Nikodim:</b> Back to rank 3 for me right? Well, to be honest, I might go into retirement soon...
+<b>Nikodim:</b> Retour au rang 3 pour moi hein ? Pour être honnête, je pense bientôt prendre ma retraite
 <b>Nikodim:</b> I now it will be a shock to you but I'm starting to get some years on the board! I look younger that I am, I know right?
-<b>Nikodim:</b> I now it will be a shock to you but I'm starting to get some years on the board! I look younger that I am, I know right?
+<b>Nikodim:</b> Tu va être choqué je pense mais je commence à avoir quelques années ! Je paraît toujours aussi jeune, je sais bien...
 <b>Nikodim:</b> Anyway, do not hesitate to come spend some quality time in Titaga!
-<b>Nikodim:</b> Anyway, do not hesitate to come spend some quality time in Titaga! 
+<b>Nikodim:</b> En tout cas, n'hésite pas à venir passer du bon temps à Titaga !
 <b>Nikodim:</b> See ya, punk friend!
-<b>Nikodim:</b> See ya, punk friend!
+<b>Nikodim:</b> A plus, mon pote !
+Dev note: End of current build. Please wait for the next update!
+Dev note : Fin du build actuel. Merci d'attendre la prochaine update !
 <b>Nikodim:</b> Getting stage fright are ya?
-<b>Nikodim:</b> Getting stage fright are ya?
+<b>Nikodim:</b> T'as le trac c'est ça ?
 <b>Nikodim:</b> Wanna start the show? Then talk to me from the right side of the arena.
-<b>Nikodim:</b> Wanna start the show? Then talk to me from the right side of the arena.
+<b>Nikodim:</b> Tu veux commencer le spectacle ? Alors parle moi depuis le côté droit de l'Arène.
 <b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3!
-<b>\c[2]Tom:</b>\c[0] Congratulations \pn! Your Gym is now rank 3!
+<b>\c[2]Tom:</b>\c[0] Félicitations \pn ! Ton Arène est maintenant rang 3 !
 The Normal Leader doesn't seem to mind you took their spot at the rank 4. They're actually smiling.
-The Normal Leader doesn't seem to mind you took their spot at the rank 4. They're actually smiling.
+Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 3. Iel est en train de sourire.
 Yes
 Oui
 No

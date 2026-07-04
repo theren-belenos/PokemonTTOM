@@ -540,7 +540,7 @@ BaseMoney = 48
 IntroBGM = encounter_youngster
 #-------------------------------
 [DANCER]
-Name = Delinquant
+Name = Dancer
 Gender = Female
 BaseMoney = 48
 IntroBGM = encounter_lass

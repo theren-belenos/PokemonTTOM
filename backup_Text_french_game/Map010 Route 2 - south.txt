@@ -1,0 +1,44 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map010]
+<b>Chloe:</b> Pfiou! I need a break!
+<b>Chloe:</b> Pfiou ! J’ai besoin d’une pause !
+<b>Chloe:</b> The break is not over until I say so!
+<b>Chloe:</b> La pause se terminera quand je l’aurai décidé, pas avant !
+<b>Ranger:</b> Hello young one I'm a ranger. You're in front of the Geodude Pit.
+<b>Ranger:</b> Salut ! Je suis un Ranger. Tu es devant la Fosse Racaillou.
+<b>Ranger:</b> Be careful not to get lost. Here, let me heal your Pokémons.
+<b>Ranger:</b> Attention à ne pas te perdre. Laisse moi soigner tes Pokémon.
+Your Pokémons were completely healed !
+Vos Pokémon ont été complètement soignés !
+<b>Ranger:</b> Take care!
+<b>Ranger:</b> Sois prudent !
+<b>Ranger:</b> Do you need me to heal your pokémons again ?
+<b>Ranger:</b> Tu veux que je soigne tes Pokémon à nouveau ?
+<b>Patrice:</b> Going for a hike?
+<b>Patrice:</b> Tu pars en randonnée ?
+<b>Patrice:</b> I love hiking!
+<b>Patrice:</b> J’adore la randonnée !
+<b>Man:</b> Hey! Be careful!
+<b>Homme:</b> Hey ! Fais attention !
+<b>Man:</b> If you jump the ledge here at my right, you'll end up in Route 2.
+<b>Homme:</b> Si tu sautes depuis cette corniche à ma droite, tu arriveras à la Route 2.
+<b>Man:</b> But if you can't break rocks with Rock Smash, you won't be able to come back!
+<b>Homme:</b> Mais si tu peux pas briser de rochers avec Eclate-Roc, tu pourras pas revenir !
+<b>Man:</b> Only way around: Go through Green Lush forest, Routes 7 and 8 again.
+<b>Homme:</b> Seule possibilité : traverser Forêt Verdoyante, Routes 7 et 8 de nouveau.
+<b>Man:</b> It happened to me last week...
+<b>Homme:</b> Ça m’est arrivé la semaine dernière…
+<b>Man:</b> So be careful!
+<b>Homme:</b> Donc fais gaffe !
+<b>Man:</b> Be careful with the ledge!
+<b>Homme:</b> Attention à la corniche !
+^ Green lush forest, \tn \n< Sombake \nv Central Town (through the Geodude Pit)
+^ Forêt Verdoyante, \tn \n< Sombake \nv Ville Centrale (via la Fosse Racaillou)
+<b>Blissey:</b> Blisseeeeeeeey!
+<b>Blissey:</b> Blisseeeeeeeey!
+Yes
+Oui
+No
+Non

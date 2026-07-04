@@ -16,6 +16,12 @@
 <b>Lucile:</b> Va-t-en !
 <b>Lucile:</b> Argh!
 <b>Lucile:</b> Argh !
+<b>\c[2]Tom:</b>\c[0] Samy and the Normal Leader are already downstairs, let us go the other way right?
+<b>\c[2]Tom:</b>\c[0] Samy et le Leader Normal sont déjà en bas, allons de l'autre côté ok ?
+<b>\c[2]Tom:</b>\c[0] Samy and Cassian are already downstairs, let us go the other way right?
+<b>\c[2]Tom:</b>\c[0] Samy et Cassian sont déjà en bas, allons de l'autre côté ok ?
+Tom asked you to keep going upstairs. No use going down!
+Tom vous a demandé d'aller vers le haut. inutile de descendre !
 <b>\c[3]Checking...</b>
 <b>\c[3]Verification...</b>
 <b>\c[2]WRONG</b>
@@ -24,20 +30,14 @@
 <b>\c[10]OUVERT</b>
 \c[3]Hidden Vault unlocked...
 \c[3]Coffre caché ouvert...
-<b>\c[2]Tom:</b>\c[0] Samy and the Normal Leader are already downstairs, let us go the other way right?
-<b>\c[2]Tom:</b>\c[0] Samy et le Leader Normal sont déjà en bas, allons de l'autre côté ok ?
-<b>\c[2]Tom:</b>\c[0] Samy and Cassian are already downstairs, let us go the other way right?
-<b>\c[2]Tom:</b>\c[0] Samy et Cassian sont déjà en bas, allons de l'autre côté ok ?
-Tom asked you to keep going upstairs. No use going down!
-Tom vous a demandé d'aller vers le haut. inutile de descendre !
-<b>Igor:</b> Ha! I knew I heard something!
-<b>Igor:</b> Ha ! J'avais bien entendu un truc !
-<b>Igor:</b> I heard but I couldn't do anything!
-<b>Igor:</b> J'ai entendu mais j'ai rien pu faire !
 <b>Max:</b> Eh? Hey, why do you attack us?
 <b>Max:</b> Eh ? Hey, pourquoi vous nous attaquez ?
 <b>Max:</b> Seriously, why?
 <b>Max:</b> Sérieusement, pourquoi ?
+<b>Igor:</b> Ha! I knew I heard something!
+<b>Igor:</b> Ha ! J'avais bien entendu un truc !
+<b>Igor:</b> I heard but I couldn't do anything!
+<b>Igor:</b> J'ai entendu mais j'ai rien pu faire !
 \c[3]Activating... "O"
 \c[3]Activation... "O"
 \c[3]De-activating... "O"
@@ -58,10 +58,6 @@ Tom vous a demandé d'aller vers le haut. inutile de descendre !
 \c[3]Activation... "E"
 \c[3]De-activating... "E"
 \c[3]Désactivation... "E"
-<b>Neil:</b> What? But this room is useless for you!
-<b>Neil:</b> Quoi ? Mais cette pièce ne sert à rien pour vous !
-<b>Neil:</b> I told you it's useless!
-<b>Neil:</b> Je t'ai dit que ça servait à rien !
 <b>\c[2]Tom:</b>\c[0] What?
 <b>\c[2]Tom:</b>\c[0] Quoi ?
 <b>\c[2]Tom:</b>\c[0] I think we should split up.
@@ -80,3 +76,7 @@ Tom vous a demandé d'aller vers le haut. inutile de descendre !
 <b>Cassian:</b> Ok pour moi. Bonne chance, vous deux.
 <b>\c[2]Tom:</b>\c[0] So we go left then? Well, you first.
 <b>\c[2]Tom:</b>\c[0] Donc on part à gauche alors ? Ok, après toi.
+<b>Neil:</b> What? But this room is useless for you!
+<b>Neil:</b> Quoi ? Mais cette pièce ne sert à rien pour vous !
+<b>Neil:</b> I told you it's useless!
+<b>Neil:</b> Je t'ai dit que ça servait à rien !

@@ -1,0 +1,156 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map437]
+<b>Flore:</b> Hello! Are you ready for my rythm minigame ?
+<b>Flore:</b> Hello! Are you ready for my rythm minigame ?
+<b>Flore:</b> Nice! Make us dance right!
+<b>Flore:</b> Nice! Make us dance right!
+minijeu n°1. réussi?
+minijeu n°1. réussi?
+<b>Flore:</b> Hehe~ That was fun! Talk to me again when you want to battle me!
+<b>Flore:</b> Hehe~ That was fun! Talk to me again when you want to battle me!
+<b>Flore:</b> Eeeeeh? Seems you missed the beat no??
+<b>Flore:</b> Eeeeeh? Seems you missed the beat no??
+<b>Flore:</b> Waiting here!
+<b>Flore:</b> Waiting here!
+<b>Flore:</b> Ready for the battle?
+<b>Flore:</b> Ready for the battle?
+<b>Flore:</b> Can you also keep the beat during battle ?
+<b>Flore:</b> Can you also keep the beat during battle ?
+<b>Flore:</b> Hehe~ Nice! You can continue!
+<b>Flore:</b> Hehe~ Nice! You can continue!
+You talk to the dancer about Camosack.
+You talk to the dancer about Camosack.
+<b>Flore:</b> Perform at Camosack you say? Sorry, but I have a good job here! I'm staying there, good luck for your search!
+<b>Flore:</b> Perform at Camosack you say?  Sorry, but I have a good job here! I'm staying there, good luck for your search!
+<b>Ludicolo:</b> Ludicolo!
+<b>Ludicolo:</b> Ludicolo!
+<b>Nikodim:</b> Oho! What do we have here hmmm... A challenger is coming to me, Nikodim, the Punk King?? Haha!
+<b>Nikodim:</b> Oho! What do we have here hmmm... A challenger is coming to me, Nikodim, the Punk King?? Haha!
+<b>Nikodim:</b> Do you think your rythm can satisfy us? Really? Ha, do you know for how long I'm doing punk???
+<b>Nikodim:</b> Do you think your rythm can satisfy us? Really? Ha, do you know for how long I'm doing punk???
+<b>Nikodim:</b> Okay, okay, I like your energy. But easy breezy, monster! Keep this for the beat!
+<b>Nikodim:</b> Okay, okay, I like your energy. But easy breezy, monster! Keep this for the beat!
+<b>Nikodim:</b> Ready to show off and be cool?
+<b>Nikodim:</b> Ready to show off and be cool?
+<b>Nikodim:</b> Give it all!
+<b>Nikodim:</b> Give it all!
+minijeu n°3. réussi?
+minijeu n°3. réussi?
+<b>Nikodim:</b> Okay, okay, not bad!
+<b>Nikodim:</b> Okay, okay, not bad!
+<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards!
+<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards!
+<b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame to get better rewards!
+<b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame to get better rewards!
+<b>Nikodim:</b> Ohoho! Okay okay, I might need to catch a breath... Damn, aging isn't a breeze...
+<b>Nikodim:</b> Ohoho! Okay okay, I might need to catch a breath... Damn, aging isn't a breeze...
+<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better!
+<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better!
+<b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame again to get the second reward!
+<b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame again to get the second reward!
+<b>Nikodim:</b> Wowow! Spare us you crazy beatmaker! Damn, aging isn't a breeze, I really need a break...
+<b>Nikodim:</b> Wowow! Spare us you crazy beatmaker! Damn, aging isn't a breeze, I really need a break...
+<b>Nikodim:</b> You've earned both bonus rewards! Congratulations!
+<b>Nikodim:</b> You've earned both bonus rewards! Congratulations!
+<b>Nikodim:</b> Talk to me anytime to try to get my badge!
+<b>Nikodim:</b> Talk to me anytime to try to get my badge!
+<b>Nikodim:</b> Well, I thought you were cooler... Feel free to try again...
+<b>Nikodim:</b> Well, I thought you were cooler...  Feel free to try again...
+<b>Nikodim:</b> Hey! Not cool!
+<b>Nikodim:</b> Hey! Not cool!
+<b>Nikodim:</b> Okay cool thing, what do you want to do? Wanna get my badge?
+<b>Nikodim:</b> Okay cool thing, what do you want to do? Wanna get my badge?
+<b>Nikodim:</b> It's punk time!
+<b>Nikodim:</b> It's punk time!
+You got the Forest Badge! \f[FORESTBADGE]
+You got the Forest Badge! \f[FORESTBADGE]
+<b>Nikodim:</b> Holy you! Haha! Okay, you're unstoppable!
+<b>Nikodim:</b> Holy you! Haha! Okay, you're unstoppable!
+<b>Nikodim:</b> So, with my badge, you can train your Pokémon up to the level 40.
+<b>Nikodim:</b> So, with my badge, you can train your Pokémon up to the level 40.
+<b>Nikodim:</b> You can also use the Fly HM outside the battles. Did you find it already?
+<b>Nikodim:</b> You can also use the Fly HM outside the battles. Did you find it already?
+<b>Nikodim:</b> It can really be a gamechanger, especially to visit your friends!
+<b>Nikodim:</b> It can really be a gamechanger, especially to visit your friends!
+<b>Nikodim:</b> And let me give you something cool.
+<b>Nikodim:</b> And let me give you something cool.
+<b>Nikodim:</b> Magical Leaf never misses, like me never skipping a beat!
+<b>Nikodim:</b> Magical Leaf never misses, like me never skipping a beat!
+<b>Nikodim:</b> Well, see you around, and stay cool!
+<b>Nikodim:</b> Well, see you around, and stay cool!
+<b>Nikodim:</b> Okay cool thing, are you ready? Wanna get my badge?
+<b>Nikodim:</b> Okay cool thing, are you ready?  Wanna get my badge?
+<b>Nikodim:</b> Hey, still cool?
+<b>Nikodim:</b> Hey, still cool?
+You already gave a gift to Nikodim this week!
+You already gave a gift to Nikodim this week!
+<b>Alolan Exeggutor:</b> Exeggutor!!
+<b>Alolan Exeggutor:</b> Exeggutor!!
+<b>Bellossom:</b> Bellossoooooom!
+<b>Bellossom:</b> Bellossoooooom!
+<b>Victreebel:</b> Victreeebeeeeel!
+<b>Victreebel:</b> Victreeebeeeeel!
+<b>Tobie:</b> Hi there! Ready for my rythm minigame ?
+<b>Tobie:</b> Hi there! Ready for my rythm minigame ?
+<b>Tobie:</b> Okay! Can you do it?
+<b>Tobie:</b> Okay! Can you do it?
+minijeu n°2. réussi?
+minijeu n°2. réussi?
+<b>Tobie:</b> Eh, not bad! Talk to me again when you want to battle me!
+<b>Tobie:</b> Eh, not bad! Talk to me again when you want to battle me!
+<b>Tobie:</b> My, my, there is room for progress... Sorry, but maybe try again?
+<b>Tobie:</b> My, my, there is room for progress...  Sorry, but maybe try again?
+<b>Tobie:</b> Ready when you are!
+<b>Tobie:</b> Ready when you are!
+<b>Tobie:</b> Ready for the battle?
+<b>Tobie:</b> Ready for the battle?
+<b>Tobie:</b> Keep your spirits up!
+<b>Tobie:</b> Keep your spirits up!
+<b>Tobie:</b> Okay, okay! You can go to the Leader, good luck!
+<b>Tobie:</b> Okay, okay! You can go to the Leader, good luck!
+<b>Tobie:</b> Perform at Camosack you say? Sorry, but I have a good job here! I'm staying there, good luck for your search!
+<b>Tobie:</b> Perform at Camosack you say?  Sorry, but I have a good job here! I'm staying there, good luck for your search!
+<b>Harvey?:</b> Hello challenger and welcome to the Grass Gym!
+<b>Harvey?:</b> Hello challenger and welcome to the Grass Gym!
+<b>Marley?:</b> ...what? No my name is not Harvey, why would that be? I'm Wesley!
+<b>Marley?:</b> ...what? No my name is not Harvey, why would that be? I'm Wesley!
+<b>Wesley:</b> Anyway, to defeat this Gym you will like having Fire, Insect, Flying or Fire types!
+<b>Wesley:</b> Anyway, to defeat this Gym you will like having Fire, Insect, Flying or Fire types!
+<b>Wesley:</b> In order to reach and battle the Leader, you need to complete a rythm minigame with every trainer here!
+<b>Wesley:</b> In order to reach and battle the Leader, you need to complete a rythm minigame with every trainer here!
+<b>Wesley:</b> You see, everyone loves music and danse here. So give them the rythm so they can dance!
+<b>Wesley:</b> You see, everyone loves music and danse here. So give them the rythm so they can dance!
+<b>Wesley:</b> During these minigames, some bars will appear one after another, with red zones on it.
+<b>Wesley:</b> During these minigames, some bars will appear one after another, with red zones on it.
+<b>Wesley:</b> You need to press the action button each time the cursor is on a rezd zone! One time per red zone only!
+<b>Wesley:</b> You need to press the action button each time the cursor is on a rezd zone! One time per red zone only!
+<b>Wesley:</b> Don't worry: these zones are not placed randomly. They are timed on the downbeat of the music.
+<b>Wesley:</b> Don't worry: these zones are not placed randomly. They are timed on the downbeat of the music.
+<b>Wesley:</b> The more you progress in the Gym, the faster will be the music beat! Good luck!
+<b>Wesley:</b> The more you progress in the Gym, the faster will be the music beat! Good luck!
+<b>Rillaboom:</b> Rillabooooooom!
+<b>Rillaboom:</b> Rillabooooooom!
+<b>Lurantis:</b> Lurantis!
+<b>Lurantis:</b> Lurantis!
+Yes
+Yes
+No
+No
+Yes bonus 1
+Yes bonus 1
+Yes bonus 2
+Yes bonus 2
+Retry minigame
+Retry minigame
+Battle him!
+Battle him!
+Quest
+Quest
+Give gift
+Give gift
+Spend time
+Spend time
+Say goodbye
+Say goodbye

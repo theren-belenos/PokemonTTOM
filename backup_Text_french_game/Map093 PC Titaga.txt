@@ -1,0 +1,108 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map093]
+<b>Rich Boy:</b> Don't they have a golf here??
+<b>Rich Boy:</b> Don't they have a golf here??
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Whismur:</b> Muuuuur!
+<b>Whismur:</b> Muuuuur!
+<b>Trumbeak:</b> Trumbeaaaak!
+<b>Trumbeak:</b> Trumbeaaaak!
+<b>Maid:</b> Hello, I'm currently taking a break. I hope you're having a good time!
+<b>Maid:</b> Hello, I'm currently taking a break. I hope you're having a good time!
+<b>Elder:</b> Hello young one, can you help me?
+<b>Elder:</b> Hello young one, can you help me?
+<b>Elder:</b> You see, I lost my daughter not so long ago. Yes, that’s dreadful.
+<b>Elder:</b> You see, I lost my daughter not so long ago. Yes, that’s dreadful.
+<b>Elder:</b> Children should never depart before the parents. It's unnatural.
+<b>Elder:</b> Children should never depart before the parents. It's unnatural.
+<b>Elder:</b> Anyway, my daughter had this strange artefact that nearly obsessed her.
+<b>Elder:</b> Anyway, my daughter had this strange artefact that nearly obsessed her.
+<b>Elder:</b> She said it was linked to that mysterious well inside the Spirit Cave.
+<b>Elder:</b> She said it was linked to that mysterious well inside the Spirit Cave.
+<b>Elder:</b> For the sake of her memory, I want to go there and throw this thing inside the well.
+<b>Elder:</b> For the sake of her memory, I want to go there and throw this thing inside the well.
+<b>Elder:</b> But the Spirit Cave is a dangerous place… I can’t go there alone.
+<b>Elder:</b> But the Spirit Cave is a dangerous place… I can’t go there alone.
+<b>Elder:</b> Can you go with me? Be my personal bodyguard?
+<b>Elder:</b> Can you go with me? Be my personal bodyguard?
+<b>Elder:</b> Thank you very much! I will wait for you inside the cave, next to the entrance
+<b>Elder:</b> Thank you very much! I will wait for you inside the cave, next to the entrance
+<b>Elder:</b> See you soon, I hope!
+<b>Elder:</b> See you soon, I hope!
+<b>Elder:</b> Thanks again for your help!
+<b>Elder:</b> Thanks again for your help!
+<b>The man:</b> Woah man, good vibes all around here huh? So cool, man...
+<b>The man:</b> Woah man, good vibes all around here huh? So cool, man...
+<b>The man:</b> Man, you're cool, right, wanna take this?
+<b>The man:</b> Man, you're cool, right, wanna take this?
+<b>The man:</b> Have a good day, man...
+<b>The man:</b> Have a good day, man...
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
+<b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] Would you like to rest your Pokémon?
+<b>\c[5]Nurse:</b>\c[0] Would you like to rest your Pokémon?
+<b>\c[5]Nurse:</b>\c[0] OK, I'll take your Pokémon for a few seconds.
+<b>\c[5]Nurse:</b>\c[0] OK, I'll take your Pokémon for a few seconds.
+<b>\c[5]Nurse:</b>\c[0] Thank you for waiting.
+<b>\c[5]Nurse:</b>\c[0] Thank you for waiting.
+<b>\c[5]Nurse:</b>\c[0] We've restored your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] We've restored your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] Take care of you sweetie!
+<b>\c[5]Nurse:</b>\c[0] Take care of you sweetie!
+<b>\c[5]Nurse:</b>\c[0] First, you should restore your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] First, you should restore your Pokémon to full health.
+<b>\c[5]Nurse:</b>\c[0] Your Pokémon have been healed to perfect health.
+<b>\c[5]Nurse:</b>\c[0] Your Pokémon have been healed to perfect health.
+<b>\c[5]Nurse:</b>\c[0] Take care sweetie!
+<b>\c[5]Nurse:</b>\c[0] Take care sweetie!
+Relaxation and meeting zone
+Relaxation and meeting zone
+<b>Toxtricity:</b> Tooooxtry!
+<b>Toxtricity:</b> Tooooxtry!
+<b>Lady:</b> YOU! TAKE THIS, QUICK!!!!
+<b>Lady:</b> YOU! TAKE THIS, QUICK!!!!
+<b>Lady:</b> SHHHHHHHHH! STAY LOW!!!!!
+<b>Lady:</b> SHHHHHHHHH! STAY LOW!!!!!
+You talk to the musician about Camosack.
+You talk to the musician about Camosack.
+<b>Musician:</b> Perform at Camosack you say? Well not for now, I have something I want!
+<b>Musician:</b> Perform at Camosack you say?  Well not for now, I have something I want!
+<b>Musician:</b> Oy oy you little noisier, hear me up!
+<b>Musician:</b> Oy oy you little noisier, hear me up!
+<b>Musician:</b> I’m trying Pokémon that can accompany me during concerts.
+<b>Musician:</b> I’m trying Pokémon that can accompany me during concerts.
+<b>Musician:</b> Currently, I want to test this Trumbeak dude. Have one?
+<b>Musician:</b> Currently, I want to test this Trumbeak dude. Have one?
+<b>Musician:</b> I can trade it for this little guy Whismur I have here. Cute fella.
+<b>Musician:</b> I can trade it for this little guy Whismur I have here. Cute fella.
+<b>Musician:</b> Found its egg one day during a tour. Might’ve been because I have two Loudreds...
+<b>Musician:</b> Found its egg one day during a tour. Might’ve been because I have two Loudreds...
+<b>Musician:</b> What do you say?
+<b>Musician:</b> What do you say?
+<b>Musician:</b> Nah? Drat! How can I find one?
+<b>Musician:</b> Nah? Drat! How can I find one?
+<b>Musician:</b> Oh yeah baby, now we talkin’! Let’s do this!
+<b>Musician:</b> Oh yeah baby, now we talkin’! Let’s do this!
+Drummy
+Drummy
+Musician
+Musician
+\pn traded Trumbeak for Whismur!
+\pn traded Trumbeak for Whismur!
+<b>Musician:</b> Take care of smol’ little Drummy!
+<b>Musician:</b> Take care of smol’ little Drummy!
+<b>Musician:</b> Wanna trade a Trumbeak for my little fella Whismur?
+<b>Musician:</b> Wanna trade a Trumbeak for my little fella Whismur?
+<b>Musician:</b> Perform at Camosack you say? Well it might be a good way to try out my new friend Trumbeak, right?
+<b>Musician:</b> Perform at Camosack you say?  Well it might be a good way to try out my new friend Trumbeak, right?
+<b>Musician:</b> Okay dude, see you there!
+<b>Musician:</b> Okay dude, see you there!
+Yes
+Yes
+No
+No

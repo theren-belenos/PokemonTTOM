@@ -1,0 +1,38 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map021]
+<b>Bridget:</b> My Pokémons love the sand!
+<b>Bridget:</b> Mes Pokémon adorent le sable !
+<b>Bridget:</b> Well, I don't like sand as much as them...
+<b>Bridget:</b> Bon, j’aime pas autant le sable qu’eux…
+<b>Desert Nurse:</b> Hello, you must take care with the desert.
+<b>Infirmière du désert:</b> Bonjour, tu devrais faire attention avec le désert.
+<b>Desert Nurse :</b> If you want, you can rest up inside the tent.
+<b>Infirmière du désert:</b> Si tu veux, tu peux te reposer dans la tente.
+Your Pokémons were healed!
+Vos Pokémon ont été soignés !
+<b>Desert Nurse:</b> See you around!
+<b>Infirmière du désert:</b> A bientôt !
+<b>Explorer:</b> I can't go onto the desert without my scarf! Where did it go??
+<b>Explorateur:</b> Je peux pas aller dans le désert sans mon foulard ! Où est-il passé ??
+You show the scarf to the explorer.
+Vous montrez le foulard à l’explorateur.
+<b>Explorer:</b> Ho ooooooh! You found it!
+<b>Explorateur:</b> Ho ooooooh ! Tu l’as trouvé !
+<b>Explorer:</b> Thank you very much little one, I will be able to continue my trip!
+<b>Explorateur:</b> Merci beaucoup à toi, je vais pouvoir continuer mon voyage !
+<b>Explorer:</b> Here, take this as a thanks!
+<b>Explorateur:</b> Tiens, je te donne ça pour te remercier !
+<b>Explorer:</b> I must warn you tho, the desert is really tough nowadays.
+<b>Explorateur:</b> Je dois te prévenir, le désert est vraiment rude de nos jours.
+<b>Explorer:</b> Even me, an experienced traveller, won't go in right now.
+<b>Explorateur:</b> Même moi, voyageur expérimenté, ne suis pas sûr d’y aller maintenant.
+<b>Explorer:</b> I heard that a certain HM can make the weather calmer. Have you heard about it too?
+<b>Explorateur:</b> J’ai entendu parler d'une CS permettant de rendre la météo plus calme. Ça te dit quelque chose ?
+<b>Explorer:</b> Did you go to the desert yet?
+<b>Explorateur:</b> T’es allé dans le désert ?
+Yes
+Oui
+No
+Non

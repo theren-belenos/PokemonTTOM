@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map037]
+<b>Victor:</b> Did you catch all Pokémon on this Route ?
+<b>Victor:</b> T'as capturé tous les Pokémon de cette Route ?
+<b>Victor:</b> Catch'em all!
+<b>Victor:</b> Attrape-les tous !
+<b>Policeman:</b> Hmmm... No clue here neither...
+<b>Policier:</b> Hmmm... Pas d'indice ici non plus...

@@ -1,0 +1,60 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map375]
+<b>Policeman:</b> Wait a minute citizen!
+<b>Policier:</b> Attendez un instant, citoyen !
+<b>Policeman:</b> The recent seism destroyed all the lights in the tunnel!
+<b>Policier:</b> Le récent séisme a détruit toutes les lampes du tunnel !
+<b>Policeman:</b> Here, take this!
+<b>Policier:</b> Prenez ceci !
+<b>Policeman:</b> With this you can light up your way! You need the badge from Sombake to use it tho...
+<b>Policier:</b> Avec cela vous pouvez éclairer votre chemin ! Par contre, vous aurez besoin du badge de Sombake pour l’utiliser…
+<b>Policeman:</b> You do have it? Marvelous! Stay safe in the tunnel!
+<b>Policier:</b> Vous l’avez ? Merveilleux ! Soyez prudent dans le tunnel !
+<b>Policeman:</b> You don't have it? Then I must ask you to step back.
+<b>Policier:</b> Vous ne l’avez pas ? Alors je dois vous demander de faire demi-tour.
+<b>Policeman:</b> We already had to save two persons who couldn't see anything.
+<b>Policier:</b> On a déjà dû secourir deux personnes qui ne pouvaient rien voir.
+<b>Policeman:</b> So we forbid others to go unless they can use Flash. Sorry.
+<b>Policier:</b> Donc nous interdisons l’accès à moins de pouvoir utiliser Flash. Désolé.
+<b>Policeman:</b> It's you again! Do you have the second badge now?
+<b>Policier:</b> C’est encore vous ! Avez-vous le second badge ?
+<b>Policeman:</b> You still don't have it? You know I can't let you through... sorry...
+<b>Policier:</b> Vous ne l’avez toujours pas ? Alors vous savez que je ne peux pas vous laisser passer… Désolé…
+The cable is damaged here. Repair?
+The cable is damaged here. Repair?
+You use the tool Cassian gave you.
+You use the tool Cassian gave you.
+The cable is repaired!
+The cable is repaired!
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Manuel:</b> Even in the dark, you can't escape me!
+<b>Manuel:</b> Même dans le noir, tu ne peux pas m'échapper !
+<b>Manuel:</b> I won't escape you!
+<b>Manuel:</b> Je ne t'échapperai pas !
+\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]CAN'T SWITCH LIGHTS ON
+\c[3]ALL CABLES REPAIRED
+\c[3]ALL CABLES REPAIRED
+\c[3]SWITCHING LIGHTS ON...
+\c[3]SWITCHING LIGHTS ON...
+\c[3]LIGHTS ARE ON
+\c[3]LIGHTS ARE ON
+<b>Policeman:</b> Stay safe during your trip citizen!
+<b>Policier:</b> Restez prudent durant votre voyage, citoyen !
+<b>Blanche:</b> Well... this can be inspiring, but also a bit creepy...
+<b>Blanche:</b> Bon... ça peut être inspirant, mais aussi un peu effrayant...
+<b>Blanche:</b> You're creepier!
+<b>Blanche:</b> Tu fais encore plus peur !
+The cable is damaged here.
+The cable is damaged here.
+Yes
+Oui
+No
+Non

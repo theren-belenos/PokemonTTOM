@@ -1,0 +1,36 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map056]
+<b>Gardener:</b> Coming here to take care of these plants is really tiring!
+<b>Jardinier:</b> C'est vraiment fatiguant de venir jusqu'ici pour s'occuper de ces plantes !
+This stone is glowing!
+Cette pierre brille de mille feux !
+Do you want to use the Mining Kit?
+Voulez-vous utiliser le Kit de Minage ?
+This glowing rock was already mined.
+Cette pierre brillante a déjà été minée.
+<b>Warren:</b> You're so close to the end! Would be a shame if someone... beat you up... hihihi!
+<b>Warren:</b> T'es tellement proche de la fin ! Ce serait vraiment la honte si quelqu'un... te battait... hihihi !
+<b>Warren:</b> Is myself the actual shame???
+<b>Warren:</b> C'est moi qui ai la honte maintenant !
+<b>Ranger:</b> Hello young one I'm a ranger. Sorry the bridge here is damaged.
+<b>Ranger:</b> Bonjour petite je suis un ranger. Désolé que le pont soit endommagé.
+<b>Ranger:</b> You have to go back from here. Sorry.
+<b>Ranger:</b> Tu dois repartir dans l'autre direction. Mes excuses.
+<b>Ranger:</b> Do you want my friend Blissey to heal your Pokémon?
+<b>Ranger:</b> Veux-tu que mon ami Leuphorie ici présent soigne tes Pokémon ?
+Your Pokémons were completely healed !
+Vos Pokémon ont été complètement soignés !
+<b>Ranger:</b> Take care!
+<b>Ranger:</b> Soit prudent !
+<b>Ranger:</b> Sorry the bridge is not repaired yet.
+<b>Ranger:</b> Désolé que le pont ne soit pas encore réparé.
+<b>Ranger:</b> Do you need my friend Blissey to heal your Pokémon again ?
+<b>Ranger:</b> Veux-tu que mon ami Leuphorie soigne tes Pokémon de nouveau ?
+<b>Blissey:</b> Blisseeeeeeeey!
+<b>Leuphorie:</b> Phoriiiiiiiie !
+Yes
+Oui
+No
+Non

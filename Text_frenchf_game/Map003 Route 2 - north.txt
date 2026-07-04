@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map003]
+> \tn\n< Green Lush Forest\nv Central Town
+> \tn\n< Forêt Verdoyante\nv Ville Centrale
+<b>Mimi:</b> Yay! A friend!
+<b>Mimi:</b> Ouais ! Une copine !
+<b>Mimi:</b> Hello friend!
+<b>Mimi:</b> Salut copine !
+<b>Jason:</b> Hey! That's my secret spot! Go away!
+<b>Jason:</b> Hé ! C’est ma planque ! Va-t-en !
+<b>Jason:</b> Okay, okay, you can stay but don't tell others about this place!
+<b>Jason:</b> Ok, ok, tu peux rester mais garde cet endroit pour toi ok ?
+<b>Tourist:</b> Oh my! This place is so picturesque!
+<b>Touriste:</b> Ohlala ! Cet endroit est si pittoresque !

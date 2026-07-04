@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map390]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Woman:</b> Hello honey! Do you like our city so far?
+<b>Femme:</b> Bonjour trésor ! Comment trouves-tu notre ville ?

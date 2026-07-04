@@ -1,0 +1,84 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[REGION_LOCATION_DESCRIPTIONS]
+Your Gym
+Votre Arène
+Fisherman's hut
+Hutte du Pêcheur
+Pokémon Day Care
+Pension Pokémon
+Pokémon league
+Ligue Pokémon
+Grey Mines
+Mines Grises
+Desert Ruins
+Ruines Désertiques
+Power Generator
+Usine d'Energie
+Pokeball Factory
+Usine de Pokeballs
+Central Police Station
+Commissariat Central
+Board control
+Douanes
+Lost Galleon
+Navire Perdu
+Gardari Jetty
+Embascadère de Gardari
+First trainer
+Premier Dresseur
+Lvl. 1
+Niv. 1
+Lvl .1
+Niv .1
+Floor 1
+Etage 1
+Your House
+Votre Maison
+Floor 1 opening
+Ouverture de l'Etage 1
+Consolation
+Consolation
+Lvl. 2
+Niv. 2
+House n°1
+Maison n°1
+Town exteriors
+Extérieurs de la Ville
+Academy
+Academy
+Floor 2 opening
+Ouverture de l'étage 2
+Floor 1 Lvl. 2
+Etage 1 Niv 2
+Second trainer
+Deuxième dresseur
+Lvl. 3
+Lvl. 3
+Double battle
+Combat Double
+Melly's House
+Maison de Melly
+Block 1
+Immeuble 1
+Safari Park
+Safari Park
+Floor 3 opening
+Floor 3 opening
+Floor 2 Lvl. 2
+Floor 2 Lvl. 2
+Floor 1 Lvl. 3
+Floor 1 Lvl. 3
+Mezzanine
+Mezzanine
+Lvl. 4
+Lvl. 4
+House n°2
+House n°2
+Clothes Shop
+Clothes Shop
+Casino
+Casino
+Harbor
+Harbor

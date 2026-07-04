@@ -1,0 +1,132 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map419]
+Should Onix kick this boulder?
+Onix doit-il frapper ce rocher?
+Should Aerodactyl remove this boulder?
+Ptéra doit-il enlever ce rocher?
+You're already controlling an Onix!
+Vous controllez déjà un Onix!
+<b>Cassian:</b> Greetings \pn.
+<b>Cassian:</b> Salutations \pn.
+<b>Cassian:</b> You need to get to rank 3, and the first step is by getting my badge!
+<b>Cassian:</b> Tu dois monter rang 3, et la première étape est d'obtenir mon badge !
+<b>Cassian:</b> Ready to roll?
+<b>Cassian:</b> Prête à tout péter ?
+<b>Cassian:</b> Give me all you got!
+<b>Cassian:</b> Montre-moi ce que t'as dans le ventre !
+You got the Boulder Badge! \f[BOULDERBADGE]
+Vous obtenez le Badge Rocher ! \f[BOULDERBADGE]
+<b>Cassian:</b> Wow, ok, good fight. You didn't spare me!
+<b>Cassian:</b> Wow, ok, joli combat. Tu m'as pas raté !
+<b>Cassian:</b> So, with my badge, you can train your Pokémon up to the level 35.
+<b>Cassian:</b> Donc, avec mon badge, tu pourras entraîner tes Pokémon jusqu'au niveau 35.
+<b>Cassian:</b> You can also use the Rocksmash HM outside the battles. Did you find it already?
+<b>Cassian:</b> Tu peux également utiliser la CS Eclate-Roc en dehors des combats. Tu l'as trouvée, déjà ?
+<b>Cassian:</b> It's really useful to break small rocks. A perfect tool for a miner like me!
+<b>Cassian:</b> C'est vraiment utile pour casser de petits rochers. Un outil parfait pour un mineur comme moi!
+<b>Cassian:</b> Last but not least, let me give you this.
+<b>Cassian:</b> Et pour finir en beauté, laisse moi te donner ceci.
+<b>Cassian:</b> Rock Blast can be a really powerful attack, but it's inherently really random... use it with care!
+<b>Cassian:</b> Boule Roc peut-être une attaque vraiment puissante, mais de nature très aléatoire... Utilise ça avec prudence !
+<b>Cassian:</b> So I guess I'll see you soon for the Rank up Battle? See you there!
+<b>Cassian:</b> Donc j'imagine qu'on se rencontre bientôt pour ton Combat de Rang ? On se voit là-bas !
+<b>Cassian:</b> Greetings \pn, how is your day?
+<b>Cassian:</b> Salutations \pn, comment se passe ta journée ?
+You already gave a gift to Cassian this week!
+Vous avez déjà offert un cadeau à Cassian cette semaine !
+Reset this puzzle?
+Réinitialiser ce puzzle ?
+Resetting...\wtnp[10]
+Réinitialisation...\wtnp[10]
+The Pokémon doesn't understand the reset machine!
+Le Pokémon ne comprend pas la machine de réinitialisation !
+You're already controlling an Aerodactyl!
+Vous controllez déjà un Ptéra !
+You spend time studying Cassian's Gym.
+Vous passez du temps à étudier l'Arène de Cassian
+You learn a lot!
+Vous apprenez plein de choses !
+Leaving the puzzle area will reset it. Continue?
+Partir de la zone du puzzle le réinitialisera. Poursuivre ?
+Graveler doesn't want to leave the area!
+Gravalanch ne veut pas quitter la zone !
+Onix doesn't want to leave the area!
+Onix ne veut pas quitter la zone !
+Aerodactyl doesn't want to leave the area!
+Ptéra ne veut pas quitter la zone !
+<b>Stanley:</b> Hello challenger and welcome to the Rock Gym! I'm Stanley, at your service!
+<b>Stanley:</b> Bonjour challenger et bienvenue dans l'Arène Roche ! Je suis Stanley, à ton service !
+<b>Stanley:</b> Rock Pokémon have a lot of weakness to work with but beware of their high defense!
+<b>Stanley:</b> Les Pokémon Roche ont beaucoup de faiblesses à exploiter mais méfie-toi de leur haute défense !
+<b>Stanley:</b> To reach the Leader, you'll need to solve boulder related puzzles!
+<b>Stanley:</b> Pour atteindre le Leader, tu devras résoudre les puzzles basés sur des rochers !
+<b>Stanley:</b> Do you want to hear explanations on the boulder puzzles ?
+<b>Stanley:</b> Veux-tu écouter des explications sur les puzzles rochers ?
+<b>Stanley:</b> The goal of these puzzles is to put a boulder in both orange slab, with the help of 3 different Pokemon species.
+<b>Stanley:</b> Le but de ces puzzles est de placer un rocher sur les deux socles oranges, avec l'aide de 3 espèces de Pokémon.
+<b>Stanley:</b> Graveler, Onix, and Aerodactyl. Each one of them has a unique ability for the puzzles.
+<b>Stanley:</b> Gravalanch, Onix et Ptéra. Chacun d'entre eux à une faculté utile pour les puzzles.
+<b>Stanley:</b> Interacting with them let you gain their control.
+<b>Stanley:</b> Intéragir avec eux te permet de les controller.
+<b>Stanley:</b> Graveler: You will use it the most. He can push round boulders, just like a Stength Machine would do!
+<b>Stanley:</b> Gravalanch : tu l'utiliseras énormément. Il permet de pousser les rochers ronds, comme si tu utilisais Force !
+<b>Stanley:</b> Onix: He can kick a boulder by spinning his tail!
+<b>Stanley:</b> Onix : Il peut frapper un rocher en faisant tourner sa queue !
+<b>Stanley:</b> Kicked boulders travel straight until they hit an obstacle. Meaning they can go accross pits!
+<b>Stanley:</b> Les rochers frappés vont en ligne droite jusqu'à frapper un obstacle. Donc ils peuvent passer les trous !
+<b>Stanley:</b> Be careful tho: If they hit an obstacle while being on top of a pit, they will fall in it!
+<b>Stanley:</b> Mais attention : Si le rocher percute un obstacle en étant au dessus d'un trou, il tombera dedans !
+<b>Stanley:</b> But maybe that too can be useful...
+<b>Stanley:</b> Mais peut-être que ça aussi peut t'être utile...
+<b>Stanley:</b> Once they kicked a boulder, Onix leaves the area (at least until the puzzle is reseted).
+<b>Stanley:</b> Une fois qu'il frappe un rocher, Onix part de la zone (en tout cas jusqu'à ce que le puzzle soit réinitialisé).
+<b>Stanley:</b> Meaning you can't use it multiple times. But, depending on the puzzle, you can have access to multiple Onix.
+<b>Stanley:</b> Autrement dit, tu ne peux pas l'utiliser plusieurs fois. Mais, selon les puzzles, tu peux avoir accès à plusieurs Onix.
+<b>Stanley:</b> Lastly: Aerodactyl. He can take a boulder with him and fly off the puzzle, effectively deleting the boulder.
+<b>Stanley:</b> Pour finir : Ptéra. Il peut prendre un rocher avec lui et s'envoler hors du puzzle, supprimant ainsi ce rocher.
+<b>Stanley:</b> But like Onix, it doesn't come back. You can only use each Aerodactyl once!
+<b>Stanley:</b> Mais comme Onix, il ne revient pas. Tu ne peux utiliser chaque Ptéra qu'une fois !
+<b>Stanley:</b> Obviously, making a Pokémon interact with yourself will give you back the control of your own body!
+<b>Stanley:</b> Bien entendu, faire qu'un Pokémon contrôlé intéragisse avec toi te rends le contrôle de ton propre corps!
+<b>Stanley:</b> If you messed up something and want to reset the puzzle, interact with the statue in the center of the puzzle.
+<b>Stanley:</b> Si tu t'es trompé quelque part et tu veux recommencer, intéragis avec la statue au milieu du puzzle.
+<b>Stanley:</b> Good luck!
+<b>Stanley:</b> Bonne chance !
+<b>Majid:</b> I'm glad I don't have to do these puzzles myself!
+<b>Majid:</b> Je suis bien content de pas avoir à faire ces puzzles moi-même !
+<b>Majid:</b> So puzzled!
+<b>Majid:</b> Si complexe !
+<b>Murielle:</b> Does your mind hurt?
+<b>Murielle:</b> Mal à la tête ?
+<b>Murielle:</b> Take care of your mind!
+<b>Murielle:</b> Prends soin de ta tête
+Resetting...
+Réinitialisation...
+Congratulations ! The path to the Leader is now open!
+Félicitations ! Le chemin menant au Leader est ouvert !
+Congratulations ! You can now access to the main area !
+Félicitations ! Vous pouvez accéder à la partie principale !
+Congratulations ! You removed one barrier from the main stairs. Also, Bonus Puzzle A (down of this one) is now available!
+Félicitations ! Vous avez enlevé l'une des barrières de l'escalier principal. Le puzzle bonus A est aussi disponible !
+Note that, as the name suggests, the Bonus Puzzles (quite hards) aren't mandatory to progress. Good luck if you try it.
+Notez que, comme leur nom l'indique, les Puzzles Bonus (plutôt durs) sont facultatifs. Bonne chance si vous les essayez.
+Congratulations ! You removed one barrier from the main stairs. Also, Bonus Puzzle B (down of this one) is now available!
+Félicitations ! Vous avez enlevé l'une des barrières de l'escalier principal. Le puzzle bonus B est aussi disponible !
+Congratulations ! You can go get the first bonus item!
+Félicitations ! Vous pouvez aller chercher le premier objet bonus !
+Congratulations ! You can go get the second bonus item!
+Félicitations ! Vous pouvez aller chercher le second objet bonus !
+Yes
+Oui
+No
+Non
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir

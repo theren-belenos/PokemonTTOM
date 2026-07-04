@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map395]
+<b>Gramps:</b> I'm glad my son turned out to be a good kid.
+<b>Grand-père:</b> Je suis content que mon fils soit devenu un bon garçon.
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Worker:</b> I moved here to take care of my parents.
+<b>Travailleur:</b> J'ai déménagé ici pour prendre soin de mes parents.
+<b>Worker:</b> It's not always an easy life, but they deserve it!
+<b>Travailleur:</b> C'est pas toujours une vie facile, mais ils le méritent !
+<b>Granny:</b> My kid is really sweet. We couldn't stay here without him!
+<b>Grand-mère:</b> Mon enfant est vraiment adorable. On ne pourrait pas rester ici sans lui !

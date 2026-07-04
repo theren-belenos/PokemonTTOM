@@ -1,0 +1,238 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[REGION_LOCATION_NAMES]
+MainTown
+MainTown
+Safari Park
+Parc Safari
+Route 1
+Route 1
+Route 2
+Route 2
+Geodude Pit
+Fosse Racaillou
+Dark Tunnel
+Tunnel Sombre
+Route 3
+Route 3
+Central Town
+Ville Centrale
+Route 4 (east)
+Route 4 (est)
+Route 4 (west)
+Route 4 (ouest)
+Route 5
+Route 5
+Route 6
+Route 6
+Route 6 - Forest
+Route 6 - Forêt
+Gr.Lush Forest (east)
+Forêt Verdoyante (est)
+Gr.Lush Forest (west)
+Forêt Verdoyante (ouest)
+???
+???
+Route 7
+Route 7
+Wetland Cave
+Grotte Détrempée
+Route 8
+Route 8
+Sombake
+Sombake
+Firefly Cave
+Grotte aux Lucioles
+Route 9
+Route 9
+Power Tunnel
+Tunnel Energie
+Route 10
+Route 10
+Greymoose
+Greymoose
+Route 11
+Route 11
+Camosack
+Camosack
+Route 12
+Route 12
+Soul Shelter
+Soul Shelter
+Titaga
+Titaga
+Route 13
+Route 13
+Assiniboia Desert
+Désert d'Assiniboia
+Wascana
+Wascana
+Winnipy
+Winnipy
+Route 14
+Route 14
+Route 15
+Route 15
+Frozen Cave
+Grotte Gelée
+Route 16
+Route 16
+Adawe
+Adawe
+Canopy Forest
+Forêt de la Canopée
+Route 17
+Route 17
+Sea Route B
+Chenal B
+Route 18
+Route 18
+Nashwak
+Nashwak
+Route 19
+Route 19
+Chebooktook cave
+Grotte Chebooktook
+Sea route A
+Chenal A
+Route 20
+Route 20
+Moonyang
+Moonyang
+Route 21
+Route 21
+Sea Route C
+Chenal C
+Route 22
+Route 22
+Ediacaran
+Ediacaran
+Route 23
+Route 23
+Nunaat's departure jetty
+Embarcadère vers Nunaat
+Route 24
+Route 24
+Underwater observation settlement
+Centre d'observation sous-marine
+Sea Route E
+Chenal E
+Sea Route D
+Chenal D
+Sea Route F
+Chenal F
+Sea Route G
+Chenal G
+Sea Route H
+Chenal H
+Sea Route I
+Chenal I
+Nakasuk lake
+Lac Nakasuk
+Iqaluit
+Iqaluit
+Nunavut Forest
+Forêt Nunavut
+Route 25
+Route 25
+Route 26
+Route 26
+Fire Mountain
+Mont de Feu
+Dragons' Altar
+Autel des Dragons
+Route 27
+Route 27
+Obsidian Cave
+Cave d'Obsidienne
+Route 28
+Route 28
+Dragon's Peak
+Pic du Dragon
+Tlingit Route 1
+Tlingit Route 1
+Tlingit Route 2
+Tlingit Route 2
+Tlingit Route 3
+Tlingit Route 3
+Dena Town
+Dena
+Alutiiq Town
+Alutiiq
+Time Cave
+Grotte Temporelle
+Tanana Forest
+Forêt Tanana
+Nunaat's arrival jetty
+Embarquadère de Nunaat
+Nunaat Route 1
+Nunaat Route 1
+Underground Passage
+Passage Souterrain
+Nunaat Route 2
+Nunaat Route 2
+Tropical Peninsula
+Péninsule Tropicale
+Kangerlua
+Kangerlua
+Gardari Route 1
+Gardari - Route 1
+Gardari Route 2
+Gardari - Route 2
+Nunaat Sea Route
+Nunaat - Chenal
+Gardari Sea Route
+Gardari - Chenal
+Summer Peak
+Pic de l'été
+Vik
+Vik
+Far Islands Jetty
+Îles Lointaines - Embarcadère
+Far Islands Sea Route
+Îles Lointaines - Chenal
+Far Islands Route 1
+Îles Lointaines - Route 1
+Far Islands Route 2
+Îles Lointaines - Route 2
+Tinganes
+Tinganes
+Husareyn Cave
+Grotte Husareyn
+Gym Team
+Equipe d'Arène
+Gym Interiors
+Intérieurs de l'Arène
+Leader's room
+Salle du Champion
+Gym Exteriors
+Extérieurs de l'Arène
+Pokémon Center
+Centre Pokémon
+Pokémon Lab
+Labo Pokémon
+Clearing
+Déblayage
+Dept. Store
+Centre Commercial
+Gym Welcoming
+Accueil de l'Arène
+Your House
+Votre Maison
+Leader room
+Salle du Champion
+Negociations
+Négociations
+House n°1
+Maison n°1
+Town Exteriors
+Extérieurs de la Ville
+Bike Seller
+Vendeur de Vélo
+Trainer's Academy
+Académie de Dresseurs
+Selfcare Market
+Selfcare Market
+Block n°1
+Block n°1

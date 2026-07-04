@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map434]
+There is only trash in there.
+There is only trash in there.
+<b>Lady:</b> Hello! Are you visiting our little town?
+<b>Lady:</b> Hello! Are you visiting our little town?
+<b>Lady:</b> If you’re here, you do like flowers, right? Here, take this!
+<b>Lady:</b> If you’re here, you do like flowers, right? Here, take this!
+<b>Lady:</b> Enjoy the Flower Valley!
+<b>Lady:</b> Enjoy the Flower Valley!

@@ -1,0 +1,18 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map392]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Elder:</b> Oh hello, you're a young trainer right?
+<b>Ancien:</b> Oh bonjour, tu es un jeune dresseur n'est-ce pas ?
+<b>Elder:</b> That reminds me of my youth... Let me tell you, I had my share of adventures too...
+<b>Ancien:</b> Cela me rappelle ma jeunesse... Crois moi, j'ai eu mon lot d'aventures également...
+<b>Elder:</b> But now, I just want to enjoy my old days with my lovely wife.
+<b>Ancien:</b> Mais maintenant, je veux juste profiter de mes vieux jours avec mon adorable femme.
+<b>Elder:</b> Take this. I don't need it anymore anyways.
+<b>Ancien:</b> Prends ceci. Je n'en ai plus besoin de toute façon.
+<b>Elder:</b> Stay safe during your journey.
+<b>Ancien:</b> Sois prudent pendant tes aventures.
+<b>Granny:</b> Oh hello little one! Aren't you cute??
+<b>Mamie:</b> Oh bonjour jeune enfant ! N'es-tu pas mignon ??

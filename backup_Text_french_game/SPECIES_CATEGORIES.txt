@@ -1,0 +1,186 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SPECIES_CATEGORIES]
+Axe
+Hache
+Peat
+Tourbe
+Big Fish
+Poissigrand
+Free Climb
+Grimpeur
+Pin Cluster
+Epineux
+Love-Hate
+Hainamour
+Grass Cat
+Chat Plante
+Magician
+Magicien
+Fire Croc
+Croco Feu
+Singer
+Chanteur
+Duckling
+Caneton
+Practicing
+Leçon
+Dancer
+Danseur
+Hog
+Pourceau
+String Ball
+Boule de fil
+Grasshopper
+Sauterelle
+Hands-On
+Souris
+Couple
+Couple
+Family
+Famille
+Olive
+Olive
+Parrot
+Perroquet
+Rock Salt
+Halite
+Fire Child
+Enfant Feu
+Fire Warrior
+Feu Guerrier
+Fire Blades
+Feu Bretteur
+EleTadpole
+Électêtard
+EleFrog
+Élecrapaud
+Storm Petrel
+Océanite
+Frigatebird
+Frégate
+Rascal
+Jeunot
+Boss
+Parrain
+Toxic Mouse
+Souris Venin
+Toxic Monkey
+Singe Venin
+Tumbleweed
+Virevoltant
+Woodear
+Champiméduse
+Ambush
+Embuscade
+Spicy Pepper
+Habanero
+Rolling
+Rouleur
+Frill
+Froufrou
+Ostrich
+Autruche
+Metalsmith
+Forge
+Hammer
+Marteau
+Garden Eel
+Congre
+Item Drop
+Délesteur
+Dolphin
+Dauphin
+Single-Cyl
+Monocylindre
+Multi-Cyl
+Polycylindre
+Earthworm
+Ver de Terre
+Ghost Dog
+Fantôchien
+Synchronize
+Synchro
+Terra Whale
+Baleinapied
+Jettison
+Décharné
+Big Catfish
+Grand Silure
+Mimicry
+Mimétisme
+Rage Monkey
+Singe Furax
+Spiny Fish
+Poissépine
+Big Blade
+Pourfendant
+Paradox
+Paradoxe
+Ice Fin
+Glaçaileron
+Ice Dragon
+Dragon Glace
+Coin Chest
+Coffrotrésor
+Coin Entity
+Trésor Animé
+Ruinous
+Fléau
+Candy Apple
+Sirop Pomme
+Matcha
+Matcha
+Retainer
+Serviteur
+Mask
+Masque
+Apple Hydra
+HydrePomme
+Tera
+Teracristal
+Subjugation
+Emprise
+Steel Coat
+Pelage Acier
+Propel-Tail
+Propul-queue
+Eye of Jade
+Oeil de Jade
+Flowing Acid
+Acide Coulant
+Cloudy Nap
+Sieste Nuageuse
+Gulp'Earth
+Gob'Terre
+Rock Spin
+Tourne Roche
+Medium
+Médium
+Chi Pearl
+Perle Chi
+Guardian
+Guardien
+Sphere
+Sphère
+Ghost Flame
+Feu Follet
+Poison Fish
+Poisson
+Spinning
+Pirouette
+Mellow
+Pacifique
+Spiteful Fox
+Racoeurenard
+Baneful Fox
+Maudirenard
+Battle Cry
+Cri Guerrier
+Shell Bunker
+Escamoquille
+Hero
+Super Héros
+Coin Hunter
+Chassotrésor

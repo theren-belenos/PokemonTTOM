@@ -1,0 +1,84 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map059]
+<b>Frost:</b> Hello. I'm the embodiment of Ice.
+<b>Frost:</b> Bonjour. Je suis la personnification de la Glace.
+<b>Frost:</b> You can't make me falter or flinch.
+<b>Frost:</b> Tu ne peux pas me perturber ou me faire vaciller.
+<b>Frost:</b> You really want to battle me?
+<b>Frost:</b> Tu veux vraiment me combattre ?
+<b>Frost:</b> To battle the very essence of Ice?
+<b>Frost:</b> Combattre l'essence même de la glace ?
+<b>Frost:</b> It's useless to fight against a absolute force like me. You fool.
+<b>Frost:</b> Il est inutile de lutter contre une force absolue comme moi. Stupide humain.
+<b>Frost:</b> Useless.
+<b>Frost:</b> Inutile.
+<b>Frost:</b> Wh...wh...what? H... how???
+<b>Frost:</b> Qu...qu...quoi ? C...comment ??
+<b>Frost:</b> ...erm.
+<b>Frost:</b> ...*tousse*.
+<b>Frost:</b> As an absolute being, I sometimes side with mere humans like you.
+<b>Frost:</b> En tant qu'être absolu, il m'arrive de m'allier à de simples humains comme toi.
+<b>Frost:</b> Thi...this is purely by choice!
+<b>Frost:</b> C'est... c'est purement par choix !
+<b>Frost:</b> So, consider that this is my gift to you.
+<b>Frost:</b> Donc, considère ça comme un cadeau de ma part.
+<b>Frost:</b> Farewell, human being.
+<b>Frost:</b> Adieu, humain.
+<b>Receptionist:</b> Hello and welcome to the almighty Fang Dojo.
+<b>Réceptioniste:</b> Bonjour et bienvenue dans l'incroyable Dojo des Crocs.
+<b>Receptionist:</b> Here you can battle with the three Fang Masters to aquire their powers.
+<b>Réceptioniste:</b> Ici vous pouvez combattre les trois Maîtres des Crocs pour acquérir leurs pouvoirs.
+<b>Receptionist:</b> Be prepared! They're incredibly powerful!
+<b>Réceptioniste:</b> Préparez-vous ! Ils sont incroyablement puissants !
+<b>Receptionist:</b> Good luck...
+<b>Réceptioniste:</b> Bonne chance...
+<b>Ember:</b> Greetings little lamb.
+<b>Ember:</b> Salutations petit agneau.
+<b>Ember:</b> You must be foolish to battle myself, the GREAT EMBER, EMPRESS OF THE FLAMES!
+<b>Ember:</b> Tu dois avoir perdu la tête pour vouloir m'affronter moi, la GRANDE EMBER, IMPERATRICE DES FLAMMES !
+...
+...
+<b>Ember:</b> Eh! So you're not afraid huh? How come someone can be so clueless?
+<b>Ember:</b> Ah ! Donc tu n'as pas peur hein ? Comment c'est possible de ne rien comprendre à ce point ?
+<b>Ember:</b> Let me show you how little, how weak you are!
+<b>Ember:</b> Laisse moi te montrer à quel point tu es faible et minuscule !
+<b>Ember:</b> ...no...that's...impossible!
+<b>Ember:</b> ...non...c'est...impossible !
+<b>Ember:</b> Pff okay well take this. So mean.
+<b>Ember:</b> Pff bon okay prends ça. Pas drôle.
+<b>Ember:</b> Humpf *pouts*
+<b>Ember:</b> Pfff *boude*
+You talk to the dancer about Camosack.
+You talk to the dancer about Camosack.
+<b>Ember:</b> Perform at Camosack? Do you think they're worthy of myself??
+<b>Ember:</b> Perform at Camosack? Do you think they're worthy of myself??
+<b>Ember:</b> Okay, I trust you. See you there, then.
+<b>Ember:</b> Okay, I trust you. See you there, then.
+<b>Raiden:</b> You're in front of Raiden. GOD OF THUNDER!!!!!!
+<b>Raiden:</b> Tu es devant Raiden, DIEU DU TONNERRE !!!!!!
+<b>Raiden:</b> ...
+<b>Raiden:</b> ...
+<b>Raiden:</b> What? This thing is broken again?
+<b>Raiden:</b> Quoi ? Ce truc est encore cassé ?
+<b>Raiden:</b> Erm well...
+<b>Raiden:</b> Hm bon...
+<b>Raiden:</b> ...you really think you can take on a God by yourself? Don't make me laugh!
+<b>Raiden:</b> ...tu penses vraiment affronter un Dieu tout seul ? Ne me fais pas rire !
+<b>Raiden:</b> I will punish your hubris!
+<b>Raiden:</b> Je te punirai pour ton hubris !
+<b>Raiden:</b> So it is... The Godslayer...
+<b>Raiden:</b> Alors c'est ça... Le Déicide...
+<b>Raiden:</b> Dark times are coming ahead... a world... without... Gods...
+<b>Raiden:</b> Des temps sombres sont devant nous... un monde... sans... Dieux...
+<b>Raiden:</b> What? Oh right, this is your reward.
+<b>Raiden:</b> Quoi ? Ah oui, ta récompense.
+<b>Raiden:</b> The Godslayer...
+<b>Raiden:</b> Le Déicide...
+You talk to the juggler about Camosack.
+You talk to the juggler about Camosack.
+<b>Raiden:</b> Perform at Camosack? Do they need the God of Thunder himself??
+<b>Raiden:</b> Perform at Camosack? Do they need the God of Thunder himself??
+<b>Raiden:</b> I might be bored of this place yet... Okay, see you there!
+<b>Raiden:</b> I might be bored of this place yet...  Okay, see you there!

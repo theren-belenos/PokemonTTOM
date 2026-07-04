@@ -1,0 +1,32 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map435]
+<b>Girl:</b> Hello, I'm the Leader's daughter.
+<b>Fille:</b> Bonjour, je suis la fille du Leader.
+<b>Girl:</b> My dad is a really sweet man, even if he tries so hard to be "cool"... Bear with him!
+<b>Fille:</b> Mon père est vraiment gentil, même s'il essaye un peu trop de paraître "cool"... Sois patiente avec lui !
+<b>Girl:</b> Hello, how are you?
+<b>Fille:</b> Bonjour, comment vas-tu ?
+<b>Girl:</b> I really want to go to \tn, I heard they have a Grass Gym!
+<b>Fille:</b> J'ai vraiment envie d'aller à \tn, Il paraît qu'ils ont une Arène Plante !
+<b>Girl:</b> Why isn't the Grass Gym here??? I'm so sad!
+<b>Fille:</b> Pourquoi l'arène Plante n'est pas ici ??? Je suis trop triste !
+There is only trash in there.
+Il n'y a que des déchets ici !
+<b>Lady:</b> Hello! How are you?
+<b>Dame:</b> Bonjour ! Comment vas-tu ?
+<b>Lady:</b> Another one coming here to battle my little daffodil, hm?
+<b>Dame:</b> Une autre qui vient affronter ma petite jonquille, hein ?
+<b>Lady:</b> Sorry, sorry, didn’t introduce myself. I’m Maggie and Nikodim is my husband.
+<b>Dame:</b> Pardon, pardon, je ne me suis pas présentée. Je suis Maggie et Nikodim est mon mari.
+<b>Maggie:</b> Nikodim, my sweet beet, is the Gym Leader, and a really cool musician!
+<b>Maggie:</b> Nikodim, ma douce betterave, est le Leader de l’Arène, en plus d’être un musicien super cool !
+<b>Maggie:</b> Well, we don’t age backwards so, he might lack a bit of energy.
+<b>Maggie:</b> Bon, on rajeunit pas, donc il manque peut-être un peu d’énergie.
+<b>Maggie:</b> Be sweet with him okay? Do not sadden my pretty sunflower!
+<b>Maggie:</b> Sois gentille avec lui d’accord ? Ne fais pas de peine à mon joli tournesol !
+<b>Maggie:</b> Be sweet with my husband okay? Do not sadden my pretty sunflower!
+<b>Maggie:</b> Sois gentille avec mon mari d’accord ? Ne fais pas de peine à mon joli tournesol !
+<b>Lady:</b> I'm living here with my daughter. Hope you have a good day!
+<b>Dame:</b> Je vis ici avec ma fille. J'espère que tu passes une bonne journée !

@@ -1,0 +1,52 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[POKEMON_NICKNAMES]
+LEGACY
+HERITAGE
+Thundou
+Tonnu
+Fifire
+Fefeu
+Glagla
+Glagla
+Cutipie
+Bomignon
+Thundrmask
+Maskéclair
+Shadowblde
+Sombrépée
+Justice
+Justice
+The Naper
+Le siesteur
+John
+John
+Britney
+Britney
+Bob
+Bob
+PINPIN
+PINPIN
+BOOM
+BOOM
+BADABOOM
+BADABOOM
+KABOOM
+KABOOM
+RE-BOOM
+RE-BOOM
+DARKNESS
+DARKNESS
+SADISM
+SADISM
+NIGHTMARE
+NIGHTMARE
+Handyman
+Handyman
+Cleaner
+Cleaner
+Gardener
+Gardener
+Watchdog
+Watchdog

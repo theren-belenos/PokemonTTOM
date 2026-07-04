@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map382]
+<b>Policeman:</b> Wait citizen! We're currently investigating the new passage created by the seism.
+<b>Policier:</b> Attendez citoyen ! Nous sommes en train d’inspecter le nouveau passage créé par le séisme.
+<b>Policeman:</b> Please stand back for the time being.
+<b>Policier:</b> Merci de rester à l'écart pour le moment.
+<b>Policeman:</b> What? You're sent by the Normal Leader to help Samy? H...how did you communicate with them??
+<b>Policier:</b> Quoi ? Vous êtes envoyés par le Leader Normal pour aider Samy ? Co…comment avez-vous réussi à communiquer ??
+<b>Policeman:</b> Anyway, you're free to go! Thanks for your help!
+<b>Policier:</b> En tout cas, vous pouvez y aller ! Merci pour votre aide !
+<b>Policeman:</b> What? You're sent by the Bug Leader to help Samy? Well okay then, go on! Thanks for your help!
+<b>Policier:</b> Quoi ? Vous êtes envoyés par le Leader Insecte pour aider Samy ? Ok alors, allez-y ! Merci pour votre aide !
+<b>Policeman:</b> Be careful citizen, part of the grotto wall ahead was destroyed by the seism.
+<b>Policier:</b> Soyez prudent citoyen, une partie du mur de la grotte droit devant a été détruit par le séisme.
+<b>Scientist:</b> So marvelous!
+<b>Scientifique:</b> Si merveilleux !
+<b>Gontran:</b> Now that's an interesting cave!
+<b>Gontran:</b> Ok, ça c’est une grotte intéressante !
+<b>Gontran:</b> Them fireflies are cute!
+<b>Gontran:</b> Ces lucioles sont mignonnes !

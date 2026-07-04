@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map368]
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Man:</b> I can't find what I'm looking for...
+<b>Homme:</b> Je trouve pas ce que je cherche…
+<b>Woman:</b> I bought too many potions, do you want some?
+<b>Femme:</b> J’ai acheté trop de potions, tu en veux quelques-unes ?
+<b>Woman:</b> Have a nice day!
+<b>Femme:</b> Passe une bonne journée !

@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map223]
+<b>Charly:</b> I love the forest! there are so many bugs!
+<b>Charly:</b> J’adore la forêt ! Il y a tellement d’insectes !
+<b>Charly:</b> The forest is soooo green!
+<b>Charly:</b> La forêt est siiiiiii verte !
+<b>Tom:</b> Did you find some cool bugs?
+<b>Tom:</b> T’as trouvé des insectes cools ?
+<b>Tom:</b> If you found any cool bug, show me!
+<b>Tom:</b> Si tu trouves un insecte cool, montre-le moi !

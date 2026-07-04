@@ -1,0 +1,156 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map078]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Little Girl:</b> I just moved here with granny!
+<b>Petite Fille:</b> Je viens d’emménager ici avec mamie !
+<b>Little Girl:</b> Are you kind?
+<b>Petite Fille:</b> T’es une gentille ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? Welcome to my humble abode!
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, comment ça va ? Bienvenue dans mon humble demeure !
+You already gave a gift to Samy this week!
+Vous avez déjà donné un cadeau à Samy cette semaine !
+<b>Huguette:</b> Oh! Aren’t you the young \pn?
+<b>Huguette:</b> Oh ! N’es tu pas la jeune \pn ?
+<b>Faustin:</b> I think you’re right, darling.
+<b>Faustin:</b> Je crois que c’est bien elle, ma chère.
+<b>Huguette:</b> Look how you’re all grown up! We even heard you’re the new Leader!
+<b>Huguette:</b> Regarde-toi, comme tu es grande maintenant ! On a même entendu dire que tu étais la nouvelle Leader !
+<b>Faustin:</b> In other words, it’s thanks to you that this building was rebuilt, right?
+<b>Faustin:</b> Autrement dit, c’est grâce à toi que ce bâtiment a été reconstruit, c’est ça ?
+<b>Huguette:</b> Indeed, indeed! Faustin, darling, we have to give our young Leader a thank-you gift!
+<b>Huguette:</b> Bien entendu ! Faustin, très cher, nous devons offrir un cadeau à notre jeune Leader !
+<b>Faustin:</b> Say no more, I have something right here.
+<b>Faustin:</b> N’en dis pas plus, j’ai quelque chose juste ici.
+<b>Huguette:</b> Do have a nice day, young Leader!
+<b>Huguette:</b> Tu passeras une bonne journée, jeune Leader !
+<b>Faustin:</b> See you.
+<b>Faustin:</b> A bientôt.
+<b>Janitor:</b> Hello there, welcome to this block. I'm the janitor, may I help you?
+<b>Concierge:</b> Bonjour l’amie, bienvenue dans cet immeuble. Je suis le concierge, est-ce que je peux t’aider ?
+You spend time chilling with Samy in his room.
+Vous passez du temps à vous détendre avec Samy chez lui.
+He is really knowleadgable on town stuff!
+Il connait plein de choses en architecture !
+<b>Cocotte:</b> …you won’t say anything?
+<b>Cocotte:</b> …you won’t say anything?
+<b>Girl:</b> What should I say? I’m not interested in your shop. Period.
+<b>Fille:</b> Qu'est-ce que je devrais dire ? Je ne veux pas de la Boutique. Point.
+<b>Cocotte:</b> Do you know how old I am? Do you wish our shop just… disappears?
+<b>Cocotte:</b> Tu sais quelle âge j'ai ? Tu veux que notre Boutique... disparaisse ?
+<b>Girl:</b> For the love of God, Gran! Why do you only want ME to take over the shop??
+<b>Fille:</b> Pour l'amour de Dieu, mamy ! Pourquoi tu veux forcément que ce soit MOI qui reprenne la boutique ??
+<b>Cocotte:</b> Are… are you serious? Do I have to remind you what happened to your mother?
+<b>Cocotte:</b> Tu...tu es sérieuse ? Dois-je te rappeler ce qui est arrivé à ta mère ?
+<b>Girl:</b> Of course not! But what about my little brother?
+<b>Fille:</b> Non, évidemment !! Mais mon petit frère ?
+<b>Cocotte:</b> He is a BOY honey!! Do you want him to sell flowers??
+<b>Cocotte:</b> C'est un GARÇON chérie !! Tu veux qu'il vende des fleurs ??
+<b>Boy:</b> B…but…
+<b>Garçon:</b> M...mais...
+<b>Girl:</b> He is always at your shop! Can’t you see he loves this?
+<b>Fille:</b> Il est toujours dans ta boutique ! Tu ne vois pas qu'il adore ça ?
+<b>Boy:</b> E-eh… but… boys are not mean to…
+<b>Garçon:</b> E-euh... mais.. les garçons ne sont pas censés...
+<b>Girl:</b> Give me a break, boy!
+<b>Fille:</b> Oh arrête un peu, petit frère !
+<b>Girl:</b> You always loved flowers and plants, who cares if you’re a boy or not?
+<b>Fille:</b> Tu as toujours adoré les plantes et les plantes, qu'est-ce ça change que tu sois un garçon ??
+<b>Boy:</b> A-are you… I… Do you really mean it??
+<b>Garçon:</b> T-tu es... Je... Tu le pense vraiment ??
+<b>Boy:</b> Granny, I want to take care of the shop and sell flowers!! Please!!
+<b>Garçon:</b> Cocotte, je veux m'occuper de la boutique et vendre des fleurs !! S'il te plaît !!
+<b>Cocotte:</b> *sob* oh my sweet boy, I’m so sorry! I know I’m a bit… old fashioned at times.
+<b>Cocotte:</b> *snif* oh mon doux garçon, je suis tellement désolée ! Je peux être un peu... vieux jeu parfois.
+<b>Cocotte:</b> The thought didn’t even occur to me. But this way it’s perfect!
+<b>Cocotte:</b> Ça ne m'avait même pas traversé l'esprit. Mais comme ça c'est parfait !
+<b>Cocotte:</b> Here is your bag, honey. I’m sorry for what I said to you back then.
+<b>Cocotte:</b> Voici ton sac, chérie. Désolé pour ce que j'ai pu te dire à ce moment-là.
+<b>Girl:</b> …yea, ok. Erm. Sorry too I guess.
+<b>Fille:</b> …ouais, ok. Erm. Désolé aussi, j'imagine.
+<b>Cocotte:</b> You can live here, you’re a grown up. But please come back sometimes to have dinner!
+<b>Cocotte:</b> Tu peux vivre ici, t'es grande. Mais s'il te plaît revient manger de temps en temps !
+<b>Boy:</b> Yes big sis’, come see us!
+<b>Garçon:</b> Ouais grande soeur, viens nous voir !
+<b>Girl:</b> o-ok then. I…I’ll call you.
+<b>Fille:</b> o-ok alors. Je...Je vous appelle.
+<b>Cocotte:</b> Let us go, my sweet boy. Good bye to both of you!
+<b>Cocotte:</b> Allons-y, doux enfant. Au revoir vous deux !
+<b>Girl:</b> *sob* damn, I never imagined this would end up this way. I guess its fine now.
+<b>Fille:</b> *snif* mince, j'aurais jamais imaginé que ça finirait comme ça. J'imagine que tout est arrangé.
+<b>Girl:</b> Thank you very much for your help. My family owes you big time.
+<b>Fille:</b> Merci beaucoup pour ton aide. Ma famille te doit beaucoup.
+<b>Girl:</b> If my little bro runs the shop, I think more items will be available in the shop.
+<b>Fille:</b> Si mon ptit frère s'occupe de la boutique, je pense que de nouveaux articles seront disponibles.
+<b>Girl:</b> You should check it out!
+<b>Fille:</b> Tu devrais aller voir !
+<b>Girl:</b> Myself, I don’t have much to give, but here.
+<b>Fille:</b> Moi-même, je n'ai pas grand chose à donner, mais tiens.
+<b>Girl:</b> If you need anything, tell me. Anytime.
+<b>Fille:</b> Si t'as besoin de quelque chose, demande-moi. N'importe quand.
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
+<b>Receptionist:</b> You're already on this floor!
+<b>Réceptioniste:</b> Vous êtes déjà à cet étage !
+<b>Receptionist:</b> Understood! Let us go!
+<b>Réceptioniste:</b> Compris ! C'est parti !
+<b>Receptionist:</b> Have a good day!
+<b>Réceptioniste:</b> Passez une bonne journée !
+This is a drink vending machine. Wanna buy something?\G
+C'est un distributeur de boisson ? Acheter ?\G
+\G...Klang! One bottle of Fresh Water fell down!
+\G...Klang ! Une canette d'Eau Fraîche est tombée !
+\GYou have no room left in the Bag.
+\GVous n'avez plus de place dans le sac.
+\GYou don't have enough money.
+\GVous n'avez pas assez d'argent.
+\G...Klang! One bottle of Soda Pop fell down!
+\G...Klang ! Une canette de Soda Cool est tombée !
+\G...Klang! One bottle of Lemonade fell down!
+\G...Klang ! Une canette de Limonade est tombée !
+<b>Man:</b> I moved here because they say the town is growing quickly.
+<b>Homme:</b> J’ai déménagé ici car il paraît que la ville se développe à une vitesse folle.
+<b>Man:</b> I may find work here, I hope so!
+<b>Homme:</b> Je pourrai trouver du travail ici, enfin j’espère !
+<b>Girl:</b> Hello, how are you?
+<b>Fille:</b> Salut, ça va ?
+<b>Girl:</b> Me? Could be better. Just moved out here from Titaga after a fight with my grandmother.
+<b>Fille:</b> Moi ? ça pourrait aller mieux. Je viens d'emménager ici après une dispute avec ma grand-mère.
+<b>Girl:</b> She owns the Flower Shop there.
+<b>Fille:</b> Elle tient la Boutique Florale là-bas.
+<b>Girl:</b> The thing is, I left in a hurry and forgot an important bag with personal things inside.
+<b>Fille:</b> Le problème c'est que je suis partie précipitament, et j'ai oublié un sac contenant des choses persos.
+<b>Girl:</b> I don’t really want to go back there, I don’t want another quarrel.
+<b>Fille:</b> J'ai pas vraiment envie d'y retourner, je ne veux pas d'autres disputes.
+<b>Girl:</b> Could you help me? I will really be in your debt.
+<b>Fille:</b> Tu pourrais m'aider ? Je te revaudrai ça.
+<b>Girl:</b> Hmm? Why did we fight? You’re not really concerned, are you?
+<b>Fille:</b> Hmm ? Pourquoi on s'est disputées ? T'es pas vraiment concernée, si ?
+<b>Girl:</b> Please, give me my bag!
+<b>Fille:</b> S'il te plaît, donne moi mon sac !
+Quest
+Quête
+Give gift
+Donner cadeau
+Spend time
+Passer du temps
+Say goodbye
+Dire au revoir
+Floor 1
+Etage 1
+Floor 2
+Etage 2
+Floor 3
+Etage 3
+Floor 4
+Etage 4
+Fresh Water (200$)
+Eau Fraîche (200$)
+Soda Pop (350$)
+Soda Cool (350$)
+Lemonade (500$)
+Limonade (500$)
+Go away
+Partir

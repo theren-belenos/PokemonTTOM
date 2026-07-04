@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map020]
+<b>Jefferson:</b> One Two Three Four!
+<b>Jefferson:</b> Un Deux Trois Quatre !
+<b>Jefferson:</b> Don't make me skip a beat!
+<b>Jefferson:</b> Me fais pas perdre le rythme!
+<b>Cyril:</b> It's nice to have a break from swimming!
+<b>Cyril:</b> On fait une petite pause !
+<b>Cyril:</b> I miss swimming already...
+<b>Cyril:</b> Nager me manque déjà...
+<b>Cyrille:</b> I don't get why we're here...
+<b>Cyrille:</b> Je comprends pas ce qu'on fait là...
+<b>Hiker:</b> Going to Greymoose? You're nearly there!
+<b>Hiker:</b> Tu vas à Greymoose ? T'y es presque !

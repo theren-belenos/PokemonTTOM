@@ -26,7 +26,7 @@ Type = ROCK
 LeaderName = Cassian
 LeaderSprite = CASSIAN
 Location = Greymoose
-AcePokemon = GIGALITH
+AcePokemon = LYCANROC,2
 Region = Nekanta
 Order = 4
 #-------------------------------

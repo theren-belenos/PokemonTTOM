@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map393]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Man:</b> Hello young one, how are you?
+<b>Homme:</b> Bonjour jeune enfant, comment vas-tu ?
+<b>Woman:</b> Oh hi there! We're not used to have visitors but make yourself at home!
+<b>Femme:</b> Oh bonjour toi ! On n'a pas trop l'habitude de recevoir de la visite mais fais comme chez toi !
+<b>Kid:</b> Hi! I was cleaning a bit of my old toys.
+<b>Enfant:</b> Salut ! Je rangeais un peu mes vieux jouets.
+<b>Kid:</b> I'm not a baby anymore! I don't need this, do you want it?
+<b>Enfant:</b> Je ne suis plus un bébé ! Je n'ai plus besoin de ça, tu le veux ?
+<b>Kid:</b> I'm a grown up now!
+<b>Enfant:</b> Je suis un grand maintenant !

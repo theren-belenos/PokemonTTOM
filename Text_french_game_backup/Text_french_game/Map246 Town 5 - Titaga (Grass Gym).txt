@@ -1,0 +1,42 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map246]
+<b>Tourist:</b> What a relaxing place!
+<b>Touriste:</b> Quel endroit apaisant !
+<b>Grafaiai:</b> Grafaiaiaiaaiiiiii!
+<b>Tag-Tag:</b> Tagatagatagataaaa!
+<b>Little Boy:</b> Pretty flowers! Hehe~
+<b>Petite Fille:</b> Hehe~ Jolies fleurs!
+<b>Little girl:</b> Yay! Hehehe~
+<b>Petite Fille:</b> Ouaiiiis !
+<b>Lady:</b> Hello and welcome to our beloved little town, Titaga!
+<b>Dame:</b> Bonjour et bienvenue dans notre petit village bien-aimé, Titaga !
+<b>Lady:</b> We sometimes call this place the Flower Valley, I’m sure you can figure out why!
+<b>Dame:</b> Cet endroit est parfois appelé la Vallée des Fleurs, je pense que tu vois pourquoi !
+<b>Lady:</b> Have a good day here!
+<b>Dame:</b> Passe une bonne journée parmi nous !
+<b>Callistrate:</b> Hello young trainer. I do know you, right? Your face seems familiar.
+<b>Callistrate:</b> Bonjour jeune dresseur. Je te connais, non ? Ta tête me dit quelque chose.
+<b>Callistrate:</b> Right! Our new \gt Leader. Rank 3 already, are you not? How are you?
+<b>Callistrate:</b> Bien sûr ! Notre nouveau leader \gt. Déjà rang 3, n’est-ce pas ? Comment vas-tu ?
+<b>Callistrate:</b> I’m Callistrate from the Elite 4. This is my dear friend Grafaiai.
+<b>Callistrate:</b> Je suis Callistrate du Conseil 4. Et voici mon cher compagnon Tag-Tag.
+<b>Callistrate:</b> Oh, don’t mind little ol’ me. I’m just here painting these beautiful flowers.
+<b>Callistrate:</b> Oh, ne fais pas attention au vieil homme que je suis. Je ne fais que peindre ces jolies fleurs…
+<b>Callistrate:</b> Taking on Titaga Gym, I suppose? Good luck to you then!
+<b>Callistrate:</b> Tu vas affronter l’Arène de Titaga, j’imagine ? Bonne chance à toi, alors !
+<b>Callistrate:</b> What, you beat it already? You’ll be Rank 4 in no time, then! Keep up the good work!
+<b>Callistrate:</b> Tu l’as déjà vaincue ? Tu seras Rang 4 à tout moment, alors ! Continue comme ça !
+<b>Callistrate:</b> You got the badge? You’ll be Rank 4 in no time, then! Keep up the good work!
+<b>Callistrate:</b> Tu as obtenu le badge ? Tu seras Rang 4 à tout moment, alors ! Continue comme ça !
+<b>Callistrate:</b> Good luck for the Gym!
+<b>Callistrate:</b> Bonne chance pour l’Arène !
+<b>Dancer:</b> 1 2 3… oh sorry! I’m training my moves!
+<b>Danceuse:</b> 1 2 3… oh pardon ! Je répète ma choré !
+You talk to the dancer about Camosack.
+Vous parlez de Camosack à la danseuse.
+<b>Dancer:</b> Perform at Camosack you say? Oh, I heard this place is so sunny actually! I might be down!
+<b>Danceuse:</b> Danser à Camosack tu dis ? Oh, j'ai entendu dire qu'il faisait super beau là-bas ! Ça pourrait me plaire !
+<b>Dancer:</b> See you there!
+<b>Danceuse:</b> On se voit là-bas !

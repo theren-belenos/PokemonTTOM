@@ -1,0 +1,84 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map440]
+\w[]
+\w[]
+Switch 1 activated
+Switch 1 activated
+Switch 1 de-activated
+Switch 1 de-activated
+Switch 2 activated
+Switch 2 activated
+Switch 2 de-activated
+Switch 2 de-activated
+Switch 3 activated
+Switch 3 activated
+Switch 3 de-activated
+Switch 3 de-activated
+You spend time helping the Normal Leader in their Gym.
+You spend time helping the Normal Leader in their Gym.
+You don't understand everything, but you learn a bit anyway!
+You don't understand everything, but you learn a bit anyway!
+<b>Tristan:</b> Oho! Not too confused??
+<b>Tristan:</b> Oho! Not too confused??
+<b>Tristan:</b> You seem fine...
+<b>Tristan:</b> You seem fine...
+<b>Laurine:</b> Don't give up! You're nearly there!
+<b>Laurine:</b> Don't give up! You're nearly there!
+<b>Laurine:</b> You need to find switch n°3!
+<b>Laurine:</b> You need to find switch n°3!
+The Normal leader looks at you with their strange eyes.
+The Normal leader looks at you with their strange eyes.
+The Normal Leader nods and you both take place for the battle.
+The Normal Leader nods and you both take place for the battle.
+The Normal Leader smiles to you and gets ready. You fell that they're telling you good luck!
+The Normal Leader smiles to you and gets ready.  You fell that they're telling you good luck!
+You got the Forest Badge! \f[FORESTBADGE]
+You got the Forest Badge! \f[FORESTBADGE]
+The normal Leader show you a "40" on a piece of paper.
+The normal Leader show you a "40" on a piece of paper.
+Then they show you some wings?
+Then they show you some wings?
+Suddenly they give you something!
+Suddenly they give you something!
+You wonder why they didn't give you a Normal type TM... Maybe they wanted to be kind with you, the Grass Leader?
+You wonder why they didn't give you a Normal type TM... Maybe they wanted to be kind with you, the Grass Leader?
+The Normal Leader smiles and wave to you, might be saying goodbye. You say goodbye too.
+The Normal Leader smiles and wave to you, might be saying goodbye. You say goodbye too.
+The Normal leader doesn't seem happy you speak to them from here.
+The Normal leader doesn't seem happy you speak to them from here.
+You should speak to them from the left side of the arena.
+You should speak to them from the left side of the arena.
+The Normal Leader seems happy to see you.
+The Normal Leader seems happy to see you.
+You already gave a gift to the Normal Leader this week!
+You already gave a gift to the Normal Leader this week!
+<b>Marley?:</b> Hello challenger and welcome to the Normal Gym!
+<b>Marley?:</b> Hello challenger and welcome to the Normal Gym!
+<b>Marley?:</b> ...what? No my name is not Marley, why would that be? I'm Harvey!
+<b>Marley?:</b> ...what? No my name is not Marley, why would that be? I'm Harvey!
+<b>Harvey:</b> Anyway, to defeat this Gym you will like having Fighting type! It's the only weakness of Normal type!
+<b>Harvey:</b> Anyway, to defeat this Gym you will like having Fighting type! It's the only weakness of Normal type!
+<b>Harvey:</b> Having Rock, Steel or even Ghost Pokémons could also appear useful, defensively speaking.
+<b>Harvey:</b> Having Rock, Steel or even Ghost Pokémons could also appear useful, defensively speaking.
+<b>Harvey:</b> To reach the Leader, you'll need to navigate a maze of treadmills, and activate switchs!
+<b>Harvey:</b> To reach the Leader, you'll need to navigate a maze of treadmills, and activate switchs!
+<b>Harvey:</b> If you are stuck, remember that you can also turn off switchs that you previously turned on...
+<b>Harvey:</b> If you are stuck, remember that you can also turn off switchs that you previously turned on...
+<b>Harvey:</b> Good luck!
+<b>Harvey:</b> Good luck!
+<b>Harvey</b> If you are stuck, remember that you can also turn off switchs that you previously turned on...
+<b>Harvey</b> If you are stuck, remember that you can also turn off switchs that you previously turned on...
+Say you're ready to battle!
+Say you're ready to battle!
+Say you're not ready yet.
+Say you're not ready yet.
+Quest
+Quest
+Give gift
+Give gift
+Spend time
+Spend time
+Say goodbye
+Say goodbye

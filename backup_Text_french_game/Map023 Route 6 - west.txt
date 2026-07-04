@@ -1,0 +1,10 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map023]
+<b>Lady:</b> Oh hi there! Are you hoping to go farther to the east?
+<b>Lady:</b> Oh bonjour ! Tu voulais aller plus loin à l’est ?
+<b>Lady:</b> You would need to take the rocky passage upstairs, but it requires the Strength Machine...
+<b>Lady:</b> Il faudrait que tu passes par le passage rocailleux au dessus de ces escaliers, mais cela nécessite la CS Force…
+<b>Lady:</b> Do you have the Strength Machine?
+<b>Lady:</b> Est-ce que tu as la CS Force ?

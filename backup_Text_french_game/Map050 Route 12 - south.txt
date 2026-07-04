@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map050]
+<b>Orion:</b> My bag is too heavy! I need a break!
+<b>Orion:</b> My bag is too heavy! I need a break!
+<b>Orion:</b> You too, give me a break!
+<b>Orion:</b> You too, give me a break!
+<b>Robin:</b> Hahaha! Now that's a training!
+<b>Robin:</b> Hahaha! Now that's a training!
+<b>Robin:</b> Pff! Better be a good biker than a good trainer!
+<b>Robin:</b> Pff! Better be a good biker than a good trainer!
+This stone is glowing!
+This stone is glowing! 
+Do you want to use the Mining Kit?
+Do you want to use the Mining Kit?
+This glowing rock was already mined.
+This glowing rock was already mined.
+Yes
+Yes
+No
+No

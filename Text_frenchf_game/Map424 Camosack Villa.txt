@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map424]
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
+<b>Bodyguard:</b> Hey, you! Be careful of what you’re doing here!
+<b>Agent de Sécurité:</b> Hé, toi ! Fais attention à ce que tu fais !
+Madame S invited you to drink tea at her villa.
+Madame S vous a invité à boire le thé dans sa villa.
+She's really friendly!
+Elle est vraiment amicale !
+<b>Bodyguard:</b> Watch your steps, kiddo!
+<b>Agent de Sécurité:</b> Regarde ou tu marches, microbe !
+<b>Maid:</b> Oh hello, don’t mind me, I’m just cleaning up.
+<b>Gouvernante:</b> Oh bonjour, ne fais pas attention à moi, je ne fais que nettoyer.
+<b>Butler:</b> Hello dear visiter, sorry Madame S isn’t here at the time.
+<b>Majordome:</b> Bonjour chère visiteuse, désolé que Madame S ne soit pas là pour le moment.
+<b>Butler:</b> Can I offer you a cup of tea?
+<b>Majordome:</b> Puis-je vous offrir une tasse de thé ?
+You drink a cup of tea offered by the butler. The bodyguards watch you closely…
+Vous buvez une tasse de thé offerte par le majordome, sous l'œil attentif des agents de la sécurité…
+<b>Butler:</b> You can keep the cup if you want! See you!
+<b>Majordome:</b> Vous pouvez garder la tasse si vous voulez ! A bientôt !
+Yes
+Oui
+No
+Non

@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map235]
+You spend time hiking with Maple.
+Vous partez en randonnée avec Maple.
+It's really refreshing!
+C'est vraiment rafraîchissant !
+<b>Nick:</b> Way faster than going through the Pit huh?!
+<b>Nick:</b> Bien plus rapide que passer dans la Fosse hein ?
+<b>Nick:</b> So quick!
+<b>Nick:</b> Si rapide !

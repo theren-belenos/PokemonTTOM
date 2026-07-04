@@ -1,0 +1,154 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map376]
+<b>Cyclizar:</b> Clizaaaar!
+<b>Motorizard:</b> Rizaaaar!
+<b>Ribombee:</b> Ribombeeeee!
+<b>Rubombelle:</b> Bombeeeeeeeelle!
+<b>Lady:</b> I came here to have a change of pace from Moonyang, the capital.
+<b>Dame:</b> Je suis venu pour changer un peu de Moonyang, la capitale.
+<b>Lady:</b> It's peaceful, but there are too many mosquitoes!
+<b>Dame:</b> C’est très paisible, mais il y a trop de moustiques !
+<b>Lady:</b> Do you have tips or something against mosquitoes??
+<b>Dame:</b> Tu as des conseils ou quelque chose contre les moustiques ?
+<b>Girl:</b> Hiiii! Hey, did you ever encountered a Pachirisu?
+<b>Girl:</b> Saluuuuut! Hé, t’as déjà croisé un Pachirisu ?
+<b>Girl:</b> I heard there are some on Route 9 and I reaaaaaaaaaally want one!
+<b>Girl:</b> J’ai entendu dire qu’il y en avait sur la Route 9 et j’en veux vraaaiiiiiiment un !
+<b>Girl:</b> I'm even ready to trade my Togedemaru for it! What do you say?
+<b>Girl:</b> Je suis même prête à en échanger un contre mon Togedemaru ! Qu’est-ce que t’en dis ?
+<b>Girl:</b> Whaaa! No?
+<b>Girl:</b> Heiiin ? Non ?
+<b>Girl:</b> Yayyyy! Let's go!!!
+<b>Girl:</b> Ouaiiiis ! C’est parti !!
+Maru
+Maru
+Girl
+Fille
+\pn traded Pachirisu for Togedemaru!
+\pn a échangé Pachirisu contre Togedemaru !
+<b>Girl:</b> Thank youuuu! But take good care of little maru, right?
+<b>Girl:</b> Merciiii ! Mais prends soin de mon petit Maru, ok ?
+<b>Girl:</b> Do you want to trade me a Pachirisu for my Togedemaru?
+<b>Girl:</b> Veux-tu m’échanger un Pachirisu contre mon Togedemaru ?
+<b>Girl:</b> Heyyy! How is my little Maru?
+<b>Girl:</b> Heyyy ! Comment va mon petit Maru ?
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Joltik:</b> Oltiiik!
+<b>Statitik:</b> Titiiik!
+<b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
+<b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, bienvenue au Centre Pokémon.
+<b>\c[5]Nurse:</b>\c[0] What? You got a package for us?
+<b>\c[5]Infirmière:</b>\c[0] Quoi ? Tu as un colis pour nous ?
+<b>\c[5]Nurse:</b>\c[0] It's from \tn Pokémon Center? Well okay then, thanks a lot!
+<b>\c[5]Infirmière:</b>\c[0] C’est du Centre Pokémon de \tn ?  D’accord, eh bien, merci beaucoup !
+<b>\c[5]Nurse:</b>\c[0] We restore your tired Pokémon to full health.
+<b>\c[5]Infirmière:</b>\c[0] Nous pouvons soigner tes Pokémon.
+<b>\c[5]Nurse:</b>\c[0] Would you like to rest your Pokémon?
+<b>\c[5]Infirmière:</b>\c[0] Veux-tu les soigner ?
+<b>\c[5]Nurse:</b>\c[0] OK, I'll take your Pokémon for a few seconds.
+<b>\c[5]Infirmière:</b>\c[0] OK, je vais prendre tes Pokémon un instant.
+<b>\c[5]Nurse:</b>\c[0] Thank you for waiting.
+<b>\c[5]Infirmière:</b>\c[0] Merci d’avoir patienté.
+<b>\c[5]Nurse:</b>\c[0] We've restored your Pokémon to full health.
+<b>\c[5]Infirmière:</b>\c[0] Tes Pokémon sont en pleine forme.
+<b>\c[5]Nurse:</b>\c[0] Take care of you sweetie!
+<b>\c[5]Infirmière:</b>\c[0] Prends soin de toi trésor !
+<b>\c[5]Nurse:</b>\c[0] First, you should restore your Pokémon to full health.
+<b>\c[5]Infirmière:</b>\c[0] Tout d’abord, soignons tes Pokémon.
+<b>\c[5]Nurse:</b>\c[0] Your Pokémon have been healed to perfect health.
+<b>\c[5]Infirmière:</b>\c[0] Tes pokémon sont en pleine forme.
+<b>\c[5]Nurse:</b>\c[0] Take care sweetie!
+<b>\c[5]Infirmière:</b>\c[0] Sois prudent trésor !
+<b>Lady:</b> Hi! Are you enjoying our city?
+<b>Dame:</b> Salut ! Tu profites de notre ville ?
+Relaxation and meeting zone
+Zone de rencontre et de détente
+<b>Togedemaru:</b> Squeak!
+<b>Togedemaru:</b> Squeak !
+<b>Pachirisu:</b> Chirisuuu!
+<b>Pachirisu:</b> Chirisuuu !
+<b>Bugmaniac:</b> Hey! You! Aren't bugs Pokémons marvelous?
+<b>Entomomaniac:</b> Hey ! Toi ! On est d’accord, les insectes sont incroyables ?
+<b>Bugmaniac:</b> Heh! We're on the same page! Name's Valere by the way.
+<b>Entomomaniac:</b> Heh ! On est sur la même longueur d’onde ! Au fait, moi c’est Valere.
+<b>Valere:</b> I love to look for bugs! I bought a ton of Net Balls!!!
+<b>Valere:</b> J’adore chercher des insectes ! J’ai acheté des tonnes de Filet Ball !
+<b>Valere:</b> Hey, if you prove me that you really like bug Pokémons, I will give you some!
+<b>Valere:</b> Hé, si tu me prouves que tu aimes vraiment les Pokémon insecte, je t’en donnerai quelques unes !
+<b>Valere:</b> Show me, let's say, at least 3 different bug Pokémons!
+<b>Valere:</b> Montre-moi, disons, au moins 3 Pokémon insectes différents !
+<b>Bugmaniac:</b> What??? Humpf! Our talk ends here!
+<b>Entomomaniac:</b> Quoi ??? Pfff ! La discussion s’arrête ici !
+<b>Bugmaniac:</b> Humpf! Did you came back to your senses?
+<b>Entomomaniac:</b> Humpf ! T’as repris tes esprits ?
+<b>Bugmaniac:</b> How are bug Pokémons?
+<b>Entomomaniac:</b> Comment sont les Pokémon insectes ?
+<b>Bugmaniac:</b> Heh! So you finally admit it then! My name is Valere by the way.
+<b>Entomomaniac:</b> Heh ! Tu l’admets enfin ! Au fait, moi c’est Valere.
+<b>Bugmaniac:</b> So why talk to me again??
+<b>Entomomaniac:</b> Alors pourquoi tu me parles même ???
+<b>Bugmaniac:</b> Do you have at least 3 bug Pokémons?
+<b>Entomomaniac:</b> Est-ce que tu as au moins 3 Pokémon insectes ?
+<b>Bugmaniac:</b> Marvelous, splendid! Thanks a lot!
+<b>Entomomaniac:</b> Sublime, splendide ! Merci beaucoup !
+<b>Bugmaniac:</b> Here are your reward!
+<b>Entomomaniac:</b> Voici ta récompense !
+<b>Bugmaniac:</b> What? Why not?
+<b>Entomomaniac:</b> Quoi ? pourquoi pas ?
+<b>Bugmaniac:</b> How are you dear bug enjoyer?
+<b>Entomomaniac:</b> Comment vas-tu cher amoureux des insectes ?
+<b>Policeman:</b> Humpf, hello citizen. Sorry but I kinda have a bad time right now.
+<b>Policier:</b> Humpf, salutations citoyen. Désolé mais c’est pas vraiment le bon moment.
+<b>Policeman:</b> We reported me that some bad guys are assaulting travellers near the end at the Route 9.
+<b>Policier:</b> On m’a signalé que des brigands attaquent les voyageurs vers le bout de la Route 9.
+<b>Policeman:</b> But I have been assigned here following the recent seism. I can't go myself!
+<b>Policier:</b> Mais j’ai été affecté ici après le récent séisme. Je peux pas y aller moi-même !
+<b>Policeman:</b> What? You already took them out??
+<b>Policier:</b> Quoi ? Vous vous êtes chargés d’eux déjà ?
+<b>Policeman:</b> I will be damned! How wonderful!
+<b>Policier:</b> J’y crois pas ! C’est incroyable !
+<b>Policeman:</b> What? You're actually the \gt Leader? That explains why!
+<b>Policier:</b> Quoi ? En fait vous êtes le Leader \gt ? Ceci explique cela !
+<b>Policeman:</b> Well as a thanks, allow me give you one of our Cyclizars! They're really good companions!
+<b>Policier:</b> Eh bien en guise de remerciements, veuillez accepter un de nos Motorizards ! Ce sont vraiment de bons compagnons !
+<b>Policeman:</b> You should be particularly interested as the Normal Leader, right?
+<b>Policier:</b> En tant que Leader Normal ça devrait particulièrement vous intéresser, non ?
+<b>Policeman:</b> You should be particularly interested as the Dragon Leader, right?
+<b>Policier:</b> En tant que Leader Dragon ça devrait particulièrement vous intéresser, non ?
+<b>Policeman:</b> What? No it is not the one running in the room! This one is my companion!
+<b>Policier:</b> Quoi ? Non c’est pas celui qui court partout dans la pièce ! Celui-ci est mon compagnon !
+<b>Policeman:</b> Anyway, see you around!
+<b>Policier:</b> En tout cas, à la revoyure !
+<b>Policeman:</b> What? You're actually the \gt Leader?
+<b>Policier:</b> Quoi ?? Vous êtes le Leader \gt ?
+<b>Policeman:</b> Well you're probably strong enough to deal with them then!
+<b>Policier:</b> Alors vous êtes probablement assez fort pour vous occuper d’eux !
+<b>Policeman:</b> If you resolve the situation, I will even give you one of our Cyclizars! They're really good companions!
+<b>Policier:</b> Si vous résolvez ce problème, je vous donnerai un de nos Motorizards ! Ce sont vraiment de bons compagnons !
+<b>Policeman:</b> Well, the bandits reportedly are ambushing travellers near the end of the Route 9.
+<b>Policier:</b> Bon, apparemment les bandits tendent une embuscade aux voyageurs vers le bout de la Route 9.
+<b>Policeman:</b> There is a small passage cramped between some trees and a cliff. Be careful!
+<b>Policier:</b> Il y a un petit passage coincé entre des arbres et une falaise. Soyez prudent !
+<b>Policeman:</b> Did you take care of these bandits?
+<b>Policier:</b> Est-ce que vous vous êtes occupés de ces bandits ?
+<b>Policeman:</b> Yes! Oh thank you a lot!
+<b>Policier:</b> Oui ! Oh merci beaucoup !
+<b>Policeman:</b> You really saved me there!
+<b>Policier:</b> Vous m’avez vraiment sauvé la mise !
+<b>Policeman:</b> As I promised, take this Cyclizar!
+<b>Policier:</b> Comme promis, prenez ce Motorizard !
+<b>Policeman:</b> Not yet? I hope you will manage!
+<b>Policier:</b> Pas encore ? J’espère que vous y arriverez !
+<b>Policeman:</b> Hello citizen and thanks again!
+<b>Policier:</b> Bonjour citoyen et merci encore !
+Yes
+Oui
+No
+Non
+Marvelous!
+Merveilleux !
+Meh...
+Bof...

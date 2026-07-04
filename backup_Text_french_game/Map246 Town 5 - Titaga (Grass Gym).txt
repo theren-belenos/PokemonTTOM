@@ -1,0 +1,42 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map246]
+<b>Tourist:</b> What a relaxing place!
+<b>Tourist:</b> What a relaxing place!
+<b>Grafaiai:</b> Grafaiaiaiaaiiiiii!
+<b>Grafaiai:</b> Grafaiaiaiaaiiiiii!
+<b>Little Boy:</b> Pretty flowers! Hehe~
+<b>Little Boy:</b> Pretty flowers! Hehe~
+<b>Little girl:</b> Yay! Hehehe~
+<b>Little girl:</b> Yay! Hehehe~
+<b>Lady:</b> Hello and welcome to our beloved little town, Titaga!
+<b>Lady:</b> Hello and welcome to our beloved little town, Titaga!
+<b>Lady:</b> We sometimes call this place the Flower Valley, I’m sure you can figure out why!
+<b>Lady:</b> We sometimes call this place the Flower Valley, I’m sure you can figure out why!
+<b>Lady:</b> Have a good day here!
+<b>Lady:</b> Have a good day here!
+<b>Callistrate:</b> Hello young trainer. I do know you, right? Your face seems familiar.
+<b>Callistrate:</b> Hello young trainer. I do know you, right? Your face seems familiar.
+<b>Callistrate:</b> Right! Our new \gt Leader. Rank 3 already, are you not? How are you?
+<b>Callistrate:</b> Right! Our new \gt Leader. Rank 3 already, are you not? How are you?
+<b>Callistrate:</b> I’m Callistrate from the Elite 4. This is my dear friend Grafaiai.
+<b>Callistrate:</b> I’m Callistrate from the Elite 4. This is my dear friend Grafaiai.
+<b>Callistrate:</b> Oh, don’t mind little ol’ me. I’m just here painting these beautiful flowers.
+<b>Callistrate:</b> Oh, don’t mind little ol’ me. I’m just here painting these beautiful flowers.
+<b>Callistrate:</b> Taking on Titaga Gym, I suppose? Good luck to you then!
+<b>Callistrate:</b> Taking on Titaga Gym, I suppose?  Good luck to you then!
+<b>Callistrate:</b> What, you beat it already? You’ll be Rank 4 in no time, then! Keep up the good work!
+<b>Callistrate:</b> What, you beat it already? You’ll be Rank 4 in no time, then! Keep up the good work!
+<b>Callistrate:</b> You got the badge? You’ll be Rank 4 in no time, then! Keep up the good work!
+<b>Callistrate:</b> You got the badge? You’ll be Rank 4 in no time, then! Keep up the good work!
+<b>Callistrate:</b> Good luck for the Gym!
+<b>Callistrate:</b> Good luck for the Gym!
+<b>Dancer:</b> 1 2 3… oh sorry! I’m training my moves!
+<b>Dancer:</b> 1 2 3… oh sorry! I’m training my moves!
+You talk to the dancer about Camosack.
+You talk to the dancer about Camosack.
+<b>Dancer:</b> Perform at Camosack you say? Oh, I heard this place is so sunny actually! I might be down!
+<b>Dancer:</b> Perform at Camosack you say? Oh, I heard this place is so sunny actually! I might be down!
+<b>Dancer:</b> See you there!
+<b>Dancer:</b> See you there!

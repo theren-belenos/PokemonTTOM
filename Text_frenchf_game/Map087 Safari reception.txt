@@ -1,0 +1,98 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map087]
+A1 Zone ; Land.\nAvailable Pokémons:
+Zone A1 ; Plaines.\nPokémon disponibles:
+CHINGLING MAGBY WOOLOO PARAS DROWZEE SHUCKLE BONSLY SPINARAK EXEGGCUTE HERACROSS
+KORILLON MAGBY MOUMOUTON PARAS SOPORIFIK CARATROC MANZAÏ MIMIGAL NOEUNOEUF SCARHINO
+<b>Safari Attendant:</b> Hello and welcome to the Safari Zone! Do you need explanations?
+<b>Hôte du Safari:</b> Bonjour et bienvenue dans la Zone Safari ! As-tu besoin d'explications ?
+<b>Safari Attendant:</b> The Safari Zone allows you to catch exclusive Pokémon!
+<b>Hôte du Safari:</b> La Zone Safari te permet de capturer les Pokémon exclusif !
+<b>Safari Attendant:</b> You can check out the model behind you to know which species can be found.
+<b>Hôte du Safari:</b> Tu peux regarder la maquette derrière-toi pour savoir quelles espèces sont disponibles.
+<b>Safari Attendant:</b> Inside the Safari, it's not usual battles: you need to bait the wild Pokémon and catch it.
+<b>Hôte du Safari:</b> A l'intérieur du Safari, ce ne sont pas des combats habituels : tu dois attirer les Pokémon sauvages pour les capturer.
+<b>Safari Attendant:</b> Throwing bait decrease the probability it flees, but make it harder to catch.
+<b>Hôte du Safari:</b> Envoyer de l'appât réduit les chances qu'il s'enfuie, mais le rend plus dur à capturer.
+<b>Safari Attendant:</b> Throwing a stone basically does the opposite.
+<b>Hôte du Safari:</b> Lancer une pierre fait basiquement l'inverse.
+<b>Safari Attendant:</b> Actually, here at Nekanta, it's really easier to catch "Safari Pokémon" compared to other regions. You should do fine!
+<b>Hôte du Safarit:</b> En réalité, ici en Nekanta, c'est vraiment plus simple de capturer les "Pokémon Safari" par rapport aux autres régions. Tu devrais te débrouiller !
+<b>Safari Attendant:</b> When entering the Safari Zone, you select a number of Balls and steps.
+<b>Hôte du Safari:</b> Quand tu entres dans la Zone Safari, tu sélectionnes un nombre de Balls et de pas.
+<b>Safari Attendant:</b> Entry fee depends on these values! Choose accordingly!
+<b>Hôte du Safari:</b> Le coût d'entrée dépend de ces valeurs ! Choisis bien !
+<b>Safari Attendant:</b> Good luck with your Safari!
+<b>Hôte du Safari:</b> Bonne chance pour ton Safari !
+<b>Safari Attendant:</b> Have a good day!
+<b>Hôte du Safari:</b> Passe une bonne journée !
+<b>Safari Attendant:</b> You have a Safari Coupon! Okay, please select which Zone contains the Pokémon you seek.
+<b>Hôte du Safari:</b> Tu as un Coupon Safari ! Okay, s'il te plaît choisis la zone qui contient le Pokémon de ton choix.
+<b>Safari Attendant:</b> Note sure yet? You can check the model behind you to know the different availables Pokémon.
+<b>Hôte du Safari:</b> Pas encore sûre ? Tu peux regarder la maquette derrière-toi pour connaître les Pokémon disponibles.
+A2 Zone ; Coast;\nAvailable Pokémons:
+Zone A2 ; Côte ;\nPokémon disponibles:
+MANTYKE CARVANHA FLAMIGO ALOMOMOLA PHANPY TYMPOLE TENTACOOL CLAMPERL VELUZA LUVDISC CLAUNCHER
+BABIMANTA CARVANHA FLAMENROULE MAMAMBO PHANPY TRITONDE TENTACOOL COQUIPERL DELESTIN LOVDISC FLINGOUSTE
+B1 Zone ; Under Construction.
+Zone B1 ; En construction.
+C1 Zone ; Under Construction.
+Zone C1 ; En construction.
+<b>Safari Attendant:</b> Welcome to the Safari Zone!
+<b>Hôte du Safari:</b> Bienvenue dans la Zone Safari !
+<b>Safari Attendant:</b> You can play the Safari Game here.
+<b>Hôte du Safari:</b> Tu peux jouer au Jeu Safari ici.
+<b>Safari Attendant:</b> You can roam the wide- open Safari Zone and catch whatever you like.
+<b>Hôte du Safari:</b> Tu peux te promener dans la vaste Zone Safari et capturer ce que tu veux.
+<b>Safari Attendant:</b> \GPrices are the following: $500 for entry, $100 for each Safari Ball, and $100 for each 200 steps.
+<b>Hôte du Safari:</b> \GLes prix sont les suivants : 500$ pour l'entrée, 100$ par Safari Ball, et 100$ par 200 pas.
+<b>Safari Attendant:</b> \GDo you want to enter?
+<b>Hôte du Safari:</b> \GVeux-tu entrer ?
+\G<b>Safari Attendant:</b>Sorry, your PC boxes are full.
+\G<b>Hôte du Safari:</b>Désolé, tes boîtes PC sont pleines.
+<b>Safari Attendant:</b> \GVery well, how many Safari Balls do you want?
+<b>Hôte du Safari:</b> \GTrès bien, tu veux combien de Safari Balls ?
+<b>Safari Attendant:</b> \GYou wanna stay for how many steps?
+<b>Hôte du Safari:</b> \GTu veux rester pour combien de pas ?
+<b>Safari Attendant:</b> \GAll right, the total rpice will be \v[4]. Good for you?
+<b>Hôte du Safari:</b> \GTrès bien, le prix total est de \v[4]. Ok pour toi ?
+<b>Safari Attendant:</b> \GOops. You don't have enough money!
+<b>Hôte du Safari:</b> \GOups. Tu n'as pas assez d'argent !
+<b>Safari Attendant:</b> \GPlease come again!
+<b>Hôte du Safari:</b> \GReviens quand tu veux !
+<b>Safari Attendant:</b> \GHere are your \v[2] Safari Balls!
+<b>Hôte du Safari:</b> \GVoici tes \v[2] Balls Safari !
+\GYou received \v[2] Safari Balls from the attendant. \me[Item get]\wtnp[40]
+\GVous recevez \v[2] Balls Safari de la part de l'hôte. \me[Item get]\wtnp[40]
+<b>Safari Attendant:</b> \GWe'll call you on the PA when you run out of time or Safari Balls.
+<b>Hôte du Safari:</b> \GOn t'appellera sur le haut-parleur quand tu n'auras plus de temps ou de Balls Safari.
+<b>Safari Attendant:</b> \GWell, I'll wish you the best of luck!
+<b>Hôte du Safari:</b> \GBien, je te souhaites bonne chance !
+<b>Safari Attendant:</b> \GOkay.\nPlease come again!
+<b>Hôte du Safari:</b> \GOkay.\nReviens vite !
+<b>Safari Attendant:</b> Are you going to leave the Safari Zone early?
+<b>Hôte du Safari:</b> Veux-tu quitter la Zone Safari avant la fin ?
+<b>Safari Attendant:</b> Please return any Safari Balls you may have left.
+<b>Hôte du Safarit:</b> Merci de rendre les Balls Safari qu'il te reste.
+\bGood luck!
+\bBonne chance !
+<b>Safari Attendant:</b> Did you catch your fair share? Come again!
+<b>Hôte du Safari:</b> Est-ce que tu as capturé beaucoup de Pokémon ? Reviens vite !
+B2 Zone ; Under Construction.
+Zone B2 ; En construction.
+C2 Zone ; Under Construction.
+Zone C2 ; En construction.
+Yes
+Oui
+No
+Non
+Exchange Safari Coupon
+Exchange Safari Coupon
+A1 Zone (Field)
+A1 Zone (Field)
+A2 Zone (Field)
+A2 Zone (Field)
+Cancel
+Cancel

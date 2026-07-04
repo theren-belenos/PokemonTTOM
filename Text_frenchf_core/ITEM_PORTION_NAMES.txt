@@ -1,0 +1,208 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ITEM_PORTION_NAMES]
+jar of Honey
+pot de miel
+bag of Stardust
+Sac de Poussière étoile
+Relic Copper coin
+Vieux sou
+Relic Silver coin
+Vieil écu
+Relic Gold coin
+Vieux ducat
+bag of Growth Mulch
+Sac de Fertipousse
+bag of Damp Mulch
+Sac de Fertihumide
+bag of Stable Mulch
+Sac de Fertistable
+bag of Gooey Mulch
+Sac de Fertiglu
+pile of Shoal Salt
+tas de Sel Tréfonds
+jar of Red Nectar
+pot de Nectar Rouge
+jar of Yellow Nectar
+pot de Nectar Jaune
+jar of Pink Nectar
+pot de Nectar Rose
+jar of Purple Nectar
+pot de Nectar Violet
+bag of Bright Powder
+Sac de Poudreclaire
+bag of BrightPowder
+Sac de Poudreclaire
+pair of Safety Goggles
+Paire de Lunettes Filtre
+set of Protective Pads
+Ensemble de Pare-effet
+pair of Heavy-Duty Boots
+Paire de Grosses Bottes
+pair of Choice Specs
+Paire de Lunettes Choix
+lump of Light Clay
+bout de Lumargile
+blob of Black Sludge
+Boue noire
+serving of Leftovers
+Restes
+clump of Luminous Moss
+touffe de Lichen Lumineux
+bottle of Throat Spray
+Bouteille de Spray gorge
+voucher for Room Service
+Chariot Distordu
+pair of Wise Glasses
+Paire de Lunettes Sages
+jar of Lax Incense
+pot d’Encens Doux
+jar of Full Incense
+pot d’Encens Plein
+jar of Luck Incense
+pot d’Encens Veine
+jar of Pure Incense
+pot d’Encens Pur
+jar of Sea Incense
+pot d’Encens Mer
+jar of Wave Incense
+pot d’Encens Vague
+jar of Rose Incense
+pot d’Encens Fleur
+jar of Odd Incense
+pot de Bizar.Encens
+jar of Rock Incense
+pot d’Encens Roc
+piece of Charcoal
+Morceau de Charbon
+piece of Never-Melt Ice
+morceau de Glacéternel
+piece of NeverMeltIce
+morceau de Glacéternel
+bag of Soft Sand
+Sac de Sable Doux
+pile of Silver Powder
+tas de Poudre Arg.
+pile of SilverPowder
+tas de Poudre Arg.
+pair of Black Glasses
+paire de Lunet.Noires
+pair of BlackGlasses
+Paire de Lunet.Noires
+bag of Metal Powder
+sac de Poudre Métal
+bag of Quick Powder
+sac de Poudre vite
+scrap of Reaper Cloth
+Morceau de Tissu Fauche
+dollop of Whipped Dream
+Cuillère de Chantibonbon
+bag of Sacred Ash
+Sac de Cendresacrée
+bag of Pewter Crunchies
+Sac de Crok’Argenta
+cup of Berry Juice
+Bol de Jus de Baie
+bottle of Fresh Water
+Bouteille d’Eau Fraîche
+bottle of Soda Pop
+Bouteille de Soda Cool
+can of Lemonade
+Canette de Limonade
+bottle of Moomoo Milk
+Bouteille de Lait Meumeu
+dose of Energy Powder
+dose de Poudrénergie
+dose of EnergyPowder
+dose de Poudrénergie
+dose of Heal Powder
+dose de Poudre soin
+comb of Max Honey
+Rayon de Maxi Miel
+bottle of PP Up
+Bouteille de PP Plus
+bottle of PP Max
+Bouteille de PP Max
+bottle of HP Up
+Bouteille de PV Up
+bottle of Protein
+Bouteille de Protéine
+bottle of Iron
+Bouteille de Fer
+bottle of Calcium
+Bouteille de Calcium
+bottle of Zinc
+Bouteille de Zinc
+bottle of Carbos
+Bouteille de Carbone
+sprig of Lonely Mint
+brin d’Aromate Solo
+sprig of Adamant Mint
+brin d’Aromate Rigide
+sprig of Naughty Mint
+brin d’Aromate Mauvais
+sprig of Brave Mint
+brin d’Aromate Brave
+sprig of Bold Mint
+brin d’Aromate Assuré
+sprig of Impish Mint
+brin d’Aromate Malin
+sprig of Lax Mint
+brin d’Aromate Lache
+sprig of Relaxed Mint
+brin d’Aromate Relax
+sprig of Modest Mint
+brin d’Aromate Modeste
+sprig of Mild Mint
+brin d’Aromate Doux
+sprig of Rash Mint
+brin d’Aromate Foufou
+sprig of Quiet Mint
+brin d’Aromate Discret
+sprig of Calm Mint
+brin d’Aromate Calme
+sprig of Gentle Mint
+brin d’Aromate Gentil
+sprig of Careful Mint
+brin d’Aromate Prudent
+sprig of Sassy Mint
+brin d’Aromate Malpoli
+sprig of Timid Mint
+brin d’Aromate Timide
+sprig of Hasty Mint
+brin d’Aromate Pressé
+sprig of Jolly Mint
+brin d’Aromate  Jovial
+sprig of Naive Mint
+brin d’Aromate Naif
+sprig of Serious Mint
+brin d’Aromate Sérieux
+piece of Grass Mail
+Lettre Herbe
+piece of Flame Mail
+Lettre Feu
+piece of Bubble Mail
+Lettre Mer
+piece of Bloom Mail
+Lettre Pétale
+piece of Tunnel Mail
+Lettre Mine
+piece of Steel Mail
+Lettre Acier
+piece of Heart Mail
+Lettre Coeur
+piece of Snow Mail
+Lettre Neige
+piece of Space Mail
+Lettre Cosmo
+piece of Air Mail
+Lettre Avion
+piece of Mosaic Mail
+Lettremosaïk
+piece of Brick Mail
+Lettre Brik
+cluster of Max Mushrooms
+Grappe de Maxi Champi
+set of Reins of Unity
+Ensemble de Rênes de l’Unité

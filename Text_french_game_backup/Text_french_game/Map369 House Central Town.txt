@@ -1,0 +1,24 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map369]
+<b>Kid:</b> One day I will be the best trainer just like dad!
+<b>Enfant:</b> Un jour je serai le meilleur dresseur comme papa !
+<b>Kid:</b> ...please don't tell my mama I'm in their room
+<b>Enfant:</b> ...s’il te plait ne dit pas à maman que je suis dans leur chambre.
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
+<b>Lady:</b> Oh hello honey how are you?
+<b>Femme:</b> Oh bonjour toi, comment vas-tu ?
+<b>Lady:</b> Me? I'm the Champion's wife.
+<b>Femme:</b> Moi ? Je suis la femme du Maître.
+<b>Lady:</b> It's always good to talk with someone because honestly there isn't a lot to do here for the non-trainers...
+<b>Femme:</b> C’est toujours sympa de parler avec quelqu’un car honnêtement il n’y a pas grand chose à faire pour les non-dresseurs…
+<b>Lady:</b> ...sorry! Didn't mean to be negative. Here, accept this as a thanks for speaking with me!
+<b>Femme:</b> ...désolée ! Je ne voulais pas être négative. Tiens, accepte ce petit cadeau pour te remercier d’avoir discuté avec moi !
+<b>Lady:</b> It's home-made!
+<b>Femme:</b> C’est fait-maison !
+<b>Lady:</b> You have to go? Okay then, see you again!
+<b>Femme:</b> Tu dois partir ? Ok alors, à bientôt !
+<b>Lady:</b> Oh it's you again honey! How are you?
+<b>Femme:</b> Oh c’est encore toi ! Comment vas-tu ?

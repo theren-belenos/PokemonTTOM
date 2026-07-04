@@ -322,7 +322,7 @@ class TipCard_Scene
 				if state == 0
 					infos += _INTL("Not bought yet") + "\n"
 					fundscolor = ($town.funds < (data[2]*1000)) ? "<c2=043c3aff>" : "<c2=06644bd2>" 
-					infos += fundscolor + _INTL("Cost:") +" <b>" + (data[2]*1000).to_s + "</b> / " + $town.funds.to_i.to_s + "</c2>\n"
+					infos += fundscolor + _INTL("Cost:") +" <b>" + (data[2]*1000).floor().to_s + "</b> / " + $town.funds.floor().to_s + "</c2>\n"
 					infos += _INTL("Work required:") +"\n"
 					if data[1] == 0
 						infos += _INTL("None (Instant build)") 
@@ -348,7 +348,7 @@ class TipCard_Scene
 						infos += _INTL("Free task") 
 					else
 						infos += _INTL("Invested $")
-						infos += (data[2]*1000).to_i.to_s
+						infos += (data[2]*1000).floor().to_s
 					end
 				end
 				drawFormattedTextEx(overlay, @sprites["background"].x + 10 + top_text_x_adj, @sprites["background"].y + 64, @sprites["background"].width - (@sprites["background"].x + top_text_x_adj) + 5, infos, base, shadow)
@@ -524,7 +524,7 @@ class TipCard_Scene
 						text << "<al>        -> " + _INTL("Currently available") + "</al>"
 					end
 					if $town.totalworkers > 1
-						text << "<ac>" + _INTL("Worker 2: Melly's Father") + "</b></ac>"
+						text << "<al><b>" + _INTL("Worker 2: Hervé (Melly's Father)") + "</b></al>"
 						if $town.workers[1] > 0
 							text << "<al>        -> " + _INTL("Working on:") + " " + $town.getBuildingData($town.workers[1])[0] + "</al>"
 						else
@@ -697,13 +697,13 @@ class TipCard_Scene
 						text << "</al></c2><ac>------------------------------\n" + _INTL("Total money earned:") +" <c3=FFD700,DAA520>"
 						text << money.to_s
 						text << "</c3></b></ac><al>" + _INTL("Town funds:") + " "
-						text << $town.funds.to_i.to_s
+						text << $town.funds.floor().to_s
 						text << " + <c3=FFD700,DAA520>"
 						text << (money*0.75).floor().to_s
 						text << "</c3> = <b><c3=FFD700,DAA520>$"
 						text << ($town.funds+money*0.75).floor().to_s
 						text << "</c3></b>\n" + _INTL("Your money:") + " "
-						text << $player.money.to_i.to_s
+						text << $player.money.floor().to_s
 						text << " + <c3=FFD700,DAA520>"
 						text << (money*0.25).ceil().to_s
 						text << "</c3> = <b><c3=FFD700,DAA520>$"

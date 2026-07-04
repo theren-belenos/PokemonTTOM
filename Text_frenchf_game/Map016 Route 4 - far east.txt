@@ -1,0 +1,8 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map016]
+<b>Walt:</b> Bikes are overrated! I only need my own body!
+<b>Walt:</b> Les vélos sont surcotés ! Je n’ai besoin que de mon propre corps !
+<b>Walt:</b> Bikes are no-good!
+<b>Walt:</b> Les vélos c’est mal !

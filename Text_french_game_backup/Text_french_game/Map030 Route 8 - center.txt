@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map030]
+<b>Albane:</b> My parasol works as an umbrella too!
+<b>Albane:</b> Mon parasol peut aussi servir de parapluie !
+<b>Albane:</b> Be careful not to get sick with those clothes!
+<b>Albane:</b> Attention à ne pas tomber malade avec ces vêtements !
+<b>Elder:</b> I might get drenched, but he seems to enjoy himself so much!
+<b>Papy:</b> Je vais sans doute finir trempé, mais il a l’air de tellement s’amuser !
+<b>Inaya:</b> I'm not afraid of the rain thanks to my trusty cap!
+<b>Inaya:</b> Je n’ai pas peur de la pluie grâce à ma fidèle casquette !
+<b>Inaya:</b> Do you like caps?
+<b>Inaya:</b> Tu aimes les casquettes ?
+<b>Boy:</b> Hahaha! I love rain and puddles!
+<b>Petit Garçon:</b> Hehehe ! J'aime trop la pluie et les flaques !!

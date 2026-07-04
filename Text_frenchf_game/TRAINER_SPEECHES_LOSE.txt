@@ -1,0 +1,400 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_SPEECHES_LOSE]
+Hehe, you're strong!
+Hehe, t'es forte !
+Whaaaaat? But... but who are you?
+Quoiiiiii ? Mais... mais t'es qui ?
+My Pokémon is neat right?
+Mon Pokémon est stylé hein ?
+Gotta keep running!
+J'dois continuer à courir !
+Criiiiiiiiii!
+Criiiiiiiiii!
+You don't like them?!
+Tu les aimes pas ?!
+Thanks for the warm up!
+Merci pour l'échauffement !
+So cuuuuuuuuuuute!
+Troooooooooop mignoooon!
+So much fun!
+Trop rigolo !
+Nooooo!
+Nooooon !
+Friend is super strong!
+La copine est super forte !
+Oof! I might need more bugs!
+Ouch ! J'ai besoin de plus d'insectes !
+Beautiful, no?!
+Joli, non ?!
+DON'T HURT THE JOLTIIIIIIKS!
+LAISSE LES STATITIKS TRANQUIIIIIIIIIIILES !
+Gardening is easier than battling...
+Jardiner est plus facile que combattre...
+Damn! Retreat! Where are my smoke bombs??
+Arf ! Retraite ! Où sont mes grenades fumigènes ??
+Battling is good too!
+Combattre est bien aussi !
+You're too loud!
+Tu fais trop de bruit !
+Not really a break if I loose...
+Pas vraiment une pause si je perds...
+Hiking is good for your lungs!
+La randonnée, c'est pour pour le souffle !
+Stop hurting the bugs!
+Arrête de faire du mal aux insectes !
+Don't you love the forest?
+Tu n'aimes pas la forêt ?
+Exploring caves is so fun!
+C'est trop marrant d'explorer des grottes !
+It can't be!
+Impossible !
+My ankle!
+Ma cheville !
+I guess you wanted a battle!
+J'imagine que tu voulais un combat !
+...and the fresh air is neat!
+...et l'air frais fait du bien !
+Who built this "road"??
+Qui a construit cette "route" ??
+No but really where am I??
+Nan mais en vrai j'suis où ??
+Ever went to the cycling road?
+T'es déjà allée à la piste cyclable ?
+I'm sure you're a bike user! Boo!
+Je suis sûr que t'utilise un vélo ! Nuuulle !
+Where are the fishes?!
+Où sont les poissons ?!
+...that might be too much sand for me.
+...ça fait trop de sable pour moi.
+Let's say you're a bug fan then.
+Disons que t'es une fan d'insectes alors.
+You're inspiring too!
+Tu m'inspires également !
+I'm still prettier! No?
+Je reste plus jolie ! Non ?
+It doesn't seem to boost my battle skills tho...
+Pas sûr que ça améliore mes talents en combat par contre...
+You seem to be in great spirits!
+Tu as l'air de très bonne humeur !
+Thanks for the workout!
+Merci pour la suée !
+Trainers seems strong here!
+Les dresseurs ont l'air forts ici !
+You must really love Pokémons!
+Tu dois vraiment adorer les Pokémon !
+Ah! We didn't have enough Pokémons!
+Ah ! On avait pas assez de Pokémon !
+Hah! That's the kind of workout I'm talking about!
+Hah ! C'est le genre de sport qui me plaît !
+It doesn't make me a stronger trainer tho!
+C'est pas ça qui fait de moi un meilleur dresseur par contre !
+You don't seem afraid of the rain either!
+Tu n'as pas l'air d'avoir peur de la pluie non plus !
+You're no laughing matter!
+T'as rien d'une blague !
+GO AWAY! I'M LOOKING FOR BUGS!
+VA-T-EN ! JE CHERCHE DES INSECTES !
+Heh! You're stronger than you look!
+Heh ! T'es plus forte que t'en as l'air !
+So many fireflies!
+Tellement de lucioles !
+Hahah! Not bad, really not bad!
+Hahah ! Pas mal, vraiment pas mal !
+What the...
+Qu'est-ce...
+But why??
+Mais pourquoi ??
+Tsk!
+Tsk !
+Leave us alone!
+Laissez nous tranquilles !
+We didn't last long...
+On a pas fait long feu...
+But... who are you?
+Mais... qui êtes-vous ?
+How??
+Comment ??
+All my Pokémons weren't enough?? Impressive!
+Toues mes pokémon n'étaient pas suffisant ?? Impressionnant !
+I love Ariados!
+J'adore Mygalos !
+I'm the one confused, by your strength!
+C'est moi qui suis confus, par ton talent !
+Switches everywhere!
+Des interrupteurs partout !
+Hell yeah, you're pretty cool yourself kiddo!
+Oh yes, t'es plutôt cool toi aussi !
+Wow! that's not even a pratice, you're too strong!
+Wow! C'est même pas un entraînement, t'es trop forte !
+The mystic arts smile upon yourself...
+Les arts mystiques te sourient...
+My high focus wasn't enough to defeat you!
+Ma grande concentration n'était pas suffisante pour te battre !
+What??? We lost???
+What??? We lost???
+Who are you?
+Who are you?
+AND YOUR NAME IS...
+AND YOUR NAME IS...
+Heh! Good workout!
+Heh ! Un bon exercice !
+You're too sharp for me!
+T'es trop affûtée pour moi !
+So dizzy...
+Trop le tournis...
+Cycling and battling are so fun!
+Le vélo et les combats c'est trop cool !
+Is this the Revolution?
+Est-ce une Révolution ?
+Five Six Seven Eight !
+Cinq Six Sept Huit !
+Swimming is harder!
+Nager est plus dur !
+Hmpf...
+Pfff...
+This won't inspire me!
+C'est pas comme ça que je trouverai de l'inspi !
+I'm the one who should escape!
+C'est moi qui devrait m'échapper !
+It can't, right?
+C'est impossible, non ?
+You don't seem in trouble...
+T'as pas l'air en danger...
+So blazing!
+Éblouissant !
+Battling you is even harder!
+Te combattre est encore plus dur !
+...
+...
+Leave me alone!
+Laisse moi tranquille !
+Hmpf, okay, you can stay.
+Hmpf, okay, tu peux rester.
+Okay but be quiet please!
+Okay mais soit silencieux s'il te plaît !
+I'm really working here, I swear!
+Je travaille vraiment ici, promis !
+I got nearly all of them!
+Je les ai presque tous !
+You seem to master both!
+T'as l'air de maîtriser les deux !
+You don't seem to need training!
+T'as pas l'air d'avoir besoin d'entraînement !
+You're so violent!
+Je condamne les violences !
+Sorry! Didn't mean to pry!
+Désolé ! Je voulais pas être indiscret !
+What a weird bug!
+Quel étrange insecte !
+Entertainment complete!
+Amusement validé !
+I heard but I couldn't do anything!
+J'ai entendu mais j'ai rien pu faire !
+What can we do??
+Qu'est-ce qu'on peut faire ??
+What is this power??
+C'est quoi cette puissance !
+Argh!
+Argh !
+Seriously, why?
+Sérieusement, pourquoi ?
+I told you its useless!
+Je t'ai dit que ça servait à rien !
+Oww... Even alone, you're too strong!
+Oww... Même seule, t'es trop puissante !
+Okay, my bad...
+Okay, désolé...
+You trespasser!
+T'es qu'une cambrioleuse !
+We will make a complaint against you!
+On va porter plainte contre toi !
+But...
+Mais...
+But... Who are you?
+Mais... Qui es-tu ?
+Leave OUR home!!
+Pars de notre chez nous !
+Not again! Seriously??
+Pas encore ! Sérieusement ??
+Even your team puzzles me!
+Même ton équipe est trop complexe pour moi !
+Your mind seems intact!
+Ta tête semble intacte !
+You nearly burnt me!
+T'as failli me brûler !
+You took my breath away!
+Tu m'as coupé le souffle !
+...not gonna lie, I'm kinda lost.
+...je vais pas mentir, je suis un peu perdue.
+Pff! Better be a good biker than a good trainer!
+Pff ! Mieux vaut être un bon biker qu'un bon dresseur !
+I think I'm the group's useless one...
+Je crois que je suis l'inutile du groupe...
+That won't help us!
+Ça va pas nous aider !
+You too, give me a break!
+Toi aussi, laisse moi tranquille !
+So pretty, right?
+Si joli, non ??
+You're not a ghost but you're still scary!
+T'es pas un fantôme mais tu fais quand même peur !
+Good day to you fellow human!
+Bonne journée à toi autre humain !
+Huh. Well, okay. You're interesting.
+Huh. Bon, okay. Tu es intéressante.
+Rythm kept!
+Rythme conservé !
+I guess mountains can be cool too!
+J'imagine que les montagnes peuvent aussi être cools !
+PLZ STOOOOOOOP!!!
+SVP STOOOOOOOP !!!
+Soooooo not lost! Hehe!
+Teeeeellement pas perdue ! Héhé !
+What? My training is not enough?
+Quoi ? Mon entraînement n'est pas suffisant ?
+This fight was easily the other half! Pfiou!
+Ce combat est clairement l'autre moitié ! Pfiou !
+Is myself the actual shame???
+C'est moi qui ai la honte maintenant !
+Either way, this is a beating!
+En tout cas, ça c'est une raclée !
+Did you guess mine?
+T'as deviné le mien ?
+Are you really leaving... ? What a shame...
+Tu nous laisses vraiment... ? Quel dommage...
+I want to talk to your manager !
+Je veux parler à votre manager !
+See Camille? Even Mama can loose.
+Tu vois Camille ? Même maman peut perdre.
+But... I swear they are cool...
+Mais... Je promets qu'ils sont cools...
+Mom was right. It's not that easy...
+Maman avait raison. C'est pas si facile...
+Oh no...
+Oh non...
+I see the earthquake didn't rob you of your energy.
+Je vois que le séisme ne t'as pas volé ton énergie.
+What? Wool wasn't enough???
+Quoi ? La laine n'a pas suffi ???
+Alomomola is still the strongest in my heart.
+Mamambo reste le plus fort dans mon coeur.
+Maybe... Maybe I should make a song about rats!
+Peut-être... Peut-être que je devrais faire une chanson sur les rats !
+Thanks for the dance!
+Merci pour la danse !
+Our gym leader is so strong! That's so cool!
+Notre Championne d'Arène est si forte ! C'est trop cool !
+What do you mean "Not this kind of badge"???
+Comment ça "pas ce genre de badge" ??
+No! I don't want to come back at my village!
+Non ! Je veux pas retourner dans mon village !
+Sooooo... No badge them?
+Doooooonc... Pas de badge du coup ?
+What a tempest!
+Quelle tempête !
+Oh but it's no use in a Pokémon battle...
+Oh mais ça ne sert à rien dans un combat de Pokémon…
+Well done young one!
+Bien joué mon petit !
+I don't even know why I'm dressing like that to play in mud...
+Je sais même pas pourquoi je m’habille comme ça pour jouer dans la boue…
+Steel isn't supposed to be imbreakable?
+L’acier n’est pas censé être incassable ?
+No! You beat them!
+Non ! Tu les as battus !
+Oh...
+Oh...
+You're such part of the elite!
+Tu fais vraiment partie de l’élite !
+I guess it's not the tourist office.
+J’imagine que l’office de tourisme n’est pas ici.
+I love fighting local Gym leader during our trip! Thank you!
+J’adore combattre des Arènes locales durant nos voyages ! Merci !
+Huh? It's with the stars? Not the moon?
+Quoi ? C’est avec les étoiles ? Pas la lune ?
+You tricked me!
+Tu m’as jeté un sort !
+Seems we need to train more!
+Je crois qu’on a besoin de s’entraîner davantage !
+Good taste!
+Bon choix !
+Congratulations! I will stay elegant in defeat.
+Félicitations ! Je resterai élégant dans la défaite.
+Oops! Wrong customer!
+Oups ! Mauvaise cliente !
+It will be hard to sleep after that...
+Pas facile de dormir après ça…
+Until next time...
+Ce n’est que partie remise…
+Rip Bozo...
+Rip Bozo...
+Please, be normal dude!
+S'il te plaît, sois normale meuf !
+Not cool enough...
+Pas assez cool...
+It feel like i forgot something...
+J'ai l'impression d'oublier quelque chose...
+I should have taked notes...
+J'aurais dû prendre des notes...
+But i still like him!
+Mais je l'aime quand même !
+JEREMY WHERE ARE YOU ???
+JEREMY OU ES TU ???
+He looks like sleeping...
+On dirait qu'il dort...
+The boss laywer said it's healthy...
+L'avocat du chef a dit que c'était sain...
+This battle has greatly inspired me. Thank you!
+Ce combat m'a grandement inspiré. Merci !
+Wow! Nekanta's Pokemon are impressive to!
+Wow ! Les pokémon de Nekanta sont impressionnants également !
+Okay, maybe a better caretaker than a fighter...
+Okay, peut-être un meilleur soigneur que combattant...
+What about this young trainer in your gym?
+Et à propos de cette jeune dresseuse dans ton Arène ?
+Your élégance has no limit!
+Ton élégance n'a aucune limite !
+That's a coincidence...
+C'est juste une coincidence...
+Oh... Damn...
+Oh... Mince...
+My girlfriend always tell me it's not that cool...
+Ma copine me dit toujours que c'est pas si cool...
+Why do you mean it's a lame strat???
+Pourquoi tu dis que c'est une stratégie honteuse ???
+Great match kid!
+Super match petite !
+Wowie! So strong!
+Wowie ! Si forte !
+You rock!
+T'assures !
+What? But...
+Quoi ? Mais...
+Oww, my poor Pokémon!
+Oww, mon pauvre Pokémon !
+Congratulations!
+Félicitations !
+It's too difficult for me!
+C'est trop difficile pour moi !
+Wow! The new Leader is strong!!
+Wow ! La nouvelle Championne est forte !!
+Well I definitely need more training...
+Bon j'ai vraiment besoin de plus d'entraînement...
+What??
+Quoi ??
+Tch!
+Tch !
+I... I can't even...
+Je... Je peux pas...
+Not again!
+Pas encore !
+Heh, not bad !
+Heh, pas mal !
+These kiddos are strong !
+Ces gamins sont forts !
+That was so punk!
+C'était rock'n'roll !
+Oww, so strong!
+Oww, si forte !

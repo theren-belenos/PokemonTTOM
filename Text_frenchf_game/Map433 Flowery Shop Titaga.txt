@@ -1,0 +1,46 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map433]
+<b>Rancher:</b> Oh, I can buy gifts for my little Applin here, how nice!
+<b>Fermier:</b> Oh, je peux acheter des cadeaux pour mon petit Verpom ici !
+<b>Cocotte:</b> Hello and welcome to the Flowery Shop! I'm Cocotte, how can I help you?
+<b>Mamie:</b> Bonjour et bienvenue à la Boutique Florale ! Comment puis-je t'aider ?
+<b>Cocotte:</b> Hmm? My granddaughter left a bag here?
+<b>Cocotte:</b> Hmm ? Ma petite-fille a laissé un sac ici ?
+<b>Cocotte:</b> At this point I’m not even sure she really is my granddaughter.
+<b>Cocotte:</b> Au point où on en est, est-ce toujours ma petite-fille ?
+<b>Cocotte:</b> We lost her mother, and she says she won’t take over the shop. Can you believe it?
+<b>Cocotte:</b> On a perdu sa mère, et elle dit qu'elle ne reprendra pas la boutique. T'y crois toi ?
+<b>Cocotte:</b> Zero consideration for me or for the family. Hah!
+<b>Cocotte:</b> Aucune considération pour moi ou la famille. Ha !
+<b>Cocotte:</b> Now tell me again why should I give you this bag? Hmm?
+<b>Cocotte:</b> Maintenant dis moi pourquoi je devrais te donner ce sac ? Hmm ?
+<b>Cocotte:</b> You really need it? Do you? Show me your determination, then!
+<b>Cocotte:</b> T'en as vraiment besoin ? Sincèrement ? Montre moi ta détermination alors !
+<b>Cocotte:</b> Hmpf, at least she knows to ask help from powerful people.
+<b>Cocotte:</b> Hmpf, au moins elle sait s'entourer de puissantes personnes.
+<b>Cocotte:</b> I won’t give you this bag, but I can go with you to her new place.
+<b>Cocotte:</b> Je ne te donnerai pas ce sac, mais je peux aller avec toi chez elle.
+<b>Cocotte:</b> I will give it to her, after a small talk.
+<b>Cocotte:</b> Je lui donnerai, après une petite discussion.
+<b>Boy:</b> Can I come too?
+<b>Garçon:</b> Je peux venir aussi ?
+<b>Cocotte:</b> If that’s what you want…
+<b>Cocotte:</b> Si c'est ce que tu souhaites...
+<b>Cocotte:</b> I wait for your call here.
+<b>Cocotte:</b> Alors j'attends ton signal.
+<b>Cocotte:</b> Do you really need it? Show me your determination, then!
+<b>Cocotte:</b> T'en as vraiment besoin ? Montre moi ta détermination alors !
+<b>Cocotte:</b> Ready to go?
+<b>Cocotte:</b> Prête à partir ?
+<b>Cocotte:</b> Very well. After you.
+<b>Cocotte:</b> Très bien. Après toi.
+<b>Boy:</b> Oh hi my friend! Welcome to the Flowery Shop! Can I help you with something?
+<b>Garçon:</b> Oh bonjour mon amie ! Bienvenue dans la Boutique Florale ! Je peux t’aider ?
+<b>Boy:</b> Welcome to the Flowery Shop!
+<b>Garçon:</b> Bienvenue dans la Boutique Florale !
+Yes
+Oui
+No
+Non

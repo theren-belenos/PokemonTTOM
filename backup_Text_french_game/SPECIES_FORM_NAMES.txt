@@ -1,0 +1,124 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SPECIES_FORM_NAMES]
+Family of Four
+Famille de Quatre
+Green Plumage
+Plumage Vert
+Zero Form
+Forme Ordinaire
+Curly Form
+Forme Courbée
+Two-Segment Form
+Forme Double
+Chest Form
+Forme Coffre
+Counterfeit Form
+Forme Imitation
+Unremarkable Form
+Forme Médiocre
+Teal Mask
+Masque Turquoise
+Hisuian
+de Hisui
+Paldean (Combat Breed)
+de Paldea (Race Combative)
+Paldean (Blaze Breed)
+de Paldea (Race Flamboyante)
+Paldean (Aqua Breed)
+de Paldea (Race Aquatique)
+Paldean
+de Paldea
+White-Striped
+Motif Blanc
+Bloodmoon Ursaluna
+Ursaking Lune Vermeille
+Therian Form
+Forme Totémique
+Three-Segment Form
+Forme Triple
+Hero Form
+Forme Héro
+Family of Three
+Famille de Trois
+Droopy Form
+Forme Affalée
+Stretchy Form
+Forme Raide
+Blue Plumage
+Plumage Bleu
+Yellow Plumage
+Pluamge jaune
+White Plumage
+Plumage Blanc
+Roaming Form
+Forme Marche
+Artisan Form
+Forme Imitation
+Masterpiece Form
+Forme Exceptionnelle
+Wellspring Mask
+Masque du Puits
+Hearthflame Mask
+Masque du Fourneau
+Cornerstone Mask
+Masque de la Pierre
+Terastal Teal Mask
+Masque Turquoise Teracristal
+Terastal Wellspring Mask
+Masque du Puits Teracristal
+Terastal Hearthflame Mask
+Masque du Fourneau Teracristal
+Terastal Cornerstone Mask
+Masque de la Pierre Teracristal
+Terastal Form
+Forme Téracristal
+Stellar Form
+Forme Stellaire
+Mega Butterfree
+Mega Papillusion
+Mega Machamp
+Mega Mackogneur
+Mega Kingler
+Mega Krabbos
+Mega Lapras
+Mega Lokhlass
+Mega Snorlax
+Mega Ronflex
+Mega Garbodor
+Mega Miasmax
+Mega Melmetal
+Mega Melmetal
+Mega Corviknight
+Mega Corvaillus
+Mega Orbeetle
+Mega Astronelle
+Mega Drednaw
+Mega Torgamord
+Mega Coalossal
+Mega Monthracite
+Mega Applemon
+Mega Pommon
+Mega Sandaconda
+Mega Dunaconda
+Mega Toxtricity
+Mega Salarsen
+Mega Centiskorch
+Mega Scolocendre
+Mega Hatterene
+Mega Sorcilence
+Mega Grimmsnarl
+Mega Angoliath
+Mega Alcremie
+Mega Charmilly
+Mega Copperajah
+Mega Pachyradjah
+Mega Rillaboom
+Mega Gorythmic
+Mega Cinderace
+Mega Pyrobut
+Mega Inteleon
+Mega Lézargus
+Mega Urshifu
+Mega Shifours

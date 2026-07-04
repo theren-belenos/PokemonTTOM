@@ -1,0 +1,100 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ABILITY_DESCRIPTIONS]
+The Pokémon summons a snowstorm in battle.
+Déclenche une tempête de grêle quand le Pokémon entre au combat.
+Changes type to the first selected move.
+Le Pokémon prend le type de la capacité qu'il utilise. Ce talent ne peut se déclencher qu'une fois par entrée au combat du Pokémon.
+Defeating a foe powers up the user one time.
+Mettre K.O. un adversaire pour la première fois augmente la puissance.
+Boosts Attack when entering battle one time.
+Augmente l'attaque la première fois que le Pokémon entre sur le terrain.
+Boosts Defense when entering battle one time.
+Augmente l'attaque la première fois que le Pokémon entre sur le terrain.
+Gets a powerful boost if a hit makes its HP half or less.
+Le Pokémon enrage s'il a moins de la moitié de ses PV après avoir subi une attaque. Sa Déf. et sa Déf. Spé. baissent, et son Atq., son Atq. Spé. et sa Vit. augmentent.
+Prevents opposing Pokémon from using priority moves.
+Une étrange queue recouvre la tête du Pokémon, ce qui empêche ce dernier et ses alliés d'être visés par une capacité prioritaire.
+Lowers the Sp. Def of all Pokémon except the user.
+Le pouvoir des perles qui appellent le fléau affaiblit la Défense Spéciale de tous les autres Pokémon.
+Pairs up and commands with an active Dondozo.
+Si un Oyacata allié est sur le terrain quand ce Pokémon rejoint le combat, ce dernier entre dans sa bouche et devient son commandant.
+Copies an ally's stat changes upon entry to battle.
+Quand le Pokémon entre sur le terrain, il copie les changements de stats de son allié.
+Reuses an eaten Berry at the end of the next turn.
+Quand le Pokémon mange une Baie, il la régurgite à la fin du tour suivant et la mange une nouvelle fois.
+Restores HP if hit by a Ground-type move.
+Si le Pokémon est touché par une capacité de type Sol, il regagne des PV au lieu de subir des dégâts.
+The Pokémon becomes charged upon taking damage.
+Si le Pokémon subit des dégâts, il se charge en électricité.
+The Pokémon becomes immune to status moves.
+Le corps en or pur et robuste du Pokémon l'immunise contre les capacités de statut des autres Pokémon.
+Boosts Atk if intimidated and immune to being forced out.
+L'Attaque du Pokémon augmente s'il subit l'effet du talent Intimidation. Les capacités ou objets qui font changer de Pokémon n'ont aucun effet sur lui.
+Turns the ground into Electric Terrain and boosts Sp. Atk.
+Le Pokémon crée un champ électrifié quand il rejoint le combat. Une machine du futur fait monter son Attaque Spéciale si un champ électrifié est actif.
+Status moves are unimpeded by this Ability but slower to use.
+Le Pokémon agit toujours plus lentement quand il utilise une capacité de statut, mais il ignore les talents adverses.
+Copies an opponent's stat boost during a turn.
+Quand les stats de l'ennemi augmentent, le Pokémon en profite pour augmenter ses stats de la même manière.
+Turns the sunlight harsh while boosing Attack.
+Le Pokémon invoque le soleil quand il rejoint le combat. Quand les rayons du soleil sont intenses, une pulsation primitive augmente son Attaque.
+Boosts its best stat in harsh sunlight.
+Quand le soleil brille ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.
+Gains protection from status effects and Ghost-type moves.
+Le sel pur immunise le Pokémon contre les altérations de statut, et diminue de moitié les dégâts des capacités de type Spectre.
+Boosts its best stat in Electric Terrain.
+Quand un champ électrifié est actif ou que le Pokémon tient une capsule d'Énergie Booster, sa stat la plus élevée augmente.
+Powers up Rock-type moves.
+Augmente la puissance des capacités de type Roche.
+Turns the ground into Grassy Terrain upon taking damage.
+Le Pokémon crée un champ herbu quand il subit une attaque.
+Powers up slicing moves.
+Augmente la puissance des capacités tranchantes.
+Boosts the power of its moves with every fainted ally.
+Quand le Pokémon entre sur le terrain, son Attaque et son Attaque Spéciale augmentent légèrement pour chaque allié mis K.O. auparavant.
+Lowers the Defense of all Pokémon except the user.
+Le pouvoir de l'épée qui appelle le fléau affaiblit la Défense de tous les autres Pokémon.
+Lowers the Attack of all Pokémon except the user.
+Le pouvoir du bois qui appelle le fléau affaiblit l'Attaque de tous les autres Pokémon.
+Boosts Atk when hit by a Fire-type move and prevents burns.
+Lorsque le Pokémon est touché par une capacité de type Feu, son Attaque augmente. Il ne peut pas être brûlé.
+Scatters poison spikes when hit by physical moves.
+Quand le Pokémon est touché par une capacité physique, il répand des pics toxiques dans le camp adverse.
+Lowers the Sp. Atk of all Pokémon except the user.
+Le pouvoir de l'urne qui appelle le fléau affaiblit l'Attaque Spéciale de tous les autres Pokémon.
+Fire-type moves deal no damage and sharply boost Defense.
+Si le Pokémon est touché par une capacité de type Feu, il ne subit aucun dégât et sa Défense augmente beaucoup.
+The Pokémon becomes charged from taking wind damage.
+Si le Pokémon est touché par une capacité faisant appel au vent, il se charge en électricité.
+Boosts Attack in Tailwind or when attacked by wind moves.
+Augmente l'Attaque sous Vent arrière ou quand touché par des capacités de vent.
+Transforms into its Hero Form when it switches out.
+Le Pokémon prend sa Forme Super en quittant le combat.
+Lowers the foe's evasion once per battle.
+La première fois que le Pokémon entre au combat, une odeur de nectar sucré se répand sur le terrain, ce qui baisse l'Esquive de l'adversaire.
+Restores ally's HP a little when entering battle.
+Quand il rejoint le combat, ce Pokémon est aux petits soins avec son allié et restaure quelques PV.
+May badly poison targets when the user attacks.
+Grâce aux pouvoirs de sa chaîne imprégnée de toxines, le Pokémon peut empoisonner gravement sa cible en la touchant avec une capacité.
+Prevents accuracy loss. Ignores Ghost immunities.
+Le Pokémon ignore les changements d'Esquive des cibles et peut toucher les Pokémon Spectre avec des capacités Normal ou Combat. Sa Précision ne peut pas baisser.
+The user's shining mask raises its Speed stat.
+Le Pokémon fait briller le Masque Turquoise en puisant dans ses souvenirs, ce qui augmente sa Vitesse.
+The user's shining mask raises its Sp. Def stat.
+Le Pokémon fait briller le Masque du Puits en puisant dans ses souvenirs, ce qui augmente sa Défense Spéciale.
+The user's shining mask raises its Attack stat.
+Le Pokémon fait briller le Masque du Fourneau en puisant dans ses souvenirs, ce qui augmente son Attaque.
+The user's shining mask raises its Defense stat.
+Le Pokémon fait briller le Masque de la Pierre en puisant dans ses souvenirs, ce qui augmente sa Défense.
+Moves that inflict poison also cause confusion.
+Lorsque Pêchaminus empoisonne un Pokémon grâce à l'une de ses capacités, ce dernier devient également confus.
+Enters Terastal Form when sent out.
+Quand le Pokémon rejoint le combat, il absorbe l'énergie alentour et prend sa forme Téracristal.
+Resists all types when HP is full.
+Grâce à sa carapace qui renferme l'énergie de tous les types, les capacités subies par ce Pokémon quand ses PV sont au maximum ne sont pas très efficaces.
+Eliminates all weather and terrain.
+Lorsque Terapagos prend sa Forme Stellaire, il utilise son pouvoir enfoui pour annuler les effets de la météo et des champs actifs.
+Boosts Special Attack in Tailwind or when attacked by wind moves.
+Augmente l'Attaque Spéciale sous Vent arrière ou quand touché par des capacités de vent.

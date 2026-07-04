@@ -103,7 +103,7 @@ Quelques instants plus tard...
 <b>\c[10]Maple:</b>\c[0] He... He kinda have a obsession over this, right?
 <b>\c[10]Maple:</b>\c[0] Il... Il est un peu obsessif avec ça non ?
 <b>\c[10]Maple:</b>\c[0] But I can see where he is coming from. Having a shiny would be really prestigious!
-<b>\c[10]Maple:</b>\c[0] Mais je peux comprendre ce qu'il veut dire. Avoir un shiny ajouterais vraiment du prestige !
+<b>\c[10]Maple:</b>\c[0] Mais je peux comprendre ce qu'il veut dire. Avoir un shiny ajouterait vraiment du prestige !
 <b>\c[10]Maple:</b>\c[0] So, \pn, how about you find a \gt shiny? That would be awesome right?
 <b>\c[10]Maple:</b>\c[0] Donc, \pn, et si tu trouvais un shiny type \gt ? Cela serait incroyable non ?
 <b>\c[10]Maple:</b>\c[0] Find one and show it to me!
@@ -125,13 +125,13 @@ Quelques instants plus tard...
 <b>\c[10]Maple:</b>\c[0] Come talk me again when every housing is rebuilt.
 <b>\c[10]Maple:</b>\c[0] Viens me parler quand tous les logements seront construits.
 <b>\c[10]Maple:</b>\c[0] Did you built all housing ?
-<b>\c[10]Maple:</b>\c[0] As-tu coonstruit tous les logements ?
+<b>\c[10]Maple:</b>\c[0] As-tu construit tous les logements ?
 <b>\c[10]Maple:</b>\c[0] That's wonderful \pn!
-<b>\c[10]Maple:</b>\c[0] That's wonderful \pn!
+<b>\c[10]Maple:</b>\c[0] C'est fantastique \pn !
 <b>\c[10]Maple:</b>\c[0] I'm really proud of what we did together.
-<b>\c[10]Maple:</b>\c[0] I'm really proud of what we did together.
+<b>\c[10]Maple:</b>\c[0] Je suis vraiment fier de ce qu'on a fait ensemble.
 <b>\c[10]Maple:</b>\c[0] And I'm glad you're our leader. Thank you a lot, \pn, I really mean it.
-<b>\c[10]Maple:</b>\c[0] And I'm glad you're our leader. Thank you a lot, \pn, I really mean it.
+<b>\c[10]Maple:</b>\c[0] Et je suis content que tu sois notre Leader. Merci beaucoup, \pn, sincèrement.
 <b>\c[10]Maple:</b>\c[0] Not yet? Please \pn don't neglect this!
 <b>\c[10]Maple:</b>\c[0] Pas encore ? S'il te plaît \pn ne néglige pas ce sujet !
 <b>\c[3]Marley:</b>\c[0] Hey boss, have you heard about shiny Pokémons?
@@ -177,53 +177,53 @@ Vous n'avez rien à dire à Marley concernant des quêtes.
 <b>\c[3]Marley:</b>\c[0] No? Well I wait here!
 <b>\c[3]Marley:</b>\c[0] Non ? Bon ben j’attends ici !
 <b>\c[3]Marley:</b>\c[0] Heya its so cool! Thank you boss!
-<b>\c[3]Marley:</b>\c[0] Heya c’est si cool l Merci boss !
+<b>\c[3]Marley:</b>\c[0] Heya c’est si cool ! Merci boss !
 <b>\c[3]Marley:</b>\c[0] Hey hey \pn, I know you really made progress with shinies!
-<b>\c[3]Marley:</b>\c[0] Hey hey \pn, I know you really made progress with shinies!
+<b>\c[3]Marley:</b>\c[0] Hey hey \pn, je sais que t'as fait de gros progrès avec les shinys !
 <b>\c[3]Marley:</b>\c[0] Do you know what would be really cool?
-<b>\c[3]Marley:</b>\c[0] Do you know what would be really cool?
+<b>\c[3]Marley:</b>\c[0] Tu sais ce qui serait vraiment cool ?
 <b>\c[3]Marley:</b>\c[0] A full team of shinies! 6 shinies!! What do you say?
-<b>\c[3]Marley:</b>\c[0] A full team of shinies! 6 shinies!! What do you say?
+<b>\c[3]Marley:</b>\c[0] Une équipe complète de shinys ! 6 shinys !! Qu'est-ce que t'en penses ?
 <b>\c[3]Marley:</b>\c[0] Show me a full shiny team \pn, I know you can pull it off!
-<b>\c[3]Marley:</b>\c[0] Show me a full shiny team \pn, I know you can pull it off!
+<b>\c[3]Marley:</b>\c[0] Montre moi une équipe shiny complète \pn, je sais que t'en es capable !
 <b>\c[3]Marley:</b>\c[0] Do you have a full shiny party?
-<b>\c[3]Marley:</b>\c[0] Do you have a full shiny party?
+<b>\c[3]Marley:</b>\c[0] Est-ce que tu as une équipe shiny complète ?
 <b>\c[3]Marley:</b>\c[0] Say boss, you know I like regional forms, right?
-<b>\c[3]Marley:</b>\c[0] Say boss, you know I like regional forms, right?
+<b>\c[3]Marley:</b>\c[0] Dis boss, tu sais que j'aime les formes régionales, hein ?
 <b>\c[3]Marley:</b>\c[0] And you know I really like shinies too, don't I?
-<b>\c[3]Marley:</b>\c[0] And you know I really like shinies too, don't I?
+<b>\c[3]Marley:</b>\c[0] Et tu sais aussi que l'aime beaucoup les shinys, n'est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] ...can you see where I'm going there?
-<b>\c[3]Marley:</b>\c[0] ...can you see where I'm going there?
+<b>\c[3]Marley:</b>\c[0] ...est-ce que tu vois où je veux en venir ?
 <b>\c[3]Marley:</b>\c[0] Yes! A Pokémon can be both! Shiny AND regional form! Crazy, no?
-<b>\c[3]Marley:</b>\c[0] Yes! A Pokémon can be both!  Shiny AND regional form! Crazy, no?
+<b>\c[3]Marley:</b>\c[0] Oui ! Un Pokémon peut être les deux ! Shiny ET forme régionale ! C'est fou non ?
 <b>\c[3]Marley:</b>\c[0] Please boss, look for a regional shiny! Its really my favorite kind of Pokémon!
-<b>\c[3]Marley:</b>\c[0] Please boss, look for a regional shiny! Its really my favorite kind of Pokémon!
+<b>\c[3]Marley:</b>\c[0] S'il te plaît boss, cherche un shiny régional ! C'est vraiment mon type de Pokémon favori !
 <b>\c[3]Marley:</b>\c[0] Do you have a shiny regional?
-<b>\c[3]Marley:</b>\c[0] Do you have a shiny regional?
+<b>\c[3]Marley:</b>\c[0] Est-ce que tu as un shiny régional ?
 <b>\c[3]Marley:</b>\c[0] Wowowow ! Sooooooo cooooooool! Thank you very very much boss, truly!!
-<b>\c[3]Marley:</b>\c[0] Wowowow ! Sooooooo cooooooool! Thank you very very much boss, truly!!
+<b>\c[3]Marley:</b>\c[0] Wowowow ! Trooooooop cooooooool! Merci vraiment vraiment beaucoup boss, sérieusement !
 <b>\c[3]Marley:</b>\c[0] Well \pn, I don't have really much more to teach you... Look how you've grown!
-<b>\c[3]Marley:</b>\c[0] Well \pn, I don't have really much more to teach you... Look how you've grown!
+<b>\c[3]Marley:</b>\c[0] Bon \pn, je n'ai plus grand chose à t'apprendre... Regarde les progrès que t'as fait !
 <b>\c[3]Marley:</b>\c[0] Actually, there is a last thing: how about Pokémon that doesn't exist in the wild?
-<b>\c[3]Marley:</b>\c[0] Actually, there is a last thing: how about Pokémon that doesn't exist in the wild?
+<b>\c[3]Marley:</b>\c[0] En fait, il y a une dernière chose : en ce qui concerne les Pokémon qui n'existent pas dans la nature...
 <b>\c[3]Marley:</b>\c[0] How can we got'em shiny??
-<b>\c[3]Marley:</b>\c[0] How can we got'em shiny??
+<b>\c[3]Marley:</b>\c[0] Comment peut-on les avoir shiny ??
 <b>\c[3]Marley:</b>\c[0] Well, shiny chances are true for wild battles, but also for eggs!
-<b>\c[3]Marley:</b>\c[0] Well, shiny chances are true for wild battles, but also for eggs!
+<b>\c[3]Marley:</b>\c[0] Eh bien, les chances de shiny sont vraies pour les combats sauvages, mais aussi pour les oeufs !
 <b>\c[3]Marley:</b>\c[0] So the only way to have shinies for Pokémon that doesn't exist in the wild is by breeding them at the DayCare.
-<b>\c[3]Marley:</b>\c[0] So the only way to have shinies for Pokémon that doesn't exist in the wild is by breeding them at the DayCare.
+<b>\c[3]Marley:</b>\c[0] Donc la seule façon d'avoir des shinys pour les Pokémon qui n'existent pas dans la nature est de les faire se reproduire à la Pension.
 <b>\c[3]Marley:</b>\c[0] Why don't you give this a try? And you know what? It's really easy to check if this method was used!
-<b>\c[3]Marley:</b>\c[0] Why don't you give this a try? And you know what? It's really easy to check if this method was used!
+<b>\c[3]Marley:</b>\c[0] Pourquoi tu n'essayerais pas ? Et tu sais quoi ? C'est vraiment facile de vérifier si cette méthode a été utilisée !
 <b>\c[3]Marley:</b>\c[0] Wild Pokémon are level 2, minimum. Only newly hatched Pokémon can be level 1!
-<b>\c[3]Marley:</b>\c[0] Wild Pokémon are level 2, minimum. Only newly hatched Pokémon can be level 1!
+<b>\c[3]Marley:</b>\c[0] Les Pokémon sauvages sont minimum niveau 2. Il n'y a que les Pokémon sortant de l'oeuf qui sont niveau 1 !
 <b>\c[3]Marley:</b>\c[0] So, boss, here is your last challenge: Show me a level 1 shiny!
-<b>\c[3]Marley:</b>\c[0] So, boss, here is your last challenge: Show me a level 1 shiny!
+<b>\c[3]Marley:</b>\c[0] Donc boss, voici ton dernier challenge : montre-moi un shiny niveau 1 !
 <b>\c[3]Marley:</b>\c[0] Do you have a level 1 shiny?
-<b>\c[3]Marley:</b>\c[0] Do you have a level 1 shiny?
+<b>\c[3]Marley:</b>\c[0] Est-ce que tu as un shiny niveau 1 ?
 <b>\c[3]Marley:</b>\c[0] Well done boss! Congratulations!
-<b>\c[3]Marley:</b>\c[0] Well done boss!  Congratulations!
+<b>\c[3]Marley:</b>\c[0] Bien joué boss ! Félicitations !
 <b>\c[3]Marley:</b>\c[0] I have nothing more to teach you, you're le boss of shinies know!!
-<b>\c[3]Marley:</b>\c[0] I have nothing more to teach you, you're le boss of shinies know!!
+<b>\c[3]Marley:</b>\c[0] Je n'ai plus rien à t'apprendre, t'es le boss des shinys maintenant !
 <b>\c[9]Melly:</b>\c[0] H-hey \pn, how about we have a friendly battle?
 <b>\c[9]Melly:</b>\c[0] H-hey \pn, ça te dit un combat amical ?
 <b>\c[9]Melly:</b>\c[0] Not necessarly with our Gym Pokémon parties though!
@@ -265,7 +265,7 @@ Vous n'avez rien à dire à Melly concernant des quêtes.
 <b>\c[9]Melly:</b>\c[0] H-hi \pn, I was talking to Marley the other day and he told me about shinies!
 <b>\c[9]Melly:</b>\c[0] S-Salut \pn, je parlais avec Marley l'autre jour et il m'a parlé de shinys !
 <b>\c[9]Melly:</b>\c[0] It made me curious...
-<b>\c[9]Melly:</b>\c[0] Du coup de suis curieuse...
+<b>\c[9]Melly:</b>\c[0] Du coup je suis curieuse...
 <b>\c[9]Melly:</b>\c[0] Say, can you show me a Pokémon that's usually Pink or Purple, and is shiny?
 <b>\c[9]Melly:</b>\c[0] Dis, tu peux me montrer un Pokémon qui normalement est rose ou violet, et qui est shiny ?
 <b>\c[9]Melly:</b>\c[0] Do you have a shiny pink or purple Pokémon to show me?
@@ -277,7 +277,7 @@ Vous n'avez rien à dire à Melly concernant des quêtes.
 <b>\c[9]Melly:</b>\c[0] \pn!!!! This time, I will beat you fair and square!
 <b>\c[9]Melly:</b>\c[0] \pn !!!! Cette fois, tu n'as aucune chance !
 <b>\c[9]Melly:</b>\c[0] Be prepared! My Pokémon will be around level 60!
-<b>\c[9]Melly:</b>\c[0] Prépare-toi ! Mes pokémon seront autour du niveau 60 !
+<b>\c[9]Melly:</b>\c[0] Prépare-toi ! Mes Pokémon seront autour du niveau 60 !
 <b>\c[9]Melly:</b>\c[0] Haaaa... I really thought I had a chance...
 <b>\c[9]Melly:</b>\c[0] Haaaa... Je croyais vraiment que j'aurais une chance...
 <b>\c[9]Melly:</b>\c[0] D...don't worry, I'm not sad! I'm really glad to see you're so strong, and yet won't get rid of me!
@@ -285,85 +285,85 @@ Vous n'avez rien à dire à Melly concernant des quêtes.
 <b>\c[9]Melly:</b>\c[0] I...it's really heartwarming actually...
 <b>\c[9]Melly:</b>\c[0] Franchement ça...ça fait chaud au coeur...
 <b><c3=BDA46A,736440>Samy:</b></c3> Ha! \pn, how do you say we have a good ol' Pokémon battle together hm?
-<b><c3=BDA46A,736440>Samy:</b></c3> Ha! \pn, how do you say we have a good ol' Pokémon battle together hm?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha ! \pn, ça te dit un bon vieux combat Pokémon entre nous hm ?
 <b><c3=BDA46A,736440>Samy:</b></c3> I'll have my own personal team tho, not the Gym one!
-<b><c3=BDA46A,736440>Samy:</b></c3> I'll have my own personal team tho, not the Gym one!
+<b><c3=BDA46A,736440>Samy:</b></c3> J'aurai mon équipe personnelle hein, pas celle de l'Arène !
 <b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 35. Are you ready for this?
-<b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 35. Are you ready for this?
+<b><c3=BDA46A,736440>Samy:</b></c3> Mes Pokémon sont autour du niveau 35. Prêt pour ça ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Ready for battle, are ya?
-<b><c3=BDA46A,736440>Samy:</b></c3> Ready for battle, are ya?
+<b><c3=BDA46A,736440>Samy:</b></c3> T'es prêt pour le combat ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Bahahahaha! You're so much younger than me, yet so much stronger!
-<b><c3=BDA46A,736440>Samy:</b></c3> Bahahahaha! You're so much younger than me, yet so much stronger!
+<b><c3=BDA46A,736440>Samy:</b></c3> Bahahahaha ! T'es tellement plus jeune que moi, mais tellement meilleur !
 <b><c3=BDA46A,736440>Samy:</b></c3> Maybe, like Marley, I should call you boss after all...
-<b><c3=BDA46A,736440>Samy:</b></c3> Maybe, like Marley, I should call you boss after all...
+<b><c3=BDA46A,736440>Samy:</b></c3> Peut-être que, comme Marley, je devrais t'appeler "boss" après tout...
 You have nothing to tell Samy about any quest.
-You have nothing to tell Samy about any quest.
+Vous n'avez rien à dire à Samy concernant des quêtes.
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, now that I'm always here, I can't go collecting shards anymore...
-<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, now that I'm always here, I can't go collecting shards anymore...
+<b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, maintenant que je suis toujours là, je ne peux plus collecter de tessons...
 <b><c3=BDA46A,736440>Samy:</b></c3> I really need 3 more of each "primary colors" shards. Can you give me that?
-<b><c3=BDA46A,736440>Samy:</b></c3> I really need 3 more of each "primary colors" shards. Can you give me that?
+<b><c3=BDA46A,736440>Samy:</b></c3> J'ai vraiment besoin de 3 tessons de chaque couleur primaire. Tu peux me donner ça ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Do you know what shards are? You can collect them from glowing rocks.
-<b><c3=BDA46A,736440>Samy:</b></c3> Do you know what shards are? You can collect them from glowing rocks.
+<b><c3=BDA46A,736440>Samy:</b></c3> Tu sais ce que sont les tessons ? Tu peux en récupérer en minant des Pierres Luisantes.
 <b><c3=BDA46A,736440>Samy:</b></c3> You need a Mining Kit to mine glowing rocks tho!
-<b><c3=BDA46A,736440>Samy:</b></c3> You need a Mining Kit to mine glowing rocks tho! 
+<b><c3=BDA46A,736440>Samy:</b></c3> Tu as besoin d'un Kit de Minage pour ça par contre !
 <b><c3=BDA46A,736440>Samy:</b></c3> If you don't have one, you can probably grab one from the Grey Mines at Greymoose!
-<b><c3=BDA46A,736440>Samy:</b></c3> If you don't have one, you can probably grab one from the Grey Mines at Greymoose!
+<b><c3=BDA46A,736440>Samy:</b></c3> Si tu n'en as pas, tu peux sans doute en réuperer un aux Mines Grises à Greymoose !
 <b><c3=BDA46A,736440>Samy:</b></c3> Do you have 3 red, blue and green shards?
-<b><c3=BDA46A,736440>Samy:</b></c3> Do you have 3 red, blue and green shards?
+<b><c3=BDA46A,736440>Samy:</b></c3> Est-ce que tu as 3 tessons rouges, bleus et verts ?
 Do you want to give 3 red blue and green shards to Samy?
-Do you want to give 3 red blue and green shards to Samy?
+Voulez-vous donner 3 tessons rouges bleus et verts à Samy ?
 <b><c3=BDA46A,736440>Samy:</b></c3> You're definitely the best, <i>boss</i> hehe~
-<b><c3=BDA46A,736440>Samy:</b></c3> You're definitely the best, <i>boss</i> hehe~
+<b><c3=BDA46A,736440>Samy:</b></c3> T'es vraiment le meilleur, <i>boss</i> hehe~
 <b><c3=BDA46A,736440>Samy:</b></c3> Thank you very much!
-<b><c3=BDA46A,736440>Samy:</b></c3> Thank you very much!
+<b><c3=BDA46A,736440>Samy:</b></c3> Merci beaucoup !
 <b><c3=BDA46A,736440>Samy:</b></c3> Well, I can't blame you, I would not give it either!
-<b><c3=BDA46A,736440>Samy:</b></c3> Well, I can't blame you, I would not give it either!
+<b><c3=BDA46A,736440>Samy:</b></c3> Eh bien, je peux pas t'en vouloir, je ne les donnerais pas non plus !
 <b><c3=BDA46A,736440>Samy:</b></c3> Ha! What about another training session, <i>boss</i>?
-<b><c3=BDA46A,736440>Samy:</b></c3> Ha! What about another training session, <i>boss</i>?
+<b><c3=BDA46A,736440>Samy:</b></c3> Ha ! Que dis-tu d'une autre session d'entraînement, <i>boss</i> ?
 <b><c3=BDA46A,736440>Samy:</b></c3> This time my team is around level 50! Good for you?
-<b><c3=BDA46A,736440>Samy:</b></c3> This time my team is around level 50! Good for you?
+<b><c3=BDA46A,736440>Samy:</b></c3> Cette fois mon équipe est aux alentours du niveau 50 ! Ok pour toi ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Ready to rumble?
-<b><c3=BDA46A,736440>Samy:</b></c3> Ready to rumble?
+<b><c3=BDA46A,736440>Samy:</b></c3> Prêt pour la fête ?
 <b><c3=BDA46A,736440>Samy:</b></c3> Bahaha I don't stand a chance! You're not just our boss, you're the big boss!!
-<b><c3=BDA46A,736440>Samy:</b></c3> Bahaha I don't stand a chance! You're not just our boss, you're the big boss!!
+<b><c3=BDA46A,736440>Samy:</b></c3> Bahaha je n'avais aucune chance ! T'es pas juste notre boss, t'es le big boss !!
 <b><c3=BDA46A,736440>Samy:</b></c3> \pn! You know that Marley became a good friend already right!
-<b><c3=BDA46A,736440>Samy:</b></c3> \pn! You know that Marley became a good friend already right!
+<b><c3=BDA46A,736440>Samy:</b></c3> \pn ! Tu sais que Marley est devenu un bon ami hein ?
 <b><c3=BDA46A,736440>Samy:</b></c3> He talked to me about the passion of his, the shinies!
-<b><c3=BDA46A,736440>Samy:</b></c3> He talked to me about the passion of his, the shinies!
+<b><c3=BDA46A,736440>Samy:</b></c3> Il m'a parlé de sa passion, les shinys !
 <b><c3=BDA46A,736440>Samy:</b></c3> And I wanted to combine this with my passion, the grottos! Aren't I the complete genius??
-<b><c3=BDA46A,736440>Samy:</b></c3> And I wanted to combine this with my passion, the grottos!  Aren't I the complete genius??
+<b><c3=BDA46A,736440>Samy:</b></c3> Et je voulais combiner ça avec ma passion, les grottes ! Ne suis-je pas un pur génie ??
 <b><c3=BDA46A,736440>Samy:</b></c3> Can you show me a shiny Pokémon that lives in grottos??
-<b><c3=BDA46A,736440>Samy:</b></c3> Can you show me a shiny Pokémon that lives in grottos??
+<b><c3=BDA46A,736440>Samy:</b></c3> Peux-tu me montrer un Pokémon shiny vivant dans les grottes ??
 <b><c3=BDA46A,736440>Samy:</b></c3> Do you have a shiny Pokémon that lives in grottos??
-<b><c3=BDA46A,736440>Samy:</b></c3> Do you have a shiny Pokémon that lives in grottos??
+<b><c3=BDA46A,736440>Samy:</b></c3> Est-ce que tu as un Pokémon shiny qui vit dans les grottes ??
 <b><c3=BDA46A,736440>Samy:</b></c3> Ooooh now I see! What a pretty thing!
-<b><c3=BDA46A,736440>Samy:</b></c3> Ooooh now I see! What a pretty thing!
+<b><c3=BDA46A,736440>Samy:</b></c3> Ooooh ok je vois ! Quelle jolie chose !
 <b><c3=BDA46A,736440>Samy:</b></c3> Well, Marley told me they are really rare so I can understand!
-<b><c3=BDA46A,736440>Samy:</b></c3> Well, Marley told me they are really rare so I can understand!
+<b><c3=BDA46A,736440>Samy:</b></c3> Eh bien, Marley m'a dit qu'ils sont vraiment rares donc je comprends !
 <b><c3=BDA46A,736440>Samy:</b></c3> Hey you <i>big boss</i>, it's time for my revenge!
-<b><c3=BDA46A,736440>Samy:</b></c3> Hey you <i>big boss</i>, it's time for my revenge!
+<b><c3=BDA46A,736440>Samy:</b></c3> Hé toi le <i>big boss</i>, il est l'heure de ma revanche !
 <b><c3=BDA46A,736440>Samy:</b></c3> This time I'll give all I got! So don't you hold back!!
-<b><c3=BDA46A,736440>Samy:</b></c3> This time I'll give all I got! So don't you hold back!!
+<b><c3=BDA46A,736440>Samy:</b></c3> Cette fois je donnerai tout ce que j'ai ! Donc t'as intérêt à faire pareil !!
 <b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 70!
-<b><c3=BDA46A,736440>Samy:</b></c3> My Pokémon are around level 70!
+<b><c3=BDA46A,736440>Samy:</b></c3> Mes Pokémon sont vers le niveau 70 !
 <b><c3=BDA46A,736440>Samy:</b></c3> Ready for the big showdown??
-<b><c3=BDA46A,736440>Samy:</b></c3> Ready for the big showdown??
+<b><c3=BDA46A,736440>Samy:</b></c3> Prêt pour le grand affrontement ??
 <b><c3=BDA46A,736440>Samy:</b></c3> Wah. No way. Even like this?
-<b><c3=BDA46A,736440>Samy:</b></c3> Wah. No way. Even like this?
+<b><c3=BDA46A,736440>Samy:</b></c3> Wah. Pas possible. Même comme ça ?
 <b><c3=BDA46A,736440>Samy:</b></c3> I swear, kid, you're something else...
-<b><c3=BDA46A,736440>Samy:</b></c3> I swear, kid, you're something else... 
+<b><c3=BDA46A,736440>Samy:</b></c3> Jle jure, petit, t'es pas croyable...
 <b><c3=BDA46A,736440>Samy:</b></c3> I'm not even joking when I say I'm glad you're my boss.
-<b><c3=BDA46A,736440>Samy:</b></c3> I'm not even joking when I say I'm glad you're my boss.
+<b><c3=BDA46A,736440>Samy:</b></c3> Je plaisante même pas quand je dis que je suis content que tu sois mon boss.
 <b><c3=BDA46A,736440>Samy:</b></c3> Honored, even. Thanks for having me, \pn!
-<b><c3=BDA46A,736440>Samy:</b></c3> Honored, even. Thanks for having me, \pn!
+<b><c3=BDA46A,736440>Samy:</b></c3> Honoré, même. Merci de me garder, \pn!
 <b>\c[11]Madame S:</b>\c[0] Hello sweetie, can you help me out?
-<b>\c[11]Madame S:</b>\c[0] Hello sweetie, can you help me out?
+<b>\c[11]Madame S:</b>\c[0] Bonjour mon chéri, peux-tu m'aider ?
 You have nothing to tell Madame S about any quest.
-You have nothing to tell Madame S about any quest.
+Vous n'avez rien à dire à Madame S concernant des quêtes.
 <b>\c[11]Madame S:</b>\c[0] You didn't meet enough yet? No worries, I can wait! ...for a bit.
-<b>\c[11]Madame S:</b>\c[0] You didn't meet enough yet? No worries, I can wait! ...for a bit.
+<b>\c[11]Madame S:</b>\c[0] Tu n'en as pas rencontré assez encore ? Pas de soucis, je peux attenrdre ! ...pendant un temps.
 You have nothing to tell the Nurses about any quest.
-Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
+Vous n'avez rien à dire aux infirmières concernant des quêtes.
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie! Can we ask you something?
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor ! On peut te demander quelque chose ?
 <b>\c[5]Nurse:</b>\c[0] As you are traveling around the region, can you deliver some things for us?
@@ -393,7 +393,7 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Have you heard about the Heal Balls sweetie?
 <b>\c[5]Infirmière:</b>\c[0] Tu as déjà entendu parler des Soin Balls, trésor ?
 <b>\c[5]Nurse:</b>\c[0] Heal balls, as its name suggests, instantly heals any Pokémon catched with.
-<b>\c[5]Infirmière:</b>\c[0] Soin Balls, comme leur nom l’indique, soigne les Pokémon capturés avec.
+<b>\c[5]Infirmière:</b>\c[0] Les Soin Balls, comme leur nom l’indique, soignent les Pokémon capturés avec.
 <b>\c[5]Nurse:</b>\c[0] Here, take these heal balls and try to catch a Pokémon with it!
 <b>\c[5]Infirmière:</b>\c[0] Tiens, prends ces Soin Balls et essaye de capturer un Pokémon avec !
 <b>\c[5]Nurse:</b>\c[0] Come back and show me a Pokémon inside a heal ball!
@@ -405,7 +405,7 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool invention right?
 <b>\c[5]Infirmière:</b>\c[0] Excellent, trésor ! C’est une belle invention n’est-ce pas ?
 <b>\c[5]Nurse:</b>\c[0] Sweetie, do you know that some Pokémon can heal others?
-<b>\c[5]Infirmière:</b>\c[0] Sweetie, tu savais que certains Pokémon peuvent en soigner d'autres ?
+<b>\c[5]Infirmière:</b>\c[0] Trésor, tu savais que certains Pokémon peuvent en soigner d'autres ?
 <b>\c[5]Nurse:</b>\c[0] Some moves, like Pollen Puff or Heal Pulse, can heal allies Pokémon!
 <b>\c[5]Infirmière:</b>\c[0] Certaines capacités, comme Boule Pollen ou Vibra Soin, peuvent soigner les Pokémon alliés !
 <b>\c[5]Nurse:</b>\c[0] Show me a Pokémon who knows a healing move!
@@ -413,7 +413,7 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Do you have a Pokémon with a healing move?
 <b>\c[5]Infirmière:</b>\c[0] Est-ce que tu as un Pokémon avec une capacité de soin ?
 <b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool kind of moves right?
-<b>\c[5]Infirmière:</b>\c[0] Excellent trésor ! Ce genre de capacités est vraiment incroyable non ?
+<b>\c[5]Infirmière:</b>\c[0] Excellent, trésor ! Ce genre de capacités est vraiment incroyable non ?
 <b>\c[5]Nurse:</b>\c[0] Sweetie, more than healing moves, there is healing Abilities!
 <b>\c[5]Infirmière:</b>\c[0] Trésor, en plus des capacités de soin, il y a des talents de soin !
 <b>\c[5]Nurse:</b>\c[0] Abilities like Regenerator oh Healer can heal Pokémons during battles!
@@ -423,11 +423,11 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Do you have a Pokémon with a healing ability?
 <b>\c[5]Infirmière:</b>\c[0] Est-ce que tu as un Pokémon ayant un talent de soin ?
 <b>\c[5]Nurse:</b>\c[0] Very nice sweetie! Its a cool kind of ability right?
-<b>\c[5]Infirmière:</b>\c[0] Excellent trésor ! Ce genre de talents est vraiment incroyable non ?
+<b>\c[5]Infirmière:</b>\c[0] Excellent, trésor ! Ce genre de talents est vraiment incroyable non ?
 <b>\c[5]Nurse:</b>\c[0] Sweetie we have a huge demand for you.
-<b>\c[5]Infirmière:</b>\c[0] Trésor nous avons un énorme service à te demander.
+<b>\c[5]Infirmière:</b>\c[0] Trésor, nous avons un énorme service à te demander.
 <b>\c[5]Nurse:</b>\c[0] We want to boost our prestige and Marley told us about shinies!
-<b>\c[5]Infirmière:</b>\c[0]Nous voulons booster notre prestige et Marley nous a parlé de shiny !
+<b>\c[5]Infirmière:</b>\c[0] Nous voulons booster notre prestige et Marley nous a parlé de shiny !
 <b>\c[5]Nurse:</b>\c[0] So we want to have a Pokémon healer taht is shiny! Can you find one for us?
 <b>\c[5]Infirmière:</b>\c[0] Donc nous voulons un Pokémon soigneur qui soit shiny ! Tu peux en trouver un pour nous ?
 <b>\c[5]Nurse:</b>\c[0] Do you have a shiny healer?
@@ -437,85 +437,85 @@ Vous n'avez rien à dire aux infirmières concernant des quêtes (1).
 <b>\c[5]Nurse:</b>\c[0] Thanks a lot sweetie!
 <b>\c[5]Infirmière:</b>\c[0] Merci énormément trésor !
 <b>\c[11]Madame S:</b>\c[0] I'm lacking some berries to prepare my world-famous cocktails!
-<b>\c[11]Madame S:</b>\c[0] I'm lacking some berries to prepare my world-famous cocktails!
+<b>\c[11]Madame S:</b>\c[0] Il me manque quelques baies pour préparer mon cocktail mondialement célèbre !
 <b>\c[11]Madame S:</b>\c[0] I would need 3 of the following : Cheri Chesto Pecha Rawst Aspear and Oran Berries.
-<b>\c[11]Madame S:</b>\c[0] I would need 3 of the following : Cheri Chesto Pecha Rawst Aspear and Oran Berries.
+<b>\c[11]Madame S:</b>\c[0] J'aurais besoin de 3 de chacune de ces baies : Ceriz Maron Pecha Fraive Willia et Oran.
 <b>\c[11]Madame S:</b>\c[0] Thank you sweetie!
-<b>\c[11]Madame S:</b>\c[0] Thank you sweetie!
+<b>\c[11]Madame S:</b>\c[0] Merci mon chéri !
 <b>\c[11]Madame S:</b>\c[0] Do you have the berries, sweetie?
-<b>\c[11]Madame S:</b>\c[0] Do you have the berries, sweetie?
+<b>\c[11]Madame S:</b>\c[0] Tu as les baies, mon chéri ?
 Do you want to give 3 of the following: Cheri Chesto Pecha Rawst Aspear and Oran Berries ?
-Do you want to give 3 of the following: Cheri Chesto Pecha Rawst Aspear and Oran Berries ?
+Voulez-vous donner 3 de chacune de ces baies : Ceriz Maron Pecha Fraive Willia et Oran ?
 <b>\c[11]Madame S:</b>\c[0] Thanks a lot for your help! With this, my dear customers won't be thirsty!
-<b>\c[11]Madame S:</b>\c[0] Thanks a lot for your help! With this, my dear customers won't be thirsty!
+<b>\c[11]Madame S:</b>\c[0] Merci beaucoup pour ton aide ! Avec ça, mes clients n'auront pas soif !
 <b>\c[11]Madame S:</b>\c[0] Not yet? Please sweetie, don't forget about me~
-<b>\c[11]Madame S:</b>\c[0] Not yet? Please sweetie, don't forget about me~
+<b>\c[11]Madame S:</b>\c[0] Pas encore ? S'il te plaît mon chéri, ne m'oublie pas~
 <b>\c[11]Madame S:</b>\c[0] Hello sweetie, I might need your help again...
-<b>\c[11]Madame S:</b>\c[0] Hello sweetie, I might need your help again...
+<b>\c[11]Madame S:</b>\c[0] Bonjour mon chéri, j'aurais besoin de ton aide de nouveau...
 <b>\c[11]Madame S:</b>\c[0] I want to prepare some animations for the resort, like music and dances!
-<b>\c[11]Madame S:</b>\c[0] I want to prepare some animations for the resort, like music and dances!
+<b>\c[11]Madame S:</b>\c[0] Je veux préparer quelques animations pour la station balnéaire, comme de la musique et de la danse !
 <b>\c[11]Madame S:</b>\c[0] My old friend Nikodim won't stop talking about Ludicolos as dancers, could you give me one?
-<b>\c[11]Madame S:</b>\c[0] My old friend Nikodim won't stop talking about Ludicolos as dancers, could you give me one?
+<b>\c[11]Madame S:</b>\c[0] Mon vieil ami Nikodim n'arrête pas de parler de ses danseurs Ludicolo, tu pourrais m'en donner un ?
 <b>\c[11]Madame S:</b>\c[0] If they are at least 50% as effective as Nikodim says, it will be unbelievable!
-<b>\c[11]Madame S:</b>\c[0] If they are at least 50% as effective as Nikodim says, it will be unbelievable!
+<b>\c[11]Madame S:</b>\c[0] S'il sont ce serait-ce que moitié aussi efficaces que ce que prétend Nikodim, ce serait déjà incroyable !
 <b>\c[11]Madame S:</b>\c[0] Do you have a Ludicolo for me?
-<b>\c[11]Madame S:</b>\c[0] Do you have a Ludicolo for me?
+<b>\c[11]Madame S:</b>\c[0] Est-ce que tu as un Ludicolo pour moi ?
 <b>\c[11]Madame S:</b>\c[0] Come back when you have one!
-<b>\c[11]Madame S:</b>\c[0] Come back when you have one!
+<b>\c[11]Madame S:</b>\c[0] Reviens quand tu en as un !
 <b>\c[11]Madame S:</b>\c[0] How spectacular! Thank you sweetie, maybe Nikodim was right actually!
-<b>\c[11]Madame S:</b>\c[0] How spectacular!  Thank you sweetie, maybe Nikodim was right actually!
+<b>\c[11]Madame S:</b>\c[0] Si spectaculaire ! Merci mon chéri, peut-être que Nikodim avait raison après tout !
 <b>\c[11]Madame S:</b>\c[0] Sweetie, I need your help once again!
-<b>\c[11]Madame S:</b>\c[0] Sweetie, I need your help once again!
+<b>\c[11]Madame S:</b>\c[0] Mon chéri, j'ai encore besoin de ton aide !
 <b>\c[11]Madame S:</b>\c[0] You do know that in Camosack, it's always sunny, right?
-<b>\c[11]Madame S:</b>\c[0] You do know that in Camosack, it's always sunny, right?
+<b>\c[11]Madame S:</b>\c[0] Tu sais qu'à Camosack, il fait toujours un grand soleil, pas vrai ?
 <b>\c[11]Madame S:</b>\c[0] As you're quite the smart one, I'm sure you figured it could be natural, right?
-<b>\c[11]Madame S:</b>\c[0] As you're quite the smart one, I'm sure you figured it could be natural, right?
+<b>\c[11]Madame S:</b>\c[0] Comme tu es si intelligent, tu as du comprendre que ça ne pouvait pas être naturel, si ?
 <b>\c[11]Madame S:</b>\c[0] I actually have a bunch of Pokémon that knows Sunny Day or have the ability Drought.
-<b>\c[11]Madame S:</b>\c[0] I actually have a bunch of Pokémon that knows Sunny Day or have the ability Drought.
+<b>\c[11]Madame S:</b>\c[0] En réalité, j'ai quelques Pokémon qui connaissent Zénith ou ont le Talent Sécheresse.
 <b>\c[11]Madame S:</b>\c[0] The thing is, I don't have enough of them! I don't want hem babies to be exploited!
-<b>\c[11]Madame S:</b>\c[0] The thing is, I don't have enough of them! I don't want hem babies to be exploited!
+<b>\c[11]Madame S:</b>\c[0] Le truc c'est que j'en ai pas assez ! Et je ne veux pas exploiter mes bébés !
 <b>\c[11]Madame S:</b>\c[0] Can you give me one?
-<b>\c[11]Madame S:</b>\c[0] Can you give me one?
+<b>\c[11]Madame S:</b>\c[0] Peux-tu m'en donner un ?
 <b>\c[11]Madame S:</b>\c[0] Do you have a Pokémon knowing Sunny Day or having the Drought ability?
-<b>\c[11]Madame S:</b>\c[0] Do you have a Pokémon knowing Sunny Day or having the Drought ability?
+<b>\c[11]Madame S:</b>\c[0] Est-ce que tu as un Pokémon connaissant Zénith ou ayant le talent Sécheresse ?
 <b>\c[11]Madame S:</b>\c[0] Thank you sweetie, it will be easier for everyone with more sun drawers!
-<b>\c[11]Madame S:</b>\c[0] Thank you sweetie, it will be easier for everyone with more sun drawers!
+<b>\c[11]Madame S:</b>\c[0] Merci mon chéri, ce sera plus facile pour tout le monde avec davantage d'invocateurs de soleil !
 <b>\c[11]Madame S:</b>\c[0] Sweetie, I know I asked a lot from you, but can you hear me out one more time?
-<b>\c[11]Madame S:</b>\c[0] Sweetie, I know I asked a lot from you, but can you hear me out one more time?
+<b>\c[11]Madame S:</b>\c[0] Mon chéri, je sais que je t'en demande beaucoup, mais peux-tu m'écouter une fois de plus ?
 <b>\c[11]Madame S:</b>\c[0] Ludicolos based shows are fun but, well, they can't do more that they... always do, right?
-<b>\c[11]Madame S:</b>\c[0] Ludicolos based shows are fun but, well, they can't do more that they...  always do, right?
+<b>\c[11]Madame S:</b>\c[0] Les shows à base de Ludicolos sont fun mais, bon, ils ne peuvent pas faire plus que ce qu'ils font... tout le temps, tu vois ?
 <b>\c[11]Madame S:</b>\c[0] To be honest, I would prefer to have some human performers, at least to go with them.
-<b>\c[11]Madame S:</b>\c[0] To be honest, I would prefer to have some human performers, at least to go with them.
+<b>\c[11]Madame S:</b>\c[0] Pour être honnête, je préfèrerais avoir quelques artistes humains, au moins pour les acoompagner.
 <b>\c[11]Madame S:</b>\c[0] But I can't really leave the place to recruit people you know?
-<b>\c[11]Madame S:</b>\c[0] But I can't really leave the place to recruit people you know?
+<b>\c[11]Madame S:</b>\c[0] Mais je peux pas vraiment partir d'ici pour recruter les gens tu sais ?
 <b>\c[11]Madame S:</b>\c[0] I know you're kinda exploring the country. If you find some performers, can you ask them to come here?
-<b>\c[11]Madame S:</b>\c[0] I know you're kinda exploring the country. If you find some performers, can you ask them to come here?
+<b>\c[11]Madame S:</b>\c[0] Je sais que t'es un peu en train d'explorer le pays. Si tu trouves des artistes, peux-tu leur demander de venir ici ?
 <b>\c[11]Madame S:</b>\c[0] In order to have a good show, we would need 5 people. Okay sweetie?
-<b>\c[11]Madame S:</b>\c[0] In order to have a good show, we would need 5 people. Okay sweetie?
+<b>\c[11]Madame S:</b>\c[0] Pour faire un bon show, il me faudrait 5 personnes. Ok mon chéri ?
 <b>\c[11]Madame S:</b>\c[0] Sweetie! We finally got 5 of them! I can't thank you enough!!
-<b>\c[11]Madame S:</b>\c[0] Sweetie! We finally got 5 of them! I can't thank you enough!!
+<b>\c[11]Madame S:</b>\c[0] Mon chéri ! On en a finalement 5 ! Je ne sais pas comment te remercier !!
 <b>\c[11]Madame S:</b>\c[0] Now this place will be like a never-ending party!
-<b>\c[11]Madame S:</b>\c[0] Now this place will be like a never-ending party!
+<b>\c[11]Madame S:</b>\c[0] Cet endroit est maintenant une fête perpétuelle !
 <b>\c[11]Madame S:</b>\c[0] Sweetie, you really impressed me lately by helping me with such hard tasks.
-<b>\c[11]Madame S:</b>\c[0] Sweetie, you really impressed me lately by helping me with such hard tasks.
+<b>\c[11]Madame S:</b>\c[0] Mon chéri, tu m'as vraiment impressionné dernièrement en m'aidant avec des tâches si complexes.
 <b>\c[11]Madame S:</b>\c[0] I don't really need anything more for the resort, but I have a little wish.
-<b>\c[11]Madame S:</b>\c[0] I don't really need anything more for the resort, but I have a little wish.
+<b>\c[11]Madame S:</b>\c[0] J'ai pas vraiment besoin de plus pour la station balnéaire, mais j'ai un petit souhait.
 <b>\c[11]Madame S:</b>\c[0] I want to see - just see, not have ! - a shiny Pokémon drawing the sun.
-<b>\c[11]Madame S:</b>\c[0] I want to see - just see, not have ! - a shiny Pokémon drawing the sun.
+<b>\c[11]Madame S:</b>\c[0] J'aimerais voir - juste voir, pas avoir ! - un Pokémon shiny capable d'invoquer le soleil.
 <b>\c[11]Madame S:</b>\c[0] In other words, a shiny Pokémon taht either knows Sunny Day, or have the Drought ability.
-<b>\c[11]Madame S:</b>\c[0] In other words, a shiny Pokémon taht either knows Sunny Day, or have the Drought ability.
+<b>\c[11]Madame S:</b>\c[0] Autrement dit, un Pokémon shiny qui soit connaît Zénith, soit possède le Talent Sécheresse.
 <b>\c[11]Madame S:</b>\c[0] What do you say, sweetie? Up for the task?
-<b>\c[11]Madame S:</b>\c[0] What do you say, sweetie? Up for the task?
+<b>\c[11]Madame S:</b>\c[0] Qu'est-ce que t'en dis mon chéri ? Tu t'en sens capable ?
 <b>\c[11]Madame S:</b>\c[0] Don't worry, I won't take it from you! I just want to see one!
-<b>\c[11]Madame S:</b>\c[0] Don't worry, I won't take it from you! I just want to see one!
+<b>\c[11]Madame S:</b>\c[0] Ne t'inquiète pas, je ne te le prendrai pas ! Je veux juste en voir un !
 <b>\c[11]Madame S:</b>\c[0] Do you have a shiny Pokémon knowing Sunny Day or having the Drought ability?
-<b>\c[11]Madame S:</b>\c[0] Do you have a shiny Pokémon knowing Sunny Day or having the Drought ability?
+<b>\c[11]Madame S:</b>\c[0] Est-ce que tu as un Pokémon shiny qui connaît Zénith ou possède le talent Sécheresse ?
 <b>\c[11]Madame S:</b>\c[0] That's really impressive sweetie! Is there something you can't do??
-<b>\c[11]Madame S:</b>\c[0] That's really impressive sweetie! Is there something you can't do??
+<b>\c[11]Madame S:</b>\c[0] C'est vraiment impressionnant mon chéri ! Est-ce qu'il y a quelque chose que tu ne peux pas faire ??
 <b>\c[11]Madame S:</b>\c[0] I know some people that would kill for such efficiency...
-<b>\c[11]Madame S:</b>\c[0] I know some people that would kill for such efficiency...
+<b>\c[11]Madame S:</b>\c[0] Je connais des personnes qui tuerait pour ce genre d'efficacité...
 <b>\c[11]Madame S:</b>\c[0] You had my sympathy, now you have my esteem.
-<b>\c[11]Madame S:</b>\c[0] You had my sympathy, now you have my esteem.
+<b>\c[11]Madame S:</b>\c[0] Tu avais ma sympathie, tu viens de gagner mon estime.
 The Normal Leader shows you a drawing of a Kecleon. They seem to love this Pokémon!
 Le Leader Normal vous montre le dessin d’un Kecleon. Iel a l’air d’adorer ce Pokémon !
 Maybe you should capture one and show it to them...
@@ -527,13 +527,13 @@ Le Leader Normal a l’air déçu…
 The Normal Leader seems really happy to see the Kecleon! They pet it a bit before handing it back to you.
 Le Leader Normal a l’air vraiment content de voir le Kecleon ! Iel lui fait quelques papouilles avant de vous le rendre.
 You have nothing to tell the Normal Leader about any quest.
-Vous n'avez rien à dire au Leader Normal concernant des quêtes (1).
+Vous n'avez rien à dire au Leader Normal concernant des quêtes.
 The Normal Leader looks to you with a flaming passion! Maybe they want a rematch?
 Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’iel veut une revanche ?
 They show you a piece of paper with a big "40" on it.
 Iel vous montre un papier avec un gros "40" dessus.
 They show you a piece of paper with a big "45" on it.
-They show you a piece of paper with a big "45" on it.
+Iel vous montre un papier avec un gros "45" dessus.
 The Normal Leader takes a combat stance!
 Le Leader Normal prend une position de combat !
 The Normal Leader seems glad to have rematched you!
@@ -553,15 +553,15 @@ Le Leader Normal vous regarde avec une intense détermination. Peut-être qu’i
 They show you a piece of paper with a big "60" on it.
 Iel vous montre un papier avec un gros "60" dessus.
 They show you a piece of paper with a big "65" on it.
-They show you a piece of paper with a big "65" on it.
+Iel vous montre un papier avec un gros "65" dessus.
 The Normal Leader show you a drawing of stars surronding a Pokémon!
-The Normal Leader show you a drawing of stars surronding a Pokémon!
+Le leader Normal vous montre un dessin d'un Pokémon entouré par des étoiles !
 Maybe they are talking about shinies?
-Maybe they are talking about shinies?
+Peut-être qu'iel veut parler de shinys ?
 As they are the Normal Leader, maybe they want to see a shiny Normal Pokémon?
-As they are the Normal Leader, maybe they want to see a shiny Normal Pokémon?
+Comme iel est le Leader Normal, peut-être qu'il veut voir un Pokémon Normal shiny ?
 The Normal Leader shows you the drawing of a Pokémon surronded by stars again?
-The Normal Leader shows you the drawing of a Pokémon surronded by stars again?
+Le Leader Normal vous montre de nouveau son dessin d'un Pokémon entouré par des étoiles ?
 <b>Kathleen:</b> Hey \pn, did I ever talked to you about Bug Poékmons early evolutions?
 <b>Kathleen:</b> Hey \pn, je t’ai déjà parlé du fait que les Pokémon insecte évoluent tôt ?
 <b>Kathleen:</b> It's really cool! They can be fully evolved really early!
@@ -577,7 +577,7 @@ The Normal Leader shows you the drawing of a Pokémon surronded by stars again?
 <b>Kathleen:</b> Not yet? Try in the Green Lush Forest!
 <b>Kathleen:</b> Pas encore ? Essaye dans la Forêt Verdoyante !
 You have nothing to tell Kathleen about any quest.
-Vous n'avez rien à dire à Kathleen concernant des quêtes (1).
+Vous n'avez rien à dire à Kathleen concernant des quêtes.
 <b>Kathleen:</b> Hey \pn, what do you say we have a little rematch here?
 <b>Kathleen:</b> Hey \pn, que dis-tu d’une petite revanche ?
 <b>Kathleen:</b> It's not an official battle so I won't limit my levels! Actually, my Pokémons are around level 40!
@@ -595,9 +595,9 @@ Vous n'avez rien à dire à Kathleen concernant des quêtes (1).
 <b>Kathleen:</b> Hey \pn, do you know about Net Balls?
 <b>Kathleen:</b> Hey \pn, tu connais les Filet Balls ?
 <b>Kathleen:</b> They are really useful for catching Bug (and Water) Pokémon!
-<b>Kathleen:</b> Elles sont vraiment utiles pour capturer des pokémon Insecte (et Eau) !
+<b>Kathleen:</b> Elles sont vraiment utiles pour capturer des Pokémon Insecte (et Eau) !
 <b>Kathleen:</b> Hey, can you show me a Bug Pokémon inside a Net Ball?
-<b>Kathleen:</b> Hey, Tu peux me montrer un Pokémon Insecte dans une Filet Ball ?
+<b>Kathleen:</b> Hey, tu peux me montrer un Pokémon Insecte dans une Filet Ball ?
 <b>Kathleen:</b> Do you have a Bug Pokémon inside a Net Ball?
 <b>Kathleen:</b> Est-ce que tu as un Pokémon Insecte dans une Filet Ball ?
 <b>Kathleen:</b> No? But it's really neat!
@@ -613,101 +613,101 @@ Vous n'avez rien à dire à Kathleen concernant des quêtes (1).
 <b>Kathleen:</b> Wowie! You're definitely super ultra mega strong!!!
 <b>Kathleen:</b> Wowie ! T'es définitivement super ultra mega trop fort !!!
 <b>Kathleen:</b> \pn, \pn, do you know what are shinies??
-<b>Kathleen:</b> \pn, \pn, do you know what are shinies??
+<b>Kathleen:</b> \pn, \pn, tu sais ce que sont les shinys ??
 <b>Kathleen:</b> Someone called, like, Marley I think? ...told me about them!
-<b>Kathleen:</b> Someone called, like, Marley I think?  ...told me about them!
+<b>Kathleen:</b> Quelqu'un appelé, genre, Marley je crois ? ...m'en a parlé !
 <b>Kathleen:</b> Can you show me a shiny bug- type Pokémon? Pretty pleaseeeee~
-<b>Kathleen:</b> Can you show me a shiny bug- type Pokémon? Pretty pleaseeeee~
+<b>Kathleen:</b> Est-ce que tu peux me montrer un Pokémon shiny type insecte ? S'il te plaiiiiit~
 <b>Kathleen:</b> Do you have a shiny Bug Pokémon ?
-<b>Kathleen:</b> Do you have a shiny Bug Pokémon ?
+<b>Kathleen:</b> Est-ce que tu as un Pokémon shiny type Insecte ?
 <b>Kathleen:</b> No? But I really want to see one!!
-<b>Kathleen:</b> No? But I really want to see one!!
+<b>Kathleen:</b> Non ? Mais je veux vraiment en voir un !!
 <b>Kathleen:</b> Weeeee! That's so cool! So pretty!
-<b>Kathleen:</b> Weeeee! That's so cool! So pretty!
+<b>Kathleen:</b> Weeeee ! C'est super cool ! Si joli !
 <b>Kathleen:</b> Its really rare, no?
-<b>Kathleen:</b> Its really rare, no?
+<b>Kathleen:</b> C'est vraiment rare, non ?
 <b>Kathleen:</b> But I really want to go catch my own shiny now!
-<b>Kathleen:</b> But I really want to go catch my own shiny now!
+<b>Kathleen:</b> Mais je veux vraiment aller capturer mon propre shiny maintenant !
 <b>Kathleen:</b> Thank you very much \pn, you're a really really good friend!!
-<b>Kathleen:</b> Thank you very much \pn, you're a really really good friend!!
+<b>Kathleen:</b> Merci beaucoup \pn, T'es vraiment un super super ami !
 You have nothing to tell Kathlenn about any quest.
-You have nothing to tell Kathlenn about any quest.
+Vous n'avez rien à dire à Kathleen concernant des quêtes.
 <b>Cassian:</b> Hey \pn, can you help me with something?
-<b>Cassian:</b> Hey \pn, can you help me with something?
+<b>Cassian:</b> Hey \pn, tu peux m'aider pour quelque chose ?
 <b>Cassian:</b> The Power Tunnel is, ironically, powered off since the recent earthquake.
-<b>Cassian:</b> The Power Tunnel is, ironically, powered off since the recent earthquake.
+<b>Cassian:</b> Le Tunnel Energie, ironiquement, n'a plus d'énergie depuis le récent séisme.
 <b>Cassian:</b> This is because the cables were damaged.
-<b>Cassian:</b> This is because the cables were damaged.
+<b>Cassian:</b> C'est parce que les câbles ont été endommagés.
 <b>Cassian:</b> Could you go there to repair the cables?
-<b>Cassian:</b> Could you go there to repair the cables?
+<b>Cassian:</b> Tu pourrais aller là-bas et les réparer ?
 <b>Cassian:</b> Thanks a lot! Here, take this item to help you!
-<b>Cassian:</b> Thanks a lot! Here, take this item to help you!
+<b>Cassian:</b> Merci beaucoup ! Tiens, prends cet objet pour t'aider !
 <b>Cassian:</b> Once all the cables on a floor have been repaired, head to the floor computer and activate it.
-<b>Cassian:</b> Once all the cables on a floor have been repaired, head to the floor computer and activate it.
+<b>Cassian:</b> Une fois que tous les câbles d'un étage ont été réparés, active l'ordinateur de l'étage.
 <b>Cassian:</b> Please tell me when both floors are powered on. Thanks again!
-<b>Cassian:</b> Please tell me when both floors are powered on. Thanks again!
+<b>Cassian:</b> Dis moi lorsque les deux étages seront allumés. Merci encore !
 <b>Cassian:</b> Hey \pn, how the powering of the tunnel is going?
-<b>Cassian:</b> Hey \pn, how the powering of the tunnel is going?
+<b>Cassian:</b> Hey \pn, comment se passe l'allumage du Tunnel ?
 <b>Cassian:</b> You powered both floors? Thanks a lot \pn! The Power Tunnel lives up his name now!
-<b>Cassian:</b> You powered both floors? Thanks a lot \pn! The Power Tunnel lives up his name now!
+<b>Cassian:</b> Tu as allumé les deux étages ? Merci beaucoup \pn ! Le Tunnel Energie porte bien son nom maintenant !
 You have nothing to tell Cassian about any quest.
-You have nothing to tell Cassian about any quest.
+Vous n'avez rien à dire à Kathleen concernant des quêtes.
 <b>Cassian:</b> Hello \pn, how is your day? Would you be so kind to offer me a rematch?
-<b>Cassian:</b> Hello \pn, how is your day? Would you be so kind to offer me a rematch?
+<b>Cassian:</b> Bonjour \pn, comment se passe ta journée ? Aurais-tu l'aimabilité de m'offrir une revanche ?
 <b>Cassian:</b> My team will be a bit stronger! My Pokémon are around level 45!
-<b>Cassian:</b> My team will be a bit stronger! My Pokémon are around level 45!
+<b>Cassian:</b> Mon équipe sera un peu plus forte ! Mes Pokémon seront vers le niveau 45 !
 <b>Cassian:</b> Ready for the rematch?
-<b>Cassian:</b> Ready for the rematch?
+<b>Cassian:</b> Prêt pour la revanche ?
 <b>Cassian:</b> Another loss for me eh? You're definitely strong, dear colleague... Congrats!
-<b>Cassian:</b> Another loss for me eh? You're definitely strong, dear colleague... Congrats!
+<b>Cassian:</b> Une autre défaite pour moi hein ? T'es vraiment fort, cher collègue... Félicitations !
 <b>Cassian:</b> \pn, do you know about Dusk Balls?
-<b>Cassian:</b> \pn, do you know about Dusk Balls?
+<b>Cassian:</b> \pn, tu connais les Sombre Balls ?
 <b>Cassian:</b> These Balls are especially effective at night or inside caves.
-<b>Cassian:</b> These Balls are especially effective at night or inside caves.
+<b>Cassian:</b> Ces Balls sont particulièrement efficaces de nuit ou à l'intérieur des grottes.
 <b>Cassian:</b> As most of Rock Pokémon live inside caves, I really like them!
-<b>Cassian:</b> As most of Rock Pokémon live inside caves, I really like them!
+<b>Cassian:</b> Comme beaucoup de Pokémon Roche vivent dans des grottes, je les aime beaucoup !
 <b>Cassian:</b> Hey, try it yourself! Show me a Rock Pokémon inside a Dusk Ball!
-<b>Cassian:</b> Hey, try it yourself! Show me a Rock Pokémon inside a Dusk Ball!
+<b>Cassian:</b> Hey, essaye par toi-même ! Montre moi un Pokémon Roche dans une Sombre Ball !
 <b>Cassian:</b> Do you have a Rock Pokémon inside a Dusk Ball?
-<b>Cassian:</b> Do you have a Rock Pokémon inside a Dusk Ball?
+<b>Cassian:</b> Est-ce que tu as un Pokémon Roche dans une Sombre Ball !
 <b>Cassian:</b> No? You should really try it!
-<b>Cassian:</b> No? You should really try it!
+<b>Cassian:</b> Non ? Tu devais vraiment essayer !
 <b>Cassian:</b> Hey, nice one! Dusk Ball are really useful right?
-<b>Cassian:</b> Hey, nice one! Dusk Ball are really useful right?
+<b>Cassian:</b> Hey, pas mal ! Les Sombre Balls sont vraiment utile non ?
 <b>Cassian:</b> \pn, I would like a final rematch! This time, I'll give my very best!
-<b>Cassian:</b> \pn, I would like a final rematch! This time, I'll give my very best!
+<b>Cassian:</b> \pn, j'aimerais une dernière revanche ! Cette fois, je me donnerai à fond !
 <b>Cassian:</b> My team is even stronger! My Pokémon are around level 60!
-<b>Cassian:</b> My team is even stronger! My Pokémon are around level 60!
+<b>Cassian:</b> Mon équipe est encore plus forte ! Mes Pokémon sont environ niveau 60 !
 <b>Cassian:</b> Ready for the final rematch?
-<b>Cassian:</b> Ready for the final rematch?
+<b>Cassian:</b> Prêt pour cette ultime revanche ?
 <b>Cassian:</b> Still a loss eh? My, dear colleague, you're something else! I can only bow my head... Congratulations!
-<b>Cassian:</b> Still a loss eh? My, dear colleague, you're something else! I can only bow my head...  Congratulations!
+<b>Cassian:</b> Toujours une défaite hein ? Eh ben, cher collègue, t'es quelqu'un ! Je ne peux que m'incliner... Félicitations !
 <b>Cassian:</b> Hey \pn, can I ask you something?
-<b>Cassian:</b> Hey \pn, can I ask you something?
+<b>Cassian:</b> Hey \pn, je peux te demander quelque chose ?
 <b>Cassian:</b> I heard about shinies! Do you know about them?
-<b>Cassian:</b> I heard about shinies! Do you know about them?
+<b>Cassian:</b> J'ai entendu parler des shinys ! Tu connais ?
 <b>Cassian:</b> I really want to see a shiny rock Pokémon! Do you have one?
-<b>Cassian:</b> I really want to see a shiny rock Pokémon! Do you have one?
+<b>Cassian:</b> J'ai vraiment envie de voir un Pokémon shiny type Roche ! T'en as un ?
 <b>Cassian:</b> Do you have a shiny Rock Pokémon?
-<b>Cassian:</b> Do you have a shiny Rock Pokémon?
+<b>Cassian:</b> Est-ce que tu as un Pokémon shiny type Roche ?
 <b>Cassian:</b> No? Unlucky me!
-<b>Cassian:</b> No? Unlucky me!
+<b>Cassian:</b> Non ? Pas de chance !
 <b>Cassian:</b> Oho! Know I see why people love this! It's really exciting!! Thanks a lot, \pn!
-<b>Cassian:</b> Oho! Know I see why people love this! It's really exciting!! Thanks a lot, \pn!
+<b>Cassian:</b> Oho ! Maintenant je vois pourquoi les gens adorent ça ! C'est vraiment excitant !! Merci beaucoup, \pn !
 You can't spend time now: it's not the Weekend or Wednesday!
 Impossible de passer du temps : ce n'est ni le Weekend ni Mercredi !
 Do you want to spend time with Prof Maple? <b>Warning: The weekend or wednesday will be over!</b>
-Voulez-vous passer du temps avec le Prof Maple ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+Voulez-vous passer du temps avec le Prof Maple ? <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with Marley? <b>Warning: The weekend or wednesday will be over!</b>
-Voulez-vous passer du temps avec Marley ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+Voulez-vous passer du temps avec Marley ? <b>Attention : cela mettra fin au weekend/mercredi !</b>
 You spend time at the Casino with Marley. Luckily, he pays for everything!
 Vous passez du temps au Casino avec Marley. Heureusement, il paye tout !
 Do you want to spend time with Melly? <b>Warning: The weekend or wednesday will be over!</b>
-Voulez-vous passer du temps avec Melly ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
+Voulez-vous passer du temps avec Melly ? <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with Samy? <b>Warning: The weekend or wednesday will be over!</b>
-Do you want to spend time with Samy?  <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec Samy ? <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with Madame S? <b>Warning: The weekend or wednesday will be over!</b>
-Do you want to spend time with Madame S?  <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec Madame S ? <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with the nurses? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec les infirmières ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with the Normal Leader? <b>Warning: The weekend or wednesday will be over!</b>
@@ -715,7 +715,7 @@ Voulez-vous passer du temps avec le Leader Normal ?  <b>Attention : cela mettra 
 Do you want to spend time with Kathleen? <b>Warning: The weekend or wednesday will be over!</b>
 Voulez-vous passer du temps avec Kathleen ?  <b>Attention : cela mettra fin au weekend/mercredi !</b>
 Do you want to spend time with Cassian? <b>Warning: The weekend or wednesday will be over!</b>
-Do you want to spend time with Cassian?  <b>Warning: The weekend or wednesday will be over!</b>
+Voulez-vous passer du temps avec Cassian ? <b>Attention : cela mettra fin au weekend/mercredi !</b>
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 2!
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 2 !
 <b>\c[10]Maple:</b>\c[0] It's a really good thing we can continue forward.
@@ -737,79 +737,85 @@ Do you want to spend time with Cassian?  <b>Warning: The weekend or wednesday wi
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 3!
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations pour avoir atteint le rang 3 !
 <b>\c[10]Maple:</b>\c[0] I also received an e-mail from the League telling me about this Samy guy, hum?
-<b>\c[10]Maple:</b>\c[0] I also received an e-mail from the League telling me about this Samy guy, hum?
+<b>\c[10]Maple:</b>\c[0] J’ai aussi reçu un mail de la League me parlant de ce “Samy”, hein ?
 <b>\c[10]Maple:</b>\c[0] I’m glad you found someone! Let’s call the whole squad and talk a bit…
-<b>\c[10]Maple:</b>\c[0] I’m glad you found someone!  Let’s call the whole squad and talk a bit…
+<b>\c[10]Maple:</b>\c[0] Je suis content que tu ais trouvé quelqu’un ! Rassemblons toute l’équipe et discutons un peu…
 A few minutes later...
-A few minutes later...
+Quelques minutes plus tard
 <b>\c[10]Maple:</b>\c[0] So, here are your new quests, \pn.
-<b>\c[10]Maple:</b>\c[0] So, here are your new quests, \pn.
+<b>\c[10]Maple:</b>\c[0] Donc, voici tes nouvelles quêtes, \pn.
+<b>\c[10]Maple:</b>\c[0] Your next badge is the Normal Gym, at Titaga.
+<b>\c[10]Maple:</b>\c[0] Your next badge is the Normal Gym, at Titaga.
 <b>\c[10]Maple:</b>\c[0] Your next badge is Nikodim’s Grass Gym, at Titaga.
-<b>\c[10]Maple:</b>\c[0] Your next badge is Nikodim’s Grass Gym, at Titaga.
+<b>\c[10]Maple:</b>\c[0] Ton prochain badge est celui de l’Arène Plante de Nikodim, à Titaga.
 <b>\c[10]Maple:</b>\c[0] To reach Titaga, go south from Greymoose.
-<b>\c[10]Maple:</b>\c[0] To reach Titaga, go south from Greymoose.
+<b>\c[10]Maple:</b>\c[0] Pour atteindre Titaga, pars de Greymoose en direction du sud.
 <b>\c[10]Maple:</b>\c[0] Titaga is also called the Flower Valley, because its located between two mountains.
-<b>\c[10]Maple:</b>\c[0] Titaga is also called the Flower Valley, because its located between two mountains.
+<b>\c[10]Maple:</b>\c[0] Titaga est parfois appelée la Vallée des fleurs, car située entre deux montagnes.
 <b>\c[10]Maple:</b>\c[0] It’s a very charming place, truly!
-<b>\c[10]Maple:</b>\c[0] It’s a very charming place, truly!
+<b>\c[10]Maple:</b>\c[0] C’est un endroit vraiment charmant!
 <b>\c[10]Maple:</b>\c[0] About our Gym, we need to keep growing. Next objective is fame rank 10.
-<b>\c[10]Maple:</b>\c[0] About our Gym, we need to keep growing. Next objective is fame rank 10.
+<b>\c[10]Maple:</b>\c[0] En ce qui concerne notre Arène, nous devons continuer à grandir. Prochain objectif : Fame rang 10.
 <b>\c[10]Maple:</b>\c[0] Now that we have Samy, it can be easier!
-<b>\c[10]Maple:</b>\c[0] Now that we have Samy, it can be easier!
+<b>\c[10]Maple:</b>\c[0] Maintenant qu’on a Samy, ce sera plus facile !
 <b><c3=BDA46A,736440>Samy:</b></c3> Haha! I will do my best! I hope Melly will be patient with me!
-<b><c3=BDA46A,736440>Samy:</b></c3> Haha! I will do my best! I hope Melly will be patient with me!
+<b><c3=BDA46A,736440>Samy:</b></c3> Haha ! Je ferai de mon mieux ! J’espère que Melly sera patiente avec moi !
 <b>\c[9]Melly:</b>\c[0] O-oh of course! I think you’re a really good person!
-<b>\c[9]Melly:</b>\c[0] O-oh of course! I think you’re a really good person!
+<b>\c[9]Melly:</b>\c[0] O-oh bien sûr ! J’ai l’impression que t’es vraiment une bonne personne !
 <b><c3=BDA46A,736440>Samy:</b></c3> Thank you little one! Prof, did \pn tell you exactly why I’m here ?
-<b><c3=BDA46A,736440>Samy:</b></c3> Thank you little one! Prof, did \pn tell you exactly why I’m here ?
+<b><c3=BDA46A,736440>Samy:</b></c3> Merci ma p’tite ! Prof, \pn t’as dit exactement pourquoi j’étais là ?
 <b>\c[10]Maple:</b>\c[0] Hmm no, not really…
-<b>\c[10]Maple:</b>\c[0] Hmm no, not really…
+<b>\c[10]Maple:</b>\c[0] Hmm non, pas vraiment…
 <b><c3=BDA46A,736440>Samy:</b></c3> Let me explain.
-<b><c3=BDA46A,736440>Samy:</b></c3> Let me explain.
+<b><c3=BDA46A,736440>Samy:</b></c3> Laissez-moi vous expliquer.
 Samy tells Maple and Melly everything that happened in Greymoose, including the conversation with Tom and Cassian.
-Samy tells Maple and Melly everything that happened in Greymoose, including the conversation with Tom and Cassian.
+Samy raconte à Maple et Melly tout ce qui s’est passé à Greymoose, y compris la discussion avec Tom et Cassian.
 <b>\c[10]Maple:</b>\c[0] Hmmm… A most complex situation indeed…
-<b>\c[10]Maple:</b>\c[0] Hmmm… A most complex situation indeed…
+<b>\c[10]Maple:</b>\c[0] Hmmm… Une situation des plus complexes en effet…
 <b>\c[10]Maple:</b>\c[0] I’ve known Aristarque for a really long time, going back when we both learned under our master.
-<b>\c[10]Maple:</b>\c[0] I’ve known Aristarque for a really long time, going back when we both learned under our master.
+<b>\c[10]Maple:</b>\c[0] Je connais Aristarque depuis très longtemps, depuis l’époque où nous apprenions de notre maître.
 <b>\c[10]Maple:</b>\c[0] This man is too carefree, reckless even. So you might really be onto something.
-<b>\c[10]Maple:</b>\c[0] This man is too carefree, reckless even. So you might really be onto something.
+<b>\c[10]Maple:</b>\c[0] Cet homme est trop insouciant, inconscient même. C’est bien possible qu’il y ait quelque chose.
 <b><c3=BDA46A,736440>Samy:</b></c3> That’s why I’m gonna search for a cave, a tunnel near the city.
-<b><c3=BDA46A,736440>Samy:</b></c3> That’s why I’m gonna search for a cave, a tunnel near the city.
+<b><c3=BDA46A,736440>Samy:</b></c3> C'est pourquoi je vais chercher une grotte, un tunnel près de la ville.
 <b>\c[10]Maple:</b>\c[0] Okay Samy, thank you for your help!
-<b>\c[10]Maple:</b>\c[0] Okay Samy, thank you for your help!
+<b>\c[10]Maple:</b>\c[0] Ok Samy, merci pour ton aide !
 <b>\c[10]Maple:</b>\c[0] And for the third quest, Melly has something to ask you…
-<b>\c[10]Maple:</b>\c[0] And for the third quest, Melly has something to ask you…
+<b>\c[10]Maple:</b>\c[0] Et pour la troisième quête, Melly a quelque chose à te demander…
 <b>\c[9]Melly:</b>\c[0] R-right! \pn, there is this yearly tournament that takes place at Camosack!
-<b>\c[9]Melly:</b>\c[0] R-right! \pn, there is this yearly tournament that takes place at Camosack!
+<b>\c[9]Melly:</b>\c[0] A-ah oui ! \pn il y a ce tournoi annuel qui se passe à Camosack !
 <b>\c[9]Melly:</b>\c[0] Do you know about Camosack? It’s a beach resort where it’s always sunny!!
-<b>\c[9]Melly:</b>\c[0] Do you know about Camosack? It’s a beach resort where it’s always sunny!!
+<b>\c[9]Melly:</b>\c[0] Tu connais Camosack ? C’est une station balnéaire qui est toujours ensoleillée !!
 <b>\c[9]Melly:</b>\c[0] C-can you go with me? I mean, the tournament has two phases:
-<b>\c[9]Melly:</b>\c[0] C-can you go with me? I mean, the tournament has two phases:
+<b>\c[9]Melly:</b>\c[0] Tu… tu peux venir avec moi ? Je veux dire, le tournoi est en deux parties :
 <b>\c[9]Melly:</b>\c[0] First, the solo tournament, and then a duo tournament.
-<b>\c[9]Melly:</b>\c[0] First, the solo tournament, and then a duo tournament.
+<b>\c[9]Melly:</b>\c[0] D’abord, le tournoi solo, puis le tournoi duo.
 <b>\c[9]Melly:</b>\c[0] I… I don’t wanna team up with a stranger, so come with me please!
-<b>\c[9]Melly:</b>\c[0] I… I don’t wanna team up with a stranger, so come with me please!
+<b>\c[9]Melly:</b>\c[0] Je… je veux pas être avec un inconnu, donc s’il te plaît viens avec moi !
 <b>\c[9]Melly:</b>\c[0] Yay!! Here, you’ll need this to get to Camosack!
-<b>\c[9]Melly:</b>\c[0] Yay!! Here, you’ll need this to get to Camosack!
+<b>\c[9]Melly:</b>\c[0] Ouais !! Tiens, t'auras besoin de ça pour entrer à Camosack !
 <b>\c[10]Maple:</b>\c[0] As I said before, I think cohesion is important so…
-<b>\c[10]Maple:</b>\c[0] As I said before, I think cohesion is important so…
+<b>\c[10]Maple:</b>\c[0] Comme je l’ai déjà dit, je pense que la cohésion d’équipe est importante donc…
 <b>\c[10]Maple:</b>\c[0] Your third quest is actually to take on this tournament with Melly!
-<b>\c[10]Maple:</b>\c[0] Your third quest is actually to take on this tournament with Melly!
+<b>\c[10]Maple:</b>\c[0] Ta troisième quête est en fait de participer à ce tournoi avec Melly !
 <b>\c[9]Melly:</b>\c[0] Hehe~ But be careful \pn: this tournament can be quite difficult.
-<b>\c[9]Melly:</b>\c[0] Hehe~ But be careful \pn: this tournament can be quite difficult.
+<b>\c[9]Melly:</b>\c[0] Hehe~ Mais attention \pn : ce tournoi peut être assez difficile.
 <b>\c[9]Melly:</b>\c[0] Maybe you should go get Titaga’s badge first, train a bit… As you wish!
-<b>\c[9]Melly:</b>\c[0] Maybe you should go get Titaga’s badge first, train a bit… As you wish!
+<b>\c[9]Melly:</b>\c[0] Peut-être que tu devrais aller chercher le badge de Titaga avant, t'entraîner un peu... C'est toi qui vois !
 <b>\c[9]Melly:</b>\c[0] And don't forget that you can only go to Camosack on weekends...
-<b>\c[9]Melly:</b>\c[0] And don't forget that you can only go to Camosack on weekends...
+<b>\c[9]Melly:</b>\c[0] Et n'oublies pas que Camosack n'est accessible que les weekends...
 <b>\c[9]Melly:</b>\c[0] Anyway, let’s just meet at Camosack ok? Sign up for the tournament and we meet up on the beach!
-<b>\c[9]Melly:</b>\c[0] Anyway, let’s just meet at Camosack ok? Sign up for the tournament and we meet up on the beach!
+<b>\c[9]Melly:</b>\c[0] Enfin bref, on se donne rendez-vous là-bas \pn okay ? Inscris-toi au tournoi et on se retrouve sur la plage !
 <b>\c[10]Maple:</b>\c[0] Good luck to you both!
-<b>\c[10]Maple:</b>\c[0] Good luck to you both!
+<b>\c[10]Maple:</b>\c[0] Bonne chance à vous deux !
 <b>\c[9]Melly:</b>\c[0] Thank you prof!!
-<b>\c[9]Melly:</b>\c[0] Thank you prof!!
+<b>\c[9]Melly:</b>\c[0] Merci prof !
 <b>\c[10]Maple:</b>\c[0] And that’s all for today! \pn, good luck with your quest for rank 4!
-<b>\c[10]Maple:</b>\c[0] And that’s all for today! \pn, good luck with your quest for rank 4!
+<b>\c[10]Maple:</b>\c[0] Et c’est tout pour aujourd’hui ! \pn, bonne chance dans ta quête pour le rang 4 !
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 4!
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 4!
+Dev note: End of current build. Please wait for the next update!
+Dev note: End of current build. Please wait for the next update!
 What do you want to know?
 Que voulez-vous savoir ?
 You have 3 options:\n- Full animation
@@ -839,11 +845,11 @@ La région était peuplée principalement de petits campements de chasseurs vena
 Inhabitants of Tlingit, mainly people coming from Paldea, never really wanted to colonize all Nekanta, but they gave it its name.
 Les habitants de Tlingit, venant principalement de Paldea, n’ont jamais vraiment voulu coloniser tout Nekanta, mais lui ont donné son nom.
 Interestingly, the name of most of Nekanta’s cities come from them too, a sort of a tradition that still exists today !
-Interestingly, the name of most of Nekanta’s cities come from them too, a sort of a tradition that still exists today !
+Il est intéressant de noter que la plupart des noms de villes de Nekanta viennent d'eux également, une tradition qui perdure encore aujourd'hui !
 Tlingitis, as they call themselves, stayed on a small part of the land, saying it was more than enough for them.
 Les Tlingitis, comme ils se nomment, sont restés dans une petite partie des terres, déclarant que c’était largement suffisant pour eux.
 Nekanta’s northern islands, including Nunavut, were mostly deserted save for a few hunters from the faraway islands,
-Les îles du nord de Nekanta, en particulier Nunavut, étaient principalement désertes à part quelques chasseurs venus des îles Faraway,
+Les îles du nord de Nekanta, en particulier Nunavut, étaient principalement désertes à part quelques chasseurs venus des Îles Faraway,
 but they never really wanted to settle there.
 mais ils n’ont jamais eu l’intention de s’y installer.
 At the time, a lot of Pokémon already roamed the place, coming from The Continent via Tlingit,
@@ -979,7 +985,7 @@ avec ses qualités organisationnelles héritées de son père le PDG de Devon SA
 The goal of this organisation is to assemble Champions from different regions,
 Le but de l’organisation était de rassembler les Maîtres des différentes régions,
 who could discuss improvements for the future of Pokémon battles, or even resolve inter-regional conflicts.
-wqui pourraient alors discuter d’améliorations pour le futur des combats Pokémon, ou même pour résoudre des conflits inter-régions.
+qui pourraient alors discuter d’améliorations pour le futur des combats Pokémon, ou même pour résoudre des conflits inter-régions.
 Quickly enough, all of the current known League Champions agreed to be part of the Organisation, with Steven Stone being on the lead.
 Assez rapidement, tous les Maîtres des régions connues ont accepté de rejoindre l’organisation, avec Pierre Rochard à leur tête.
 Today, everyone considers a Pokémon League “official” when - and only when - it is approved by the Inter-League Organisation.
@@ -1387,7 +1393,7 @@ to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumb
 <b>Aristarque:</b> Our dear Tom, whom you may know by being the former \gt Leader, investigated a potential stronghold of Team Absolution.
 <b>Aristarque:</b> Notre cher Tom, que vous connaissez peut-être comme l'ancien Leader \gt par intérim, menait l’enquête sur ce qui pouvait être une base de la Team Absolution.
 <b>Aristarque:</b> He was with 3 of his friends, including our new \gt Leader. But it turns out it was actually their headquarters!
-<b>Aristarque:</b> He was with 3 of his friends, including our new \gt Leader. But it turns out it was actually their headquarters!
+<b>Aristarque:</b> Il était avec 3 de ses amis, y compris notre nouvelle Leader \gt. Mais il s'avère que c'était leur QG !
 <b>Aristarque:</b> It was a kind of a trap because me and the Elite 4 were lured out to a false alarm in Moonyang.
 <b>Aristarque:</b> C’était une sorte de piège car le Conseil 4 et moi-même avons été envoyés sur une fausse alerte à Moonyang.
 <b>Aristarque:</b> Tom and his friends were then cornered by the powerful Leader of the Team!
@@ -1398,14 +1404,56 @@ to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumb
 <b>Aristarque:</b> Avec Cecily et Callistrate, on les a facilement défaits ! Donc ils sont tous en état d’arrestation désormais !
 <b>Reporter:</b> We can’t thank Aristarque enough! Thanks to him, the vile Team Absolution is finally behind us! Studios, back to you!
 <b>Reporter:</b> Nous ne pourrons jamais assez remercier Aristarque ! Grâce à lui, l’ignoble Team Absolution est enfin de l’histoire ancienne ! A vous les studios !
+<b>Safari Attendant:</b> Which one do you want?
+<b>Hôte du Safari:</b> Tu veux lequel ?
+<b>Safari Attendant:</b> Are you sure you want a Chingling?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Korillon ?
+<b>Safari Attendant:</b> Are you sure you want a Magby?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Magby ?
+<b>Safari Attendant:</b> Are you sure you want a Wooloo?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Moumouton ?
+<b>Safari Attendant:</b> Are you sure you want a Paras?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Paras ?
+<b>Safari Attendant:</b> Are you sure you want a Drowzee?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Soporifik ?
+<b>Safari Attendant:</b> Are you sure you want a Shuckle?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Caratroc ?
+<b>Safari Attendant:</b> Are you sure you want a Spinarak?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Mimigal ?
+<b>Safari Attendant:</b> Are you sure you want an Exeggcute?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Noeunoeuf ?
+<b>Safari Attendant:</b> Are you sure you want a Heracross?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Scarhino ?
+<b>Safari Attendant:</b> Are you sure you want a Mantyke?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Babimanta ?
+<b>Safari Attendant:</b> Are you sure you want a Carvanha?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Carvanha ?
+<b>Safari Attendant:</b> Are you sure you want a Flamigo?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Flamenroule ?
+<b>Safari Attendant:</b> Are you sure you want an Alomomola?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Mamambo ?
+<b>Safari Attendant:</b> Are you sure you want a Phanpy?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Phanpy ?
+<b>Safari Attendant:</b> Are you sure you want a Tympole?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Tritonde ?
+<b>Safari Attendant:</b> Are you sure you want a Tentacool?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Tentacool ?
+<b>Safari Attendant:</b> Are you sure you want a Clamperl?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Coquiperl ?
+<b>Safari Attendant:</b> Are you sure you want a Veluza?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Délestin ?
+<b>Safari Attendant:</b> Are you sure you want a Luvdisc?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Lovdisc ?
+<b>Safari Attendant:</b> Are you sure you want a Clauncher?
+<b>Hôte du Safari:</b> Tu es sûr de vouloir un Flingouste ?
 <b><c3=BDA46A,736440>Samy:</b></c3> All is right with you pal? Hahah!
 <b><c3=BDA46A,736440>Samy:</b></c3> Tout va bien ? Hahah !
 <b>Skitty:</b> Skiiiiii!
 <b>Skitty:</b> Skiiiiii!
 <b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready.
-<b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready.
+<b>\c[9]Melly:</b>\c[0] Je crois qu'on peut parler à madame S quand on est prêts.
 <b>Elder:</b> I hope we find the well soon!
-<b>Elder:</b> I hope we find the well soon!
+<b>Papy:</b> J'espère qu'on trouvera bientôt le puit !
 Evaluate Pokédex
 Evaluer Pokédex
 Quit
@@ -1434,3 +1482,45 @@ Mono Battles
 Combats Solo
 Double Battles
 Combats Double
+Chingling
+Korillon
+Magby
+Magby
+Wooloo
+Moumouton
+Paras
+Paras
+Drowzee
+Soporifik
+Shuckle
+Caratroc
+Spinarak
+Mimigal
+Exeggcute
+Noeunoeuf
+Heracross
+Scarhino
+Change Zone
+Changer de zone
+Mantyke
+Babimanta
+Carvanha
+Carvanha
+Flamigo
+Flamenroule
+Alomomola
+Mamambo
+Phanpy
+Phanpy
+Tympole
+Tritonde
+Tentacool
+Tentacool
+Clamperl
+Coquiperl
+Veluza
+Délestin
+Luvdisc
+Lovdisc
+Clauncher
+Flingouste

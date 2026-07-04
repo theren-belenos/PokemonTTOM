@@ -1,0 +1,70 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map038]
+You pick up Henry's bag!
+Vous ramassez le sac d’Henry !
+<b>Henry:</b> Ho hello there young \pn, may I require your assistance?
+<b>Henry:</b> Ho bonjour jeune \pn, puis-je te demander un service ?
+<b>Henry:</b> A group of vile and nasty pokémons just stole my bag!
+<b>Henry:</b> Un groupe de Pokémon vils et coquins viennent de me subtiliser mon sac !
+<b>Henry:</b> Can you bring it back to me?
+<b>Henry:</b> Pourrais-tu me le ramener ?
+<b>Henry:</b> Be careful though, they seemed kinda strong!
+<b>Henry:</b> Sois très prudente : ils avaient l’air raisonnablement forts !
+<b>Henry:</b> No pressure on you young \pn, I'm in no hurry. You can come back later if you prefer.
+<b>Henry:</b> Aucune pression jeune \pn, je ne suis pas pressé. Tu peux revenir ultérieurement si cela te sied.
+You got your first red quest! These are \c[2]<b>battle quest</b>\c[0].
+Vous avez obtenu votre première quête rouge ! Ce sont des \c[2]<b>quêtes de combat</b>\c[0].
+They require you to win a battle in order to complete the quest.
+Vous aurez besoin de remporter un combat pour compléter ces quêtes.
+To make sure you don't run into something out of your reach, you can see the recommended level on your quest log
+Pour pas que vous vous retrouviez dans un combat de trop haut niveau, vous pouvez voir le niveau recommandé dans la liste des quêtes.
+Here, this quest is probably too difficult for you for now. Come back later!
+Cette quête est sans doute trop difficile pour vous actuellement. Revenez plus tard !
+Don't forget to check!
+N’oubliez pas de vérifier !
+<b>Henry:</b> Take your time young \pn, I'm in no hurry.
+<b>Henry:</b> Prends ton temps jeune \pn, je ne suis pas pressé.
+<b>Henry:</b> You got it? Marvelous!
+<b>Henry:</b> Tu l’as récupéré ? Remarquable !
+You give the bag to Henry.
+Vous donnez le sac à Henry.
+<b>Henry:</b> You are a brave kid \pn, thank you very much.
+<b>Henry:</b> Tu est bien brave \pn, merci beaucoup.
+<b>Henry:</b> I have something for the braves of your kind...
+<b>Henry:</b> J’ai quelque chose pour les braves de ton espèce…
+<b>Henry:</b> Well its time for me to go back home! See you later young \pn.
+<b>Henry:</b> Bien, il est temps pour moi de rentrer dans ma demeure. A la revoyure, jeune \pn.
+<b>Delibird:</b> Deliiiii!
+<b>Cadoizo:</b> Doizoooo!
+<b>Vulpix:</b> Vuuuuul!
+<b>Goupix:</b> Piiiiiiiix!
+<b>Elder:</b> Hello little one. I heard there are some wilds Vulpix on this Route.
+<b>Mamie:</b> Bonjour ma petite. J’ai entendu dire qu’il y avait des Goupix sauvages sur cette Route.
+<b>Elder:</b> If you happen to have one, would you exchange it for my sweet Delibird?
+<b>Mamie:</b> S'il s‘avère que tu en as un, voudrais-tu me l’échanger contre mon gentil Cadoizo ?
+<b>Elder:</b> Are you sure? He is really sweet!
+<b>Mamie:</b> Tu es sûre ? Il est vraiment adorable !
+<b>Elder:</b> Very well, let us begin.
+<b>Mamie:</b> Très bien, commençons.
+Santa Claus
+Papa Noël
+Elder
+Mamie
+\pn traded Vulpix for Delibird!
+\pn a échangé Goupix contre Cadoizo !
+<b>Elder:</b> Thank you little one, I will take good care of it. See you soon!
+<b>Mamie:</b> Merci à toi ma petite, j’en prendrai bien soin. A bientôt !
+<b>Elder:</b>Do you want to exchange a Vulpix for my sweet Delibird?
+<b>Mamie:</b> Veux-tu échanger un Goupix contre mon gentil Cadoizo ?
+<b>Elder:</b> Hello little one. Don't mind me, I'm just enjoying the fresh air.
+<b>Mamie:</b> Bonjour à toi. Ne fais pas attention à moi, je profite juste de l’air frais.
+<b>Aron:</b> Do you see my cool cap?
+<b>Aron:</b> Tu veux voir ma casquette trop cool ??
+<b>Aron:</b> I bet you want a cool cap too!
+<b>Aron:</b> Je suis sûr que t’aimerais avoir une casquette aussi cool !
+Yes
+Oui
+No
+Non

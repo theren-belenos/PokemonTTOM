@@ -594,19 +594,22 @@ Pokemon = DITTO,27
 [CASSIAN,Cassian]
 Items = SUPERPOTION,SUPERPOTION
 LoseText = You rock!
-Pokemon = MINIOR,25
-    Item = SITRUSBERRY
-    EV = 10,0,0,60,60,0
-	Moves = STEALTHROCK,ANCIENTPOWER,SELFDESTRUCT,HIDDENPOWER
-Pokemon = LILEEP,25
-	Item = BIGROOT
-	AbilityIndex = 2
-    EV = 10,0,60,0,0,60
-	Moves = INGRAIN,MEGADRAIN,CONFUSERAY,ANCIENTPOWER
-Pokemon = GIGALITH,27
+Pokemon = GRAVELER,25
+    AbilityIndex = 1
+    Item = SMOOTHROCK
+    EV = 10,60,60,0,0,0
+	Moves = STEALTHROCK,SANDSTORM,SELFDESTRUCT,SMACKDOWN
+Pokemon = AERODACTYL,25
+	AbilityIndex = 0
+	Item = SITRUSBERRY
+    EV = 10,60,0,60,0,0
+	Moves = BITE,STEELWING,ROCKBLAST,WINGATTACK
+Pokemon = LYCANROC,27
+	Form = 2
+	AbilityIndex = 0
 	Item = ROCKGEM
     EV = 10,60,0,60,0,0
-	Moves = HEADBUTT,IRONDEFENSE,ROCKSMASH,ROCKBLAST
+	Moves = SUCKERPUNCH,ROCKBLAST,ACCELEROCK,BITE
 
 #-------------------------------------------------------------
 #
@@ -745,12 +748,12 @@ Pokemon = MAROWAK_1,47
 	Item = THICKCLUB
 
 # Round duo 1 : thugs (lvl 32-35)
-[PUNKTRAINERMALE,Butch]
+[PUNKTRAINERMALE,Butch,2]
 LoseText = I... I can't even...
 Pokemon = SEVIPER,34
 Pokemon = MABOSSTIFF,35
 
-[PUNKTRAINERFEMALE,Carmine]
+[PUNKTRAINERFEMALE,Carmine,2]
 LoseText = Not again!
 Pokemon = ARBOK,34
 Pokemon = HERACROSS,35	

@@ -1,0 +1,88 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[ABILITY_NAMES]
+Anger Shell
+Courroupace
+Armor Tail
+Armure Caudale
+Beads of Ruin
+Perles du Fléau
+Commander
+Commandant
+Costar
+Collab
+Cud Chew
+Ruminant
+Earth Eater
+Absorbe-Terre
+Electromorphosis
+Grecharge
+Good as Gold
+Corps en or
+Guard Dog
+Chien de Garde
+Hadron Engine
+Moteur à Hadrons
+Lingering Aroma
+Odeur Tenace
+Mycelium Might
+Force Fongique
+Opportunist
+Opportuniste
+Orichalcum Pulse
+Pouls Orichalque
+Protosynthesis
+Paléosynthèse
+Purifying Salt
+Sel Purificateur
+Quark Drive
+Charge Quantique
+Rocky Payload
+Porte-Roche
+Seed Sower
+Semencier
+Sharpness
+Incisif
+Supreme Overlord
+Général Suprême
+Sword of Ruin
+Épée du Fléau
+Tablets of Ruin
+Bois du Fléau
+Thermal Exchange
+Thermodynamique
+Toxic Debris
+Dépôt Toxique
+Vessel of Ruin
+Urne du Fléau
+Well-Baked Body
+Bien Cuit
+Wind Power
+Turbine Éolienne
+Wind Rider
+Aéroporté
+Zero to Hero
+Supermutation
+Supersweet Syrup
+Nectar Mielleux
+Hospitality
+Aux Petits Soins
+Toxic Chain
+Chaîne Toxique
+Mind's Eye
+Oeil Révélateur
+Embody Aspect
+Force Mémorielle
+Poison Puppeteer
+Emprise Toxique
+Tera Shift
+Téramorphose
+Tera Shell
+Téra-Carapace
+Teraform Zero
+Téraformation 0
+Cloud Bed
+Lit de Nuages
+Draco-Aura
+Draco-Aura

@@ -1,0 +1,16 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map026]
+< Tlingit gates \n> Green Lush Forest\nv Sombake, Grey Moose
+< Portes de Tlingit \n> Forêt Verdoyante\nv Sombake, Greymoose
+<b>Ambre:</b> These landscapes are boosting my imagination!
+<b>Ambre:</b> Ces paysages sont si inspirants !
+<b>Ambre:</b> Don't fall into the waters!
+<b>Ambre:</b> Ne tombe pas dans l’eau !
+It seems another seism just occured! It came from the south east...
+On dirait qu’un autre séisme vient d’avoir lieu ! Cela venait du sud est…
+<b>Lady: </b>I think I saw an object in those flowers...
+<b>Dame : </b>Je crois que j’ai vu un objet dans ces fleurs…
+<b>Man: </b>You're near the Tlingit Gates! Are you here to visit another country?
+<b>Homme : </b>Tu es près des Portes de Tlingit ! Es-tu là pour visiter un autre pays ?

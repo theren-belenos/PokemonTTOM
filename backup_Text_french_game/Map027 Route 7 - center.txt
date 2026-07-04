@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map027]
+<b>Joseph:</b> You gotta stay in shape in my job!
+<b>Joseph:</b> Il faut rester en forme dans mon métier !
+<b>Joseph:</b> Do you also stay in shape?
+<b>Joseph:</b> Toi aussi t’essaye de garder la forme ?
+<b>Danielle:</b> Oh! How are you sweetheart?
+<b>Danielle:</b> Oh ! Comment vas-tu trésor ?
+<b>Danielle:</b> Have a great day!
+<b>Danielle:</b> Très belle journée à toi !

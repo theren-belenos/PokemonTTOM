@@ -1,0 +1,14 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map415]
+<b>Raphaëlle:</b> I'm glad my boyfriend likes cycling so much!
+<b>Raphaëlle:</b> J'ai vraiment de la chance que mon copain aime autant le vélo !
+<b>Raphaël:</b> We love working out together!
+<b>Raphaël:</b> On adore s'entraîner ensemble !
+<b>Raphaël:</b> Do you often work out?
+<b>Raphaël:</b> Tu t'entraînes souvent ?
+<b>Nadine:</b> I might get dizzy if I keep on going in circles!
+<b>Nadine:</b> Je vais finir par avoir le tournis si je continues à tourner en rond !
+<b>Nadine:</b> Oof! I have blurred vision already!
+<b>Nadine:</b> Ouah ! Je vois déjà flou !
