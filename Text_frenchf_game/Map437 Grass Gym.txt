@@ -12,6 +12,8 @@
 <b>Flore:</b> Eeeeeh ? T'as un peu perdu le rythme non ?? Essaye d'atteindre au moins 6000 points !
 <b>Flore:</b> Waiting here!
 <b>Flore:</b> J'attends ici !
+Use this option if the minigame doesn't run smoothly or if you don't like rythm games. Confirm?
+Utilisez cette option si le minijeu n'est pas fluide ou si vous n'aimez pas les jeux de rythme. Valider ?
 <b>Flore:</b> Your best score for my minigame is \v[198]. What do you wanna do?
 <b>Flore:</b> Ton meilleur score pour mon minijeu est \v[198]. Tu veux faire quoi ?
 <b>Flore:</b> Can you also keep the beat during battle ?
@@ -19,7 +21,7 @@
 <b>Flore:</b> Hehe~ Nice! You can continue!
 <b>Flore:</b> Hehe~ Pas mal ! Tu peux continuer !
 You talk to the dancer about Camosack.
-Vous parlez de Camsoack à la danseuse.
+Vous parlez de Camosack à la danseuse.
 <b>Flore:</b> Perform at Camosack you say? Sorry, but I have a good job here! I'm staying there, good luck for your search!
 <b>Flore:</b> Danser à Camsoack tu dis ? Désolé, mais j'ai un bon job ici ! Je reste là, bonne chance dans tes recherches !
 <b>Flore:</b> Your best score for my minigame is \v[198]. Wanna try it again?
@@ -44,14 +46,14 @@ Vous parlez de Camsoack à la danseuse.
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge !
 <b>Nikodim:</b> Ohoho! Okay okay, I might need to catch a breath... Damn, aging isn't a breeze...
 <b>Nikodim:</b> Ohoho! Okay okay, c'était cool Raoul ! Je suis essoufflé, mince, on rajeunit pas...
-<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better!
-<b>Nikodim:</b> T'as gagné la première récompense ! Mais tu peux faire encore mieux !
+<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better! Aim for 20000 points for the second reward!
+<b>Nikodim:</b> T'as gagné la première récompense ! Mais tu peux faire encore mieux ! Vise un score de 20000 points ou plus pour la seconde récompense !
 <b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame again to get the second reward!
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour la 2e récompense !
 <b>Nikodim:</b> Okay, okay, not bad!
 <b>Nikodim:</b> Okay, okay, c'était chouettos.
-<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards!
-<b>Nikodim:</b> Mais si tu fais un meilleur score, tu pourrais avoir les récompenses bonus !
+<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards! Try to get to 17000 points!
+<b>Nikodim:</b> Mais si tu obtiens un meilleur score, tu peux avoir des récompenses bonus ! Essaye d'atteindre les 17000 points !
 <b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame to get better rewards!
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour les récompenses !
 <b>Nikodim:</b> Well, I thought you were cooler... Feel free to try again...
@@ -60,10 +62,6 @@ Vous parlez de Camsoack à la danseuse.
 <b>Nikodim:</b> Hey ! Pas cool !
 <b>Nikodim:</b> Okay cool thing, what do you want to do? Wanna get my badge?
 <b>Nikodim:</b> Okay le coolkid, qu'est-ce que tu veux faire ? Tu veux avoir mon badge ?
-<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better! Aim for 21000 points for the second reward!
-<b>Nikodim:</b> T'as gagné la première récompense ! Mais tu peux faire encore mieux ! vise un score de 21000 points ou plus pour la seconde récompense !
-<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards! Try to get to 18000 points!
-<b>Nikodim:</b> Mais si tu obtiens un meilleur score, tu peux avoir des récompenses bonus ! Essaye d'atteindre les 18000 points !
 <b>Nikodim:</b> It's punk time!
 <b>Nikodim:</b> C'est parti mon kiki !
 You got the Forest Badge! \f[FORESTBADGE]
@@ -152,12 +150,14 @@ Yes
 Oui
 No
 Non
+Skip minigame
+Passer le minijeu
 Battle you!
-Battle you!
+Combattre !
 Play minigame again
-Play minigame again
+Rejouer le minijeu
 Nothing, sorry
-Nothing, sorry
+Rien, désolé
 Retry minigame
 Réessayer minijeu
 Battle him!
@@ -169,7 +169,7 @@ Donner cadeau
 Spend time
 Passer du temps
 Try minigame again
-Try minigame again
+Rejouer le minijeu
 Say goodbye
 Dire au revoir
 1

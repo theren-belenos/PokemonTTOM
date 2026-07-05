@@ -8,6 +8,16 @@ You already gave a gift to Samy this week!
 Vous avez déjà donné un cadeau à Samy cette semaine !
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, comment tu vas ? C'est l'heure de jouer, hein ?
+You spend time training with Melly at the Gym.
+Vous passez du temps à vous entraîner avec Melly dans l'Arène.
+She is really cool!
+Elle est vraiment cool !
+You spend time hanging with Marley at the Gym.
+Vous passez du temps à traîner avec Marley dans l'Arène.
+He is really cool!
+Il est vraiment cool !
+You spend time training with Samy at the Gym.
+Vous passez du temps à vous entraîner avec Samy dans l'Arène.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe enregistrée ?
 End of the first half of the week!
@@ -20,22 +30,10 @@ End of the week!
 Fin de la semaine !
 Change your party?
 Changer votre équipe ?
-You spend time training with Melly at the Gym.
-Vous passez du temps à vous entraîner avec Melly dans l'Arène.
-She is really cool!
-Elle est vraiment cool !
-You spend time hanging with Marley at the Gym.
-Vous passez du temps à traîner avec Marley dans l'Arène.
-He is really cool!
-Il est vraiment cool !
-You spend time training with Samy at the Gym.
-Vous passez du temps à vous entraîner avec Samy dans l'Arène.
 <b>\c[10]Maple:</b>\c[0] You didn't find <b>\c[5]Melly </b>\c[0]yet?
 <b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly</b>\c[0] ?
 <b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
 <b>\c[10]Maple:</b>\c[0] Sois prudent !
-Welcome to the \gt Gym!
-Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
 <b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
 <b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
@@ -334,6 +332,8 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec les gens que tu apprécies, à passer du temps avec eux ou même leur donner des cadeaux.
 <b>\c[10]Maple:</b>\c[0] Good luck and above all: have fun!
 <b>\c[10]Maple:</b>\c[0] Bonne chance et surtout : amuse-toi !
+Welcome to the \gt Gym!
+Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] \pn you remember Marley right?
 <b>\c[10]Maple:</b>\c[0] \pn tu te rappelles de Marley n’est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] Hello \pn!

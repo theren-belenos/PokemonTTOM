@@ -4,10 +4,10 @@
 [Map033]
 <b>Cool Trainer:</b> Are those battle items really worth it?
 <b>Topdresseur:</b> Est-ce que ces objets de combat valent vraiment le coup ?
-There is only trash in there.
-Il n’y a que des déchets là-dedans.
 <b>Man: </b> Good thing this is open again ! I was running low on Potions...
 <b>Homme:</b> Heureusement que c'est à nouveau ouvert ! J'avais presque plus de Potions...
+There is only trash in there.
+Il n’y a que des déchets là-dedans.
 <b>Dept.Store employee:</b> Hello \pn! The elevator is not repaired yet.
 <b>Vendeuse:</b> Bonjour \pn ! L’ascenseur n’est pas encore réparé.
 <b>Dept.Store employee:</b> Only the first floor is available for now!

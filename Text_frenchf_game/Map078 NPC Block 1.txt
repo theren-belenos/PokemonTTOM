@@ -2,12 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map078]
-There is only trash in there.
-Il n'y a que des déchets là-dedans.
 <b>Little Girl:</b> I just moved here with granny!
 <b>Petite Fille:</b> Je viens d’emménager ici avec mamie !
 <b>Little Girl:</b> Are you kind?
 <b>Petite Fille:</b> T’es une gentille ?
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? Welcome to my humble abode!
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, comment ça va ? Bienvenue dans mon humble demeure !
 You already gave a gift to Samy this week!
@@ -34,6 +34,26 @@ You spend time chilling with Samy in his room.
 Vous passez du temps à vous détendre avec Samy chez lui.
 He is really knowleadgable on town stuff!
 Il connait plein de choses en architecture !
+This is a drink vending machine. Wanna buy something?\G
+C'est un distributeur de boisson ? Acheter ?\G
+\G...Klang! One bottle of Fresh Water fell down!
+\G...Klang ! Une canette d'Eau Fraîche est tombée !
+\GYou have no room left in the Bag.
+\GVous n'avez plus de place dans le sac.
+\GYou don't have enough money.
+\GVous n'avez pas assez d'argent.
+\G...Klang! One bottle of Soda Pop fell down!
+\G...Klang ! Une canette de Soda Cool est tombée !
+\G...Klang! One bottle of Lemonade fell down!
+\G...Klang ! Une canette de Limonade est tombée !
+<b>Receptionist:</b> Hello! Where do you want to go?
+<b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
+<b>Receptionist:</b> You're already on this floor!
+<b>Réceptioniste:</b> Vous êtes déjà à cet étage !
+<b>Receptionist:</b> Understood! Let us go!
+<b>Réceptioniste:</b> Compris ! C'est parti !
+<b>Receptionist:</b> Have a good day!
+<b>Réceptioniste:</b> Passez une bonne journée !
 <b>Cocotte:</b> …you won’t say anything?
 <b>Cocotte:</b> …you won’t say anything?
 <b>Girl:</b> What should I say? I’m not interested in your shop. Period.
@@ -90,26 +110,6 @@ Il connait plein de choses en architecture !
 <b>Fille:</b> Moi-même, je n'ai pas grand chose à donner, mais tiens.
 <b>Girl:</b> If you need anything, tell me. Anytime.
 <b>Fille:</b> Si t'as besoin de quelque chose, demande-moi. N'importe quand.
-<b>Receptionist:</b> Hello! Where do you want to go?
-<b>Réceptioniste:</b> Bonjour ! Où voulez-vous aller ?
-<b>Receptionist:</b> You're already on this floor!
-<b>Réceptioniste:</b> Vous êtes déjà à cet étage !
-<b>Receptionist:</b> Understood! Let us go!
-<b>Réceptioniste:</b> Compris ! C'est parti !
-<b>Receptionist:</b> Have a good day!
-<b>Réceptioniste:</b> Passez une bonne journée !
-This is a drink vending machine. Wanna buy something?\G
-C'est un distributeur de boisson ? Acheter ?\G
-\G...Klang! One bottle of Fresh Water fell down!
-\G...Klang ! Une canette d'Eau Fraîche est tombée !
-\GYou have no room left in the Bag.
-\GVous n'avez plus de place dans le sac.
-\GYou don't have enough money.
-\GVous n'avez pas assez d'argent.
-\G...Klang! One bottle of Soda Pop fell down!
-\G...Klang ! Une canette de Soda Cool est tombée !
-\G...Klang! One bottle of Lemonade fell down!
-\G...Klang ! Une canette de Limonade est tombée !
 <b>Man:</b> I moved here because they say the town is growing quickly.
 <b>Homme:</b> J’ai déménagé ici car il paraît que la ville se développe à une vitesse folle.
 <b>Man:</b> I may find work here, I hope so!
@@ -138,14 +138,6 @@ Spend time
 Passer du temps
 Say goodbye
 Dire au revoir
-Floor 1
-Etage 1
-Floor 2
-Etage 2
-Floor 3
-Etage 3
-Floor 4
-Etage 4
 Fresh Water (200$)
 Eau Fraîche (200$)
 Soda Pop (350$)
@@ -154,3 +146,11 @@ Lemonade (500$)
 Limonade (500$)
 Go away
 Partir
+Floor 1
+Etage 1
+Floor 2
+Etage 2
+Floor 3
+Etage 3
+Floor 4
+Etage 4

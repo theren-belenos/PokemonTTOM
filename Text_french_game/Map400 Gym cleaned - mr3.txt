@@ -34,6 +34,8 @@ You spend time training with Samy at the Gym.
 You spend time training with Samy at the Gym.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
+Welcome to the \gt Gym!
+Bienvenue dans l'arène \gt !
 <b>\c[3]Marley:</b>\c[0] Heya boss! How you doin'?
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Comment va ?
 <b>\c[3]Marley:</b>\c[0] Heya boss! Good luck for your first week!
@@ -46,8 +48,6 @@ Vous avez déjà offert un cadeau à Marley cette semaine !
 <b>\c[3]Marley:</b>\c[0] C’est quand tu veux, bien sûr !
 <b>\c[3]Marley:</b>\c[0] Heya boss! Can't wait to go to training!
 <b>\c[3]Marley:</b>\c[0] Heya boss ! Impatient de suivre cette formation !
-Welcome to the \gt Gym!
-Bienvenue dans l'arène \gt !
 <b>\c[9]Melly:</b>\c[0] The weekend is nice! B-But I can't wait for my house to be repaired...
 <b>\c[9]Melly:</b>\c[0] C’est sympa le week-end ! M-mais j’ai hâte que ma maison soit reconstruite…
 <b>\c[9]Melly:</b>\c[0] H-hi \pn! I'm ready for battle!
