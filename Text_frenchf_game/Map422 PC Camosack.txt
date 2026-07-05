@@ -11,9 +11,9 @@ Il n'y a que des déchets là-dedans.
 <b>Ribombee:</b> Ribombeeeee!
 <b>Rubombelle:</b> Rubombeeeeelle!
 <b>Lady:</b> It’s always sunny here at Camosack! If you like the sun, take this!
-<b>Lady:</b> Il fait toujours soleil ici à Camosack ! Si tu aimes le soleil, prends ça !
+<b>Dame:</b> Il fait toujours soleil ici à Camosack ! Si tu aimes le soleil, prends ça !
 <b>Lady:</b> Do you like the sun?
-<b>Lady:</b> Tu aimes le soleil ?
+<b>Dame:</b> Tu aimes le soleil ?
 <b>Scientist:</b> Hello, can you help me out?
 <b>Scientifique:</b> Bonjour, peux-tu m’aider ?
 <b>Scientist:</b> The harsh sun here made me wonder something.

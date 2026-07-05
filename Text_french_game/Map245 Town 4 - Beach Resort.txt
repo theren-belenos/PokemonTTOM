@@ -3,9 +3,9 @@
 #-------------------------------
 [Map245]
 <b>Tourist:</b> My! Even their battle arenas are so picturesque!
-<b>Tourist:</b> My! Even their battle arenas are so picturesque!
+<b>Touriste:</b> Ohlala ! Même leurs arènes de combat sont si pittoresques !
 <b>Tourist:</b> Really! They have so little, but give so much!
-<b>Tourist:</b> Really! They have so little, but give so much!
+<b>Touriste:</b> Vraiment ! Ils ont si peu, mais donnent tant !
 <b>Butch:</b> What? Hey you’re the one from Route 9!
 <b>Butch:</b> Quoi ? Hé j’me rappelle de toi, sur la Route 9 !
 <b>Butch:</b> What?
@@ -135,7 +135,7 @@ Grand Hotel de Camosack
 <b>\c[4]???:</b>\c[0] Hmpf, you still here? Maybe you can offer a decent challenge?
 <b>\c[4]???:</b>\c[0] Hmpf, toujours là ? Peut-être que toi, tu peux offrir un challenge décent ?
 <b>\c[4]???:</b>\c[0] You're here ? Interesting...
-<b>\c[4]???:</b>\c[0] You're here ? Interesting...
+<b>\c[4]???:</b>\c[0] Encore là ? Intéressant...
 It looks like a drawing board. But there is nothing on it.
 On dirait un panneau d'affichage. Mais il n'y a rien dessus.
 You look at the tournament bracket.

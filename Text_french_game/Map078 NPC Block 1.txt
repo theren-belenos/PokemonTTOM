@@ -55,7 +55,7 @@ C'est un distributeur de boisson ? Acheter ?\G
 <b>Receptionist:</b> Have a good day!
 <b>Réceptioniste:</b> Passez une bonne journée !
 <b>Cocotte:</b> …you won’t say anything?
-<b>Cocotte:</b> …you won’t say anything?
+<b>Cocotte:</b> …tu n'as rien à dire ?
 <b>Girl:</b> What should I say? I’m not interested in your shop. Period.
 <b>Fille:</b> Qu'est-ce que je devrais dire ? Je ne veux pas de la Boutique. Point.
 <b>Cocotte:</b> Do you know how old I am? Do you wish our shop just… disappears?

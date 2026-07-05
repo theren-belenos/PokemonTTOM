@@ -3,7 +3,7 @@
 #-------------------------------
 [Map437]
 <b>Flore:</b> Hello! Are you ready for my rythm minigame ?
-<b>Flore:</b> Bonjour ! Prête pour mon minijeu de danse ?
+<b>Flore:</b> Bonjour ! Prêt pour mon minijeu de danse ?
 <b>Flore:</b> Nice! Make us dance right!
 <b>Flore:</b> Super ! Fais nous bien danser !
 <b>Flore:</b> Hehe~ That was fun! Talk to me again when you want to battle me!
@@ -35,7 +35,7 @@ Vous parlez de Camosack à la danseuse.
 <b>Nikodim:</b> Okay, okay, I like your energy. But easy breezy, monster! Keep this for the beat!
 <b>Nikodim:</b> Okay, okay, j'aime la confiance. Mais mollo l'asticot ! Garde ton énergie pour la danse !
 <b>Nikodim:</b> Ready to show off and be cool?
-<b>Nikodim:</b> Prête pour la fiesta ?
+<b>Nikodim:</b> Prêt pour la fiesta ?
 <b>Nikodim:</b> Give it all!
 <b>Nikodim:</b> Donne tout !
 <b>Nikodim:</b> Wowow! Spare us you crazy beatmaker! Damn, aging isn't a breeze, I really need a break...
@@ -81,7 +81,7 @@ Vous obtenez le Badge Forêt ! \f[FORESTBADGE]
 <b>Nikodim:</b> Well, see you around, and stay cool!
 <b>Nikodim:</b> Aller on se voit plus tard, reste frais !
 <b>Nikodim:</b> Okay cool thing, are you ready? Wanna get my badge?
-<b>Nikodim:</b> Okay coolkid, t'es prête ? Tu veux mon badge ?
+<b>Nikodim:</b> Okay coolkid, t'es prêt ? Tu veux mon badge ?
 <b>Nikodim:</b> Hey, still cool? Your best score for my minigame is \v[200]. Wanna rock it again?
 <b>Nikodim:</b> Hey, t'as la pêche ? Ton meilleur score pour mon minijeu est \v[200]. Tu veux tout déchirer à nouveau ?
 <b>Nikodim:</b> Hey, still cool?
@@ -101,7 +101,7 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Victreebel:</b> Victreeebeeeeel!
 <b>Empiflor:</b> Empiflooooooor !
 <b>Tobie:</b> Hi there! Ready for my rythm minigame ?
-<b>Tobie:</b> Hey salut ! Prête pour mon jeu de rythme ?
+<b>Tobie:</b> Hey salut ! Prêt pour mon jeu de rythme ?
 <b>Tobie:</b> Okay! Can you do it?
 <b>Tobie:</b> Okay ! Peux-tu y arriver ?
 <b>Tobie:</b> Eh, not bad! Talk to me again when you want to battle me!
