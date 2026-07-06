@@ -3833,7 +3833,7 @@ Marley vous a expliqué une autre méthode pour obtenir des shinys : produire un
 Marley relation up, and a gift.
 Bonus de relation avec Marley, et un cadeau.
 Melly first training battle (lvl 20+)
-1er combat d’entraînement avec Melly (lvl 20+)
+1er entraînement avec Melly (lvl 20+)
 Have a training battle with Melly
 Faire un combat avec Melly
 Your Gym or Melly's house.
@@ -3849,7 +3849,7 @@ Montrer des Pokémon roses ou violets à Melly
 Melly loves pink and purple ; she asked you to show her three (different species) pink or purple Pokémons
 Melly adore le rose et le violet ; elle vous a demandé de lui montrer 3 Pokémon rose ou violets (de différentes espèces).
 Melly second training battle (lvl 35+)
-2e combat d’entraînement avec Melly (lvl 35+)
+2e entraînement avec Melly (lvl 35+)
 Have another training battle with Melly
 Faire un autre combat d'entraînement avec Melly
 Melly wants to train with you again. Battle her at your Gym. Her Pokémons will be around lvl 35. Note: you HAVE to win the battle to complete the quest.
@@ -3861,13 +3861,13 @@ Montrer un shiny rose ou violet à Melly
 Melly learnt from Maple about the shinies and she is very excited about it. She wants you to capture a shiny Pokémon that's pink or purple, and is not pink or purple if not shiny.
 Melly a entendu parler des shinys et elle est surexcitée par le sujet. Elle veut que vous lui montriez un Pokémon shiny qui est rose ou violet, et qui ne l’est pas quand il est pas shiny.
 Melly last training battle (lvl 50+)
-Dernier combat d’entraînement avec Melly (lvl 50+)
+Dernier entraînement avec Melly (lvl 50+)
 Melly wants to train with you one last time. Battle her at your Gym. Her Pokémon will be around lvl 50. Note: you HAVE to win the battle to complete the quest
 Melly veut de nouveau s’entraîner avec vous. Combattez-la dans votre Arène. Ses Pokémons seront autour du niv 50. Note : vous DEVEZ gagner pour compléter la quête
 Melly relation up, and a gift.
 Bonus de relation avec Melly, et un cadeau.
 Samy first training battle (lvl 30+)
-1er combat d’entraînement avec Samy (lvl 30+)
+1er entraînement avec Samy (lvl 30+)
 Have a training battle with Samy
 Faire un combat avec Samy
 Your Gym or Samy's house.
@@ -3883,7 +3883,7 @@ Donner des tessons à Samy
 Samy needs shards that you can find by mining glowing rocks. Collect and give to him 5 of each color (blue red green and yellow).
 Samy a besoin de tessons trouvables en minant des rochers luisants. Collectez et donnez lui en 5 de chaque couleur (bleu rouge vert jaune)
 Samy second training battle (lvl 50+)
-2e combat d’entraînement avec Samy (lvl 50+)
+2e entraînement avec Samy (lvl 50+)
 Have another training battle with Samy
 Faire un autre combat d'entraînement avec Samy
 Samy wants to train with you once again. Battle him at your Gym. His Pokémons will be around lvl 50. Note: you HAVE to win the battle to complete the quest
@@ -3895,7 +3895,7 @@ Donner plus de tessons à Samy
 Samy needs even more shards that you can find by mining glowing rocks. Collect and give to him 8 of each color (blue red green and yellow.
 Samy a besoin d'encore plus de tessons trouvables en minant des rochers luisants. Collectez et donnez lui en 8 de chaque couleur (bleu rouge vert jaune)
 Samy last training battle (lvl 70+)
-Dernier combat d’entraînement avec Samy (lvl 70+)
+Dernier entraînement avec Samy (lvl 70+)
 Have yet another training battle with Samy
 Faire encore un autre combat d'entraînement avec Samy
 Samy wants to train with you one last time. Battle him at your Gym. His Pokémons will be around lvl 70. Note: you HAVE to win the battle to complete the quest
@@ -5221,7 +5221,7 @@ Vous avez atteint la limite actuelle de votre relation avec Cassian.
 Various rewards:<<n>>- A lot of PNJs, quests, items...<<n>>- Passive town income + 1500<<n>>- Passive fame +5 per week
 Récompenses variées :<<n>>- Des PNJ, des quêtes, des objets...<<n>>- Revenu passif de la ville +1500$ par semaine<<n>>- Réputation passive +5 par semaine.
 Melly second training battle (lvl 40+)
-2e combat d’entraînement avec Melly (lvl 40+)
+2e entraînement avec Melly (lvl 40+)
 Select a
 Choisir un
 Select a Pokémon with a healing move
@@ -5423,7 +5423,7 @@ Gain de Fame chaque semaine.<<n>>Fame passive : +2 par semaine.
 <i>Prerequisites: Pokémon Lab 1.</i><<n>>Upgrades the Lab with a new scientist and research funds.
 <i>Prérequis : Labo Pokémon 1.</i><<n>>Améliore le Labo avec un nouveau scientifique et des fonds de recherche.
 Two rewards:<<n>>- New scientist; complete his quest to obtain an improved version of the Pokégear with a new tool : the Town Status Center (WIP for now).<<n>>- Passive town income +$500 per week
-2 récompenses :<<n>>- Nouveau scientifique : complétez sa quête pour ajouter l'Écran de Statut de la Ville (WIP for now) au Pokégear.<<n>>- Revenu passif +500 par semaine
+2 récompenses :<<n>>- Nouveau scientifique : complétez sa quête pour ajouter l'Écran de Statut de la Ville au Pokégear.<<n>>- Revenu passif +500 par semaine
 <i>Prerequisites: Clearing - Your house.</i><<n>>Build your House.
 <i>Prérequis: Déblayage - Votre maison.</i><<n>>Construit votre maison.
 Clearing - House 1
@@ -5707,7 +5707,7 @@ Ch.4-A: Atteindre le niveau de fame 10
 Get to fame level 10
 Atteindre le niveau de fame 10
 Gain fame to let your Gym be recognized by getting to fame level 10.
-Gagnez en réputation pour que votre Arène soit mieux connue en atteignant le niveau 3 de réputation.
+Gagnez en réputation pour que votre Arène soit mieux connue en atteignant le niveau 10 de réputation.
 Ch.4-B: Get Titaga badge
 Ch.4-B: Obtenir le badge de Titaga
 Get Titaga Gym's badge
@@ -5865,7 +5865,7 @@ EVs (Actuels :
 Set to the desired value by going left or right.
 Régler à la valeur souhaitée en allant à gauche ou a droite.
 Samy first training battle (lvl 35+)
-Premier combat d'entraînement de Samy (lvl 35+)
+Premier entraînement avec Samy (lvl 35+)
 Samy wants to train with you. Battle him at your Gym. His Pokémons will be around lvl 35. Note: you HAVE to win the battle to complete the quest
 Samy veut de nouveau s’entraîner avec vous. Combattez-le dans votre Arène. Ses Pokémons seront autour du niv 35. Note : vous DEVEZ gagner pour compléter la quête
 Samy needs shards that you can find by mining glowing rocks. Collect and give to him 3 of each primary color (blue red green).

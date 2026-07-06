@@ -1363,21 +1363,21 @@ réussissant ainsi le défi lancé par Aristarque, et devenant ainsi le Leader \
 <b>Reporter:</b> Tom told us “I’m glad this is over! I have many other things to do in the League. Back to usual work!”.
 <b>Reporter:</b> Tom nous a déclaré “Je suis content que ce soit fini ! J’ai plein d’autres choses à faire au sein de la Ligue. Retour au travail habituel pour moi !”
 <b>Reporter:</b> Our popular Champion Aristarque told us afterwards:
-<b>Reporter:</b> Our popular Champion Aristarque told us afterwards:
+<b>Reporter:</b> Notre populaire Maître Aristarque nous a ensuite dit :
 “The new Leader is really promising! I think their goal at \tn is to bring their Gym back to rank 12. Good luck to them!
-“The new Leader is really promising! I think their goal at \tn is to bring their Gym back to rank 12. Good luck to them!
+“La nouvelle Leader est vraiment prometteuse ! Je crois que leur objectif à \tn est de ramener leur Arène au rang 12. Bonne chance à eux !
 ”\n<b>Reporter:</b> This concludes our report. Everyone, let’s bid good luck to \pn, the new \gt Leader!
-”\n<b>Reporter:</b> This concludes our report.  Everyone, let’s bid good luck to \pn, the new \gt Leader!
+”\n<b>Reporter:</b> Voilà qui conclue ce reportage. Tout le monde, souhaitons bonne chance à \pn, la nouvelle Leader \gt !
 <b>TV:</b> Nekanta News: Another earthquake?!
 <b>TV:</b> Nekanta News : Un autre séisme ?!
 <b>Reporter:</b> Bad news for northwest Nekanta: another earthquake hit the region, this time near Sombake.
-<b>Reporter:</b> Bad news for northwest Nekanta: another earthquake hit the region, this time near Sombake.
+<b>Reporter:</b> Mauvaise nouvelle pour le nord-ouest Nekanta : un autre séisme a frappé la région, cette fois près de Sombake.
 <b>Reporter:</b> Fortunately, it was a lot weaker than the one which destroyed \tn. But no doubt it scared the inhabitants!
 <b>Reporter:</b> Heureusement, il était bien plus faible que celui ayant détruit \tn. Mais aucun doute que les habitants ont été effrayés !
 <b>Reporter:</b> Following the incident, our new \gt Leader teamed with Samy, friend of Greymoose Leader,
-<b>Reporter:</b> Following the incident, our new \gt Leader teamed with Samy, friend of Greymoose Leader,
+<b>Reporter:</b> Après l'incident, notre nouvelle Leader \gt a fait équipe avec Samy, ami du Leader de Greymoose,
 to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumbled upon members of vile Team Absolution! Remember, we talked about them some time ago!
-to explore a tunnel created by the earthquake <b>Reporter:</b> There, they stumbled upon members of vile Team Absolution! Remember, we talked about them some time ago!
+pour explorer un tunnel créé par le séisme. <b>Reporter:</b> A l'intérieur, ils sont tombés sur les membres de la vile Team Absolution ! Souvenez-vous, on vous en avait parlé il y a quelques temps !
 <b>Reporter:</b> They managed to defeat them all, including a Team Admin. Hooray for them!
 <b>Reporter:</b> Ils ont réussi à tous les battre, y compris un Admin de la Team. Bravo à eux !
 <b>Reporter:</b> There is a rumor saying that Team Absolution may be the ones creating these earthquakes… Stay tuned, and back to the studios!

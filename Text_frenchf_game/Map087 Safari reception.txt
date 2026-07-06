@@ -47,31 +47,31 @@ Zone C1 ; En construction.
 <b>Safari Attendant:</b> You can roam the wide- open Safari Zone and catch whatever you like.
 <b>Hôte du Safari:</b> Tu peux te promener dans la vaste Zone Safari et capturer ce que tu veux.
 <b>Safari Attendant:</b> \GPrices are the following: $500 for entry, $100 for each Safari Ball, and $100 for each 200 steps.
-<b>Hôte du Safari:</b> \GLes prix sont les suivants : 500$ pour l'entrée, 100$ par Safari Ball, et 100$ par 200 pas.
+<b>Hôte du Safari:</b>\G Les prix sont les suivants : 500$ pour l'entrée, 100$ par Safari Ball, et 100$ par 200 pas.
 <b>Safari Attendant:</b> \GDo you want to enter?
-<b>Hôte du Safari:</b> \GVeux-tu entrer ?
+<b>Hôte du Safari:</b>\G Veux-tu entrer ?
 \G<b>Safari Attendant:</b>Sorry, your PC boxes are full.
 \G<b>Hôte du Safari:</b>Désolé, tes boîtes PC sont pleines.
 <b>Safari Attendant:</b> \GVery well, how many Safari Balls do you want?
-<b>Hôte du Safari:</b> \GTrès bien, tu veux combien de Safari Balls ?
+<b>Hôte du Safari:</b>\G Très bien, tu veux combien de Safari Balls ?
 <b>Safari Attendant:</b> \GYou wanna stay for how many steps?
-<b>Hôte du Safari:</b> \GTu veux rester pour combien de pas ?
+<b>Hôte du Safari:</b>\G Tu veux rester pour combien de pas ?
 <b>Safari Attendant:</b> \GAll right, the total rpice will be \v[4]. Good for you?
-<b>Hôte du Safari:</b> \GTrès bien, le prix total est de \v[4]. Ok pour toi ?
+<b>Hôte du Safari:</b>\G Très bien, le prix total est de \v[4]. Ok pour toi ?
 <b>Safari Attendant:</b> \GOops. You don't have enough money!
-<b>Hôte du Safari:</b> \GOups. Tu n'as pas assez d'argent !
+<b>Hôte du Safari:</b>\G Oups. Tu n'as pas assez d'argent !
 <b>Safari Attendant:</b> \GPlease come again!
-<b>Hôte du Safari:</b> \GReviens quand tu veux !
+<b>Hôte du Safari:</b>\G Reviens quand tu veux !
 <b>Safari Attendant:</b> \GHere are your \v[2] Safari Balls!
-<b>Hôte du Safari:</b> \GVoici tes \v[2] Balls Safari !
+<b>Hôte du Safari:</b>\G Voici tes \v[2] Balls Safari !
 \GYou received \v[2] Safari Balls from the attendant. \me[Item get]\wtnp[40]
 \GVous recevez \v[2] Balls Safari de la part de l'hôte. \me[Item get]\wtnp[40]
 <b>Safari Attendant:</b> \GWe'll call you on the PA when you run out of time or Safari Balls.
-<b>Hôte du Safari:</b> \GOn t'appellera sur le haut-parleur quand tu n'auras plus de temps ou de Balls Safari.
+<b>Hôte du Safari:</b>\G On t'appellera sur le haut-parleur quand tu n'auras plus de temps ou de Balls Safari.
 <b>Safari Attendant:</b> \GWell, I'll wish you the best of luck!
-<b>Hôte du Safari:</b> \GBien, je te souhaites bonne chance !
+<b>Hôte du Safari:</b>\G Bien, je te souhaites bonne chance !
 <b>Safari Attendant:</b> \GOkay.\nPlease come again!
-<b>Hôte du Safari:</b> \GOkay.\nReviens vite !
+<b>Hôte du Safari:</b>\G Okay.\nReviens vite !
 <b>Safari Attendant:</b> Are you going to leave the Safari Zone early?
 <b>Hôte du Safari:</b> Veux-tu quitter la Zone Safari avant la fin ?
 <b>Safari Attendant:</b> Please return any Safari Balls you may have left.
@@ -89,10 +89,10 @@ Oui
 No
 Non
 Exchange Safari Coupon
-Exchange Safari Coupon
+Echanger Coupon Safari
 A1 Zone (Field)
-A1 Zone (Field)
+Zone A1 (Plaine)
 A2 Zone (Field)
-A2 Zone (Field)
+Zone A2 (Côte)
 Cancel
-Cancel
+Annuler

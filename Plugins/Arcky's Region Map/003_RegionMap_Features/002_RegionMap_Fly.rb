@@ -228,7 +228,7 @@ class PokemonRegionMap_Scene
 				end
 				message = _INTL("Progression:") + " " + ($town.buildings[index]-1).to_s + " / " + data[1].to_s + "\n" + _INTL("Workers:") + " " + onthistask.to_s + " " + _INTL("on this task ;") + " " + unassigned.to_s + " " + _INTL("free") 
 				missing = 1 + data[1] - $town.buildings[index]
-				if $town.weekday != 0 && $town.weekday != 8
+				if $town.weekday != 0 && $town.weekday != 5 && $town.weekday != 8
 					messageMap(message)
 					break
 				else

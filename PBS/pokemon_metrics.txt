@@ -3824,7 +3824,7 @@ ShadowSprite = 0,-19,0
 BackSprite = 0,3
 FrontSprite = 0,9
 ShadowSize = 2
-ShadowSprite = 0,6,3
+ShadowSprite = 0,-17,3
 #-------------------------------
 [SCOLIPEDE]
 BackSprite = 0,10
