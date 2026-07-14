@@ -39,25 +39,25 @@ Pour être sûr de ne pas foncer dans quelque chose hors de votre portée, vous 
 <b>Ben:</b> How are you?
 <b>Ben:</b> Comment vas-tu ?
 <b>Policeman:</b> Welcome to Tlingit, our beautiful country!
-<b>Policeman:</b> Bienvenue en Tlingit, notre beau pays !
+<b>Policier:</b> Bienvenue en Tlingit, notre beau pays !
 <b>Policeman:</b> Hey! Don't prank me!
-<b>Policeman:</b> Hey ! Pas de farces !
+<b>Policier:</b> Hey ! Pas de farces !
 <b>Policeman:</b> Have a great day citizen!
-<b>Policeman:</b> Passez une bonne journée, citoyen !
+<b>Policier:</b> Passez une bonne journée, citoyen !
 <b>Policeman:</b> Please don't come behind the counter dear citizen!
-<b>Policeman:</b> Merci de ne pas venir derrière le comptoir cher citoyen !
+<b>Policier:</b> Merci de ne pas venir derrière le comptoir cher citoyen !
 <b>Kid:</b> Daaaaaad! I'm bored!
 <b>Enfant:</b> Papaaaaaa ! Je m’ennuie !
 <b>Policeman:</b> Hello! By continuing this way you'll reach the independant country of Tlingit.
-<b>Policeman:</b> Bonjour ! En continuant par là vous atteindrez le pays indépendant de Tlingit.
+<b>Policier:</b> Bonjour ! En continuant par là vous atteindrez le pays indépendant de Tlingit.
 <b>Policeman:</b> A Tlingit pass is required to enter. May I see yours?
-<b>Policeman:</b> Un pass Tlingit est requis pour entrer. Puis-je voir le vôtre ?
+<b>Policier:</b> Un pass Tlingit est requis pour entrer. Puis-je voir le vôtre ?
 You show your Tlingit pass to the policeman.
 Vous montrez votre pass Tlingit au policier.
 <b>Policeman:</b> Excellent! Stay safe during your trip!
-<b>Policeman:</b> Excellent ! Soyez prudent durant votre voyage !
+<b>Policier:</b> Excellent ! Soyez prudent durant votre voyage !
 <b>Policeman:</b> No? Then sorry citizen but I can't let you proceed.
-<b>Policeman:</b> Non ? Alors désolé citoyen mais je ne peux pas vous laisser passer.
+<b>Policier:</b> Non ? Alors désolé citoyen mais je ne peux pas vous laisser passer.
 <b>Man:</b> Hold on kid, I'm sure my boarding pass is somewhere...
 <b>Homme:</b> Attends fils, je suis sur que mon pass Tlingit est quelque part…
 Yes

@@ -29,9 +29,9 @@
 ^ Route 1\n< Route 2
 ^ Route 1\n< Route 2
 <b>Student:</b> Ha! Take this!
-<b>Student:</b> Ha ! Prends ça !
+<b>Etudiant:</b> Ha ! Prends ça !
 <b>Student:</b> Hey, I’m Steve Martin. Sorry I’m in the middle of a battle right now…
-<b>Student:</b> Hey, Je suis Steve Martin. Désolé je suis au milieu d'un combat là...
+<b>Etudiant:</b> Hey, Je suis Steve Martin. Désolé je suis au milieu d'un combat là...
 <b>Student:</b> I’m not done yet!
 <b>Etudiant:</b> J'ai pas encore perdu !
 <b>Student:</b> Oh hi, my name is Justine, sorry I’m busy!
@@ -39,7 +39,7 @@
 <b>Student:</b> Justine Cruz now let me be please!
 <b>Etudiant:</b> Justine Cruz maintenant laisse moi tranquille stp !
 You should search for <b>\c[9]Melly</b>\c[0] at the Route 1 first.
-Tu devrais aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
+Vous devriez aller chercher <b>\c[9]Melly</b>\c[0] dans la Route 1 d’abord.
 Do you want to see explanations on the ingame time system ? (day/night cycle, weekdays...)
 Voulez-vous lire les explications sur le système temporel du jeu ? (cycle jour/nuit, jours de la semaine…)
 <b>Student:</b> Haha! Let’s go guys!
@@ -143,7 +143,7 @@ Girl: DO YOU HAVE A <b>HAPPY</b> POKÉMON???
 <b>Girl:</b> Thank you for showing me your incredible bond!!! I'M HONORED!!!!! TAKE THIS!!!!!!!!!!!!
 <b>Fille:</b> Merci de m'avoir montré votre incroyable lien !!! JE SUIS HONORÉE !!!!! PRENDS ÇA !!!!!!!!!!!!
 <b>Girl:</b> Heyyy!!! It really likes you!! You're close to being really inseparables!
-<b>Fille:</b> Heyyy !!! Il t'apprécies vraiment !! Vous êtes presque inséparables !
+<b>Fille:</b> Heyyy !!! Il t'apprécie vraiment !! Vous êtes presque inséparables !
 <b>Girl:</b> Hey! It's friendly towards you! It's like, kinda happy, but it could be better!
 <b>Fille:</b> Hey ! Il t'apprécies ! Il est, genre, plutôt heureux, mais ça pourrait être mieux !
 <b>Girl:</b> Eh, it's kinda cute but not really used to you...
@@ -167,7 +167,7 @@ Girl: DO YOU HAVE YET <u>ANOTHER</u> <b>HAPPY</b> POKÉMON???
 <b>Woman:</b> Should I take some of my Pokémon there ?
 <b>Femme:</b> Est-ce que je devrais y laisser des Pokémons ?
 <b>Rose:</b> \pn you’re it! Hehehe!
-<b>Rose:</b> \pn c'est toi le loup ! Hihihihi !
+<b>Rose:</b> \pn c'est toi le loup ! Hihihi !
 <b>\c[10]Maple:</b>\c[0] Follow me \pn.
 <b>\c[10]Maple:</b>\c[0] Suis-moi \pn.
 <b>\c[10]Maple:</b>\c[0] Hello Franck!
@@ -240,6 +240,8 @@ Vous avez déjà donné un cadeau à Melly cette semaine !
 <b>Touriste:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!
 <b>Touriste:</b> J’ai soif! Allons au café!
+<b>Klefki:</b> Klikliklikli!
+<b>Trousselin:</b> Tlitlitlitli!
 <b>Lady:</b> Hello you pretty thing!
 <b>Dame:</b> Bonjour mignonne petite chose~
 <b>Lady:</b> You're already pretty but for a small price, I can make you Pokémon prettier too!
@@ -254,8 +256,6 @@ Vous avez déjà donné un cadeau à Melly cette semaine !
 <b>Dame:</b> Okay, c'est parti !!
 <b>Lady:</b> It's done! You're soooo pretty together!!!
 <b>Dame:</b> C'est fait ! Vous êtes trop magnifiques tous les deux !!!
-<b>Klefki:</b> Klikliklikli!
-<b>Trousselin:</b> Tlitlitlitli!
 \tn's Department Store
 Centre Commercial de \tn
 The sign is really damaged... You can't read anything.

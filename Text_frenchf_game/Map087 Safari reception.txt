@@ -91,7 +91,7 @@ Non
 Exchange Safari Coupon
 Echanger Coupon Safari
 A1 Zone (Field)
-Zone A1 (Plaine)
+Zone A1 (Plaines)
 A2 Zone (Field)
 Zone A2 (Côte)
 Cancel

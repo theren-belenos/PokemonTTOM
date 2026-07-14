@@ -4,16 +4,22 @@
 [Map437]
 <b>Flore:</b> Hello! Are you ready for my rythm minigame ?
 <b>Flore:</b> Bonjour ! Prêt pour mon minijeu de danse ?
-<b>Flore:</b> Nice! Make us dance right!
-<b>Flore:</b> Super ! Fais nous bien danser !
+Please select your current FPS screen setting
+Veuillez choisir vos FPS actuels
+This minigame rythm depends on your game FPS ; you can press the F2 button to show it on the screen border.
+Ce minijeu de rythme dépend massivement de vos FPS ; vous pouvez appuyer sur F2 pour qu'ils s'affichent sur la fenêtre.
+The number depends on your screen FPS setting. You can see (and modify) it System -> Screen -> Scroll down to "advanced parameters".
+Cette valeur dépend des FPS de votre écran. Vous pouvez la voir (et la modifier) dans Système -> Ecran -> Descendre jusqu'à "paramètres avancés".
+If ingame, by pressing F2, you see that the number is fluctuating, you could try to lower your FPS settings.
+Si, après avoir appuyé sur F2, vous voyez le nombre fluctuer, vous devriez essayer de baisser les FPS de votre écran.
+If your current FPS setting is not listed here for the minigame, either (temporarily) change your FPS setting or skip the minigame.
+Si votre nombre de FPS actuel n'est pas proposé, soit vous changez (temporairement) les FPS de votre écran ou alors vous passez le minijeu.
+<b>Flore:</b> Waiting here!
+<b>Flore:</b> J'attends ici !
 <b>Flore:</b> Hehe~ That was fun! Talk to me again when you want to battle me!
 <b>Flore:</b> Hehe~ C'était marrant ! Parle-moi de nouveau quand tu voudras m'affronter !
 <b>Flore:</b> Eeeeeh? Seems you missed the beat no?? Try to score at least 6000 points!
 <b>Flore:</b> Eeeeeh ? T'as un peu perdu le rythme non ?? Essaye d'atteindre au moins 6000 points !
-<b>Flore:</b> Waiting here!
-<b>Flore:</b> J'attends ici !
-Use this option if the minigame doesn't run smoothly or if you don't like rythm games. Confirm?
-Utilisez cette option si le minijeu n'est pas fluide ou si vous n'aimez pas les jeux de rythme. Valider ?
 <b>Flore:</b> Your best score for my minigame is \v[198]. What do you wanna do?
 <b>Flore:</b> Ton meilleur score pour mon minijeu est \v[198]. Tu veux faire quoi ?
 <b>Flore:</b> Can you also keep the beat during battle ?
@@ -38,6 +44,8 @@ Vous parlez de Camosack à la danseuse.
 <b>Nikodim:</b> Prêt pour la fiesta ?
 <b>Nikodim:</b> Give it all!
 <b>Nikodim:</b> Donne tout !
+<b>Nikodim:</b> Hey! Not cool!
+<b>Nikodim:</b> Hey ! Pas cool !
 <b>Nikodim:</b> Wowow! Spare us you crazy beatmaker! Damn, aging isn't a breeze, I really need a break...
 <b>Nikodim:</b> Wowow ! C'était chanmax ! Mince, c'est pas beau de vieillir, j'ai vraiment besoin d'une pause...
 <b>Nikodim:</b> You've earned both bonus rewards! Congratulations!
@@ -58,8 +66,8 @@ Vous parlez de Camosack à la danseuse.
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour les récompenses !
 <b>Nikodim:</b> Well, I thought you were cooler... Feel free to try again...
 <b>Nikodim:</b> Eh bien, je pensais que t'étais plus cool... Là ça sentait un peu le sapin...
-<b>Nikodim:</b> Hey! Not cool!
-<b>Nikodim:</b> Hey ! Pas cool !
+Use this option if the minigame doesn't run smoothly or if you don't like rythm games. Confirm?
+Utilisez cette option si le minijeu n'est pas fluide ou si vous n'aimez pas les jeux de rythme. Valider ?
 <b>Nikodim:</b> Okay cool thing, what do you want to do? Wanna get my badge?
 <b>Nikodim:</b> Okay le coolkid, qu'est-ce que tu veux faire ? Tu veux avoir mon badge ?
 <b>Nikodim:</b> It's punk time!
@@ -104,12 +112,12 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Tobie:</b> Hey salut ! Prêt pour mon jeu de rythme ?
 <b>Tobie:</b> Okay! Can you do it?
 <b>Tobie:</b> Okay ! Peux-tu y arriver ?
+<b>Tobie:</b> Ready when you are!
+<b>Tobie:</b> Quand tu veux !
 <b>Tobie:</b> Eh, not bad! Talk to me again when you want to battle me!
 <b>Tobie:</b> Eh, pas mal ! Parle-moi de nouveau quand tu voudras me combattre !
 <b>Tobie:</b> My, my, there is room for progress... Sorry, but maybe try again? Let's aim for at least 10000 points!
 <b>Tobie:</b> eh bien, ya de la place pour le progrès... Désolé mais réessaye peut-être ? Visons les 10000 points !
-<b>Tobie:</b> Ready when you are!
-<b>Tobie:</b> Quand tu veux !
 <b>Tobie:</b> Your best score for my minigame is \v[199]. What do you want to do?
 <b>Tobie:</b> Ton meilleur score pour mon minijeu est \v[199]. Que veux-tu faire ?
 <b>Tobie:</b> Keep your spirits up!
@@ -142,22 +150,32 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Wesley:</b> Ne t'inquiète pas : ces zones ne sont pas placées au hasard. Elles correspondent aux temps forts de la musique.
 <b>Wesley:</b> The more you progress in the Gym, the faster will be the music beat! Good luck!
 <b>Wesley:</b> Plus tu progresses dans l'Arène, plus le rythme sera rapide ! Bonne chance !
-Outil de début. Si encore présent en 0.2, prévenir Théren. Tester un minijeu ?
-Outil de débug. Si encore présent en 0.2, prévenir Théren. Tester un minijeu ?
 <b>Lurantis:</b> Lurantis!
 <b>Floramantis:</b> Floramantis !
+Outil de débug. Si toujours dans la 0.2.4, prévenir Theren
+Outil de débug. Si toujours dans la 0.2.4, prévenir Theren
 Yes
 Oui
 No
 Non
-Skip minigame
-Passer le minijeu
+60 FPS
+60 FPS
+144 FPS
+144 FPS
+Skip Minigame
+Passer minijeu
+Explanations
+Explications
+Cancel
+Annuler
 Battle you!
 Combattre !
 Play minigame again
 Rejouer le minijeu
 Nothing, sorry
 Rien, désolé
+Skip minigame
+Passer le minijeu
 Retry minigame
 Réessayer minijeu
 Battle him!
@@ -172,17 +190,15 @@ Try minigame again
 Rejouer le minijeu
 Say goodbye
 Dire au revoir
-1
-1
-2
-2
-3
-3
-Recording 1
-Recording 1
-Recording 2
-Recording 2
-Recording 3
-Recording 3
-Cancel
-Annuler
+Test 1 60 FPS
+Test 1 60 FPS
+Test 2 60 FPS
+Test 2 60 FPS
+Test 3 60 FPS
+Test 3 60 FPS
+Test 1 144 FPS
+Test 1 144 FPS
+Test 2 144 FPS
+Test 2 144 FPS
+Test 3 144 FPS
+Test 3 144 FPS

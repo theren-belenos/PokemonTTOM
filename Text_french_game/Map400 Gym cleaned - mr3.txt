@@ -31,7 +31,7 @@ Vous passez du temps à traîner avec Marley dans l'Arène.
 He is really cool!
 Il est vraiment cool !
 You spend time training with Samy at the Gym.
-You spend time training with Samy at the Gym.
+Vous passez du temps à vous entraîner avec Samy dans l'Arène.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe ?
 Welcome to the \gt Gym!

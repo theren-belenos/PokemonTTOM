@@ -13,7 +13,7 @@
     // Note that the "Game Title" defined in RPG Maker XP should not have
     // accented characters in it, which is why this property is useful.
     //
-    "windowTitle": "PokemonTTOM v0.2.2",
+    "windowTitle": "PokemonTTOM v0.2.4",
 
     // The game window's width and height, in pixels.
     //

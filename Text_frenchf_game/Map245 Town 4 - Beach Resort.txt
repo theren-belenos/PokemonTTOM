@@ -2,10 +2,8 @@
 # translate every second line of this file.
 #-------------------------------
 [Map245]
-<b>Tourist:</b> My! Even their battle arenas are so picturesque!
-<b>Touriste:</b> Ohlala ! Même leurs arènes de combat sont si pittoresques !
-<b>Tourist:</b> Really! They have so little, but give so much!
-<b>Touriste:</b> Vraiment ! Ils ont si peu, mais donnent tant !
+<b>Man:</b> ZZZZzzzzz…
+<b>Homme:</b> ZZZZzzzzz…
 <b>Butch:</b> What? Hey you’re the one from Route 9!
 <b>Butch:</b> Quoi ? Hé j’me rappelle de toi, sur la Route 9 !
 <b>Butch:</b> What?
@@ -20,16 +18,10 @@
 <b>Cassidy:</b> Hey, c’est la fille qui m’a éliminé ! J’aurai ma revanche !
 <b>Butch:</b> We meet now, right? You kids are done for!
 <b>Butch:</b> On se rencontre maintenant hein ! Vous êtes foutus !
-<b>Man:</b> ZZZZzzzzz…
-<b>Homme:</b> ZZZZzzzzz…
-<b>\v[12]:</b> Try not to lose before our battle, loser!
-<b>\v[12]:</b> Essaye de ne pas perdre avant notre combat, loser !
-<b>\v[12]:</b> Didn’t lose yet? Heh!
-<b>\v[12]:</b> T’as pas encore perdu ? Heh !
-<b>\v[12]:</b> Next one is us, right? Sorry for your impending defeat hahaha!
-<b>\v[12]:</b> Prochain round c’est nous, c’est ça ? Désolé par avance pour ta défaite hahaha !
-<b>Tourist:</b> Finally there! Can’t wait to take a nap!
-<b>Touriste:</b> Enfin arrivé ! J'ai hâte de faire une sieste !
+<b>Tourist:</b> My! Even their battle arenas are so picturesque!
+<b>Touriste:</b> Ohlala ! Même leurs arènes de combat sont si pittoresques !
+<b>Tourist:</b> Really! They have so little, but give so much!
+<b>Touriste:</b> Vraiment ! Ils ont si peu, mais donnent tant !
 <b>Mother:</b> Hey, you’re the one that helped us when we lost Kitty! How are you?
 <b>Maman:</b> Hé, c’est toi qui nous a aidé quand on avait perdu Kitty! Comment vas-tu ?
 <b>Mother:</b> Good luck in the tournament!
@@ -38,8 +30,16 @@
 <b>Petite fille:</b> C’est quoi ton numéro ? 9 ? Eeeeeh, t’es ma première ennemie !
 <b>Mother:</b> D…don’t say “enemy” sweetie, it’s a bit… too much!
 <b>Maman:</b> N…Ne dis pas “ennemie”, chérie, c’est un peu… trop !
-<b>Youngster:</b> Eeeeh? Everyone here seems so strong!
-<b>Gamin:</b> Heiiin ? Tout le monde a l’air si fort ici !
+<b>Tourist:</b> Finally there! Can’t wait to take a nap!
+<b>Touriste:</b> Enfin arrivé ! J'ai hâte de faire une sieste !
+<b>\v[12]:</b> Try not to lose before our battle, loser!
+<b>\v[12]:</b> Essaye de ne pas perdre avant notre combat, loser !
+<b>\v[12]:</b> Didn’t lose yet? Heh!
+<b>\v[12]:</b> T’as pas encore perdu ? Heh !
+<b>\v[12]:</b> Next one is us, right? Sorry for your impending defeat hahaha!
+<b>\v[12]:</b> Prochain round c’est nous, c’est ça ? Désolé par avance pour ta défaite hahaha !
+<b>Woman:</b> This place is perfect for relaxing! Way more calm than public beaches at East Nekanta!
+<b>Dame:</b> Cet endroit est parfait pour se détendre ! Bien plus calme que les plages publiques de l'Est Nekanta !
 <b>Butch:</b> What? How come we didn’t even get past the first round?
 <b>Butch:</b> Quoi ? Comment c’est possible qu’on passe même pas le premier round ?
 <b>Cassidy:</b> I stumbled upon a pink haired monster! I swear she was scary!
@@ -58,10 +58,8 @@
 <b>\c[9]Melly:</b>\c[0] Moi ? J’ai perdu. Et c’était même pas un peu serré.
 <b>\c[9]Melly:</b>\c[0] To be honest, I don’t think even you can beat her…
 <b>\c[9]Melly:</b>\c[0] Honnêtement, même toi je pense pas que tu pourras la battre…
-<b>Woman:</b> This place is perfect for relaxing! Way more calm than public beaches at East Nekanta!
-<b>Dame:</b> Cet endroit est parfait pour se détendre ! Bien plus calme que les plages publiques de l'Est Nekanta !
-<b>Artist:</b> The natural light is really good here! I should paint something!
-<b>Artiste:</b> La lumière est vraiment bonne ici ! Je devrais peindre quelque chose !
+<b>Youngster:</b> Eeeeh? Everyone here seems so strong!
+<b>Gamin:</b> Heiiin ? Tout le monde a l’air si fort ici !
 <b>Crush Girl:</b> I’m ready! I will crush everyone!
 <b>Fille Baston:</b> Je suis prête ! J’écraserai tout le monde !
 <b>Crush Girl:</b> One down! Three more to go!
@@ -76,6 +74,12 @@
 <b>Fille Baston:</b> Hein ? C’est censé vouloir dire quoi ?
 <b>Psychic:</b> …
 <b>Kinésiste:</b> …
+<b>Artist:</b> The natural light is really good here! I should paint something!
+<b>Artiste:</b> La lumière est vraiment bonne ici ! Je devrais peindre quelque chose !
+<b>Preschooler Boy:</b> My mama says we have to protect ourselves from the sun!
+<b>Petit garçon:</b> Ma maman dit qu'il faut se protéger du soleil !
+<b>Preschooler Girl:</b> Eeeeh ? But sun is kind, he won’t attack us!
+<b>Petite Fille:</b> Heiiiin ? Mais soleil il est gentil, il va pas nous attaquer !
 <b>Grunt Ana:</b> Hey, aren’t you the kid from the Geodude Pit?
 <b>Sbire Ana:</b> Hey, t’es pas l’enfant qu’on a vu dans la Fosse Racaillou ?
 <b>Grunt Bob:</b> I think you’re right! Hello pal!
@@ -112,22 +116,24 @@
 <b>Sbire Bob:</b> Plus que nous, hein ? Allez les gosses, c’est parti pour un joli combat !
 <b>Grunt Ana:</b> I won’t be defeated by either of you anymore! Mark my words!
 <b>Sbire Ana:</b> Aucun de vous deux ne pourra me battre, plus jamais !
-<b>Preschooler Boy:</b> My mama says we have to protect ourselves from the sun!
-<b>Petit garçon:</b> Ma maman dit qu'il faut se protéger du soleil !
-<b>Preschooler Girl:</b> Eeeeh ? But sun is kind, he won’t attack us!
-<b>Petite Fille:</b> Heiiiin ? Mais soleil il est gentil, il va pas nous attaquer !
-<b>Tourist:</b> What a nice place! I can forget all my problems here…
-<b>Touriste:</b> Quel bel endroit ! Je peux oublier tous mes problèmes ici...
 <b>Psychic:</b> Hey, seems like an interesting tournament now…
 <b>Kinésiste:</b> Hey, ça c’est un tournoi intéressant…
+<b>Tourist:</b> What a nice place! I can forget all my problems here…
+<b>Touriste:</b> Quel bel endroit ! Je peux oublier tous mes problèmes ici...
 Camosack Grand Hotel
 Grand Hotel de Camosack
-<b>Tourist:</b> Honey, did you put some solar lotion?
-<b>Touriste:</b> Chéri, tu as mis de la crème solaire ?
 <b>Jeremy:</b> Oh hi \pn how are you? Good luck during the tournament!
 <b>Jeremy:</b> Oh salut \pn comment vas-tu ? Bonne chance pour le tournoi !
 <b>Jeremy:</b> Hey \pn, it seems I will battle you during the next match. Good luck my friend!
 <b>Jeremy:</b> Hey \pn, apparemment on s’affronte au prochain round. Bonne chance mon amie !
+<b>Tourist:</b> Honey, did you put some solar lotion?
+<b>Touriste:</b> Chéri, tu as mis de la crème solaire ?
+<b>Grimmsnarl:</b> Riiiimsnar!
+<b>Angoliath:</b> Gooooliath !
+It looks like a drawing board. But there is nothing on it.
+On dirait un panneau d'affichage. Mais il n'y a rien dessus.
+You look at the tournament bracket.
+Vous consultez l'arbre du tournoi.
 <b>\c[4]???:</b>\c[0] What do you want? Go away!
 <b>\c[4]???:</b>\c[0] Qu’est-ce que tu veux ? Va-t-en !
 <b>\c[4]???:</b>\c[0] Can’t you just stop looking at me?
@@ -136,24 +142,12 @@ Grand Hotel de Camosack
 <b>\c[4]???:</b>\c[0] Hmpf, toujours là ? Peut-être que toi, tu peux offrir un challenge décent ?
 <b>\c[4]???:</b>\c[0] You're here ? Interesting...
 <b>\c[4]???:</b>\c[0] Encore là ? Intéressant...
-It looks like a drawing board. But there is nothing on it.
-On dirait un panneau d'affichage. Mais il n'y a rien dessus.
-You look at the tournament bracket.
-Vous consultez l'arbre du tournoi.
-<b>Grimmsnarl:</b> Riiiimsnar!
-<b>Angoliath:</b> Gooooliath !
 <b>Elder:</b> I don’t care, I will stay here for the rest of my life!
 <b>Papy:</b> Je m'en fiche, je resterai ici pour le reste de mes jours !
-<b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready. Good luck!
-<b>\c[9]Melly:</b>\c[0] Je crois qu’on peut parler à Madame S quand on est prêtes. Bonne chance !
-<b>\c[9]Melly:</b>\c[0] Hey, my first battle was kinda hard actually!
-<b>\c[9]Melly:</b>\c[0] Hey, mon premier combat était en réalité plutôt dur !
-<b>\c[9]Melly:</b>\c[0] This woman wore cool clothes but was a bit scary…
-<b>\c[9]Melly:</b>\c[0] Cette femme avait des habits stylés mais faisait un peu peur…
-<b>\c[9]Melly:</b>\c[0] The second battle was even harder! I nearly lost!
-<b>\c[9]Melly:</b>\c[0] Le deuxième combat était encore plus dur ! J’ai failli perdre !
-<b>\c[9]Melly:</b>\c[0] It was against a man in a strange uniform…
-<b>\c[9]Melly:</b>\c[0] C’était contre un homme dans un uniforme bizarre…
+You relax at Camosack beach with Madame S so much that you almost fall asleep.
+Vous vous détendez à la plage avec Madame S au point que vous vous endormez presque.
+Good thing you put on sunscreen!
+Heureusement que vous avez mis de la crème solaire !
 <b>\c[11]???:</b>\c[0] Oh hello you pretty little thing, how are you? You can call me Madame S !
 <b>\c[11]???:</b>\c[0] Oh bonjour joli coeur, comment vas-tu ? Tu peux m’appeler Madame S !
 <b>\c[11]Madame S:</b>\c[0] You want to run in my humble tournament ?
@@ -194,6 +188,8 @@ Vous regardez le panneau. Il montre l’arbre du tournoi.
 <b>\c[9]Melly:</b>\c[0] Non mais vraiment ! C’est quoi son problème ?!
 <b>\c[9]Melly:</b>\c[0] Well, we just have to beat everyone else! Let’s go!
 <b>\c[9]Melly:</b>\c[0] Bon, on doit juste battre tout le monde ! C’est parti !
+<b>\c[9]Melly:</b>\c[0] I think we can talk to Madame S when we’re ready. Good luck!
+<b>\c[9]Melly:</b>\c[0] Je crois qu’on peut parler à Madame S quand on est prêtes. Bonne chance !
 <b>\c[11]Madame S:</b>\c[0] You don’t have to be afraid sweetie!
 <b>\c[11]Madame S:</b>\c[0] Tu n’as pas à avoir peur trésor !
 <b>\c[11]Madame S:</b>\c[0] Do you want to join?
@@ -384,10 +380,14 @@ Vous attendez avec Melly que le premier round soit joué…
 <b>\c[11]Madame S:</b>\c[0] Comment ça va ma chérie ?
 You already gave a gift to Madame S this week!
 Vous avez déjà offert un cadeau à Madame S cette semaine !
-You relax at Camosack beach with Madame S so much that you almost fall asleep.
-Vous vous détendez à la plage avec Madame S au point que vous vous endormez presque.
-Good thing you put on sunscreen!
-Heureusement que vous avez mis de la crème solaire !
+<b>\c[9]Melly:</b>\c[0] Hey, my first battle was kinda hard actually!
+<b>\c[9]Melly:</b>\c[0] Hey, mon premier combat était en réalité plutôt dur !
+<b>\c[9]Melly:</b>\c[0] This woman wore cool clothes but was a bit scary…
+<b>\c[9]Melly:</b>\c[0] Cette femme avait des habits stylés mais faisait un peu peur…
+<b>\c[9]Melly:</b>\c[0] The second battle was even harder! I nearly lost!
+<b>\c[9]Melly:</b>\c[0] Le deuxième combat était encore plus dur ! J’ai failli perdre !
+<b>\c[9]Melly:</b>\c[0] It was against a man in a strange uniform…
+<b>\c[9]Melly:</b>\c[0] C’était contre un homme dans un uniforme bizarre…
 Yes
 Oui
 No

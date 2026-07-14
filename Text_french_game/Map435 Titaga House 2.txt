@@ -11,7 +11,7 @@
 <b>Girl:</b> I really want to go to \tn, I heard they have a Grass Gym!
 <b>Fille:</b> J'ai vraiment envie d'aller à \tn, Il paraît qu'ils ont une Arène Plante !
 <b>Girl:</b> Why isn't the Grass Gym here??? I'm so sad!
-<b>Fille:</b> Pourquoi l'arène Plante n'est pas ici ??? Je suis trop tristre !
+<b>Fille:</b> Pourquoi l'arène Plante n'est pas ici ??? Je suis trop triste !
 There is only trash in there.
 Il n'y a que des déchets ici !
 <b>Lady:</b> Hello! How are you?

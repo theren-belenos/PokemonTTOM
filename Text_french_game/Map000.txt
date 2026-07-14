@@ -191,7 +191,7 @@ Vous n'avez rien à dire à Marley concernant des quêtes.
 <b>\c[3]Marley:</b>\c[0] Say boss, you know I like regional forms, right?
 <b>\c[3]Marley:</b>\c[0] Dis boss, tu sais que j'aime les formes régionales, hein ?
 <b>\c[3]Marley:</b>\c[0] And you know I really like shinies too, don't I?
-<b>\c[3]Marley:</b>\c[0] Et tu sais aussi que l'aime beaucoup les shinys, n'est-ce pas ?
+<b>\c[3]Marley:</b>\c[0] Et tu sais aussi que j'aime beaucoup les shinys, n'est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] ...can you see where I'm going there?
 <b>\c[3]Marley:</b>\c[0] ...est-ce que tu vois où je veux en venir ?
 <b>\c[3]Marley:</b>\c[0] Yes! A Pokémon can be both! Shiny AND regional form! Crazy, no?
@@ -241,7 +241,7 @@ Vous n'avez rien à dire à Marley concernant des quêtes.
 You have nothing to tell Melly about any quest.
 Vous n'avez rien à dire à Melly concernant des quêtes.
 <b>\c[9]Melly:</b>\c[0] H-hi \pn, I wanted to ask you something!
-<b>\c[9]Melly:</b>\c[0] H-hi \pn, je voulais te demander quelque chose !
+<b>\c[9]Melly:</b>\c[0] H-hey \pn, je voulais te demander quelque chose !
 <b>\c[9]Melly:</b>\c[0] As you probably figured by now, I reaaaaaally loves pink and purple!
 <b>\c[9]Melly:</b>\c[0] Comme tu l’as sans doute deviné, j’adooooooore le rose et le violet !
 <b>\c[9]Melly:</b>\c[0] Can you show me 3 pink or purple Pokémons? And not the same ones!
@@ -361,7 +361,7 @@ Voulez-vous donner 3 tessons rouges bleus et verts à Samy ?
 You have nothing to tell Madame S about any quest.
 Vous n'avez rien à dire à Madame S concernant des quêtes.
 <b>\c[11]Madame S:</b>\c[0] You didn't meet enough yet? No worries, I can wait! ...for a bit.
-<b>\c[11]Madame S:</b>\c[0] Tu n'en as pas rencontré assez encore ? Pas de soucis, je peux attenrdre ! ...pendant un temps.
+<b>\c[11]Madame S:</b>\c[0] Tu n'en as pas rencontré assez encore ? Pas de soucis, je peux attendre ! ...pendant un temps.
 You have nothing to tell the Nurses about any quest.
 Vous n'avez rien à dire aux infirmières concernant des quêtes.
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie! Can we ask you something?
@@ -457,7 +457,7 @@ Voulez-vous donner 3 de chacune de ces baies : Ceriz Maron Pecha Fraive Willia e
 <b>\c[11]Madame S:</b>\c[0] My old friend Nikodim won't stop talking about Ludicolos as dancers, could you give me one?
 <b>\c[11]Madame S:</b>\c[0] Mon vieil ami Nikodim n'arrête pas de parler de ses danseurs Ludicolo, tu pourrais m'en donner un ?
 <b>\c[11]Madame S:</b>\c[0] If they are at least 50% as effective as Nikodim says, it will be unbelievable!
-<b>\c[11]Madame S:</b>\c[0] S'il sont ce serait-ce que moitié aussi efficaces que ce que prétend Nikodim, ce serait déjà incroyable !
+<b>\c[11]Madame S:</b>\c[0] S'il sont ne serait-ce que moitié aussi efficaces que ce que prétend Nikodim, ce serait déjà incroyable !
 <b>\c[11]Madame S:</b>\c[0] Do you have a Ludicolo for me?
 <b>\c[11]Madame S:</b>\c[0] Est-ce que tu as un Ludicolo pour moi ?
 <b>\c[11]Madame S:</b>\c[0] Come back when you have one!
@@ -485,7 +485,7 @@ Voulez-vous donner 3 de chacune de ces baies : Ceriz Maron Pecha Fraive Willia e
 <b>\c[11]Madame S:</b>\c[0] Ludicolos based shows are fun but, well, they can't do more that they... always do, right?
 <b>\c[11]Madame S:</b>\c[0] Les shows à base de Ludicolos sont fun mais, bon, ils ne peuvent pas faire plus que ce qu'ils font... tout le temps, tu vois ?
 <b>\c[11]Madame S:</b>\c[0] To be honest, I would prefer to have some human performers, at least to go with them.
-<b>\c[11]Madame S:</b>\c[0] Pour être honnête, je préfèrerais avoir quelques artistes humains, au moins pour les acoompagner.
+<b>\c[11]Madame S:</b>\c[0] Pour être honnête, je préfèrerais avoir quelques artistes humains, au moins pour les accompagner.
 <b>\c[11]Madame S:</b>\c[0] But I can't really leave the place to recruit people you know?
 <b>\c[11]Madame S:</b>\c[0] Mais je peux pas vraiment partir d'ici pour recruter les gens tu sais ?
 <b>\c[11]Madame S:</b>\c[0] I know you're kinda exploring the country. If you find some performers, can you ask them to come here?
@@ -651,7 +651,7 @@ Vous n'avez rien à dire à Kathleen concernant des quêtes.
 <b>Cassian:</b> You powered both floors? Thanks a lot \pn! The Power Tunnel lives up his name now!
 <b>Cassian:</b> Tu as allumé les deux étages ? Merci beaucoup \pn ! Le Tunnel Energie porte bien son nom maintenant !
 You have nothing to tell Cassian about any quest.
-Vous n'avez rien à dire à Kathleen concernant des quêtes.
+Vous n'avez rien à dire à Cassian concernant des quêtes.
 <b>Cassian:</b> Hello \pn, how is your day? Would you be so kind to offer me a rematch?
 <b>Cassian:</b> Bonjour \pn, comment se passe ta journée ? Aurais-tu l'aimabilité de m'offrir une revanche ?
 <b>Cassian:</b> My team will be a bit stronger! My Pokémon are around level 45!
@@ -673,7 +673,7 @@ Vous n'avez rien à dire à Kathleen concernant des quêtes.
 <b>Cassian:</b> No? You should really try it!
 <b>Cassian:</b> Non ? Tu devais vraiment essayer !
 <b>Cassian:</b> Hey, nice one! Dusk Ball are really useful right?
-<b>Cassian:</b> Hey, pas mal ! Les Sombre Balls sont vraiment utile non ?
+<b>Cassian:</b> Hey, pas mal ! Les Sombre Balls sont vraiment utiles non ?
 <b>Cassian:</b> \pn, I would like a final rematch! This time, I'll give my very best!
 <b>Cassian:</b> \pn, j'aimerais une dernière revanche ! Cette fois, je me donnerai à fond !
 <b>Cassian:</b> My team is even stronger! My Pokémon are around level 60!
@@ -745,7 +745,7 @@ Quelques minutes plus tard
 <b>\c[10]Maple:</b>\c[0] So, here are your new quests, \pn.
 <b>\c[10]Maple:</b>\c[0] Donc, voici tes nouvelles quêtes, \pn.
 <b>\c[10]Maple:</b>\c[0] Your next badge is the Normal Gym, at Titaga.
-<b>\c[10]Maple:</b>\c[0] Your next badge is the Normal Gym, at Titaga.
+<b>\c[10]Maple:</b>\c[0] Ton prochain badge est celui de l’Arène Normale, à Titaga.
 <b>\c[10]Maple:</b>\c[0] Your next badge is Nikodim’s Grass Gym, at Titaga.
 <b>\c[10]Maple:</b>\c[0] Ton prochain badge est celui de l’Arène Plante de Nikodim, à Titaga.
 <b>\c[10]Maple:</b>\c[0] To reach Titaga, go south from Greymoose.
@@ -813,9 +813,9 @@ Samy raconte à Maple et Melly tout ce qui s’est passé à Greymoose, y compri
 <b>\c[10]Maple:</b>\c[0] And that’s all for today! \pn, good luck with your quest for rank 4!
 <b>\c[10]Maple:</b>\c[0] Et c’est tout pour aujourd’hui ! \pn, bonne chance dans ta quête pour le rang 4 !
 <b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 4!
-<b>\c[10]Maple:</b>\c[0] Hoho \pn, congratulations for making it to the rank 4!
+<b>\c[10]Maple:</b>\c[0] Hoho \pn, félicitations d'avoir atteitn le rang 4 !
 Dev note: End of current build. Please wait for the next update!
-Dev note: End of current build. Please wait for the next update!
+Dev note: Fin du build actuel. Merci d'attendre la prochaine update !
 What do you want to know?
 Que voulez-vous savoir ?
 You have 3 options:\n- Full animation

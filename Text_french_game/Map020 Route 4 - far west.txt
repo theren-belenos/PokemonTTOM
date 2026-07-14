@@ -5,7 +5,7 @@
 <b>Jefferson:</b> One Two Three Four!
 <b>Jefferson:</b> Un Deux Trois Quatre !
 <b>Jefferson:</b> Don't make me skip a beat!
-<b>Jefferson:</b> Ne fais pas perdre le rythme!
+<b>Jefferson:</b> Ne me fais pas perdre le rythme!
 <b>Cyril:</b> It's nice to have a break from swimming!
 <b>Cyril:</b> On fait une petite pause !
 <b>Cyril:</b> I miss swimming already...

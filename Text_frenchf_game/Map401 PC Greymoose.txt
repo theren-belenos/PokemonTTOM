@@ -2,10 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map401]
-<b>Worker:</b> Greymoose is a big city. Don't get lost, kid.
-<b>Travailleur:</b> Greymoose est une grande ville. Ne te perds pas, gamin.
 There is only trash in there.
 Il n'y a que des déchets là-dedans.
+<b>Worker:</b> Greymoose is a big city. Don't get lost, kid.
+<b>Travailleur:</b> Greymoose est une grande ville. Ne te perds pas, gamin.
 <b>Eiscue:</b> Eiuuuu!
 <b>Bekaglaçon:</b> açoooooon!
 <b>Dunsparce:</b> Duuuuun!
@@ -54,10 +54,10 @@ Il n'y a que des déchets là-dedans.
 <b>\c[5]Infirmière:</b>\c[0] Tes Pokémon sont en pleine forme.
 <b>\c[5]Nurse:</b>\c[0] Take care sweetie!
 <b>\c[5]Infirmière:</b>\c[0] Sois prudente trésor !
-Relaxation and meeting zone
-Zone de rencontre et de détente
 <b>Little boy:</b> Can we go hooooome??
 <b>Petit garçon:</b> On peut rentreeeeeeer??
+Relaxation and meeting zone
+Zone de rencontre et de détente
 <b>Buneary:</b> Bubububuiiii!
 <b>Laporeille:</b> Popoporeillllle!
 <b>Little girl:</b> Mama! I'm hungry too!

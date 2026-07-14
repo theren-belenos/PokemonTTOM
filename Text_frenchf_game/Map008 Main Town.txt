@@ -240,6 +240,8 @@ Vous avez déjà donné un cadeau à Melly cette semaine !
 <b>Touriste:</b> J’ai soif ! On peut pas boire un coup dans cette ville??
 <b>Tourist:</b> I’m thirsty! Let’s go to the café!
 <b>Touriste:</b> J’ai soif! Allons au café!
+<b>Klefki:</b> Klikliklikli!
+<b>Trousselin:</b> Tlitlitlitli!
 <b>Lady:</b> Hello you pretty thing!
 <b>Dame:</b> Bonjour mignonne petite chose~
 <b>Lady:</b> You're already pretty but for a small price, I can make you Pokémon prettier too!
@@ -254,8 +256,6 @@ Vous avez déjà donné un cadeau à Melly cette semaine !
 <b>Dame:</b> Okay, c'est parti !!
 <b>Lady:</b> It's done! You're soooo pretty together!!!
 <b>Dame:</b> C'est fait ! Vous êtes trop magnifiques tous les deux !!!
-<b>Klefki:</b> Klikliklikli!
-<b>Trousselin:</b> Tlitlitlitli!
 \tn's Department Store
 Centre Commercial de \tn
 The sign is really damaged... You can't read anything.

@@ -7,7 +7,7 @@
 <b>Kathleen:</b> You wanna challenge my Gym huh?
 <b>Kathleen:</b> Tu veux défier mon Arène hein ?
 <b>Kathleen:</b> Sorry but I have something urgent to take care.
-<b>Kathleen:</b> Désolé mais je dois m’occuper de quelque chose d’urgent.
+<b>Kathleen:</b> Désolée mais je dois m’occuper de quelque chose d’urgent.
 <b>Kathleen:</b> Did you feel the recent seism?
 <b>Kathleen:</b> Tu as senti le séisme il y a pas longtemps ?
 <b>Kathleen:</b> A wall in the firefly cave, just here, collapsed and revealed a passage.
@@ -45,7 +45,7 @@ Toujours un peu confus, vous le remerciez et partez à la recherche de ce <b><c3
 The Bug Leader shows you this drawing of a tall, kinda muscular guy with the name "Samy", and looks puzzled.
 Le Leader Normal vous montre ce dessin d’un homme grand et plutôt musclé avec écrit “Samy”, et semble confus.
 <b>Little Girl:</b> Noooooooo!! Ehehehehe!
-<b>Little Girl:</b> Noooooooon !! Ehehehehe !
+<b>Petite Fille :</b> Noooooooon !! Ehehehehe !
 <b>Kid:</b> I will catch you like I would catch a big bug !! Haha !
 <b>Enfant:</b> Je vais t'attraper comme si j'attrapais un gros insecte !! Haha !
 <b>Bug Catcher:</b> The birds may be attracted by the high density of insects here... Don't you think ?

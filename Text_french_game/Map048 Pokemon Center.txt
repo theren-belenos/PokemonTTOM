@@ -19,7 +19,7 @@ Ils sont si doux et mignons !
 <b>Jeremy:</b> Thank you \pn! I will reward you of course!
 <b>Jeremy:</b> Merci \pn ! Je te récompenserai bien sûr !
 <b>Jeremy:</b> Oh... Well, I heard you are busy nowadays, it's ok...
-<b>Jeremy:</b> Oh… Eh bien, j’ai entendu dire que tu était occupé en ce moment, pas de soucis…
+<b>Jeremy:</b> Oh… Eh bien, j’ai entendu dire que tu étais occupé en ce moment, pas de soucis…
 <b>Jeremy:</b> Did you change your mind?
 <b>Jeremy:</b> T’as changé d’avis ?
 <b>Jeremy:</b> Can you find my lost notebook in the Green Lush Forest ?
@@ -53,7 +53,7 @@ Vous donnez le carnet à Jeremy.
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, here you are at the achievements center, created by Maple specially for you!
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor, tu es ici au centre des succès, créé spécialement pour toi par Maple !
 <b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go upstairs for now.
-<b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas monter pour l’instant.
+<b>\c[5]Infirmière:</b>\c[0] Désolée trésor, tu ne peux pas monter pour l’instant.
 <b>\c[5]Nurse:</b>\c[0] It still need repairs.
 <b>\c[5]Infirmière:</b>\c[0] Il y a encore besoin de réparations.
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie, welcome to the Pokémon Center.
@@ -113,7 +113,7 @@ Vous avez déjà offert un cadeaux aux infirmières cette semaine !
 Happiny seems really happy to hang out on top of the counter!
 Ptiravi a l’air très content de se balader sur le comptoir !
 <b>\c[5]Nurse:</b>\c[0] Sorry sweetie, you can't go to the upper part for now.
-<b>\c[5]Infirmière:</b>\c[0] Désolé trésor, tu ne peux pas aller à l’étage pour le moment.
+<b>\c[5]Infirmière:</b>\c[0] Désolée trésor, tu ne peux pas aller à l’étage pour le moment.
 Yes
 Oui
 No

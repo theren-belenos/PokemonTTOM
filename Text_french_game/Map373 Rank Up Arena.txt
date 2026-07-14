@@ -51,7 +51,7 @@ Vous obtenez le Badge Arc-en-Ciel ! \f[RAINBOWBADGE]
 <b>\c[7]???:</b>\c[0] Ohoho, so that's you...
 <b>\c[7]???:</b>\c[0] Ohoho, donc c’est toi…
 <b>\c[7]Aristarque:</b>\c[0] Allow me to introduce myself: I'm Aristarque, the Nekanta League Champion. And there is my beloved Zamazenta.
-<b>\c[7]Aristarque:</b>\c[0] Permets moi de me présenter : je suis Aristarque, le Maître de la Ligue de Nekanta. Et voici mon Zamazenta adoré.
+<b>\c[7]Aristarque:</b>\c[0] Laisse moi me présenter : je suis Aristarque, le Maître de la Ligue de Nekanta. Et voici mon Zamazenta adoré.
 <b>\c[7]Aristarque:</b>\c[0] I recently received a letter from the Professor Maple explaining me everything.
 <b>\c[7]Aristarque:</b>\c[0] J’ai récemment reçu une lettre de la part du Professeur Maple m’expliquant la situation.
 <b>\c[7]Aristarque:</b>\c[0] So you wanna reopen the \tn Gym huh?
@@ -243,7 +243,7 @@ Votre Arène est maintenant rang 3 !
 The Normal Leader doesn't seem to mind you took their spot at the rank 3. They're actually smiling.
 Le Leader Normal n’a pas l’air d’être triste que vous ayez pris sa place au rang 3. Iel est en train de sourire.
 <b>Nikodim:</b> Ohoho! This time you want my rank huh? Hah, do you have what it takes?
-<b>Nikodim:</b> Ohoho! Cette fois tu veux mon rang 4 hein ? Mais t'as ce qu'il faut dans tes tripes !
+<b>Nikodim:</b> Ohoho! Cette fois tu veux mon rang 4 hein ? Mais t'as ce qu'il faut dans tes tripes ?
 You new Gym Team must have 4 Pokémons. They will be levelled down (if necessary) to level 30, 32 for you ace.
 Votre nouvelle équipe d’Arène doit avoir 4 Pokémons. Ils seront abaissés (si besoin) au niveau 30, 32 pour votre ace.
 <b>Nikodim:</b> Let's start the show!

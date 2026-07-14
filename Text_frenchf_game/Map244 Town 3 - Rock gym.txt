@@ -120,15 +120,17 @@ You approach and pet the Skitty. It seems relaxed.
 Vous vous approchez et caressez le Skitty. Il semble se détendre.
 Skitty agrees to follow you!
 Skitty accepte de vous suivre !
+Debug?
+Debug?
 <b>Croagunk:</b> Khikhikhikhikhi!!!!
 <b>Cradopaud:</b> Khikhikhikhikhi !!!!
 <b>Tourist:</b> Wow, is this the Gym?
 <b>Touriste:</b> Wow, alors voici l'Arène ?
-<b>Machop:</b> Machoooop!!!
-<b>Machoc:</b> Machooooc !!!
 <b>Tourist:</b> This building is huge! What's that for?
 <b>Touriste:</b> Ce bâtiment est énorme ! A quoi il sert ?
-<b>Lotad:</b> Lotad!!!
-<b>Nenupiot:</b> Nupiot !!!
+<b>Machop:</b> Machoooop!!!
+<b>Machoc:</b> Machooooc !!!
 <b>Tourist:</b> What a nice place!
 <b>Touriste:</b> Quel endroit charmant !
+<b>Lotad:</b> Lotad!!!
+<b>Nenupiot:</b> Nupiot !!!

@@ -2,10 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map093]
-<b>Rich Boy:</b> Don't they have a golf here??
-<b>Richard:</b> Ils n'ont pas de golf ici ??
 There is only trash in there.
 Il n’y a que des déchets là-dedans.
+<b>Rich Boy:</b> Don't they have a golf here??
+<b>Richard:</b> Ils n'ont pas de golf ici ??
 <b>Whismur:</b> Muuuuur!
 <b>Chuchmur:</b> Muuuuur!
 <b>Trumbeak:</b> Trumbeaaaak!

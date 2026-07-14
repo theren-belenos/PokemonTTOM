@@ -193,7 +193,7 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] You can't wait I'm sure, but tomorrow is Wednesday, it's a free day for you!
 <b>\c[10]Maple:</b>\c[0] Je sais que t’es impatient mais demain c’est Mercredi, tu as la journée libre !
 <b>\c[10]Maple:</b>\c[0] Wednesday is a lot like weekends:
-<b>\c[10]Maple:</b>\c[0] Les Mercredis ressemblent beaucoup aux Week-ends
+<b>\c[10]Maple:</b>\c[0] Les Mercredis ressemblent beaucoup aux Week-ends :
 <b>\c[10]Maple:</b>\c[0] You can program new city tasks, and spend time with people from your social links.
 <b>\c[10]Maple:</b>\c[0] Tu peux programmer des projets de ville, et passer du temps avec les gens de tes liens sociaux.
 <b>\c[10]Maple:</b>\c[0] When you finish Tuesday's workday, you will automatically skip to the next morning and get to Wednesday.

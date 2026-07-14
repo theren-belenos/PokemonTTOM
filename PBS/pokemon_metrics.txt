@@ -6608,3 +6608,8 @@ ShadowSprite = 0,8,20
 BackSprite = 0,0
 FrontSprite = 0,0
 ShadowSprite = 0,0,19
+#-------------------------------
+[DRAKEON]
+BackSprite = 0,27
+FrontSprite = 0,26
+ShadowSprite = 0,-40,-5

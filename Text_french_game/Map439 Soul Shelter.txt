@@ -4,14 +4,6 @@
 [Map439]
 <b>Elder:</b> I can talk to spirits you know… Here, they’re actually rather appeased.
 <b>Mamie:</b> Je peux parler aux esprits tu sais... Ici, ils ont l'air plutôt apaisés.
-<b>Elder:</b> It’s you! Thanks for coming!
-<b>Papy:</b> C’est toi ! Merci d’être venu !
-<b>Elder:</b> The well is in the deepest parts of the Cave. I hope we won’t get lost.
-<b>Papy:</b> Le puit est dans la partie la plus profonde de la grotte. j’espère qu'on ne va pas se perdre.
-<b>Elder:</b> Can I give you the artefact right now? It’s a bit heavy for my old bones…
-<b>Papy:</b> Puis-je te donner l’artefact dès maintenant ? C’est un peu lourd pour mes vieux os…
-<b>Elder:</b> Let us go!
-<b>Papy:</b> Allons-y !
 <b>Elder:</b> There it is! Throw the artefact inside!
 <b>Papy:</b> Le voici ! Jette l’artéfact dedans !
 You throw the Odd Keystone into the well.
@@ -32,6 +24,14 @@ Soudainement, une forme émerge !
 <b>Papy:</b> Bon, puis-je te demander de me raccompagner à l’entrée ?
 A form emerges from the well!
 Une forme émerge du puit !
+<b>Elder:</b> It’s you! Thanks for coming!
+<b>Papy:</b> C’est toi ! Merci d’être venu !
+<b>Elder:</b> The well is in the deepest parts of the Cave. I hope we won’t get lost.
+<b>Papy:</b> Le puit est dans la partie la plus profonde de la grotte. j’espère qu'on ne va pas se perdre.
+<b>Elder:</b> Can I give you the artefact right now? It’s a bit heavy for my old bones…
+<b>Papy:</b> Puis-je te donner l’artefact dès maintenant ? C’est un peu lourd pour mes vieux os…
+<b>Elder:</b> Let us go!
+<b>Papy:</b> Allons-y !
 <b>Angelo:</b> Aaaaah! A ghost!
 <b>Angelo:</b> Aaaaah ! Un fantôme !
 <b>Angelo:</b> You're not a ghost but you're still scary!

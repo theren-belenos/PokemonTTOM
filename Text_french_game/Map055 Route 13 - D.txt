@@ -5,7 +5,7 @@
 <b>Kai:</b> Coming here is half the training!
 <b>Kai:</b> Arriver jusqu'ici c'est la moitié de l'entraînement !
 <b>Kai:</b> This fight was easily the other half! Pfiou!
-<b>Kai:</b> Ce combat est clairement l'autre moitué ! Pfiou !
+<b>Kai:</b> Ce combat est clairement l'autre moitié ! Pfiou !
 <b>Kiara:</b> Take a look at my training!
 <b>Kiara:</b> Regarde les résultats de mon entraînement !
 <b>Kiara:</b> What? My training is not enough?
