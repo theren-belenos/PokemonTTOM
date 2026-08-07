@@ -21,7 +21,7 @@ def pbChargeBarRythmGame(idminigame,hz)
 		outline_name = "ChargeBarLong"
 		song = "Audio/BGM/gym.ogg"
 		zone_size = 0.13
-		maxscore = 8500
+		maxscore = 4750
 		maxhits = 52
 		case hz
 		when 60
@@ -82,7 +82,7 @@ def pbChargeBarRythmGame(idminigame,hz)
 	when 2
 		outline_name = "ChargeBarLong"
 		song = "Audio/BGM/town_verdanturf.ogg"
-		maxscore = 15300
+		maxscore = 8150
 		maxhits = 86
 		zone_size = 0.15
 		case hz
@@ -185,7 +185,7 @@ def pbChargeBarRythmGame(idminigame,hz)
 	when 3
 		outline_name = "ChargeBarLong"
 		song = "Audio/BGM/battle_nikodim.ogg"
-		maxscore = 21500
+		maxscore = 11350
 		maxhits = 118
 		zone_size = 0.17
 		case hz
@@ -694,13 +694,13 @@ def pbChargeBarRythmGame(idminigame,hz)
 			if flag == true
 				hits += 1
 				combo += 1
-				combo = [20, combo].min
+				combo = [10, combo].min
 				maxcombo = [combo, maxcombo].max
 				gain = 10*combo  # succes
 			else
 				fails += 1
-				gain = -10 # fail
-				combo -= 10
+				gain = 0 # fail
+				combo -= 3
 				combo = [0, combo].max
 				
 			end
