@@ -223,7 +223,7 @@ Melly a perdu !
 Battle Start!
 Début du combat !
 <b>\r\v[12]:</b>\c[0]: Tsk! It's just beginner's luck! Get lucky while you can, loser!
-<b>\r\v[12]:</b>\c[0]: Tsk ! C’est juste la chance du débutant. Profite-en bien tant que tu peux, loser !
+<b>\r\v[12]:</b>\c[0]: Tsk ! C’est juste la chance du débutant. Profites-en bien tant que tu peux, loser !
 <b>\r\v[12]:</b>\c[0]: Hahahaha what a loser! Cya!
 <b>\r\v[12]:</b>\c[0]: Hahahaha quelle loser ! A plus !
 <b>c[10]Maple:</b>\c[0] Well huh, I didn't really expect you to lose today... Let's imagine you won, I will cover money and fame issues...
@@ -249,7 +249,7 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] From now on, do what you want to do.
 <b>\c[10]Maple:</b>\c[0] A partir de maintenant, fais ce que tu veux.
 <b>\c[10]Maple:</b>\c[0] Don't forget to plan tasks for the week during the weekend.
-<b>\c[10]Maple:</b>\c[0] N'oublies pas de prévoir des projets de ville le weekend.
+<b>\c[10]Maple:</b>\c[0] N'oublie pas de prévoir des projets de ville le weekend.
 <b>\c[10]Maple:</b>\c[0] Do not hesitate to speak to the ones in your Social Links during the weekend, spend time with them or even give them gifts.
 <b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec tes liens sociaux, passer du temps avec eux ou même leur offrir des cadeaux.
 <b>\c[10]Maple:</b>\c[0] The last thing I want to tell you:
@@ -259,7 +259,7 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] In other terms, to get it back to rank 12!
 <b>\c[10]Maple:</b>\c[0] En d’autres termes, la ramener au rang 12 !
 <b>\c[10]Maple:</b>\c[0] If you don't rank up, your fame level will soon be limited anyway.
-<b>\c[10]Maple:</b>\c[0] Si tu n’augmente pas de rang, ta Fame sera vite limitée de toute façon.
+<b>\c[10]Maple:</b>\c[0] Si tu n’augmentes pas de rang, ta Fame sera vite limitée de toute façon.
 <b>\c[10]Maple:</b>\c[0] In order to ask for a rank up battle, you have to :
 <b>\c[10]Maple:</b>\c[0] Pour pouvoir demander un Combat de Rang, tu dois :
 <b>\c[10]Maple:</b>\c[0] 1) Get the badge of the fellow Gym Leader you will battle.
@@ -267,7 +267,7 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] 2) Get to a certain fame level.
 <b>\c[10]Maple:</b>\c[0] 2) Atteindre un certain niveau de Fame.
 <b>\c[10]Maple:</b>\c[0] 3) A third objective is often given to you.
-<b>\c[10]Maple:</b>\c[0] 3) Un autre objectif t’es souvent donné.
+<b>\c[10]Maple:</b>\c[0] 3) Remplir un objectif que je te donnerai.
 <b>\c[10]Maple:</b>\c[0] I will give you your Main rank up quests, don't worry. Let me be the man who speak to the League.
 <b>\c[10]Maple:</b>\c[0] Je te donnerai tes Quêtes de Rang principales, t’inquiète pas. Laisse moi être celui qui parle à la Ligue.
 <b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.

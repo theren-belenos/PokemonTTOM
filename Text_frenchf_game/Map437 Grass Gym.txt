@@ -18,22 +18,24 @@ Si votre nombre de FPS actuel n'est pas proposé, soit vous changez (temporairem
 <b>Flore:</b> J'attends ici !
 <b>Flore:</b> Hehe~ That was fun! Talk to me again when you want to battle me!
 <b>Flore:</b> Hehe~ C'était marrant ! Parle-moi de nouveau quand tu voudras m'affronter !
-<b>Flore:</b> Eeeeeh? Seems you missed the beat no?? Try to score at least 6000 points!
-<b>Flore:</b> Eeeeeh ? T'as un peu perdu le rythme non ?? Essaye d'atteindre au moins 6000 points !
+<b>Flore:</b> Eeeeeh? Seems you missed the beat no?? Try to score at least 2500 points!
+<b>Flore:</b> Eeeeeh ? T'as perdu le rythme non ?? Essaye d'atteindre les 2500 points !
 <b>Flore:</b> Your best score for my minigame is \v[198]. What do you wanna do?
 <b>Flore:</b> Ton meilleur score pour mon minijeu est \v[198]. Tu veux faire quoi ?
 <b>Flore:</b> Can you also keep the beat during battle ?
 <b>Flore:</b> Peux-tu également tenir le rythme pendant un combat ?
 <b>Flore:</b> Hehe~ Nice! You can continue!
 <b>Flore:</b> Hehe~ Pas mal ! Tu peux continuer !
+<b>Flore:</b> See ya!
+<b>Flore:</b> A plus!
 You talk to the dancer about Camosack.
 Vous parlez de Camosack à la danseuse.
 <b>Flore:</b> Perform at Camosack you say? Sorry, but I have a good job here! I'm staying there, good luck for your search!
 <b>Flore:</b> Danser à Camsoack tu dis ? Désolé, mais j'ai un bon job ici ! Je reste là, bonne chance dans tes recherches !
 <b>Flore:</b> Your best score for my minigame is \v[198]. Wanna try it again?
 <b>Flore:</b> Ton meilleur score pour mon minijeu est \v[198]. Tu veux réessayer ?
-<b>Flore:</b> See ya!
-<b>Flore:</b> A plus!
+<b>Ludicolo:</b> Ludicolo!
+<b>Ludicolo:</b> Ludicolo!
 <b>Nikodim:</b> Oho! What do we have here hmmm... A challenger is coming to me, Nikodim, the Punk King?? Haha!
 <b>Nikodim:</b> Oho ! Qu'avons nous là hmmm... Un challenger vient me défier moi, Nikodim, le King du Punk ?? Haha !
 <b>Nikodim:</b> Do you think your rythm can satisfy us? Really? Ha, do you know for how long I'm doing punk???
@@ -54,14 +56,14 @@ Vous parlez de Camosack à la danseuse.
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge !
 <b>Nikodim:</b> Ohoho! Okay okay, I might need to catch a breath... Damn, aging isn't a breeze...
 <b>Nikodim:</b> Ohoho! Okay okay, c'était cool Raoul ! Je suis essoufflé, mince, on rajeunit pas...
-<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better! Aim for 20000 points for the second reward!
-<b>Nikodim:</b> T'as gagné la première récompense ! Mais tu peux faire encore mieux ! Vise un score de 20000 points ou plus pour la seconde récompense !
+<b>Nikodim:</b> You've earned the first bonus reward! But you can be even better! Aim for 10000 points for the second reward!
+<b>Nikodim:</b> Tu as gagné la première récompense bonus ! Mais tu peux encore faire mieux ! Vise les 10000 points pour la seconde récompense !
 <b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame again to get the second reward!
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour la 2e récompense !
 <b>Nikodim:</b> Okay, okay, not bad!
 <b>Nikodim:</b> Okay, okay, c'était chouettos.
-<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards! Try to get to 17000 points!
-<b>Nikodim:</b> Mais si tu obtiens un meilleur score, tu peux avoir des récompenses bonus ! Essaye d'atteindre les 17000 points !
+<b>Nikodim:</b> But if you get a better score, you can get the bonus rewards! Try to get to 7500 points!
+<b>Nikodim:</b> Mais si tu obtiens un meilleur score, tu peux avoir des récompenses bonus ! Essaye d'atteindre les 7500 points !
 <b>Nikodim:</b> Talk to me anytime to try to get my badge, or try the minigame to get better rewards!
 <b>Nikodim:</b> Parle moi quand tu veux pour essayer d'obtenir mon badge, ou pour réessayer le minijeu pour les récompenses !
 <b>Nikodim:</b> Well, I thought you were cooler... Feel free to try again...
@@ -100,8 +102,6 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Nikodim:</b> Ton meilleur score pour mon minijeu est \v[200]. Donne tout !
 <b>Nikodim:</b> See ya!
 <b>Nikodim:</b> A plus !
-<b>Ludicolo:</b> Ludicolo!
-<b>Ludicolo:</b> Ludicolo!
 <b>Alolan Exeggutor:</b> Exeggutor!!
 <b>Noadkoko d'Alola:</b> Noadkoko !!
 <b>Bellossom:</b> Bellossoooooom!
@@ -116,8 +116,8 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Tobie:</b> Quand tu veux !
 <b>Tobie:</b> Eh, not bad! Talk to me again when you want to battle me!
 <b>Tobie:</b> Eh, pas mal ! Parle-moi de nouveau quand tu voudras me combattre !
-<b>Tobie:</b> My, my, there is room for progress... Sorry, but maybe try again? Let's aim for at least 10000 points!
-<b>Tobie:</b> eh bien, ya de la place pour le progrès... Désolé mais réessaye peut-être ? Visons les 10000 points !
+<b>Tobie:</b> My, my, there is room for progress... Sorry, but maybe try again? Let's aim for at least 4500 points!
+<b>Tobie:</b> Eh bien, ya de la place pour le progrès...  Désolé mais réessaye peut-être ? Vise les 4500 points !
 <b>Tobie:</b> Your best score for my minigame is \v[199]. What do you want to do?
 <b>Tobie:</b> Ton meilleur score pour mon minijeu est \v[199]. Que veux-tu faire ?
 <b>Tobie:</b> Keep your spirits up!
@@ -130,8 +130,6 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Tobie:</b> Ton meilleur score pour mon minijeu est \v[199]. Tu veux réessayer ?
 <b>Tobie:</b> See you around!
 <b>Tobie:</b> A bientôt!
-<b>Rillaboom:</b> Rillabooooooom!
-<b>Gorythmic:</b> Gorythmiiiiiiiic !
 <b>Harvey?:</b> Hello challenger and welcome to the Grass Gym!
 <b>Harvey?:</b> Bonjour challenger et bienvenue dans l'Arène Plante !
 <b>Marley?:</b> ...what? No my name is not Harvey, why would that be? I'm Wesley!
@@ -150,10 +148,10 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Wesley:</b> Ne t'inquiète pas : ces zones ne sont pas placées au hasard. Elles correspondent aux temps forts de la musique.
 <b>Wesley:</b> The more you progress in the Gym, the faster will be the music beat! Good luck!
 <b>Wesley:</b> Plus tu progresses dans l'Arène, plus le rythme sera rapide ! Bonne chance !
+<b>Rillaboom:</b> Rillabooooooom!
+<b>Gorythmic:</b> Gorythmiiiiiiiic !
 <b>Lurantis:</b> Lurantis!
 <b>Floramantis:</b> Floramantis !
-Outil de débug. Si toujours dans la 0.2.4, prévenir Theren
-Outil de débug. Si toujours dans la 0.2.4, prévenir Theren
 Yes
 Oui
 No
@@ -190,15 +188,3 @@ Try minigame again
 Rejouer le minijeu
 Say goodbye
 Dire au revoir
-Test 1 60 FPS
-Test 1 60 FPS
-Test 2 60 FPS
-Test 2 60 FPS
-Test 3 60 FPS
-Test 3 60 FPS
-Test 1 144 FPS
-Test 1 144 FPS
-Test 2 144 FPS
-Test 2 144 FPS
-Test 3 144 FPS
-Test 3 144 FPS

@@ -31,7 +31,7 @@ N’oubliez pas de vérifier !
 You give the bag to Henry.
 Vous donnez le sac à Henry.
 <b>Henry:</b> You are a brave kid \pn, thank you very much.
-<b>Henry:</b> Tu est bien brave \pn, merci beaucoup.
+<b>Henry:</b> Tu es bien brave \pn, merci beaucoup.
 <b>Henry:</b> I have something for the braves of your kind...
 <b>Henry:</b> J’ai quelque chose pour les braves de ton espèce…
 <b>Henry:</b> Well its time for me to go back home! See you later young \pn.

@@ -76,8 +76,8 @@ Vous parlez de Camosack à la danseuse.
 <b>Raiden:</b> Quoi ? Ah oui, ta récompense.
 <b>Raiden:</b> The Godslayer...
 <b>Raiden:</b> Le Déicide...
-ou talk to the juggler about Camosack.
-Vous parlez de Camosack au jongleur.
+You talk to the juggler about Camosack.
+You talk to the juggler about Camosack.
 <b>Raiden:</b> Perform at Camosack? Do they need the God of Thunder himself??
 <b>Raiden:</b> Jouer à Camsoack ? Ils ont besoin du Dieu du Tonnerre en personne ?
 <b>Raiden:</b> I might be bored of this place yet... Okay, see you there!
