@@ -1,11 +1,30 @@
-[LINKSTONE]
-Name = Link Stone
-NamePlural = Link Stones
-Pocket = 1
-Price = 3000
-FieldUse = OnPokemon
-Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It has a link cable pattern.
+[OMNIMACHINE]
+Name = Omnimachine
+NamePlural = Omnimachines
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An all-purposes machine able to execute most of the field moves.
+
+#-------------------------------
+[INCUBATOR]
+Name = Incubator
+NamePlural = Incubators
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = An Incubator in which to keep up to 6 eggs until they hatch.
+
+#-------------------------------
+[SOSKIKISS]
+Name = SOS Kikiss
+NamePlural = SOS Kikiss
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Call Kikiss for help !!
 
 #-------------------------------
 [VIRTUALTRAINER]
@@ -114,7 +133,15 @@ Price = 0
 Flags = KeyItem
 Description = A unique, one-time usage mysterious godlike machine. Gives you the Pokémon of your dreams.
 
-
+#-------------------------------
+[LINKSTONE]
+Name = Link Stone
+NamePlural = Link Stones
+Pocket = 1
+Price = 3000
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar stone that makes certain species of Pokémon evolve. It has a link cable pattern.
 
 #-------------------------------
 [JONSGLASSES]

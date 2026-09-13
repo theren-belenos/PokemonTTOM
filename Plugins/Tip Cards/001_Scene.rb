@@ -46,12 +46,13 @@ class TipCard_Scene
         @viewport = Viewport.new(0,0,Graphics.width,Graphics.height)
         @viewport.z = 99999
         @index = 0
-		@animatingFameLvl = false
-		@count = 0
-		@fraction_tic = 0
-		@exp_fraction = 0
-		@fameRequired = 0
-		@remainingFame = 0
+				@animatingFameLvl = false
+				@consecutivelvl = 0
+				@count = 0
+				@fraction_tic = 0
+				@exp_fraction = 0
+				@fameRequired = 0
+				@remainingFame = 0
         @pages = @tips.length
         @sprites = {}
         @sprites["background"] = IconSprite.new(0, 0, @viewport)
@@ -61,9 +62,9 @@ class TipCard_Scene
         @sprites["background"].visible = true
         @sprites["image"] = IconSprite.new(0, 0, @viewport)
         @sprites["image"].visible = false
-		@sprites["stars"] = IconSprite.new(0, 0, @viewport)
+				@sprites["stars"] = IconSprite.new(0, 0, @viewport)
         @sprites["stars"].visible = false
-		@sprites["hearts"] = IconSprite.new(0, 0, @viewport)
+				@sprites["hearts"] = IconSprite.new(0, 0, @viewport)
         @sprites["hearts"].visible = false
         @sprites["arrow_right"] = IconSprite.new(0, 0, @viewport)
         @sprites["arrow_right"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/arrow_right"))
@@ -75,16 +76,16 @@ class TipCard_Scene
         @sprites["arrow_left"].x = Graphics.width / 2 - 48 - @sprites["arrow_left"].bitmap.width
         @sprites["arrow_left"].y = @sprites["background"].y + @sprites["background"].bitmap.height -  @sprites["arrow_left"].bitmap.height - 4
         @sprites["arrow_left"].visible = false
-		@sprites["famelvlbar"] = IconSprite.new(0, 0, @viewport)
-		@sprites["famelvlbar"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/famelvlbar"))
-		@sprites["famelvlbar"].x = @sprites["background"].x + 64
+				@sprites["famelvlbar"] = IconSprite.new(0, 0, @viewport)
+				@sprites["famelvlbar"].setBitmap(_INTL("Graphics/Pictures/Tip Cards/famelvlbar"))
+				@sprites["famelvlbar"].x = @sprites["background"].x + 64
         @sprites["famelvlbar"].y = @sprites["background"].y + 96
         @sprites["famelvlbar"].visible = false
-		@famebarbitmap  = AnimatedBitmap.new("Graphics/Pictures/Tip Cards/famelvlfill")
-		@famebar = Sprite.new(@viewport)
-		@famebar.bitmap = @famebarbitmap.bitmap
-		@sprites["famelvlfill"] = @famebar
-		@sprites["famelvlfill"].x = @sprites["background"].x + 72
+				@famebarbitmap  = AnimatedBitmap.new("Graphics/Pictures/Tip Cards/famelvlfill")
+				@famebar = Sprite.new(@viewport)
+				@famebar.bitmap = @famebarbitmap.bitmap
+				@sprites["famelvlfill"] = @famebar
+				@sprites["famelvlfill"].x = @sprites["background"].x + 72
         @sprites["famelvlfill"].y = @sprites["background"].y + 107
         @sprites["famelvlfill"].visible = false
         @sprites["overlay"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
@@ -142,7 +143,7 @@ class TipCard_Scene
 		pbSEStop
 		@famebar.src_rect.width = @famebarbitmap.width
 		pbPlayLevelUpSE
-		oldlvl = $town.calculateFameLvl
+		oldlvl = $town.calculateFameLvl + @consecutivelvl
 		newlvl = oldlvl + 1
 		bottomtext = _INTL("<ac><b>Fame level up: ")
 		bottomtext << oldlvl.to_s
@@ -195,6 +196,7 @@ class TipCard_Scene
 		@count = 100 * target_fraction
 		@fraction_tic = target_fraction / @count	
 		@famebar.src_rect.width = 0
+		@consecutivelvl += 1
 		limits = [0,3,6,10,15,20,25,30,40,50,60,70,85,100]
 		puts fameToAdd
 		if fameToAdd > 0 && newlvl < limits[$town.rank]
@@ -215,6 +217,8 @@ class TipCard_Scene
 	end
 	
 	def pbUpdateFillbar
+		puts "count:"
+		puts @count
 		if @exp_fraction >= 1
 			fameLevelUp
 		else
@@ -232,8 +236,8 @@ class TipCard_Scene
 	end
   
     def pbUpdate
-        pbUpdateSpriteHash(@sprites)
-		pbUpdateFillbar if (@animatingFameLvl)
+      pbUpdateSpriteHash(@sprites)
+			pbUpdateFillbar if (@animatingFameLvl)
     end
 
     def pbDrawTip

@@ -36,10 +36,12 @@ The Normal Leader smiles to you and gets ready. You fell that they're telling yo
 Le Leader Normal vous sourit et se prépare. Vous sentez qu’iel vous souhaite bonne chance !
 You got the Forest Badge! \f[FORESTBADGE]
 Vous obtenez le Badge Forêt ! \f[FORESTBADGE]
+\c[3]<b>Omnimachine:</b> HM04 detected...\nForest badge detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>CS04 détectée...<<n>>Badge Forêt détecté...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "FLY" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>COMPÉTENCE DE TERRAIN "VOL" DÉBLOQUÉE !
 The normal Leader show you a "40" on a piece of paper.
 Le Leader Normal vous montre un "40" sur un morceau de papier.
-Then they show you some wings?
-Puis iel vous montre des ailes ?
 Suddenly they give you something!
 Soudainement iel vous donne quelque chose !
 You wonder why they didn't give you a Normal type TM... Maybe they wanted to be kind with you, the Grass Leader?

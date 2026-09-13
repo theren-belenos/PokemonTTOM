@@ -1,0 +1,4 @@
+Name       = Incubator
+Version    = 21.1 - Unoffial [Beta 0.5.0]
+Credits    = Bergium, Kyu, Clara, Turner
+Optional   = Bag Screen w/int. Party, 2.5.0

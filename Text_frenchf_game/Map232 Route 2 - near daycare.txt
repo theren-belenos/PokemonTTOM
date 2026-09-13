@@ -22,8 +22,12 @@ Vous obtenez un vélo !
 <b>Homme de la Pension:</b> A bientôt !
 <b>Day-Care Man:</b> Oh hello! You're the new Gym Leader, right?
 <b>Homme de la Pension:</b> Oh bonjour ! Tu es la nouvelle Championne, c’est ça ?
-<b>Day-Care Man:</b> To thank you for clearing the path to the DayCare, we want to give you this egg!
-<b>Homme de la Pension:</b> Pour te remercier d’avoir déblayé la voie vers la Pension, nous voulons te donner cet oeuf !
+<b>Day-Care Man:</b> To thank you for clearing the path to the DayCare, we want to give you this equipment!
+<b>Homme de la Pension:</b> Pour te remercier d'avoir déblayé l'accès à la Pension, nous voulons te donner cet équipement !
+<b>Day-Care Man:</b> This device let you store up to 6 Pokémon eggs, freeing slots in your team.
+<b>Homme de la Pension:</b> Cet appareil de permet de stocker jusqu'à 6 Oeufs de Pokémon, libérant de la place dans ton équipe.
+<b>Day-Care Man:</b> And to test this, we have a second gift for you!
+<b>Homme de la Pension:</b> Et pour le tester, nous avons un second cadeau pour toi !
 You received an egg!
 Vous obtenez un oeuf !
 <b>Day-Care Man:</b> Take good care of this egg! I'm sure you'll love this Pokémon!

@@ -36,10 +36,12 @@ The Normal Leader smiles to you and gets ready. You fell that they're telling yo
 Le Leader Normal vous sourit et se prépare. Vous sentez qu’iel vous souhaite bonne chance !
 You got the Boulder badge! \f[BOULDERBADGE]
 Vous obtenez le Badge Rocher ! \f[BOULDERBADGE]
+\c[3]<b>Omnimachine:</b> HM03 detected...\nBoulder badge detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>CS03 détectée...<<n>>Badge Rocher détecté...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "ROCKSMASH" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>COMPÉTENCE DE TERRAIN "ÉCLATE-ROC" DÉBLOQUÉE !
 The normal Leader show you a "35" on a piece of paper.
 Le Leader Normal vous montre un “35” sur un morceau de papier.
-Then they show you a kind fragile rock.
-Ensuite iel vous montre une sorte de rocher fragile.
 Suddenly they give you something!
 Soudainement iel vous donne quelque chose !
 You wonder why they didn't give you a Normal type TM... Maybe they wanted to be kind with you, the Rock Leader?

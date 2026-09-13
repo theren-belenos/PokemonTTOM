@@ -96,5 +96,17 @@ Resists all types when HP is full.
 Grâce à sa carapace qui renferme l'énergie de tous les types, les capacités subies par ce Pokémon quand ses PV sont au maximum ne sont pas très efficaces.
 Eliminates all weather and terrain.
 Lorsque Terapagos prend sa Forme Stellaire, il utilise son pouvoir enfoui pour annuler les effets de la météo et des champs actifs.
+Uses its moves as if in sunny weather.
+Uses its moves as if in sunny weather.
+Normal-type moves become Dragon-type and powered.
+Normal-type moves become Dragon-type and powered.
+Contact moves deals a quarter of damage against protections.
+Contact moves deals a quarter of damage against protections.
+Burns the attacker when hit by a damaging move.
+Burns the attacker when hit by a damaging move.
+Powers up Fire-type moves.
+Powers up Fire-type moves.
+Immune to Ground-type moves. Boosts best stat when it deals a KO.
+Immune to Ground-type moves. Boosts best stat when it deals a KO.
 Boosts Special Attack in Tailwind or when attacked by wind moves.
 Augmente l'Attaque Spéciale sous Vent arrière ou quand touché par des capacités de vent.

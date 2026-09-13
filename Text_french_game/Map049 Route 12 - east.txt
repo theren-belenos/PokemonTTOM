@@ -15,7 +15,7 @@
 <b>Gaby:</b> ...not gonna lie, I'm kinda lost.
 <b>Gaby:</b> ...je vais pas mentir, je suis un peu perdue.
 <b>Lady:</b> Hi uh... do you know how to get to Titaga?
-<b>Lady:</b> Salut euh... tu sais comment aller à Titaga ?
+<b>Dame:</b> Salut euh... tu sais comment aller à Titaga ?
 This stone is glowing!
 Cette pierre brille de mille feux !
 Do you want to use the Mining Kit?

@@ -36,10 +36,12 @@ The Normal Leader smiles to you and gets ready. You fell that they're telling yo
 Le Leader Normal vous sourit et se prépare. Vous sentez qu’iel vous souhaite bonne chance !
 You got the Hive badge! \f[HIVEBADGE]
 Vous obtenez le Badge Ruche ! \f[HIVEBADGE]
+\c[3]<b>Omnimachine:</b> HM02 detected...\nHive badge detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>CS02 détectée...<<n>>Badge Ruche détecté...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "FLASH" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>COMPÉTENCE DE TERRAIN "FLASH" DÉBLOQUÉE !
 The normal Leader show you a "30" on a piece of paper.
 Le Leader Normal vous montre un “30” sur un morceau de papier.
-Then they show you a kind of luminous thing like a sun.
-Ensuite iel vous montre une chose lumineuse un peu comme un soleil.
 Suddenly they give you something!
 Soudainement iel vous donne quelque chose !
 You wonder why they didn't give you a Normal type TM... Maybe they wanted to be kind with you, the Bug Leader?

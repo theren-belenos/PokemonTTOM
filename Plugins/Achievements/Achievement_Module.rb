@@ -229,9 +229,9 @@ module Achievements
         if level>$PokemonGlobal.achievements[name]["level"]
           $PokemonGlobal.achievements[name]["level"]=level
 		  if @achievementList[name]["name"] == "Achievement hunter"
-			self.queueReward(self.getReward(level),true)
+			self.queueReward(self.getReward(level,true))
 		  else
-		    self.queueReward(self.getReward(level),false)
+		    self.queueReward(self.getReward(level,false))
 		  end
           self.queueMessage(_INTL("Achievement Reached!\n{1} Level {2}.",@achievementList[name]["name"],level.to_s))
 		  Achievements.incrementProgress("ACHIEVEMENTS",1)
@@ -382,13 +382,13 @@ module Achievements
         }
         if level>$PokemonGlobal.dexachievements[name]["level"]
           $PokemonGlobal.dexachievements[name]["level"]=level
-		  if @dexAchievementList[name]["name"] == "National Pokédex"
-			self.queueDexReward(self.getDexReward(level),true)
-		  else
-		    self.queueDexReward(self.getDexReward(level),false)
-		  end
+					if @dexAchievementList[name]["name"] == "National Pokédex"
+					self.queueDexReward(self.getDexReward(level,true,0))
+					else
+						self.queueDexReward(self.getDexReward(level,false,@dexAchievementList[name]["id"]))
+					end
           self.queueDexMessage(_INTL("Achievement Reached!\n{1} Level {2}.",@dexAchievementList[name]["name"],level.to_s))
-		  Achievements.incrementProgress("ACHIEVEMENTS",1)
+					Achievements.incrementProgress("ACHIEVEMENTS",1)
           return true
         else
           return false
@@ -418,27 +418,27 @@ module Achievements
     end
   end
   def self.getDexReward(level,spe,gen)
-	if spe
-	  case level
-	  when 1
-	    reward = _INTL("You've unlocked a new roof color for your house and another building at the urbanist!")
-	  when 2
-		reward = _INTL("You've unlocked a new outfit at the Clothes Shop!")
-	  else
-		reward = :SHINYCHARM
-	  end
-	else
-	  pbSet(400+gen,level)
-	  case level
-	  when 1
-	    reward = _INTL("You've unlocked a new roof color for your house and another building at the urbanist!")
-	  when 2
-		reward = _INTL("You've unlocked a new outfit at the Clothes Shop!")
-	  else
-		reward = :SHINYMACHINE
-	  end
-	  return [400+gen,level,reward]
-	end
+		if spe
+			case level
+			when 1
+				reward = _INTL("You've unlocked a new roof color for your house and another building at the urbanist!")
+			when 2
+				reward = _INTL("You've unlocked a new outfit at the Clothes Shop!")
+			else
+				reward = :SHINYCHARM
+			end
+		else
+			pbSet(400+gen,level)
+			case level
+			when 1
+				reward = _INTL("You've unlocked a new roof color for your house and another building at the urbanist!")
+			when 2
+				reward = _INTL("You've unlocked a new outfit at the Clothes Shop!")
+			else
+				reward = :SHINYMACHINE
+			end
+			return [400+gen,level,reward]
+		end
   end
   def self.queueDexMessage(msg)
     if $dexachievementmessagequeue.nil?

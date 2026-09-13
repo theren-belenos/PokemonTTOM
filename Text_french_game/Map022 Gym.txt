@@ -8,16 +8,6 @@ You already gave a gift to Samy this week!
 Vous avez déjà donné un cadeau à Samy cette semaine !
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, how are you? It's game time, huh?
 <b><c3=BDA46A,736440>Samy:</b></c3> Oy \pn, comment tu vas ? C'est l'heure de jouer, hein ?
-You spend time training with Melly at the Gym.
-Vous passez du temps à vous entraîner avec Melly dans l'Arène.
-She is really cool!
-Elle est vraiment cool !
-You spend time hanging with Marley at the Gym.
-Vous passez du temps à traîner avec Marley dans l'Arène.
-He is really cool!
-Il est vraiment cool !
-You spend time training with Samy at the Gym.
-Vous passez du temps à vous entraîner avec Samy dans l'Arène.
 <b>\c[3]Marley:</b>\c[0] Okay boss! Do you want to change your registered party?
 <b>\c[3]Marley:</b>\c[0] Okay boss ! Tu veux changer ton équipe enregistrée ?
 End of the first half of the week!
@@ -30,10 +20,22 @@ End of the week!
 Fin de la semaine !
 Change your party?
 Changer votre équipe ?
+You spend time training with Melly at the Gym.
+Vous passez du temps à vous entraîner avec Melly dans l'Arène.
+She is really cool!
+Elle est vraiment cool !
+You spend time hanging with Marley at the Gym.
+Vous passez du temps à traîner avec Marley dans l'Arène.
+He is really cool!
+Il est vraiment cool !
+You spend time training with Samy at the Gym.
+Vous passez du temps à vous entraîner avec Samy dans l'Arène.
 <b>\c[10]Maple:</b>\c[0] You didn't find <b>\c[5]Melly </b>\c[0]yet?
 <b>\c[10]Maple:</b>\c[0] Tu n’as pas encore trouvé <b>\c[5]Melly</b>\c[0] ?
 <b>\c[10]Maple:</b>\c[0] Stay safe during your trip!
 <b>\c[10]Maple:</b>\c[0] Sois prudent !
+Welcome to the \gt Gym!
+Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] Are you ready to start your first week as a Gym Leader?
 <b>\c[10]Maple:</b>\c[0] Es-tu prêt à commencer ta première semaine en tant que Champion d’Arène ?
 <b>\c[10]Maple:</b>\c[0] Well, firstly, you need to select your pokemon party. You can keep the one from your rank up battle obviously.
@@ -316,8 +318,18 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] Je te donnerai tes Quêtes de Rang principales, t’inquiète pas. Laisse moi être celui qui parle à la Ligue.
 <b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.
 <b>\c[10]Maple:</b>\c[0] Voici ta première Quête de rang, avec ses sous-objectifs.
-<b>\c[10]Maple:</b>\c[0] As a last gift, let me give you this:
-<b>\c[10]Maple:</b>\c[0] Et comme dernier cadeau, je te donne ça :
+<b>\c[10]Maple:</b>\c[0] I have two last gifts for you:
+<b>\c[10]Maple:</b>\c[0] Il me reste deux cadeaux à t'offrir :
+<b>\c[10]Maple:</b>\c[0] The Omnimachine is essentials for trainers wanting to explore Nekanta.
+<b>\c[10]Maple:</b>\c[0] L'Omnimachine est indispensable aux dresseurs voulant parcourir Nekanta.
+<b>\c[10]Maple:</b>\c[0] It lets you use Hidden field moves, as long as you have enough badge, and the associated Hidden Machine.
+<b>\c[10]Maple:</b>\c[0] Elle te permet d'utiliser des Capacités de Terrain, tant que tu as assez de badges, et la CS associée.
+<b>\c[10]Maple:</b>\c[0] You already have the first badge, you only need this:
+<b>\c[10]Maple:</b>\c[0] Tu as déjà le premier badge, il ne te manque que ceci :
+\c[3]<b>Omnimachine:</b> Rainbow badge detected...\nHM01 detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>Badge Arc-en-Ciel détecté...\nCS01 détectée...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "CUT" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>> CAPACITÉ DE TERRAIN "COUPE" DÉBLOQUÉE !
 <b>\c[10]Maple:</b>\c[0] With this, you can cut little trees, allowing you access to various places.
 <b>\c[10]Maple:</b>\c[0] Avec ça, tu peux couper des petits arbres, te donnant accès à certains endroits.
 <b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
@@ -332,8 +344,6 @@ Melly n’avait aucune chance !
 <b>\c[10]Maple:</b>\c[0] N’hésite pas à parler avec les gens que tu apprécies, à passer du temps avec eux ou même leur donner des cadeaux.
 <b>\c[10]Maple:</b>\c[0] Good luck and above all: have fun!
 <b>\c[10]Maple:</b>\c[0] Bonne chance et surtout : amuse-toi !
-Welcome to the \gt Gym!
-Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] \pn you remember Marley right?
 <b>\c[10]Maple:</b>\c[0] \pn tu te rappelles de Marley n’est-ce pas ?
 <b>\c[3]Marley:</b>\c[0] Hello \pn!
@@ -370,8 +380,16 @@ Bienvenue dans l'Arène \gt !
 <b>\c[10]Maple:</b>\c[0] Je te conseille vraiment de la consulter régulièrement.
 Do you want to see explanations on the Nekanta Map?
 Voulez-vous lire les explications de la Carte de Nekanta ?
-<b>\c[10]Maple:</b>\c[0] I will wait here, don't forget you can go back to the Lab and use the machine to heal your team.
-<b>\c[10]Maple:</b>\c[0] J’attendrai ici, n’oublie pas que tu peux retourner au Labo pour utiliser la machine qui soigne tes Pokémon.
+<b>\c[10]Maple:</b>\c[0] I will also give you this.
+<b>\c[10]Maple:</b>\c[0] Je te donne également ceci.
+<b>\c[10]Maple:</b>\c[0] Use this whistle outside to call my dear Kikiss for help!
+<b>\c[10]Maple:</b>\c[0] Utilise ce sifflet pour appeler à l'aide mon cher Kikiss !
+<b>\c[10]Maple:</b>\c[0] If you're lost, or if your Pokémon are hurt, do not hesitate to call Kikiss for help.
+<b>\c[10]Maple:</b>\c[0] Si tu es perdu, ou si tes Pokémon sont blessés, n'hésites pas à appeler Kikiss à l'aide.
+<b>\c[10]Maple:</b>\c[0] My dear Kikiss will bring you back in front of my lab.
+<b>\c[10]Maple:</b>\c[0] Mon cher Kikiss te ramènera juste devant mon labo.
+<b>\c[10]Maple:</b>\c[0] Don't forget you can use the machine inside the lab to heal your team.
+<b>\c[10]Maple:</b>\c[0] N'oublies pas que tu peux utiliser la machine à l'intérieur du labo pour soigner ton équipe.
 <b>\c[10]Maple:</b>\c[0] Oh and, because the Dept. Store is closed, I should probably give you these.
 <b>\c[10]Maple:</b>\c[0] Ah et, comme le Centre Commercial est fermé, je devrais peut-être te donner ça.
 <b>\c[10]Maple:</b>\c[0] This isn't much but as long as the Pokémon Center isn't finished, you won't even have access to the Pkmn Storage anyway.

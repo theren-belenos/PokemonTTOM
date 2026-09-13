@@ -114,8 +114,8 @@ The user attacks by unleashing a peculiar, mind-bending light that harshly lower
 Le lanceur attaque en émettant une étrange lumière qui ébranle l'esprit de la cible. Cela baisse beaucoup la Défense Spéciale de la cible.
 This move is only used by a Starmobile. It may confuse the target.
 Crash Magique inflige des dégâts et possède 30 % de chances de rendre l'adversaire confus.
-The user throws out a huge mass of coins, lowering its Sp. Atk stat. Money is earned after the battle.
-Le lanceur attaque en lançant de nombreuses pièces, ce qui baisse son Attaque Spéciale. Permet d'obtenir plus d'argent à la fin du combat.
+Throws out a huge mass of coins that lowers its Sp. Atk stat. Money is earned after the battle.
+Throws out a huge mass of coins that lowers its Sp. Atk stat. Money is earned after the battle.
 Performs a spin that eliminates certain traps and hazards. This also poisons opposing Pokémon.
 Le lanceur attaque en tournant sur lui-même et empoisonne la cible. Il se libère également des effets de capacités comme Étreinte, Ligotage ou Vampigraine.
 This move is only used by a Starmobile. It may poison the target.
@@ -194,3 +194,5 @@ An attack that hits first and makes the target flinch. Fails if the target isn't
 Le lanceur réagit instinctivement au moindre mouvement et donne un coup de paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé une attaque prioritaire.
 Wraps the target in a toxic, corrosive chain. This may also leave the target badly poisoned.
 Le lanceur ligote la cible avec une chaîne faite de poison et lui injecte un venin corrosif, ce qui peut aussi gravement l'empoisonner.
+A powerful light that defies nature, striking Fairy types and ignoring target stat changes.
+A powerful light that defies nature, striking Fairy types and ignoring target stat changes.

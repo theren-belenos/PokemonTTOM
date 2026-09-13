@@ -739,11 +739,11 @@ Pokemon = NIDOQUEEN,38
 
 # Round 1 : Kiana (lvl 45-48)
 [KIANABEFORE,Kiana]
-Pokemon = PERSIAN,43
+Pokemon = PERSIAN,42
 	Form = 1
-Pokemon = TROPIUS,44
-Pokemon = SLOWKING,45
-Pokemon = MAROWAK_1,47
+Pokemon = TROPIUS,43
+Pokemon = SLOWKING,44
+Pokemon = MAROWAK_1,46
 	Form = 1
 	Item = THICKCLUB
 

@@ -18,12 +18,14 @@
 <b>Kathleen:</b> Alors bonne chance, bon combat à toi !
 You got the Hive badge! \f[HIVEBADGE]
 Vous obtenez le Badge Ruche ! \f[HIVEBADGE]
+\c[3]<b>Omnimachine:</b> HM02 detected...\nHive badge detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>CS02 détectée...<<n>>Badge Ruche détecté...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "FLASH" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>COMPÉTENCE DE TERRAIN "FLASH" DÉBLOQUÉE !
 <b>Kathleen:</b> Wowie, congratulations! That was a nice fight!
 <b>Kathleen:</b> Wowie, félicitations ! C’était un super combat !
 <b>Kathleen:</b> With my badge, you can level up your Pokémons up to the level 30.
 <b>Kathleen:</b> Avec mon badge, tes Pokémon peuvent atteindre le niveau 30.
-<b>Kathleen:</b> You can also use the Flash HM outside of battle. It's great for scary caves!
-<b>Kathleen:</b> Tu peux aussi utiliser a CS Flash en dehors des combats. C’est génial pour les grottes qui font peur !
 <b>Kathleen:</b> Oh and let me give you this too.
 <b>Kathleen:</b> Oh et laisse moi te donner ça aussi.
 <b>Kathleen:</b> It's an amazing move that deals damage and let's your Pokémon eat the opponent's berry! Wowie!!

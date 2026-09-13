@@ -272,8 +272,18 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] Je te donnerai tes Quêtes de Rang principales, t’inquiète pas. Laisse moi être celui qui parle à la Ligue.
 <b>\c[10]Maple:</b>\c[0] Here is your first Main rank up Quest, with its sub-objectives.
 <b>\c[10]Maple:</b>\c[0] Voici ta première Quête de rang, avec ses sous-objectifs.
-<b>\c[10]Maple:</b>\c[0] As a last gift, let me give you this:
-<b>\c[10]Maple:</b>\c[0] Et comme dernier cadeau, je te donne ça :
+<b>\c[10]Maple:</b>\c[0] I have two last gifts for you:
+<b>\c[10]Maple:</b>\c[0] Il me reste deux cadeaux à t'offrir :
+<b>\c[10]Maple:</b>\c[0] The Omnimachine is essentials for trainers wanting to explore Nekanta.
+<b>\c[10]Maple:</b>\c[0] L'Omnimachine est indispensable aux dresseurs voulant parcourir Nekanta.
+<b>\c[10]Maple:</b>\c[0] It lets you use Hidden field moves, as long as you have enough badge, and the associated Hidden Machine.
+<b>\c[10]Maple:</b>\c[0] Elle te permet d'utiliser des Capacités de Terrain, tant que tu as assez de badges, et la CS associée.
+<b>\c[10]Maple:</b>\c[0] You already have the first badge, you only need this:
+<b>\c[10]Maple:</b>\c[0] Tu as déjà le premier badge, il ne te manque que ceci :
+\c[3]<b>Omnimachine:</b> Rainbow badge detected...\nHM01 detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>Badge Arc-en-Ciel détecté...\nCS01 détectée...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "CUT" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>> CAPACITÉ DE TERRAIN "COUPE" DÉBLOQUÉE !
 <b>\c[10]Maple:</b>\c[0] With this, you can cut little trees, allowing you access to various places.
 <b>\c[10]Maple:</b>\c[0] Avec ça, tu peux couper des petits arbres, te donnant accès à certains endroits.
 <b>\c[10]Maple:</b>\c[0] Well, \pn! Good luck and above all: have fun!
@@ -290,6 +300,20 @@ Attention : ceci est un utilitaire réinitialisant certaines variables pour évi
 Attention : ceci est un utilitaire réinitialisant certaines variables pour éviter certains crashs.
 A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
 A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
+QoL update déjà effectuée.
+QoL update déjà effectuée.
+Obtention du SOS Kikiss...
+Obtention du SOS Kikiss...
+Obtention de l'Omnimachine...
+Obtention de l'Omnimachine...
+Est-ce que tu es déjà allé chercher l'Oeuf offert par l'Homme de la Pension ?
+Est-ce que tu es déjà allé chercher l'Oeuf offert par l'Homme de la Pension ?
+Obtention de l'incubateur...
+Obtention de l'incubateur...
+Tu devrais !
+Tu devrais !
+Rien à ajouter. Tu n'es pas assez loin dans le jeu.
+Rien à ajouter. Tu n'es pas assez loin dans le jeu.
 <b>\c[10]Maple:</b>\c[0] So, you want Bunneary, the Rabbit Pokémon? \f[BUNEARY]
 <b>\c[10]Maple:</b>\c[0] Est-ce que tu veux Laporeille, le Pokémon Lapin ? \f[BUNEARY]
 <b>\c[10]Maple:</b>\c[0] Do you want Turtwig, the Tiny Leaf Pokémon? \f[TURTWIG]
@@ -556,6 +580,8 @@ But why was it in a trash tho??
 Mais pourquoi c’était dans une poubelle ??
 <b>\r???:</b>\c[0] Humpf, move !
 <b>\r???:</b>\c[0] Humpf, bouge !
+<b>Kikiss:</b> Ooogekisss!
+<b>Kikiss:</b> Ooogekisss!
 Yes
 Oui
 No
@@ -576,12 +602,18 @@ Convertir save pré-0.1.5
 Convertir save pré-0.1.5
 Initialiser variables
 Initialiser variables
-Au revoir
-Au revoir
+QoL update
+QoL update
+Annuler
+Annuler
 Oups alors non
 Oups alors non
 Je sais ce que je fais
 Je sais ce que je fais
+Oui
+Oui
+Non
+Non
 Social Links
 Liens Sociaux
 Resume & Pokedex

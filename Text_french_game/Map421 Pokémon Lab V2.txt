@@ -12,10 +12,12 @@ You use the machine to heal your exhausted Pokémons.
 Vous utilisez la machine pour soigner vos Pokémon.
 Be careful!
 Soyez prudents !
-It's some important looking folders...
-Ce sont des dossiers qui ont l'air importants...
+<b>Kikiss:</b> Ooogekisss!
+<b>Kikiss:</b> Ooogekisss!
 It looks like some complex research papers...
 On dirait des papiers de recherche complexes...
+It's some important looking folders...
+Ce sont des dossiers qui ont l'air importants...
 <b>\c[5]Nurse:</b>\c[0] Hello sweetie~
 <b>\c[5]Infirmière:</b>\c[0] Bonjour trésor~
 <b>\c[5]Nurse:</b>\c[0] I'm staying here until the Pokémon Center is repaired.
@@ -24,36 +26,10 @@ On dirait des papiers de recherche complexes...
 <b>\c[5]Infirmière:</b>\c[0] Je remercierai jamais assez le Prof Maple !
 <b>\c[5]Nurse:</b>\c[0] Here, take these to help you while the PokéCenter is closed.
 <b>\c[5]Infirmière:</b>\c[0] Tiens, prends ça pour t’aider tant que le Centre Pokémon est fermé.
-You spend time helping Prof Maple in his lab.
-Vous passez du temps à aider Maple dans son labo.
-You learn a lot!
-Vous apprenez plein de choses !
-<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
-<b>\c[10]Maple:</b>\c[0] Une fois que tu es prêt, sort du bâtiment.
-<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
-<b>\c[10]Maple:</b>\c[0] Alors, lequel tu veux ?
-<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
-<b>\c[10]Maple:</b>\c[0] Comment ça va ? Ça se passe bien avec la Ligue Pokémon ?
-<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded! Congratulations!
-<b>\c[10]Maple:</b>\c[0] Oh bonjour \pn ! J’ai reçu un mail de la Ligue, apparemment tu as réussi ! Félicitations !
-<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day! Your debut as a Gym Leader!
-<b>\c[10]Maple:</b>\c[0] Donc demain c’est le grand jour ! Tes débuts en tant que Champion d’Arène !
-<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
-<b>\c[10]Maple:</b>\c[0] Tu as besoin d’une bonne nuit de sommeil pour être fin prêt !
-<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
-<b>\c[10]Maple:</b>\c[0] Tu peux dormir à l’étage si tu veux, tant que ta maison n’est pas réparée.
-<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
-<b>\c[10]Maple:</b>\c[0] Prends juste le lit que tu veux !
-<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
-<b>\c[10]Maple:</b>\c[0] Je t’attendrai demain dans ton Arène, plus précisément dans ta Salle du Champion.
-<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
-<b>\c[10]Maple:</b>\c[0] Je t’expliquerai alors tous les détails.
-<b>\c[10]Maple:</b>\c[0] Sleep well!
-<b>\c[10]Maple:</b>\c[0] Bonne nuit !
-<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
-<b>\c[10]Maple:</b>\c[0] Bonjour \pn, comment vas-tu ?
-You already gave a gift to Maple this week!
-Vous avez déjà offert un cadeau à Maple cette semaine !
+Testeur d'urbanisme 2. Quelle déco tester ?
+Testeur d'urbanisme 2. Quelle déco tester ?
+Quel skin choisir ?
+Quel skin choisir ?
 Do you want to sleep here? The weekend will be over!
 Voulez-vous dormir ici ? Le week-end sera terminé !
 Do you want to sleep here?
@@ -140,6 +116,36 @@ La journée se termine…
 <b>\c[10]Maple:</b>\c[0] Bon, \pn ! Bonne chance et surtout : amuse-toi !
 It's not the evening, you can't go to sleep! Go to your Gym for your work day first!
 Ce n’est pas le soir, vous ne pouvez pas aller dormir ! Allez dans l’Arène pour le jour de travail d’abord !
+<b>\c[10]Maple:</b>\c[0] Once you are ready to go, just head outside.
+<b>\c[10]Maple:</b>\c[0] Une fois que tu es prêt, sort du bâtiment.
+<b>\c[10]Maple:</b>\c[0] Well, which one do you want?
+<b>\c[10]Maple:</b>\c[0] Alors, lequel tu veux ?
+<b>\c[10]Maple:</b>\c[0] Are you okay? Any luck with the Pokémon League?
+<b>\c[10]Maple:</b>\c[0] Comment ça va ? Ça se passe bien avec la Ligue Pokémon ?
+<b>\c[10]Maple:</b>\c[0] Oh hello \pn! I received a mail from the League, seems you succeeded! Congratulations!
+<b>\c[10]Maple:</b>\c[0] Oh bonjour \pn ! J’ai reçu un mail de la Ligue, apparemment tu as réussi ! Félicitations !
+<b>\c[10]Maple:</b>\c[0] So tomorrow is the big day! Your debut as a Gym Leader!
+<b>\c[10]Maple:</b>\c[0] Donc demain c’est le grand jour ! Tes débuts en tant que Champion d’Arène !
+<b>\c[10]Maple:</b>\c[0] You need a good night's sleep to be ready!
+<b>\c[10]Maple:</b>\c[0] Tu as besoin d’une bonne nuit de sommeil pour être fin prêt !
+<b>\c[10]Maple:</b>\c[0] You can sleep upstairs if you want, as long as your home isn't repaired.
+<b>\c[10]Maple:</b>\c[0] Tu peux dormir à l’étage si tu veux, tant que ta maison n’est pas réparée.
+<b>\c[10]Maple:</b>\c[0] Just take any bed you want!
+<b>\c[10]Maple:</b>\c[0] Prends juste le lit que tu veux !
+<b>\c[10]Maple:</b>\c[0] I will wait for you tomorrow inside your Gym, more precisely in your Leader room all the way in!
+<b>\c[10]Maple:</b>\c[0] Je t’attendrai demain dans ton Arène, plus précisément dans ta Salle du Champion.
+<b>\c[10]Maple:</b>\c[0] I will explain all the details then.
+<b>\c[10]Maple:</b>\c[0] Je t’expliquerai alors tous les détails.
+<b>\c[10]Maple:</b>\c[0] Sleep well!
+<b>\c[10]Maple:</b>\c[0] Bonne nuit !
+<b>\c[10]Maple:</b>\c[0] Hello \pn, how are you?
+<b>\c[10]Maple:</b>\c[0] Bonjour \pn, comment vas-tu ?
+You already gave a gift to Maple this week!
+Vous avez déjà offert un cadeau à Maple cette semaine !
+You spend time helping Prof Maple in his lab.
+Vous passez du temps à aider Maple dans son labo.
+You learn a lot!
+Vous apprenez plein de choses !
 Machine de débug lancée.
 Machine de débug lancée.
 Que voulez-vous faire ?
@@ -150,6 +156,44 @@ Attention : ceci est un utilitaire réinitialisant certaines variables pour évi
 Attention : ceci est un utilitaire réinitialisant certaines variables pour éviter certains crashs.
 A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
 A n'utiliser que si Théren vous le demande explicitement. Cela peut corrompre votre save.
+QoL update déjà effectuée.
+QoL update déjà effectuée.
+Obtention du SOS Kikiss...
+Obtention du SOS Kikiss...
+Obtention de l'Omnimachine...
+Obtention de l'Omnimachine...
+Est-ce que tu es déjà allé chercher l'Oeuf offert par l'Homme de la Pension ?
+Est-ce que tu es déjà allé chercher l'Oeuf offert par l'Homme de la Pension ?
+Obtention de l'incubateur...
+Obtention de l'incubateur...
+Tu devrais !
+Tu devrais !
+Rien à ajouter. Tu n'es pas assez loin dans le jeu.
+Rien à ajouter. Tu n'es pas assez loin dans le jeu.
+<b>???</b> Oh, dear Leader, come here!
+<b>???</b> Oh, dear Leader, come here!
+<b>Urbanist B:</b> Hello, we are the Urbanists!
+<b>Urbanist B:</b> Hello, we are the Urbanists!
+<b>Urbanist B:</b> We can help you customize our city, to match your tastes!
+<b>Urbanist B:</b> We can help you customize our city, to match your tastes!
+<b>Urbanist B:</b> Basically we can alter the buildings color, or change some decorations elements like the lamp posts.
+<b>Urbanist B:</b> Basically we can alter the buildings color, or change some decorations elements like the lamp posts.
+<b>Urbanist B:</b> We don't want money for our services, no no no! We want Heart Scales!
+<b>Urbanist B:</b> We don't want money for our services, no no no! We want Heart Scales!
+<b>Urbanist B:</b> Heart Scales are beatiful shiny little things you can found on some rocks or by mining! But it's pretty rare!
+<b>Urbanist B:</b> Heart Scales are beatiful shiny little things you can found on some rocks or by mining! But it's pretty rare!
+<b>Urbanist B:</b> We basically collect them. So for each Heart Scale you bring us, you can "buy" a variant for a building or a decoration. Deal?
+<b>Urbanist B:</b> We basically collect them. So for each Heart Scale you bring us, you can "buy" a variant for a building or a decoration. Deal?
+<b>Urbanist B:</b> We splitted in 3 categories, my colleague at your left propose variants for habitations ;
+<b>Urbanist B:</b> We splitted in 3 categories, my colleague at your left propose variants for habitations ;
+<b>Urbanist B:</b> I myself offer variants for the other buildings of the town ;
+<b>Urbanist B:</b> I myself offer variants for the other buildings of the town ;
+<b>Urbanist B:</b> And my other colleague specializes in the exteriors decorations!
+<b>Urbanist B:</b> And my other colleague specializes in the exteriors decorations!
+<b>Urbanist B:</b> Please, dear Leader, bring us a lot of Heart Scales!
+<b>Urbanist B:</b> Please, dear Leader, bring us a lot of Heart Scales!
+There is only trash in there.
+Il n'y a que des déchets là-dedans.
 <b>Jon:</b> Hello \v[12]!
 <b>Jon:</b> Bonjour \v[12] !
 <b>Jon:</b> ...
@@ -182,8 +226,8 @@ Vous donnez à Jon ses lunettes.
 <b>Jon:</b> J’attendrai ici !
 <b>Jon:</b> Hello \pn! Keep up the good work!
 <b>Jon:</b> Bonjour \pn ! Continue de bien travailler !
-There is only trash in there.
-Il n'y a que des déchets là-dedans.
+Testeur d'urbanisme. Quel bâtiment tester ?
+Testeur d'urbanisme. Quel bâtiment tester ?
 This is a big and complex machine. Perhaps you should ask for Maple's help?
 C'est une grosse machine complexe. Vous devriez peut-être demander de l'aide à Maple ?
 This machine can revive a Pokémon from its fossil.
@@ -202,6 +246,8 @@ Terminé !
 <b>Franck:</b> Donc je profite juste du week-end !
 <b>Franck:</b> How are you \pn?
 <b>Franck:</b> Comment vas-tu \pn?
+See a tutorial
+Voir un tutoriel
 <b>Pat:</b> Oh hello! I'm Pat, the new scientist!
 <b>Pat:</b> Oh bonjour ! Je suis Pat, le nouveau scientifique !
 <b>Pat:</b> ...so that's you, our Gym Leader! Greetings! Prof Maple spoke a lot about you.
@@ -254,16 +300,86 @@ Vous avez 5 Tessons Jaunes ! Voulez-vous les donner à Pat ?
 <b>Pat:</b> Non ? Aucun soucis, j’attends ici !
 <b>Pat:</b> Hello \pn, how are you? Is your Pokegear working well?
 <b>Pat:</b> Bonjour \pn, comment vas-tu ? Ton Pokegear marche bien ?
-See a tutorial
-Voir un tutoriel
+built
+built
 But why was it in a trash tho??
 Mais pourquoi c’était dans une poubelle ??
-built
-built
 Yes
 Oui
 No
 Non
+Lampadaires
+Lampadaires
+Pavage port
+Pavage port
+Pavage café
+Pavage café
+Pavage resto
+Pavage resto
+0 (Vert)
+0 (Vert)
+1 (Bleu)
+1 (Bleu)
+2 (Jaune)
+2 (Jaune)
+3 (Rose)
+3 (Rose)
+0 (Pierre)
+0 (Pierre)
+1 (Gris argent)
+1 (Gris argent)
+2 (Orangé)
+2 (Orangé)
+3 (Marron écailles)
+3 (Marron écailles)
+0 (Beige)
+0 (Beige)
+1 (Orangé)
+1 (Orangé)
+2 (Jaune diag)
+2 (Jaune diag)
+3 (Or horizontal)
+3 (Or horizontal)
+0 (Losanges)
+0 (Losanges)
+1 (Gris clair chevrons)
+1 (Gris clair chevrons)
+2 (Gris foncé briques)
+2 (Gris foncé briques)
+3 (Beige clair motifs)
+3 (Beige clair motifs)
+Fleurs
+Fleurs
+Stands
+Stands
+Changer heure
+Changer heure
+Annuler
+Annuler
+0 (Orange)
+0 (Orange)
+1 (Blanches)
+1 (Blanches)
+2 (Mauves)
+2 (Mauves)
+3 (Rouges)
+3 (Rouges)
+0 (Bleu)
+0 (Bleu)
+1 (Violet)
+1 (Violet)
+2 (Vert)
+2 (Vert)
+3 (Jaune)
+3 (Jaune)
+Jour
+Jour
+Nuit
+Nuit
+Do not change party
+Ne pas changer d’équipe
+Change party
+Changer d’équipe
 Quest
 Quête
 Give gift
@@ -272,20 +388,112 @@ Spend time
 Passer du temps
 Say goodbye
 Dire au revoir
-Do not change party
-Ne pas changer d’équipe
-Change party
-Changer d’équipe
 Convertir save pré-0.1.5
 Convertir save pré-0.1.5
 Initialiser variables
 Initialiser variables
-Au revoir
-Au revoir
+QoL update
+QoL update
 Oups alors non
 Oups alors non
 Je sais ce que je fais
 Je sais ce que je fais
+Oui
+Oui
+Non
+Non
+Maison PJ
+Maison PJ
+Maison Melly
+Maison Melly
+Immeuble 1
+Immeuble 1
+Marché Bien Etre
+Marché Bien Etre
+0 (Départ - Verdâtre)
+0 (Départ - Verdâtre)
+1 (Base - Rougeâtre)
+1 (Base - Rougeâtre)
+2 (Base - Jaunâtre)
+2 (Base - Jaunâtre)
+3 (Base - Marron)
+3 (Base - Marron)
+4 (Kanto - Vert Clair)
+4 (Kanto - Vert Clair)
+5 (Johto - Orange)
+5 (Johto - Orange)
+6 (Hoenn - Bleu Foncé)
+6 (Hoenn - Bleu Foncé)
+7 (Sinnoh - Blanc)
+7 (Sinnoh - Blanc)
+8 (Unova - Noir)
+8 (Unova - Noir)
+9 (Kalos - Rose)
+9 (Kalos - Rose)
+10 (Alola - Bleu Clair)
+10 (Alola - Bleu Clair)
+11 (Galar - Gris)
+11 (Galar - Gris)
+12 (Paldea - Violet)
+12 (Paldea - Violet)
+Cancel
+Cancel
+1 (Extra - Rose)
+1 (Extra - Rose)
+2 (Extra - Violet)
+2 (Extra - Violet)
+3 (Extra - Turquoise)
+3 (Extra - Turquoise)
+1 (Extra - Bleu)
+1 (Extra - Bleu)
+2 (Extra - Jaunâtre)
+2 (Extra - Jaunâtre)
+3 (Extra - Rougeâtre)
+3 (Extra - Rougeâtre)
+0 (Départ - Bleu)
+0 (Départ - Bleu)
+3 (Extra - Bleu Clair)
+3 (Extra - Bleu Clair)
+Maison Marley
+Maison Marley
+Hangar port
+Hangar port
+Labo
+Labo
+PC
+PC
+0 (Départ - Rouge)
+0 (Départ - Rouge)
+1 (Extra - Mauve)
+1 (Extra - Mauve)
+2 (Extra - Vert)
+2 (Extra - Vert)
+3 (Extra - Or)
+3 (Extra - Or)
+1 (Extra - Violet)
+1 (Extra - Violet)
+2 (Extra - Argent)
+2 (Extra - Argent)
+3 (Extra - Emeraude)
+3 (Extra - Emeraude)
+0 (Départ - Orange)
+0 (Départ - Orange)
+3 (Extra - Rouge)
+3 (Extra - Rouge)
+1 (Extra - Bordeaux)
+1 (Extra - Bordeaux)
+3 (Extra - Rose)
+3 (Extra - Rose)
+Académie
+Académie
+Test Urbanist
+Test Urbanist
+0 (Départ - Rose)
+0 (Départ - Rose)
+2 (Extra - Or)
+2 (Extra - Or)
+3 (Extra - Vert)
+3 (Extra - Vert)
 Social Links
 Liens Sociaux
 Resume & Pokedex

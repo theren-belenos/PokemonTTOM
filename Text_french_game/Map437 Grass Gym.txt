@@ -34,8 +34,6 @@ Vous parlez de Camosack à la danseuse.
 <b>Flore:</b> Danser à Camsoack tu dis ? Désolé, mais j'ai un bon job ici ! Je reste là, bonne chance dans tes recherches !
 <b>Flore:</b> Your best score for my minigame is \v[198]. Wanna try it again?
 <b>Flore:</b> Ton meilleur score pour mon minijeu est \v[198]. Tu veux réessayer ?
-<b>Ludicolo:</b> Ludicolo!
-<b>Ludicolo:</b> Ludicolo!
 <b>Nikodim:</b> Oho! What do we have here hmmm... A challenger is coming to me, Nikodim, the Punk King?? Haha!
 <b>Nikodim:</b> Oho ! Qu'avons nous là hmmm... Un challenger vient me défier moi, Nikodim, le King du Punk ?? Haha !
 <b>Nikodim:</b> Do you think your rythm can satisfy us? Really? Ha, do you know for how long I'm doing punk???
@@ -76,14 +74,14 @@ Utilisez cette option si le minijeu n'est pas fluide ou si vous n'aimez pas les 
 <b>Nikodim:</b> C'est parti mon kiki !
 You got the Forest Badge! \f[FORESTBADGE]
 Vous obtenez le Badge Forêt ! \f[FORESTBADGE]
+\c[3]<b>Omnimachine:</b> HM04 detected...\nForest badge detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>CS04 détectée...<<n>>Badge Forêt détecté...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "FLY" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>COMPÉTENCE DE TERRAIN "VOL" DÉBLOQUÉE !
 <b>Nikodim:</b> Holy you! Haha! Okay, you're unstoppable!
 <b>Nikodim:</b> Sacré toi ! Haha ! Ok, t'es inarrêtable !
 <b>Nikodim:</b> So, with my badge, you can train your Pokémon up to the level 40.
 <b>Nikodim:</b> Du coup, avec mon badge, tu peux amener tes Pokémon jusqu'au niveau 40.
-<b>Nikodim:</b> You can also use the Fly HM outside the battles. Did you find it already?
-<b>Nikodim:</b> Tu peux aussi utiliser la CS Vol en dehors des combats. Tu l'as déjà trouvée ?
-<b>Nikodim:</b> It can really be a gamechanger, especially to visit your friends!
-<b>Nikodim:</b> Franchement ça change pas mal de choses, surtout pour visiter tes potes !
 <b>Nikodim:</b> And let me give you something cool.
 <b>Nikodim:</b> Et laisse moi te donner un truc cool.
 <b>Nikodim:</b> Magical Leaf never misses, like me never skipping a beat!
@@ -102,6 +100,8 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Nikodim:</b> Ton meilleur score pour mon minijeu est \v[200]. Donne tout !
 <b>Nikodim:</b> See ya!
 <b>Nikodim:</b> A plus !
+<b>Ludicolo:</b> Ludicolo!
+<b>Ludicolo:</b> Ludicolo!
 <b>Alolan Exeggutor:</b> Exeggutor!!
 <b>Noadkoko d'Alola:</b> Noadkoko !!
 <b>Bellossom:</b> Bellossoooooom!
@@ -130,6 +130,8 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Tobie:</b> Ton meilleur score pour mon minijeu est \v[199]. Tu veux réessayer ?
 <b>Tobie:</b> See you around!
 <b>Tobie:</b> A bientôt!
+<b>Rillaboom:</b> Rillabooooooom!
+<b>Gorythmic:</b> Gorythmiiiiiiiic !
 <b>Harvey?:</b> Hello challenger and welcome to the Grass Gym!
 <b>Harvey?:</b> Bonjour challenger et bienvenue dans l'Arène Plante !
 <b>Marley?:</b> ...what? No my name is not Harvey, why would that be? I'm Wesley!
@@ -148,8 +150,6 @@ Vous avez déjà offert un cadeau à Nikodim cette semaine !
 <b>Wesley:</b> Ne t'inquiète pas : ces zones ne sont pas placées au hasard. Elles correspondent aux temps forts de la musique.
 <b>Wesley:</b> The more you progress in the Gym, the faster will be the music beat! Good luck!
 <b>Wesley:</b> Plus tu progresses dans l'Arène, plus le rythme sera rapide ! Bonne chance !
-<b>Rillaboom:</b> Rillabooooooom!
-<b>Gorythmic:</b> Gorythmiiiiiiiic !
 <b>Lurantis:</b> Lurantis!
 <b>Floramantis:</b> Floramantis !
 Yes

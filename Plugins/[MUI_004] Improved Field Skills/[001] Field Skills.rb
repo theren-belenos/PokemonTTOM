@@ -83,174 +83,174 @@ class Trainer
 end
   
 
-#===============================================================================
-# Field Skill menu handler.
-#===============================================================================
-MenuHandlers.add(:party_menu, :field_skill, {
-  "name"        => _INTL("Field moves"),
-  "order"       => 21,
-  "text_color"  => :Blue,
-  "field_skill" => true,
-  "condition"   => proc { |screen, party, party_idx| next party[party_idx].has_field_skill? },
-  "effect"      => proc { |screen, party, party_idx|
-    ret = nil
-    pkmn = party[party_idx]
-    command = 0
-    loop do
-      skills = []
-      commands = []
-      #-------------------------------------------------------------------------
-      # Adds HM Skills.
-      #-------------------------------------------------------------------------
-      Settings::HM_SKILLS.each do |skill|
-        next if !GameData::Move.exists?(skill)
-        next if !HiddenMoveHandlers.hasHandler(skill)
-        #next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
-        badge = pbBadgeFromSkill(skill)
-        next if Settings::HM_SKILLS_REQUIRE_BADGE && badge > 0 && !pbCheckHiddenMoveBadge(badge, false)
-        color = (pbCanUseHiddenMove?(pkmn, skill, false) && pbCheckHiddenMoveBadge(badge, false)) ? :Blue : :Gray
-        commands.push([GameData::Move.get(skill).name, color])
-        skills.push(skill)
-      end
-      #-------------------------------------------------------------------------
-      # Adds Misc. Skills.
-      #-------------------------------------------------------------------------
-      Settings::MISC_SKILLS.each do |skill|
-        next if !GameData::Move.exists?(skill)
-        next if !HiddenMoveHandlers.hasHandler(skill)
-        if Settings::MISC_SKILLS_REQUIRE_MOVE
-          next if !pkmn.hasMove?(skill)
-        else
-          next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
-        end
-        color = (pbCanUseHiddenMove?(pkmn, skill, false)) ? :Blue : :Gray
-        commands.push([GameData::Move.get(skill).name, color])
-        skills.push(skill)
-      end
-      #-------------------------------------------------------------------------
-      # Adds Heal Skills.
-      #-------------------------------------------------------------------------
-      Settings::HEAL_SKILLS.each do |skill|
-        next if !GameData::Move.exists?(skill)
-        if Settings::HEAL_SKILLS_REQUIRE_MOVE
-          next if !pkmn.hasMove?(skill)
-        else
-          next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
-        end
-        color = (pkmn.hp >= [(pkmn.totalhp / 5).floor, 1].max) ? :Blue : :Gray
-        commands.push([GameData::Move.get(skill).name, color])
-        skills.push(skill)
-      end
-      #-------------------------------------------------------------------------
-      # Adds Other Skills.
-      #-------------------------------------------------------------------------
-      Settings::CUSTOM_SKILLS.each do |skill|
-        next if !GameData::Move.exists?(skill)
-        if Settings::CUSTOM_SKILLS_REQUIRE_MOVE
-          next if !pkmn.hasMove?(skill)
-        else
-          next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
-        end
-        color = :Blue
-        pkmn.moves.each do |move|
-          next if move.id != skill
-          color = :Gray if move.pp <= 0
-        end
-        commands.push([GameData::Move.get(skill).name, color])
-        skills.push(skill)
-      end
-      break if skills.empty?
-      commands.push("Cancel")
-      command = screen.scene.pbShowCommands(_INTL("Do what with {1}?", pkmn.name), commands, command)
-      break if command < 0 || command >= commands.length - 1
-      movename = commands[command]
-      #-------------------------------------------------------------------------
-      # Performs Custom Skill effects.
-      #-------------------------------------------------------------------------
-      if Settings::CUSTOM_SKILLS.include?(skills[command])
-        idxMove = 0
-        if Settings::CUSTOM_SKILLS_REQUIRE_MOVE
-          pkmn.moves.each_with_index { |m, i| idxMove = i if m.id == skills[command] }
-          if pkmn.moves[idxMove].pp <= 0
-            screen.scene.pbDisplay(_INTL("Not enough PP..."))
-            next
-          end
-        end
-        case skills[command]
-        #-----------------------------------------------------------------------
-        # ***CUSTOM MOVE SECTION***
-        #-----------------------------------------------------------------------
-        when :RECOVER
-          usedMove = pbRecoverPartySkill(pkmn, movename, screen, party_idx)
-        when :LIFEDEW
-          usedMove = pbLifeDewPartySkill(pkmn, movename, screen, party, party_idx)
-        when :HEALBELL, :AROMATHERAPY
-          usedMove = pbStatusPartySkill(pkmn, movename, screen, party, party_idx)
-        when :INSTRUCT
-          usedMove = pbInstructPartySkill(pkmn, movename, screen, party, party_idx, idxMove)
-        when :SKETCH
-          usedMove = pbSketchPartySkill(pkmn, movename, screen, party, party_idx)
-        when :FUTURESIGHT
-          usedMove = pbFutureSightPartySkill(pkmn, movename, screen, party, party_idx, idxMove)
-        #-----------------------------------------------------------------------
-        else
-          usedMove = 0
-          screen.scene.pbDisplay(_INTL("This move can't be used right now."))
-          next
-        end
-        if Settings::CUSTOM_SKILLS_REQUIRE_MOVE
-          move = pkmn.moves[idxMove]
-          if usedMove > 0 && move.id == skills[command]
-            reduce = [usedMove, move.pp].min
-            move.pp -= reduce
-            case move.pp
-            when 0 then text = _INTL("ran out of PP...")
-            else        text = "#{_INTL("had its PP reduced by")} #{reduce}!"
-            end
-            screen.scene.pbDisplay(_INTL("{1}'s {2} {3}", pkmn.name, move.name, text))
-          end
-        end
-      #-------------------------------------------------------------------------
-      # Performs Heal Skill effects.
-      #-------------------------------------------------------------------------
-      elsif Settings::HEAL_SKILLS.include?(skills[command])
-        amt = [(pkmn.totalhp / 5).floor, 1].max
-        if pkmn.hp <= amt
-          screen.scene.pbDisplay(_INTL("Not enough HP..."))
-          next
-        else
-          pbHealPartySkill(pkmn, movename, screen, party, party_idx)
-        end
-      #-------------------------------------------------------------------------
-      # Performs HM and miscellaneous field skill effects.
-      #-------------------------------------------------------------------------
-      else
-        if pbCanUseHiddenMove?(pkmn, skills[command], false)
-          if pbConfirmUseHiddenMove(pkmn, skills[command])
-            screen.scene.pbEndScene
-            if skills[command] == :FLY
-              new_scene = PokemonRegionMap_Scene.new(-1, false)
-              new_screen = PokemonRegionMapScreen.new(new_scene)
-              ret = new_screen.pbStartFlyScreen
-              if ret
-                $game_temp.fly_destination = ret
-                ret = [pkmn, skills[command]]
-                break
-              end
-              screen.scene.pbStartScene(
-                party, (party.length > 1) ? _INTL("Choose a Pokémon.") : _INTL("Choose Pokémon or cancel.")
-              )
-              break
-            end
-            ret = [pkmn, skills[command]]
-          end
-          break if ret
-        end
-      end
-    end
-    next ret
-  }
-})
+# #===============================================================================
+# # Field Skill menu handler.
+# #===============================================================================
+# MenuHandlers.add(:party_menu, :field_skill, {
+  # "name"        => _INTL("Field moves"),
+  # "order"       => 21,
+  # "text_color"  => :Blue,
+  # "field_skill" => true,
+  # "condition"   => proc { |screen, party, party_idx| next party[party_idx].has_field_skill? },
+  # "effect"      => proc { |screen, party, party_idx|
+    # ret = nil
+    # pkmn = party[party_idx]
+    # command = 0
+    # loop do
+      # skills = []
+      # commands = []
+      # #-------------------------------------------------------------------------
+      # # Adds HM Skills.
+      # #-------------------------------------------------------------------------
+      # Settings::HM_SKILLS.each do |skill|
+        # next if !GameData::Move.exists?(skill)
+        # next if !HiddenMoveHandlers.hasHandler(skill)
+        # #next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
+        # badge = pbBadgeFromSkill(skill)
+        # next if Settings::HM_SKILLS_REQUIRE_BADGE && badge > 0 && !pbCheckHiddenMoveBadge(badge, false)
+        # color = (pbCanUseHiddenMove?(pkmn, skill, false) && pbCheckHiddenMoveBadge(badge, false)) ? :Blue : :Gray
+        # commands.push([GameData::Move.get(skill).name, color])
+        # skills.push(skill)
+      # end
+      # #-------------------------------------------------------------------------
+      # # Adds Misc. Skills.
+      # #-------------------------------------------------------------------------
+      # Settings::MISC_SKILLS.each do |skill|
+        # next if !GameData::Move.exists?(skill)
+        # next if !HiddenMoveHandlers.hasHandler(skill)
+        # if Settings::MISC_SKILLS_REQUIRE_MOVE
+          # next if !pkmn.hasMove?(skill)
+        # else
+          # next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
+        # end
+        # color = (pbCanUseHiddenMove?(pkmn, skill, false)) ? :Blue : :Gray
+        # commands.push([GameData::Move.get(skill).name, color])
+        # skills.push(skill)
+      # end
+      # #-------------------------------------------------------------------------
+      # # Adds Heal Skills.
+      # #-------------------------------------------------------------------------
+      # Settings::HEAL_SKILLS.each do |skill|
+        # next if !GameData::Move.exists?(skill)
+        # if Settings::HEAL_SKILLS_REQUIRE_MOVE
+          # next if !pkmn.hasMove?(skill)
+        # else
+          # next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
+        # end
+        # color = (pkmn.hp >= [(pkmn.totalhp / 5).floor, 1].max) ? :Blue : :Gray
+        # commands.push([GameData::Move.get(skill).name, color])
+        # skills.push(skill)
+      # end
+      # #-------------------------------------------------------------------------
+      # # Adds Other Skills.
+      # #-------------------------------------------------------------------------
+      # Settings::CUSTOM_SKILLS.each do |skill|
+        # next if !GameData::Move.exists?(skill)
+        # if Settings::CUSTOM_SKILLS_REQUIRE_MOVE
+          # next if !pkmn.hasMove?(skill)
+        # else
+          # next if !pkmn.species_data.has_skill?(skill) && !pkmn.hasMove?(skill)
+        # end
+        # color = :Blue
+        # pkmn.moves.each do |move|
+          # next if move.id != skill
+          # color = :Gray if move.pp <= 0
+        # end
+        # commands.push([GameData::Move.get(skill).name, color])
+        # skills.push(skill)
+      # end
+      # break if skills.empty?
+      # commands.push("Cancel")
+      # command = screen.scene.pbShowCommands(_INTL("Do what with {1}?", pkmn.name), commands, command)
+      # break if command < 0 || command >= commands.length - 1
+      # movename = commands[command]
+      # #-------------------------------------------------------------------------
+      # # Performs Custom Skill effects.
+      # #-------------------------------------------------------------------------
+      # if Settings::CUSTOM_SKILLS.include?(skills[command])
+        # idxMove = 0
+        # if Settings::CUSTOM_SKILLS_REQUIRE_MOVE
+          # pkmn.moves.each_with_index { |m, i| idxMove = i if m.id == skills[command] }
+          # if pkmn.moves[idxMove].pp <= 0
+            # screen.scene.pbDisplay(_INTL("Not enough PP..."))
+            # next
+          # end
+        # end
+        # case skills[command]
+        # #-----------------------------------------------------------------------
+        # # ***CUSTOM MOVE SECTION***
+        # #-----------------------------------------------------------------------
+        # when :RECOVER
+          # usedMove = pbRecoverPartySkill(pkmn, movename, screen, party_idx)
+        # when :LIFEDEW
+          # usedMove = pbLifeDewPartySkill(pkmn, movename, screen, party, party_idx)
+        # when :HEALBELL, :AROMATHERAPY
+          # usedMove = pbStatusPartySkill(pkmn, movename, screen, party, party_idx)
+        # when :INSTRUCT
+          # usedMove = pbInstructPartySkill(pkmn, movename, screen, party, party_idx, idxMove)
+        # when :SKETCH
+          # usedMove = pbSketchPartySkill(pkmn, movename, screen, party, party_idx)
+        # when :FUTURESIGHT
+          # usedMove = pbFutureSightPartySkill(pkmn, movename, screen, party, party_idx, idxMove)
+        # #-----------------------------------------------------------------------
+        # else
+          # usedMove = 0
+          # screen.scene.pbDisplay(_INTL("This move can't be used right now."))
+          # next
+        # end
+        # if Settings::CUSTOM_SKILLS_REQUIRE_MOVE
+          # move = pkmn.moves[idxMove]
+          # if usedMove > 0 && move.id == skills[command]
+            # reduce = [usedMove, move.pp].min
+            # move.pp -= reduce
+            # case move.pp
+            # when 0 then text = _INTL("ran out of PP...")
+            # else        text = "#{_INTL("had its PP reduced by")} #{reduce}!"
+            # end
+            # screen.scene.pbDisplay(_INTL("{1}'s {2} {3}", pkmn.name, move.name, text))
+          # end
+        # end
+      # #-------------------------------------------------------------------------
+      # # Performs Heal Skill effects.
+      # #-------------------------------------------------------------------------
+      # elsif Settings::HEAL_SKILLS.include?(skills[command])
+        # amt = [(pkmn.totalhp / 5).floor, 1].max
+        # if pkmn.hp <= amt
+          # screen.scene.pbDisplay(_INTL("Not enough HP..."))
+          # next
+        # else
+          # pbHealPartySkill(pkmn, movename, screen, party, party_idx)
+        # end
+      # #-------------------------------------------------------------------------
+      # # Performs HM and miscellaneous field skill effects.
+      # #-------------------------------------------------------------------------
+      # else
+        # if pbCanUseHiddenMove?(pkmn, skills[command], false)
+          # if pbConfirmUseHiddenMove(pkmn, skills[command])
+            # screen.scene.pbEndScene
+            # if skills[command] == :FLY
+              # new_scene = PokemonRegionMap_Scene.new(-1, false)
+              # new_screen = PokemonRegionMapScreen.new(new_scene)
+              # ret = new_screen.pbStartFlyScreen
+              # if ret
+                # $game_temp.fly_destination = ret
+                # ret = [pkmn, skills[command]]
+                # break
+              # end
+              # screen.scene.pbStartScene(
+                # party, (party.length > 1) ? _INTL("Choose a Pokémon.") : _INTL("Choose Pokémon or cancel.")
+              # )
+              # break
+            # end
+            # ret = [pkmn, skills[command]]
+          # end
+          # break if ret
+        # end
+      # end
+    # end
+    # next ret
+  # }
+# })
 
 
 #===============================================================================

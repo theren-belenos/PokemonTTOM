@@ -474,7 +474,7 @@ Type = NORMAL
 Category = Status
 Accuracy = 0
 TotalPP = 10
-Target = NearOther
+Target = User
 FunctionCode = RaiseUserAtkSpAtkSpeed2LoseHalfOfTotalHP
 Flags = CannotMetronome
 Description = The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP.
@@ -612,7 +612,7 @@ TotalPP = 5
 Target = AllNearFoes
 FunctionCode = AddMoneyGainedFromBattleLowerUserSpAtk1
 Flags = CanProtect,CanMirrorMove,CannotMetronome
-Description = The user throws out a huge mass of coins, lowering its Sp. Atk stat. Money is earned after the battle.
+Description = Throws out a huge mass of coins that lowers its Sp. Atk stat. Money is earned after the battle.
 #-------------------------------
 [MORTALSPIN]
 Name = Mortal Spin
@@ -1127,3 +1127,15 @@ FunctionCode = BadPoisonTarget
 Flags = CanProtect,CanMirrorMove
 EffectChance = 50
 Description = Wraps the target in a toxic, corrosive chain. This may also leave the target badly poisoned.
+#-------------------------------
+[NIHILLIGHT]
+Name = Nihil Light
+Type = DRAGON
+Category = Special
+Power = 200
+Accuracy = 100
+TotalPP = 10
+Target = AllNearFoes
+FunctionCode = IgnoreTargetDefSpDefEvaStatStagesHitFairyType
+Flags = CanProtect,CanMirrorMove
+Description = A powerful light that defies nature, striking Fairy types and ignoring target stat changes.

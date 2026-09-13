@@ -18,14 +18,14 @@ Vous controllez déjà un Onix!
 <b>Cassian:</b> Montre-moi ce que t'as dans le ventre !
 You got the Boulder Badge! \f[BOULDERBADGE]
 Vous obtenez le Badge Rocher ! \f[BOULDERBADGE]
+\c[3]<b>Omnimachine:</b> HM03 detected...\nBoulder badge detected...
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>CS03 détectée...<<n>>Badge Rocher détecté...
+\c[3]<b>Omnimachine:</b> FIELD MOVE "ROCKSMASH" UNLOCKED!
+\c<<[>>3<<]>><b>Omnimachine:</b><<n>>COMPÉTENCE DE TERRAIN "ÉCLATE-ROC" DÉBLOQUÉE !
 <b>Cassian:</b> Wow, ok, good fight. You didn't spare me!
 <b>Cassian:</b> Wow, ok, joli combat. Tu m'as pas raté !
 <b>Cassian:</b> So, with my badge, you can train your Pokémon up to the level 35.
 <b>Cassian:</b> Donc, avec mon badge, tu pourras entraîner tes Pokémon jusqu'au niveau 35.
-<b>Cassian:</b> You can also use the Rocksmash HM outside the battles. Did you find it already?
-<b>Cassian:</b> Tu peux également utiliser la CS Eclate-Roc en dehors des combats. Tu l'as trouvée, déjà ?
-<b>Cassian:</b> It's really useful to break small rocks. A perfect tool for a miner like me!
-<b>Cassian:</b> C'est vraiment utile pour casser de petits rochers. Un outil parfait pour un mineur comme moi!
 <b>Cassian:</b> Last but not least, let me give you this.
 <b>Cassian:</b> Et pour finir en beauté, laisse moi te donner ceci.
 <b>Cassian:</b> Rock Blast can be a really powerful attack, but it's inherently really random... use it with care!

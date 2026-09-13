@@ -6308,3 +6308,863 @@ Are you sure you want to save changes?
 Êtes-vous sûr de vouloir sauvegarder les changements ?
 Are you sure you want to cancel changes?
 Êtes-vous sûr de vouloir annuler les changements ?
+{1}'s {2} transform into {3}!
+Le {2} de {1} se transforme en {3} !
+Set {1}'s frozen count (0-99).
+Set {1}'s frozen count (0-99).
+{1} has to use Struggle!
+{1} se débat !
+It's extremely effective on {1}!
+C’est ultra efficace sur {1} !
+It's extremely effective!
+C’est ultra efficace !
+It's mostly ineffective on {1}...
+C’est très inefficace sur {1}...
+It's mostly ineffective...
+C’est très inefficace…
+{1} can't use {2} in the later turn!
+{1} ne peut pas utiliser {2} pendant le dernier tour !
+This move can't be used!
+Cette capacité ne peut être utilisée !
+The opposing {1} couldn't fully protect itself and got hurt!
+Le {1} ennemi n’a pas pu complètement se protéger et a pris des dégâts !
+{1} made a wish!
+{1} a fa<<t>>it un vœu !
+The Incubator allready on it higest tier.
+The Incubator allready on it higest tier.
+The Incubator level is now {1}.
+The Incubator level is now {1}.
+The Incubator is now a Prototype.
+The Incubator is now a Prototype.
+The Incubator is now a Basic.
+The Incubator is now a Basic.
+The Incubator is now Lv.{1}.
+The Incubator is now Lv.{1}.
+{1} have been hatched.
+{1} a éclos.
+Sounds can be heard coming from inside! This Egg will hatch soon!
+On peut entendre du bruit depuis l’intérieur ! Cet Oeuf va bientôt éclore !
+What will hatch from this Egg? It doesn't seem close to hatching.
+Qu’est-ce qui va sortir de cet Oeuf ? Il ne paraît pas proche de l’éclosion.
+Choose an Egg.
+Choisir un Oeuf.
+Edit Steps
+Modifier pas
+Hatch
+Eclore
+Set the number of steps left (1 to {1})
+Modifier nombre de pas restants (1 to {1})
+Steps to hatch for the Egg set to {1}.
+Nombre de pas avant l’éclosion : {1}.
+Your party is full
+Votre équipe est pleine.
+Do you want to add the {1} to your team?
+Voulez-vous ajouter le {1} à votre équipe ?
+There´s no more room for Pokémon!
+Il n’y a plus de place pour un Pokémon !
+Box "{1}" is full.<<1>>
+La boîte "{1}" est pleine.<<1>>
+{1} was transfered to box "{2}."
+{1} a été transféré dans la boîte "{2}."
+The \c[1]{1}\c[0] is full.
+Le \c[1]{1}\c[0] est rempli.
+Would you like to add the {1} to your team
+Voulez-vous ajouter le {1} à votre équipe ?
+{1} is full.<<n>>The {2} was transfered to "{3}"!
+{1} est plein.<<n>>Le {2} a été transféré dans "{3}"!
+The {1} was transfered to box \c[1]"{2}."\c[0]
+Le {1} a été transféré dans la boîte \c[1]"{2}."\c[0]
+The incubator is full.
+L’incubateur est rempli.
+Incubator
+Incubateur
+The {1} is currenly full.
+Le {1} est actuellement rempli
+{1} last slots have been filled
+Les {1} derniers emplacements ont été remplis
+{1} can store up to {2} more Egg
+L’{1} peut encore stocker {2} Oeufs supplémentaires
+The Pokémon is immune to status moves and takes less damage.
+Le Pokémon est immunisé aux capacités de statut et prend moins de dégâts.
+Raid Shield
+Bouclier de Raid
+The Pokémon is in its Mega Evolved form.
+Le Pokémon est dans sa forme Méga-évoluée.
+The Pokémon is in its Primal form.
+Le Pokémon est dans sa forme Primale.
+Primal Reversion
+Primo-Resurgence
+The Pokémon is in its Ultra form.
+Le Pokémon est dans sa forme Ultra
+Ultra Burst
+Ultra-Explosion
+Fire type moves deal 50% more damage. Halves Water move damage.
+Les capacités Feu infligent 50% de dégâts en plus. Les dégâts d’Eau sont réduits de moitié.
+Fire type moves deal 50% more damage. Negates Water type moves.
+Les capacités Feu infligent 50% de dégâts en plus. Les dégâts d’Eau sont nullifiés.
+Water type moves deal 50% more damage. Halves Fire move damage.
+Les capacités Eau infligent 50% de dégâts en plus. Les dégâts de Feu sont réduits de moitié.
+Water type moves deal 50% more damage. Negates Fire type moves.
+Les capacités Eau infligent 50% de dégâts en plus. Les dégâts de Feu sont nullifiés.
+All Flying-type weaknesses are suppressed.
+Toutes les faiblesses du type Vol sont annulées.
+The combined effects of both Hail and Snow.
+Effets combinés de la grêle et de la neige.
+Boosts the Sp. Defense stat of the Pokémon by 50%.
+Augmente la stat de Défense Spé du Pokémon de 50%
+The Pokémon loses {1} HP each turn.
+Le Pokémon perd {1} PV chaque tour.
+Pokémon may lose HP each turn. Boosts Sp. Defense of Rock types.
+Le Pokémon pourrait perdre des PV chaque tour. Augmente la défense Spé des types Roche.
+The Pokémon loses {1} HP each turn. Blizzard always hits.
+Le Pokémon perd {1} PV chaque tour. Blizzard ne peut plus rater.
+Pokémon may lose HP each turn. Blizzard always hits.
+Le Pokémon pourrait perdre des PV chaque tour. Blizzard ne peut plus rater.
+Boosts the Defense of the Pokémon by 50%. Blizzard always hits.
+Augmente la Défense du Pokémon de 50%. Blizzard ne peut plus rater.
+The move Blizzard always hits. Boosts Defense of Ice types.
+La capacité Blizzard ne peut plus rater. Augmente la défense des types Glace.
+The power of the Pokémon's Shadow type moves are boosted by 50%.
+The power of the Pokémon's Shadow type moves are boosted by 50%.
+Non-Shadow Pokémon may lose HP each turn.
+Non-Shadow Pokémon may lose HP each turn.
+The Pokémon can't fall asleep. Electric moves boosted by 30%.
+Le Pokémon ne peut pas s’endormir. Les capacités Électrique sont 30% plus puissantes.
+Grounded Pokémon can't fall asleep. Boosts Electric moves.
+Les Pokémon au sol ne peuvent pas s’endormir. Améliore les capacités Électrique.
+The Pokémon heals {1} HP each turn. Grass moves boosted by 30%.
+Le Pokémon se soigne de {1} PV chaque tour. Les capacités Plante sont 30% plus puissantes.
+Grounded Pokémon may recover HP each turn. Boosts Grass moves.
+Les Pokémon au sol regagnent des PV chaque tour. Améliore les capacités Plante.
+The Pokémon is immune to priority. Psychic moves boosted by 30%.
+Le Pokémon est immunisé aux priorités. Les capacités Psy sont 30% plus puissantes.
+Grounded Pokémon immune to priority. Boosts Psychic moves.
+Les Pokémon au sol sont immunisés aux priorités. Améliore les capacités Psy.
+The Pokémon is immune to statuses. Dragon moves weakened.
+Le Pokémon est immunisé aux statuts. Les capacités Dragon sont affaiblies.
+Grounded Pokémon immune to statuses. Weakens Dragon moves.
+Les Pokémons au sol sont immunisés aux statuts. Les capacités Dragon sont affaiblies.
+Normal type moves of all Pokémon on the field become Electric type.
+Les capacités de type Normal de tous les Pokémon sur le terrain deviennent de type Electrique.
+No Pokémon on the field can flee.
+Aucun Pokémon sur le terrain ne peut fuir.
+Grounds all Pokémon. Prevents midair actions. Increases accuracy.
+Tous les Pokémon sont au sol. Empêche les actions aériennes. Améliore la précision.
+No Pokémon on the field can use their held items.
+Aucun Pokémon sur le terrain ne peut utiliser son objet tenu.
+All Pokémon on the field swap their Defense and Sp. Defense stats.
+Tous les Pokémon sur le terrain échangent leur Défense avec leur Défense Spé.
+Reverses Speed order so slower Pokémon on the field move first.
+Inverse l’ordre de vitesse, faisant que les Pokémon les plus lents sur le terrain jouent en premier
+All Pokémon on the field take less damage from Electric moves.
+Tous les Pokémon sur le terrain subissent moins de dégâts des capacités Électrique.
+All Pokémon on the field take less damage from Fire moves.
+Tous les Pokémon sur le terrain subissent moins de dégâts des capacités Feu.
+Attacks of Pokémon on this side deal increased damage.
+Les attaques des Pokémon de ce côté infligent davantage de dégâts.
+Attacks Pokémon on this side always trigger effects.
+Les attaques des Pokémon de ce côté activent toujours leur effet additionnel.
+Attacks of Pokémon on this side bypass protections.
+Les attaques des Pokémon de ce côté ignorent les protections.
+Pokémon on this side take reduced damage from attacks.
+Les Pokémon de ce côté subissent moins de dégâts des attaques.
+Pokémon on this side are immune to move effects.
+Les Pokémon de ce côté sont immunisés aux effets additionnels des capacités.
+Pokémon on this side will endure incoming attacks.
+Les Pokémon de ce côté résisteront aux prochaines attaques.
++1/1
++1/1
+Pokémon on this side take Rock type damage upon entry.
+Les Pokémon de ce côté subissent des dégâts de Roche en arrivant sur le terrain.
+Pokémon on this side take Steel type damage upon entry.
+Les Pokémon de ce côté subissent des dégâts d’Acier en arrivant sur le terrain.
+The Speed of grounded Pokémon on this side is lowered upon entry.
+La vitesse des Pokémon au sol diminue en arrivant sur le terrain.
+Grounded Pokémon on this side lose HP upon entry.
+Les Pokémon au sol perdent des PV en arrivant sur le terrain.
+Grounded Pokémon on this side are poisoned upon entry.
+Les Pokémon au sol sont empoisonnés en arrivant sur le terrain.
+Pokémon on this side lose HP each turn. No effect on Grass types.
+Les Pokémon de ce côté perdent des PV chaque tour. Aucun effet sur les Pokémon Plante.
+Pokémon on this side lose HP each turn. No effect on Fire types.
+Les Pokémon de ce côté perdent des PV chaque tour. Aucun effet sur les Pokémon Feu.
+Pokémon on this side lose HP each turn. No effect on Water types.
+Les Pokémon de ce côté perdent des PV chaque tour. Aucun effet sur les Pokémon Eau.
+Pokémon on this side lose HP each turn. No effect on Rock types.
+Les Pokémon de ce côté perdent des PV chaque tour. Aucun effet sur les Pokémon Roche.
+Pokémon on this side are more likely to trigger move effects.
+Les Pokémon de ce côté ont plus de chances de déclencher des effets additionnels.
+The Speed of the Pokémon on this side is halved.
+La Vitesse des Pokémon de ce côté est réduite de moitié.
+The Speed of the Pokémon on this side is doubled.
+La Vitesse des Pokémon de ce côté est doublée.
+Pokémon on this side are protected from most status moves.
+Les Pokémon de ce côté sont protégés de la plupart des effets de statuts.
+Pokémon on this side are protected from most priority moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités prioritaires.
+Pokémon on this side are protected from most spread moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités à effet de zone.
+Pokémon on this side are protected from most damaging moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités infligeant des dégâts.
+All moves deal less damage to Pokémon on this side.
+Toutes les capacités infligent moins de dégâts aux Pokémon sur ce côté.
+Physical moves deal less damage to Pokémon on this side.
+Les attaques physiques infligent moins de dégâts aux Pokémon sur ce côté.
+Special moves deal less damage to Pokémon on this side.
+Les attaques spéciales infligent moins de dégâts aux Pokémon sur ce côté.
+Pokémon on this side are protected from status conditions.
+Les Pokémon de ce côté sont protégés des effets de statuts.
+The stats of Pokémon on this side cannot be lowered.
+Les stats des Pokémon de ce côté ne peuvent baisser.
+Pokémon on this side are immune to critical hits.
+Les Pokémon de ce côté sont protégés des coups critiques.
+{1} will strike the Pokémon in this spot in {2} more turn(s).
+{1} frappera le Pokémon à cet emplacement dans {2} tour(s).
+The Pokémon in this spot will restore {1} HP in {2} more turn(s).
+Le Pokémon à cet emplacement se soignera de {1} PV dans {2} tour(s).
+A substitute with {1} HP stands in for the Pokémon.
+Un clone avec {1} PV a pris la place du Pokémon.
+The Pokémon restores {1} HP at the end of each turn.
+Le Pokémon se soigne de {1} PV à la fin de chaque tour.
+The Pokémon restores {1} HP every turn, but cannot escape.
+Le Pokémon se soigne de {1} PV chaque tour, mais ne peut s’enfuir.
+Each turn, {1} leeches {2} HP from the Pokémon.
+Chaque tour, {1} vole {2} HP au Pokémon.
+The Pokémon loses {1} HP at the end of each turn.
+Le Pokémon perd {1} PV à la fin de chaque tour.
+The Pokémon loses {1} HP each turn it spends asleep.
+Le Pokémon perd {1} PV chaque tour qu’il passe endormi.
+The Pokémon takes {1} type damage at the end of each turn.
+Le Pokémon subit des dégâts de type {1} à la fin de chaque tour.
+The Pokémon cannot use any healing effects that restores HP.
+Le Pokémon ne peut pas utiliser des effets de soin restaurant des PV.
+?/?
+?/?
+The Pokémon may hurt itself in confusion instead of attacking.
+Le Pokémon pourrait se blesser lui-même au lieu d’attaquer.
+The Pokémon rampages for a few turns. It then becomes confused.
+Le Pokémon se déchaîne pendant quelques tours. Il devient ensuite confus.
+The Pokémon cannot use the same move twice in a row.
+Le Pokémon ne peut pas utiliser la même capacité deux fois de suite.
+The Pokémon cannot use any sound-based moves.
+Le Pokémon ne peut pas utiliser de capacités sonores.
+The Pokémon may only use the move {1}.
+Le Pokémon ne peut qu'utiliser la capacité {1}.
+The Pokémon cannot use the move {1}.
+Le Pokémon ne peut pas utiliser la capacité {1}.
+The Pokémon cannot use any status moves.
+Le Pokémon ne peut pas utiliser de capacités de statut.
+The Pokémon's ability is negated.
+Le talent du Pokémon est nullifié.
+The next Electric move used by the Pokémon will double in power.
+La prochaine capacité Électrique utilisée par le Pokémon sera deux fois plus puissante.
+The next move used by the Pokémon will become Electric type.
+La prochaine capacité du Pokémon deviendra de type Électrique
+The next Fire move used by the Pokémon will ignite and explode.
+La prochaine capacité Feu utilisée par le Pokémon va s’embraser et exploser.
+The Pokémon is grounded and no longer immune to Ground moves.
+Le Pokémon est maintenu au sol et n’est plus immunisé aux capacités Sol
+The Pokémon's evasion boosts are ignored. No Ghost immunities.
+Les boosts d’esquive du Pokémon sont ignorés. Pas d’immunité Spectre.
+The Pokémon's evasion boosts are ignored. No Dark immunities.
+Les boosts d’esquive du Pokémon sont ignorés. Pas d’immunité Ténèbres.
+The Attack stat of the Pokémon increases whenever it is hit.
+La stat d’Attaque du Pokémon augmente lorsqu’il est touché.
+The damage dealt with the Pokémon's next move will be increased.
+Les dégâts infligés par la prochaine capacité du Pokémon seront augmentés.
+The Attack and Defense stats of the Pokémon are swapped.
+Les stats d’Attaque t de Défense du Pokémon sont échangées.
+The Pokémon's next attack will be a guaranteed critical hit.
+La prochaine attaque du Pokémon sera un coup critique garanti.
+The Pokémon is amassing a stockpile to use or consume.
+Le Pokémon accumule un stockage pour utiliser ou avaler.
+The Pokémon takes more damage from certain moves while minimized.
+Le Pokémon subit davantage de dégâts de certaines attaques en étant miniaturisé.
+The Pokémon cannot evade and takes double damage from attacks.
+Le Pokémon ne peut pas esquiver et subit deux fois plus de dégâts.
+The Pokémon's next move is sure to hit {1}.
+La prochaine capacité du Pokémon est garantie de toucher {1}.
+Each turn, {1} lowers the Pokémon's Speed.
+Chaque tour, {1} baisse la Vitesse du Pokémon.
+The Pokémon refuses to flee or switch out.
+Le Pokémon refuse de s’enfuir ou de se retirer.
+Trapped by {1}.
+Piégé par {1}.
+Trapped by {1}. Defense drops each turn.
+Piégé par {1}. La défense diminue chaque tour.
+Trapped by {1}. Loses HP each turn.
+Piégé par {1}. perd des PV chaque tour.
+Trapped and loses HP each turn.
+Piégé et perd des PV chaque tour.
+The Pokémon bounces back most incoming status moves.
+Le Pokémon renvoie la plupart des effets de statuts reçus.
+The Pokémon is protected from most incoming attacks.
+Le Pokémon est protégé de la plupart des attaques.
+Protected from most moves. Contact inflicts damage.
+Protégé de la plupart des capacités. Inflige des dégâts au contact.
+Protected from most moves. Contact inflicts poison.
+Protégé de la plupart des capacités. Empoisonne au contact.
+Protected from damage dealing moves. Contact inflicts a burn.
+Protégé de la plupart des capacités infligeant des dégâts. Brûle l’assaillant au contact.
+Protected from damage dealing moves. Contact lowers Attack.
+Protégé de la plupart des capacités infligeant des dégâts. Baisse l’Attaque de l’assaillant au contact.
+Protected from damage dealing moves. Contact lowers Defense.
+Protégé de la plupart des capacités infligeant des dégâts. Baisse la Défense de l’assaillant au contact.
+Protected from damage dealing moves. Contact lowers Speed.
+Protégé de la plupart des capacités infligeant des dégâts. Baisse la Vitesse de l’assaillant au contact.
+Charging Turn
+Tour de charge
+The Pokémon will use {1} next turn.
+Le Pokémon utilisera {1} au prochain tour.
+The Pokémon cannot act for {1} more turn(s).
+Le Pokémon ne peut pas agir pendant {1} tour(s).
+The Pokémon will fall asleep in {1} more turn(s).
+Le Pokémon s’endormira dans {1} tour(s).
+Perish Count
+Décompte du Requiem
+The Pokémon will be forced to faint in {1} more turn(s).
+Le Pokémon sera mis K.O. dans {1} tour(s).
+The Pokémon gets its act together in {1} more turn(s).
+Le Pokémon se reprendra dans {1} tour(s).
+The Pokémon is trapped while latched to {1}.
+Le Pokémon est piégé en étant attaché à {1}.
+The Pokémon can't use moves known by {1}.
+Le Pokémon ne peut pas utiliser de capacités apprises par {1}.
+{1}'s uproar prevents sleeping.
+Le Brouhaha de {1} empêche de dormir.
+Do you want to call Kikiss for help ? It will bring you back to Maple's lab.
+Voulez-vous appeler Kikiss à l’aide ? Il vous emmènera devant le labo de Maple.
+Do you want to ask Kikiss to bring you back to Maple's lab?
+Voulez-vous demander à Kikiss de vous ramener devant le labo de Maple ?
+You used the Omnimachine to cut the Tree!
+Vous utilisez l’Omnimachine pour couper l’arbre !
+You used the Omnimachine to lighten the place!
+Vous utilisez l’Omnimachine pour éclairer les environs !
+You used the Omnimachine to break this rock!
+Vous utilisez l’Omnimachine pour casser le rocher !
+You deploy the Omnimachine! It becomes a plane that takes you to your destination!
+Vous déployez l’Omnimachine ! Il se transforme en mini-avion vous emmenant à destination !
+You activate the Omnimachine strength function!
+Vous activez la fonction Force de l’Omnimachine !
+Omnimachine's strength made it possible to move boulders around!
+La Force de l’Omnimachine vous permet de pousser les gros rochers !
+You deploy the Omnimachine! It becomes a light boat for you to explore the sea!
+Vous déployez l’Omnimachine ! Il se transforme en bateau léger pour explorer la mer !
+You used the Omnimachine to cut down the Tree!
+Vous utilisez l’Omnimachine pour couper l’arbre !
+This tree looks like it can be cut down!<<n>>Would you like to use the Omnimachine's Cut function to cut it down?
+Cet arbre semble pouvoir être coupé !<<n>>Voulez-vous utiliser la fonction Coupe de l’Omnimachine pour le couper ?
+It's a rugged rock, but it looks breakable.
+C’est un rocher robuste, mais il semble pouvoir être cassé.
+This rock seems breakable.<<n>>Would you like to use the Omnimachine's Rock Smash function on it?
+Ce rocher semble pouvoir être cassé.<<n>>Voulez-vous utiliser la fonction Eclate-Roc de l’Omnimachine pour le casser ?
+INHERITED
+HERITE
+MEGA MOVES
+CAPACITE MEGA
+Graphics/UI/Battle/icon_mega
+Graphics/UI/Battle/icon_mega
+You have to be outside to call Kikiss!
+Vous devez être à l'extérieur pour appeler Kikiss !
+Egg State
+Etat de l'Oeuf
+You don't have any Heart Scale.
+Vous n'avez pas d'Ecaillecoeur.
+So you want the {1}?<<n>>It'll cost you a Heart Scale. All right?
+Donc tu veux : {1} ?<<n>>Cela te coûtera une Ecaillecoeur. OK ?
+Welcome! Here are habitations variants!
+Bienvenue ! Voici les variantes des habitations !
+Welcome! Here are various buildings variants!
+Bienvenue ! Voici les variantes des autres bâtiments !
+Welcome! Here are external decorations variants!
+Bienvenue ! Voici les variantes des décorations extérieures !
+Heart Scales:<<n>><r>{1}
+Ecaillecoeurs:<<n>><r>{1}
+1 Heart Scale
+1 Ecaillecoeur
+Heart Scales:<r>{1}
+Ecaillecoeurs:<r>{1}
+1 H.S.
+1 Eca.
+Heart Scales: <r>{1}
+Ecaillecoeurs: <r>{1}
+Not built
+Pas construit
+Locked
+Verrouillé
+Bought
+Acheté
+Actual
+Actuel
+Leader's house A
+Maison du Leader A
+Base color for your house
+Couleur de base pour votre maison
+Leader's house B
+Maison du Leader B
+Variant color for your house
+Couleur alternative pour votre maison
+Leader's house C
+Maison du Leader C
+Leader's house D
+Maison du Leader D
+Leader's house E
+Maison du Leader E
+Obtain the achievement for completing 25% of Kanto's Pokedex
+Obtenir le succès de complétion du Pokédex de Kanto à 25%
+Kanto inspired variant for your house
+Version alternative inspirée de Kanto pour votre maison
+Leader's house F
+Maison du Leader F
+Obtain the achievement for completing 25% of Johto's Pokedex
+Obtenir le succès de complétion du Pokédex de Johto à 25%
+Johto inspired variant for your house
+Version alternative inspirée de Johto pour votre maison
+Leader's house G
+Maison du Leader G
+Obtain the achievement for completing 25% of Hoenn's Pokedex
+Obtenir le succès de complétion du Pokédex de Hoenn à 25%
+Hoenn inspired variant for your house
+Version alternative inspirée de Hoenn pour votre maison
+Leader's house H
+Maison du Leader H
+Obtain the achievement for completing 25% of Sinnoh's Pokedex
+Obtenir le succès de complétion du Pokédex de Sinnoh à 25%
+Sinnoh inspired variant for your house
+Version alternative inspirée de Sinnoh pour votre maison
+Leader's house I
+Maison du Leader I
+Obtain the achievement for completing 25% of Unova's Pokedex
+Obtenir le succès de complétion du Pokédex de Unova à 25%
+Unova inspired variant for your house
+Version alternative inspirée de Unova pour votre maison
+Leader's house J
+Maison du Leader J
+Obtain the achievement for completing 25% of Kalos's Pokedex
+Obtenir le succès de complétion du Pokédex de Kalos à 25%
+Kalos inspired variant for your house
+Version alternative inspirée de Kalos pour votre maison
+Leader's house K
+Maison du Leader K
+Obtain the achievement for completing 25% of Alola's Pokedex
+Obtenir le succès de complétion du Pokédex de Alola à 25%
+Alola inspired variant for your house
+Version alternative inspirée de Alola pour votre maison
+Leader's house L
+Maison du Leader L
+Obtain the achievement for completing 25% of Galar's Pokedex
+Obtenir le succès de complétion du Pokédex de Galar à 25%
+Galar inspired variant for your house
+Version alternative inspirée de Galar pour votre maison
+Obtain the achievement for completing 25% of Paldea's Pokedex
+Obtenir le succès de complétion du Pokédex de Paldea à 25%
+Paldea inspired variant for your house
+Version alternative inspirée de Paldea pour votre maison
+Lab A
+Labo A
+Base color for Maple's lab
+Couleur de base du labo de Maple
+Flowers A
+Fleurs A
+Base color for flowers around the town
+Couleurd e base pour les fleurs de la ville
+Locked ; building not built.
+Verrouillé ; bâtiment non construit
+Locked ; to unlock :
+Verrouillé ; pour débloquer :
+Leader's house M
+Maison du Leader M
+Heart Scales:
+Ecaillecœurs:
+This is for a building you didn't build yet, thus this variant is unavailable.
+Ceci est pour un bâtiment pas encore construit, cette variante n'est donc pas disponible.
+You can't build this variant yet. Check the requirements!
+Vous ne pouvez pas choisir cette variante pour l'instant. Vérifiez les prérequis !
+You don't have any Heart Scale! You can't buy this variant!
+Vous n'avez pas d'Ecaillecoeur ! Vous ne pouvez pas acheter cette variante !
+Do you want to chose the new variant you just bought?
+Voulez-vous activer la variante que vous venez d'acheter ?
+Do you want to chose this variant?
+Voulez-vous activer cette variante ?
+This is the actual selected variant.
+Ceci est la version du bâtiment active.
+<b>Urbanist:</b> This is for a building you didn't build yet, thus this variant is unavailable, sorry!
+<b>Urbaniste:</b> Ceci est pour un bâtiment pas encore construit, cette variante n'est donc pas disponible, désolée !
+<b>Urbanist:</b> You can't build this variant yet. Check the requirements!
+<b>Urbaniste:</b> Tu ne peux pas choisir cette variante pour l'instant. Vérifie les prérequis !
+<b>Urbanist:</b> You don't have any Heart Scale! You can't buy this variant!
+<b>Urbaniste:</b> Tu n'as pas d'Ecaillecoeur ! Tu ne peux pas acheter cette variante !
+<b>Urbanist:</b> So you want to unlock this: {1}?<<n>>It'll cost you a Heart Scale. All right?
+<b>Urbaniste:</b> Donc tu veux ça : {1} ?<<n>>Cela te coûtera une Ecaillecoeur. OK ?
+<b>Urbanist:</b> Here you are! Thank you!
+<b>Urbaniste:</b> Et voilà ! Merci !
+<b>Urbanist:</b> Do you want to chose the new variant you just bought?
+<b>Urbaniste:</b> Tu veux activer la variante que tu viens d'acheter ?
+<b>Urbanist:</b> Okay! Have a nice day!
+<b>Urbaniste:</b> Okay ! Passe une bonne journée !
+<b>Urbanist:</b> Do you want to chose this variant?
+<b>Urbaniste:</b> Veux-tu activer cette variante ?
+<b>Urbanist:</b> This is the actual selected variant.
+<b>Urbaniste:</b> Ceci est la version du bâtiment active.
+<b>Urbanist:</b> The new variant was automatically selected! Have a nice day!
+<b>Urbaniste:</b> La nouvelle variante a été automatiquement activée ! Passe une bonne journée !
+Obtain the achievement for completing 25% of Kalos' Pokedex
+Obtenir le succès de complétion du Pokédex de Kalos à 25%
+Melly's house A
+Maison de Melly A
+Base color for Melly's house
+Couleur de base pour la maison de Melly
+Melly's house B
+Maison de Melly B
+Variant color for Melly's house
+Couleur alternative pour la maison de Melly
+Melly's house C
+Maison de Melly C
+Melly's house D
+Maison de Melly D
+1st Block A
+1er Immeuble A
+Base color for the 1st block
+Couleur de base pour le 1er Immeuble
+1st Block B
+1er Immeuble B
+Variant color for the 1st block
+Couleur alternative pour le 1er Immeuble
+1st Block C
+1er Immeuble C
+1st Block D
+1er Immeuble D
+3rd House A
+3e Maison A
+Base color for the 3rd house
+Couleur de base pour la 3e Maison
+3rd House B
+3e Maison B
+Variant color for the 3rd house
+Couleur alternative pour la 3e Maison
+3rd House C
+3e Maison C
+3rd House D
+3e Maison D
+4th House A
+4e Maison A
+Base color for the 4th house
+Couleur de base pour la 4e Maison
+4th House B
+4e Maison B
+Variant color for the 4th house
+Couleur alternative pour la 4e Maison
+4th House C
+4e Maison C
+4th House D
+4e Maison D
+2nd Block A
+2e Immeuble A
+Base color for the 2nd Block
+Couleur de base pour le 2e Immeuble
+2nd Block B
+2e Immeuble B
+Variant color for the 2nd Block
+Couleur alternative pour le 2e Immeuble
+2nd Block C
+2e Immeuble C
+2nd Block D
+2e Immeuble D
+5th House A
+5e Maison A
+Base color for the 5th house
+Couleur de base pour la 5e Maison
+5th House B
+5e Maison B
+Variant color for the 5th house
+Couleur alternative pour la 5e Maison
+5th House C
+5e Maison C
+5th House D
+5e Maison D
+Base color for Maple's Lab
+Couleur de base pour le labo de Maple
+Lab B
+Labo B
+Variant color for Maple's Lab
+Couleur alternative pour le labo de Maple
+Lab C
+Labo C
+Lab D
+Labo D
+PokéCenter A
+Centre Pokémon A
+Base color for the PokéCenter
+Couleur de base pour le Centre Pokémon
+PokéCenter B
+Centre Pokémon B
+Variant color for the PokéCenter
+Couleur alternative pour le Centre Pokémon
+PokéCenter C
+Centre Pokémon C
+PokéCenter D
+Centre Pokémon D
+Dept. Store A
+Centre Ccial A
+Base color for the Dept. Store
+Couleur de base pour le Centre Commercial
+Dept. Store B
+Centre Ccial B
+Variant color for the Dept. Store
+Couleur alternative pour le Centre Commercial
+Dept. Store C
+Centre Ccial C
+Dept. Store D
+Centre Ccial D
+Obtain the achievement for completing 25% of the National Pokedex
+Obtenir le succès de complétion du Pokédex National à 25%
+Academy A
+Académie A
+Base color for the Academy
+Couleur de base pour l'Académie
+Academy B
+Académie B
+Variant color for the Academy
+Couleur alternative pour l'Académie
+Academy C
+Académie C
+Academy D
+Académie D
+Safari A
+Safari A
+Base color for the Safari
+Couleur de base pour le Safari
+Safari B
+Safari B
+Variant color for the Safari
+Couleur alternative pour le Safari
+Safari C
+Safari C
+Safari D
+Safari D
+Clothes' Shop A
+Magasin de vêtements A
+Base color for the Clothes' Shop
+Couleur de base pour le Magasin de vêtements
+Clothes' Shop B
+Magasin de vêtements B
+Variant color for the Clothes' Shop
+Couleur alternative pour le Magasin de vêtements
+Clothes' Shop C
+Magasin de vêtements C
+Clothes' Shop D
+Magasin de vêtements D
+Casino A
+Casino A
+Base color for the Casino
+Couleur de base pour le Casino
+Casino B
+Casino B
+Variant color for the Casino
+Couleur alternative pour le Casino
+Casino C
+Casino C
+Casino D
+Casino D
+Hangar A
+Hangar A
+Base color for the Dock's Hangar
+Couleur de base pour le Hangar du Port
+Hangar B
+Hangar B
+Variant color for the Dock's Hangar
+Couleur alternative pour le Hangar du Port
+Hangar C
+Hangar C
+Hangar D
+Hangar D
+Lighthouse A
+Phare A
+Lighthouse B
+Phare B
+Lighthouse C
+Phare C
+Lighthouse D
+Phare D
+Battle Café A
+Battle Café A
+Base color for the Battle Café
+Couleur de base pour le Battle Café
+Battle Café B
+Battle Café B
+Variant color for the Battle Café
+Couleur alternative pour le Battle Café
+Battle Café C
+Battle Café C
+Battle Café D
+Battle Café D
+Grand Hotel A
+Grand Hotel A
+Base color for the Grand Hotel
+Couleur de base pour le Grand Hotel
+Grand Hotel B
+Grand Hotel B
+Variant color for the Grand Hotel
+Couleur alternative pour le Grand Hotel
+Grand Hotel C
+Grand Hotel C
+Grand Hotel D
+Grand Hotel D
+Battle Resto A
+Battle Resto A
+Base color for the Battle Resto
+Couleur de base pour le Battle Resto
+Battle Resto B
+Battle Resto B
+Variant color for the Battle Resto
+Couleur alternative pour le Battle Resto
+Battle Resto C
+Battle Resto C
+Battle Resto D
+Battle Resto D
+Radio Tower A
+Tour Radio A
+Base color for the Radio Tower
+Couleur de base pour la Tour Radio
+Radio Tower B
+Tour Radio B
+Variant color for the Radio Tower
+Couleur alternative pour la Tour Radio
+Radio Tower C
+Tour Radio C
+Radio Tower D
+Tour Radio D
+Lamp Posts A
+Lampadaires A
+Base lamp posts
+Lampadaires de base
+Lamp Posts B
+Lampadaires B
+Variant lamp posts
+Lampadaires alternatifs
+Lamp Posts C
+Lampadaires C
+Lamp Posts D
+Lampadaires D
+Docks' paving A
+Pavage du Port A
+Base docks' paving
+Pavage du Port de base
+Docks' paving B
+Pavage du Port B
+Variant docks' paving
+Pavage du Port alternatif
+Docks' paving C
+Pavage du Port C
+Docks' paving D
+Pavage du Port D
+Base flowers
+Fleurs de base
+Flowers B
+Fleurs B
+Variant flowers
+Fleurs alternatives
+Flowers C
+Fleurs C
+Flowers D
+Fleurs D
+Beauty stands A
+Stands de Beauté A
+Base stands for the Beauty market
+Stands de base pour le Marché de Beauté
+Beauty stands B
+Stands de Beauté B
+Variant stands for the Beauty market
+Stands alternatifs pour le Marché de Beauté
+Beauty stands C
+Stands de Beauté C
+Beauty stands D
+Stands de Beauté D
+Roads paving A
+Pavage des routes A
+Base roads paving
+Pavage des routes de base
+Roads paving B
+Pavage des routes B
+Variant roads paving
+Pavage des routes alternatif
+Roads paving C
+Pavage des routes C
+Roads paving D
+Pavage des routes D
+Café's terrace A
+Terrasse du café A
+Base café's terrace
+Terrasse du café de base
+Café's terrace B
+Terrasse du café B
+Variant café's terrace
+Terrasse du café alternative
+Café's terrace C
+Terrasse du café C
+Café's terrace D
+Terrasse du café D
+Resto's terrace A
+Terrasse du resto A
+Base resto's terrace
+Terrasse du resto de base
+Resto's terrace B
+Terrasse du resto B
+Variant resto's terrace
+Terrasse du resto alternative
+Resto's terrace C
+Terrasse du resto C
+Resto's terrace D
+Terrasse du resto D
+Sidewalk paving A
+Pavage des trottoirs A
+Base sidewalk paving
+Pavage des trottoirs de base
+Sidewalk paving B
+Pavage des trottoirs B
+Variant sidewalk paving
+Pavage des trottoirs alternatif
+Sidewalk paving C
+Pavage des trottoirs C
+Sidewalk paving D
+Pavage des trottoirs D
+Welcome dear Leader! Here are habitations variants!
+Bienvenue cher Leader ! Voici les variantes des habitations !
+Welcome dear Leader! Here are various buildings variants!
+Bienvenue cher Leader ! Voici les variantes des autres bâtiments !
+Welcome dear Leader! Here are external decorations variants!
+Bienvenue cher Leader ! Voici les variantes des décorations extérieures !
+Have a nice day, dear Leader!
+Passe une bonne soirée, cher Leader !
+Your house A
+Votre maison A
+Your house B
+Votre maison B
+Your house C
+Votre maison C
+Your house D
+Votre maison D
+Your house E
+Votre maison E
+Your house F
+Votre maison F
+Your house G
+Votre maison G
+Your house H
+Votre maison H
+Your house I
+Votre maison I
+Your house J
+Votre maison J
+Your house K
+Votre maison K
+Your house L
+Votre maison L
+Your house M
+Votre maison M
+This Incubator is empty\<<n>>Do you want to add an Egg?
+Cet Incubateur est vide.<<n>>Voulez-vous ajouter un oeuf ?
+The chosen Pokémon is not an Egg.
+Le Pokémon choisi n'est pas un oeuf.
+Do you want to add the egg to the incubator?
+Voulez-vous ajouter l'oeuf à l'Incubateur ?

@@ -117,7 +117,7 @@ Battle::AbilityEffects::MoveImmunity.add(:WELLBAKEDBODY,
 )
 
 #===============================================================================
-# Wind Rider & Cloud Bed
+# Wind Rider
 #===============================================================================
 Battle::AbilityEffects::MoveImmunity.add(:WINDRIDER,
   proc { |ability, user, target, move, type, battle, show_message|
@@ -142,42 +142,11 @@ Battle::AbilityEffects::MoveImmunity.add(:WINDRIDER,
   }
 )
 
-Battle::AbilityEffects::MoveImmunity.add(:CLOUDBED,
-  proc { |ability, user, target, move, type, battle, show_message|
-    next false if !move.windMove?
-    next false if user.index == target.index
-    if show_message
-      battle.pbShowAbilitySplash(target)
-      if target.pbCanRaiseStatStage?(:SPECIAL_ATTACK, user, move)
-        if Battle::Scene::USE_ABILITY_SPLASH
-          target.pbRaiseStatStage(:SPECIAL_ATTACK, 1, user)
-        else
-          target.pbRaiseStatStageByCause(:SPECIAL_ATTACK, 1, user, target.abilityName)
-        end
-      elsif Battle::Scene::USE_ABILITY_SPLASH
-        battle.pbDisplay(_INTL("It doesn't affect {1}...", target.pbThis(true)))
-      else
-        battle.pbDisplay(_INTL("{1}'s {2} made {3} ineffective!", target.pbThis, target.abilityName, move.name))
-      end
-      battle.pbHideAbilitySplash(target)
-    end
-    next true
-  }
-)
-
 Battle::AbilityEffects::OnSwitchIn.add(:WINDRIDER,
   proc { |ability, battler, battle, switch_in|
     next if battler.pbOwnSide.effects[PBEffects::Tailwind] <= 0
     next if !battler.pbCanRaiseStatStage?(:ATTACK, battler)
     battler.pbRaiseStatStageByAbility(:ATTACK, 1, battler)
-  }
-)
-
-Battle::AbilityEffects::OnSwitchIn.add(:CLOUDBED,
-  proc { |ability, battler, battle, switch_in|
-    next if battler.pbOwnSide.effects[PBEffects::Tailwind] <= 0
-    next if !battler.pbCanRaiseStatStage?(:SPECIAL_ATTACK, battler)
-    battler.pbRaiseStatStageByAbility(:SPECIAL_ATTACK, 1, battler)
   }
 )
 
@@ -291,11 +260,8 @@ Battle::AbilityEffects::OnBeingHit.add(:WINDPOWER,
 #===============================================================================
 Battle::AbilityEffects::EndOfRoundEffect.add(:CUDCHEW,
   proc { |ability, battler, battle|
-    echoln "Cud Chew Check"
     next if battler.item
-    echoln "Cud Chew Not have item"
     next if !battler.recycleItem || !GameData::Item.get(battler.recycleItem).is_berry?
-    echoln "Cud Chew recycle item"
     case battler.effects[PBEffects::CudChew]
     when 0 # End round after eat berry
       battler.effects[PBEffects::CudChew] += 1
@@ -386,6 +352,7 @@ Battle::AbilityEffects::OnSwitchOut.add(:ZEROTOHERO,
 Battle::AbilityEffects::OnSwitchIn.add(:COMMANDER,
   proc { |ability, battler, battle, switch_in|
     next if battler.effects[PBEffects::Commander]
+    next if battler.mega?
     next if defined?(battler.dynamax?) && battler.dynamax?
     showAnim = true
     battler.allAllies.each{|b|
@@ -393,11 +360,13 @@ Battle::AbilityEffects::OnSwitchIn.add(:COMMANDER,
       next if battle.choices[b.index][0] == :SwitchOut
       next if !b.isSpecies?(:DONDOZO)
       next if b.effects[PBEffects::Commander]
+      next if b.mega?
       next if defined?(b.dynamax?) && b.dynamax?
       battle.pbShowAbilitySplash(battler)
       battle.pbClearChoice(battler.index)
       battle.pbDisplay(_INTL("{1} goes inside the mouth of {2}!", battler.pbThis, b.pbThis(true)))
       battle.scene.sprites["pokemon_#{battler.index}"].visible = false
+      battle.scene.sprites["shadow_#{battler.index}"].visible = false
       b.effects[PBEffects::Commander] = [battler.index, battler.form]
       battler.effects[PBEffects::Commander] = [b.index]
       [:ATTACK, :DEFENSE, :SPECIAL_ATTACK, :SPECIAL_DEFENSE, :SPEED].each do |stat|

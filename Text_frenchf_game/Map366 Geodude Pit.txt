@@ -70,14 +70,14 @@ Pour pas que vous vous retrouviez dans un combat de trop haut niveau, vous pouve
 <b>Martha:</b> Il t’adore déjà ! Prends-le avec toi s’il te plaît !
 <b>Martha:</b> Take care of Chantilly!
 <b>Martha:</b> Prends soin de Chantilly!
-<b>Gregory:</b> I love speleology!
-<b>Gregory:</b> J’adore la spéléologie !
-<b>Patrice:</b> I love hiking!
-<b>Patrice:</b> J’adore la randonnée !
 <b>Martha:</b> Did you find my Pokémon? No? Please, take it back from them!
 <b>Martha:</b> Est-ce que tu as trouvé mon Pokémon ? Non ? S'il te plaît, reprend-leur !
 <b>Martha:</b> Did you find my Pokémon? Yes! You got it!!
 <b>Martha:</b> Est-ce que tu as trouvé mon Pokémon ? Oui ! Tu l'as récupéré !
+<b>Gregory:</b> I love speleology!
+<b>Gregory:</b> J’adore la spéléologie !
+<b>Patrice:</b> I love hiking!
+<b>Patrice:</b> J’adore la randonnée !
 <b>Girl voice:</b> Are you for real??
 <b>Voix féminine:</b> Mais t’es sérieux ??
 <b>Girl voice:</b> We got the target, mission is complete, and you manage to fall down to the bottom of the pit???

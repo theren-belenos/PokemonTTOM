@@ -13,6 +13,6 @@ Il n'y a que des déchets là-dedans.
 <b>Elder:</b> Take this. I don't need it anymore anyways.
 <b>Ancien:</b> Prends ceci. Je n'en ai plus besoin de toute façon.
 <b>Elder:</b> Stay safe during your journey.
-<b>Ancien:</b> Sois prudent pendant tes aventures.
+<b>Ancien:</b> Sois prudente pendant tes aventures.
 <b>Granny:</b> Oh hello little one! Aren't you cute??
-<b>Mamie:</b> Oh bonjour jeune enfant ! N'es-tu pas mignon ??
+<b>Mamie:</b> Oh bonjour jeune fille ! N'es-tu pas mignonne ??
